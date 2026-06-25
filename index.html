@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<meta name="theme-color" content="#0B1220" />
+<title>Vitta Wire — Banking & Economics, live</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0B1220;
+    --surface:#131C2E;
+    --surface-2:#1B2740;
+    --border:#26324d;
+    --text:#E8EDF6;
+    --muted:#8A99B5;
+    --india:#E0B453;     /* gold — RBI / domestic */
+    --world:#4FD1C5;     /* teal — global */
+    --up:#4FD1C5;
+    --down:#F2727B;
+    --new:#E0B453;
+    --shadow:0 8px 30px rgba(0,0,0,.35);
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{margin:0;padding:0}
+  body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:'IBM Plex Sans',system-ui,sans-serif;
+    line-height:1.45;
+    padding-bottom:env(safe-area-inset-bottom);
+    overscroll-behavior-y:contain;
+  }
+  /* ---------- Masthead ---------- */
+  header{
+    position:sticky;top:0;z-index:50;
+    background:linear-gradient(180deg,#0B1220 70%,rgba(11,18,32,.85));
+    border-bottom:1px solid var(--border);
+    padding:14px 16px calc(env(safe-area-inset-top) + 10px);
+    backdrop-filter:saturate(140%) blur(6px);
+  }
+  .masthead{display:flex;align-items:baseline;justify-content:space-between;gap:10px}
+  .brand{display:flex;flex-direction:column;line-height:1}
+  .brand h1{
+    font-family:'IBM Plex Serif',Georgia,serif;
+    font-weight:700;font-size:23px;letter-spacing:.5px;margin:0;
+    color:var(--text);
+  }
+  .brand h1 .gold{color:var(--india)}
+  .brand .sub{font-size:10.5px;letter-spacing:2px;text-transform:uppercase;color:var(--muted);margin-top:5px}
+  .clock{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--muted);text-align:right;white-space:nowrap}
+  .clock .dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--up);margin-right:5px;vertical-align:middle}
+  .clock .dot.fetching{background:var(--india);animation:pulse 1s infinite}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+
+  /* ---------- Ticker / status bar (signature) ---------- */
+  .ticker{
+    margin-top:11px;display:flex;align-items:center;gap:10px;
+    font-family:'IBM Plex Mono',monospace;font-size:11.5px;color:var(--muted);
+    border-top:1px solid var(--border);padding-top:9px;flex-wrap:wrap;
+  }
+  .ticker b{color:var(--text);font-weight:600}
+  .ticker .new-pill{
+    background:rgba(224,180,83,.14);color:var(--india);
+    border:1px solid rgba(224,180,83,.4);border-radius:999px;
+    padding:2px 9px;font-weight:600;cursor:pointer;
+  }
+  .ticker .new-pill.zero{opacity:.5;color:var(--muted);border-color:var(--border);background:transparent}
+
+  /* ---------- Tabs ---------- */
+  nav.tabs{display:flex;gap:0;padding:0 8px;border-bottom:1px solid var(--border);position:sticky;top:0;z-index:40;background:var(--bg)}
+  nav.tabs button{
+    flex:1;background:none;border:none;color:var(--muted);
+    font-family:'IBM Plex Sans';font-weight:600;font-size:14px;
+    padding:13px 6px 11px;cursor:pointer;position:relative;letter-spacing:.3px;
+  }
+  nav.tabs button .badge{font-family:'IBM Plex Mono';font-size:10px;color:var(--muted);margin-left:5px}
+  nav.tabs button.active{color:var(--text)}
+  nav.tabs button.active::after{content:"";position:absolute;left:14%;right:14%;bottom:-1px;height:2.5px;border-radius:3px;background:var(--accent,var(--india))}
+  nav.tabs button[data-scope="india"].active::after{background:var(--india)}
+  nav.tabs button[data-scope="world"].active::after{background:var(--world)}
+  nav.tabs button[data-scope="all"].active::after{background:#fff}
+
+  /* ---------- Controls ---------- */
+  .controls{padding:12px 14px 4px;display:flex;gap:8px;align-items:center}
+  .search{flex:1;position:relative}
+  .search input{
+    width:100%;background:var(--surface);border:1px solid var(--border);
+    color:var(--text);border-radius:10px;padding:10px 12px 10px 34px;font-size:14px;font-family:inherit;
+  }
+  .search input::placeholder{color:var(--muted)}
+  .search svg{position:absolute;left:10px;top:50%;transform:translateY(-50%);width:15px;height:15px;stroke:var(--muted);fill:none;stroke-width:2}
+  .icon-btn{
+    background:var(--surface);border:1px solid var(--border);border-radius:10px;
+    width:42px;height:42px;display:grid;place-items:center;cursor:pointer;color:var(--text);
+  }
+  .icon-btn svg{width:18px;height:18px;stroke:currentColor;fill:none;stroke-width:2}
+  .icon-btn.spin svg{animation:spin .8s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+
+  .chips{display:flex;gap:7px;overflow-x:auto;padding:10px 14px 6px;scrollbar-width:none}
+  .chips::-webkit-scrollbar{display:none}
+  .chip{
+    white-space:nowrap;background:var(--surface);border:1px solid var(--border);
+    color:var(--muted);border-radius:999px;padding:6px 13px;font-size:12.5px;cursor:pointer;font-weight:500;
+  }
+  .chip.active{color:var(--bg);background:var(--india);border-color:var(--india);font-weight:600}
+  .scope-world .chip.active{background:var(--world);border-color:var(--world)}
+
+  /* ---------- Feed ---------- */
+  main{padding:6px 14px 90px}
+  .card{
+    background:var(--surface);border:1px solid var(--border);border-radius:14px;
+    padding:14px 15px;margin-top:11px;position:relative;overflow:hidden;
+    display:block;text-decoration:none;color:inherit;
+    transition:border-color .15s,transform .05s;
+  }
+  .card:active{transform:scale(.992)}
+  .card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--india)}
+  .card.world::before{background:var(--world)}
+  .card .meta{display:flex;align-items:center;gap:8px;margin-bottom:7px;flex-wrap:wrap}
+  .card .src{
+    font-family:'IBM Plex Mono';font-size:10.5px;letter-spacing:.4px;text-transform:uppercase;
+    color:var(--india);font-weight:600;
+  }
+  .card.world .src{color:var(--world)}
+  .card .time{font-family:'IBM Plex Mono';font-size:10.5px;color:var(--muted)}
+  .card .new{
+    font-family:'IBM Plex Mono';font-size:9.5px;font-weight:600;letter-spacing:.5px;
+    background:rgba(224,180,83,.16);color:var(--new);border:1px solid rgba(224,180,83,.4);
+    border-radius:4px;padding:1px 6px;text-transform:uppercase;
+  }
+  .card h3{
+    margin:0;font-size:15.5px;font-weight:600;line-height:1.34;font-family:'IBM Plex Sans';
+    color:var(--text);
+  }
+  .card .desc{margin:7px 0 0;font-size:12.5px;color:var(--muted);line-height:1.4;
+    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+
+  /* ---------- States ---------- */
+  .state{text-align:center;padding:60px 24px;color:var(--muted)}
+  .state .big{font-family:'IBM Plex Serif';font-size:18px;color:var(--text);margin-bottom:8px}
+  .state p{font-size:13.5px;margin:6px 0;max-width:320px;display:inline-block}
+  .state button{margin-top:14px;background:var(--india);color:var(--bg);border:none;border-radius:10px;padding:11px 20px;font-weight:600;font-family:inherit;font-size:14px;cursor:pointer}
+  .skeleton{height:92px;border-radius:14px;margin-top:11px;background:linear-gradient(90deg,var(--surface) 25%,var(--surface-2) 50%,var(--surface) 75%);background-size:200% 100%;animation:sk 1.3s infinite}
+  @keyframes sk{to{background-position:-200% 0}}
+
+  /* ---------- Settings sheet ---------- */
+  .overlay{position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:80;display:none}
+  .overlay.open{display:block}
+  .sheet{
+    position:fixed;left:0;right:0;bottom:0;max-height:86vh;overflow-y:auto;z-index:90;
+    background:var(--bg);border-top:1px solid var(--border);border-radius:20px 20px 0 0;
+    transform:translateY(100%);transition:transform .25s ease;padding-bottom:calc(env(safe-area-inset-bottom) + 20px)
+  }
+  .sheet.open{transform:translateY(0)}
+  .sheet .grip{width:42px;height:4px;border-radius:3px;background:var(--border);margin:10px auto 4px}
+  .sheet h2{font-family:'IBM Plex Serif';font-size:20px;margin:8px 18px 2px}
+  .sheet .section-label{font-family:'IBM Plex Mono';font-size:10.5px;letter-spacing:1.5px;text-transform:uppercase;color:var(--muted);margin:20px 18px 8px}
+  .src-row{display:flex;align-items:center;gap:11px;padding:11px 18px;border-top:1px solid var(--border)}
+  .src-row .info{flex:1;min-width:0}
+  .src-row .info .n{font-weight:600;font-size:14px}
+  .src-row .info .tag{font-family:'IBM Plex Mono';font-size:10px;color:var(--muted);text-transform:uppercase}
+  .src-row .info .tag.india{color:var(--india)}
+  .src-row .info .tag.world{color:var(--world)}
+  .src-row .del{background:none;border:none;color:var(--down);cursor:pointer;font-size:13px;font-weight:600}
+  /* toggle */
+  .tg{width:42px;height:25px;border-radius:999px;background:var(--surface-2);border:1px solid var(--border);position:relative;cursor:pointer;flex:0 0 auto;transition:background .15s}
+  .tg.on{background:var(--india)}
+  .tg::after{content:"";position:absolute;top:2px;left:2px;width:19px;height:19px;border-radius:50%;background:#fff;transition:left .15s}
+  .tg.on::after{left:19px}
+  .add-form{padding:12px 18px 4px;display:flex;flex-direction:column;gap:9px}
+  .add-form input,.add-form select{background:var(--surface);border:1px solid var(--border);color:var(--text);border-radius:9px;padding:11px 12px;font-size:14px;font-family:inherit}
+  .add-form .row{display:flex;gap:9px}
+  .add-form .row select{flex:0 0 120px}
+  .add-form .row input{flex:1}
+  .add-btn{background:var(--surface-2);border:1px solid var(--border);color:var(--text);border-radius:9px;padding:11px;font-weight:600;font-family:inherit;font-size:14px;cursor:pointer}
+  .note{margin:10px 18px;padding:13px 15px;background:rgba(79,209,197,.07);border:1px solid rgba(79,209,197,.25);border-radius:12px;font-size:12.5px;color:var(--text)}
+  .note b{color:var(--world)}
+  .note code{font-family:'IBM Plex Mono';font-size:11px;background:var(--surface);padding:1px 5px;border-radius:4px;color:var(--india)}
+  .wa-status{display:inline-flex;align-items:center;gap:6px;font-family:'IBM Plex Mono';font-size:11px;color:var(--muted)}
+  .wa-status .d{width:7px;height:7px;border-radius:50%;background:var(--down)}
+  .refresh-opt{display:flex;align-items:center;justify-content:space-between;padding:12px 18px;border-top:1px solid var(--border)}
+  .refresh-opt select{background:var(--surface);border:1px solid var(--border);color:var(--text);border-radius:8px;padding:8px 10px;font-family:inherit;font-size:13px}
+  .close-sheet{margin:18px;width:calc(100% - 36px);background:var(--india);color:var(--bg);border:none;border-radius:11px;padding:13px;font-weight:600;font-size:15px;font-family:inherit;cursor:pointer}
+</style>
+</head>
+<body>
+<header>
+  <div class="masthead">
+    <div class="brand">
+      <h1>VITTA<span class="gold"> WIRE</span></h1>
+      <span class="sub">Regulator to global · banking live</span>
+    </div>
+    <div class="clock"><span class="dot" id="statusDot"></span><span id="clock">--:--:--</span></div>
+  </div>
+  <div class="ticker">
+    <span>Updated <b id="lastUpdated">—</b></span>
+    <span>·</span>
+    <span><b id="itemCount">0</b> stories</span>
+    <span class="new-pill zero" id="newPill" title="Mark all as read">0 new</span>
+  </div>
+</header>
+
+<nav class="tabs">
+  <button data-scope="india" class="active">India <span class="badge" id="c-india"></span></button>
+  <button data-scope="world">World <span class="badge" id="c-world"></span></button>
+  <button data-scope="all">All <span class="badge" id="c-all"></span></button>
+</nav>
+
+<div class="controls">
+  <div class="search">
+    <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg>
+    <input id="search" placeholder="Search headlines…" />
+  </div>
+  <button class="icon-btn" id="refreshBtn" title="Refresh">
+    <svg viewBox="0 0 24 24"><polyline points="23 4 23 10 17 10"/><path d="M20.5 15a9 9 0 1 1-2-9.5L23 10"/></svg>
+  </button>
+  <button class="icon-btn" id="settingsBtn" title="Settings">
+    <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09a1.65 1.65 0 0 0-1-1.51 1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09a1.65 1.65 0 0 0 1.51-1 1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+  </button>
+</div>
+
+<div class="chips" id="chips"></div>
+
+<main id="feed"></main>
+
+<!-- Settings -->
+<div class="overlay" id="overlay"></div>
+<div class="sheet" id="sheet">
+  <div class="grip"></div>
+  <h2>Settings</h2>
+
+  <div class="section-label">Auto-refresh</div>
+  <div class="refresh-opt">
+    <span style="font-size:14px">Check for new stories every</span>
+    <select id="intervalSel">
+      <option value="0">Manual only</option>
+      <option value="300000">5 min</option>
+      <option value="600000" selected>10 min</option>
+      <option value="900000">15 min</option>
+      <option value="1800000">30 min</option>
+    </select>
+  </div>
+
+  <div class="section-label">WhatsApp alerts</div>
+  <div class="note">
+    <span class="wa-status"><span class="d"></span>Not connected</span><br><br>
+    WhatsApp push runs from the free companion (GitHub Actions + CallMeBot) — the web app can't message you on its own. Once set up, every new story here is delivered to your number. Connect it from the companion file, then this shows <b>Active</b>.
+  </div>
+
+  <div class="section-label">Sources</div>
+  <div id="srcList"></div>
+
+  <div class="section-label">Add a source</div>
+  <div class="add-form">
+    <input id="addName" placeholder="Name (e.g. RBI Notifications)" />
+    <div class="row">
+      <select id="addScope"><option value="india">India</option><option value="world">World</option></select>
+      <input id="addUrl" placeholder="RSS feed URL" />
+    </div>
+    <button class="add-btn" id="addBtn">Add source</button>
+  </div>
+  <div class="note">
+    Tip: paste any RSS feed URL. For a topic, use a Google News feed:<br>
+    <code>https://news.google.com/rss/search?q=YOUR+TOPIC&hl=en-IN&gl=IN&ceid=IN:en</code>
+  </div>
+
+  <button class="close-sheet" id="closeSheet">Done</button>
+</div>
+
+<script>
+/* ----------------------------------------------------------
+   Vitta Wire — banking & economics news aggregator
+   Single-file. Live RSS via CORS proxy. localStorage state.
+---------------------------------------------------------- */
+"use strict";
+
+/* ---- safe storage (degrades to memory if blocked) ---- */
+const mem = {};
+const store = {
+  get(k){ try{ const v=localStorage.getItem(k); return v??mem[k]??null; }catch(e){ return mem[k]??null; } },
+  set(k,v){ try{ localStorage.setItem(k,v); }catch(e){} mem[k]=v; }
+};
+
+/* ---- default sources (Google News feeds = reliable, current) ---- */
+const DEFAULT_SOURCES = [
+  { id:'rbi',   name:'RBI',                scope:'india', enabled:true, url:'https://news.google.com/rss/search?q=%22Reserve%20Bank%20of%20India%22%20OR%20RBI%20policy&hl=en-IN&gl=IN&ceid=IN:en' },
+  { id:'sebi',  name:'SEBI',               scope:'india', enabled:true, url:'https://news.google.com/rss/search?q=SEBI%20markets%20regulator&hl=en-IN&gl=IN&ceid=IN:en' },
+  { id:'nabard',name:'NABARD',             scope:'india', enabled:true, url:'https://news.google.com/rss/search?q=NABARD%20rural%20agriculture%20finance&hl=en-IN&gl=IN&ceid=IN:en' },
+  { id:'sidbi', name:'SIDBI / MSME',       scope:'india', enabled:true, url:'https://news.google.com/rss/search?q=SIDBI%20OR%20%22MSME%20credit%22%20India&hl=en-IN&gl=IN&ceid=IN:en' },
+  { id:'banks', name:'Indian Banking',     scope:'india', enabled:true, url:'https://news.google.com/rss/search?q=Indian%20banking%20sector%20NPA%20deposits%20credit&hl=en-IN&gl=IN&ceid=IN:en' },
+  { id:'econ',  name:'Indian Economy',     scope:'india', enabled:true, url:'https://news.google.com/rss/search?q=India%20economy%20inflation%20GDP%20RBI&hl=en-IN&gl=IN&ceid=IN:en' },
+  { id:'fed',   name:'US Federal Reserve', scope:'world', enabled:true, url:'https://news.google.com/rss/search?q=Federal%20Reserve%20interest%20rates&hl=en-US&gl=US&ceid=US:en' },
+  { id:'ecb',   name:'ECB / Europe',       scope:'world', enabled:true, url:'https://news.google.com/rss/search?q=European%20Central%20Bank%20OR%20Bank%20of%20England&hl=en&gl=US&ceid=US:en' },
+  { id:'imf',   name:'IMF / World Bank',   scope:'world', enabled:true, url:'https://news.google.com/rss/search?q=IMF%20OR%20%22World%20Bank%22%20global%20economy&hl=en&gl=US&ceid=US:en' },
+  { id:'gbank', name:'Global Banking',     scope:'world', enabled:true, url:'https://news.google.com/rss/search?q=global%20banking%20regulation%20Basel%20banks&hl=en&gl=US&ceid=US:en' },
+];
+
+/* ---- CORS proxies (tried in order; reliable ones first) ---- */
+const PROXIES = [
+  u => 'https://api.codetabs.com/v1/proxy/?quest=' + encodeURIComponent(u),
+  u => 'https://api.allorigins.win/raw?url=' + encodeURIComponent(u),
+  u => 'https://api.allorigins.win/get?url=' + encodeURIComponent(u),
+  u => 'https://corsproxy.io/?url=' + encodeURIComponent(u),
+];
+
+let sources = loadSources();
+let allItems = [];
+let scope = 'india';
+let activeSource = null;   // null = all sources in scope
+let searchTerm = '';
+let refreshTimer = null;
+
+function loadSources(){
+  const raw = store.get('vw_sources');
+  if(raw){ try{ return JSON.parse(raw); }catch(e){} }
+  return DEFAULT_SOURCES.map(s=>({...s}));
+}
+function saveSources(){ store.set('vw_sources', JSON.stringify(sources)); }
+
+/* ---------- fetching ---------- */
+async function fetchWithTimeout(url, ms){
+  const ctrl = new AbortController();
+  const t = setTimeout(()=>ctrl.abort(), ms);
+  try{ return await fetch(url, { cache:'no-store', signal:ctrl.signal }); }
+  finally{ clearTimeout(t); }
+}
+async function fetchViaProxy(url){
+  let lastErr;
+  for(const make of PROXIES){
+    try{
+      const res = await fetchWithTimeout(make(url), 9000);
+      if(!res.ok) throw new Error('HTTP '+res.status);
+      let text = await res.text();
+      // allorigins /get wraps content as JSON {contents:"..."}
+      if(text && text.trim().startsWith('{') && text.includes('"contents"')){
+        try{ text = JSON.parse(text).contents || text; }catch(e){}
+      }
+      if(text && text.length > 80) return text;
+      throw new Error('empty response');
+    }catch(e){ lastErr = e; }
+  }
+  throw lastErr || new Error('all proxies failed');
+}
+
+function parseFeed(xmlText, src){
+  const doc = new DOMParser().parseFromString(xmlText, 'text/xml');
+  const nodes = [...doc.querySelectorAll('item, entry')];
+  return nodes.map(n => {
+    const get = sel => n.querySelector(sel)?.textContent?.trim() || '';
+    let title = get('title');
+    let link = get('link') || n.querySelector('link')?.getAttribute('href') || '';
+    const pub = get('pubDate') || get('published') || get('updated');
+    let publisher = n.querySelector('source')?.textContent?.trim() || '';
+    // Google News titles look like "Headline - Publisher"
+    if(!publisher && title.includes(' - ')){
+      const parts = title.split(' - ');
+      publisher = parts[parts.length-1].trim();
+      title = parts.slice(0,-1).join(' - ').trim();
+    }
+    let desc = get('description') || get('summary') || '';
+    desc = desc.replace(/<[^>]+>/g,'').replace(/&nbsp;/g,' ').trim();
+    if(desc.length > 220) desc = desc.slice(0,220)+'…';
+    const ts = pub ? Date.parse(pub) : NaN;
+    return {
+      title, link, desc,
+      publisher: publisher || src.name,
+      srcName: src.name, scope: src.scope,
+      ts: isNaN(ts) ? Date.now() : ts,
+      id: (link || title).slice(0,200)
+    };
+  }).filter(i => i.title);
+}
+
+async function fetchAll(){
+  setFetching(true);
+
+  // Primary: read the pre-fetched news.json built by the cloud job (same origin, always works)
+  let items = null, updated = Date.now();
+  try{
+    const r = await fetchWithTimeout('news.json?t=' + Date.now(), 9000);
+    if(r.ok){
+      const j = await r.json();
+      if(Array.isArray(j.items) && j.items.length){
+        items = j.items.map(i => ({ ...i, srcName: i.source }));
+        if(j.updated) updated = Date.parse(j.updated) || Date.now();
+      }
+    }
+  }catch(e){ /* fall through to live fetch */ }
+
+  // Fallback: live fetch via proxies (used before first cloud run, or if opened locally)
+  if(!items){ items = await liveFetch(); }
+
+  const seen = new Map();
+  (items||[]).forEach(i => { if(!seen.has(i.id)) seen.set(i.id, i); });
+  allItems = [...seen.values()].sort((a,b)=> b.ts - a.ts);
+
+  store.set('vw_lastfetch', String(updated));
+  setFetching(false);
+  render();
+
+  if(allItems.length === 0){
+    document.getElementById('feed').innerHTML = errorState();
+  }
+}
+
+async function liveFetch(){
+  const enabled = sources.filter(s=>s.enabled);
+  const results = await Promise.allSettled(enabled.map(async s=>{
+    const xml = await fetchViaProxy(s.url);
+    return parseFeed(xml, s);
+  }));
+  const merged = [];
+  results.forEach(r => { if(r.status==='fulfilled') merged.push(...r.value); });
+  return merged;
+}
+
+/* ---------- "new since last read" ---------- */
+function lastRead(){ return Number(store.get('vw_lastread') || 0); }
+function markAllRead(){
+  store.set('vw_lastread', String(Date.now()));
+  render();
+}
+
+/* ---------- rendering ---------- */
+function visibleItems(){
+  return allItems.filter(i=>{
+    if(scope !== 'all' && i.scope !== scope) return false;
+    if(activeSource && i.srcName !== activeSource) return false;
+    if(searchTerm && !(i.title+' '+i.desc).toLowerCase().includes(searchTerm)) return false;
+    return true;
+  });
+}
+
+function relTime(ts){
+  const s = Math.floor((Date.now()-ts)/1000);
+  if(s<60) return 'just now';
+  const m=Math.floor(s/60); if(m<60) return m+'m ago';
+  const h=Math.floor(m/60); if(h<24) return h+'h ago';
+  const d=Math.floor(h/24); if(d<7) return d+'d ago';
+  return new Date(ts).toLocaleDateString('en-IN',{day:'numeric',month:'short'});
+}
+
+function render(){
+  // tab counts
+  document.getElementById('c-india').textContent = allItems.filter(i=>i.scope==='india').length || '';
+  document.getElementById('c-world').textContent = allItems.filter(i=>i.scope==='world').length || '';
+  document.getElementById('c-all').textContent   = allItems.length || '';
+
+  renderChips();
+
+  const items = visibleItems();
+  const cutoff = lastRead();
+  const newCount = allItems.filter(i=>i.ts>cutoff).length;
+  const pill = document.getElementById('newPill');
+  pill.textContent = newCount + ' new';
+  pill.classList.toggle('zero', newCount===0);
+
+  document.getElementById('itemCount').textContent = allItems.length;
+  const lf = Number(store.get('vw_lastfetch')||0);
+  document.getElementById('lastUpdated').textContent = lf ? relTime(lf) : '—';
+
+  const feed = document.getElementById('feed');
+  if(items.length === 0){
+    feed.innerHTML = allItems.length===0 ? '' : emptyState();
+    return;
+  }
+  feed.innerHTML = items.map(i=>{
+    const isNew = i.ts > cutoff;
+    return `<a class="card ${i.scope==='world'?'world':''}" href="${esc(i.link)}" target="_blank" rel="noopener">
+      <div class="meta">
+        <span class="src">${esc(i.srcName)}</span>
+        ${isNew?'<span class="new">New</span>':''}
+        <span class="time">${esc(i.publisher)} · ${relTime(i.ts)}</span>
+      </div>
+      <h3>${esc(i.title)}</h3>
+      ${i.desc?`<p class="desc">${esc(i.desc)}</p>`:''}
+    </a>`;
+  }).join('');
+}
+
+function renderChips(){
+  const wrap = document.getElementById('chips');
+  document.body.classList.toggle('scope-world', scope==='world');
+  const names = [...new Set(allItems.filter(i=>scope==='all'||i.scope===scope).map(i=>i.srcName))];
+  let html = `<button class="chip ${activeSource===null?'active':''}" data-src="">All sources</button>`;
+  names.forEach(n=>{
+    html += `<button class="chip ${activeSource===n?'active':''}" data-src="${esc(n)}">${esc(n)}</button>`;
+  });
+  wrap.innerHTML = html;
+  wrap.querySelectorAll('.chip').forEach(c=>{
+    c.onclick = ()=>{ activeSource = c.dataset.src || null; render(); };
+  });
+}
+
+function emptyState(){
+  return `<div class="state"><div class="big">Nothing here yet</div>
+    <p>No stories match this filter. Try another tab, clear the search, or switch sources.</p></div>`;
+}
+function errorState(){
+  return `<div class="state"><div class="big">Couldn't reach the feeds</div>
+    <p>The relay services are slow or busy right now — tap Retry once or twice. If it keeps failing when opened from Downloads, hosting the file online fixes it for good.</p>
+    <button onclick="fetchAll()">Retry</button></div>`;
+}
+function loadingState(){
+  let s=''; for(let i=0;i<5;i++) s+='<div class="skeleton"></div>'; return s;
+}
+
+function esc(s){ return String(s).replace(/[&<>"']/g, m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m])); }
+
+/* ---------- settings: source list ---------- */
+function renderSrcList(){
+  const list = document.getElementById('srcList');
+  list.innerHTML = sources.map((s,idx)=>`
+    <div class="src-row">
+      <div class="info">
+        <div class="n">${esc(s.name)}</div>
+        <div class="tag ${s.scope}">${s.scope}</div>
+      </div>
+      <button class="del" data-del="${idx}">Remove</button>
+      <div class="tg ${s.enabled?'on':''}" data-tg="${idx}"></div>
+    </div>`).join('');
+  list.querySelectorAll('[data-tg]').forEach(t=>{
+    t.onclick=()=>{ const i=+t.dataset.tg; sources[i].enabled=!sources[i].enabled; saveSources(); renderSrcList(); render(); };
+  });
+  list.querySelectorAll('[data-del]').forEach(b=>{
+    b.onclick=()=>{ sources.splice(+b.dataset.del,1); saveSources(); renderSrcList(); render(); };
+  });
+}
+
+/* ---------- status / clock ---------- */
+function setFetching(on){
+  document.getElementById('statusDot').classList.toggle('fetching', on);
+  document.getElementById('refreshBtn').classList.toggle('spin', on);
+}
+function tickClock(){
+  const now = new Date();
+  document.getElementById('clock').textContent =
+    now.toLocaleTimeString('en-IN',{hour12:false}) + ' IST';
+}
+setInterval(tickClock, 1000); tickClock();
+
+/* ---------- auto refresh ---------- */
+function setupAutoRefresh(){
+  if(refreshTimer) clearInterval(refreshTimer);
+  const ms = Number(store.get('vw_interval') || 600000);
+  document.getElementById('intervalSel').value = String(ms);
+  if(ms>0) refreshTimer = setInterval(fetchAll, ms);
+}
+
+/* ---------- wire up UI ---------- */
+document.querySelectorAll('nav.tabs button').forEach(btn=>{
+  btn.onclick=()=>{
+    document.querySelectorAll('nav.tabs button').forEach(b=>b.classList.remove('active'));
+    btn.classList.add('active');
+    scope = btn.dataset.scope;
+    activeSource = null;
+    render();
+    window.scrollTo({top:0,behavior:'smooth'});
+  };
+});
+document.getElementById('search').addEventListener('input', e=>{
+  searchTerm = e.target.value.toLowerCase().trim(); render();
+});
+document.getElementById('refreshBtn').onclick = fetchAll;
+document.getElementById('newPill').onclick = markAllRead;
+
+const overlay=document.getElementById('overlay'), sheet=document.getElementById('sheet');
+function openSheet(){ overlay.classList.add('open'); sheet.classList.add('open'); renderSrcList(); }
+function closeSheet(){ overlay.classList.remove('open'); sheet.classList.remove('open'); }
+document.getElementById('settingsBtn').onclick = openSheet;
+document.getElementById('closeSheet').onclick = closeSheet;
+overlay.onclick = closeSheet;
+
+document.getElementById('addBtn').onclick = ()=>{
+  const name=document.getElementById('addName').value.trim();
+  const url=document.getElementById('addUrl').value.trim();
+  const sc=document.getElementById('addScope').value;
+  if(!name || !url){ alert('Add a name and an RSS URL.'); return; }
+  sources.push({ id:'u'+Date.now(), name, scope:sc, enabled:true, url });
+  saveSources(); renderSrcList(); render();
+  document.getElementById('addName').value=''; document.getElementById('addUrl').value='';
+};
+document.getElementById('intervalSel').onchange = e=>{
+  store.set('vw_interval', e.target.value); setupAutoRefresh();
+};
+
+/* ---------- boot ---------- */
+document.getElementById('feed').innerHTML = loadingState();
+setupAutoRefresh();
+fetchAll();
+</script>
+</body>
+</html>
