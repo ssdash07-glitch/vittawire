@@ -1,15 +1,275 @@
 {
- "updated": "2026-06-29T00:19:21.226336+00:00",
+ "updated": "2026-06-29T14:53:01.893703+00:00",
  "items": [
   {
-   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLXI4UkRGd2R4NC1sRzY5N0dMLTkxSG8yWGNKTzJjUUs5NGxYcGI0SG9JZ25SVGlOX05yRjNmemVIQXNPTVlfU3pRVUxMRDlGb3Rtc3F4dHRLWHUyWHhqR2lENkZjcTZhc2V3a3RWV3F2SXdubXQ",
-   "title": "The Federal Reserve Has New Rules for Stablecoins. Circle Could Be The Biggest Winner - AOL.com",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLXI4UkRGd2R4NC1sRzY5N0dMLTkxSG8yWGNKTzJjUUs5NGxYcGI0SG9JZ25SVGlOX05yRjNmemVIQXNPTVlfU3pRVUxMRDlGb3Rtc3F4dHRLWHUyWHhqR2lENkZjcTZhc2V3a3RWV3F2SXdubXQtd2N3ZGdFYWVMeDQ2YkdMVjlhbkE?oc=5",
-   "desc": "The Federal Reserve Has New Rules for Stablecoins. Circle Could Be The Biggest Winner  AOL.com",
+   "id": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUVpWVW5fZlFJRnV1QnctZV9zNXNTTzlUNmozbDJ1bi10WGhpZ296TnFDNXUtQUx4Z3JWeVVYT0k0MkZxaktwZUtkeGg0RjBjM0VLR1R4VGtJczMyR3Y4UVJ6WVZaY3M3SE9CUXdtdzBpWGxhQ0l",
+   "title": "Supreme Court says Fed’s Lisa Cook can keep her job for now, but it upholds other Donald Trump firings - Florida Politics",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUVpWVW5fZlFJRnV1QnctZV9zNXNTTzlUNmozbDJ1bi10WGhpZ296TnFDNXUtQUx4Z3JWeVVYT0k0MkZxaktwZUtkeGg0RjBjM0VLR1R4VGtJczMyR3Y4UVJ6WVZaY3M3SE9CUXdtdzBpWGxhQ0lROUJPbk1xcENhSl9rQmxKWGpTWG1RSmNRN0VucGZoUDM5eExqNWlUNUhUdXJvYzFCSXUwOGtCRnNrZDNHLTRfMUdSWTNlUHJBWEdWel81eENZZEU3RTBjMEoya2hRbFlTcFI4QUVuWmc?oc=5",
+   "desc": "Supreme Court says Fed’s Lisa Cook can keep her job for now, but it upholds other Donald Trump firings  Florida Politics",
+   "source": "US Fed",
+   "publisher": "Florida Politics",
+   "scope": "world",
+   "ts": 1782743825000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUFNlUlB0R3JhOTJlNUlYVmNhMzNvQWV1TlZabUJnc3RrdE1XVTJxMzFyb0lOVXByRkFBN3YtS3BPQl9CRUxlZlZ3MlQwTGZZSFBJNmxuMkNxXzNCeWZDV1J1OHJUQmNudkxuYi04dmJKdmtBTDJ",
+   "title": "Supreme Court, for now, blocks Trump from firing Federal Reserve Board appointee - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUFNlUlB0R3JhOTJlNUlYVmNhMzNvQWV1TlZabUJnc3RrdE1XVTJxMzFyb0lOVXByRkFBN3YtS3BPQl9CRUxlZlZ3MlQwTGZZSFBJNmxuMkNxXzNCeWZDV1J1OHJUQmNudkxuYi04dmJKdmtBTDJTUm5tQUozLVI0VHBmcXRLNHZFNV9zX3A2N2VMUWkzTE5palpxVTNpT05UUk5jMmljRkNFMDk1QVllNXJHa0VmY0t4YVZ5TTd3?oc=5",
+   "desc": "Supreme Court, for now, blocks Trump from firing Federal Reserve Board appointee  The Washington Post",
+   "source": "US Fed",
+   "publisher": "The Washington Post",
+   "scope": "world",
+   "ts": 1782743791000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGdQOFdkdi1iR0dmX0RqQ3RYLU5sNXJJeVQ4VTczcUFuYmpPY042Nkh6bzMwd0tlWnJWNElrTkllMnVuNU9JZ0pvc1NYekVzRXMwZWVpRUhtbmtuelRxZE94ck9QRjh4NnJScHVKS2V0RUliT1l",
+   "title": "US supreme court rules Trump’s firing of Lisa Cook from Fed was unconstitutional - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGdQOFdkdi1iR0dmX0RqQ3RYLU5sNXJJeVQ4VTczcUFuYmpPY042Nkh6bzMwd0tlWnJWNElrTkllMnVuNU9JZ0pvc1NYekVzRXMwZWVpRUhtbmtuelRxZE94ck9QRjh4NnJScHVKS2V0RUliT1lJQUduQjVhNGRqa0R6d1RtdVh0RFJ5aA?oc=5",
+   "desc": "US supreme court rules Trump’s firing of Lisa Cook from Fed was unconstitutional  The Guardian",
+   "source": "US Fed",
+   "publisher": "The Guardian",
+   "scope": "world",
+   "ts": 1782742860000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTlRqQ3VrTjNnWVR0Mnh5cGotRjdxWlE1QTNsOHFVb2JiZVpyRXhQbDhoZV9Iakx1NkttTm0tLXdaSGRxY0JKSlpkZm1YQlYxci1xdEdBX0kzdmZ3al9IZ202NnVxTmQwbFdKTUM3N3hEamNfd2p",
+   "title": "Supreme Court rules on Trump's firing of Federal Reserve governor - WUSA9",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTlRqQ3VrTjNnWVR0Mnh5cGotRjdxWlE1QTNsOHFVb2JiZVpyRXhQbDhoZV9Iakx1NkttTm0tLXdaSGRxY0JKSlpkZm1YQlYxci1xdEdBX0kzdmZ3al9IZ202NnVxTmQwbFdKTUM3N3hEamNfd2pNYm1DOXBSNDd4RTQzQjRrejNKRWk5a3Y2bmRxbmpzODZJNGZqS2tqTDFnTnNOM3NSLTJ3cUtyWjFkZ1Z1RFduWC14THg5NVlFQjRYbEV4ZTJRZndsU2RMN2R6MWFQdV8walZYbDA5aUpzLUZzUmJoa3hJaVE?oc=5",
+   "desc": "Supreme Court rules on Trump's firing of Federal Reserve governor  WUSA9",
+   "source": "US Fed",
+   "publisher": "WUSA9",
+   "scope": "world",
+   "ts": 1782742800000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOemg3SmZBUG05Rk5jc05KOGZ6ejJBWE95UF8xcUljLUVwVXlYWndYX0h3WkhzY2xpdXVIU1hDVXZkMmRWdGxvYmpSUzdqTWpCVXJVQ2w0MlRpNGg2Z21rbG50YVZKZXAtVHlHbk9rYmN4QVdTN0J",
+   "title": "Supreme Court rules on Trump's firing of Federal Reserve governor - KING5.com",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOemg3SmZBUG05Rk5jc05KOGZ6ejJBWE95UF8xcUljLUVwVXlYWndYX0h3WkhzY2xpdXVIU1hDVXZkMmRWdGxvYmpSUzdqTWpCVXJVQ2w0MlRpNGg2Z21rbG50YVZKZXAtVHlHbk9rYmN4QVdTN0JTemppVlNEbzlQRzIzakJYSHpaX2MtS2I4WWFWWHNvUFlvb0FmNU5vVjB3S2RzbTJLODJXT2c3dHZpS0M3RTdNaDB4d0FJNEZTcVphTVVZVm40OFVZTU42UVRpWUtjRS1pOWtZYTJTWmxuVFdNNzU2b2dDRkE?oc=5",
+   "desc": "Supreme Court rules on Trump's firing of Federal Reserve governor  KING5.com",
+   "source": "US Fed",
+   "publisher": "KING5.com",
+   "scope": "world",
+   "ts": 1782742800000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa0prUXp4OVMwZXpvbzRYTnhIZGlKYjItMUNlTXRUOUNPTXVCcDhoNEVlWHA4TnhZM0JvdF9IdFFjVWRRczJJVGptZk1kYWN4LUp4cmd1QUk0bWdvdV9hSVczNng5d0NiMkhCSElFd3ljN2hoNFh",
+   "title": "June Payrolls Face Early 'Major Test': Fed Rate Hike Probability This Year Soars, Global Assets Face Liquidity Shock - TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa0prUXp4OVMwZXpvbzRYTnhIZGlKYjItMUNlTXRUOUNPTXVCcDhoNEVlWHA4TnhZM0JvdF9IdFFjVWRRczJJVGptZk1kYWN4LUp4cmd1QUk0bWdvdV9hSVczNng5d0NiMkhCSElFd3ljN2hoNFhjUWlxSG51NnZ3UVBqRXlSSTN5UlBLNzlhRjZ0ajZoX0pqWXBDMUFQcnRjUjRVbkxSamhMTW5oNjczTDc5TjZoWlFzWGlWc3lSejJrMk5tNEJ5MWMyWThpMkk3TEJtLW5UYUl0bldHUHJJSGNlZUU0MzBSdFdLZ1Y4MXc?oc=5",
+   "desc": "June Payrolls Face Early 'Major Test': Fed Rate Hike Probability This Year Soars, Global Assets Face Liquidity Shock  TradingKey",
+   "source": "US Fed",
+   "publisher": "TradingKey",
+   "scope": "world",
+   "ts": 1782740230000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUUhONVhsdFRfSlQ2N2FnV0hXeHBsUGFXSFI0emVGUk1XbDhrSTJTbC0yZklBUnZQY2R3ZkpxZngxOXhYeWVlc1RlWlNmSnJmeUZwcHVVZkhGZjNrWlJwaDc4RUdLbnlUVVV4dGJBWk5IelNyQXh",
+   "title": "Kevin Warsh isn't expected to say much in Sintra: That's exactly why markets will listen - FXStreet",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUUhONVhsdFRfSlQ2N2FnV0hXeHBsUGFXSFI0emVGUk1XbDhrSTJTbC0yZklBUnZQY2R3ZkpxZngxOXhYeWVlc1RlWlNmSnJmeUZwcHVVZkhGZjNrWlJwaDc4RUdLbnlUVVV4dGJBWk5IelNyQXhNWWtiQW1xcDhMNFlobVQtT1RpMmlWNENTd181TFRaTkJGX2pWcVFscXFTcUNZYkhuN21DSUpKTXNOcVk5Ri1rckpOSE5SbDU1MkNKOGplb1E0?oc=5",
+   "desc": "Kevin Warsh isn't expected to say much in Sintra: That's exactly why markets will listen  FXStreet",
+   "source": "ECB / Europe",
+   "publisher": "FXStreet",
+   "scope": "world",
+   "ts": 1782739626000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQTFBlYkFWWUl2QXVVUElGa2Jtb3djcEtjWkxvQzNGMHIxNzhBNjd6dzA4eGY0cHltYlVzbzFGVXpjQm9CeG5LSlAwVjNHSUJ0dW51aVc0LWdZaHBhZXdodXRTbVJMYlF0OExTUkJuY2owaHZoV2h",
+   "title": "India is plotting a game-changer for RBI, banks, corporates, investors - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQTFBlYkFWWUl2QXVVUElGa2Jtb3djcEtjWkxvQzNGMHIxNzhBNjd6dzA4eGY0cHltYlVzbzFGVXpjQm9CeG5LSlAwVjNHSUJ0dW51aVc0LWdZaHBhZXdodXRTbVJMYlF0OExTUkJuY2owaHZoV2hiVnlmVUVXV3Q4VC01eDVhYkJYZ0lBQW9zRmpEdVk4Vjd5T1lTbTRjUkVDNnI1TE9KQVJibDN4emRvakpRU3JyQXlyX1V6WEotVTlsalRSNlFCWGF5XzFqaFp5alRYcFRTSzBCczJ6VlNPa2xTMVBhWl9LUnF2N1J5SGVCN3pTcVBrcmF1ZGlQSFFIWWh3VDJqVFRuUG45WHRDM2NSdXpqSHpaWE4teE1sb1QxUzVIOTB30gGsAkFVX3lxTFAwZjJpWTJqd2pCc1k2QmZQeEVvZ3FwekFITi1HT2dMbVo2UFRZLVF4N3pER2RCVE1pdGxOaV9sQjE5RlNFTjNYR05Zam9BLW9MWFF4WmxLVUUzek1QenVScXFCbjR0dE00bzM4SjViNU5vUC13Ui1pb3RMYXFrYzk1ZXlyVzdZN05IQkJya2lCSlJBQzZBanZnVGpUMGxmU0ZPTGh6UnlIRjdBd3ZkVl9Ec0c4eUxEZ1BDYk5IdFk4TV80ZE1WN25ESVZTTXo3OElvbHNQRDN5aWhQRGFrU1RiVGlYU1ppMjVtdTJPaE1OZkg4bVJrbi1UQm11dlFjUDVtNG93NGZjRnAzb241LUxpRXowX2RyeHVKYjZEX3FuQVBVTUxVZy1JV0lUZw?oc=5",
+   "desc": "India is plotting a game-changer for RBI, banks, corporates, investors  The Economic Times",
+   "source": "Indian Economy",
+   "publisher": "The Economic Times",
+   "scope": "india",
+   "ts": 1782739469000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2FTcy1WRXRLWTlWN0NqazNZVFhmNDlOdXYwZmhfQ1hzdlFLbGNJand0TEdBUHBzaEd1ekFoa0pWSENqY1ptWk1oN09tQlNVV0I5SlllYkRYRm92clFrNzFnMjdSZTdwdGl0RENFTUNhVmt2NlJ",
+   "title": "Fed Chair's Plan Could Reshape Interest Rates This Year - Investopedia",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2FTcy1WRXRLWTlWN0NqazNZVFhmNDlOdXYwZmhfQ1hzdlFLbGNJand0TEdBUHBzaEd1ekFoa0pWSENqY1ptWk1oN09tQlNVV0I5SlllYkRYRm92clFrNzFnMjdSZTdwdGl0RENFTUNhVmt2NlJiVkhYRFRvWEdRaXd6bzZGa21sMHhsemd6WlRQel9NR0ZqMUdVRUQ?oc=5",
+   "desc": "Fed Chair's Plan Could Reshape Interest Rates This Year  Investopedia",
+   "source": "US Fed",
+   "publisher": "Investopedia",
+   "scope": "world",
+   "ts": 1782736800000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tV3Z5NllYdzVESWVZT1gxbWljSFlpS0NrSnJPSzZYaldWMnFoazJGelVjSUVtUDlDaWlaZUJrOXR4YUk5VkItdlIyMm1keGlWb0Z5RENCZGJnai1lU2NubWN3bERMTnRXckxkV2NpbjBqMldOMGt",
+   "title": "Fed Chair's Plan Could Reshape Interest Rates This Year - AOL.com",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tV3Z5NllYdzVESWVZT1gxbWljSFlpS0NrSnJPSzZYaldWMnFoazJGelVjSUVtUDlDaWlaZUJrOXR4YUk5VkItdlIyMm1keGlWb0Z5RENCZGJnai1lU2NubWN3bERMTnRXckxkV2NpbjBqMldOMGtyX0RLOEhmdw?oc=5",
+   "desc": "Fed Chair's Plan Could Reshape Interest Rates This Year  AOL.com",
    "source": "US Fed",
    "publisher": "AOL.com",
    "scope": "world",
-   "ts": 1782669900000
+   "ts": 1782736800000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdXVFUFlqODNtSHF5ZDA1MGtneEJ0eWExc1R4ZDBlTWRYb3dUYTM0RkZ0S1lTNU1oZkFJRmF1R0lmU2RVdjZfVl84OTcxcWVlazRTMkdDTnFPRm9keFF2UmlVV0ZlMGRVZUdZUkZxdFNNQlZ0LUV",
+   "title": "Former Fed Hawk Esther George Warns Americans To Prepare For Higher Rates Under Kevin Warsh - Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdXVFUFlqODNtSHF5ZDA1MGtneEJ0eWExc1R4ZDBlTWRYb3dUYTM0RkZ0S1lTNU1oZkFJRmF1R0lmU2RVdjZfVl84OTcxcWVlazRTMkdDTnFPRm9keFF2UmlVV0ZlMGRVZUdZUkZxdFNNQlZ0LUVRSlFLaVl1UkQyQ2JWQWJWRTJ4YmFoaG1tNzlZMEJHRGVFOV9vcDVfWG1mVDhmY3ZnMUIxRGZ0XzJQNVlFcW1pVnJseDVtZWR3V0g4SE12QTdidEFwWXpHcV9meDA5b3FTYnZkS0xtM1lV?oc=5",
+   "desc": "Former Fed Hawk Esther George Warns Americans To Prepare For Higher Rates Under Kevin Warsh  Benzinga",
+   "source": "US Fed",
+   "publisher": "Benzinga",
+   "scope": "world",
+   "ts": 1782736479000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ3dsR1MzNC1CRVAxVDc4Q2tJSWVpdVBRVjZOVEZVSmVQYVU0Q004VWdmVEV5bXV4QTJKS3dweWFDMnBWU3JFLVVETkN2UHg2YVhGM3lSTWprWnZ0OXdsWjVYQ04xQWFWSmVZWjktTmlwbGdUYXp",
+   "title": "Eurozone Bond Yields Steady as Inflation Concerns Decline - Devdiscourse",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ3dsR1MzNC1CRVAxVDc4Q2tJSWVpdVBRVjZOVEZVSmVQYVU0Q004VWdmVEV5bXV4QTJKS3dweWFDMnBWU3JFLVVETkN2UHg2YVhGM3lSTWprWnZ0OXdsWjVYQ04xQWFWSmVZWjktTmlwbGdUYXpxQzVDU0hNbHRrVkZVWjR5MGRwUmZtdlNUNWlPU0d0U2h5Z2VhWDdFbTFWOVc5RThMbFdqWTFSZXZiTNIBtgFBVV95cUxPZTdTMVIzRjh1SXU4WEdibDl3T3NTMWptcmx3eWY1bmR0dUZSOHQta0NKMkRBSEhzLTZtMXhIaU5WZmxjTktGU2JDTW9QSWpxTTl0ZEpDVF90bjBvWXA1aTBsT3dvdFNldXlMdmhPOVdLTVpJczBwT1JUMGpWRlBMZG5rUkRiTkxOSnFEYWM0RHZXM1p3azZBa0VrS0Jla0tEY2dHV013Sm9hYkpwZWZEMFFPOVFIdw?oc=5",
+   "desc": "Eurozone Bond Yields Steady as Inflation Concerns Decline  Devdiscourse",
+   "source": "ECB / Europe",
+   "publisher": "Devdiscourse",
+   "scope": "world",
+   "ts": 1782732577000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GUFRkVzNqaEl6LVNIUUhOSDdVNDAxRm50MUJNM2huX1ZHY2ZoRXRkZ2drbHVPd01veHIzMVFpdmxFbVlsbGxkOERCQU85SW5LcHplX01pRlZJazR0X3FTZlpKT3V3d3dyZ3Rn?oc=5",
+   "title": "European Central Bank hosts annual forum with Fed Chair Warsh on economic growth and AI risks - Crypto Briefing",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GUFRkVzNqaEl6LVNIUUhOSDdVNDAxRm50MUJNM2huX1ZHY2ZoRXRkZ2drbHVPd01veHIzMVFpdmxFbVlsbGxkOERCQU85SW5LcHplX01pRlZJazR0X3FTZlpKT3V3d3dyZ3Rn?oc=5",
+   "desc": "European Central Bank hosts annual forum with Fed Chair Warsh on economic growth and AI risks  Crypto Briefing",
+   "source": "ECB / Europe",
+   "publisher": "Crypto Briefing",
+   "scope": "world",
+   "ts": 1782731344000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSTA3TlhCMDlSdVVjWlk3RjY5cFhydUZfQTRiakNDNVAzMVRrZUFPRktZdUlJeXhqMWlGRWdHLWpmWE5QQTBISnFadFlmVVd3THhRMnVoNnZOcVhkVm9yVHB1bFBmZnBianY4d3FWaUtfOHRUUU1",
+   "title": "Turkish Nobel laureate Acemoglu hopes Fed won’t listen to Trump - Türkiye Today",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSTA3TlhCMDlSdVVjWlk3RjY5cFhydUZfQTRiakNDNVAzMVRrZUFPRktZdUlJeXhqMWlGRWdHLWpmWE5QQTBISnFadFlmVVd3THhRMnVoNnZOcVhkVm9yVHB1bFBmZnBianY4d3FWaUtfOHRUUU1odkVyZ0E4dUcyOGp2blBWb2IzcURKQXlwWFp0cmRGOEJKWjdWbE1kZFN0X19DRnNFV2VldS1G?oc=5",
+   "desc": "Turkish Nobel laureate Acemoglu hopes Fed won’t listen to Trump  Türkiye Today",
+   "source": "US Fed",
+   "publisher": "Türkiye Today",
+   "scope": "world",
+   "ts": 1782729989000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oTm5QeXdrV0tlUEFuR3VDa0xFZVFUNWUxdFRTeFIzX2hSODJBSmJvN09oWnd5dU9FN2E4cy1wem4xeEUxQzJwbUwydWRXNU1I?oc=5",
+   "title": "NYSE owner plans futures tied to policy decisions, oil reserves - The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oTm5QeXdrV0tlUEFuR3VDa0xFZVFUNWUxdFRTeFIzX2hSODJBSmJvN09oWnd5dU9FN2E4cy1wem4xeEUxQzJwbUwydWRXNU1I?oc=5",
+   "desc": "NYSE owner plans futures tied to policy decisions, oil reserves  The Edge Malaysia",
+   "source": "ECB / Europe",
+   "publisher": "The Edge Malaysia",
+   "scope": "world",
+   "ts": 1782729215000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVUxFWUFDRHNheWdmYmEzd0pVSDQwdFV0dEo3M3ZTNm9URnE1OU8zNjhFeTJUR0ZEZ0JmQktyQlRfU2tjYlYxTWF5S0pOeEs3TGo2U3RaNnNVM3RfcExiMmJXQkNxaWJFMWFxMEM5ckQwY0pPMjd",
+   "title": "Beyond weekly expiries: How can SEBI build a market for long-term F&O contracts? Experts say lower... - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVUxFWUFDRHNheWdmYmEzd0pVSDQwdFV0dEo3M3ZTNm9URnE1OU8zNjhFeTJUR0ZEZ0JmQktyQlRfU2tjYlYxTWF5S0pOeEs3TGo2U3RaNnNVM3RfcExiMmJXQkNxaWJFMWFxMEM5ckQwY0pPMjdXZFRrSnd1cmRNYzFEc0FiUHIydDJZWktUZnNCVHZ4OFgwZ3ptVkNhbkhuUkl1VWpUTXV6djIxbzUxZXB3bk13Y3lkZWpmOHl1ZFg2VldmeHUtQ2t5bXdpMzU1MGVQNWQ4elY2TzZBQ3NZMDlZV3kzTEduaHlLTlotY1E4cl9RNHFXYlA1cGhzQzFMVWFCWXRwUFrSAY4CQVVfeXFMT28wZHRfejVtWTVJZG9taEt5R3lwbUo1MUstdTVzMUl4YzhKb3dkNWZ0OW8xWmltZ05vVjVzVVA5UVptWm9IcVVCMnZpNGwwRjlSVVZWelpwdWZRTUtHSUdycjVBai1vc0cta01sSlBoN1Y3bG51dHoxQlpnelZHeDYtYkJ6S2g3cHI1bWVfelc2NDR3dHN5OFlSOWdQcXkwM0VPUXVCN19IbGhDS245V0M2LUZLWFRpS2NIcTRWNk10T0J6Ym1fSHdrWUVEcjVmZG1Ia3dsMlhBZDBCNWJMNVdFcDJ6Zzd1MlJ5blQ3YjVEMlExaTV1Vzlxa1pjZjc5WV8wQml5TTFqUXFrWjBR?oc=5",
+   "desc": "Beyond weekly expiries: How can SEBI build a market for long-term F&O contracts? Experts say lower...  Moneycontrol.com",
+   "source": "SEBI",
+   "publisher": "Moneycontrol.com",
+   "scope": "india",
+   "ts": 1782723966000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DYVh3RDFuZUxFNV9ibllqdnI2ZHZmay1UOTl1dW1ZQnA0ZEZ5YTRnTGNFZkYtOG9ldEdhZXhGRW5femJUb0JzZHFobTc5dGl2Tmh4cGxLeEZUSmVBcHpEOGdIeEw0ejVDQThPT3A4U2g0aUE?oc=",
+   "title": "British Pound Resilient, But Euro Cross Remains Supported: ING - Bitcoin World",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DYVh3RDFuZUxFNV9ibllqdnI2ZHZmay1UOTl1dW1ZQnA0ZEZ5YTRnTGNFZkYtOG9ldEdhZXhGRW5femJUb0JzZHFobTc5dGl2Tmh4cGxLeEZUSmVBcHpEOGdIeEw0ejVDQThPT3A4U2g0aUE?oc=5",
+   "desc": "British Pound Resilient, But Euro Cross Remains Supported: ING  Bitcoin World",
+   "source": "ECB / Europe",
+   "publisher": "Bitcoin World",
+   "scope": "world",
+   "ts": 1782723311000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmJNU05Ea2xDeHhBYUVybGNCWHY0Z2xuWEgzdzNnb1Y5c2lEZDlkMTVLNElSZ0dKVzVrYzJvdnVTM0txOWM1ZlVBTkF3eFUtc1J4TU5JeV9uc3RSWW9TZ1JUYVRiVzRZY21rVnpudlN0WGlhYXZ",
+   "title": "Sebi Invites Applications for Executive Director Post - Rediff MoneyWiz",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmJNU05Ea2xDeHhBYUVybGNCWHY0Z2xuWEgzdzNnb1Y5c2lEZDlkMTVLNElSZ0dKVzVrYzJvdnVTM0txOWM1ZlVBTkF3eFUtc1J4TU5JeV9uc3RSWW9TZ1JUYVRiVzRZY21rVnpudlN0WGlhYXZUTktTaWJldU52UWRmdWZTWlQ4NDBSMEM3aHBVY3lBRWpNZTJUeG1fMjhfT29UTGQ2WULSAa4BQVVfeXFMT0F6ZzBOUnpSSHVmRFAzLXFMcWZ6RkdSSnVROHp5YUtLSGFQVXJ6N2ZLb2x3cldLdmNrMjd4SEFJb3ZjNVdtY19rYzdOdjAtYXR2WThjSnM3em1URGdkeHoyRGVvcWxHNExxU3N5N3N3WXpyZkN1NVV6REVfNEYwc2pXZVVKWl9kRmVndXVZQzUwVEU2YmxlZXJsWDhESG9DVlk2QkppbUVIbzN0XzRn?oc=5",
+   "desc": "Sebi Invites Applications for Executive Director Post  Rediff MoneyWiz",
+   "source": "SEBI",
+   "publisher": "Rediff MoneyWiz",
+   "scope": "india",
+   "ts": 1782722802000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUzVtOFN1VEJIZW55aVZUQmppTGtGajQ0dlZEMW1qTE4wNFV2S09TbXFtT3FRaUplVGdLNUV4QzlraUVBdG83VGlKdTFzNVZkaWpQOHRERG9wMllLVW04akhIWFNJXzFrOU5LUGp2bGpJYUl0dmx",
+   "title": "Investors brace for rate signals as oil rally weighs on FTSE 100 - London Business News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUzVtOFN1VEJIZW55aVZUQmppTGtGajQ0dlZEMW1qTE4wNFV2S09TbXFtT3FRaUplVGdLNUV4QzlraUVBdG83VGlKdTFzNVZkaWpQOHRERG9wMllLVW04akhIWFNJXzFrOU5LUGp2bGpJYUl0dmx6S0xaMFY1N2hMMDhYWE5vOTdHUkRUQ0k1OXdNNjJkbGpnNjdGOHQ4dw?oc=5",
+   "desc": "Investors brace for rate signals as oil rally weighs on FTSE 100  London Business News",
+   "source": "ECB / Europe",
+   "publisher": "London Business News",
+   "scope": "world",
+   "ts": 1782719995000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdDlWcVpZc0JFS0Y5UTdac2FKTUh1MjVaUkUzSzFaN0lVSjdwUGhmaEJHVFdIMU1iOVBxWFo4OUpIeVNnOWFoUVh1dWZMd05mWnBMODRZaDFRNXVTWGZsSzNYUTY2Yjh5OWZyMldvVTZJTGpFc3d",
+   "title": "Euro zone 10-year yields near three-month lows at start of busy week - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdDlWcVpZc0JFS0Y5UTdac2FKTUh1MjVaUkUzSzFaN0lVSjdwUGhmaEJHVFdIMU1iOVBxWFo4OUpIeVNnOWFoUVh1dWZMd05mWnBMODRZaDFRNXVTWGZsSzNYUTY2Yjh5OWZyMldvVTZJTGpFc3d6Y3JDYkNfa1BDQ1dhNXNjS1gxaldSejZfWGhvSk1xR1BmUVhtOHJEY0lDZHJkUVFER3hURnJMR2dMbTVNNFc2NXVCcTBGZGhiaEpNZ19IVVJCUm4tb21vZkdvSDlJQnZkNNIB1wFBVV95cUxQdDlWcVpZc0JFS0Y5UTdac2FKTUh1MjVaUkUzSzFaN0lVSjdwUGhmaEJHVFdIMU1iOVBxWFo4OUpIeVNnOWFoUVh1dWZMd05mWnBMODRZaDFRNXVTWGZsSzNYUTY2Yjh5OWZyMldvVTZJTGpFc3d6Y3JDYkNfa1BDQ1dhNXNjS1gxaldSejZfWGhvSk1xR1BmUVhtOHJEY0lDZHJkUVFER3hURnJMR2dMbTVNNFc2NXVCcTBGZGhiaEpNZ19IVVJCUm4tb21vZkdvSDlJQnZkNA?oc=5",
+   "desc": "Euro zone 10-year yields near three-month lows at start of busy week  The Economic Times",
+   "source": "ECB / Europe",
+   "publisher": "The Economic Times",
+   "scope": "world",
+   "ts": 1782718980000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMlVVcHBIQ1JUUzRyMlhzRkFScFd4dG5ZazY5MUlHMU9iM0hZdlJsb1llRmlSbWx5aEVKYkh0NzlWSHBXWDJrM0U2eVM0anMtei03MjNxa2xpYzZnMzNwTWJSMkFnRHNMUDJFdTlGQTU3N2ZkYkh",
+   "title": "The World is Running Out of Economic Safety Nets, Warns Departing IMF Chief - Telugu Times",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMlVVcHBIQ1JUUzRyMlhzRkFScFd4dG5ZazY5MUlHMU9iM0hZdlJsb1llRmlSbWx5aEVKYkh0NzlWSHBXWDJrM0U2eVM0anMtei03MjNxa2xpYzZnMzNwTWJSMkFnRHNMUDJFdTlGQTU3N2ZkYkhyMmI1QWc2djJ4ZEVNS3ZaZjFlZ0pIZ2JLMFNfNWpwZ2ZDYm9iSkRKZUtDSUxhUzlXT3E1c3ozZnNQa3FMUHdkcVl3V0NUNGgwdFd3MU9USjFGWXhNYw?oc=5",
+   "desc": "The World is Running Out of Economic Safety Nets, Warns Departing IMF Chief  Telugu Times",
+   "source": "IMF / World Bank",
+   "publisher": "Telugu Times",
+   "scope": "world",
+   "ts": 1782718203000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2U3lycHhXb1VOWUNpVjRuam1hdERwQmd0ZzMzQTFjUGhLOHhqQ2doVjR4dy1oZk9lZ3hLOEtOdEE4dzBpZVZkVHh3YUFDMXIybEVrd0VUbjZIQ3g0YnBZYl94bUNMOHM4QU01Ynp2MDllX2Y1dlZ",
+   "title": "Spanish inflation remains above ECB’s 2% target after US-Iran deal - Crypto Briefing",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2U3lycHhXb1VOWUNpVjRuam1hdERwQmd0ZzMzQTFjUGhLOHhqQ2doVjR4dy1oZk9lZ3hLOEtOdEE4dzBpZVZkVHh3YUFDMXIybEVrd0VUbjZIQ3g0YnBZYl94bUNMOHM4QU01Ynp2MDllX2Y1dlZ0dQ?oc=5",
+   "desc": "Spanish inflation remains above ECB’s 2% target after US-Iran deal  Crypto Briefing",
+   "source": "ECB / Europe",
+   "publisher": "Crypto Briefing",
+   "scope": "world",
+   "ts": 1782717111000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNby1UZ2g1ekFieFB0R0ZlVVNiakhtWklzRTZFbTVKaTc0bXdTbVFuOExfU2JMY25XYjdHRkYwSW91ajlMWVc4MTJGRXRrR1h5Z1piTVdUN3Z6ZjUwZ21tNWVMX25hYUFhWldIY3RNWUdrTVlpXzB",
+   "title": "RBI's Revised Upper Layer NBFC Rules & Tata Sons IPO - Vajiram & Ravi",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNby1UZ2g1ekFieFB0R0ZlVVNiakhtWklzRTZFbTVKaTc0bXdTbVFuOExfU2JMY25XYjdHRkYwSW91ajlMWVc4MTJGRXRrR1h5Z1piTVdUN3Z6ZjUwZ21tNWVMX25hYUFhWldIY3RNWUdrTVlpXzBRcERVRXhCZ2h6RmpYa3gxUQ?oc=5",
+   "desc": "RBI's Revised Upper Layer NBFC Rules & Tata Sons IPO  Vajiram & Ravi",
+   "source": "RBI",
+   "publisher": "Vajiram & Ravi",
+   "scope": "india",
+   "ts": 1782711763000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEh",
+   "title": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? - The Berkshire Edge",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn?oc=5",
+   "desc": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates?  The Berkshire Edge",
+   "source": "US Fed",
+   "publisher": "The Berkshire Edge",
+   "scope": "world",
+   "ts": 1782705991000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR01fWmV3VlYwQXZUN1k0a1JMVktkZXZ1eDRfZGc0UkY2MWFQNGpyTzF1MG92MnRNeGxUOWlfc2pfYU1pc0c3QVpSd2pMbEpLa1UzVXI2Q1JJc3U3MGt2eVBIY1pxMjhQY1Ria3kzdTY1cHNTQjR",
+   "title": "How Will IMF's $348.5 Million Lifeline Shape DR Congo's Economy, Climate Goals, and Reforms? - Devdiscourse",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR01fWmV3VlYwQXZUN1k0a1JMVktkZXZ1eDRfZGc0UkY2MWFQNGpyTzF1MG92MnRNeGxUOWlfc2pfYU1pc0c3QVpSd2pMbEpLa1UzVXI2Q1JJc3U3MGt2eVBIY1pxMjhQY1Ria3kzdTY1cHNTQjRSMlJLV3d3M1VWcmdQTkhIQy1kZWYwUEpIb1RPUmEyVjJXUUVmY2ZyaVVTSndJUjZCalNqRV91REVzWWxLZzk0a0ROb2pIVjZGQThjODdRdHQySE5Kb2hnSHI3Q2fSAdcBQVVfeXFMTXpaeG9yc1lyb0R1VURoNWpfSExsMUlqN2NSa0VWUmFZTDBkbG9pTjFPNThjbGlXRUNFNnFnLXBvU0V2NkZoOHBveDliR3JhMFVYQkl6RHVqdDV0clJyLS1DMTZqaXEzb3VTWWNZUmJqOHhzRE1Qb1Zrb2NwZUtKdEZ2U1l5a20zenR5YWJLWXBjand1Y0Z6SnRma2NzTVZ3VlF4RlZKSWZ0YUVRMXZfN0lORmNKY3djNnB1T2psMXBST3J2VEptckFDSFBEempKaFE4LVVKX2M?oc=5",
+   "desc": "How Will IMF's $348.5 Million Lifeline Shape DR Congo's Economy, Climate Goals, and Reforms?  Devdiscourse",
+   "source": "IMF / World Bank",
+   "publisher": "Devdiscourse",
+   "scope": "world",
+   "ts": 1782705016000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWkpHcVNsWWZucG9ZazZEQU9qV3RwcWE4N2FxclBHbHBhVzNlX3MzbFZTcHlKbjZvYzQzOHFScEZHbXZLR3NGXzBqbFVhbXVhU1JpMkJOS0lodUd1UEU2YVZ6czFOUnBqWjEwd3NIbHVxU05sR3A",
+   "title": "RBI seeks bigger money market access: What draft proposals mean for NBFCs and companies - BFSI News",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWkpHcVNsWWZucG9ZazZEQU9qV3RwcWE4N2FxclBHbHBhVzNlX3MzbFZTcHlKbjZvYzQzOHFScEZHbXZLR3NGXzBqbFVhbXVhU1JpMkJOS0lodUd1UEU2YVZ6czFOUnBqWjEwd3NIbHVxU05sR3A3UXh4LTZzbDR2ZENLRWw4NDFBVnVTRk5xb2tjNjBrZWQ2TjRzeFB4MGpwd1B5NDZWazBFYU1XWDRESTc3Xy1oMk0wVzQxVDc4TTFpakVsZ0x0TUI1Z3k2OV9SdG9GZEVTR1BxblI4Y2k3dtIB5gFBVV95cUxNWFBLS0xzaF81U2d0cFp5TTlURnJjNVc4dlFiaFZfeUppN1dnaGI5aXpQWUs2UUNUSlVZSzhXem5CS3lRdkY4MGhyMmVNMTJuQ1I1X1RKWFA3VEJ6NzJIYTV0R0tfOFVROUdYWnlKQ1ZlR0lyYWt4UWp4ZjdfUVh5UDNRWFhjSGduTnIwMGM3bkVJb1d3SXdtV3FfSGtsRFFnaHotVk5Wdzl1YVFjMEhaZWxmMG5JRTJxcm5fT2xUMmtiZG5iNzg2UGFhMnYxdUtSd25BZU1YVllWYjdCOGNYdnlJQVpqUQ?oc=5",
+   "desc": "RBI seeks bigger money market access: What draft proposals mean for NBFCs and companies  BFSI News",
+   "source": "RBI",
+   "publisher": "BFSI News",
+   "scope": "india",
+   "ts": 1782701248000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYmk2TnptUGxrOF9EcFlQXzJ3V2M2T3lUUUZkUDdnZElCLUJ3bXJjY2t1RW0zdmxXdWZzM01oWUx2WW5icnJmUWRRYVdEX2o5cmJsZUFqUW1nZnpvcXFLUzh2YXB4TzVPWEdneHFSSUhrclprN3p",
+   "title": "BIS warns stablecoins risk fragmenting global financial system - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYmk2TnptUGxrOF9EcFlQXzJ3V2M2T3lUUUZkUDdnZElCLUJ3bXJjY2t1RW0zdmxXdWZzM01oWUx2WW5icnJmUWRRYVdEX2o5cmJsZUFqUW1nZnpvcXFLUzh2YXB4TzVPWEdneHFSSUhrclprN3pObVI3TEE3UThDYUZXX3I5Sy1uM0t0OHZEaGpueHB1bVpfc1JrZTRzM1dwT2ZfOTRvcUZTNE5aY2tVTEFtWVlQQ21mWFgwcEZWejhzMmQw?oc=5",
+   "desc": "BIS warns stablecoins risk fragmenting global financial system  TradingView",
+   "source": "Global Banking",
+   "publisher": "TradingView",
+   "scope": "world",
+   "ts": 1782673125000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5keHVsWW1HVDVFY0hlZHRGczRNbWZaR3lXaEc0UzJOd0IwTllsWW9wS2s2VzhsZTVrTHU0a2pyOU5lck1kdXZIdjFlRkI2NGRqSW1uOEpNbUlfRURjN0hudmd3SzVKVWstd3c1eGdSMTZVUUlwckE",
@@ -20,26 +280,6 @@
    "publisher": "Taipei Times",
    "scope": "world",
    "ts": 1782662400000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa0pYMkg5RHBTcXoySjVHSHF2ZEVxU0pLWG9jSzY1T1U4NXBabS1JYUJOZThmRms1ODN4U3RiQTVqSmlmdGFfSWRuVXdqWVpnSGVwdVRIX2J3d2x3c3Rza0VveGZLQnU1QUxEWWkzczY1LVJUN2J",
-   "title": "Finding the Best High-Yield Savings Account Rate for Your Money - 24/7 Wall St.",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa0pYMkg5RHBTcXoySjVHSHF2ZEVxU0pLWG9jSzY1T1U4NXBabS1JYUJOZThmRms1ODN4U3RiQTVqSmlmdGFfSWRuVXdqWVpnSGVwdVRIX2J3d2x3c3Rza0VveGZLQnU1QUxEWWkzczY1LVJUN2Jib2FxV0pDVnRjWEkwdjZlQ1ZleDdpaGJkWVVxWE1NeWtYN2xhMzdpS2tvaTJhcV9ndHhsVXFlMWNxOW5MMGg1OUNIQlh1RjFVek9wM2VyUjd1NXRpaw?oc=5",
-   "desc": "Finding the Best High-Yield Savings Account Rate for Your Money  24/7 Wall St.",
-   "source": "US Fed",
-   "publisher": "24/7 Wall St.",
-   "scope": "world",
-   "ts": 1782662034000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DbGJxN3U0TlhXWEdLcG5abFFqZWtmaEszVzZqREZyVW5GTTRYbFRCZHNWS2ZSNk9ZQnJqZ0RseGp5RTNWWklZZ0E4dXlSUlIxMlJrQTQ3MHBFcmxtM0dTOUhFSEFCcUlQblQwTHZWb3UzMUp2YWZ",
-   "title": "Fed Rate Decision June 2026: A Hawkish Pause Signals Higher for Longer - Intellectia AI",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DbGJxN3U0TlhXWEdLcG5abFFqZWtmaEszVzZqREZyVW5GTTRYbFRCZHNWS2ZSNk9ZQnJqZ0RseGp5RTNWWklZZ0E4dXlSUlIxMlJrQTQ3MHBFcmxtM0dTOUhFSEFCcUlQblQwTHZWb3UzMUp2YWZTcw?oc=5",
-   "desc": "Fed Rate Decision June 2026: A Hawkish Pause Signals Higher for Longer  Intellectia AI",
-   "source": "US Fed",
-   "publisher": "Intellectia AI",
-   "scope": "world",
-   "ts": 1782661893000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVUVRVkVkcVhhNUpzZ2p4NEE1aFU4VFpxTXBfZ2FDajJ2YnpHQXI5S0QxRWtvclVLbkpNenpmc2FRUVFLMDRNb0x5Nk9XTmZQSGdIbXp0Y2dIZUVsYUU2WHZtdk82RFVBNHlBR25oM2t4ejlkVUd",
@@ -62,36 +302,6 @@
    "ts": 1782660663000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPbTdVVnBhRUp6NnF2RVd2dFMwdVR1LVhuQWxZdXlaemxxZFo2TUFYaFBSRm9SQW1rX3RRdzdtVzc1d1o1Q2p0dDIwaFR3MEpKa1N1eXIydng1R1FxdTJZSDFzMnBOY014UXoxNWR5YWxXRjAweHF",
-   "title": "Wall Street outlook: Jobs data, Fed rate bets to test US stock rally after strong first half - The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPbTdVVnBhRUp6NnF2RVd2dFMwdVR1LVhuQWxZdXlaemxxZFo2TUFYaFBSRm9SQW1rX3RRdzdtVzc1d1o1Q2p0dDIwaFR3MEpKa1N1eXIydng1R1FxdTJZSDFzMnBOY014UXoxNWR5YWxXRjAweHFQRHozZVNCenE4S1hhRll3NHB6SGJkdFNneHNjbTdrZW9PQVlZUGlTTDRyYzhkWlBCaVhXX05QQ2Y3V0U2ejRMYmRoNlRtUkJlNktON2VLNnZUWXRHWEhvSzAxNmJMM3NDblhWZTFfNGo4SG10RjZLei1YU1BYR1RiWkFkc09OU05uLVVrN2ZhV1BCenVhbHMxNDNoM3pNeTRRRzB30gGXAkFVX3lxTE9JQlJKSXF4bnNESVk4OTlNZVVIRE9tRDBJeHpXa1I5VHZ2LWNlRHZ2WjBFTFN3Z1lOQUFPQ0xINXhGMkxhbmdoUWJQaEhKTXM0Vm5HUHp4dVZnaDhENWctVGtXM29SX21FaXhfTXlELWszT0Q4UjRzYnR4MGh0ZGplYWpBRDFKeXNBcEFyNWNmbzYxbjVhUS1CUFBmNnpCWWZKUjVaZWFqN1h4MGdrNUFsLWtkbjdmSTJ0cURBT0ZaUE9jYXl5cTZJYmxLN01hOFJ2Q1VFeEszRzNKbWg5dllYV1ZkYXY0SmhkcEROZ2ZieW1HRmdfaUw1akFWY25OdHUySEV5U2dFZUJ2SDZ0X2gtWnoyZHZkYw?oc=5",
-   "desc": "Wall Street outlook: Jobs data, Fed rate bets to test US stock rally after strong first half  The Times of India",
-   "source": "US Fed",
-   "publisher": "The Times of India",
-   "scope": "world",
-   "ts": 1782656580000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVmF6cGRuSVllSTFYdEZNSV9rRXliZmFYX0d6azhSdjZ3RUhSdURXLW1naWY0N3RVcENibE02aUd6MGEzS01hSXNqNmZtZnNSWENxNFlmRE5zbTIxVnA4Sk1IU1cyNUxUbXZiSkNuS05rUlFLY21",
-   "title": "2 Sneaky Ways Fed Chair Kevin Warsh and the FOMC Can Raise Interest Rates Without Adjusting the Federal Funds Rate - The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVmF6cGRuSVllSTFYdEZNSV9rRXliZmFYX0d6azhSdjZ3RUhSdURXLW1naWY0N3RVcENibE02aUd6MGEzS01hSXNqNmZtZnNSWENxNFlmRE5zbTIxVnA4Sk1IU1cyNUxUbXZiSkNuS05rUlFLY21qQWN4VTZHOV9jVGVMbE1XbEZQRXlUelEzcGxxQTZEbE80Mg?oc=5",
-   "desc": "2 Sneaky Ways Fed Chair Kevin Warsh and the FOMC Can Raise Interest Rates Without Adjusting the Federal Funds Rate  The Motley Fool",
-   "source": "US Fed",
-   "publisher": "The Motley Fool",
-   "scope": "world",
-   "ts": 1782655560000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMingJBVV95cUxPb3g4UkNUOG03dko5ckdyeVIzX1hCR210Z3lYaHFGYTk5M1ZHNDljdzA0VV93UnFKeUNOTDFZbmdPMGRVNjZCTWJnMnIxM0xLQk54ZXBxRVZDZGJLUTN0UzNJM2dwYjhMaG8wenZSYWhFRjQzSk4",
-   "title": "2 Sneaky Ways Fed Chair Kevin Warsh and the FOMC Can Raise Interest Rates Without Adjusting the Federal Funds Rate - The Globe and Mail",
-   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPb3g4UkNUOG03dko5ckdyeVIzX1hCR210Z3lYaHFGYTk5M1ZHNDljdzA0VV93UnFKeUNOTDFZbmdPMGRVNjZCTWJnMnIxM0xLQk54ZXBxRVZDZGJLUTN0UzNJM2dwYjhMaG8wenZSYWhFRjQzSk45NUM5LUQxU0t3blRPY1RiQjlKbXdtb2Y5ZW1vV0pnWS14cmVmeHlQSmRTT1NtSFEyQzMzaVU1WU1fN01EX2x0cm9KMEtSYkRPeTEzV0ZKR3dtWTlMb2lRWE9KN1BCUGxNNUdpbVhWdTE4RmNvUDlZYmNBZVpPTlAyY29LdWJzQVNOakxEVWloWWhMT2hDaEFLVXVCcEFxVjZQWHRCZWd4cVQtN2liMjhB?oc=5",
-   "desc": "2 Sneaky Ways Fed Chair Kevin Warsh and the FOMC Can Raise Interest Rates Without Adjusting the Federal Funds Rate  The Globe and Mail",
-   "source": "US Fed",
-   "publisher": "The Globe and Mail",
-   "scope": "world",
-   "ts": 1782653871000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtNVNPWnhmV2l4aHZOMEZMTUZjcmo5Rjc2TFIycDVHcFl6WmhTdTVyQ085ZDZEV1Y4dUNNZ05jMnhpQW8ydUJmd1lzY3liVWY4RzBvY0JXN3I4UFRRQmY0b0E0TXNra3lBenphSA?oc=5",
    "title": "IMF Chief Warns of Iran War Renewed: This is What the Global Economy Will Face - صحيفة مال",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtNVNPWnhmV2l4aHZOMEZMTUZjcmo5Rjc2TFIycDVHcFl6WmhTdTVyQ085ZDZEV1Y4dUNNZ05jMnhpQW8ydUJmd1lzY3liVWY4RzBvY0JXN3I4UFRRQmY0b0E0TXNra3lBenphSA?oc=5",
@@ -102,24 +312,14 @@
    "ts": 1782651755000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb0l6ZkdPLUMyTm1XajMtMHVnUXVxWDBIT1otU3VGaDBxTHNubkpmNFpVMk1SbzZUM3RtclRjNkZvUUtGQnNRdXZrUzZJd09KSldIWUVzM01YTlo0dG9rc1FvRmxKOTBlcVJzRWFwZXYwQzU4aml",
-   "title": "RBI Projects FY27 GDP Growth at 6.9% and CPI Inflation at 4.6%, Signals Stable Economic Outlook - Goodreturns",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb0l6ZkdPLUMyTm1XajMtMHVnUXVxWDBIT1otU3VGaDBxTHNubkpmNFpVMk1SbzZUM3RtclRjNkZvUUtGQnNRdXZrUzZJd09KSldIWUVzM01YTlo0dG9rc1FvRmxKOTBlcVJzRWFwZXYwQzU4amlVWkh6dU5rZ2xRTkZ3VlBuZ29UYjMyc05QZHZGWll3SUtsQ0gxQll4V1Q4dU9WOXB6VTFQcWNKZWhwTjdzZHJ5bzRrRlNERFVBSEpmbnN0VEp4cTFSUVNUdUtIOTgwZlNhOWRTY3VNOWc?oc=5",
-   "desc": "RBI Projects FY27 GDP Growth at 6.9% and CPI Inflation at 4.6%, Signals Stable Economic Outlook  Goodreturns",
-   "source": "Indian Economy",
-   "publisher": "Goodreturns",
-   "scope": "india",
-   "ts": 1782651409000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeS1hU3hITW5pcF80NzlzSjdXV0FwTTFVRHA4MnhFTHRFX0ltaWk1T1U2cnJKREJickNCUGM4NS1Idmk3U1dCTWlHX3I2Rk5FLXM2azUya0RNQzNIOWhLRGVFYm9uU2F4OE9CUU5WWEd4TE1TYXF",
-   "title": "‘Hawkish Hold’ in Interest Rates, Iran Turmoil Prompt Advisors to Rethink Second Half of 2026 - The Daily Upside",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeS1hU3hITW5pcF80NzlzSjdXV0FwTTFVRHA4MnhFTHRFX0ltaWk1T1U2cnJKREJickNCUGM4NS1Idmk3U1dCTWlHX3I2Rk5FLXM2azUya0RNQzNIOWhLRGVFYm9uU2F4OE9CUU5WWEd4TE1TYXFybkJVZTNCSW9fQk1wakFhYl9xMUt3aEpRRHBUcW1oREpNV09sVTdtdUIwR3BPSDlNRHE3Q3hiemdOeGM3dXltUzNMNkNobllNU0RILVVweXJMVnNxTzJfdHZqbl9kZXBhcklFWUVX?oc=5",
-   "desc": "‘Hawkish Hold’ in Interest Rates, Iran Turmoil Prompt Advisors to Rethink Second Half of 2026  The Daily Upside",
-   "source": "US Fed",
-   "publisher": "The Daily Upside",
+   "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nMkJ0OURkWDF2TEtuUjF4cW5XWEZfNTcxanNmejBfbVJlQUh6QzVleUFUNWdNUTIxeUR5ZFktLUJXV2dFWkoxeGxRM0hoSEI5NGQyWXhfVDRjMk1TV3JYZHhWT1QwelNJVEthaGd5c005TEFGTVE",
+   "title": "IMF: Economic Wars Are Doomed to Fail - logos-pres.md",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nMkJ0OURkWDF2TEtuUjF4cW5XWEZfNTcxanNmejBfbVJlQUh6QzVleUFUNWdNUTIxeUR5ZFktLUJXV2dFWkoxeGxRM0hoSEI5NGQyWXhfVDRjMk1TV3JYZHhWT1QwelNJVEthaGd5c005TEFGTVE?oc=5",
+   "desc": "IMF: Economic Wars Are Doomed to Fail  logos-pres.md",
+   "source": "IMF / World Bank",
+   "publisher": "logos-pres.md",
    "scope": "world",
-   "ts": 1782648000000
+   "ts": 1782639766000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdzdQM3VadG1YVUxqRUlQMVJ5U0xnWlEzSWFlaVlJN1BQdkttbFh0cVgzb0VIaGQ2bDUxYXFLVGFqNkJhVThtMFVyMExrY0s3QW5tOWhxdjVNSG9pcjVRVVVpbEVGcUdITmE5Yl9sSmJuZDdYcEw",
@@ -162,16 +362,6 @@
    "ts": 1782601770000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONU5lQ0lka0gyVUgyT0FHZUZVUkowWVQ3Q3hsNHJ5elZGZWQ3b003cEp2R0dWOGlxUllvZDBzdmVuNk1mcmkwaTRqUzM2RURCS2pENUxIZF83U21OU2pwa3BEWGtGYmR2dEV4eERqNXhoLV9rQmZ",
-   "title": "Fed rate cuts: Payrolls will weaken, inflation will plunge, and Warsh was 'largely performative' - Fortune",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONU5lQ0lka0gyVUgyT0FHZUZVUkowWVQ3Q3hsNHJ5elZGZWQ3b003cEp2R0dWOGlxUllvZDBzdmVuNk1mcmkwaTRqUzM2RURCS2pENUxIZF83U21OU2pwa3BEWGtGYmR2dEV4eERqNXhoLV9rQmZoUXlaaFZWd1Rzc2x3NnRmdmlpa3hmNWFobnNzQzJwenBUN0QxeWk3b01tWExPMDczMA?oc=5",
-   "desc": "Fed rate cuts: Payrolls will weaken, inflation will plunge, and Warsh was 'largely performative'  Fortune",
-   "source": "US Fed",
-   "publisher": "Fortune",
-   "scope": "world",
-   "ts": 1782599280000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVEhIN1VsY2hyM3lWM0pMNkdMWjY1ZDg5VEJqS0dxeFdyLWRHeG9ZZVd3emV4T2lCX09jVTg4ZXVZczlSUDVySWJiMlloblZfYUpIUTM4NEFhZ25zQTdMUWxHOVNmbTZpcm1wbk13RTVmcHBSUWc",
    "title": "IMF says India remains a key driver of global economic growth - News On AIR",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVEhIN1VsY2hyM3lWM0pMNkdMWjY1ZDg5VEJqS0dxeFdyLWRHeG9ZZVd3emV4T2lCX09jVTg4ZXVZczlSUDVySWJiMlloblZfYUpIUTM4NEFhZ25zQTdMUWxHOVNmbTZpcm1wbk13RTVmcHBSUWc0Z1BYU04tQnc1YzlVMHZ4ekxGdkY5c185M1k?oc=5",
@@ -212,46 +402,6 @@
    "ts": 1782591590000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRExJTlNRN3ZlRG81ZDFqN2U0R3FYSUtxTlJubUZ6cmhTRlF1SXRnX1VudktzWThLc05RZk9xX196azhRTDhDeHFmaVNPX0FYbmluMXlaSmFYUlJVMGNfQURLSlhWVmQ3YVRiX3BZTEppSThYc3d",
-   "title": "Fed rate hikes seem likely this year: What does that mean for mortgage rates? - MarketWatch",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRExJTlNRN3ZlRG81ZDFqN2U0R3FYSUtxTlJubUZ6cmhTRlF1SXRnX1VudktzWThLc05RZk9xX196azhRTDhDeHFmaVNPX0FYbmluMXlaSmFYUlJVMGNfQURLSlhWVmQ3YVRiX3BZTEppSThYc3dyOXl2ZnJNcWhQSGEwYW9EaFRQeExOZi1RWVk5T21WenJmRUNtd0E1bmdvS3E2VkMyRWYyNU9KRm5FNHpfWlJBTVR0bmc?oc=5",
-   "desc": "Fed rate hikes seem likely this year: What does that mean for mortgage rates?  MarketWatch",
-   "source": "US Fed",
-   "publisher": "MarketWatch",
-   "scope": "world",
-   "ts": 1782564780000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jblNWd1hSRjhWUWJFd20yT2N0akdtQnNHaGdrUXd1NXdWMVVPQXEyUnMtVnFOeFRCblNZTW5CcUZDMG1VRlJSS2lUbXZudXJXQi1Dd0xCZzB4eWpxU1RiRDVURkF0S21SQ2pQUllfSU1SQzM5WVR",
-   "title": "Inflation flips Wall Street’s Fed interest-rate bets - thestreet.com",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jblNWd1hSRjhWUWJFd20yT2N0akdtQnNHaGdrUXd1NXdWMVVPQXEyUnMtVnFOeFRCblNZTW5CcUZDMG1VRlJSS2lUbXZudXJXQi1Dd0xCZzB4eWpxU1RiRDVURkF0S21SQ2pQUllfSU1SQzM5WVRhVFlsZTRZTDA?oc=5",
-   "desc": "Inflation flips Wall Street’s Fed interest-rate bets  thestreet.com",
-   "source": "US Fed",
-   "publisher": "thestreet.com",
-   "scope": "world",
-   "ts": 1782562620000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rTFZIOEZ4ckpOR1BKVjBublA3Qy03X0F6QWdrVGpnOFlsVEZRRE9vTzNLLTUzYmQ3Zm1JMlF5bDJyV2M2S2xMU0R3ZEtvOXRpRHpyUlF0MUxRTHNzM1ZLOVpVZFdsUTVRclhWclYtbi1teTRjZTR",
-   "title": "Fed Interest Rates 2026: Inflation Outlook & Investment Strategy - Intellectia AI",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rTFZIOEZ4ckpOR1BKVjBublA3Qy03X0F6QWdrVGpnOFlsVEZRRE9vTzNLLTUzYmQ3Zm1JMlF5bDJyV2M2S2xMU0R3ZEtvOXRpRHpyUlF0MUxRTHNzM1ZLOVpVZFdsUTVRclhWclYtbi1teTRjZTRzRA?oc=5",
-   "desc": "Fed Interest Rates 2026: Inflation Outlook & Investment Strategy  Intellectia AI",
-   "source": "US Fed",
-   "publisher": "Intellectia AI",
-   "scope": "world",
-   "ts": 1782562277000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd2thLUVGVXkwU3RrZlNlVVl4M1VocEU4NzRIZTJkN1pyNjZLYmpLVHpaVGhyUExTWi0wZjdkOVphalhSYjJqMGtmVFhHLWYtTHAzcHpJN1Q2SFhwak5PWkJFVVUyWWtwQl84NlRVbWZDVlN2MkJ",
-   "title": "AI boom, stubborn inflation point to rate hike ahead, says Minneapolis Fed President - MPR News",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd2thLUVGVXkwU3RrZlNlVVl4M1VocEU4NzRIZTJkN1pyNjZLYmpLVHpaVGhyUExTWi0wZjdkOVphalhSYjJqMGtmVFhHLWYtTHAzcHpJN1Q2SFhwak5PWkJFVVUyWWtwQl84NlRVbWZDVlN2MkJnVnBJS0MwZjJmN1o0TFdybnFaZmtpdWdUbWttalk1aGJteWtWbC1vNGEtODl6WmNiRTF2M2NQaldEeVZ5WU9UaGcxaG13UFJHSDQ?oc=5",
-   "desc": "AI boom, stubborn inflation point to rate hike ahead, says Minneapolis Fed President  MPR News",
-   "source": "US Fed",
-   "publisher": "MPR News",
-   "scope": "world",
-   "ts": 1782561600000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PX0stdFNsdENKSzdEd3VOMzRaSmwtQVdiZHBGLVRIeTJodHYzb196bGpNTmtIenFtcjZxbzlYNGROQkFSQ2VPTDVJUW9MVFJhSF81bjhvRVhOWkhlbmdkMXZjSGZJWGs?oc=5",
    "title": "IMF economist warns global economy has fewer buffers against next shock - Nation Thailand",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PX0stdFNsdENKSzdEd3VOMzRaSmwtQVdiZHBGLVRIeTJodHYzb196bGpNTmtIenFtcjZxbzlYNGROQkFSQ2VPTDVJUW9MVFJhSF81bjhvRVhOWkhlbmdkMXZjSGZJWGs?oc=5",
@@ -260,6 +410,16 @@
    "publisher": "Nation Thailand",
    "scope": "world",
    "ts": 1782556980000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcnJaWkNkeF9jd2QzTmNXWHNvdVNfWlZIeXVsMm5GZ1EtUnVZcEUwanNtc01xVEpVM0w2Y1d3UlF6R1lQV01NY2YzNEQ0dGc0bVhMX2ZTZ1laVzNyMktCbGNqWkpqc1R6bzZ1SjBnUVlIc1RJOUJ",
+   "title": "RBI opens term money market to AIFIs, housing finance companies - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcnJaWkNkeF9jd2QzTmNXWHNvdVNfWlZIeXVsMm5GZ1EtUnVZcEUwanNtc01xVEpVM0w2Y1d3UlF6R1lQV01NY2YzNEQ0dGc0bVhMX2ZTZ1laVzNyMktCbGNqWkpqc1R6bzZ1SjBnUVlIc1RJOUJkUjZObVB6TG0wMnV2ZTFSTnNJY1pMWURpUi1WeEdBS2ZKTWNaVnBJSjFiRjYzMGpLbHh4bkVzNFdlckRzY0w2cUk0NEtVWUNEWWNtTDZyTy1SNDhaNTdmOFMwV3Uxa1NMNk1NbnFIemhfMllGa9IB6AFBVV95cUxPMWh6eGplVkdaN3VTWXpmbDE1VGROM3BEWkY3aGNXWU1DakNfbkktTUZvSERURm5MOTA5eUpQNHgyY1Y1d0h6SGRPdGVXeVZaZnhlQ0g5aUJuSElsN2hIYzE2QTNuVmdraXQ2LXlINGFxZk5QM0thWEZfOThSNWQxYmZZWDhGRk9LYjc2czEwTUJ5cjNOdE5xSkdVbGxTVV9VMnU4ZHlmZ3BDVkNMbmxfb1RPblVCVUhrNlUzXzNuNnhaWGtjcHp1YUdpbmtHaWE4YndPNzZZc2ZhZTNYNWlaWktHZGZXTS1x?oc=5",
+   "desc": "RBI opens term money market to AIFIs, housing finance companies  The Economic Times",
+   "source": "RBI",
+   "publisher": "The Economic Times",
+   "scope": "india",
+   "ts": 1782555148000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLWGNSMElrLWhfSVI3elJ2d0ctTGFGVTlhWm5VS0lrMG9DZjVuSloxRjJQajRGeFNNTzlDcmdYY1RyT3YxWWtYN016OWM1dFRtMzVTMjFPUzJFLU9IN19VNmdZUk5YTVhtMGxkQw?oc=5",
@@ -362,24 +522,14 @@
    "ts": 1782510522000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNa1JOdmpkYmFyOFI2bndXUElzU3JUQmJtS3Y1RTBOSFU0bGVfdk1TR3V1MThUdUo4a3A5OG00alN2dFozaHAyQzl6amZmS0VGc1FnMy1peE45TVhqUlo4V3JpaWZLTjQxNmdHVThnZnlXNHJLRnJ",
-   "title": "Outgoing IMF chief economist sees risks, shifting trade ties and continued uncertainty on global outlook By Reuters - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNa1JOdmpkYmFyOFI2bndXUElzU3JUQmJtS3Y1RTBOSFU0bGVfdk1TR3V1MThUdUo4a3A5OG00alN2dFozaHAyQzl6amZmS0VGc1FnMy1peE45TVhqUlo4V3JpaWZLTjQxNmdHVThnZnlXNHJLRnJ5WFVNSWhfQmszYnhKT1JIdHF4NXNicHhyTUlpNVp5TEt3SkhLWUoxUVRJb3FBbWVZdmNXeVVTOXkwQW1CUGd3eUtaTHlIVkFrN2lKUUpCTndqbGlIY1FzTUZXVUhnRlY1X05qeTRNUkY0UzE1YjBOdmxJa01r?oc=5",
-   "desc": "Outgoing IMF chief economist sees risks, shifting trade ties and continued uncertainty on global outlook By Reuters  Investing.com",
+   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa25FdnFaSUVCYWpCQldhRFdXRmp5R1ZnTDZ0WnYyZFV0aEx0SnNKZjJlZllYMXZERjQ0ek10LVNudGFsbUdqdXBkNXYyLWFnMl94YU1QSWNLQkpxRHpqVzI4WUlXbV95NFB1dEk3V2t1bFljVHV",
+   "title": "Outgoing IMF chief economist sees risks, shifting trade ties and continued uncertainty on global outlook - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa25FdnFaSUVCYWpCQldhRFdXRmp5R1ZnTDZ0WnYyZFV0aEx0SnNKZjJlZllYMXZERjQ0ek10LVNudGFsbUdqdXBkNXYyLWFnMl94YU1QSWNLQkpxRHpqVzI4WUlXbV95NFB1dEk3V2t1bFljVHV5VWdDYmtqTnNOdy1RdzJqUlkzbWZFQ3hmMHh1QzRESFJ1RS03dGRuOXEwN0k4dmlaM214SmNmXzZ5cFJnOTM?oc=5",
+   "desc": "Outgoing IMF chief economist sees risks, shifting trade ties and continued uncertainty on global outlook  Reuters",
    "source": "IMF / World Bank",
-   "publisher": "Investing.com",
+   "publisher": "Reuters",
    "scope": "world",
-   "ts": 1782507940000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb09QM3NWNU9tcWRDRXhJUG1zSFdzU1FZbWlDUk1yQlo4N2F5Vk9LZWZRUEdqcmhnMDdoakl3clcxSDlPZ3Zjcy1CU1YzdWplNHZhNXlzNzYzUU92MWVDYURyejRZc0ZxRV93TWk1NTljWEc0WUd",
-   "title": "Fed’s Kashkari now projects one interest-rate hike this year. Here’s what changed his mind. - MarketWatch",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb09QM3NWNU9tcWRDRXhJUG1zSFdzU1FZbWlDUk1yQlo4N2F5Vk9LZWZRUEdqcmhnMDdoakl3clcxSDlPZ3Zjcy1CU1YzdWplNHZhNXlzNzYzUU92MWVDYURyejRZc0ZxRV93TWk1NTljWEc0WUd5MWJHUUt4TmtHVkFRNDZpazJQTGRES1M0TzVINnR5dFZyLS1nV2swOUlvTk1xZkhBc3RidmhvdVVmOUNaNVFUa0ZqbzRYaUI2YXJ6b2I2?oc=5",
-   "desc": "Fed’s Kashkari now projects one interest-rate hike this year. Here’s what changed his mind.  MarketWatch",
-   "source": "US Fed",
-   "publisher": "MarketWatch",
-   "scope": "world",
-   "ts": 1782505620000
+   "ts": 1782506589000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWF81V3ZESGZHMDJxY3lOQzA4Qi1kWXNkZ1pON0N1aC1vUm5oY3JNWkdfQmowZ2RKU2F1dHNRckFuaDluRTRsdzJWLU8ydHZyT2Y1UFpUQVBxQTZGSC1rVmZoWGZwZl9MNURyaGdnSEZ6ajV4TnU",
@@ -390,26 +540,6 @@
    "publisher": "Barron's",
    "scope": "world",
    "ts": 1782505320000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM2N2Z3ROcGg1T2FFUk9WQnJoNDVUdWR5bUNoaXA1RlAxdmNPTjR6SEI2dHNWOG9sa1BYd21aV2R6TWtKT2ctTlBtOHAxd0t1eFdwM196NzMySjBXU0F4NUZyNXdpZ3FXMUlRSGFaMmY2NEg5NkN",
-   "title": "Minneapolis Fed's Kashkari pencils in one interest rate hike this year - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM2N2Z3ROcGg1T2FFUk9WQnJoNDVUdWR5bUNoaXA1RlAxdmNPTjR6SEI2dHNWOG9sa1BYd21aV2R6TWtKT2ctTlBtOHAxd0t1eFdwM196NzMySjBXU0F4NUZyNXdpZ3FXMUlRSGFaMmY2NEg5NkNJMEdaTWtOMks4cjZVVlhrblUzVF9iSF9BSEtzOWVpUl9hUVNKd0phUVhTUEhNN1RWNFZIOExIdkplNU91LU1QaFp3NXNLUmFnZTEzUmd2anYtMG04bFJadw?oc=5",
-   "desc": "Minneapolis Fed's Kashkari pencils in one interest rate hike this year  Yahoo Finance",
-   "source": "US Fed",
-   "publisher": "Yahoo Finance",
-   "scope": "world",
-   "ts": 1782502725000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUV9ScHhuMmRKUkEyZW01cW1UMl92dkNacWZtY3A1WF8wWVdDYzI4Nko3UXhnZ29YajBZZzJyTnd0eDBWMUFBZ0N2a0ZoNGM1R2xFVkVLa3lEUkJnSnJVZzNmUGdLN0ZpTFZ1N0tYWmpMUmowbmx",
-   "title": "Forecasting the upcoming week: US Dollar faces labor market test as NFP takes center stage - FXStreet",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUV9ScHhuMmRKUkEyZW01cW1UMl92dkNacWZtY3A1WF8wWVdDYzI4Nko3UXhnZ29YajBZZzJyTnd0eDBWMUFBZ0N2a0ZoNGM1R2xFVkVLa3lEUkJnSnJVZzNmUGdLN0ZpTFZ1N0tYWmpMUmowbmxvRDVHcThzS21tZjNRS1hfMDRDQ1pITlNic3laQ2sta1BoNV9sOUZrQmp5eHZYTU5kRkF6TVZObzhvZm5mRk03S2lPYVdldHhzTnVXZ29QS0cxUWR4Ukw?oc=5",
-   "desc": "Forecasting the upcoming week: US Dollar faces labor market test as NFP takes center stage  FXStreet",
-   "source": "ECB / Europe",
-   "publisher": "FXStreet",
-   "scope": "world",
-   "ts": 1782501876000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ1lKdkpTRzVFU2xYRE9aZUJhV2YyQVNaT0RDaDNPZTMxWlBiWHp6OWRwVjQ1eXJmUEdYYUxnSF9PMzNYd2p6RERwVVR5SlhvSFExamNxZ1ZwZUhneUxBdUo5d1VIb21VZmUwbDg1dHh5RDJ4Wll",
@@ -442,26 +572,6 @@
    "ts": 1782493637000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUl9mTU80WDlmd01EcUxjNmNlZ1NQc2U5TldOVWdjcUUtenljcXF2TnBNQVJqUHp2azUweXFFdGpKOG1pQUNOQzJXcXFsbkhsa0J6bjU5TzY3WTMzekRtVXEyVmdwMDA1a1J0cGJDMm5rS3lJS2N",
-   "title": "Dallas Fed Study Suggests Long-Term Interest Rates Miss a Key Market Factor - Fort Worth Inc.",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUl9mTU80WDlmd01EcUxjNmNlZ1NQc2U5TldOVWdjcUUtenljcXF2TnBNQVJqUHp2azUweXFFdGpKOG1pQUNOQzJXcXFsbkhsa0J6bjU5TzY3WTMzekRtVXEyVmdwMDA1a1J0cGJDMm5rS3lJS2NzUjBYZWRGaC1VZG92VW8xSHFkTEpPOERBd2ZhVlBHN0E?oc=5",
-   "desc": "Dallas Fed Study Suggests Long-Term Interest Rates Miss a Key Market Factor  Fort Worth Inc.",
-   "source": "US Fed",
-   "publisher": "Fort Worth Inc.",
-   "scope": "world",
-   "ts": 1782489729000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVjdCS0dPWlNzTHN4N2hDc0VOQVd0TFdDVnFBNkVrWnotY04wb1dlREwzOFVZNFA3Y0NhcmhVU1BCOXpfdnBrdHFMSTd1MllnZF9hOTdkemdNamI0WW5WSnY4Q2txTkZjWEQxWGMtNTBJRmhtRUp",
-   "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year - CNBC",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVjdCS0dPWlNzTHN4N2hDc0VOQVd0TFdDVnFBNkVrWnotY04wb1dlREwzOFVZNFA3Y0NhcmhVU1BCOXpfdnBrdHFMSTd1MllnZF9hOTdkemdNamI0WW5WSnY4Q2txTkZjWEQxWGMtNTBJRmhtRUpYaTZ0c3RsbkFCY2p0Y282X2tRdnZ1MFkzNGFpRmlBXzl0dXphN3dydWVvaWJOVWtpakd4Z3dUQXc0bXZiQUXSAboBQVVfeXFMTWJtUDk0c0VfbkNMbi1RU2U5dTVFS2hrM0xfWmdIek9CLTBjNGRuTlJLQ2d2X1J4Sm1xN21TNG1FS2YtTmVqN3M3UUg3elpUTzc4VU4zUDNmQ004UmVWdUFJWDlTX0MtaFpvQ0lRLVJuZVFJOWt0YWlRZ2tpY3ViTWgyVXNnSFhpaGlxNERiZzFaRXVEcmNWYXdBb0E3SWZnZDUtVGQ0RGhCNFV5dlF1UlRaOUhUSUpablhR?oc=5",
-   "desc": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year  CNBC",
-   "source": "US Fed",
-   "publisher": "CNBC",
-   "scope": "world",
-   "ts": 1782488740000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPb01QcWtKcWd5c1E1MjFSM2RXdFZkU0FaSjVkTzFnamtXcXpBYm5BeEFiV203ZFNMd3pscHlFaldUNTRHekkwNndJZ0d1dnhPbUE2M0RQSEdvdmgyU1NPNnRBUUdwVUhHMk9QaVgwY2lELVd4dlZ",
    "title": "Lost money in an online fraud? Here's how much you can recover under RBI's new rules and who pays - Mint",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPb01QcWtKcWd5c1E1MjFSM2RXdFZkU0FaSjVkTzFnamtXcXpBYm5BeEFiV203ZFNMd3pscHlFaldUNTRHekkwNndJZ0d1dnhPbUE2M0RQSEdvdmgyU1NPNnRBUUdwVUhHMk9QaVgwY2lELVd4dlZlRkJUc2h5X0hkS1RKSkFtdkR6RjA3bHpvQ2ZUTU9Fa2huNFBKaVZOdVlUU1QxWnAzd1FwR1dtbzdsZ1ZBMFlvd1ItdVZMTklMc0p0R0E4dnFVTFBqWERITEdxRk5jMWVYczRYS01Pa0FrVVlJV0NNRF8tY2dwNWxlQ1Bxdk3SAfgBQVVfeXFMTm5YLUoyc0FsSmxmeVFDbjM3R3JlNWs1OFN3QXNkT05UYkEydzkxbVpEazVrNXI4ZGJfT1BVTDhqY3BNd2g3dGRlNVJrTmF0ajRReVlvTmQzaUkwQngtRVp3dE51LW05RXV1QW9IQlRiek53UEpKVVQtYkNDTEF0Z3dyaFdST2VhdHdRNjhwMDdYS1A3aDU1WXdGUDh4bW5TVF94RFVSdXBMM3NUQkxkcGJmRjB5UlJiWk9kSUNnQ1l6RTVZalBxZDY3Q2MwMklqTG9MdDZzY2FWanVFWU93d19LQXpwNExtcnRFY21XSWVpR1JWLTZ2cHU?oc=5",
@@ -472,16 +582,6 @@
    "ts": 1782488598000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGeU1XVjFlMGRNd3NKOHBsdi1NV3pVOWp2cnNVbFJ1X2I5Q1BuckRnVG45QW9Vek5LNktzT0gzdnh6dnY2ZUJyNG92Zk5JTEpnZVo5cU92ZnZ3TUJpclhib2FCV01aV0Z5N2h4TFpLMzM?oc=5",
-   "title": "Deal or no deal - Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGeU1XVjFlMGRNd3NKOHBsdi1NV3pVOWp2cnNVbFJ1X2I5Q1BuckRnVG45QW9Vek5LNktzT0gzdnh6dnY2ZUJyNG92Zk5JTEpnZVo5cU92ZnZ3TUJpclhib2FCV01aV0Z5N2h4TFpLMzM?oc=5",
-   "desc": "Deal or no deal  Financial Times",
-   "source": "US Fed",
-   "publisher": "Financial Times",
-   "scope": "world",
-   "ts": 1782487203000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTVNtTzNpSFRvWTVmVUJrY2xpV3cwQmF3dldULWNtOXl4ckJscnZ6MEVvZ3JlUk41Sk93dFhxVTROajZ1SmxzRTFLUkFSN2lxXy1YbWtWbGZSN1pCdURoU1FWN21za0hQNERPNmwtR0RVMzFRT1R",
    "title": "SEBI rejects Anil Ambani settlement request over Reliance Infrastructure - The Hindu",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTVNtTzNpSFRvWTVmVUJrY2xpV3cwQmF3dldULWNtOXl4ckJscnZ6MEVvZ3JlUk41Sk93dFhxVTROajZ1SmxzRTFLUkFSN2lxXy1YbWtWbGZSN1pCdURoU1FWN21za0hQNERPNmwtR0RVMzFRT1RUd1hjcFJSelFCbTNmVXQyNUZSZnI3dG1ib0pWT3poZmJDdlkwRzlrZndJZlNQNXNadXFnQ3VlOG1OVFBVcEh0R0dzX2tGa2YtRzlQdjhWa0w5eGZXenNTSEFI0gHXAUFVX3lxTE9ka2x3SnlrZzFnTnRpR0M4akduNG5lQXB2NXBhZ2FSUzZJUjM2alFtWXFyUUtMbXg0MjdiYjdhTjJMVV95UUVfTFlUTC1pQWUwQ05majNZVEpIU3RRRWQ1Sk1ZMFg1cnhmZXoycGxSanhvZ3gtQjdYR0NyR3N0b3UwYXpuLVhzeHZjZEd1Zy1Bc0lUby1PWTFCd3dhTEZQRXdtSU45aHZsWkFlRVAwN01BRFl0ckRNZVB2R25XMTFzTklwa0xuUXZBQkdyYzNYaGd2RlY0SkpZ?oc=5",
@@ -490,26 +590,6 @@
    "publisher": "The Hindu",
    "scope": "india",
    "ts": 1782482801000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwaDEtMHNPdzhWWkZ1bTlmRl80dm1kaWI4elBuRkI5aFV4Qndla3lURFBqSC1jVUpjR3V6YVNMUlZxdnprYWh4RFVqMGhpZFVfMDZIQm1NbUJTR3kxSDFhV3g2bzExRm56aTNDc25peU1kRGlBZUZ",
-   "title": "Trump eases pressure on Fed Chairman Kevin Warsh as inflation tops 4% - CNBC",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwaDEtMHNPdzhWWkZ1bTlmRl80dm1kaWI4elBuRkI5aFV4Qndla3lURFBqSC1jVUpjR3V6YVNMUlZxdnprYWh4RFVqMGhpZFVfMDZIQm1NbUJTR3kxSDFhV3g2bzExRm56aTNDc25peU1kRGlBZUZCbFoyVUfSAYIBQVVfeXFMTlRpRjlGTGFZSE1BWnlUNlBwbGNRa01JSkctYmtISkV5a21EY0FxM3dXNkRWME5RdnRYSE9ZOE5IcWlqeDJuTEpjZ0RORmxvR3h4Qm1laUlkeTlJRS1JZGExai1TWVpvTlNSTzAyRVJTLVpOcTdPSTZVWHF6YXVZMkw1Zw?oc=5",
-   "desc": "Trump eases pressure on Fed Chairman Kevin Warsh as inflation tops 4%  CNBC",
-   "source": "US Fed",
-   "publisher": "CNBC",
-   "scope": "world",
-   "ts": 1782482309000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEX2k1XzFRcE1zWmpQZ3A5Q2J1WmRJV0NxVVYzUjh3ejRuTVVRbWJBM081OVZIbnh1aE9KUUVrWWNhdGNmMEIyckNHZkJNVDZEcjA0LUU2b3A0Zy1odjl2VVMwaGU3NllpejZmWU90VjNvUGo1ZFM",
-   "title": "Don’t Expect Lower Interest Rates This Year, Economists Say - Investopedia",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEX2k1XzFRcE1zWmpQZ3A5Q2J1WmRJV0NxVVYzUjh3ejRuTVVRbWJBM081OVZIbnh1aE9KUUVrWWNhdGNmMEIyckNHZkJNVDZEcjA0LUU2b3A0Zy1odjl2VVMwaGU3NllpejZmWU90VjNvUGo1ZFMzN2tWMTA?oc=5",
-   "desc": "Don’t Expect Lower Interest Rates This Year, Economists Say  Investopedia",
-   "source": "US Fed",
-   "publisher": "Investopedia",
-   "scope": "world",
-   "ts": 1782477600000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYmIzQlQ0Sk9MR1JEZl9najJCT3Y4amw0Vi1vRXdncnpIbmo1dkVxUlpRVjJ1bGI5VmhFbjRLSUsxZ1k4elR1NXBna0NzS21Fb3hnaVc1UEN1WThmZWduT2FkWXcxRXd4SkVmY3d2Nmx3OTRibHd",
@@ -532,16 +612,6 @@
    "ts": 1782474995000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOVhzTEt6NzhPRmxuMExGNVZSS29KX09XY1RxTUpBeVNlcWhkTS1rbGtZY2xPTzJqdVprb3FkY0xYSW5udG54T2RNX3JpVm5HTGN5ZDhvU1JOLXB2MEJmUGtFY1k0TmttMGdaTVNhcnlreDcyZlZ",
-   "title": "Fed to hold rates this year, economists say, defying market bets for hikes: Reuters poll - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOVhzTEt6NzhPRmxuMExGNVZSS29KX09XY1RxTUpBeVNlcWhkTS1rbGtZY2xPTzJqdVprb3FkY0xYSW5udG54T2RNX3JpVm5HTGN5ZDhvU1JOLXB2MEJmUGtFY1k0TmttMGdaTVNhcnlreDcyZlZsa2NyeUtRNzFrZHBvVEpIX0pqQkxGQjBURUNrUDQ0bzhWZGFfakJxclpyWFVqUWVWTXQyWUVXS2gw?oc=5",
-   "desc": "Fed to hold rates this year, economists say, defying market bets for hikes: Reuters poll  Reuters",
-   "source": "US Fed",
-   "publisher": "Reuters",
-   "scope": "world",
-   "ts": 1782473301000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPUlhqeV9zdzVIdUczcnktUENRNVZ5VkdlbnpoeThKc0tZVkxnTXh1SHU3RFd6elFUNkdCamJYd0R4QXFPTk00YmlueE5lalN3c3NHUU1xeXVlWXVEeDZNWHFTVlQ2ZjhjSV85Sl9WNHhpOEtONkN",
    "title": "RBI proposes new compensation rules for online banking fraud victims: Who can get up to Rs 25,000, and how - Moneycontrol.com",
    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPUlhqeV9zdzVIdUczcnktUENRNVZ5VkdlbnpoeThKc0tZVkxnTXh1SHU3RFd6elFUNkdCamJYd0R4QXFPTk00YmlueE5lalN3c3NHUU1xeXVlWXVEeDZNWHFTVlQ2ZjhjSV85Sl9WNHhpOEtONkN3bVRjQnkxc3cydHdPY01Jbjlac3RWTkpvYnBSRWhBdXd1NTJXWFhRQkV0X2ItcFNGeGJ6OEJGVUFhVW1xV3R1M2FKMmFIM2lTTEFsZmlFbWZpbWRRM2Fkc1VqVkdGX085ZnRrRV9QU0dkRmxXcDByUzlxZXA5RkJ6b2thWVFNZ0NGelhJdXZKb2xUbGhRRDV3Q0JPd9IBjwJBVV95cUxQVVRWaXlvVGlrazVzaFoycUktcmlPVzg1Tl9za2dXZDVYaktERXQzcmZQUk9HQTZrRGFKSXRnQmpEbkdLRGJUaTdJajdNZy1OaVpJVzlXRFpIT2lqSDRLcmhKODlLNExjSWdiRUZCNGRfeGlaMVFMaGtEa1AzbFVYY2Z4cEF3NTBIYWM1YzdaOFhGWjlzQ25rbGRFa2dMOUZ4ZGxUSmZ4My1XZ1JzNW5zMDgtWEZ4TUdMdUZkSmNhTHRtd1RYZm1IbFdpbjR6eTR5Zk5vdXlKc1IwQzNQZmZWaGR2cC1UV3FWQVc0NVJSclRLcFVxMjQ4MVBnSHZ3d0VjcDV3RTc2dWVNYUY4bEQw?oc=5",
@@ -562,16 +632,6 @@
    "ts": 1782471368000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vOGc5a0tzeGlkT3E0UDE3cklldWNZV042RE1MWEJsZ21yWkZzUDRNNy1yLXJYOVE5VW80dGFUVUZBYWlXVEt0Ri0ySlZGQzBNZFdDNVRtWmVBQzIzSWxxX0NmSVEyMlltdlRQR0Fya0hfT0syR1E",
-   "title": "Mortgage rates hold near 6.5% as Fed keeps policy steady - eciks.org",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vOGc5a0tzeGlkT3E0UDE3cklldWNZV042RE1MWEJsZ21yWkZzUDRNNy1yLXJYOVE5VW80dGFUVUZBYWlXVEt0Ri0ySlZGQzBNZFdDNVRtWmVBQzIzSWxxX0NmSVEyMlltdlRQR0Fya0hfT0syR1E?oc=5",
-   "desc": "Mortgage rates hold near 6.5% as Fed keeps policy steady  eciks.org",
-   "source": "US Fed",
-   "publisher": "eciks.org",
-   "scope": "world",
-   "ts": 1782468191000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzFxeWxMNE5CZzNEZ01wYXRyaVh5dFNTTWdCMk1iNTNZbVZPa2dkM1c5d09BaHhObERNeE40SkQ1MVhqNmttQk9WMDVDdzlIc0FhVjlyeWQwUHFLZWVoak1rNEROaWxudW1xNFdXTVluRkJqWWp",
    "title": "Bombay HC Puts Onus of Losses on Traders, Not Regulator - GujaratSamachar English",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzFxeWxMNE5CZzNEZ01wYXRyaVh5dFNTTWdCMk1iNTNZbVZPa2dkM1c5d09BaHhObERNeE40SkQ1MVhqNmttQk9WMDVDdzlIc0FhVjlyeWQwUHFLZWVoak1rNEROaWxudW1xNFdXTVluRkJqWWpTUHBvaHZVYnhnRzFITWJQN2ItMFJTUjlidllIZi1BS2pleFpubXNWcGdKZnBQVzcxVTlpZWpxTkZxYjRkSWRlaEk?oc=5",
@@ -582,14 +642,14 @@
    "ts": 1782465570000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZlpfRDcxRm12T0ozT2pfUzVTR1p4MzBvT2c3eW9WLTR5aWFidGl1T3dkY0Y0RWNGZGE3ajFaTURqYThCTWttY01RSHVhaGlLNW9VUDFLNVZwT3dkY3BHbVNaVHpSeDRGakxKNkh6bTBXVkxEOE0",
-   "title": "The Probability of a Federal Reserve Rate Hike Is Soaring, Which Poses a Serious Problem for Wall Street - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZlpfRDcxRm12T0ozT2pfUzVTR1p4MzBvT2c3eW9WLTR5aWFidGl1T3dkY0Y0RWNGZGE3ajFaTURqYThCTWttY01RSHVhaGlLNW9VUDFLNVZwT3dkY3BHbVNaVHpSeDRGakxKNkh6bTBXVkxEOE02dzVLZDdGamF6UnFiTzk4VVp0cVJVYnVSQmVxRkpMNTB4T2xCQWlfVGFZNzl5Vw?oc=5",
-   "desc": "The Probability of a Federal Reserve Rate Hike Is Soaring, Which Poses a Serious Problem for Wall Street  Yahoo Finance",
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaURXS1ZiZUtIR2VnOEJEQXlxcHJRdDdkWUpKLUtZM0I1bVR3M3JlM0hsUl8xbGdocDZzTHJjY2hUYlM2dmxFdGdqMTVYRldRaTNJRFdCdkxBbkNlOEh2Y04wdGRVV3d4cDM4ZXZMUXNQREhxbEJ",
+   "title": "The Probability of a Federal Reserve Rate Hike Is Soaring, Which Poses a Serious Problem for Wall Street - The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaURXS1ZiZUtIR2VnOEJEQXlxcHJRdDdkWUpKLUtZM0I1bVR3M3JlM0hsUl8xbGdocDZzTHJjY2hUYlM2dmxFdGdqMTVYRldRaTNJRFdCdkxBbkNlOEh2Y04wdGRVV3d4cDM4ZXZMUXNQREhxbEJrc3Rzc0E3X014TFcydzI0Tlc2eG50RlctN0syOUh2M2Jv?oc=5",
+   "desc": "The Probability of a Federal Reserve Rate Hike Is Soaring, Which Poses a Serious Problem for Wall Street  The Motley Fool",
    "source": "US Fed",
-   "publisher": "Yahoo Finance",
+   "publisher": "The Motley Fool",
    "scope": "world",
-   "ts": 1782462360000
+   "ts": 1782464760000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeDB2SDA1X0dhVFpOREZEZGZjRmxqN1gwSlRMcG9KRHB6X0dmNXBvcmNURzlNMVlrbkVMbTVEOTllaUpCckltRTRxZ0hDM2o5VGQ3c1A5N3dSYnpLNVhONWlIcWZyMWR4RFUxRnBualV6R3k0cEp",
@@ -600,6 +660,16 @@
    "publisher": "QA Financial",
    "scope": "india",
    "ts": 1782459243000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaGFNLWJTTTdfbWNLUkJlb0pNTHY3NHJmd1BoVm5zSVlXOTctN1FtbElQWlVrcnNOWF9VY0phWlhJYW8xWUFJQVRvbElDcTFTbE5wUlRWemJXeFZPVC1aY3lZcGMxSV85MGh3akM1UTEtRV9paGF",
+   "title": "UK gilts follow global yield trends - DWS Asset Management",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaGFNLWJTTTdfbWNLUkJlb0pNTHY3NHJmd1BoVm5zSVlXOTctN1FtbElQWlVrcnNOWF9VY0phWlhJYW8xWUFJQVRvbElDcTFTbE5wUlRWemJXeFZPVC1aY3lZcGMxSV85MGh3akM1UTEtRV9paGF3aGpDaTZQYzdXY0J6LW5PZDFldTJHUVlBLVBNQ21wRXJMTC16VXFIa3M?oc=5",
+   "desc": "UK gilts follow global yield trends  DWS Asset Management",
+   "source": "ECB / Europe",
+   "publisher": "DWS Asset Management",
+   "scope": "world",
+   "ts": 1782458929000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSF8tSkRwbW1fLUdac2JhbHJ6cnJYWl9jcmN1QjhFRXFPRTdiNEFFUGhMUmtqSVlvaURxenA1NTBEZkdBXzFLcFQzZnlNZnJzdkVyWkVQNVp6U0g4ZGw5R0ZrX1B3TURPWVRUcTYwaEFRRVBMNTI",
@@ -642,6 +712,16 @@
    "ts": 1782457912000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUEhTaFFnVXdIeXlyU0JwSFlOOS1TcjBVbnNDVnNPT0pnaGZzTFZ0OWs0UjBZbDF2SUFTTW44SUk0M3dINUZPak43OHhsbk5DbGxOSnNfSzNQNWdLdUJ1dkx5dWJWWXRFYTN5SkZxTjJCWlpYOWR",
+   "title": "RBI MPC June 2026: No EMI change expected, FD rates steady for now; inflation outlook in focus - Upstox",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUEhTaFFnVXdIeXlyU0JwSFlOOS1TcjBVbnNDVnNPT0pnaGZzTFZ0OWs0UjBZbDF2SUFTTW44SUk0M3dINUZPak43OHhsbk5DbGxOSnNfSzNQNWdLdUJ1dkx5dWJWWXRFYTN5SkZxTjJCWlpYOWRkd3g2cUN3NGdsLWVKZWlkbERrcnItLUlkalBDQVhxYXhiT294aG9jaElVTUR0cHlSSFQtOExhTm03RzZ3RThPRTlPeFRJbTVxdm90TXBfV1BQd0xlVHdWdWpXdXFWU3lsVDRTVS12Z3VyOHp4TzVpa0VmRGF3dXppLUx5eEg4VV9hQVlNR3dQcTQ?oc=5",
+   "desc": "RBI MPC June 2026: No EMI change expected, FD rates steady for now; inflation outlook in focus  Upstox",
+   "source": "RBI",
+   "publisher": "Upstox",
+   "scope": "india",
+   "ts": 1782457200000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPek5SaUlFbDJYam85bks5RVUxb3pYZERySi1tQUhJbEs0M0g3Z0dIeWVJb2FwN2tva3dMN2sxOGh2NVh6WkRkVGVadkFPNDBMWTdzOGFGOGNLZ2VlMlRUZmhOYnk1eWhlX1A3N0g5MjIzd0g2REQ",
    "title": "RBI proposes wider access to Indian Money Markets in draft rules - Moneycontrol.com",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPek5SaUlFbDJYam85bks5RVUxb3pYZERySi1tQUhJbEs0M0g3Z0dIeWVJb2FwN2tva3dMN2sxOGh2NVh6WkRkVGVadkFPNDBMWTdzOGFGOGNLZ2VlMlRUZmhOYnk1eWhlX1A3N0g5MjIzd0g2REQ1RFJ3cWpySWFlT0hqbXdHWFhlUHRuajJ4aTNRRUFGeVFWSHFvVWNiMXUwYThDWmNMRm10UmI4QVVuWXprVHduLUJfaDU5NlkweGlmcW9rbWVFTdIBzgFBVV95cUxPRW83SFk3ZXQ2cDFXR0pCdzVOU0xoTjRfRGQyNWxpbFhsWk41NnZNYWUyR3FsM0VkYWxBT2ZCcF9lMFNla2lVX1pJbEFPamJONFVjRUkyckMwdUozUmhLOW1NR25hdmdLRmxCZ1lROU04QUwxbW80bGFRdVNkMm5QVGsyVXFfTVFEWkJWSFA1N0lrWkticTMwY09rWmh4NFA3WGFTMnpJeWhnWXh5bW9oNjBGbHl5QzZQOFpoSHlsRjN2SkVjY2k5NHhWbF84UQ?oc=5",
@@ -662,16 +742,6 @@
    "ts": 1782450802000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UUExWSG56Y04wQ3FKYmpTc1pxc2JGZU52ekh4NXZlbm91MmZrWV9ndmxWaDEya0oxUUFvRTNxZ2E1S2NGMnhOZ2FseFNKc29aVGtrNXhxU0kySVJQYjBoeGhtQlNVSm5KNHdNU05xbGo?oc=5",
-   "title": "Outlook for Fed interest rates shifts in a hawkish direction - Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UUExWSG56Y04wQ3FKYmpTc1pxc2JGZU52ekh4NXZlbm91MmZrWV9ndmxWaDEya0oxUUFvRTNxZ2E1S2NGMnhOZ2FseFNKc29aVGtrNXhxU0kySVJQYjBoeGhtQlNVSm5KNHdNU05xbGo?oc=5",
-   "desc": "Outlook for Fed interest rates shifts in a hawkish direction  Financial Times",
-   "source": "US Fed",
-   "publisher": "Financial Times",
-   "scope": "world",
-   "ts": 1782448427000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXZ1OXRpV19XdDBDTEhYcWFLQi1LT05sNTdUcVRTTjdDdTJGekREbEFQS05KVC0xX1k4cE1vMWRSZkQtaFloVER0S3Q1a3BON1JsT3dkc1U1NDNfZFlEc1R1SjBQc0Q3a0lVaHBrTTJ4WnZGTkg",
    "title": "Press Briefing Transcript: Julie Kozack, Director, Communications Department, June 25, 2026 - International Monetary Fund | IMF",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXZ1OXRpV19XdDBDTEhYcWFLQi1LT05sNTdUcVRTTjdDdTJGekREbEFQS05KVC0xX1k4cE1vMWRSZkQtaFloVER0S3Q1a3BON1JsT3dkc1U1NDNfZFlEc1R1SjBQc0Q3a0lVaHBrTTJ4WnZGTkgzalljQVdiMkJ0c3pFbWRqbHhqdFdGVmZtR0lSMUc4SVJILXN2M2xwM2FzUmpQag?oc=5",
@@ -682,16 +752,6 @@
    "ts": 1782447547000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONG5YT3BjaVJ6NFBmSWhqcm9uRmRmTU9VTHFQZmo4dC1hVGQwMzRibGlkWGExTFd1SXpCMGN4czFwX01YX09XRS1IRUJscFZqck94aFBUN0hQaVJNeUVGM2JnWnlJRnh5U0ZKOWN3cVZmZ190S0p",
-   "title": "IMF says it will take time for energy, commodity prices to normalize after US-Iran deal - ZAWYA",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONG5YT3BjaVJ6NFBmSWhqcm9uRmRmTU9VTHFQZmo4dC1hVGQwMzRibGlkWGExTFd1SXpCMGN4czFwX01YX09XRS1IRUJscFZqck94aFBUN0hQaVJNeUVGM2JnWnlJRnh5U0ZKOWN3cVZmZ190S0paWHNsZ3pYaDBSMXh5Y1FpUDNtYkZMVzI1dzc4c3pxTzhVVlYzSWEyZE42dlJhMUMxSjdHT0FXblJxUkROMzB4T1Mya3pnOE8xdTAzWVdETmVDVGlINlpHR2Ro?oc=5",
-   "desc": "IMF says it will take time for energy, commodity prices to normalize after US-Iran deal  ZAWYA",
-   "source": "IMF / World Bank",
-   "publisher": "ZAWYA",
-   "scope": "world",
-   "ts": 1782444580000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjFXSjZFbzhLYXpvRXF2OEl2b3pLYmt1UVNxMlBFdWc0UnJXbVo4aVJQY002REF4UWhGc1JEdjZtRjhjOVpSbEFRdDBfV2d4NWZkMlF3UkVOTGE2SVRrcnd3Zzg4TGtXVzhsNE5yZnhPeGU3OXY",
    "title": "Tata Sons Listing Pressure Mounts As RBI Rejects Rule Tweaks - NDTV Profit",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjFXSjZFbzhLYXpvRXF2OEl2b3pLYmt1UVNxMlBFdWc0UnJXbVo4aVJQY002REF4UWhGc1JEdjZtRjhjOVpSbEFRdDBfV2d4NWZkMlF3UkVOTGE2SVRrcnd3Zzg4TGtXVzhsNE5yZnhPeGU3OXYtcktLWUhLcVFsNG5QZXlpYlRLeHg3WWk2cms3dnlvaE1tejg1N2JLbHc2ajgzYkpDY9IBrwFBVV95cUxOT0d1Q1BKWi1Ld1RKLVFvb0hmUDk2dWVZbEZfQ1dPaXdBOV8xai1SVjQ3MUlya1ZCQlVwSmV0bGwzaGRCS1VsM3huSmZDX1pfZjNFMWdpTVp1bjJBVWZ3YndDeTlQcUk3THQ1djdsWk1hSUd5eXJiYVdIOFhPUV9BY0x0STFYam9MMTFSUzI0eHdfVVM1LUNoVkozZEN5UDE5dlN1ajJNdk1qZXBpeHhF?oc=5",
@@ -700,66 +760,6 @@
    "publisher": "NDTV Profit",
    "scope": "india",
    "ts": 1782442954000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVVpXcVM2UGZ5c2lsOG9qa05VNm1nemR2Z3hTNlNJc0dDM1RVZDNRbGhMeUZzRFExaHdpNXd3cjFRV3lQODJmaXFOSHFjbGhrWTBBRDNtdWRtQlhDaXUxOXdwOW9KajExQzRaMzhMenJyWWx5bUp",
-   "title": "Why the Federal Reserve may raise interest rates this year - CBS News",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVVpXcVM2UGZ5c2lsOG9qa05VNm1nemR2Z3hTNlNJc0dDM1RVZDNRbGhMeUZzRFExaHdpNXd3cjFRV3lQODJmaXFOSHFjbGhrWTBBRDNtdWRtQlhDaXUxOXdwOW9KajExQzRaMzhMenJyWWx5bUptZEdlaDV0aVphNm5wOVJDeUdVS3hrZHpn?oc=5",
-   "desc": "Why the Federal Reserve may raise interest rates this year  CBS News",
-   "source": "US Fed",
-   "publisher": "CBS News",
-   "scope": "world",
-   "ts": 1782430080000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUVBpM1ZwckxZVGtHRmFrWVB1eDgxSXRfQTNUQ1p2T1pxWDNFZlBSQWg3NmljbS1OMmIyODNDcVRHQWRQcWpTQTFXUnZJakpvSVpSRE1PTkZhRHhoVzljc2pISkNrbFJnOW5NZzhISXJ2d1VZdEU",
-   "title": "PCE report: Fed's preferred inflation measure hits 3-year high, keeping talk of possible rate hike in play - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUVBpM1ZwckxZVGtHRmFrWVB1eDgxSXRfQTNUQ1p2T1pxWDNFZlBSQWg3NmljbS1OMmIyODNDcVRHQWRQcWpTQTFXUnZJakpvSVpSRE1PTkZhRHhoVzljc2pISkNrbFJnOW5NZzhISXJ2d1VZdEUyN1MtYl9PSVN4eGktcXhvUno2SGNseFNVaEFIX0hVcVRkZHZfVzZGWXVwTmlsSHoxZnlycTNRcWZVazctUHBwVmJWSW1wQkxjQk1KVGh6VkxobHMwQzVMcnN4SGJmU2F5UkhCOTd3NWZzREJ5RnFfS2ZaRHdLdkJfalBSUjJpYXAxUy00Zw?oc=5",
-   "desc": "PCE report: Fed's preferred inflation measure hits 3-year high, keeping talk of possible rate hike in play  Yahoo Finance",
-   "source": "US Fed",
-   "publisher": "Yahoo Finance",
-   "scope": "world",
-   "ts": 1782420772000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb1Y0TzNaN21iM2JUWUgyUVBKdmdUT3ZpLVByUnpLRGRDblJBNm5abVNRSlZVSmhFYm55SU5HOG5hZFMyOFdkZWhaWXRKWmxROXpkQmtKdWxzRlhxR1dDbkc1emE5bk9nLUJkVXRDdlEyb0xUUkN",
-   "title": "Fed's Williams: Inflation still too high, rate policy 'well positioned' to lower price pressures - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb1Y0TzNaN21iM2JUWUgyUVBKdmdUT3ZpLVByUnpLRGRDblJBNm5abVNRSlZVSmhFYm55SU5HOG5hZFMyOFdkZWhaWXRKWmxROXpkQmtKdWxzRlhxR1dDbkc1emE5bk9nLUJkVXRDdlEyb0xUUkNvWkp3eWVieHVmMUxXdGJVd2x6VUo1Rll6TDhXbDVtU0p5X25kNk5DcXFhQVRjb083VXloWHBtc0tua2xHWmx3eW92NzFmR3JITzNJenM?oc=5",
-   "desc": "Fed's Williams: Inflation still too high, rate policy 'well positioned' to lower price pressures  Reuters",
-   "source": "US Fed",
-   "publisher": "Reuters",
-   "scope": "world",
-   "ts": 1782420354000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMFRhS2wwLU9lcnVKcmF0cTUyb3V0S3VaQnpHRHZ2NTdJQWk5bFZ0UlF6UDZGTlBWSFZtY0dRVVo4bG1aajBhZXpjaGhPUXFYUUJmTXpjS19VWlhWVVNldHI1Q0JXNUN1MFBXT2JEcjUzSXdMUkc",
-   "title": "Fed rate hike fears grow as inflation tops 4% in May - Finance & Commerce",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMFRhS2wwLU9lcnVKcmF0cTUyb3V0S3VaQnpHRHZ2NTdJQWk5bFZ0UlF6UDZGTlBWSFZtY0dRVVo4bG1aajBhZXpjaGhPUXFYUUJmTXpjS19VWlhWVVNldHI1Q0JXNUN1MFBXT2JEcjUzSXdMUkc5T0hGSzBuSzdLQ0tDQThOd3h5WDBneA?oc=5",
-   "desc": "Fed rate hike fears grow as inflation tops 4% in May  Finance & Commerce",
-   "source": "US Fed",
-   "publisher": "Finance & Commerce",
-   "scope": "world",
-   "ts": 1782420073000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcUQ0cjRQMkV1V0N2Z1FHVWpvb25QYWNIOUtQRFBDNll5S19LTUJSVmdrT0swMk5kQnRIUGxuMk9rc0ZqYUstWFNDZ0F4U01sYmlMUjJNb1IwTmlXNTlBZ3Bvb2hibkIzZExrZUxBcUJQSWpEdEN",
-   "title": "IMF Tracks Inflation and Market Risks After US-Iran Deal - Caspian Post",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcUQ0cjRQMkV1V0N2Z1FHVWpvb25QYWNIOUtQRFBDNll5S19LTUJSVmdrT0swMk5kQnRIUGxuMk9rc0ZqYUstWFNDZ0F4U01sYmlMUjJNb1IwTmlXNTlBZ3Bvb2hibkIzZExrZUxBcUJQSWpEdENwNjhjS2hmN3lpd3hTV21NX0VCSDZJME5ZNmFkVERB?oc=5",
-   "desc": "IMF Tracks Inflation and Market Risks After US-Iran Deal  Caspian Post",
-   "source": "IMF / World Bank",
-   "publisher": "Caspian Post",
-   "scope": "world",
-   "ts": 1782419892000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXhTa2tNaU83WVNXTVJncTZBeDhGb0YxTXJqVWM0V2h3Z3FabVBSVWxuMmtSOTloaUgwVjZVYlhNQ1lDNzNpcllkM1NMNWxwVHZUTG5Pb0R6UDZVTk9lZ0xNdkpiVGVUVnBPcW50QU9TbE5QOTJ",
-   "title": "India continues to drive global growth amid external headwinds: IMF - The Indian Awaaz",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXhTa2tNaU83WVNXTVJncTZBeDhGb0YxTXJqVWM0V2h3Z3FabVBSVWxuMmtSOTloaUgwVjZVYlhNQ1lDNzNpcllkM1NMNWxwVHZUTG5Pb0R6UDZVTk9lZ0xNdkpiVGVUVnBPcW50QU9TbE5QOTJPUVd6NzhDMWZpR1FmdkZLbk1IcmdJSXh4Z2w4U0lLZ1NfckZ3?oc=5",
-   "desc": "India continues to drive global growth amid external headwinds: IMF  The Indian Awaaz",
-   "source": "IMF / World Bank",
-   "publisher": "The Indian Awaaz",
-   "scope": "world",
-   "ts": 1782416400000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQnhfdzhCSWp6RFFRcS16NGpTM09EU2xQcVdhQV9wcHRxaVE2ZkhYaFk1VjVvSjFHMWdwczk0N3k2RWU5TVBCNkp3MnJCMjgzMEt1Y1RKbVRuUm9GbWFiZGxTdkowYXQ1QmhzUFZWVDF4aHJDYjV",
@@ -792,46 +792,6 @@
    "ts": 1782400575000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMVU5dUJaSWZ0YUR6NElaLWxSeW00RW5Za0xXTnVoR2Zsek9VMFZpSGpDRWQ1THY1UGRqbVBwamNBeWwzcGZUckQtalN0RWhVeW9vRGMzN0xHRzMxZHl1UFNwZVJqRm41OXBVWXVIdEhLQWhkSVp",
-   "title": "Inflation hits 3-year high, pressuring Fed to raise rates as election nears - Politico",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMVU5dUJaSWZ0YUR6NElaLWxSeW00RW5Za0xXTnVoR2Zsek9VMFZpSGpDRWQ1THY1UGRqbVBwamNBeWwzcGZUckQtalN0RWhVeW9vRGMzN0xHRzMxZHl1UFNwZVJqRm41OXBVWXVIdEhLQWhkSVptOWZaWWh0UU1jWFBSQTgyLUhJYkF3?oc=5",
-   "desc": "Inflation hits 3-year high, pressuring Fed to raise rates as election nears  Politico",
-   "source": "US Fed",
-   "publisher": "Politico",
-   "scope": "world",
-   "ts": 1782397746000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdHVTTGszWHVaT0M0WHh6WjAtaG93S2VSSm5aeG5VbU1rbkZveFhoYzlidWpmNVdueFVxZ3I0UkpGRW1PQ09jdFVLQmlTSmI3aEFjZWNTdElXNjlVRVcwZXJYaUQ1YVBiR3htZ2tuU1ZyS3lRMmh",
-   "title": "RBI proposes opening term money market to NBFCs, companies - Mint",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdHVTTGszWHVaT0M0WHh6WjAtaG93S2VSSm5aeG5VbU1rbkZveFhoYzlidWpmNVdueFVxZ3I0UkpGRW1PQ09jdFVLQmlTSmI3aEFjZWNTdElXNjlVRVcwZXJYaUQ1YVBiR3htZ2tuU1ZyS3lRMmhSVTVVUnZIbEdlVllDU0lQb1FrU2ZaeEhhYzNINlAyczV5aUhveW0wT1BNZG5VTFRGQVl0Y3dv0gGyAUFVX3lxTE9kUWpFWl9MVkZTd1BpZVhZZFJXT2U0aTR3NTZvT0dqSHpTTWdPd1MyT3ViZGVzWjBZXzZDUExOTzRYTnBuWk5RX1R2c3hoU2gzM0ZFMTZ0ek9yeHVaVjNRQzFhLU5zbE9LSDRNcDBfaU9wMW15QnlNc1djcUVua0pIQXZYdXdRVWI4bEZSQ2F5NzN3VDh6bi12dzFMTGYxSTFqX3lQSEpINXJZUGwtNnhDdHc?oc=5",
-   "desc": "RBI proposes opening term money market to NBFCs, companies  Mint",
-   "source": "RBI",
-   "publisher": "Mint",
-   "scope": "india",
-   "ts": 1782397721000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQakg5bnJCNG40dlN6R0dTRnBnMm5fbDF4aWs0RXh4TzZaQ0F5ZVhuVVRhSE5hMFd6Ml9faWlSdlBWRmhJSGFaYkZ1X2Z2aTdsOGI3NGViQjJqVUhybnJyRmZxeTNHSE1icThJcFhxbjJVdUpUXzh",
-   "title": "Bank of England drops individual holding caps in stablecoin rule rethink for 2027 - Global Government Finance",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQakg5bnJCNG40dlN6R0dTRnBnMm5fbDF4aWs0RXh4TzZaQ0F5ZVhuVVRhSE5hMFd6Ml9faWlSdlBWRmhJSGFaYkZ1X2Z2aTdsOGI3NGViQjJqVUhybnJyRmZxeTNHSE1icThJcFhxbjJVdUpUXzhaVVlSQjZvSVdWV0dLa1NnQWZTUWRHUVR3?oc=5",
-   "desc": "Bank of England drops individual holding caps in stablecoin rule rethink for 2027  Global Government Finance",
-   "source": "ECB / Europe",
-   "publisher": "Global Government Finance",
-   "scope": "world",
-   "ts": 1782397011000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVk00RzlFdHFJVkhBbGVLVDZHOWtmc2xabW1KaTBadTJJWEVtbHFUaFhHMFVIa2dpSng4NzYxUDc4MXZTNVZSeTBiUVRZRDlTY01DaV9wUElHakRyRGJIOW94VUt3Yl91ZHVVZVAyQjRQS0hQMW4",
-   "title": "Fed expected to hold rates steady in July, hike in September - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVk00RzlFdHFJVkhBbGVLVDZHOWtmc2xabW1KaTBadTJJWEVtbHFUaFhHMFVIa2dpSng4NzYxUDc4MXZTNVZSeTBiUVRZRDlTY01DaV9wUElHakRyRGJIOW94VUt3Yl91ZHVVZVAyQjRQS0hQMW45dG9JaDdJMWJvazBOcnVRU0FyVEU0Y3cxYUtDcmE0RmZJ?oc=5",
-   "desc": "Fed expected to hold rates steady in July, hike in September  Reuters",
-   "source": "US Fed",
-   "publisher": "Reuters",
-   "scope": "world",
-   "ts": 1782395275000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbGExeklMbElZeFdIeDhXd0VqNVk3LUg0bkRrMGJ0dUVHMGFNZUpfS2lPWDdCUmkyRTVpbDh6aW9YQzRzVTlGSnVFTjFMTzVQWG5ETXpHeVBURE5Kekp2dWdVV2VVUXF4eUZkZlJ2VV9QRW9DZVU",
    "title": "Sebi seeks clarification from Jio Platforms on IPO filing - The Economic Times",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbGExeklMbElZeFdIeDhXd0VqNVk3LUg0bkRrMGJ0dUVHMGFNZUpfS2lPWDdCUmkyRTVpbDh6aW9YQzRzVTlGSnVFTjFMTzVQWG5ETXpHeVBURE5Kekp2dWdVV2VVUXF4eUZkZlJ2VV9QRW9DZVU4WmgxTWRDMVl3SVZVS3A2bGJkQUVrRlB1WFJCd2RTNkxHVzM4eXo1T2VTdHZKSHhIY3hYVzdScTBiVHI2R1c1M1BFb3NuS1VMX2xtMGNRZElaUGFuY9IB0AFBVV95cUxONFNBWFJCT0pOeXhxTno2NWQ2TTRXaDdjX3YtOXdfM0Q1ZVJyb1gzWWs5aEMydnQ2QTE0eko0M3FvekZBX0FBWlJhanF3NEZ5MG9nSllhYWhWTE5qTVlQei03QmhCeFd4MUVoUk1sV1pYbmV6elR2d2lGalh3TXNoa0VFNGR6VTF0YUtfOHp5RDlybGlXdC1UMW9Bd3JPQ2ljdm9Pa1hCQTdvRGdzeVRfaTVnWXYtV1VsMDdxeXgyX3BSQ0FsOC1WdExyVk5NNWRE?oc=5",
@@ -852,14 +812,24 @@
    "ts": 1782392361000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNODJpSG0zUXZ3T3JiemstZEM0ek55U3NHQVh2YlVSdG1WZnBwdEFMQUhmemQ5NnlmVk0teWFqV2lsRXJ2XzB0ZjJ5YW91ejZWUjRzZ2RkdzdCekdGNjAya2VIRnVPbmdSODE4WlEyR1BVY3hBeXh",
-   "title": "The Fed's preferred inflation gauge shows prices rising at fastest pace in 3 years - CBS News",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNODJpSG0zUXZ3T3JiemstZEM0ek55U3NHQVh2YlVSdG1WZnBwdEFMQUhmemQ5NnlmVk0teWFqV2lsRXJ2XzB0ZjJ5YW91ejZWUjRzZ2RkdzdCekdGNjAya2VIRnVPbmdSODE4WlEyR1BVY3hBeXhyTDV4NmZBVE9ybkpkbERKTnh2cFE?oc=5",
-   "desc": "The Fed's preferred inflation gauge shows prices rising at fastest pace in 3 years  CBS News",
-   "source": "US Fed",
-   "publisher": "CBS News",
+   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRkNfd19nd2Y1eGNYVml4bDVMMDllV3ZlT3d5b1NPekVzR3BPMm1aT0lwMVViSGFJVGRHbkdteWg2Wm1MNXZ0XzlmbllrNjZIZ3JiTGRaZHpucGhzVHlPUU43WGFOb1RRdW56aXdEczZWTTFvQ1h",
+   "title": "IMF highlights positive Swiss economic outlook - SWI swissinfo.ch",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRkNfd19nd2Y1eGNYVml4bDVMMDllV3ZlT3d5b1NPekVzR3BPMm1aT0lwMVViSGFJVGRHbkdteWg2Wm1MNXZ0XzlmbllrNjZIZ3JiTGRaZHpucGhzVHlPUU43WGFOb1RRdW56aXdEczZWTTFvQ1hGZFhPN1Y3OTBFVGdtMk1PSWExbU50M2J3Sk90c01rMFp5Yi1DN1pVeXRZUlE?oc=5",
+   "desc": "IMF highlights positive Swiss economic outlook  SWI swissinfo.ch",
+   "source": "IMF / World Bank",
+   "publisher": "SWI swissinfo.ch",
    "scope": "world",
-   "ts": 1782391680000
+   "ts": 1782391093000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMnNXazBkUnBwMVBIUnJOM2MxUTBPYTY1TWNjdGlfUE16UUtpRjM5SGNNSTNiVlFyeEhUcFRRMWZHMzVwU093SWN4Q24xTnhUU1RKN0Zia19PNkNtVU03OVFyUzdvRWNmbktBc21wUFJlQi1fRFp",
+   "title": "SEBI clears Torrent Gas, Kanohar Electricals, Sathya Agencies IPOs - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMnNXazBkUnBwMVBIUnJOM2MxUTBPYTY1TWNjdGlfUE16UUtpRjM5SGNNSTNiVlFyeEhUcFRRMWZHMzVwU093SWN4Q24xTnhUU1RKN0Zia19PNkNtVU03OVFyUzdvRWNmbktBc21wUFJlQi1fRFpkVl9kU0pHSnpWRU9vUkFTNjluaTE1SWxBOG5GdnJkdW1kMnViWVdDbHZoaW5jSkoweF9DSFdTeDNhRkdXUnFDMi04bmJUREJvLWdZRmPSAcgBQVVfeXFMTllDUUJGNUFfNjRoSFRKOE1ZU2hnc0ZUQk5SaFVfaElVcHczczlHcUFBVDVsUVZQeXpNa3VZNC1nMnVITHpkNWxtOTRNV3NQVzZqRXJJa3BjZ2tqWFNnb3dWdnFudGc0cHdmV0hwdWhPdEhoZnNmV1hXUFZpM1I1TmFZZGR2R2hfbUtIZldpN0pzQllzZGlZZUlFb2pSUWc4b0pBaU5Kc3hlbnlXTnZqV3k5akFmSFBYSTIweGhXa29JaXdUUUMtUUo?oc=5",
+   "desc": "SEBI clears Torrent Gas, Kanohar Electricals, Sathya Agencies IPOs  Moneycontrol.com",
+   "source": "SEBI",
+   "publisher": "Moneycontrol.com",
+   "scope": "india",
+   "ts": 1782388366000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUp1a1pJWTdyY0sySGpKNXFtRFpGWTRTTGtPNnNZbUZFSzdUSWNyZGdMeWhDY1U2MkJEQTh6MEp3YWVDbjZYaUNlakdxbHVqc2tnQlJ6QUtDSHNfaUpzRGYtcUo4RGc1MmJiREYyNnNSLVJUUlN",
@@ -892,54 +862,14 @@
    "ts": 1782383387000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2xYMVNxREhIRmpJUjdXV3BXWTE1SmJER1YwOXhJVGozUkdScTdnWWRXLUxmOHhwWnAyOTY0MU9VVm5tZWNzd1ZmRUJCZGpNQ1I5Y0RTODJQZGFTNG9LYVpvT3hLa29uSkRjVjNXNFFoQmtCdG9",
-   "title": "US bond market expects rate hikes the Fed may never deliver - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2xYMVNxREhIRmpJUjdXV3BXWTE1SmJER1YwOXhJVGozUkdScTdnWWRXLUxmOHhwWnAyOTY0MU9VVm5tZWNzd1ZmRUJCZGpNQ1I5Y0RTODJQZGFTNG9LYVpvT3hLa29uSkRjVjNXNFFoQmtCdG9CMHpRbktQY2pXR3p3ZFg4YXpWd1NCQ3NsellISWpQbHNtVnl4WVM2cVlvV1cyWDBwMlZpV3Zs?oc=5",
-   "desc": "US bond market expects rate hikes the Fed may never deliver  Reuters",
-   "source": "US Fed",
-   "publisher": "Reuters",
+   "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNHhQZmVlRTNSV0QzZmY0ZDBNdVQ5RzlxX1ViOHJjR082MDB3ZFFKTUdaZlpKOVZnR0dlUTlBRWdyemlOSnRZV3JycHVjTk1XdU5iejBlS3ZjSEM2cXlxWUxyVTczYnZXTFlvWXhUdDRwTXYxQUl",
+   "title": "World Bank Regional Director Abebe Adugna: Global Economy Enters Period of Slower Growth, Higher Inflation - БТА",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNHhQZmVlRTNSV0QzZmY0ZDBNdVQ5RzlxX1ViOHJjR082MDB3ZFFKTUdaZlpKOVZnR0dlUTlBRWdyemlOSnRZV3JycHVjTk1XdU5iejBlS3ZjSEM2cXlxWUxyVTczYnZXTFlvWXhUdDRwTXYxQUlYNTlWTXVyOWthaWZOYWVTTWc0dTdBUU10M3NiOWJjQlBNazRiRWQ3RzJkd0RuOFFXRl9lb1plNm5MWmtvdUg4RXJhTkNJRWNBMA?oc=5",
+   "desc": "World Bank Regional Director Abebe Adugna: Global Economy Enters Period of Slower Growth, Higher Inflation  БТА",
+   "source": "IMF / World Bank",
+   "publisher": "БТА",
    "scope": "world",
-   "ts": 1782382147000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DMTduUWtXalpZQXFneW1XeVZnZGxUR3hQR0loeFpBLVI4VUpnTHdkclVFQlpwSnFTRlRtT2wtTEhjYlE4Z2hFTk9oWl9HY2YyMFJCdWxxaXdGVGw4MVF5NFp2WG5RQVFGWXJYeU52Q1VPemc?oc=",
-   "title": "30-year mortgage rates fall to 6.47% following Federal Reserve's decision to keep benchmark rate unchanged - eciks.org",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DMTduUWtXalpZQXFneW1XeVZnZGxUR3hQR0loeFpBLVI4VUpnTHdkclVFQlpwSnFTRlRtT2wtTEhjYlE4Z2hFTk9oWl9HY2YyMFJCdWxxaXdGVGw4MVF5NFp2WG5RQVFGWXJYeU52Q1VPemc?oc=5",
-   "desc": "30-year mortgage rates fall to 6.47% following Federal Reserve's decision to keep benchmark rate unchanged  eciks.org",
-   "source": "US Fed",
-   "publisher": "eciks.org",
-   "scope": "world",
-   "ts": 1782381786000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc1lyNzUzdDQ2VHBBWWstZWJxVDFkSXJiQlNQb2tJOXpYNTFYTzI2YllKMXpJV1hkcUNKZXVWUjBSakZKM1Fzb2hWZmduQVRhNlkxRWxfLURfUXRvcFVtTEpZS016a01BaTVkZk5SMXRsMDZha2p",
-   "title": "Will AI lower interest rates? - The Economist",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc1lyNzUzdDQ2VHBBWWstZWJxVDFkSXJiQlNQb2tJOXpYNTFYTzI2YllKMXpJV1hkcUNKZXVWUjBSakZKM1Fzb2hWZmduQVRhNlkxRWxfLURfUXRvcFVtTEpZS016a01BaTVkZk5SMXRsMDZha2pvMTNQV25FamtrMGtkMU1faEdGaU1ldkpqM0I?oc=5",
-   "desc": "Will AI lower interest rates?  The Economist",
-   "source": "US Fed",
-   "publisher": "The Economist",
-   "scope": "world",
-   "ts": 1782380389000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaEJ4aHVONHl0OURIbTY5eVlKTG13MFJnSWdWVzltWGZCVmtUb1IyM0hQWFloMndGSUZ0alNFakJzWjBFdmZkSFZwRUNzczF2MFktZ3hNa1dLV1pQd2RCck1URm5YYnRDbWY5SVg3SDUtWmh3NV9",
-   "title": "U.S. Inflation Problems Are Far From Over - The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaEJ4aHVONHl0OURIbTY5eVlKTG13MFJnSWdWVzltWGZCVmtUb1IyM0hQWFloMndGSUZ0alNFakJzWjBFdmZkSFZwRUNzczF2MFktZ3hNa1dLV1pQd2RCck1URm5YYnRDbWY5SVg3SDUtWmh3NV92djdDMnFHQ3VmbG9oUjE?oc=5",
-   "desc": "U.S. Inflation Problems Are Far From Over  The New York Times",
-   "source": "US Fed",
-   "publisher": "The New York Times",
-   "scope": "world",
-   "ts": 1782378236000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSzloemo0bUotOW9FeVpSNElqY3ZBelNNcE94SWVRZTBJN3VtUEdidjNVYkJHYnZiTmo0VXM1NWQyTDI4US00ZHVwNXJzZWdoVW9DYm1Rd202dzludlRobE82d3RiUy1MVDd3OGg1b1J3cHJTVDN",
-   "title": "The Fed Isn't Cutting Interest Rates Anytime Soon -- and Kevin Warsh Is Putting the Blame Squarely on President Trump - The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSzloemo0bUotOW9FeVpSNElqY3ZBelNNcE94SWVRZTBJN3VtUEdidjNVYkJHYnZiTmo0VXM1NWQyTDI4US00ZHVwNXJzZWdoVW9DYm1Rd202dzludlRobE82d3RiUy1MVDd3OGg1b1J3cHJTVDNwN0o0MWREbmxOemtjNTI3TUtLaXc1bC1rRGNlODNibTZJMg?oc=5",
-   "desc": "The Fed Isn't Cutting Interest Rates Anytime Soon -- and Kevin Warsh Is Putting the Blame Squarely on President Trump  The Motley Fool",
-   "source": "US Fed",
-   "publisher": "The Motley Fool",
-   "scope": "world",
-   "ts": 1782377100000
+   "ts": 1782377374000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON0RlYTY3YjExb21mWll4STlsR3VJNGFNSnZrZWYwMEZVZk55SFlkVlZBTzFwU1BrWlhxSnRqUlJwU2xzMUJ1eTdrczJSa2ZUNVNlTkFtd0hFaTRxenJ4NXJuRFk4UGZ4STB2eUMxY0xrU3FVSjR",
@@ -950,16 +880,6 @@
    "publisher": "BFSI News",
    "scope": "india",
    "ts": 1782376448000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcDB3SzBYR2V5WGFwSzdVU2xzc2hwVUVIaGJZb1g5YXZ0QnNvektRZ3BMc0trUGROOEJVN1MxQWg2T1RtanNsb3diWlluVkRYNC1nVEFweTcybGEwX3loNjdNU2JDZVNSbzlmQmpfWDd5MVJ3QzF",
-   "title": "RBI’s Digital Fraud Compensation Rules: Victims To Get Up To ₹25,000 - Inc42",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcDB3SzBYR2V5WGFwSzdVU2xzc2hwVUVIaGJZb1g5YXZ0QnNvektRZ3BMc0trUGROOEJVN1MxQWg2T1RtanNsb3diWlluVkRYNC1nVEFweTcybGEwX3loNjdNU2JDZVNSbzlmQmpfWDd5MVJ3QzFwZDdPY0szMWFVY0FFMURBdnlueXRPVmJfMWQxQWxlblZYN29jMGlQQQ?oc=5",
-   "desc": "RBI’s Digital Fraud Compensation Rules: Victims To Get Up To ₹25,000  Inc42",
-   "source": "RBI",
-   "publisher": "Inc42",
-   "scope": "india",
-   "ts": 1782370478000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcjdYRUJBQjV5NE50Y1Itdnl5UHJFNTMyNzF3dXZXZDBGODd1VjAwUDZ5NDRxSmxoNUhyZ2QyX1oxdV96Q1M1dW9TVjQzRS1nb2dDTTdzQmZ6bXFacU8zUFZJZm5BbVdYZXNseEk3bTZLbXpWYW5",
@@ -1012,16 +932,6 @@
    "ts": 1782362940000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY3pRZXdRODZfajRNWjVpTEpFUXg2SGp5X0FkeXN0QmxvS3ZsZ09DS3I4cXgyLXI5NXk0cmV3NnFxbUVaTHV2RU1lMnBvMV9vREpOZ2FibXFTRVBwVzlJNnpHd1BfUzRERWlqYTJmSzNRU3cteWN",
-   "title": "RBI move revives foreign appetite for G-secs; FAR inflows hit Rs 35,335 crore - Moneycontrol.com",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY3pRZXdRODZfajRNWjVpTEpFUXg2SGp5X0FkeXN0QmxvS3ZsZ09DS3I4cXgyLXI5NXk0cmV3NnFxbUVaTHV2RU1lMnBvMV9vREpOZ2FibXFTRVBwVzlJNnpHd1BfUzRERWlqYTJmSzNRU3cteWN3alp3dWlCSWY1UVp6Y0RLZDNkdmQ4LWdtalhfUkFGSlBJbHkzVmpReWd6UHVBY0d0WjRGOVdYUjkzUVMwdHJ0TDRwZ255Wk9YQThzSHVkelQzZ28yTHZhVW11Y1YwLWt4TEPSAd4BQVVfeXFMTzVfTmxscHpNVVZDR1hCeWhPNjRnbnZHNW4xUDVlTUxqRU1BYjE5UVp2S3RUNWZUczBubXRJZnBpSDdoTDJlWWpvT3pib1FkSFpwbTBvTU4ydl9mVWJtWGV5REVTWmppR0FNYXRtVEVmRXJ6Z1pMRThXclRianJEZU1vMUFpRWFtT04xNnpOdFdGU2FZOThIWWdOMDdlV0pxdTQyS3NycmR4bUdoQ1dZR0szWWJyUWtBajU3Z2xNd0dvaGthOWdNazFwUGNSMVE3Qm1NUkRKaGFMTVpNZzJn?oc=5",
-   "desc": "RBI move revives foreign appetite for G-secs; FAR inflows hit Rs 35,335 crore  Moneycontrol.com",
-   "source": "RBI",
-   "publisher": "Moneycontrol.com",
-   "scope": "india",
-   "ts": 1782361244000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWm9JUE1EZF9lVmxBclNSTXpWX3VKdl9YZHRyN1MyWkh4RlVWVGVMdm9WZUdRbzdUWFRGX3BGTFE3em5YaGpIcjNleFBOLTh2UEpzNmFKVTV6NGt0c3FRQzJQcDdYN2NKM1k0VlVvTEdwU0xQbU5",
    "title": "RBI's digital fraud compensation rules 2026: How much you can recover, who pays; check calculation - Upstox",
    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWm9JUE1EZF9lVmxBclNSTXpWX3VKdl9YZHRyN1MyWkh4RlVWVGVMdm9WZUdRbzdUWFRGX3BGTFE3em5YaGpIcjNleFBOLTh2UEpzNmFKVTV6NGt0c3FRQzJQcDdYN2NKM1k0VlVvTEdwU0xQbU5ZekZkVlZBanpQU3psdUUzLThhZ1hqTHRkZ0tBa0gxUlFlVk1KWVVYMXloajJsTHlwTmxjam55U3N0YXAzS3hvU1dIc05aLTVqZlRMM3dUcExjSGdmSHJpWTZua19oSUhCelYxRTJJRTY4ZElSM2x5bzhBTnUxQ2hQaHhJbDh3bTMwenFTcnY?oc=5",
@@ -1042,26 +952,6 @@
    "ts": 1782352724000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOTVnSnhoM3U0XzVBTWhJR3E0WERBbkJTWUYzYS1DaVJScDhBN0lFZVR5eXlHdlN1Z20tbXc2WlJEV0dlUm1nQ1g2SlZpR1dkeWlkdHNKWk9VZXI4S2lnbmg4T0RTSE9QckctVkJPRnlISk9GMkh",
-   "title": "IESA Welcomes ECLGS 5.0 as Credit Support Boosts India’s Electronics MSMEs - Prittle Prattle News",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOTVnSnhoM3U0XzVBTWhJR3E0WERBbkJTWUYzYS1DaVJScDhBN0lFZVR5eXlHdlN1Z20tbXc2WlJEV0dlUm1nQ1g2SlZpR1dkeWlkdHNKWk9VZXI4S2lnbmg4T0RTSE9QckctVkJPRnlISk9GMkhWWmJvbXZOVXFaVW0tMFJ4TFBENjJUQ0JkVVlOdE9UZ0hTOXRTOHRVUQ?oc=5",
-   "desc": "IESA Welcomes ECLGS 5.0 as Credit Support Boosts India’s Electronics MSMEs  Prittle Prattle News",
-   "source": "SIDBI / MSME",
-   "publisher": "Prittle Prattle News",
-   "scope": "india",
-   "ts": 1782349607000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2lmbE9aenlaUzBXcTljZHlZV1R3a2ZCTk93RmxLaUh6WHJlOUFDaVU3WC1IWFI1dGI2LUdZOS0tYlhiLXhpZ0xwUE50bnBQdHBqQVY4QS1QNDZUVDBMbEw0Z045bTVSZnJNR1JzZkZmZFJHRnB",
-   "title": "RBI tightens rules on recovery of excess pension payments - The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2lmbE9aenlaUzBXcTljZHlZV1R3a2ZCTk93RmxLaUh6WHJlOUFDaVU3WC1IWFI1dGI2LUdZOS0tYlhiLXhpZ0xwUE50bnBQdHBqQVY4QS1QNDZUVDBMbEw0Z045bTVSZnJNR1JzZkZmZFJHRnBjb3NLZ1UwQVA5bVhqTldKbHdIbDY5TzdwTUdxY2JrcmVHUnpndTR1SUZiYUhoYnk4TGlvdG9fTVJNallHN1FPMGdTMjRpSkw0bnhFM3gyY3VMaG15WdIB0AFBVV95cUxNN2V6WEt2TEFWREVGSXVIdWZtMDJtV2txT2hIOXl2SEZVNjBCWXlDSWszS3FFVDNMOXlZclhYMXNOSG9DSG9PQnpCN1B1LXhpVEpDRngzN0tYU1Ytb2tiWXN6d1V6TjdYNTBNbzNCNjVKZ3VOLURmRmVaci1NM0Jxd19CdllpUHU0SWZJWVNoRE9tVDZXZ3hoYUx4aVZhX3B4SFYyMzVnTDFyVklnQ3JfWW93NC1YMlBEZmJWcHNaaFd5eHktMG5BNFZsV2xmS19E?oc=5",
-   "desc": "RBI tightens rules on recovery of excess pension payments  The Economic Times",
-   "source": "RBI",
-   "publisher": "The Economic Times",
-   "scope": "india",
-   "ts": 1782330563000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaFhxVkx6SDVSUFZ1aG9aN2tLdEdMU3NwYnFQalBnWHBZTkNSX1ViRVJWN0hoRklOWHpwTHdtQ0pnMEp3YndCdU44TVFDdy10Z09LTFZ2VWN4cG5fckpSSjZmQlZ4aEJ1ajFhdVhSdW5WbjhVUWR",
    "title": "RBI revamps digital fraud compensation rules; expands customer safeguards - The Indian Express",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaFhxVkx6SDVSUFZ1aG9aN2tLdEdMU3NwYnFQalBnWHBZTkNSX1ViRVJWN0hoRklOWHpwTHdtQ0pnMEp3YndCdU44TVFDdy10Z09LTFZ2VWN4cG5fckpSSjZmQlZ4aEJ1ajFhdVhSdW5WbjhVUWRCQVB0ZWgwM0xoTXhMTWtWcjhPampWUmEyRFdJZzTSAZoBQVVfeXFMUFZXMUU5NnhhNDZRS1FHU3NmVklaU25lakViMDhzZk9iUzRCV0M2WUtLZUZrUGhkOXFBMnlJRzZzeUlkNlV5Q0FPczQ3b2RMMllPWUFqN193d09WblJoZ3I5bWNmZ1RRVUw0aG14ZW9rQkF3WW1pTklOM1FBMjEzSy1PVU4zMEVDdk8yVXBNNlVQMEo1ejREMG1zdw?oc=5",
@@ -1070,6 +960,16 @@
    "publisher": "The Indian Express",
    "scope": "india",
    "ts": 1782321437000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNnhXM0YtVmZsUGNuWVVfYXhmeVRhd0RnUEJtNk9aNEw4azlNZEVXSjhLeXpLa3UwV2lOQ2kwa3pCR0pUbTRILXNCcVp0d3pHS29hRVV1Si1qWnI4Y2RaYmlERExIMkNVaXNzUmxrZ0VSVkNtZE9",
+   "title": "SEBI eases NISM certification norms for relationship managers, sales executives | Full details here - Mint",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNnhXM0YtVmZsUGNuWVVfYXhmeVRhd0RnUEJtNk9aNEw4azlNZEVXSjhLeXpLa3UwV2lOQ2kwa3pCR0pUbTRILXNCcVp0d3pHS29hRVV1Si1qWnI4Y2RaYmlERExIMkNVaXNzUmxrZ0VSVkNtZE9GQWQ4TGpuZXZRN0dYZDJRYmFfbEtOQ3hYNWhrS0N0X0lmQmo0bm05OWNlb29fMHM5UWlSQnROZWF6RE9rZ2psN1BobzUxM1dqbjluVjlHVE9kRHlBSENOcFVyNkVKeWV6MHZIN2JZQkFsLUpuZ21STldlSXA4VC03Rjg2a0tEek1r0gH8AUFVX3lxTFBDa0J1aEFKajlRcW9qTHZScENhMXM3Z2lBaW4xM00xdzV1TS1neXI3UjZEWkhRRXBUbzg0ai1KSjJnZ1NaUEdXVTdYRWMyTkZtQ1h0em9IU1pLM0lWTzB3XzFUU081X1k1cUxyVTNKLUlNMUF1LWVNM0hmQnZTd2daNGplWTVrU0NGQXJuSVR1LVVBZlp1UTF3bk5KbU9ZdWhGM25vVVZNOGJCR0Q3c0t5UkdCMDV5Y1VITHJRaGN3MF80SzlKemVGNllVVVBpbEI3cWZ3SG4wbXRybGxGYUt6WFVtMnN5Uk81RnRNaEsxZm8xSUI0ZEpaSlhkdA?oc=5",
+   "desc": "SEBI eases NISM certification norms for relationship managers, sales executives | Full details here  Mint",
+   "source": "SEBI",
+   "publisher": "Mint",
+   "scope": "india",
+   "ts": 1782316800000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRHNrVDRreHJRVVk1UU1vZVYxREpZc2N4Uy1uLUZNbE5XaUU1QWdDS2xfVjVSTFRybXhDMmNfR2twdFI3OFNTeDhMM3ZGd01ISEFZLVBEX2dSSnFhYmd1ZkMwVlN3RWV3WV95REFtUnEwa2lFLTV",
@@ -1092,6 +992,16 @@
    "ts": 1782313258000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV0FuNUROVUhEMmd3dHhrb25Ia1QtMkh6dDlRMl84WGVNVWJCNDF1ejN0M3lPTV96aDhUcWdNbU1zTHRvWm93Q0FGT2YxT0pxMEs1Ync1ZVNQSDJyQ3FCLUJvUzcyVW5kMXBrVjlHbjFUdkMyYXg",
+   "title": "RBI Aligns Forex Risk Capital Charge For Banks With Basel International Standards, Effective April 2027 - Free Press Journal",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV0FuNUROVUhEMmd3dHhrb25Ia1QtMkh6dDlRMl84WGVNVWJCNDF1ejN0M3lPTV96aDhUcWdNbU1zTHRvWm93Q0FGT2YxT0pxMEs1Ync1ZVNQSDJyQ3FCLUJvUzcyVW5kMXBrVjlHbjFUdkMyYXgwY2NGWHFZcGE3b2EwVmJNWnQ3TVdVWElGZmcxWGlrcEZrX3lpM0xhbm9MRXBsREhxWU10U242TFBCYkltYkl4azNSNHlBd0lQelh2QmVFelJSOXNtTDgxR3p5TEREczJ0X1ZQNjDSAeABQVVfeXFMUEEzQl9RRzQ1WlNfY2FxLXZtanJCLTFMRE5JM21heV93Y3c1NXhyeXIxVmJDT201QlpqRFdOT3hTS3BwVTJPWWVrb2FNQnozUnNRWEhvcHVpYTNFUHN2RVhTZk1FYnlNNnJLdi16SWhSdHZVYmpTNWNpcWJjSTJQbEd1T0dqV0NpMGtLTEJLRWdhaXNIbmExZ2ZKcTJVX3k2Q2RZUUdRME0zczBkLXEwUWF0aVk3OGV4cHNOZzZkTGc4UDlha1BJMmE2U2p1V3hTRThTQ002ckh5ZGRFVzBtWDE?oc=5",
+   "desc": "RBI Aligns Forex Risk Capital Charge For Banks With Basel International Standards, Effective April 2027  Free Press Journal",
+   "source": "Global Banking",
+   "publisher": "Free Press Journal",
+   "scope": "world",
+   "ts": 1782312622000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYXl2cmxtc2ZuQmlEQ1lOWnJnS3AtclRVT19TQWlUTWRRM0pUQ0YyOGVBZm5JWDZqWGNPN3AyWlZyUEdQNW5NUzh5aHZRZmEtaWp4NDhUS2pPdkZIdW8wcDRrM0g3ZkgyNmpxbUlMc3puVnVhLUV",
    "title": "RBI proposes AI governance framework for banks, mandates human oversight of model driven decisions - BFSI News",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYXl2cmxtc2ZuQmlEQ1lOWnJnS3AtclRVT19TQWlUTWRRM0pUQ0YyOGVBZm5JWDZqWGNPN3AyWlZyUEdQNW5NUzh5aHZRZmEtaWp4NDhUS2pPdkZIdW8wcDRrM0g3ZkgyNmpxbUlMc3puVnVhLUV2QzNmQ2RrSzRrZzloY0k3Z1dNZjNaY2UwNFRMdkplVUF5WWRpbkJjRFJYdjRhd0lJa1RKQkFHQ3FPZGlEMGQ2cG0wVXNqc1B4UFo2UThvNkdsQWRxR2R6d9IB0wFBVV95cUxQZzY2aGxWYVdzWkpMTk9DaHBjSkJOcTNHLUxxV1hDaVN4dUVYd1ZtMVRUZVVVcllhaFYtRkZMU1k1OFF6eEFKV2p1SHB5WFZDYUQ2azBDanVpTFlfNHVKdXJQaUc2M2NWdV9yUXhJUWxtZHM2TUN1V1otVHkzaUpFcDg0ZFhMczM1VU5EUFBLVWtsYlotWUVoUjZpNjNMekxYLXN5ZlhPLXB5R1lDUGRtYlRXTElqRlBleGdZMmNralBIQUtaUHZwRHFBaGk0aGJ5NTVr?oc=5",
@@ -1112,24 +1022,14 @@
    "ts": 1782308889000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYmNybno4VnVfVUFyYkNPY3RyQWthYlRWeHpQM2t4RHVUcERPVTBnQzI4MVJIN2lLc1BsQUsxSFJEMWJ0WmtyWjFQdXBwN1ZuUkZFcHctMEY4OXhHX0pod1ZXdUFfazFHeXFBOFZFU3JBVml5Yk9",
-   "title": "India's central bank issues revised rules on banks computation of FX risk exposure - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYmNybno4VnVfVUFyYkNPY3RyQWthYlRWeHpQM2t4RHVUcERPVTBnQzI4MVJIN2lLc1BsQUsxSFJEMWJ0WmtyWjFQdXBwN1ZuUkZFcHctMEY4OXhHX0pod1ZXdUFfazFHeXFBOFZFU3JBVml5Yk9zQzYyb2xWWEpkbXNHY2k5ekdROWpjMmxHTEZNX3FqWVN1Qk1QVEt2X3RIdGVxQkhWY2Q4azY1VVVSR0ljRUI0aUtlOFBQSGNaUnU?oc=5",
-   "desc": "India's central bank issues revised rules on banks computation of FX risk exposure  Reuters",
-   "source": "RBI",
-   "publisher": "Reuters",
+   "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcDNOSUk5U2xMNnlMamtCNmN6OUd2T0p0UjA4QkNXV05NWlY2akdOdXFCbG8xMkYtbjlvX2hoUjBzS1Uwblk2SEQ5YWdpcHNoaVBjcy15NUFuYm9JYjZhYzhDZ2lyVWNGWVp6dDNZR293R2FqYXB",
+   "title": "Sebi draft rules put finance influencers under watch - PRESS Insider",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcDNOSUk5U2xMNnlMamtCNmN6OUd2T0p0UjA4QkNXV05NWlY2akdOdXFCbG8xMkYtbjlvX2hoUjBzS1Uwblk2SEQ5YWdpcHNoaVBjcy15NUFuYm9JYjZhYzhDZ2lyVWNGWVp6dDNZR293R2FqYXBEUWpyYy1mczdEMEM2OXhpdWdJOUZLUmdn?oc=5",
+   "desc": "Sebi draft rules put finance influencers under watch  PRESS Insider",
+   "source": "SEBI",
+   "publisher": "PRESS Insider",
    "scope": "india",
-   "ts": 1782303285000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2l6QUM0clpnV1FGVzd3cUdfek9wV0xEOEVicGs5eFR5TlFIY3VfckQtT3RCZFctemllTzVrZ2poQ2VjajZjbFU5eVhodmFWWW9leXZGWXZEQlVLN25EOVl6TmYwdnZMMXJTam9md3gxX1BrT3l",
-   "title": "RBI Governor Says Premature To Discuss Interest Rate Hikes - NDTV Profit",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2l6QUM0clpnV1FGVzd3cUdfek9wV0xEOEVicGs5eFR5TlFIY3VfckQtT3RCZFctemllTzVrZ2poQ2VjajZjbFU5eVhodmFWWW9leXZGWXZEQlVLN25EOVl6TmYwdnZMMXJTam9md3gxX1BrT3laeC1ER3lHeWRCOW0tWDBrTWs1TGppTG02RVpVOHdBdGluOTNScTRrVC1JWHVyQdIBrAFBVV95cUxOUWtLWlN4djM4UE1SMnA0Nkl1UG9nRm5TcHlWVHJQMzBKMGVSRkZBanVycGJFemRwWGhrT0tkdVFSYXA3eDh2T0FzMFlSd3NsVktodExsdXVoZUU2RVN5d0x5VEtYZzV4b0Q2ZHFnSUtmRmRYdC1jX244RW45NndUZ1JHdWNWTlNpVUVrQkhGb0s5VWIwQ3VueGJDcWFrZks5bDdleEZINUFELUZR?oc=5",
-   "desc": "RBI Governor Says Premature To Discuss Interest Rate Hikes  NDTV Profit",
-   "source": "RBI",
-   "publisher": "NDTV Profit",
-   "scope": "india",
-   "ts": 1782302251000
+   "ts": 1782302694000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdUx0TWxtcHpub2xxaXBldlRLMEw3RHJVc3p4dl9MUk9lakJ6bUxXbE1QV092U3dWOXA4YnZHS3h0ZUFyTC0xSDdKMEN1c1BlSjRRQXplSXhVOTZENFZFemVsamlzY3d3YUdMdEJrZmlzVHc2RVZ",
@@ -1142,14 +1042,14 @@
    "ts": 1782297404000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSFNVRkFqSUg1UmZRS0dBRmtMQnBwZm42d2JKclhwZXFYUFhqMjJncWVncHJtaUMwNWd6Wm9mRDJpTnlubUNVQks3WG82THBSQ1pFUXhWNFY3NlFXekRVdlBkeVphZlAxWGYyNXh2RjhrdlhTRWl",
-   "title": "PSB Xchange Advances MSME Credit Access Through Shree Cement Dealer Program - Prittle Prattle News",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSFNVRkFqSUg1UmZRS0dBRmtMQnBwZm42d2JKclhwZXFYUFhqMjJncWVncHJtaUMwNWd6Wm9mRDJpTnlubUNVQks3WG82THBSQ1pFUXhWNFY3NlFXekRVdlBkeVphZlAxWGYyNXh2RjhrdlhTRWluNjlQNTlRbHdPQXF2QUJmTmJXRW56TXExMl80NVNZUjhaYjVlUWljM0NjaXFXc0FPQUc?oc=5",
-   "desc": "PSB Xchange Advances MSME Credit Access Through Shree Cement Dealer Program  Prittle Prattle News",
-   "source": "SIDBI / MSME",
-   "publisher": "Prittle Prattle News",
+   "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnlzRGQtOVZ4SS1MZUNYWFhQMEpoUVJTT3ZNWGpNZ3RlcGtmMGZWbS1XUFBuWTNBTHAteDJPejVBLUc5UWdTVFVKU3FIQldGMkZYdXpSYUQ0Tmt6RU1ZY3VCSlpEUGNnTlVoeHB3QkJIRllHSzl",
+   "title": "Sebi for celebrity brand endorsements for MFs - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnlzRGQtOVZ4SS1MZUNYWFhQMEpoUVJTT3ZNWGpNZ3RlcGtmMGZWbS1XUFBuWTNBTHAteDJPejVBLUc5UWdTVFVKU3FIQldGMkZYdXpSYUQ0Tmt6RU1ZY3VCSlpEUGNnTlVoeHB3QkJIRllHSzlSWG1PODVlN0E0SXhwSXFjUVl6Q0h2QzJQdzJCV3ZWZ3dnb1JERnVVQ3FGdkdZRWJmV2lsbWpGbm5fWFFzUE9uVTNQWkdPOFNTbTNyOURVbENmQUhPa9IB0AFBVV95cUxPQllSMFYwbXJmYU9UempSLVFlNzFLZ3JBMXNrcHdUZ3pnLWtKOFpUakZ1MFhRR3pCZXJicDFKZTJNTTAxdDgtT1dKY0RQa0FyS2MwZWFWNlgxaHQzYlJCQVVHbWhiLXByaThyTVVadVhDY0NnclFHZlg4aS1tT2hONWphMFNGeFF3MzdDUFltNHU2UXNIVXE0azV6aEtoSGx6X0QxNWVSRlBYTUQ2ZEVzYjhGZ055Yk0yQ2N4c19RZzlQb0dwN2hTN3l4cXdqVm54?oc=5",
+   "desc": "Sebi for celebrity brand endorsements for MFs  The Times of India",
+   "source": "SEBI",
+   "publisher": "The Times of India",
    "scope": "india",
-   "ts": 1782293369000
+   "ts": 1782253380000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNancyTzdGcE5YZ3dUMTFjQ0lma2lROFktR0hoOGpNak03R2dmdXlTaWNHRFlPOWVuZlAxVkRjOGtSRzVfVVZGcnBwVDAzM0lNQzQ1ZWprNm96eWNWaDh6cXRUcU5wdXZJelBwS0NYMEloX2k2MUk",
@@ -1172,6 +1072,16 @@
    "ts": 1782229200000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSkhiSkYySVYySFFKdDgwcmVUZnRsTjhIaFZpX2NRTmsxZndRbFFnbzJSWVZYTGM2b2JPdXo5eTVnZHhid2hEZmE0dlByMmt1Qy1uN2lBWlVBZks5ck9talJMRTVBVWs2U1hPZ2NWOGVuYXd3Wkx",
+   "title": "SEBI Opens Door To Celebrity Endorsements In Ad Rule Overhaul For Brokers, Advisers - NDTV Profit",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSkhiSkYySVYySFFKdDgwcmVUZnRsTjhIaFZpX2NRTmsxZndRbFFnbzJSWVZYTGM2b2JPdXo5eTVnZHhid2hEZmE0dlByMmt1Qy1uN2lBWlVBZks5ck9talJMRTVBVWs2U1hPZ2NWOGVuYXd3Wkx2S1hRUndOMlYtY1VHRU9BTDlBbDhLZ2J0MDhzTTlfQzByczZsSGxJYlZDTnhpTThUWl90SHJZRXR4U3JuMC1JTFJiOENvNldwdzV1QVFy0gHMAUFVX3lxTE5lWU9NZGIwNXpIbVhvOFFLbUNyRnVFQmNhRXdXR0JuZ0JHc3NsZVQ5RHVjVUVBckUyeGhEYzFSTC10TkpHYjRsQkNkQzFvcGFYQy1vUFRCR2otUmh3a1B0WnhjUkktLTRBZ2RVc241Vi00YjlfXzdTSHRROUpSaXVvLXMwYW90em5UQVdCYjFhMVg2MDh3TXNyQWtRUllacTJmM3lsMEcxdW5CZ3R0a2trZHhaenNYQTBXLUk2N3BtU0RFSHJhd0luOTh3NQ?oc=5",
+   "desc": "SEBI Opens Door To Celebrity Endorsements In Ad Rule Overhaul For Brokers, Advisers  NDTV Profit",
+   "source": "SEBI",
+   "publisher": "NDTV Profit",
+   "scope": "india",
+   "ts": 1782224185000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV0s0OUUtbHNrZlpGVTJGUUE2RE1lNFFrTFBSRFFMVkVlcjF5bmdmQ085XzYzOTlFc2RPMU45V2t5S2ZYU2lPei1qcE5JdF9WRVNaZFI0UHVUSl9JUHhhYVR4QWV4WlFabUxjS1RueUoyaWFLTlV",
    "title": "ED searches Rajesh Exports amid Sebi probe into alleged irregularities - Business Standard",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV0s0OUUtbHNrZlpGVTJGUUE2RE1lNFFrTFBSRFFMVkVlcjF5bmdmQ085XzYzOTlFc2RPMU45V2t5S2ZYU2lPei1qcE5JdF9WRVNaZFI0UHVUSl9JUHhhYVR4QWV4WlFabUxjS1RueUoyaWFLTlVvQVVqdDhNOG1fRVFGenRPUmJ5RTRHdlZIMnlncEs1dVdkM3FNaTJ6STJDSHNINExPRTFkSi1jNEphbm1kRGQ2Q2JmZ3ZCbldiQ0tpdkI2Zm5WTVJ0dEVKenRKRkNFV1pB0gHbAUFVX3lxTE1kV1UyamxxUmQwNDlzSzdpN0ZiaEV2QzNxaTU3ZHNLczdFeUx6RW9UM2g2bGdwdVVCQXhXWDBTM3JYeWdpUUNUYWoyWlRvd2dmdmoxaW5JZTNZRWxObDNIZnZXSWJxNUlFTnRKUjBrRmpRSmhCQmdwZWZNTEoxQTY1Rno2dU4tS0ZubDBpdVhyRWZZRFZiMG1hUGNjUHJVNEtxNjdGLWJISWtfZDFjWndSX1JwZDJmeU5JSGY1N2ExRmRMam12emM4bFBVR1VLaGZrTzBwYWRway1jZw?oc=5",
@@ -1182,16 +1092,6 @@
    "ts": 1782219817000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWE03b3ByVXctWnRVc2JXSTB3aUlSOTlPa1NscmhmZ3hndlBTWkF2OW9scldnNWotaTFNai01b2sxT01VRVFDczhaRGtxTkE2SXhSX3AxcnJiLVNIZVQ1d3hMQ054RDV5ZHlvNzcwR3hnemlOdVB",
-   "title": "RBI Governor Calls For Digital Push To Bridge MSME Credit Gap - KNN India",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWE03b3ByVXctWnRVc2JXSTB3aUlSOTlPa1NscmhmZ3hndlBTWkF2OW9scldnNWotaTFNai01b2sxT01VRVFDczhaRGtxTkE2SXhSX3AxcnJiLVNIZVQ1d3hMQ054RDV5ZHlvNzcwR3hnemlOdVB3UUJlMkxUajFPckNnaURXb3d3c3ZNWmR1US1MVGdiZ2VCV0x5bjBXQ2otLWNGUDdPazVkZw?oc=5",
-   "desc": "RBI Governor Calls For Digital Push To Bridge MSME Credit Gap  KNN India",
-   "source": "SIDBI / MSME",
-   "publisher": "KNN India",
-   "scope": "india",
-   "ts": 1782214375000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLVlrRHhyMmhMTVlIODlib2s4UnUyR1hnR0MyZHB2X1l0STFrMFFyTnM3OUhSNDEwaURFeHBRYnl4b3N1Qk1wY3hnSjlGeGhaSjVDYTMtalhyaDc0V2NWVWhzaVM0aXJ6VmJCX29qZ1dfSlNJTzZ",
    "title": "Sebi proposes to allow direct market access route to all investors - Business Standard",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLVlrRHhyMmhMTVlIODlib2s4UnUyR1hnR0MyZHB2X1l0STFrMFFyTnM3OUhSNDEwaURFeHBRYnl4b3N1Qk1wY3hnSjlGeGhaSjVDYTMtalhyaDc0V2NWVWhzaVM0aXJ6VmJCX29qZ1dfSlNJTzZoLUl6WlpXWGwycXl0bkpuV2NTX2I2NjByQlROcU9jaXo3cmZEbjBwYUV1bkJMRGhJcV9ETHNkM0ZmaFR1bHI4UHZ0UGlMVGZ0QmplV1dYV3BGV0NuellYUdIB0wFBVV95cUxPZ1l1cVoydUJOeHl0UVNmekp2T1IzdlJ1U2NjT2FTQl84MlJsaElmbXY4YWRnS2x1NVl6ZUVleHQxRmVwV0UwM3VnbTVLZ1Z1QWVjV2xLN2J2RUpSQllsUnYtT0JKbFVBSXJESk92ODE3dmsyREgzUnVBTUhfWjlJWWpKUkRCbFUwdEdrTlprR3dkVTg0Q1R6bzltV3AyRDBMTnlhVG1vM0FNMW15M2UzOVZJdUw5QmlOR0RWelMtdzNxTG9yTm53Y0JLcjBGTl9fbkRV?oc=5",
@@ -1200,6 +1100,106 @@
    "publisher": "Business Standard",
    "scope": "india",
    "ts": 1782213709000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMlhUUVpGS2lpUlFXMDVJQjV6dGtjZndXaU1DclpXUnBMaWdtLXpqYU5INHFWVnIxcHRGdlBzemZhQ1J6cGxXUHpfcExVbkR1WFlIYlZSWEpLRDlOVzBEZG04U2ZzMjJXbE0zS3l3ZXR2SHhBR0J",
+   "title": "Sebi Proposes Single Investor Protection Fund For Equity And Commodity Investors - Outlook Money",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMlhUUVpGS2lpUlFXMDVJQjV6dGtjZndXaU1DclpXUnBMaWdtLXpqYU5INHFWVnIxcHRGdlBzemZhQ1J6cGxXUHpfcExVbkR1WFlIYlZSWEpLRDlOVzBEZG04U2ZzMjJXbE0zS3l3ZXR2SHhBR0JpUVF0NmpwY2YyeGppX2d1VGFQSWNYdmw2RDgyTmRHdXhwNHB5VjJ6RUxrLXlvZGJwQUNwZDg5alVBczN2dnhjYTjSAcQBQVVfeXFMTTRoallGV3NwbGRhQ3RJVnlIOFc4N3RDVjl2a0l2QlB5dDdKUHktd1ZzclhlOVlfRmZpVWo3R0dNLXltN1Frb05rUzJKRk92LXNnVy1vdVNYNkNoUHJLOERnakdrYTB2TGFkVGswTVhUQkI1WmNaNVROSm1mb21mbHhmOWpOVjlJWkZNOG5jaTBQeUtvZk5QWmNPM01XeVFZekRaVlNWb2tRT0Y1aEtTV1c3SnZZSnVqS1k4OXo2MnQ0VUJpaw?oc=5",
+   "desc": "Sebi Proposes Single Investor Protection Fund For Equity And Commodity Investors  Outlook Money",
+   "source": "SEBI",
+   "publisher": "Outlook Money",
+   "scope": "india",
+   "ts": 1782201623000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcmNPcHU0NmZKX2xWcWJxV0ZrTVpLOWt1RFpId1VNTWdHUkEyaE1xVUIzUFlnUTExX1dNX2Z4czhGVVdRTTNyalRlRjN0RGlkeTh6cEVBa0JxeHpoRjM5d1RSN1EyNkRtTTVQZjY4ZEJEWXptbWc",
+   "title": "SEBI Proposes Major Overhaul of IT and Cybersecurity Rules for Market Infrastructure Institutions - Daily Pioneer",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcmNPcHU0NmZKX2xWcWJxV0ZrTVpLOWt1RFpId1VNTWdHUkEyaE1xVUIzUFlnUTExX1dNX2Z4czhGVVdRTTNyalRlRjN0RGlkeTh6cEVBa0JxeHpoRjM5d1RSN1EyNkRtTTVQZjY4ZEJEWXptbWcyRzQ3c3ZOak9CQjRPdUlaZw?oc=5",
+   "desc": "SEBI Proposes Major Overhaul of IT and Cybersecurity Rules for Market Infrastructure Institutions  Daily Pioneer",
+   "source": "SEBI",
+   "publisher": "Daily Pioneer",
+   "scope": "india",
+   "ts": 1782185514000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVGRobVVhNVBkb29iZ1dBQmtlSmlZb2NRNk1MQ3d5M3EtbVlxLWk5OWEtdF9vRnpSbnFfWlBEYkVOVFZsUWx6b3VYUUNXUUFGYTgyT3djSjVfaGREaEhSNE9UekFjM1lCUzB2ZTZpQjUtcW5TWVh",
+   "title": "The Rs 15 Lakh Crore Mystery Inside Rajesh Exports' Global Revenue Machine - thecore.in",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVGRobVVhNVBkb29iZ1dBQmtlSmlZb2NRNk1MQ3d5M3EtbVlxLWk5OWEtdF9vRnpSbnFfWlBEYkVOVFZsUWx6b3VYUUNXUUFGYTgyT3djSjVfaGREaEhSNE9UekFjM1lCUzB2ZTZpQjUtcW5TWVhSaFFzejkzOU5DeXBiem43T1Ex?oc=5",
+   "desc": "The Rs 15 Lakh Crore Mystery Inside Rajesh Exports' Global Revenue Machine  thecore.in",
+   "source": "SEBI",
+   "publisher": "thecore.in",
+   "scope": "india",
+   "ts": 1782174615000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcy1pYkc3Z0RZVUtqRm90QjVUUG9sQ21xQWc1U1ZoZDF4dElkTDBrUFpoX0ZpUUxuM3dKWnNjZzBISXo0MVBfSktMajZyRE1ZZXItelV3ODJlbmN2bk0yazA0eFVCbzhaS1FlOGp2RU9JUlhjdEU",
+   "title": "SEBI proposes opening up Direct Market Access for retail, in a major technology rule overhaul - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcy1pYkc3Z0RZVUtqRm90QjVUUG9sQ21xQWc1U1ZoZDF4dElkTDBrUFpoX0ZpUUxuM3dKWnNjZzBISXo0MVBfSktMajZyRE1ZZXItelV3ODJlbmN2bk0yazA0eFVCbzhaS1FlOGp2RU9JUlhjdEU2TzhUb3d3NEN0Q2ItUUdZenRENDRPR2kwM0xvVWF2dE9uelV4SHFZUjFJTDRNV2g3bjB2OG54bE5pVldHZENtcEpLeU4tT05xbHl2MmozSjBhMTdJV0xfX0pZdEpsa0Rnd2FScFpkYjVkYmlLLVdXMmNYR21tb1Bn0gHzAUFVX3lxTE9oTFNTWk1GTUdLQTF4RXhLZS1LNjhBT3VJaGM3WWxqcmlmUHhsNjFRLVRMMExNSFRhcGZlSERmc3dOLW4tWVl1b1RhcE1VQURhNWxiaXRiVVA4X1Q1YXJHZUJBWlpmMnBScGFEMEhfU25vMVdBRmtZNHFGSUZnWFQyVHlQQXNVZmNnQ1ZoaDhpSmNYY0J3WXkyQm9JTlV6RDlJWHZUYURKMjZyVmo5MTJlNlN1RHh2U0tqbjlZN3VVMVAzUF9Rd2I2a2tHdjJqRVJQU05JS0ZxazF2NkFKUWtTczZPRlRITkZUNEN5akx5cFQ1OA?oc=5",
+   "desc": "SEBI proposes opening up Direct Market Access for retail, in a major technology rule overhaul  Moneycontrol.com",
+   "source": "SEBI",
+   "publisher": "Moneycontrol.com",
+   "scope": "india",
+   "ts": 1782148684000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ1BqcDJ5c0VuTnBFaElIY01sVHpjcXhMdGk3bUpiV3hvTmI2VEZhRXlNRkhCajlPWXVoT0tPYVV3bEd4TDhwMUZtZFdodFhONGROdEh4RDlTc0RBZU03em1mWVJNWTk3Q3M1VWs3VGlyZndzaTZ",
+   "title": "Weak monsoon may cloud growth-inflation dynamics: RBI's June Bulletin - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ1BqcDJ5c0VuTnBFaElIY01sVHpjcXhMdGk3bUpiV3hvTmI2VEZhRXlNRkhCajlPWXVoT0tPYVV3bEd4TDhwMUZtZFdodFhONGROdEh4RDlTc0RBZU03em1mWVJNWTk3Q3M1VWs3VGlyZndzaTZGS2wxSnJaZlhvazhBWGtvaVFZNU11STZjQkpGbXZQTmhWNUREUGx3WFk5N1BCSjhRQUplNmcwNnVMYzdlN25jUDAzaTVOcVEzMklNM3dPVHZRbjlOYlbSAdIBQVVfeXFMT1F6enpLMXpKeDAwemNMcEVFWnMza1FZZUZDbjZ1ZGhQa1FVOE41OG40empXZGN0Y1dxNUw3MkMzUmxLTE52VG0yT3JhcWU0enk3UlFiMmgyYUVaRXhralM3ZzR6QUpvb1RBNlBIb1RsVkNPWWRhaEhIR3VWSXNDRlBxSHpJVUdmOG9oNE5NUGJPaXgwekdsVTNiT0dvSGhsQUFNSng4bE90OUZsRUtMdmo3dWpqMDBBWXk5bTFtUlNXeFM4RXB6ZFNWV3RpZDhrVkhR?oc=5",
+   "desc": "Weak monsoon may cloud growth-inflation dynamics: RBI's June Bulletin  Business Standard",
+   "source": "Indian Economy",
+   "publisher": "Business Standard",
+   "scope": "india",
+   "ts": 1782140634000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjhseGZIaVJITnZwNUU3bnhmc2lrdmt1LVFma3lyeFREeEFPRXdLZ1NWYkUyb1FJMzBWVU9YZjJZVTE5dEJNQkJ2LVVOYzBzdWEzeUJSWW04NDZkYlhzejJ1TmhxZy1QR1gzaVRfT3VIdVR0Rzd",
+   "title": "Will the Federal Reserve Raise or Lower Interest Rates in 2026? Here's What the Data Suggests. - The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjhseGZIaVJITnZwNUU3bnhmc2lrdmt1LVFma3lyeFREeEFPRXdLZ1NWYkUyb1FJMzBWVU9YZjJZVTE5dEJNQkJ2LVVOYzBzdWEzeUJSWW04NDZkYlhzejJ1TmhxZy1QR1gzaVRfT3VIdVR0RzdfcHFET0tjbW9md1dRYW9pVU5ZaS1JNm5wS1hLdUs4ZjBzQg?oc=5",
+   "desc": "Will the Federal Reserve Raise or Lower Interest Rates in 2026? Here's What the Data Suggests.  The Motley Fool",
+   "source": "US Fed",
+   "publisher": "The Motley Fool",
+   "scope": "world",
+   "ts": 1782126000000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONUFUb2JQQ2JwaFdMVy1IbFljaWRWbnNmUWtRb3JTcjdLNVU4MFNVd1FUWHZ3M2h3QzlEYXhfV0NobTl2dVp5cDdTQ2xsRFM0eGE3blNERDhKZUtFUDR4S2JMbGllZmtBMUhUTlpudVdMTUJTUXQ",
+   "title": "Should the European Central Bank slow down quantitative tightening? - Bruegel",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONUFUb2JQQ2JwaFdMVy1IbFljaWRWbnNmUWtRb3JTcjdLNVU4MFNVd1FUWHZ3M2h3QzlEYXhfV0NobTl2dVp5cDdTQ2xsRFM0eGE3blNERDhKZUtFUDR4S2JMbGllZmtBMUhUTlpudVdMTUJTUXQ3NFV1c05OaTBheGJiTU9YTU8tODZKYjI4anNvOUY1VW50VmpNbw?oc=5",
+   "desc": "Should the European Central Bank slow down quantitative tightening?  Bruegel",
+   "source": "ECB / Europe",
+   "publisher": "Bruegel",
+   "scope": "world",
+   "ts": 1782114689000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2RpSERLUHRQZDRqeWc5bXN5YkRGdkFjcEs5M1FsdE1OTVdiSHlyQ2FoU0t0VU5yd2Q3VFlHcndxWk5iNHp6aGRiRmUwQkluY2REcy1tTDQ4djh5OExPeVhUX2JQUW8wZ3ppcWlmN0hVTzJ2eWh",
+   "title": "Sebi Reintroduces Open-Market Buybacks, Eases Debt Listing Norms - Rediff",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2RpSERLUHRQZDRqeWc5bXN5YkRGdkFjcEs5M1FsdE1OTVdiSHlyQ2FoU0t0VU5yd2Q3VFlHcndxWk5iNHp6aGRiRmUwQkluY2REcy1tTDQ4djh5OExPeVhUX2JQUW8wZ3ppcWlmN0hVTzJ2eWhfTzZubFFjZHQzaWx5bWFXZ1Rkel94NHdObXVFZkFfZUEwNWNfMzY4XzJERUFSQ0hNYnlSem5OaUhHWmdwVzlOZTFValNZNEJIVFdjdnRIWkHSAcgBQVVfeXFMT0lSTFVDSFRNZ0pqRTN0cjVuVk9BX0dWUDVOeUlGR01UMHZOdW9MMEtrd1E5Tm5zcHl1MEdYVUZRM1BldGJXWEhSdkd5by1Oek1BWERVbnVDTEU0WVBkU3UtaTE4YlVSbFZ4N1N0d1IxT1o1ZlB4aFFGZEdPZzduWHEwNks1dlU5NENFRU5UTGdmRG5NSWRyb0xBblZNVktkaWhSeGwwcExRbzBQRmxIdnpsZWE4akNmY0pmU25aVm5QTkgzU2JFZ0g?oc=5",
+   "desc": "Sebi Reintroduces Open-Market Buybacks, Eases Debt Listing Norms  Rediff",
+   "source": "SEBI",
+   "publisher": "Rediff",
+   "scope": "india",
+   "ts": 1782025200000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWlo2eWRfMHQzRGk2MTdTdkR4R3FLWHlxWjdRekZCOWRhWk42ajJxamdDcmZlbER4TzVxZlFMa0F5d0wycHVMejh1Qk1vTGtWQW1qV05HdXp6ZFFOd3FEOXdaRmw5ZC1HdDd6WGl1Q3NnOS0xc3Y",
+   "title": "Fed Holds Rates and Leans Toward Fighting Inflation With Future Increases - The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWlo2eWRfMHQzRGk2MTdTdkR4R3FLWHlxWjdRekZCOWRhWk42ajJxamdDcmZlbER4TzVxZlFMa0F5d0wycHVMejh1Qk1vTGtWQW1qV05HdXp6ZFFOd3FEOXdaRmw5ZC1HdDd6WGl1Q3NnOS0xc3Y0YUdyQ3htLUlzTVJqRG9oalZM?oc=5",
+   "desc": "Fed Holds Rates and Leans Toward Fighting Inflation With Future Increases  The New York Times",
+   "source": "US Fed",
+   "publisher": "The New York Times",
+   "scope": "world",
+   "ts": 1782025200000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNeUFpc1MzWkMwWXBRWENnMVFHamdSZDBMVTdGbUlsQkJSVm1QbmhIWlpSS2xMOF92ejh3TDdvU01qMWZFd3ZXYVpTbzljMzlhN1JMQXNJRlpKUlQxcFBGcE82V25iX3FKMlNYRjA3M3FOU2lIY1g",
+   "title": "Sebi simplifies share transfer process after an investor's death, giving legal heirs faster access to investments - Mint",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNeUFpc1MzWkMwWXBRWENnMVFHamdSZDBMVTdGbUlsQkJSVm1QbmhIWlpSS2xMOF92ejh3TDdvU01qMWZFd3ZXYVpTbzljMzlhN1JMQXNJRlpKUlQxcFBGcE82V25iX3FKMlNYRjA3M3FOU2lIY1gxdERTMHh1ZWJxNlp2RDgzNmZfdVVLbWJsT2pjZjIyZWdBcXdDcXBrbHNqVlFqTDdmalJjZzFGZTZnc0NxVk0wOHdoX3BBbmpJbEw2MWJvMTVKakVaMVBvQXZwbWxkdFpjUTFzS09vMXBDNjRGVGNLTjhQZlM5ZTRlNWdtLU05LXdseV83RWJEVm5tR0dpUjl5anZZdUnSAZACQVVfeXFMT2FWMHozOElSQUpwNS1IYkNVQU5kekxzeXVveWZlYzVPd2pteXZDZXBqVjBZS1AxeFhuVmNQaEtWVkVkcGo0YWNnRGx2ZzAxT2V2cVJiNnp2U042WW5aY05hbEloN1dCbkt2S093Zmt0MU5GYzF6akVnUjB0bHRrUG5GR050VTR0OGY5Nno3cEd1eDkzTkRxejN3dmZXQm1ESnpHN1lhS2I2Q0JTa1FSbW5GT3JVdWhLdUpSVFY0RDlwRGktN3p6RGRuYnBiWDlHR0Uwc043VnZWaHBwcDY4RldVeEJSdm9XM09lc1Q1aTA2bzF5cVJPZUFzTy1BUUVZc2VoT09VaTdEWmJLS3dIaHM?oc=5",
+   "desc": "Sebi simplifies share transfer process after an investor's death, giving legal heirs faster access to investments  Mint",
+   "source": "SEBI",
+   "publisher": "Mint",
+   "scope": "india",
+   "ts": 1781938800000
   }
  ]
 }
