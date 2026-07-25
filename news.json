@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-25T09:21:06.904175+00:00",
+ "updated": "2026-07-25T10:55:28.144715+00:00",
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGdDMHFqX2FBMWZMQVpTd1dYVGF3NkstVW1DNER3WWZqejIwcDJTSEJkYWIzWjdtdDk0elVFRFlRd1FyakxxeXRJVm82TjJTSFo0Vy1PMEN6WklMRnNkaWw1b0lwQW8zOFM0Z1Fzcm5seXBDYVN",
+   "title": "Investors bet on Federal Reserve rate rise after oil price surge - Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGdDMHFqX2FBMWZMQVpTd1dYVGF3NkstVW1DNER3WWZqejIwcDJTSEJkYWIzWjdtdDk0elVFRFlRd1FyakxxeXRJVm82TjJTSFo0Vy1PMEN6WklMRnNkaWw1b0lwQW8zOFM0Z1Fzcm5seXBDYVNkcjB4OEFBVkJxdk83YUk?oc=5",
+   "desc": "Investors bet on Federal Reserve rate rise after oil price surge  Financial Times",
+   "source": "US Fed",
+   "publisher": "Financial Times",
+   "scope": "world",
+   "ts": 1784973609000
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTlU0c0k5bEdZbm5qSG00cDAyVF9IUkZFempvakFHNnpEQTNSVWJWckxfQzI4UG1wYWIxc0Q5dGRUR1BRMGpteXZQUE05MFZybjdSdkVCdW1yQVZsbHZCb3ZYcC1DazJyenlHQmRsNUZ3b05XZ19",
    "title": "RBI, govt measures could turn India's balance of payments surplus, ease pressure on rupee: HDFC - The Economic Times",
@@ -40,16 +50,6 @@
    "publisher": "The Economic Times",
    "scope": "india",
    "ts": 1784956109000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVE5feGlrN3BWVlVGOHAyVmVBSVNseWdoMXItVlpQc0pKamJYZFRnQ2ZaWEdQdnZ6OHRJQlgwUk5FMHNlUWp6ZWJ2NlRWdU1nekpuUTJHMFBQX1RQd2o5eDZadFl3QlpvQlIwT3hBY09nVnBPNHF",
-   "title": "The European Central Bank unveiled a shortlist of new banknote designs, asking for the public's opinion. The new bills are meant to be safer, more durable and involve greener production. The winner will be announced by the end of the year. #dwnews #Euro - facebook.com",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVE5feGlrN3BWVlVGOHAyVmVBSVNseWdoMXItVlpQc0pKamJYZFRnQ2ZaWEdQdnZ6OHRJQlgwUk5FMHNlUWp6ZWJ2NlRWdU1nekpuUTJHMFBQX1RQd2o5eDZadFl3QlpvQlIwT3hBY09nVnBPNHF6X25TNktITzNJMnE5cnEycDViSU1RU196YTZDbzJHaVA1Yy1KQXBVV2hzYUp2RFpOLUZjQ0haZHFlb29VSlhSMWdxREZvdzZqQXprcHE3cXJSZWpLQUVBQ1FEdERkb2VlWThwLU5rdXZrYg?oc=5",
-   "desc": "The European Central Bank unveiled a shortlist of new banknote designs, asking for the public's opinion. The new bills are meant to be safer, more durable and involve greener production. The winner will be announced by t",
-   "source": "ECB / Europe",
-   "publisher": "facebook.com",
-   "scope": "world",
-   "ts": 1784954525000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPXzBjUTdFc0xQUUl6MlZacDlKWXF4azJ4NncyQnhrbVY5bHlUbG85Zm13aTYzdTRmRFVwbDFncm9uTkNTVy1yOXk0NTBWSHpqWEQ0cWgxWTNHUXI3RVkyX2VGZVNQLW1SSGJmSUk4SWtTS3ZVZWd",
@@ -412,14 +412,24 @@
    "ts": 1784864700000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZEtwa2ttc2VEQXlzNmtqU2hwSF9rcmFIOXpjUkt5dllsTVN6WHl2eDg2SnFtemhvRDBtMlVQTXc0YzFxVTBSNDl5ekM5c043dmpZWU9RaXNtdjFiSTRodjRSeVM5R2R6dkM1eGQxeXE4V1V1VGV",
-   "title": "SEBI proposes mutual fund-only PMS framework to expand investment options, ease compliance - indiagazette.com",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZEtwa2ttc2VEQXlzNmtqU2hwSF9rcmFIOXpjUkt5dllsTVN6WHl2eDg2SnFtemhvRDBtMlVQTXc0YzFxVTBSNDl5ekM5c043dmpZWU9RaXNtdjFiSTRodjRSeVM5R2R6dkM1eGQxeXE4V1V1VGVXWHBaTjUwN1YzeV9KRDNYNXVpSmd4RzFsSDM4TkVLa0Y0UTlLbHlDSVRaeDVuOWZ2ZFJrcFJidnZZSDJVMk9MWGs5OEFXdjVrVW1LYWxOUE1aeG45Z3d5QQ?oc=5",
-   "desc": "SEBI proposes mutual fund-only PMS framework to expand investment options, ease compliance  indiagazette.com",
+   "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTzk0R1pMQjcxUzR6Nnk3TTZxQkM2NDNLQ0RZZENPVnpQMlVLelpoZUo3TEJCQjN5Z3RHOUN1NXlFeWVtd051a3NJY0NUVmkzbV9Ha0hwd3RrblJPNW1UOWlkajdxM3RzOXc4SThYRTdJQ2NSd0d",
+   "title": "SEBI proposes mutual fund-only PMS framework to expand investment options, ease compliance - ANI News",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTzk0R1pMQjcxUzR6Nnk3TTZxQkM2NDNLQ0RZZENPVnpQMlVLelpoZUo3TEJCQjN5Z3RHOUN1NXlFeWVtd051a3NJY0NUVmkzbV9Ha0hwd3RrblJPNW1UOWlkajdxM3RzOXc4SThYRTdJQ2NSd0dHTUdaWi1UdVh2ZDExSmE1dGNGVjd3cEhSRWxZYUNCdGpUSk5QMm9TeldKUXBURTVOU01YVGNNZXlQWGwxN1pqdVZqcGVNWk9sYkJKRGt4RDEzQnVBLUtHcE9DTTEzV2d2TQ?oc=5",
+   "desc": "SEBI proposes mutual fund-only PMS framework to expand investment options, ease compliance  ANI News",
    "source": "SEBI",
-   "publisher": "indiagazette.com",
+   "publisher": "ANI News",
    "scope": "india",
-   "ts": 1784845740000
+   "ts": 1784859720000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVl6d2tBU0s1eUItRzZYbHQ5ZGVxb25WZTdwQWNRaHBVM0JVekFBdEJ4bElpQ0FqOTIyQThBV0RRRXJkbGNMc2NkaUt0QUUwSGt4WThIYkpqSEc2RElrcTd6anpBdmRWSzZUYV9tbmlxemZ6QWF",
+   "title": "Average 30-year US mortgage rate climbs to 6.58%, highest level in nearly a year - Jacksonville Journal-Courier",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVl6d2tBU0s1eUItRzZYbHQ5ZGVxb25WZTdwQWNRaHBVM0JVekFBdEJ4bElpQ0FqOTIyQThBV0RRRXJkbGNMc2NkaUt0QUUwSGt4WThIYkpqSEc2RElrcTd6anpBdmRWSzZUYV9tbmlxemZ6QWFVTnF4c19ZQVI0R01OdWFwajJOT3FlblNEMWJ1a3RCQUJyUEptLUJTVENXSzVWS1JNX1BpWkxvZHow?oc=5",
+   "desc": "Average 30-year US mortgage rate climbs to 6.58%, highest level in nearly a year  Jacksonville Journal-Courier",
+   "source": "US Fed",
+   "publisher": "Jacksonville Journal-Courier",
+   "scope": "world",
+   "ts": 1784855592000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQWY4b3V4WGMzX01BVFNHU3hjY1JOa1BJRkNvMC12R3dVR2hfNVRia1J6SjJwa0J4ZGZQbDV3akZkU2d1anRYNWprWmc2c05mZ1R3SnJfcjk0eWkyZ0VVRVRxeE1PR0hDSDRrb3NfRnJoalVzRzJ",
@@ -440,16 +450,6 @@
    "publisher": "DD News",
    "scope": "india",
    "ts": 1784839532000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZFhQSVRqSGxGWTE2UHJkQlRzMG55OW1GTjVFeTJpMEVXdHhGaGdCcFlLalQ1Vlh3d3hCX0dKLWdzLWZlWU84SmpJWHpGMWR0ZDNCaVRRYnNqamt4eUdyMERycE93QlVrd01GSEk1N1RGQlNIdWd",
-   "title": "Average 30-year US mortgage rate climbs to 6.58%, highest level in nearly a year - Scripps News",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZFhQSVRqSGxGWTE2UHJkQlRzMG55OW1GTjVFeTJpMEVXdHhGaGdCcFlLalQ1Vlh3d3hCX0dKLWdzLWZlWU84SmpJWHpGMWR0ZDNCaVRRYnNqamt4eUdyMERycE93QlVrd01GSEk1N1RGQlNIdWdlSERZem1xbDlmWXVyS2lOaUlkVzNuZnBWWGNfQXQtT0NLRDdIUGpJbjh3U3NCNzBoZUZJQURuNlJzRm1tUmFTU0hzVVFERGtscw?oc=5",
-   "desc": "Average 30-year US mortgage rate climbs to 6.58%, highest level in nearly a year  Scripps News",
-   "source": "US Fed",
-   "publisher": "Scripps News",
-   "scope": "world",
-   "ts": 1784839463000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWGRmdl9XekJLT3Z1SkRyNXg0QS0tWUJmRlpDM09vempQbktPaGVfUDE1UktQSWdIQUZrLWNmcVhOaVBlbzhiQW9TbFpta3k2RkFVS3g4TUhDNG1vUkpTWkhWbEJDc3VzeEhWVW1FMllKMUpVOGl",
@@ -500,6 +500,16 @@
    "publisher": "The New Indian Express",
    "scope": "india",
    "ts": 1784830759000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sVkxwQTQxTXloZy1qVWRtOHE1b1ZteGVPSWpYcDN1Ri0yLXd4ZFRNa0t4OWtubjJFSlNJMU5oSHVQdGpGaEo1YnE1aHRVV3UwY2RYR1VFcTJXQ25venB1ckYwb3dxelpPLXVUZzRBVWdNNE9JQjV",
+   "title": "New Fed research suggests far fewer Americans own homes than widely believed - CBS News",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sVkxwQTQxTXloZy1qVWRtOHE1b1ZteGVPSWpYcDN1Ri0yLXd4ZFRNa0t4OWtubjJFSlNJMU5oSHVQdGpGaEo1YnE1aHRVV3UwY2RYR1VFcTJXQ25venB1ckYwb3dxelpPLXVUZzRBVWdNNE9JQjVIR2laSFM2QQ?oc=5",
+   "desc": "New Fed research suggests far fewer Americans own homes than widely believed  CBS News",
+   "source": "US Fed",
+   "publisher": "CBS News",
+   "scope": "world",
+   "ts": 1784829318000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRWZRbE1fYjhod2RHMVJYbkROZTFlSmZ1Ni1nWFFmcHJNY0RmbGQwdjBhRFZzMjZLWEhXYTZCc1d1X1JybUVhckNEaTJuNjFKa1BINW96MU9pNTcyQktKS2FjVHpBQXB1REt2UU5rYkg3Qnk2T1R",
@@ -600,16 +610,6 @@
    "publisher": "Dawn",
    "scope": "world",
    "ts": 1784817611000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYVBYbUJxZG1KV3Aya3gyMFhvZm05YklZaHpPYTVOcnN5SWZ4NXprQnF1YWQwa2UxVFFpY0M4RnJFVXpKNWJhTDIxb1JBOTZLb3BqWmxldktSbWswUDdqRWt5bTEtVEJIeG9nanRlSkdYa2Y5S3M",
-   "title": "Pound Holds Firm As Oil Prices Rise Ahead Of ECB Rate Decision - Arise News",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYVBYbUJxZG1KV3Aya3gyMFhvZm05YklZaHpPYTVOcnN5SWZ4NXprQnF1YWQwa2UxVFFpY0M4RnJFVXpKNWJhTDIxb1JBOTZLb3BqWmxldktSbWswUDdqRWt5bTEtVEJIeG9nanRlSkdYa2Y5S3MzRnRvYUlseEc2WWZYTGNOYzZhY1dTcQ?oc=5",
-   "desc": "Pound Holds Firm As Oil Prices Rise Ahead Of ECB Rate Decision  Arise News",
-   "source": "ECB / Europe",
-   "publisher": "Arise News",
-   "scope": "world",
-   "ts": 1784816137000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb3hydk1nVVJMZDVJOUQyMm81eE9FaVpNSlhnaWxPQ2l3aW4wVGQxWHNVYU85WkVGQURUaFgyb2tObUQ2V3N4SXlNQVZvWUphSTA3bWh0SWhCMFpDWVZBc1VpZDM2SXlFeE8wU1JVcTZ2a0xhdkl",
@@ -773,11 +773,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdHhEdUM2eWM2STBBTVBFVVZKbUxtSEFTT0pkZTlMOHpsdHNVZk1ZYWljN1FMYkFUcUwtaFEyN2hSdnFNaWJfOWM5V0tKbXVQd3pEMjFoeXFQZEczQmhfUFdUR2Nvb1V6dTJDcnctbmNrcTZHU1E",
-   "title": "World Bank warns global growth could slip to 1.3 pct if US-Iran conflict escalates - bastillepost.com",
+   "title": "World Bank warns global growth could slip to 1.3 pct if US-Iran conflict escalates - 巴士的報",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdHhEdUM2eWM2STBBTVBFVVZKbUxtSEFTT0pkZTlMOHpsdHNVZk1ZYWljN1FMYkFUcUwtaFEyN2hSdnFNaWJfOWM5V0tKbXVQd3pEMjFoeXFQZEczQmhfUFdUR2Nvb1V6dTJDcnctbmNrcTZHU1E5amR4cFE2Zi1ON3FYeDZ1bTBmLVk4aHJpVDRIcm5vWm04VE10NElQR0x1b0RWcEhEQ2JKcDU5QWpSemViNzdrdjBMa2s1aXUzRFprOTZLcGpSeG9OZ254d2c?oc=5",
-   "desc": "World Bank warns global growth could slip to 1.3 pct if US-Iran conflict escalates  bastillepost.com",
+   "desc": "World Bank warns global growth could slip to 1.3 pct if US-Iran conflict escalates  巴士的報",
    "source": "IMF / World Bank",
-   "publisher": "bastillepost.com",
+   "publisher": "巴士的報",
    "scope": "world",
    "ts": 1784803200000
   },
@@ -922,16 +922,6 @@
    "ts": 1784745232000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT2FJZkNSR0c2dVBJelgwRmRIV0tpZFI4N21lUWEtWFJtS1VDRXlKY19DZDhTMzlmRWZyYmZQSEdGdVFmN3pySTF1QlgyeDgxcHBiYTBEQWkzclhPRDRtQU5sMHFINmJsUE5ia1pITUdrUXdudGF",
-   "title": "Euro gains against British Pound after mixed UK inflation report, ECB decision looms - FXStreet",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT2FJZkNSR0c2dVBJelgwRmRIV0tpZFI4N21lUWEtWFJtS1VDRXlKY19DZDhTMzlmRWZyYmZQSEdGdVFmN3pySTF1QlgyeDgxcHBiYTBEQWkzclhPRDRtQU5sMHFINmJsUE5ia1pITUdrUXdudGF6SGVwWnNWNWR0MW5LMGJuOXR5eThadm85cl90bVpkb3dEVVFnbUltbUZoeTU1LVpVcnl4blJGT3pFMEtIcGxCTHFIc3pxQ2FvOUtqRGl1?oc=5",
-   "desc": "Euro gains against British Pound after mixed UK inflation report, ECB decision looms  FXStreet",
-   "source": "ECB / Europe",
-   "publisher": "FXStreet",
-   "scope": "world",
-   "ts": 1784741958000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmd0xiZmdTZzRvMW1CS25JX1NwNnI4NWZ5eDcyWXpKdDkzZHVxTG95Ry0wZE1xcUFiU0haWEZJWjdFUm1mdkE4eVdib09leWc5cFFnb2hIVHRjQW9QaW1KemxXQXptSjJZMk8yVmVoaEJfREgwZ0E",
    "title": "World Bank Chief Economist Warns: If U.S.-Iran Conflict Persists, Global Growth Could Be Halved to 1.3% - finance.biggo.com",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmd0xiZmdTZzRvMW1CS25JX1NwNnI4NWZ5eDcyWXpKdDkzZHVxTG95Ry0wZE1xcUFiU0haWEZJWjdFUm1mdkE4eVdib09leWc5cFFnb2hIVHRjQW9QaW1KemxXQXptSjJZMk8yVmVoaEJfREgwZ0E?oc=5",
@@ -1012,16 +1002,6 @@
    "ts": 1784721843000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45V1JheVN6eHBRVFBFNHNWdVBxdDBaSDZrVm0wOHJnWUFhM3hRWERQY0c5TWlqY0ZlQnNjbXVEbmY4QWYzMktwOUo5anZFQnI2OVJkeTVRTzVxQQ?oc=5",
-   "title": "What's happening to UK interest rates and what does it mean for mortgages? - BBC",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45V1JheVN6eHBRVFBFNHNWdVBxdDBaSDZrVm0wOHJnWUFhM3hRWERQY0c5TWlqY0ZlQnNjbXVEbmY4QWYzMktwOUo5anZFQnI2OVJkeTVRTzVxQQ?oc=5",
-   "desc": "What's happening to UK interest rates and what does it mean for mortgages?  BBC",
-   "source": "ECB / Europe",
-   "publisher": "BBC",
-   "scope": "world",
-   "ts": 1784719146000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSG81WGdwU1lDbHE5VEFhZXNhOEhqQzRhSzNBSXl3a1FyTHktOWdzOXRWRDg3Z3lsUkZCRXh2S3Y2VUZrV3I0a1lPbk5MM1lHbkFzU295VloxdU1kcU5ZRTlWOHBBOEhHdXVzTThodXo1WkZjejl",
    "title": "Middle East conflict could drag global growth to 1.3% in 2026, warns World Bank - India Today",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSG81WGdwU1lDbHE5VEFhZXNhOEhqQzRhSzNBSXl3a1FyTHktOWdzOXRWRDg3Z3lsUkZCRXh2S3Y2VUZrV3I0a1lPbk5MM1lHbkFzU295VloxdU1kcU5ZRTlWOHBBOEhHdXVzTThodXo1WkZjejlJcEVWM2psQ2JWTi1iWlYwRktxbWIzQVlwdHc4WlZkc1p3cEYwaFF5aTN3cWZONTREbndyU2p4cEl6bjJ1d1pZaURVVDF6RDc1cTROYVJzRlhwVk1HVTBxUzhkM1HSAdcBQVVfeXFMTmFQR0oyM3JCM3JOQlBHSHZwamcxRllWUFpSMUljR2V0c293OWR6OC15X3lrdXFidUczYmFzVUxtbWxqaTZxMlc5aV9jdDRzQUNZeTlWNmIxS0M0bDJsSjVCY2o2Y0Q1blM4S1lJd3ROT25aMEJ2RXBUSjFUM29QTE9IdzU4eWtBNC1Fa0w4aXZlOERqZzVKMnZoLVhRdkFwNTdPTXNMandiMmd3cDJxTEVwOEdXNWRMMFNaaFRYTC1sbTE0NTZRcnl3eS1DSDg3aTI4SVdaY3M?oc=5",
@@ -1062,16 +1042,6 @@
    "ts": 1784715889000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHRnpOU2V3LW5aNGZzbnlkd0F3UUhqZXpGeS15ZXdZYUpVMThfTGhXdGtpQTFKb2VJU2twMWZrVlRVcXZCSVJqM3d0VTZBNnJCQXdlZzJ6cnpNdw?oc=5",
-   "title": "UK inflation: What is the rate and why are prices still rising? - BBC",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHRnpOU2V3LW5aNGZzbnlkd0F3UUhqZXpGeS15ZXdZYUpVMThfTGhXdGtpQTFKb2VJU2twMWZrVlRVcXZCSVJqM3d0VTZBNnJCQXdlZzJ6cnpNdw?oc=5",
-   "desc": "UK inflation: What is the rate and why are prices still rising?  BBC",
-   "source": "ECB / Europe",
-   "publisher": "BBC",
-   "scope": "world",
-   "ts": 1784715399000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMUJRY2cwZjlXQURQTDR6aXBGN1pqMEltQjZzZFVJaUVmV1h5aEZLODhxeHp0RFVrczEwX3hhZjBPRGNXTFJSNHZNTTF1Vjc3TTBUQllZYjRBb2RFWEIybHhRUV9XNVJKM2pvTXpyRG15QlBhZHd",
    "title": "Crude surge puts rupee under pressure despite RBI policy measures - ThePrint",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMUJRY2cwZjlXQURQTDR6aXBGN1pqMEltQjZzZFVJaUVmV1h5aEZLODhxeHp0RFVrczEwX3hhZjBPRGNXTFJSNHZNTTF1Vjc3TTBUQllZYjRBb2RFWEIybHhRUV9XNVJKM2pvTXpyRG15QlBhZHdxNGV6U1IxQ1ZHX0x4bHZJUEZYU1c3aVF1a0FobFUwSmVaQUVGSzZZWFRtcFHSAacBQVVfeXFMUE5WbW5EVXN5aDI2dXVQT3k3QndxOHo2R3FjZk9PT1R5ZjF2TzFkdjY5d1NCOFlCUHJWTkhzLTdHMEJET0pzYjZYejBQNnZfTTlxRGNCZjY1VjhPMnBFNG8wbG4xNmVmbVplUzF2Z1BYYlRFaGlYTXM1WmpXeFBhc2FQMFFwV1lJWFJCYmFkLXpkUjVrMHVoMFh1T3JLN0poVjVtWTZwRzg?oc=5",
@@ -1080,6 +1050,16 @@
    "publisher": "ThePrint",
    "scope": "india",
    "ts": 1784705157000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZk5EcHU5b0VTUFhmTmkwa3RVbGpUcHVQVnZIdzg1Yk9YSDZFeEdCZHJlMTVHaW5BTmlDMzNsTXRoNVR3aHNrVlRCemZmN2VhS3B3OWZxNWNqY2lTTUpuVUNpSldWTmJMMDRHSms0R0dnanI0bUg",
+   "title": "Update: RBI's Draft Guidance on Regulatory Expectations for Data Governance - Nasscom",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZk5EcHU5b0VTUFhmTmkwa3RVbGpUcHVQVnZIdzg1Yk9YSDZFeEdCZHJlMTVHaW5BTmlDMzNsTXRoNVR3aHNrVlRCemZmN2VhS3B3OWZxNWNqY2lTTUpuVUNpSldWTmJMMDRHSms0R0dnanI0bUg5MzlYOEIzUTlPdWY5dzVOT1ZsOHRibFZVRWZQY3hkQ2g1b0xQYnRGd0YwQUVwQ2hVRXlJcWRQa1NqbHhBWVRQMzdvaXhyeDZn?oc=5",
+   "desc": "Update: RBI's Draft Guidance on Regulatory Expectations for Data Governance  Nasscom",
+   "source": "RBI",
+   "publisher": "Nasscom",
+   "scope": "india",
+   "ts": 1784701304000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTnhTYmxOZG1VbEtlTHpMNGRCTjFlN1RCV3J1YkdsV29oYUVKQzR6eXFtMFFWVWM2ajE5NHhQbkQ3YWk5S3lvRFlSbTd2QmtzZnVodDI2VXNwV3JNMUFsTjI2QjY4c2RmV3hnSjVhZk5uUm1ramt",
@@ -1200,6 +1180,26 @@
    "publisher": "Reuters",
    "scope": "world",
    "ts": 1784637759000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUzd0Umk1OW1RQU1HR0pWVnZCMy1PeTRnRHBSM3ZlZ09YZnU1NnFBWmE1bm5BcFVXZC1mNFA5UHNTcFJzMmktcVFNYzRuWnhhNHZ2bHhYMEgxdjhIcWdMakFIOVNZUHNWNVJPaTgtR25qMTA3b01",
+   "title": "AI could lift Sub-Saharan Africa economy 4% if power, internet improve, IMF says - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUzd0Umk1OW1RQU1HR0pWVnZCMy1PeTRnRHBSM3ZlZ09YZnU1NnFBWmE1bm5BcFVXZC1mNFA5UHNTcFJzMmktcVFNYzRuWnhhNHZ2bHhYMEgxdjhIcWdMakFIOVNZUHNWNVJPaTgtR25qMTA3b013UG44aEI3VTI5c1BwVXdka2dlZUcxT1B2M3dzLXR1VWhyTGpZT3NFandWWDdZTHh3ZTUtbXdiWXNUTTFIdXhYNXVRNlpXbE5aQXdOeTY2?oc=5",
+   "desc": "AI could lift Sub-Saharan Africa economy 4% if power, internet improve, IMF says  Reuters",
+   "source": "IMF / World Bank",
+   "publisher": "Reuters",
+   "scope": "world",
+   "ts": 1784635929000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMExVdWtmaFFJUkhxVUtvQnRDZjBkX2poZzZVSEpPTTl2MkNBTFRMbGI0N2ZsNHpNMV9JSDh2Z0R5a0F2bTRGZ3VzTHo1SFkxNzRCRUU5dkNicEpvZkxFaXdGRE1qS3U4cE9VLUZVQlBmLVBpY1Y",
+   "title": "NABARD sanctions Rs 15,056 crore to Haryana for rural development - Punjab Kesari English",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMExVdWtmaFFJUkhxVUtvQnRDZjBkX2poZzZVSEpPTTl2MkNBTFRMbGI0N2ZsNHpNMV9JSDh2Z0R5a0F2bTRGZ3VzTHo1SFkxNzRCRUU5dkNicEpvZkxFaXdGRE1qS3U4cE9VLUZVQlBmLVBpY1YyS1psZUs5WkFBZEd2QkNBUHlCYjhvdktidHZscW1Qd2c0V3YycElGWTRTUFliX1drTdIBrAFBVV95cUxObjhua2NYX2xLWlVIZUlRV21XTkVQVFFhRjdKVDhEUVdaQ0dkRlFURUhERWcwdTNEdFcxcG9RbERxOUs0V2Vma2VrU3E2VVFyREE4b1c1ZlBuOWlnTDVGOVpoVnNlYVF1czFzMXRrQTFyeWNUQm9HSEdZaktDcTNyRnV3SXZuS09aVHAxYlQwZWxGNE9xY2t4M2pFZkVYZjdSZTlMZVJoRWRfcHZn?oc=5",
+   "desc": "NABARD sanctions Rs 15,056 crore to Haryana for rural development  Punjab Kesari English",
+   "source": "NABARD",
+   "publisher": "Punjab Kesari English",
+   "scope": "india",
+   "ts": 1784635378000
   }
  ]
 }
