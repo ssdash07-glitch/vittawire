@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-25T18:40:50.483184+00:00",
+ "updated": "2026-07-25T20:12:53.173349+00:00",
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2JXNWk0WTFqVWZncjI1WFBCVS1LdW9CSDBHdVZORm1uNGUwTVRyMlc0eTR6Mkg0Y0pjUHFIWWFaOXU4VXBKeVpNdzhFSm5fTmhmY3o1S2FQOUEwYmZHVF9mS1k3ejlaT3pHUjBSd3Z4cjBYMDJ",
+   "title": "FOMC preview: Fed to stay on hold after June’s hawkish shift - ING Think",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2JXNWk0WTFqVWZncjI1WFBCVS1LdW9CSDBHdVZORm1uNGUwTVRyMlc0eTR6Mkg0Y0pjUHFIWWFaOXU4VXBKeVpNdzhFSm5fTmhmY3o1S2FQOUEwYmZHVF9mS1k3ejlaT3pHUjBSd3Z4cjBYMDJwbG5pdXkwLVk1em5jMDlaWklHb3Z0b3B6RmhfdmV6?oc=5",
+   "desc": "FOMC preview: Fed to stay on hold after June’s hawkish shift  ING Think",
+   "source": "US Fed",
+   "publisher": "ING Think",
+   "scope": "world",
+   "ts": 1785006874000
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaXJpRExmajFDOTZkNVBWU1c1QmRkZFdPaF9ObWpkREoyUUNTMkg5NG5VN2ZMZ1JvekdvSG9WRjFFdkdmY05sQTQ0ZHRMdUNqLXprakZ0MU5FMmw5QkUxdVFqbkMyYlBjZlVtTW9aM3pOb04tNHR",
    "title": "Fed July FOMC Meeting Preview: Rate Hike or No Change? - TradingKey",
@@ -12,14 +22,14 @@
    "ts": 1785003075000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiYzR5c1VVV0xzbnU4dERCOXNyZmFlZDFyLTBDVG5ENWRpXzQ3alJrWXVVa3V5dlNXR3EzVjE1Ul9jaC1IMEVYdnhDSzd2TXBjYWJ2ODJETE5obHQ5M0xXNDI3amJVRHc?oc=5",
-   "title": "Top 5 Insights on SBA Loan Interest Rates for 2024 - Small Business Trends",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiYzR5c1VVV0xzbnU4dERCOXNyZmFlZDFyLTBDVG5ENWRpXzQ3alJrWXVVa3V5dlNXR3EzVjE1Ul9jaC1IMEVYdnhDSzd2TXBjYWJ2ODJETE5obHQ5M0xXNDI3amJVRHc?oc=5",
-   "desc": "Top 5 Insights on SBA Loan Interest Rates for 2024  Small Business Trends",
+   "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSdjgwZDd5VHh4eU5oLXdDdk1qb0JmYkw1SGJJQjJoVkQ2S3phMnZiejdPSHh0N3R5ZXVya25oSGpnTmt5TWtMSDY2c1pEZ1dwY0JvM3REMXZpWk5XZnBsREFHMmY1aEVKV1NybmY1dl9sWHM?oc=",
+   "title": "Average rate on a 30-year mortgage hits the highest level in months - Salina Post",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSdjgwZDd5VHh4eU5oLXdDdk1qb0JmYkw1SGJJQjJoVkQ2S3phMnZiejdPSHh0N3R5ZXVya25oSGpnTmt5TWtMSDY2c1pEZ1dwY0JvM3REMXZpWk5XZnBsREFHMmY1aEVKV1NybmY1dl9sWHM?oc=5",
+   "desc": "Average rate on a 30-year mortgage hits the highest level in months  Salina Post",
    "source": "US Fed",
-   "publisher": "Small Business Trends",
+   "publisher": "Salina Post",
    "scope": "world",
-   "ts": 1784986260000
+   "ts": 1784988471000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaXBJaVRVTVVmbnBJWVFETExhVUxfRzkwdU1YRng2clUyc0pWTVJEMWZwcjFrc0dhM1pvdVdFdER1bC00bzVLRDhtUG5sZjI3eUJYNk9aVXoxRDlENXRreVNTbUhEQUtKTXRWT2Jycjg3RjkyUS1",
@@ -29,7 +39,17 @@
    "source": "US Fed",
    "publisher": "The Motley Fool",
    "scope": "world",
-   "ts": 1784985482000
+   "ts": 1784987100000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiYzR5c1VVV0xzbnU4dERCOXNyZmFlZDFyLTBDVG5ENWRpXzQ3alJrWXVVa3V5dlNXR3EzVjE1Ul9jaC1IMEVYdnhDSzd2TXBjYWJ2ODJETE5obHQ5M0xXNDI3amJVRHc?oc=5",
+   "title": "Top 5 Insights on SBA Loan Interest Rates for 2024 - Small Business Trends",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiYzR5c1VVV0xzbnU4dERCOXNyZmFlZDFyLTBDVG5ENWRpXzQ3alJrWXVVa3V5dlNXR3EzVjE1Ul9jaC1IMEVYdnhDSzd2TXBjYWJ2ODJETE5obHQ5M0xXNDI3amJVRHc?oc=5",
+   "desc": "Top 5 Insights on SBA Loan Interest Rates for 2024  Small Business Trends",
+   "source": "US Fed",
+   "publisher": "Small Business Trends",
+   "scope": "world",
+   "ts": 1784986260000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXFVSlJCOTB1c2JqT0N6WlZxbTdGdTZHN1IyM0Vvczd3VGdkRjJsZ3BJdHk2aFhZVU9vYVBRLVRrU3hvcDZZWlEzcmU5aFNXdnI4UGJkSlBKel9MaDlsMVdEVkRZSnRBM1FJeC1zTlMwTmRGeGl",
@@ -262,16 +282,6 @@
    "ts": 1784905257000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQkw2bndOQ1hUbTkwTVJfYngya3BZUXktZklVdzFvTnpYNjl4Z3M5SkJuVnpHdXNMTnlrazQ0VTlFZnY4d3h6VWFwR1g5Ul8yT3JvYXpfclNuVmpyMkRld1NDUF9lcFZMa3pLaWdsMWtWYVFTT3Y",
-   "title": "Why a chief economist thinks a surprise rate hike could be coming at next week's Fed meeting - Business Insider",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQkw2bndOQ1hUbTkwTVJfYngya3BZUXktZklVdzFvTnpYNjl4Z3M5SkJuVnpHdXNMTnlrazQ0VTlFZnY4d3h6VWFwR1g5Ul8yT3JvYXpfclNuVmpyMkRld1NDUF9lcFZMa3pLaWdsMWtWYVFTT3Y5NC1mdGRhVmJsQ3hiZF9sZmJUOHpKLVU5OUlZaGlCc0hXcUJHOHZaQQ?oc=5",
-   "desc": "Why a chief economist thinks a surprise rate hike could be coming at next week's Fed meeting  Business Insider",
-   "source": "US Fed",
-   "publisher": "Business Insider",
-   "scope": "world",
-   "ts": 1784904180000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYkVrN0UxczFNMG9ZeVZGU281NXRMS3JwcjYyS1U1RnFGcWxjb2kyRmxzeXVKMUtOQkpDMlBLUUMyVTFzZS10ek5xcS1Hb09KTnlFX0FnUTlHNFhfbWwxM2tscXhiOThRaGdFZEpqdXdxVWJZZW5",
    "title": "Commentary: Federal Reserve is tasked with an impossible job - Grand Forks Herald",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYkVrN0UxczFNMG9ZeVZGU281NXRMS3JwcjYyS1U1RnFGcWxjb2kyRmxzeXVKMUtOQkpDMlBLUUMyVTFzZS10ek5xcS1Hb09KTnlFX0FnUTlHNFhfbWwxM2tscXhiOThRaGdFZEpqdXdxVWJZZW5KRFZpd3Y4WEZoaHJYXzdJU3lGRFM3cFNtckVqV2U3Zl9xS3pzVDgxVUw0c2c2MWJWM2RHSlJf?oc=5",
@@ -432,16 +442,6 @@
    "ts": 1784887200000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2JXNWk0WTFqVWZncjI1WFBCVS1LdW9CSDBHdVZORm1uNGUwTVRyMlc0eTR6Mkg0Y0pjUHFIWWFaOXU4VXBKeVpNdzhFSm5fTmhmY3o1S2FQOUEwYmZHVF9mS1k3ejlaT3pHUjBSd3Z4cjBYMDJ",
-   "title": "FOMC preview: Fed to stay on hold after June’s hawkish shift - ING Think",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2JXNWk0WTFqVWZncjI1WFBCVS1LdW9CSDBHdVZORm1uNGUwTVRyMlc0eTR6Mkg0Y0pjUHFIWWFaOXU4VXBKeVpNdzhFSm5fTmhmY3o1S2FQOUEwYmZHVF9mS1k3ejlaT3pHUjBSd3Z4cjBYMDJwbG5pdXkwLVk1em5jMDlaWklHb3Z0b3B6RmhfdmV6?oc=5",
-   "desc": "FOMC preview: Fed to stay on hold after June’s hawkish shift  ING Think",
-   "source": "US Fed",
-   "publisher": "ING Think",
-   "scope": "world",
-   "ts": 1784882810000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa085dlU4ZElxRmJLdlNvdTNUbHhMVXNwUjgxOEpsOVdveGxTUVNnT0MzNG9YbDZlRWppVnh1N3ZfbFVaRm55WlRia0RkVU5obnREZUdRYThveXZiczlJUGpTb3AxSEhmSHlacHRzV0xlNlZBeTU",
    "title": "The Probability of a July Fed Rate Hike Has Tripled Over the Last Week -- Here's Why - Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa085dlU4ZElxRmJLdlNvdTNUbHhMVXNwUjgxOEpsOVdveGxTUVNnT0MzNG9YbDZlRWppVnh1N3ZfbFVaRm55WlRia0RkVU5obnREZUdRYThveXZiczlJUGpTb3AxSEhmSHlacHRzV0xlNlZBeTU2ZGpuN2pFLWFXZENmbFN2UmMwWjUwcjA1LUtYR3Q3NEhWOWpnRQ?oc=5",
@@ -600,16 +600,6 @@
    "publisher": "The Hindu",
    "scope": "india",
    "ts": 1784826341000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVjlhVHBvaFBqMWVQamdrMkhScFZ4dkZFVWdpU3VRcWFrVUVVSnh0ZDM4aFByamJDMFAzMFRjZmxDWGVzSWdkNDdDNGNELVBNU3pXMFBZTlpZNjZRc1pJSEVfMG5FRjhDZmZwZVNSTEVWdWVXdTR",
-   "title": "Average 30-year US mortgage rate climbs to 6.58%, highest level in nearly a year - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVjlhVHBvaFBqMWVQamdrMkhScFZ4dkZFVWdpU3VRcWFrVUVVSnh0ZDM4aFByamJDMFAzMFRjZmxDWGVzSWdkNDdDNGNELVBNU3pXMFBZTlpZNjZRc1pJSEVfMG5FRjhDZmZwZVNSTEVWdWVXdTRuUXpKQXhlRWVpUEx4UmZwcWFnbEg3RVE1SnNJVEhGQkQzT2F2NDVNVE5uaTZ2OXpKUVRVRDBkOUxscHRENHdUZTA5dkhMX0FyTl9DaDZiY2JPTUdVenBaX0xha2NkTndGbVB3QVluVFZvNw?oc=5",
-   "desc": "Average 30-year US mortgage rate climbs to 6.58%, highest level in nearly a year  The Washington Post",
-   "source": "US Fed",
-   "publisher": "The Washington Post",
-   "scope": "world",
-   "ts": 1784826198000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MRUV6dnZDQjVIUEdxVTZXcVJYT3RrMXdQRlVuMElmUl9TRUFJbTBWU0loQjF0N0lUeFYwamFqQlJhSFdwMXFKenZrWVpSV0lCRDhxa2Y2a1Y5MWJXYWtmeEQ5eEt5YlZJeUowNA?oc=5",
@@ -932,6 +922,16 @@
    "ts": 1784790887000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUFpkZkNvOE5ZU1BLM1NXMEV3SzFjMlRhWFdGTGU5NHlnbDNJSlhydExWcDdqbUFwN2FhUW1QcXpPSWlaMDgtX3BjQVZKTGZocVR6YTJJYk1kbEhCdnBsdU5iSlRaaWNGWGdVOWtWdXZwNlU2U1R",
+   "title": "Foreign banks fastest transmitters of easing cycle, says RBI - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUFpkZkNvOE5ZU1BLM1NXMEV3SzFjMlRhWFdGTGU5NHlnbDNJSlhydExWcDdqbUFwN2FhUW1QcXpPSWlaMDgtX3BjQVZKTGZocVR6YTJJYk1kbEhCdnBsdU5iSlRaaWNGWGdVOWtWdXZwNlU2U1RGblVQQllYMW45akhGQWwtQU9uMFNlNnBoc09nOGE3eHhFWWtHWG13bHMtaXdaUUttWFgxdFpXRjlSU0lkb2N3OEJueGfSAb8BQVVfeXFMTW9OV2ZNLUExZVBGUkFOUHcyT2JrU3hhNE1xck1vR0lfZ1VydmVjV1pJS3dPTHBZY1BmR3NYdWt1a3pRMFdvTldXbVJaVDIyMzgyUmlXQzJ5OHVTZVVnMFhzdlJwdGFZU0lRZUxiclZQdmNuTmE5ZFZIT29pR0dsdXFmQnIxSDdZb2RiSERPT3R5dVlhRmdSanRldF9wdkdEUkNnekZNWjRHZzZjOVNNMUlZc1hWTFVuQllCNU14VGM?oc=5",
+   "desc": "Foreign banks fastest transmitters of easing cycle, says RBI  Moneycontrol.com",
+   "source": "RBI",
+   "publisher": "Moneycontrol.com",
+   "scope": "india",
+   "ts": 1784790303000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcXJELTBoS0dMaDRxRnN3OU1xTVp3OURkU0RKS1FKUW9vLWF6aXpxQW9NZFRRclk5YVAyYlRuaWxhUXpXVHdFZDNnRGR5aVpXZ29HcUZocEl0c0VfbHBYQ3NzR3VQTjJfMEpCTzdqcHd0aldWWjl",
    "title": "FinMin reviews reform progress with IMF leadership, reaffirms commitment to economic transformation - The Express Tribune",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcXJELTBoS0dMaDRxRnN3OU1xTVp3OURkU0RKS1FKUW9vLWF6aXpxQW9NZFRRclk5YVAyYlRuaWxhUXpXVHdFZDNnRGR5aVpXZ29HcUZocEl0c0VfbHBYQ3NzR3VQTjJfMEpCTzdqcHd0aldWWjlFcnZubDB4MjF1Z21xS2hGeFo4VlEwV3RSZlJNSndGZDlURWo3aE9wX21tTEZrWk9hVFA2Qm1tZWpGclozakotYzlkUDlYbVAweGVSOENONF9VSlVPQVF1NDdF?oc=5",
@@ -1192,14 +1192,14 @@
    "ts": 1784686440000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWVEzMDYxbGhxNDZ5MkRDRUlRQ1AxallkUC1kRk1WekVuLWJoY2I2aTNJc1JWeG9LLXFJSWxmMV95Zk5CMlBoQ05reE8taDkxMzNKQUVGai1Bb3NqT2lPTGtJbGpMZ2wxRTZUT2xMQXZCVG5fZl8",
-   "title": "NABARD sanctions Rs 15,056 crore to Haryana for rural development - Social News XYZ",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWVEzMDYxbGhxNDZ5MkRDRUlRQ1AxallkUC1kRk1WekVuLWJoY2I2aTNJc1JWeG9LLXFJSWxmMV95Zk5CMlBoQ05reE8taDkxMzNKQUVGai1Bb3NqT2lPTGtJbGpMZ2wxRTZUT2xMQXZCVG5fZl8xTkdfb0t4djBHNk5wMzZpeEx5SGVWQWE5aGJmV0VjMjBmLTJxazFTenpKb09KT05n0gGmAUFVX3lxTFBZUTMwNjFsaHE0NnkyRENFSVFDUDFqWWRQLWRGTVZ6RW4tYmhjYjZpM0lzUlZ4b0stcUlJbGYxX3lmTkIyUGhDTmt4Ty1oOTEzM0pBRUZqLUFvc2pPaU9Ma0lsakxnbDFFNlRPbExBdkJUbl9mXzFOR19vS3h2MEc2TnAzNml4THlIZVZBYTloYmZXRWMyMGYtMnFrMVN6ekpvT0pPTmc?oc=5",
-   "desc": "NABARD sanctions Rs 15,056 crore to Haryana for rural development  Social News XYZ",
+   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTmRvN0tTS0NUN1BRekxmQnlaeERVdkpJejRKYkNha2hZMm11QUdzVFR4M3QtRVBfaGlFU05xX3piM05SYUNZM0M2WWZEeVZGYzVOMlh1ZDdTWlZfd2NQWXRRSlh6WERjNHM0RG8wX180UWdOWUF",
+   "title": "NABARD sanctions Rs 15,056 cr for 6,175 rural infrastructure projects in Haryana - PSU Watch",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTmRvN0tTS0NUN1BRekxmQnlaeERVdkpJejRKYkNha2hZMm11QUdzVFR4M3QtRVBfaGlFU05xX3piM05SYUNZM0M2WWZEeVZGYzVOMlh1ZDdTWlZfd2NQWXRRSlh6WERjNHM0RG8wX180UWdOWUFmVW9jMnRodHRxLU5aT0RDTVZkVHNHNW9xYVVBWVZ3emd3QU9wT09DbWlYandqM3FZdWtPcGpLRmNwT9IBvgFBVV95cUxQM2szTUQ5SVJEVEVRRm9mS2dkNTVDQTFtM2lOLWUzcmQyQmtpYV9fRHJCQS1zUTQzWC1fWVZkNnhtMnVBb244TmwtN051NlpRLWxWYXZoNzQwc0tBbEJIVTB6eWZBQldaWmdlNkQzR1IzaW92SXBiSklCd1NfSVJ5Q25xNHRJbUdtM3JCTVhvMG5aTTBMZWI4b0NHZnhPYktYWkk3UmNwWmw0c1gwRldTUThuTS1tUzZHMVBDR2hn?oc=5",
+   "desc": "NABARD sanctions Rs 15,056 cr for 6,175 rural infrastructure projects in Haryana  PSU Watch",
    "source": "NABARD",
-   "publisher": "Social News XYZ",
+   "publisher": "PSU Watch",
    "scope": "india",
-   "ts": 1784675696000
+   "ts": 1784651827000
   }
  ]
 }
