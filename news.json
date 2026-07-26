@@ -1,15 +1,25 @@
 {
- "updated": "2026-07-26T21:03:46.545011+00:00",
+ "updated": "2026-07-26T22:16:15.412368+00:00",
  "items": [
   {
-   "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbWFPd0dmcXhkMmp1eTFtVC1OXzBIQ005d01SVXpGODJnOE13UVhaeDVLa0p6bFNLWTRrVEJUVDZWdkZWOXdqYlJULW9NYW9sNG1GUUxCMmVEdWN4cWlITVYzOTJRZGNkbGh4N2VfUVFMblpJMnl",
-   "title": "RBI sees rupee as undervalued; FCNR(B) inflows cross $32 billion - The Hindu",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbWFPd0dmcXhkMmp1eTFtVC1OXzBIQ005d01SVXpGODJnOE13UVhaeDVLa0p6bFNLWTRrVEJUVDZWdkZWOXdqYlJULW9NYW9sNG1GUUxCMmVEdWN4cWlITVYzOTJRZGNkbGh4N2VfUVFMblpJMnljXzVDZHQ3T3EzdXVBdWxBZWYybmphMjZlZEphMzVkSnZxeDlXTjFtc1hwb2Y4Z3BueThoSGVkSm9LbkYtTlowSFpTdG5ucjFtRdIBxgFBVV95cUxOcVVSeTlHZEk1X1lzV1FNY2ZTVDVIQ2VHTU93TkhvTEsya0ZaeFZJbk1MU0tXX0NQSmxkZ3FLUXVxVDhfVXhUcDRGd1UxelUzWHJhdXZxOVhORHBoa3JXd0N6QkFudVBQRERwUE5xZ2VkQ2Ntc1JWWThkM01rSmxGRHBoNEttZ2YtUnpULVZwOTRRYXZDbzZpMXBvYWZhWTl1Q2ZidUdSTGFEX2dYYlVaRE5nR1dOQ2hQM0hidTY0emZsTFIxSFE?oc=5",
-   "desc": "RBI sees rupee as undervalued; FCNR(B) inflows cross $32 billion  The Hindu",
-   "source": "RBI",
-   "publisher": "The Hindu",
-   "scope": "india",
-   "ts": 1785095430000
+   "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XRkduTHZETFZhcnljdkwyRHBJeDJ0WE9qSmVNaGZQS3AzQWxYNW9hRWlZeE1tb0pvdWtVenl0aERqcGZKb3h1ZnN6aUdwdEh3MWxtVFpZWVdCc0pXeEFj0gFcQVVfeXFMUEc3MjhhQW9GQ003YzR",
+   "title": "Federal reserve due to make another decision on interest rates - Modern Ghana",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XRkduTHZETFZhcnljdkwyRHBJeDJ0WE9qSmVNaGZQS3AzQWxYNW9hRWlZeE1tb0pvdWtVenl0aERqcGZKb3h1ZnN6aUdwdEh3MWxtVFpZWVdCc0pXeEFj0gFcQVVfeXFMUEc3MjhhQW9GQ003YzRBRHliSkJwNHZaMjB6U1Bqa3pxeFJzVV9laVdJQ0JWQzJSODlyaFBXc3JlaGtkRXlNZmg4QWZNUnZZQS14eVpObG5yQ21md0E?oc=5",
+   "desc": "Federal reserve due to make another decision on interest rates  Modern Ghana",
+   "source": "US Fed",
+   "publisher": "Modern Ghana",
+   "scope": "world",
+   "ts": 1785103289000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONV9ROGp1WkFQTTNUd1pESXB0dF9nTkE2SmZzSEozbDFHMm90UEEwMExqbVppYzJ0WXAzNW9UV3NwNWFwcmcwLWV4X2htTEZ1RjVDNXpDbWk1ZFVkSmlvaEpEUzR1cndpa0trYTRKUE5PYy02SmF",
+   "title": "FOMC Preview: Fed likely to hold rates despite oil spike, Citi sees dovish outcome - Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONV9ROGp1WkFQTTNUd1pESXB0dF9nTkE2SmZzSEozbDFHMm90UEEwMExqbVppYzJ0WXAzNW9UV3NwNWFwcmcwLWV4X2htTEZ1RjVDNXpDbWk1ZFVkSmlvaEpEUzR1cndpa0trYTRKUE5PYy02SmFXUWhmN2xUNTZWbmlwcw?oc=5",
+   "desc": "FOMC Preview: Fed likely to hold rates despite oil spike, Citi sees dovish outcome  Yahoo Finance UK",
+   "source": "US Fed",
+   "publisher": "Yahoo Finance UK",
+   "scope": "world",
+   "ts": 1785097568000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzltUHFiVVZqOHljZXMyWDNKanJTODctLWZQOTV5eW90MV9JaFF1R2Z6S1JfbzROTGZQcGlDLThSNmN1ZjNXbzV5Z3BMV3E5di1hX0ZWRnREOVRpOXpRWXhJWkZaZmdOOWprQWlxcFhCRHBacEN",
@@ -50,6 +60,16 @@
    "publisher": "IndexBox",
    "scope": "world",
    "ts": 1785086520000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbWFPd0dmcXhkMmp1eTFtVC1OXzBIQ005d01SVXpGODJnOE13UVhaeDVLa0p6bFNLWTRrVEJUVDZWdkZWOXdqYlJULW9NYW9sNG1GUUxCMmVEdWN4cWlITVYzOTJRZGNkbGh4N2VfUVFMblpJMnl",
+   "title": "RBI sees rupee as undervalued; FCNR(B) inflows cross $32 billion - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbWFPd0dmcXhkMmp1eTFtVC1OXzBIQ005d01SVXpGODJnOE13UVhaeDVLa0p6bFNLWTRrVEJUVDZWdkZWOXdqYlJULW9NYW9sNG1GUUxCMmVEdWN4cWlITVYzOTJRZGNkbGh4N2VfUVFMblpJMnljXzVDZHQ3T3EzdXVBdWxBZWYybmphMjZlZEphMzVkSnZxeDlXTjFtc1hwb2Y4Z3BueThoSGVkSm9LbkYtTlowSFpTdG5ucjFtRdIBxgFBVV95cUxOcVVSeTlHZEk1X1lzV1FNY2ZTVDVIQ2VHTU93TkhvTEsya0ZaeFZJbk1MU0tXX0NQSmxkZ3FLUXVxVDhfVXhUcDRGd1UxelUzWHJhdXZxOVhORHBoa3JXd0N6QkFudVBQRERwUE5xZ2VkQ2Ntc1JWWThkM01rSmxGRHBoNEttZ2YtUnpULVZwOTRRYXZDbzZpMXBvYWZhWTl1Q2ZidUdSTGFEX2dYYlVaRE5nR1dOQ2hQM0hidTY0emZsTFIxSFE?oc=5",
+   "desc": "RBI sees rupee as undervalued; FCNR(B) inflows cross $32 billion  The Hindu",
+   "source": "RBI",
+   "publisher": "The Hindu",
+   "scope": "india",
+   "ts": 1785085682000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMmNKaGZiY0hGMWhPVW4xWjV4c3RvaFZubmtUQlVFS1FBcEh4cC1ieXZxUTNyVXhqOGxqa1E1M3JjRkFFTDhRZ2ZsaHdhbXozSUNHZGJwYlk2bjlxR09HaUcxbVhWWFJnZjVTcnBUTFdWSmRvMzV",
@@ -212,16 +232,6 @@
    "ts": 1785040036000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaVdMMFRKakkwaU1nM2hKSllwTG5hNWpYVzNfZGtjdjJWeHlvOUdhbXlNaWdZQ2pyeXhJRTMyN2V3SWFqM1htZ0o0Z0FmWEVPbzFORDJySzNOVGZsM2lWcjhINng4TTh3VTlQU3NoMTd6M2JGaXJ",
-   "title": "G7 central banks prepare for rate decisions amid rising oil prices – Bloomberg - Українські Національні Новини (УНН)",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaVdMMFRKakkwaU1nM2hKSllwTG5hNWpYVzNfZGtjdjJWeHlvOUdhbXlNaWdZQ2pyeXhJRTMyN2V3SWFqM1htZ0o0Z0FmWEVPbzFORDJySzNOVGZsM2lWcjhINng4TTh3VTlQU3NoMTd6M2JGaXJxV21RYnFnWFVpMk5EanRpbTJTZjV3UEVMWWZZcGQ2eU1ad2ZoOHhTcUZ40gGfAUFVX3lxTE1DTElPSUpNRFdaLXVZN1dDTFctWXJTd183a3lPaVlBRFR5RTFZTjluVXA4NlRsaFlsRlZyN05TVTdUYXd5RW56RzVWQS1pVEJrYTA2dk5ITEVBOWtmaHNfZ2E5a2RfRXNTX01PNE51b0lneDhuZENUaXlld2Y2WkR0cm1aaUQ2SzduX2x5b01qUmFiWGRMeGtOMnd0MjFaSQ?oc=5",
-   "desc": "G7 central banks prepare for rate decisions amid rising oil prices – Bloomberg  Українські Національні Новини (УНН)",
-   "source": "US Fed",
-   "publisher": "Українські Національні Новини (УНН)",
-   "scope": "world",
-   "ts": 1785031062000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2JXNWk0WTFqVWZncjI1WFBCVS1LdW9CSDBHdVZORm1uNGUwTVRyMlc0eTR6Mkg0Y0pjUHFIWWFaOXU4VXBKeVpNdzhFSm5fTmhmY3o1S2FQOUEwYmZHVF9mS1k3ejlaT3pHUjBSd3Z4cjBYMDJ",
    "title": "FOMC preview: Fed to stay on hold after June’s hawkish shift - ING THINK economic and financial analysis | ING THINK",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2JXNWk0WTFqVWZncjI1WFBCVS1LdW9CSDBHdVZORm1uNGUwTVRyMlc0eTR6Mkg0Y0pjUHFIWWFaOXU4VXBKeVpNdzhFSm5fTmhmY3o1S2FQOUEwYmZHVF9mS1k3ejlaT3pHUjBSd3Z4cjBYMDJwbG5pdXkwLVk1em5jMDlaWklHb3Z0b3B6RmhfdmV6?oc=5",
@@ -340,6 +350,16 @@
    "publisher": "Eurasia Review",
    "scope": "world",
    "ts": 1784940755000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNck9GWktaX0VNNGlFaWViTTU4ZFBuTWJGNnhKUEFqZ0k5R1lhNjB4NjQxcGFvVHRqbGttbWt2dW1UR1BNeVRTbS1pT242d1FFMHE3MTdTUE1wRkFOWVFmaWtIek5WVG15YndhWS1tbnpCTTVuWEh",
+   "title": "Federal reserve due to make another decision on interest rates - Central Oregon Daily",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNck9GWktaX0VNNGlFaWViTTU4ZFBuTWJGNnhKUEFqZ0k5R1lhNjB4NjQxcGFvVHRqbGttbWt2dW1UR1BNeVRTbS1pT242d1FFMHE3MTdTUE1wRkFOWVFmaWtIek5WVG15YndhWS1tbnpCTTVuWEhBUFdDS0JNMFE2OEZOdDVpRGVXeHZYVmNuODh1MGR3YmFEUUIzVk95Wk5rZTc4dTZZT2Q5TlNFcGVxN2xwaTBoT1RONUp5cl9KSzlJNjc2TmlsLU05TVJTZm9HdW1DWXRfQV9BMXZOdlhmT3J0Q21qdEFUMnNabHhadTNva255dmc?oc=5",
+   "desc": "Federal reserve due to make another decision on interest rates  Central Oregon Daily",
+   "source": "US Fed",
+   "publisher": "Central Oregon Daily",
+   "scope": "world",
+   "ts": 1784937736000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS0F1Zjl1bEFuZlhoZi1wQTJzbWVwaXk1Q1lIeU5xYWw2cUx3dHpfR3drZWVsUW9vaEdiOGs5dXh3dHpXNURrRkozSVlUVUJoOThKbVZaUTFSTVM1UnVCUmlnYm5fdWlDZFNlYmdrVTVicUw1V0R",
@@ -592,6 +612,16 @@
    "ts": 1784881560000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVk1laVFMMU5IbFdKSElQMmRvY0o3T0JBNDE1Y1phN0Q3TGl0VUlPa3dvbUJXQ2FPV0RlNllOemFmb3ZJLWwxVnN1M3A3bFpWd0tvV200ZnhabEhmNXd5YUFBU0VGTmxmNThWZ3pFQnBOdzVQR2d",
+   "title": "‘The demographic dividend of the last 40 years is ending’: J.P. Morgan says the world is running out of the two things that kept interest rates down - Fortune",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVk1laVFMMU5IbFdKSElQMmRvY0o3T0JBNDE1Y1phN0Q3TGl0VUlPa3dvbUJXQ2FPV0RlNllOemFmb3ZJLWwxVnN1M3A3bFpWd0tvV200ZnhabEhmNXd5YUFBU0VGTmxmNThWZ3pFQnBOdzVQR2dfR0RlRGVlOVFGR1JsbHhoM1R6TXp3Qg?oc=5",
+   "desc": "‘The demographic dividend of the last 40 years is ending’: J.P. Morgan says the world is running out of the two things that kept interest rates down  Fortune",
+   "source": "IMF / World Bank",
+   "publisher": "Fortune",
+   "scope": "world",
+   "ts": 1784876640000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wUjRoRFE5eHRGeUJxNGtONEtDU1VkZUozQ0pIb0dXc25FMjIwZ2RxVk9lTTN6SjFXQjdGWUpBQkt4REtOWHpoRHpkU0Y5NkIwenpHNGFJNjlsTFpWOFdlUmNMYWdDWkg4QjZWSm5nOUQ?oc=5",
    "title": "Monetary Policy Radar preview: Federal Reserve’s July meeting - Financial Times",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wUjRoRFE5eHRGeUJxNGtONEtDU1VkZUozQ0pIb0dXc25FMjIwZ2RxVk9lTTN6SjFXQjdGWUpBQkt4REtOWHpoRHpkU0Y5NkIwenpHNGFJNjlsTFpWOFdlUmNMYWdDWkg4QjZWSm5nOUQ?oc=5",
@@ -610,16 +640,6 @@
    "publisher": "CNBC",
    "scope": "world",
    "ts": 1784867260000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1dyeGNEWFNKWXYxWDFObzAxOWtOcTRpZW43aVRBcmhIbFhDbWhoLTlOVzVZWk1ILUswM1RKSi12VkpQODYySkJkMlFGUVE4UWEtR2h1ZW51QWYyY0wyQXZNY2JGNWg0NG41VWV5cll3UUx4Wm5",
-   "title": "Unprecedented tech inflation will drive rates higher - AFR",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1dyeGNEWFNKWXYxWDFObzAxOWtOcTRpZW43aVRBcmhIbFhDbWhoLTlOVzVZWk1ILUswM1RKSi12VkpQODYySkJkMlFGUVE4UWEtR2h1ZW51QWYyY0wyQXZNY2JGNWg0NG41VWV5cll3UUx4Wm5XRmNEVVgteFVEYl9pQVU2aXRNVV9NeXpjT0I2Tzk0ZUxJSjI0OFhGZVZCc3pfNTJkQ3ljLXl0QlE?oc=5",
-   "desc": "Unprecedented tech inflation will drive rates higher  AFR",
-   "source": "US Fed",
-   "publisher": "AFR",
-   "scope": "world",
-   "ts": 1784864700000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZEtwa2ttc2VEQXlzNmtqU2hwSF9rcmFIOXpjUkt5dllsTVN6WHl2eDg2SnFtemhvRDBtMlVQTXc0YzFxVTBSNDl5ekM5c043dmpZWU9RaXNtdjFiSTRodjRSeVM5R2R6dkM1eGQxeXE4V1V1VGV",
@@ -872,16 +892,6 @@
    "ts": 1784803200000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGNvM0dQRTJ5MVh3MVN0RHV0R2k5bTVvSUZNeVFDa192eW9WUUZqekhHMzFVQlZ0eXB4ZGdiNU5vRFQ4QmJsZXpBa25ja18xVUxib0Ryb0Nwc29PMnh5V2l6ekluU2xSYmJia1h5NVpIMHZ6WXl",
-   "title": "The Fed Is Heading Into One of Its Most Unpredictable Meetings in Years - WSJ",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGNvM0dQRTJ5MVh3MVN0RHV0R2k5bTVvSUZNeVFDa192eW9WUUZqekhHMzFVQlZ0eXB4ZGdiNU5vRFQ4QmJsZXpBa25ja18xVUxib0Ryb0Nwc29PMnh5V2l6ekluU2xSYmJia1h5NVpIMHZ6WXltTlVXb2ZTWGl3MjR3d2FxUnh5WVRvZk02WUlRZWcxOW1WVWMwd0lpYkcyMmYxYjF6aTFTRXRQaTN3WEI4Rk5UV0I3V1V2c29WZ0ZNZw?oc=5",
-   "desc": "The Fed Is Heading Into One of Its Most Unpredictable Meetings in Years  WSJ",
-   "source": "US Fed",
-   "publisher": "WSJ",
-   "scope": "world",
-   "ts": 1784799000000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fZGpqMXZYTjZsZ2lZLUt5Uk4tdEhYbmpzZ3JTV1hCZF9zM3BnUlRIYTZqNU96UmtKdU5ubnplbHpCSGM3QWdfelRGYWZoXzdtcnV5UldYWmI0ZmJhZFhpRjJmYXdlRmhROXBVeWdzb18teFVn?oc",
    "title": "WTO | 2026 News items - Updated WTO-IMF TPA Index shows continued rise in global trade policy activity - World Trade Organization",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fZGpqMXZYTjZsZ2lZLUt5Uk4tdEhYbmpzZ3JTV1hCZF9zM3BnUlRIYTZqNU96UmtKdU5ubnplbHpCSGM3QWdfelRGYWZoXzdtcnV5UldYWmI0ZmJhZFhpRjJmYXdlRmhROXBVeWdzb18teFVn?oc=5",
@@ -1100,16 +1110,6 @@
    "publisher": "livemint.com",
    "scope": "india",
    "ts": 1784610191000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORnZpeFRXcXE5RGE0OUxhT2loYUhCc3UwYkN4V3hVWnlNTHFPQ3E1LUxpSXR0cnpGQU4zVHdtdjJKcVpmSU5SM3I1Y3pSWU9hc014Y3pMVlZJb2RfeGhyVVR1cHloVW9uVEpuVG01VWQxOHEzZUh",
-   "title": "SEBI penalises CDSL for cybersecurity lapses behind 2022 malware attack, imposes Rs 1 crore penalty - Moneycontrol.com",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORnZpeFRXcXE5RGE0OUxhT2loYUhCc3UwYkN4V3hVWnlNTHFPQ3E1LUxpSXR0cnpGQU4zVHdtdjJKcVpmSU5SM3I1Y3pSWU9hc014Y3pMVlZJb2RfeGhyVVR1cHloVW9uVEpuVG01VWQxOHEzZUhZdkpmZHlac2JlcUs1Q004RWlweTd5YnhNS3hvdUR1ODE3S0I2U3VqaEVJNVpZVGRHMmpyaHljX0JDdWZjeTBRV1NwbG10NUlWcU8zaEpEb1U2MC05aWZ6QjFiQ0ZZWnpnVVVxQ04zQS12amw0R3FxUzZ6Y2dkZVNGVjMxd9IB9wFBVV95cUxNdHlWRGljVXpyUG1UZU5XRDRZd0NGUzNxM0FQYVQwLWVZT29OTFhuajRjUVZKNVlkWEw3S1RSaklOcXM4R21mT2RQVnF2T3NCLTBpV3VXY3lOMS01dVlkTWxwQzdCYXZlLTdTbkI0OUdBUjVFUjZhQ3pMUTVFc1N6UmtTTm53b3dySElqWVY0bEEwR3AtZmxwS05lLTdzUjQ0cUZpX2szOHQySG13SURPbzhSWVV1VWpGLS1XR2hPRmIzQjlFMkpwUF9hbnZ1dmc4MVZ2LTl3S3NkT1ppQ2JpV0VtT29ZVmpta0hJSmFaUF9kME9fUVRN?oc=5",
-   "desc": "SEBI penalises CDSL for cybersecurity lapses behind 2022 malware attack, imposes Rs 1 crore penalty  Moneycontrol.com",
-   "source": "SEBI",
-   "publisher": "Moneycontrol.com",
-   "scope": "india",
-   "ts": 1784563642000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWVJZcmpKNXhBRlRlNEpNQmEwem5uS2ZGRHBEME4zU052VmozN0d4aWZIeEc2LVJVTUxlUHBpdzUtYXVDcVF3V05RVnRhZFBwMnRjNWhIaUppSlZCa3o2NjR3NEhJUmo3RkIxamVucThaa2xibzZ",
