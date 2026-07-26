@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-26T14:40:08.908423+00:00",
+ "updated": "2026-07-26T15:46:38.636314+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMkdaNHpaQThTT3Z3UHoxNzNNNFdfek9vblBJUEl0ZHdtRHFkcy1nM3hYVEVFUFhiT29wTHNzUHpoWmZ5WmppYmw5dlRYYnlBWW9rVWtaWU04b2NhcXlmYXpxNDE3RmI3ZVpWZjJlTXBaWGQ5RmV",
@@ -10,6 +10,16 @@
    "publisher": "Türkiye Today",
    "scope": "world",
    "ts": 1785069585000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSG92UGMzcmFpTXJCaWM2U3c4ZC11c0Mwbk1GaWcteE5MUEhrOTRQYVItSkJ0NlVxbTlLSWJKcE42a0dCdm9rUGdjd3A5QTF5WHNNMlUzdGtPRjlFU1k0d0hTRFBFYUl4enYyV3N4bW93VThEdnA",
+   "title": "The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates - MarketWatch",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSG92UGMzcmFpTXJCaWM2U3c4ZC11c0Mwbk1GaWcteE5MUEhrOTRQYVItSkJ0NlVxbTlLSWJKcE42a0dCdm9rUGdjd3A5QTF5WHNNMlUzdGtPRjlFU1k0d0hTRFBFYUl4enYyV3N4bW93VThEdnA0RTZkaUpvQXZmNWV0em5JMkFHb1JDRjVNSGROdnp6Tlp3UEJnOS1TNzdzdnExQzhVV21hWjFrVVhqOFlxYmh5UHFHeTFTcWQyNlQ?oc=5",
+   "desc": "The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates  MarketWatch",
+   "source": "US Fed",
+   "publisher": "MarketWatch",
+   "scope": "world",
+   "ts": 1785069000000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd2o0UnhxRW44V1NjOU0xWkVGU0FmWW0wUXJLRk9QRVM0ZzhaRkl3OVNid3d0bldKdjZ4eTBMZlh1dUJxUm9KOWZVYUdVSzhJajZETEdTOFhoR01MblpJRUkzVGstUXNLN1RxdnQ1cGV0VnFOYmh",
@@ -142,16 +152,6 @@
    "ts": 1785021976000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaXBJaVRVTVVmbnBJWVFETExhVUxfRzkwdU1YRng2clUyc0pWTVJEMWZwcjFrc0dhM1pvdVdFdER1bC00bzVLRDhtUG5sZjI3eUJYNk9aVXoxRDlENXRreVNTbUhEQUtKTXRWT2Jycjg3RjkyUS1",
-   "title": "Fed Chair Kevin Warsh's Blunt 2-Word Statement on Inflation That Could Determine Interest Rates in 2026 - The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaXBJaVRVTVVmbnBJWVFETExhVUxfRzkwdU1YRng2clUyc0pWTVJEMWZwcjFrc0dhM1pvdVdFdER1bC00bzVLRDhtUG5sZjI3eUJYNk9aVXoxRDlENXRreVNTbUhEQUtKTXRWT2Jycjg3RjkyUS1MTWw4cGREaTZnR1hYUldGYm8?oc=5",
-   "desc": "Fed Chair Kevin Warsh's Blunt 2-Word Statement on Inflation That Could Determine Interest Rates in 2026  The Motley Fool",
-   "source": "US Fed",
-   "publisher": "The Motley Fool",
-   "scope": "world",
-   "ts": 1784987100000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2JXNWk0WTFqVWZncjI1WFBCVS1LdW9CSDBHdVZORm1uNGUwTVRyMlc0eTR6Mkg0Y0pjUHFIWWFaOXU4VXBKeVpNdzhFSm5fTmhmY3o1S2FQOUEwYmZHVF9mS1k3ejlaT3pHUjBSd3Z4cjBYMDJ",
    "title": "FOMC preview: Fed to stay on hold after June’s hawkish shift - ING THINK economic and financial analysis | ING THINK",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2JXNWk0WTFqVWZncjI1WFBCVS1LdW9CSDBHdVZORm1uNGUwTVRyMlc0eTR6Mkg0Y0pjUHFIWWFaOXU4VXBKeVpNdzhFSm5fTmhmY3o1S2FQOUEwYmZHVF9mS1k3ejlaT3pHUjBSd3Z4cjBYMDJwbG5pdXkwLVk1em5jMDlaWklHb3Z0b3B6RmhfdmV6?oc=5",
@@ -160,6 +160,16 @@
    "publisher": "ING THINK economic and financial analysis | ING THINK",
    "scope": "world",
    "ts": 1784986070000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSlVKM1N0RjJUN1Q1QVpwTzNVYm1oVVNYdnNFSzE4RkUtVHA1YTlHN0JPVjFkRkFsSjQ4Um9lZ0QxS2VVb3loRzhJWlBQd1JTWGJ4WE9kalEtTEdJYkVRMk8xdTBWdlVVMGVBbEg5VXc2ZWRsN0x",
+   "title": "Fed Chair Kevin Warsh's Blunt 2-Word Statement on Inflation That Could Determine Interest Rates in 2026 - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSlVKM1N0RjJUN1Q1QVpwTzNVYm1oVVNYdnNFSzE4RkUtVHA1YTlHN0JPVjFkRkFsSjQ4Um9lZ0QxS2VVb3loRzhJWlBQd1JTWGJ4WE9kalEtTEdJYkVRMk8xdTBWdlVVMGVBbEg5VXc2ZWRsN0xGdG5veHZDNjFMWkJ1LWNlaS1aMUxnYVhiaU5BV3hyRlFXUQ?oc=5",
+   "desc": "Fed Chair Kevin Warsh's Blunt 2-Word Statement on Inflation That Could Determine Interest Rates in 2026  Yahoo Finance",
+   "source": "US Fed",
+   "publisher": "Yahoo Finance",
+   "scope": "world",
+   "ts": 1784984700000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXFVSlJCOTB1c2JqT0N6WlZxbTdGdTZHN1IyM0Vvczd3VGdkRjJsZ3BJdHk2aFhZVU9vYVBRLVRrU3hvcDZZWlEzcmU5aFNXdnI4UGJkSlBKel9MaDlsMVdEVkRZSnRBM1FJeC1zTlMwTmRGeGl",
@@ -322,6 +332,16 @@
    "ts": 1784916740000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1p5Vmk0VndTMEtvVER1M1lka2Y4XzBvR285WWl2RGdyQVJPNFRFbWN6cmNXb1doMS1fcmNOX2M0ZjRpdl9ReW5IaUw1UUxFUzNLWGQ0Y1hZaXluV0l4MGJLQVZBbHBWczVjNEs0WkRaeDBvUXZ",
+   "title": "Why the Federal Reserve should hike rates next week - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1p5Vmk0VndTMEtvVER1M1lka2Y4XzBvR285WWl2RGdyQVJPNFRFbWN6cmNXb1doMS1fcmNOX2M0ZjRpdl9ReW5IaUw1UUxFUzNLWGQ0Y1hZaXluV0l4MGJLQVZBbHBWczVjNEs0WkRaeDBvUXZSM29tTmZvVlFobXVlVzRyMF90RXo1ZkxaN29PQQ?oc=5",
+   "desc": "Why the Federal Reserve should hike rates next week  CNBC",
+   "source": "US Fed",
+   "publisher": "CNBC",
+   "scope": "world",
+   "ts": 1784915668000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZXNlaDg3MFoxMVdiQWRvY3pKbU80RzREZUZVQmVmZnd0aGs1YnlZMlhENk9NUGN2TW5oTV9hT3l0RldQLWJZVGNnQmt6Rl94RGFWY2ZmdTlaTDVBOEFtZHNaRElxZkg3S1NmeGpqUzAxRURXQmJ",
    "title": "The IMF's Crosscurrents Update: Africa Is on the Wrong Side of Both Shocks, and Still Outgrowing the World - CFI.co — Capital Finance International",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZXNlaDg3MFoxMVdiQWRvY3pKbU80RzREZUZVQmVmZnd0aGs1YnlZMlhENk9NUGN2TW5oTV9hT3l0RldQLWJZVGNnQmt6Rl94RGFWY2ZmdTlaTDVBOEFtZHNaRElxZkg3S1NmeGpqUzAxRURXQmJRc21aaHJyVldXdzF5cFFXWVF4eUFZS2xxdWEtWkhiRU1KWDZvYXRRODhFd2g3b0VMeUNzSHZKUzFKZFZmeldmREh1c3VKUnozdmJCS0h2X2xIcmRHVEdJbTQ?oc=5",
@@ -472,16 +492,6 @@
    "ts": 1784889714000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQajIyMHNIZTNQeFlkNHB6ekVuZjNtbFhOcXgtRFhXR095VXRnaUJHSDhwRjFaX19BVTY2RlBoY0d2bEk0cEdxSXlxZ2otVHcwUDNjbGtMWi12U182MkhIR1FrS2dWY1p3NEdSZHAxSmFDZ1BWT2s",
-   "title": "Wall St Week Ahead US stocks face tests from Fed decision, tech-led earnings deluge - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQajIyMHNIZTNQeFlkNHB6ekVuZjNtbFhOcXgtRFhXR095VXRnaUJHSDhwRjFaX19BVTY2RlBoY0d2bEk0cEdxSXlxZ2otVHcwUDNjbGtMWi12U182MkhIR1FrS2dWY1p3NEdSZHAxSmFDZ1BWT2sxSU8tYWxDd255TmpTUGFBeWY3M3VUWlBJb3ZybDdnWm8tM2tGT25XbUZQZmkwX1NlU3BjZl9pcUVHWTBQWDBpTEZrQmFTSVNXaw?oc=5",
-   "desc": "Wall St Week Ahead US stocks face tests from Fed decision, tech-led earnings deluge  Reuters",
-   "source": "US Fed",
-   "publisher": "Reuters",
-   "scope": "world",
-   "ts": 1784887500000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tcVhJU0V0QWZhMEN3R1FBVnJycVh3Q2Y1UlBpamRuZUNCdE5RbnE0R1ZfQkRuVHgyeElMTnBvTXdxWjBVazhYdVpKYU82MnFINUc0QzEzM0l4aTRKMXMtaVNrMEhMQVdmTkdGVFU1NWxrR0EyN1J",
    "title": "Will the Federal Reserve raise interest rates? Here is what experts predict for July's meeting. - CBS News",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tcVhJU0V0QWZhMEN3R1FBVnJycVh3Q2Y1UlBpamRuZUNCdE5RbnE0R1ZfQkRuVHgyeElMTnBvTXdxWjBVazhYdVpKYU82MnFINUc0QzEzM0l4aTRKMXMtaVNrMEhMQVdmTkdGVFU1NWxrR0EyN1J5Qg?oc=5",
@@ -522,14 +532,24 @@
    "ts": 1784867260000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZEtwa2ttc2VEQXlzNmtqU2hwSF9rcmFIOXpjUkt5dllsTVN6WHl2eDg2SnFtemhvRDBtMlVQTXc0YzFxVTBSNDl5ekM5c043dmpZWU9RaXNtdjFiSTRodjRSeVM5R2R6dkM1eGQxeXE4V1V1VGV",
-   "title": "SEBI proposes mutual fund-only PMS framework to expand investment options, ease compliance - indiagazette.com",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZEtwa2ttc2VEQXlzNmtqU2hwSF9rcmFIOXpjUkt5dllsTVN6WHl2eDg2SnFtemhvRDBtMlVQTXc0YzFxVTBSNDl5ekM5c043dmpZWU9RaXNtdjFiSTRodjRSeVM5R2R6dkM1eGQxeXE4V1V1VGVXWHBaTjUwN1YzeV9KRDNYNXVpSmd4RzFsSDM4TkVLa0Y0UTlLbHlDSVRaeDVuOWZ2ZFJrcFJidnZZSDJVMk9MWGs5OEFXdjVrVW1LYWxOUE1aeG45Z3d5QQ?oc=5",
-   "desc": "SEBI proposes mutual fund-only PMS framework to expand investment options, ease compliance  indiagazette.com",
+   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1dyeGNEWFNKWXYxWDFObzAxOWtOcTRpZW43aVRBcmhIbFhDbWhoLTlOVzVZWk1ILUswM1RKSi12VkpQODYySkJkMlFGUVE4UWEtR2h1ZW51QWYyY0wyQXZNY2JGNWg0NG41VWV5cll3UUx4Wm5",
+   "title": "Unprecedented tech inflation will drive rates higher - AFR",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1dyeGNEWFNKWXYxWDFObzAxOWtOcTRpZW43aVRBcmhIbFhDbWhoLTlOVzVZWk1ILUswM1RKSi12VkpQODYySkJkMlFGUVE4UWEtR2h1ZW51QWYyY0wyQXZNY2JGNWg0NG41VWV5cll3UUx4Wm5XRmNEVVgteFVEYl9pQVU2aXRNVV9NeXpjT0I2Tzk0ZUxJSjI0OFhGZVZCc3pfNTJkQ3ljLXl0QlE?oc=5",
+   "desc": "Unprecedented tech inflation will drive rates higher  AFR",
+   "source": "US Fed",
+   "publisher": "AFR",
+   "scope": "world",
+   "ts": 1784864700000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTzk0R1pMQjcxUzR6Nnk3TTZxQkM2NDNLQ0RZZENPVnpQMlVLelpoZUo3TEJCQjN5Z3RHOUN1NXlFeWVtd051a3NJY0NUVmkzbV9Ha0hwd3RrblJPNW1UOWlkajdxM3RzOXc4SThYRTdJQ2NSd0d",
+   "title": "SEBI proposes mutual fund-only PMS framework to expand investment options, ease compliance - ANI News",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTzk0R1pMQjcxUzR6Nnk3TTZxQkM2NDNLQ0RZZENPVnpQMlVLelpoZUo3TEJCQjN5Z3RHOUN1NXlFeWVtd051a3NJY0NUVmkzbV9Ha0hwd3RrblJPNW1UOWlkajdxM3RzOXc4SThYRTdJQ2NSd0dHTUdaWi1UdVh2ZDExSmE1dGNGVjd3cEhSRWxZYUNCdGpUSk5QMm9TeldKUXBURTVOU01YVGNNZXlQWGwxN1pqdVZqcGVNWk9sYkJKRGt4RDEzQnVBLUtHcE9DTTEzV2d2TQ?oc=5",
+   "desc": "SEBI proposes mutual fund-only PMS framework to expand investment options, ease compliance  ANI News",
    "source": "SEBI",
-   "publisher": "indiagazette.com",
+   "publisher": "ANI News",
    "scope": "india",
-   "ts": 1784845740000
+   "ts": 1784859720000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQWY4b3V4WGMzX01BVFNHU3hjY1JOa1BJRkNvMC12R3dVR2hfNVRia1J6SjJwa0J4ZGZQbDV3akZkU2d1anRYNWprWmc2c05mZ1R3SnJfcjk0eWkyZ0VVRVRxeE1PR0hDSDRrb3NfRnJoalVzRzJ",
@@ -793,11 +813,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdHhEdUM2eWM2STBBTVBFVVZKbUxtSEFTT0pkZTlMOHpsdHNVZk1ZYWljN1FMYkFUcUwtaFEyN2hSdnFNaWJfOWM5V0tKbXVQd3pEMjFoeXFQZEczQmhfUFdUR2Nvb1V6dTJDcnctbmNrcTZHU1E",
-   "title": "World Bank warns global growth could slip to 1.3 pct if US-Iran conflict escalates - 巴士的報",
+   "title": "World Bank warns global growth could slip to 1.3 pct if US-Iran conflict escalates - bastillepost.com",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdHhEdUM2eWM2STBBTVBFVVZKbUxtSEFTT0pkZTlMOHpsdHNVZk1ZYWljN1FMYkFUcUwtaFEyN2hSdnFNaWJfOWM5V0tKbXVQd3pEMjFoeXFQZEczQmhfUFdUR2Nvb1V6dTJDcnctbmNrcTZHU1E5amR4cFE2Zi1ON3FYeDZ1bTBmLVk4aHJpVDRIcm5vWm04VE10NElQR0x1b0RWcEhEQ2JKcDU5QWpSemViNzdrdjBMa2s1aXUzRFprOTZLcGpSeG9OZ254d2c?oc=5",
-   "desc": "World Bank warns global growth could slip to 1.3 pct if US-Iran conflict escalates  巴士的報",
+   "desc": "World Bank warns global growth could slip to 1.3 pct if US-Iran conflict escalates  bastillepost.com",
    "source": "IMF / World Bank",
-   "publisher": "巴士的報",
+   "publisher": "bastillepost.com",
    "scope": "world",
    "ts": 1784803200000
   },
@@ -1180,26 +1200,6 @@
    "publisher": "Euronews.com",
    "scope": "world",
    "ts": 1784525145000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDE4eXZyVkVxZmJLQnJDSjZnOUwtMTM2cl9xUGI3bzJmMUVyYmNPem9abTB1LWtjT0JtSE9xMnk5U2trbDBlUGtSV2JvR2VqbnEzWF92cEVXRjg5dEdHVndTZjlaclNEYWx1NUs2c2JabGQwYUR",
-   "title": "Bank credit growth to remain strong despite deposit gap: SBI Research - Punjab Kesari English",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDE4eXZyVkVxZmJLQnJDSjZnOUwtMTM2cl9xUGI3bzJmMUVyYmNPem9abTB1LWtjT0JtSE9xMnk5U2trbDBlUGtSV2JvR2VqbnEzWF92cEVXRjg5dEdHVndTZjlaclNEYWx1NUs2c2JabGQwYUR2UVg0REFkYXhUV2wzRjZPdk5IUTRDREJEdUZJX0d2VVFpLWE0b3RicjI4YmxRRGFWVUZDcE9INlBjX9IBtgFBVV95cUxOZlh5VGdkVzdlNHRqMFNnX09IZkg4N3VRMk5qVXJyS3BvNmVGN3ByRW1VN1JCUnd3am5FZWtZR0lkLVR1eWx3Ul9iZF9GWGVBLTV5bG1PRDhDSzd2WEtGOWF3eDd3OEZmZlRFUHMwQ1dDRS1EYUp6MExNM3g5XzE5WHA1VzRKZElVcVc0THZUNnl4ajZBcksyMGVCakJpX3Z6SzBHUThFUnl2VmNlZHQySnJoTFFkUQ?oc=5",
-   "desc": "Bank credit growth to remain strong despite deposit gap: SBI Research  Punjab Kesari English",
-   "source": "Indian Banking",
-   "publisher": "Punjab Kesari English",
-   "scope": "india",
-   "ts": 1784524211000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWlVMnVSbTJqOWViaGNBMnEtWS1tNzc4SlJfUXE4dDk4bGFvLXJzNkEwQW80Y0puU0gyRXRaZTVLZ3ZoUHp2VllzMEhmRERxcXZSWmktWWdKWWxyZUZubklvQU0zYjlhOWVPbGQ5b3pLeDJra0t",
-   "title": "Bank credit growth to remain strong despite deposit gap: SBI Research - KalingaTV",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWlVMnVSbTJqOWViaGNBMnEtWS1tNzc4SlJfUXE4dDk4bGFvLXJzNkEwQW80Y0puU0gyRXRaZTVLZ3ZoUHp2VllzMEhmRERxcXZSWmktWWdKWWxyZUZubklvQU0zYjlhOWVPbGQ5b3pLeDJra0tyQUs4MEpqVGpoYzV5U05kY1lfWUt1cFBjQUNvVVpXRXBzY1FUalk3TFBNTUE?oc=5",
-   "desc": "Bank credit growth to remain strong despite deposit gap: SBI Research  KalingaTV",
-   "source": "Indian Banking",
-   "publisher": "KalingaTV",
-   "scope": "india",
-   "ts": 1784523956000
   }
  ]
 }
