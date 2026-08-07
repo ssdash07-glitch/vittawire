@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-07T17:12:14.030802+00:00",
+ "updated": "2026-08-07T18:06:41.703291+00:00",
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDV",
+   "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. - The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF?oc=5",
+   "desc": "The Bond Market Is Signaling Rising Risks. Investors Should Listen.  The New York Times",
+   "source": "US Fed",
+   "publisher": "The New York Times",
+   "scope": "world",
+   "ts": 1786121938000
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX2tYUThTZV96dy1BNlZMZld3UVRnU0hnU3ViTmFjdk1ISzlwMkFsWDRxeU9uMVY2SGRNNWJSZzlPemlyZjZUNGZueU5YaV9HSXZDdWZyQTVtdUZrRmZxMXN0dEJxNXBNbGllQnZPdWViLTlpS1p",
    "title": "Fed Rate Cut Expectations September 2026: Market Impact & Investor Strategy - Intellectia AI",
@@ -12,12 +22,22 @@
    "ts": 1786119635000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM0dXQ2liVzlrbXdDbnBtNUZ4TlFDVHhFYjhHZHd1Z2RpQnIydDhsOUJSSWlNTFdoU1RLS0kyeUZBYjJsbGJ5SzdKRTBjQmdjT1BpTHdfNGg4alJDRnFJMDJBTHlIOUpKbWhCNlpGelhvV0xYaWd",
-   "title": "The U.S. lost 23,000 jobs in July, far shy of forecasts for a gain of 80,000 - coindesk.com",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM0dXQ2liVzlrbXdDbnBtNUZ4TlFDVHhFYjhHZHd1Z2RpQnIydDhsOUJSSWlNTFdoU1RLS0kyeUZBYjJsbGJ5SzdKRTBjQmdjT1BpTHdfNGg4alJDRnFJMDJBTHlIOUpKbWhCNlpGelhvV0xYaWdya2NyaExpQ2NzQllYVUw1S2xyeFF4UmJnVW5QQWJSODRScGJQaVJHajc2bGlMelByUm93TXZHVmRPeHg3OWh0djVlQmc?oc=5",
-   "desc": "The U.S. lost 23,000 jobs in July, far shy of forecasts for a gain of 80,000  coindesk.com",
+   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xOTBqRG9tVV9IUnA4T1JoVHo1dUpfSV85UzZQdzFqeWZPZ0hFb3kzUVZDUTlUcS10b205dzIyWVRaWUpxUmJJa0EtR2tfQ0sxa0tsRl82SkFXMF9BRWFCSzJDSkRpb25EOW5Fd0hUUzdrMU4",
+   "title": "US rate futures cut chances of September rate hike after jobs data - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xOTBqRG9tVV9IUnA4T1JoVHo1dUpfSV85UzZQdzFqeWZPZ0hFb3kzUVZDUTlUcS10b205dzIyWVRaWUpxUmJJa0EtR2tfQ0sxa0tsRl82SkFXMF9BRWFCSzJDSkRpb25EOW5Fd0hUUzdrMU4wMlRDZVNiQTVoazN4dHFpeUhfNjJaUkkyUnVtdWh4V2l0LXlVcWtzM1pqdmZHVnVCT3ZoT3o5?oc=5",
+   "desc": "US rate futures cut chances of September rate hike after jobs data  Reuters",
    "source": "US Fed",
-   "publisher": "coindesk.com",
+   "publisher": "Reuters",
+   "scope": "world",
+   "ts": 1786119300000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM0dXQ2liVzlrbXdDbnBtNUZ4TlFDVHhFYjhHZHd1Z2RpQnIydDhsOUJSSWlNTFdoU1RLS0kyeUZBYjJsbGJ5SzdKRTBjQmdjT1BpTHdfNGg4alJDRnFJMDJBTHlIOUpKbWhCNlpGelhvV0xYaWd",
+   "title": "The U.S. lost 23,000 jobs in July, far shy of forecasts for a gain of 80,000 - CoinDesk",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM0dXQ2liVzlrbXdDbnBtNUZ4TlFDVHhFYjhHZHd1Z2RpQnIydDhsOUJSSWlNTFdoU1RLS0kyeUZBYjJsbGJ5SzdKRTBjQmdjT1BpTHdfNGg4alJDRnFJMDJBTHlIOUpKbWhCNlpGelhvV0xYaWdya2NyaExpQ2NzQllYVUw1S2xyeFF4UmJnVW5QQWJSODRScGJQaVJHajc2bGlMelByUm93TXZHVmRPeHg3OWh0djVlQmc?oc=5",
+   "desc": "The U.S. lost 23,000 jobs in July, far shy of forecasts for a gain of 80,000  CoinDesk",
+   "source": "US Fed",
+   "publisher": "CoinDesk",
    "scope": "world",
    "ts": 1786116761000
   },
@@ -63,11 +83,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVndxV2JXY2E0SVRCLXdYOVQ3WVR6Ymh3eGlIUU82dFRmbmVoRDVJMW5qZUljcldQdVV6MWZGb2hIYlkxQW11STd3Z2NNemRGNXdNR2I2QkphczAzN2xBcWVZWlRaTWtiaE9qSnB0dGJJZl9BODB",
-   "title": "Weak Jobs Report Does Not Eliminate Prospects of a September Rate Rise - nytimes.com",
+   "title": "Weak Jobs Report Does Not Eliminate Prospects of a September Rate Rise - The New York Times",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVndxV2JXY2E0SVRCLXdYOVQ3WVR6Ymh3eGlIUU82dFRmbmVoRDVJMW5qZUljcldQdVV6MWZGb2hIYlkxQW11STd3Z2NNemRGNXdNR2I2QkphczAzN2xBcWVZWlRaTWtiaE9qSnB0dGJJZl9BODBRMXkzczEzM2VlUGlROU9aZ3lpeDcxNzA0R0U?oc=5",
-   "desc": "Weak Jobs Report Does Not Eliminate Prospects of a September Rate Rise  nytimes.com",
+   "desc": "Weak Jobs Report Does Not Eliminate Prospects of a September Rate Rise  The New York Times",
    "source": "US Fed",
-   "publisher": "nytimes.com",
+   "publisher": "The New York Times",
    "scope": "world",
    "ts": 1786111659000
   },
@@ -83,11 +103,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVGFWa0RrbkhIdXNWWGlicGFMZTF2MVROeDBxdlBwbE9pZUZVLTVNT0NvRHUwZVBrZHN0SDgwM1NsdkR4NE0xdXR0ZEdWZGFCcjZrOTd6SGk0d1djUmlyamdXaUtKUXNFaDc1VGxEenc1NFR1bmR",
-   "title": "Weak July jobs report helps the case for the Fed to hold rates, but doesn't take hikes off the table - Yahoo! Finance Canada",
+   "title": "Weak July jobs report helps the case for the Fed to hold rates, but doesn't take hikes off the table - ca.finance.yahoo.com",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVGFWa0RrbkhIdXNWWGlicGFMZTF2MVROeDBxdlBwbE9pZUZVLTVNT0NvRHUwZVBrZHN0SDgwM1NsdkR4NE0xdXR0ZEdWZGFCcjZrOTd6SGk0d1djUmlyamdXaUtKUXNFaDc1VGxEenc1NFR1bmRnOXlBNnFJZTV1UDdmS3NfOTQ5YjZPYlYwZ3dTeFFSTy1vNGptRG5TRTJaZXZEZEJvTW53OEJxZS1hNENqaWxzZGFnNHdoWHJaTWdUNUpHOV94LXFmWG5rNFdJOWZkcHFxczVLOWNkb1FHNg?oc=5",
-   "desc": "Weak July jobs report helps the case for the Fed to hold rates, but doesn't take hikes off the table  Yahoo! Finance Canada",
+   "desc": "Weak July jobs report helps the case for the Fed to hold rates, but doesn't take hikes off the table  ca.finance.yahoo.com",
    "source": "US Fed",
-   "publisher": "Yahoo! Finance Canada",
+   "publisher": "ca.finance.yahoo.com",
    "scope": "world",
    "ts": 1786110001000
   },
@@ -142,16 +162,6 @@
    "ts": 1786107858000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDV",
-   "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. - nytimes.com",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF?oc=5",
-   "desc": "The Bond Market Is Signaling Rising Risks. Investors Should Listen.  nytimes.com",
-   "source": "US Fed",
-   "publisher": "nytimes.com",
-   "scope": "world",
-   "ts": 1786107606000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcUk1RG1zWlpFZWpWWmttUi1CUHkzU3dpMjFEal9TUzZUSDlIWG80UkhFRUtPZk5wZzBlelZyYldIUkRYTU9NclpRUC1sOWVTSHgyY2E5UnNuNUFfUlFGV3BkblI2UFFvYVVvTzJDejFvYmVIOUR",
    "title": "US July Nonfarm Payrolls Unexpectedly Fall by 23,000 as Cooling Labor Market Bolsters Fed Rate Cut Expectations - TradingKey",
    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcUk1RG1zWlpFZWpWWmttUi1CUHkzU3dpMjFEal9TUzZUSDlIWG80UkhFRUtPZk5wZzBlelZyYldIUkRYTU9NclpRUC1sOWVTSHgyY2E5UnNuNUFfUlFGV3BkblI2UFFvYVVvTzJDejFvYmVIOURVOWtqNXZhNnBsbkx0Qm1TeHB2aWFzYmtmX2VsM3ZGNnhkZGtfV05VRWk4UkRwQ3c2OFQyMjVRNmFiWWJXcmxQZjBLZi11b3VuRFI0aW9BXy02ZmhNajUtSllKTlYxVG1yMDNjNHNJM08zWTNBYmUxMmlyQWpYVlZSZ25sbW1sZnFITmlXYk1JcGNvZzE0RHp0cC1LVHdPekRpNQ?oc=5",
@@ -160,16 +170,6 @@
    "publisher": "TradingKey",
    "scope": "world",
    "ts": 1786107547000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQakZ3bEZ6MW9lWHpFQk15VUpHbXl1bkxsWkI5b0tKT0NocEcyOXNHY1hzdEQ0TGxqaHZ6VDlObW9NM05yRUVta2tUeV9MUjBOSkZvNXFsY25RS2NvV3FSS2pUQW0yS3dTTS1VM2FKdE9Qc1pZWVR",
-   "title": "US lost 23K jobs in July in disappointing report; interest-rate hikes could be put on hold - New York Post",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQakZ3bEZ6MW9lWHpFQk15VUpHbXl1bkxsWkI5b0tKT0NocEcyOXNHY1hzdEQ0TGxqaHZ6VDlObW9NM05yRUVta2tUeV9MUjBOSkZvNXFsY25RS2NvV3FSS2pUQW0yS3dTTS1VM2FKdE9Qc1pZWVRQRFJoTVFXQWJ1N29KNVVmSWFMX2REU1A0Y1JNdw?oc=5",
-   "desc": "US lost 23K jobs in July in disappointing report; interest-rate hikes could be put on hold  New York Post",
-   "source": "US Fed",
-   "publisher": "New York Post",
-   "scope": "world",
-   "ts": 1786107300000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTXpPOG02ckF4N0p0Z19LMTRXUVFCQnpWNDRwR0VUbVRscVhpOTdkSnRfRGRRMVg2ekNKRWkwVkxMbEU3OHFXTmtSb2Q3REZwMkJ2NldDU01vZWhsM3NLMXZBcUFhUVl3ZGdQTmVsM1JaQVB4dmh",
@@ -190,6 +190,16 @@
    "publisher": "GoldBroker.com",
    "scope": "world",
    "ts": 1786106384000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZEk4UkFNMUprVjJvUXdTdXphTHJ2TG9RUWE0ZV9CTHozbTM1eUR5TTlQemxQY3FRSmpTcENFeDRyZE9ia2Q3Tk83LU1zNjBhVUlGWDZUN3VQNlQyZ0FDTXhVNzRBSkhYcjZlbUNObFVubHpJbnF",
+   "title": "Garuda Aerospace, Naini Papers, Adroit Industries receive SEBI approval to launch IPOs - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZEk4UkFNMUprVjJvUXdTdXphTHJ2TG9RUWE0ZV9CTHozbTM1eUR5TTlQemxQY3FRSmpTcENFeDRyZE9ia2Q3Tk83LU1zNjBhVUlGWDZUN3VQNlQyZ0FDTXhVNzRBSkhYcjZlbUNObFVubHpJbnFhX1FRVElEYWNFMS1mODlxR1l1ekc2S01RaHhab040Q01vNTBNVXhYejJ5RmRrOWs0WkdOX05JZG9IWjBURGZuR1g1THBnT2dIcjdqQ045bXlkZTBHek9hbzVmN2pwaEVneWpHU1I0N1HSAeMBQVVfeXFMTjJ2TllmYlVycHRxWTRvTUxzVkdnQjhIU20yMFJhOGVGd3ppN1FCTVg0M0Z3cHVLU01lcllnZndoR0JBeWJYczNaNEJMYXA5TjBIekpENzEzd2ZQdFZGLUJCa0I3VHBpTUtMUU01WXhMaDI4ZkVRZ19rLS1GeHRfNEkwaHljVkk1REVSOFdsNk1PUmhBY3NVb1UyNDcyV0ZzeEFGb1o0RjlzUkgydWl0eHRPSVZqRW82WFJjWnQ3UnFMSHlzbHVaYTVGSm1nUTdUVE96Q1ZHR0dWYnZMMWt2UWt0SGs?oc=5",
+   "desc": "Garuda Aerospace, Naini Papers, Adroit Industries receive SEBI approval to launch IPOs  Moneycontrol.com",
+   "source": "SEBI",
+   "publisher": "Moneycontrol.com",
+   "scope": "india",
+   "ts": 1786105463000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmlkbWl5MlBud3luaHpyVWtNd2Fnby1PRFRJQ3l3ZzBPOXdKTHZzSldHbkhzdy1UcnQ4Mko4cWk2dGxwUVBiaWpTcFFmejZrMFRhYkd0OHdPZWVGME9sSHdsRWFKOUsxMVhTTU9hUW5jbjIyUTl",
@@ -229,7 +239,7 @@
    "source": "US Fed",
    "publisher": "Axios",
    "scope": "world",
-   "ts": 1786101532000
+   "ts": 1786101744000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcnZiNjNpVExvaXMtSUh1WFFlMUdaNXFzckhmOFVQTWcwUVVDYmNjdThzU1prSWpnQlJYbGVCb18tQkdlM3dpa1VwVnZHREl2VWJJaE9KX0VqdU1sNzN0QlZEMWMyVmlKSlFmUTdncWxHSndqNnp",
@@ -332,6 +342,16 @@
    "ts": 1786090515000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ2NjV3NfS0ZYMGpUSHJpWUFPX1dRWEpSZldwSEJRcEVpVDlkdGFOMFkwbFE2NVpuaFNxT0lFZVdOQWY1S2VEMzJ6M2tMV3Z4LTEyVk51U2s4Y3BxMk5aVml2Y0Z2Tng2N2RiTWQ3UmU3ZlNUR1V",
+   "title": "Nasdaq leads Wall Street higher as weak jobs data boosts Fed rate-cut hopes - Proactive financial news",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ2NjV3NfS0ZYMGpUSHJpWUFPX1dRWEpSZldwSEJRcEVpVDlkdGFOMFkwbFE2NVpuaFNxT0lFZVdOQWY1S2VEMzJ6M2tMV3Z4LTEyVk51U2s4Y3BxMk5aVml2Y0Z2Tng2N2RiTWQ3UmU3ZlNUR1V5V2xBMnRYNnJ5b25Da3pyd3lLQUdSZjBnc2xUNHR0X1IwVTk4bnVLYnQyVDdRcExWQjNob24waUVRdm9iR2FtdUszTjBaRlRpSmwwdlNRbnZhZmJka1Qwek1iLUY2N0FZNHVxdVROdGU0?oc=5",
+   "desc": "Nasdaq leads Wall Street higher as weak jobs data boosts Fed rate-cut hopes  Proactive financial news",
+   "source": "US Fed",
+   "publisher": "Proactive financial news",
+   "scope": "world",
+   "ts": 1786088880000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTzJlLUZUc182c1lPWXVjdENva3F2b2tJNnFiQUItdk1HdHZkVDV3RzFWeU4ycDliV0ZzUmdSeEtKUUFHSHd0TGFaMWFHQllMSlMzeW9lR0x3blRiQnZ0VmQ0NmJjZF9LNnp1VFp0b0RRZE01N1h",
    "title": "How India's IPO boom gave Sebi a revenue windfall - Moneycontrol.com",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTzJlLUZUc182c1lPWXVjdENva3F2b2tJNnFiQUItdk1HdHZkVDV3RzFWeU4ycDliV0ZzUmdSeEtKUUFHSHd0TGFaMWFHQllMSlMzeW9lR0x3blRiQnZ0VmQ0NmJjZF9LNnp1VFp0b0RRZE01N1hRYnA2R3NqZmFoYmh3LTNHU0lEWklKQUJmcFJFRnh1LVd2UVJSMW9WNG1xY2hWYnFtM2V4T3dLc195RkF3RULSAboBQVVfeXFMTWVyaXJHSzBZYWY5RXBNeWdIMGFKTTdCcmY3eC1sR3pUblJGZkpNZlAtVFJqY2s5MmVSR19DckZCaXRNcXItc2R3LVdZUWlKVjhXNFd4SWVnSUpPendsQ2VhVGJtZ2dNTldjTVMxUTBPRkpzZzU3OEY5WEk5M1NpQ1lodUdmc0dPUnRWT2ZiX1lnRXp3V0Frd0ZwZ0RxbF9JVnhFRWVRMUN1RElxbVc3ZTdBXzVVaXZraUh3?oc=5",
@@ -382,14 +402,14 @@
    "ts": 1786079040000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTE96NHI5YzlWZzgyQlltZlVaU2Z5U0ZlbmNsT2NfQkF0RjUxYXlfZ3FXbjYwSGNJTG15NDlsUjA3bWFJN3JLUEVTbkJkOWVZQXJ6UzlJX1l3dm9uYWFkaWgxR1lhM192Q1hJWjZKX1FqdGRJckJ",
-   "title": "Europe’s getting hotter, markets are taking note - 93.3 The Drive",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTE96NHI5YzlWZzgyQlltZlVaU2Z5U0ZlbmNsT2NfQkF0RjUxYXlfZ3FXbjYwSGNJTG15NDlsUjA3bWFJN3JLUEVTbkJkOWVZQXJ6UzlJX1l3dm9uYWFkaWgxR1lhM192Q1hJWjZKX1FqdGRJckJodmFDa0NrV1lyU3Q3Mzd5OUhkZHNHWHpTMA?oc=5",
-   "desc": "Europe’s getting hotter, markets are taking note  93.3 The Drive",
+   "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVkpHeTlGRVZHTjlBSmh1Tnc2SUNzWEhIZ1B5WEFIN0ctckFHZEZrWFhMREhVS2RlcC1CNHI5d3QxM3g3SkFyMUZPT0I2TkFLTV9HX1lWamQ2Tm43cTFzeWdsd0tkc3dRckdzRTZZNFVrU2oydWF",
+   "title": "Europe’s getting hotter, markets are taking note - KELO-AM",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVkpHeTlGRVZHTjlBSmh1Tnc2SUNzWEhIZ1B5WEFIN0ctckFHZEZrWFhMREhVS2RlcC1CNHI5d3QxM3g3SkFyMUZPT0I2TkFLTV9HX1lWamQ2Tm43cTFzeWdsd0tkc3dRckdzRTZZNFVrU2oydWF2amVRamh0YXBVNA?oc=5",
+   "desc": "Europe’s getting hotter, markets are taking note  KELO-AM",
    "source": "ECB / Europe",
-   "publisher": "93.3 The Drive",
+   "publisher": "KELO-AM",
    "scope": "world",
-   "ts": 1786078913000
+   "ts": 1786077114000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVXNkX280UzNOUjY5eUJtSVBBaUppVS1mUml3TzQ1SEtvdzQ2SGdxZWZtRzJYa1MtU2RsVmg4Sk9QZWFBTmwtZmp6cGRkMzlfd1hLTld2RmJlSG1GU0t4Qkk4RGhIT1pZWWFvV2Q1bUtZQ3hoS2t",
@@ -423,13 +443,33 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdG8xTDNnMVlwampYLUxubHhPc19pdlAzWHBmYm0wRGFKQVJMc1AxTmlBd2dzdTlKa0RPamp3NGJ1UjBkRVhEaHhIYkdZQ01pdVJleHphUFpzZnNqMjRVNTBwSHBGZFhDQmtBU016X09kakM0Nm5",
-   "title": "Why a Fed Rate Cut Is Coming and How the Market Will React - barrons.com",
+   "title": "Why a Fed Rate Cut Is Coming and How the Market Will React - Barron's",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdG8xTDNnMVlwampYLUxubHhPc19pdlAzWHBmYm0wRGFKQVJMc1AxTmlBd2dzdTlKa0RPamp3NGJ1UjBkRVhEaHhIYkdZQ01pdVJleHphUFpzZnNqMjRVNTBwSHBGZFhDQmtBU016X09kakM0Nm5WRWljNVVoaU1lWW1NS2FYUQ?oc=5",
-   "desc": "Why a Fed Rate Cut Is Coming and How the Market Will React  barrons.com",
+   "desc": "Why a Fed Rate Cut Is Coming and How the Market Will React  Barron's",
    "source": "US Fed",
-   "publisher": "barrons.com",
+   "publisher": "Barron's",
    "scope": "world",
    "ts": 1786043700000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSERES2lGcGlzcE44UzJLUGdJY0RJc0xDRDVXbmlrVUxJS1ZtMjd6LWJvQmtZY2RSRVF5dDZxSUFkd3NNaEJPelFpUkZrUU5QaUVtMVFSWGVRODVaSDMwVVRiSFBYdkhCM2t2UmFhUEdjQWhNY21",
+   "title": "Why a Fed Rate Cut Is Coming and How the Market Will React - Barron's",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSERES2lGcGlzcE44UzJLUGdJY0RJc0xDRDVXbmlrVUxJS1ZtMjd6LWJvQmtZY2RSRVF5dDZxSUFkd3NNaEJPelFpUkZrUU5QaUVtMVFSWGVRODVaSDMwVVRiSFBYdkhCM2t2UmFhUEdjQWhNY21yV2pMMjdiY2tFeW9VMmE?oc=5",
+   "desc": "Why a Fed Rate Cut Is Coming and How the Market Will React  Barron's",
+   "source": "US Fed",
+   "publisher": "Barron's",
+   "scope": "world",
+   "ts": 1786043700000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWkpHU0djNS1UOEQ2c1g2TjRuNEtMZ1h5Mjc4ZXhOY0dvRjE0cE1wNXJYeXdRSEFQeTR5TVAyT3RFalpxbGlBSTRQRk1wajVLNFJPcFF1bVlxenpYMnIwV0VOcktUb0JDamRjWkJqQ0xZVUJraVJ",
+   "title": "Fed’s Lisa Cook ready to hike rates if ‘too high’ inflation stays elevated - New York Post",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWkpHU0djNS1UOEQ2c1g2TjRuNEtMZ1h5Mjc4ZXhOY0dvRjE0cE1wNXJYeXdRSEFQeTR5TVAyT3RFalpxbGlBSTRQRk1wajVLNFJPcFF1bVlxenpYMnIwV0VOcktUb0JDamRjWkJqQ0xZVUJraVJoREp4QXowcFl5SUxtZjUtMXlyVG5vLTF3SHBsSWo4WVpqWTA5MFhDUnhxV1E2LXJMdWRNTXdvNkI2Tw?oc=5",
+   "desc": "Fed’s Lisa Cook ready to hike rates if ‘too high’ inflation stays elevated  New York Post",
+   "source": "US Fed",
+   "publisher": "New York Post",
+   "scope": "world",
+   "ts": 1786041540000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBocUoxVC15eW1XTXNiUVJCUFVJaDF0MlBTVGltb1lGMDdLa0NJOEctN0cwRjdDeDlWSFVyZ2dmQjRxaGRsbF9WaVFxTm5ONnZLSnNSZkpvVHVEZ1NSV0RQMHdYeTdUbExiV0lVaGNyTzRDcmpfNEE",
@@ -463,11 +503,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPTFdhQXd1eW84X0pYVTJJUGNoNmVEckRXTUpCYWlodFhsSU4zOTA4UkpKdk1yWW9KQ3ZjanJRZlZMbUNhM1RkRVdpZTVjbVUtTHdPQ0Z4WFY4VWZ0Nk9qMDNRaG9ZX2lKem9OcDVZLWtiMU9RQzJ",
-   "title": "Mortgage rates hit highest levels in over a year: Mortgage and refinance interest rates today, Thursday, August 6, 2026 - Yahoo Finance",
+   "title": "Mortgage rates hit highest levels in over a year: Mortgage and refinance interest rates today, Thursday, August 6, 2026 - finance.yahoo.com",
    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPTFdhQXd1eW84X0pYVTJJUGNoNmVEckRXTUpCYWlodFhsSU4zOTA4UkpKdk1yWW9KQ3ZjanJRZlZMbUNhM1RkRVdpZTVjbVUtTHdPQ0Z4WFY4VWZ0Nk9qMDNRaG9ZX2lKem9OcDVZLWtiMU9RQzJFcDBXS0lkRnZwTWd4ODMyVC11bTIzXzdIeHQtb1V1Wl80ajV5RExtZ2NETm9aZW82YkZ3M1VVTkxZSVI4TFlfN1A0dU5KOGJXak1ZekxzOTE1THlmMFJYTTZSbVZrNjF2WWNEbmNoTkE3TE9DRHNsenRPSGRHTy1sNHV3YmM2cVNGNEZkQ3llWmZHbHo5SlN6NkJEcnB0bng1d0NDR2FIelJWUG13?oc=5",
-   "desc": "Mortgage rates hit highest levels in over a year: Mortgage and refinance interest rates today, Thursday, August 6, 2026  Yahoo Finance",
+   "desc": "Mortgage rates hit highest levels in over a year: Mortgage and refinance interest rates today, Thursday, August 6, 2026  finance.yahoo.com",
    "source": "US Fed",
-   "publisher": "Yahoo Finance",
+   "publisher": "finance.yahoo.com",
    "scope": "world",
    "ts": 1786032000000
   },
@@ -523,11 +563,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSHd6U1BIWWozMnNCVFNwX0htX2tPX2lIM1d2eGx1aHFYOXNZV3RwWGg2czJEUVBDbmdCYTdTWVY1d090Qzg1ZWFVUFZhVGRZV0Jpal9LbjJ3cWxzUXdCZFI4eGZTM1FHbG9XMlNnY1FpbHFPUGt",
-   "title": "RBI Keeps Repo Rate Unchanged at 5.25%, Raises FY27 Growth Forecast Amid Global Uncertainty - Pragativadi",
+   "title": "RBI Keeps Repo Rate Unchanged at 5.25%, Raises FY27 Growth Forecast Amid Global Uncertainty - pragativadi.com",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSHd6U1BIWWozMnNCVFNwX0htX2tPX2lIM1d2eGx1aHFYOXNZV3RwWGg2czJEUVBDbmdCYTdTWVY1d090Qzg1ZWFVUFZhVGRZV0Jpal9LbjJ3cWxzUXdCZFI4eGZTM1FHbG9XMlNnY1FpbHFPUGt6cFVMTkRDaDlMVm03S2dCQzRqcmpka293MUh2MGFwX2RCSF9lT2RrOGpGbDl6NmNvNlhCRXFVZFZkUkpKZlA?oc=5",
-   "desc": "RBI Keeps Repo Rate Unchanged at 5.25%, Raises FY27 Growth Forecast Amid Global Uncertainty  Pragativadi",
+   "desc": "RBI Keeps Repo Rate Unchanged at 5.25%, Raises FY27 Growth Forecast Amid Global Uncertainty  pragativadi.com",
    "source": "Indian Economy",
-   "publisher": "Pragativadi",
+   "publisher": "pragativadi.com",
    "scope": "india",
    "ts": 1786026996000
   },
@@ -572,22 +612,12 @@
    "ts": 1786019824000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazlmQUxndlRrMm5sT0p0UERxNU5MRXVndUVQZ3hUVkI0NDA3TEROLVdjWGo2OEpRT3BEU19rcXhSanMzWGlnbmtPcXZzeWl5RklHaGhnTUg4TEs1aHdUbVYzTlhHaDNEbTM4OVkxa01qNVdYdjJ",
-   "title": "Raising the bar for a rate hike - financialexpress.com",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazlmQUxndlRrMm5sT0p0UERxNU5MRXVndUVQZ3hUVkI0NDA3TEROLVdjWGo2OEpRT3BEU19rcXhSanMzWGlnbmtPcXZzeWl5RklHaGhnTUg4TEs1aHdUbVYzTlhHaDNEbTM4OVkxa01qNVdYdjJzZEhDNDdFbEw3R3dBeXFIc2010gGPAUFVX3lxTE1vMGNMNnlwM0NnS1F3VlpuZ0xXZzdjM0ZGVDFKTE5uenF1WjJCa1lCUFZBTGM1LUl2QXdTTkptR1cyZk5zVFRrSHFOcW0zZ2VKc1ZJRjVQNGd2RERMbW4wazFtM3Y2S2F0dG5NNGJXRlpFSlhtX2ROdUxaVE8ydTlIRVE5MU9TR241d0lSUkM0?oc=5",
-   "desc": "Raising the bar for a rate hike  financialexpress.com",
-   "source": "RBI",
-   "publisher": "financialexpress.com",
-   "scope": "india",
-   "ts": 1786017136000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFoyTFVDdW5XamU1QkN0b3doaHhuMm5USE1iUUhQT3d5cDhLanJwY0NJWHJpYUZaSXVnNnB2TGtJeVM2V2pZNWJycXkyUTU3OFhoZXBpbDV1MDVqS0lncnN6YzdCUmVLdFp6QkxvMk5mUENzLXF",
-   "title": "Kevin Warsh to stick with lean Fed messaging despite market backlash - Financial Times",
+   "title": "Kevin Warsh to stick with lean Fed messaging despite market backlash - ft.com",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFoyTFVDdW5XamU1QkN0b3doaHhuMm5USE1iUUhQT3d5cDhLanJwY0NJWHJpYUZaSXVnNnB2TGtJeVM2V2pZNWJycXkyUTU3OFhoZXBpbDV1MDVqS0lncnN6YzdCUmVLdFp6QkxvMk5mUENzLXFIYUFMek52alR2NEdQUmg?oc=5",
-   "desc": "Kevin Warsh to stick with lean Fed messaging despite market backlash  Financial Times",
+   "desc": "Kevin Warsh to stick with lean Fed messaging despite market backlash  ft.com",
    "source": "US Fed",
-   "publisher": "Financial Times",
+   "publisher": "ft.com",
    "scope": "world",
    "ts": 1786014009000
   },
@@ -643,11 +673,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSEFsTEhJS2FjUTVyd3EzaC1VTEVENW1xSFdUNldnOFJ6SnpiUjBsWHUwTnVSS3FGQ05yQThXNm1heWlocktZY1Fkbk8ySnV1RUlJbzR0TEx0dXQzdjZ2TEVxMnhYZGpBNmFMRVFlbjVnLXhIOE8",
-   "title": "Thailand Ready to Welcome 191 Countries to the 2026 Annual Meetings of the International Monetary Fund and the World Bank Group - PR Newswire APAC - en.prnasia.com",
+   "title": "Thailand Ready to Welcome 191 Countries to the 2026 Annual Meetings of the International Monetary Fund and the World Bank Group - PR Newswire APAC - PR Newswire Asia",
    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSEFsTEhJS2FjUTVyd3EzaC1VTEVENW1xSFdUNldnOFJ6SnpiUjBsWHUwTnVSS3FGQ05yQThXNm1heWlocktZY1Fkbk8ySnV1RUlJbzR0TEx0dXQzdjZ2TEVxMnhYZGpBNmFMRVFlbjVnLXhIOE8yVGtncHNKQ3BPYm5JOXkydFZCam5OU2dmUG9ROW1XYzdVd1hZdlBDSzduYnYtbUx5UkVNc0lGZ2N5czlWeGlOVFVEZDF4ZkdDUmRIQ2t2RHN6aEFZQkxmbFdmdmtWWmo5ZlZjRWRBVG85dHJ3eVdBRXF3Z0cyYnZXakxlYnAxVU1rcm4zSmpyOWdNbVRrVExKU1k?oc=5",
-   "desc": "Thailand Ready to Welcome 191 Countries to the 2026 Annual Meetings of the International Monetary Fund and the World Bank Group - PR Newswire APAC  en.prnasia.com",
+   "desc": "Thailand Ready to Welcome 191 Countries to the 2026 Annual Meetings of the International Monetary Fund and the World Bank Group - PR Newswire APAC  PR Newswire Asia",
    "source": "IMF / World Bank",
-   "publisher": "en.prnasia.com",
+   "publisher": "PR Newswire Asia",
    "scope": "world",
    "ts": 1786000200000
   },
@@ -663,41 +693,41 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQTd2U0hIbFJCNzNPcnp2VksxMVlQN0c3MEQ1N2FTVHR6NmhuWWdGMm9OS1dUQmdqcEwtdnBmc0tSZUVIV3JGMXhZTTBISUVTclVzS3RjY0Y2amxHSnA0LThEWklhSXNvQmI3N2w1REl4eVhfclp",
-   "title": "India rate hike calls pushed back after central bank's dovish pause - Reuters",
+   "title": "India rate hike calls pushed back after central bank's dovish pause - reuters.com",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQTd2U0hIbFJCNzNPcnp2VksxMVlQN0c3MEQ1N2FTVHR6NmhuWWdGMm9OS1dUQmdqcEwtdnBmc0tSZUVIV3JGMXhZTTBISUVTclVzS3RjY0Y2amxHSnA0LThEWklhSXNvQmI3N2w1REl4eVhfclpFVnpOUUVNbE9Nang1Y010QVhHRkF4OXExQmNNMGhKano0YnYwWjg5ZVM2ek4xb1l1WEdPQkxmcHdGdXpmYlI?oc=5",
-   "desc": "India rate hike calls pushed back after central bank's dovish pause  Reuters",
+   "desc": "India rate hike calls pushed back after central bank's dovish pause  reuters.com",
    "source": "RBI",
-   "publisher": "Reuters",
+   "publisher": "reuters.com",
    "scope": "india",
    "ts": 1785999060000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0NEZ29yRFp5bzlUdkt0VkJLZEJFeS1CRERPZWdJQTF3YmFxRVJsMlVYMFQ2clA0c3pnYTlmRzZGWnFBdzc0bGZCVmFfbzdTNUlJcWx5UUVsNVZUYXhvOHladGVMTG5XeUhDaW5XSS1QOXJCNG1",
-   "title": "Monetary Policy Committee (MPC) - RBI Keeps Repo Rate Unchanged Amid Global Uncertainty - vajiramandravi.com",
+   "title": "Monetary Policy Committee (MPC) - RBI Keeps Repo Rate Unchanged Amid Global Uncertainty - Vajiram & Ravi",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0NEZ29yRFp5bzlUdkt0VkJLZEJFeS1CRERPZWdJQTF3YmFxRVJsMlVYMFQ2clA0c3pnYTlmRzZGWnFBdzc0bGZCVmFfbzdTNUlJcWx5UUVsNVZUYXhvOHladGVMTG5XeUhDaW5XSS1QOXJCNG1KWUh4OXFjc21iYVozbVVNWURtNEVYV3FockYwdUhZWVk1UFpoZkdtYUJxV1oyU1h3?oc=5",
-   "desc": "Monetary Policy Committee (MPC) - RBI Keeps Repo Rate Unchanged Amid Global Uncertainty  vajiramandravi.com",
+   "desc": "Monetary Policy Committee (MPC) - RBI Keeps Repo Rate Unchanged Amid Global Uncertainty  Vajiram & Ravi",
    "source": "RBI",
-   "publisher": "vajiramandravi.com",
+   "publisher": "Vajiram & Ravi",
    "scope": "india",
    "ts": 1785997610000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVlYzUXQ0NG13eG42MkxqZ1RzOXRZOFNSd1pFU084QWFzSnp5bnNzRkxnVDVFQjVjc1VLNVlRcTY4bE5vT0Z2YVh4ZXZhX3NibU9NMjFFMHFENWdHTnB2X3ctTE1VQjhnMmpyMTllSjdBcG5FcXN",
-   "title": "RBI's expected, pleasant and puzzling; oil stays subdued as US-Iran truce holds - LinkedIn",
+   "title": "RBI's expected, pleasant and puzzling; oil stays subdued as US-Iran truce holds - linkedin.com",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVlYzUXQ0NG13eG42MkxqZ1RzOXRZOFNSd1pFU084QWFzSnp5bnNzRkxnVDVFQjVjc1VLNVlRcTY4bE5vT0Z2YVh4ZXZhX3NibU9NMjFFMHFENWdHTnB2X3ctTE1VQjhnMmpyMTllSjdBcG5FcXNFWHNhT1ZHblI3SzVmSlB4aUwzdHVHTzV1UjVnSWFHcm5aS1R6RUc3R1BxOFE?oc=5",
-   "desc": "RBI's expected, pleasant and puzzling; oil stays subdued as US-Iran truce holds  LinkedIn",
+   "desc": "RBI's expected, pleasant and puzzling; oil stays subdued as US-Iran truce holds  linkedin.com",
    "source": "RBI",
-   "publisher": "LinkedIn",
+   "publisher": "linkedin.com",
    "scope": "india",
    "ts": 1785995279000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXBRcVpsZnE5MEZlb1dHM2dkam9UNkxiTTAxaDlQcElDU3ExT21jME9wWGUwLWlnTUtoendvQ3ZjbDg3WTJVbllRTXVkc19MUm0yQTlzb0J3OTNOejYyZmUybG9rcm83X3BYdjVWNl9qZ1owRUd",
-   "title": "RBI's expected, pleasant and puzzling; oil stays subdued as US-Iran truce holds - LinkedIn",
+   "title": "RBI's expected, pleasant and puzzling; oil stays subdued as US-Iran truce holds - linkedin.com",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXBRcVpsZnE5MEZlb1dHM2dkam9UNkxiTTAxaDlQcElDU3ExT21jME9wWGUwLWlnTUtoendvQ3ZjbDg3WTJVbllRTXVkc19MUm0yQTlzb0J3OTNOejYyZmUybG9rcm83X3BYdjVWNl9qZ1owRUdkajl6SmlvYW92aDJ4eGUtaUkyZG45S2hUdERKNFdRcWlRVUUwZlkwY0pvWWF5VnhUaDNzU3VDLUlxTTh2dG0?oc=5",
-   "desc": "RBI's expected, pleasant and puzzling; oil stays subdued as US-Iran truce holds  LinkedIn",
+   "desc": "RBI's expected, pleasant and puzzling; oil stays subdued as US-Iran truce holds  linkedin.com",
    "source": "RBI",
-   "publisher": "LinkedIn",
+   "publisher": "linkedin.com",
    "scope": "india",
    "ts": 1785995278000
   },
@@ -723,11 +753,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JVnBYVDQyMGU1ZTNTWU51ZWQxUFBTLXRiaVdOWU5sbk9Mbno0a3ZKaWVXaUhUMmFwMmE1TW14OWdBekRCa0ZBdkdNeVNVcXZ3d1hia01IbWd2WnIxM0JQRHFmT0JKdDdRTGxSMTBqaHQ?oc=5",
-   "title": "The trends in central bank research papers - Financial Times",
+   "title": "The trends in central bank research papers - ft.com",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JVnBYVDQyMGU1ZTNTWU51ZWQxUFBTLXRiaVdOWU5sbk9Mbno0a3ZKaWVXaUhUMmFwMmE1TW14OWdBekRCa0ZBdkdNeVNVcXZ3d1hia01IbWd2WnIxM0JQRHFmT0JKdDdRTGxSMTBqaHQ?oc=5",
-   "desc": "The trends in central bank research papers  Financial Times",
+   "desc": "The trends in central bank research papers  ft.com",
    "source": "ECB / Europe",
-   "publisher": "Financial Times",
+   "publisher": "ft.com",
    "scope": "world",
    "ts": 1785990824000
   },
@@ -773,21 +803,21 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVdvczY0a3k0cFBWYWNRLXVWTUZudDE4Z1I3TG5lSWxLQUx4aHkyMkcxY01aYlk5V2hVMUo0cVRUOG40b2JXYW5kWjFBdXRiYTJFWmt4enA3TTZEYzNLR0tyblpsZzFrVk9SZTd2c3VaZjFCcGp",
-   "title": "Indian share benchmarks inch higher after RBI rate pause - Reuters",
+   "title": "Indian share benchmarks inch higher after RBI rate pause - reuters.com",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVdvczY0a3k0cFBWYWNRLXVWTUZudDE4Z1I3TG5lSWxLQUx4aHkyMkcxY01aYlk5V2hVMUo0cVRUOG40b2JXYW5kWjFBdXRiYTJFWmt4enA3TTZEYzNLR0tyblpsZzFrVk9SZTd2c3VaZjFCcGppYThwaDE2NTVZRm5fMkVhS180VllpSEhObG9tVWxHM3Y2RXFhb2F3elkxa21nWktHYw?oc=5",
-   "desc": "Indian share benchmarks inch higher after RBI rate pause  Reuters",
+   "desc": "Indian share benchmarks inch higher after RBI rate pause  reuters.com",
    "source": "RBI",
-   "publisher": "Reuters",
+   "publisher": "reuters.com",
    "scope": "india",
    "ts": 1785973736000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQakItQjA5OWVrVVFkY05YMWhOS25GcmRiZEZRYTdlS3FUOUlCMm1vN2h0MEMweEUyQmRDRVBGMEllMWdPalFQb3QtQ1ZrbnZqcnhuUWdxLV9PREs5QTd1cHNGSUpxNGJTc3BvNFdxSWx3TVBUYzN",
-   "title": "Federal Reserve Governor Cook: Ready to raise interest rates if inflation shows no signs of cooling - 富途牛牛",
+   "title": "Federal Reserve Governor Cook: Ready to raise interest rates if inflation shows no signs of cooling - news.futunn.com",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQakItQjA5OWVrVVFkY05YMWhOS25GcmRiZEZRYTdlS3FUOUlCMm1vN2h0MEMweEUyQmRDRVBGMEllMWdPalFQb3QtQ1ZrbnZqcnhuUWdxLV9PREs5QTd1cHNGSUpxNGJTc3BvNFdxSWx3TVBUYzNrX2swUy01eGNrVksxMDc5VkU5SDRPVnFfX3lPT1htT2hCY3dEZnZDT05jZ09IUHVR?oc=5",
-   "desc": "Federal Reserve Governor Cook: Ready to raise interest rates if inflation shows no signs of cooling  富途牛牛",
+   "desc": "Federal Reserve Governor Cook: Ready to raise interest rates if inflation shows no signs of cooling  news.futunn.com",
    "source": "US Fed",
-   "publisher": "富途牛牛",
+   "publisher": "news.futunn.com",
    "scope": "world",
    "ts": 1785968100000
   },
@@ -823,11 +853,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV1czUFF0Zmpmd3VHcUUtZDJId0hCZlk1UUJsRzY5ckhwZnZrOEsxb3hudDdVTjdockppME9odzRzaW1IZ3hMNTZqVWR2NHdVLUU0NnhMdmllOTE0ZEJ4Q25IN2ZTbUVjVWFuaWVHYXlrRE0tR29",
-   "title": "Fed governor Lisa Cook: 'I am prepared to act' on interest rates if inflation remains elevated - Yahoo Finance",
+   "title": "Fed governor Lisa Cook: 'I am prepared to act' on interest rates if inflation remains elevated - finance.yahoo.com",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV1czUFF0Zmpmd3VHcUUtZDJId0hCZlk1UUJsRzY5ckhwZnZrOEsxb3hudDdVTjdockppME9odzRzaW1IZ3hMNTZqVWR2NHdVLUU0NnhMdmllOTE0ZEJ4Q25IN2ZTbUVjVWFuaWVHYXlrRE0tR292ckctenl4aWNwOG9sYXhCLTZMQ0g4LWs4akJJdTJ0cW1ZRUFsazdfbXFfNnlmUGp6OENCNUNfQW82ME9MVUtKTllaMXJzRkNwYzlzVEVpdF9SSlFRdno5OWNMaEZOR3FXV3M4MU1BMUV2c0ZMNzlZdGU3SzZj?oc=5",
-   "desc": "Fed governor Lisa Cook: 'I am prepared to act' on interest rates if inflation remains elevated  Yahoo Finance",
+   "desc": "Fed governor Lisa Cook: 'I am prepared to act' on interest rates if inflation remains elevated  finance.yahoo.com",
    "source": "US Fed",
-   "publisher": "Yahoo Finance",
+   "publisher": "finance.yahoo.com",
    "scope": "world",
    "ts": 1785960789000
   },
@@ -873,11 +903,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNekdGNDA0d1FoYU9lc3oydF9oQ1V1a2R5RFVUMFAxaDZDZ3pmZTNXaEFlZy1wSEtDVi1jUzE0c0cxbU9vX002bDQxWjN3LVpHeHU1Ry03cjFSNHhCZGZ3MWFMYWdXLUZ0dnRDemV6SDZycnFhaWR",
-   "title": "VIEW India's central bank holds rates as expected - Reuters",
+   "title": "VIEW India's central bank holds rates as expected - reuters.com",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNekdGNDA0d1FoYU9lc3oydF9oQ1V1a2R5RFVUMFAxaDZDZ3pmZTNXaEFlZy1wSEtDVi1jUzE0c0cxbU9vX002bDQxWjN3LVpHeHU1Ry03cjFSNHhCZGZ3MWFMYWdXLUZ0dnRDemV6SDZycnFhaWRPRFlURU8zdGtsRWx2SGlJQllqTUhyb1pNZFRpVmUxbG9pZA?oc=5",
-   "desc": "VIEW India's central bank holds rates as expected  Reuters",
+   "desc": "VIEW India's central bank holds rates as expected  reuters.com",
    "source": "RBI",
-   "publisher": "Reuters",
+   "publisher": "reuters.com",
    "scope": "india",
    "ts": 1785940524000
   },
@@ -893,11 +923,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ2NzalhPT0JwdmtObjBGcWs0SXBTRmoySlIyZU51NG5mdjZ3bm55VlNaUFk0alhVekRZOGdWNGVyWXFLMURFRS15dFM1d285VV9uQlJITG50Zk1Id3ZFdHUtb3FKZVg1OEFyUVkzODJ4aE1BcV8",
-   "title": "RBI holds rates as governor Malhotra signals no rush to act - PRESS Insider",
+   "title": "RBI holds rates as governor Malhotra signals no rush to act - pressinsider.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ2NzalhPT0JwdmtObjBGcWs0SXBTRmoySlIyZU51NG5mdjZ3bm55VlNaUFk0alhVekRZOGdWNGVyWXFLMURFRS15dFM1d285VV9uQlJITG50Zk1Id3ZFdHUtb3FKZVg1OEFyUVkzODJ4aE1BcV85RVlFQm1ndUo3Yw?oc=5",
-   "desc": "RBI holds rates as governor Malhotra signals no rush to act  PRESS Insider",
+   "desc": "RBI holds rates as governor Malhotra signals no rush to act  pressinsider.com",
    "source": "RBI",
-   "publisher": "PRESS Insider",
+   "publisher": "pressinsider.com",
    "scope": "india",
    "ts": 1785939768000
   },
@@ -1073,11 +1103,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbzVrcU91S3loWlpaandnUVk0SVlUNWNBX3Q5MTZTNnh3dWJUYUVtcHVlalAtdUQ3S2cwMzNmWndhOGdqRkF2TGtaVUlqTFJCMnQ3VFZ3Z3pJbWNTcW9hMFVFSkJUV1VTNVlBNVZxek0zaFBaUzB",
-   "title": "RBI MPC meeting August 2026 highlights: Repo rate… - inkl.com",
+   "title": "RBI MPC meeting August 2026 highlights: Repo rate… - inkl",
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbzVrcU91S3loWlpaandnUVk0SVlUNWNBX3Q5MTZTNnh3dWJUYUVtcHVlalAtdUQ3S2cwMzNmWndhOGdqRkF2TGtaVUlqTFJCMnQ3VFZ3Z3pJbWNTcW9hMFVFSkJUV1VTNVlBNVZxek0zaFBaUzBkWjNOWmRNSVlYNUFiTm5fc2hyRTVSUjZYNTBITmRBS3dMRlVrNExXbEUteUdJREdQT0tzNXk5alZFMzVMN0UwMVpocVhrbUVvTXRWNnFYa2NOeERyM290YTlhWVB5TnprT0RyZjh4djVJeXp6SjBkRXdpWmo2Um1OX29pb3dVM1BUMVNB?oc=5",
-   "desc": "RBI MPC meeting August 2026 highlights: Repo rate…  inkl.com",
+   "desc": "RBI MPC meeting August 2026 highlights: Repo rate…  inkl",
    "source": "Indian Economy",
-   "publisher": "inkl.com",
+   "publisher": "inkl",
    "scope": "india",
    "ts": 1785923393000
   },
@@ -1163,43 +1193,13 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaVh6a1FVeVF5VXFBMU5FU0ctdXFZWUZudWdoR1RSd2tGaTJENGNFcWkzQlFweDduUUpBTHVNWVJRdmlXZFlvUG1OYV9MaUtndEN3akxJWWZ4Ny1Jazl0M2p4VGdWNkNHNXZTcTdSTXQycVcxVGd",
-   "title": "India's central bank holds rates, awaits clearer inflation signal before acting - Reuters",
+   "title": "India's central bank holds rates, awaits clearer inflation signal before acting - reuters.com",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaVh6a1FVeVF5VXFBMU5FU0ctdXFZWUZudWdoR1RSd2tGaTJENGNFcWkzQlFweDduUUpBTHVNWVJRdmlXZFlvUG1OYV9MaUtndEN3akxJWWZ4Ny1Jazl0M2p4VGdWNkNHNXZTcTdSTXQycVcxVGdNZmhHMUEyeUx1SE9LTjdUekg3MW9LcENxaEJoYS1vSXFDbDA0cmprREl2OTgzQkxMd0NYel9xdlpOS3I2WjhBQVBxVGJoOVZhVFBLc0My?oc=5",
-   "desc": "India's central bank holds rates, awaits clearer inflation signal before acting  Reuters",
+   "desc": "India's central bank holds rates, awaits clearer inflation signal before acting  reuters.com",
    "source": "RBI",
-   "publisher": "Reuters",
+   "publisher": "reuters.com",
    "scope": "india",
    "ts": 1785918824000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTXMyVkJhQlIwYXdDTVhSVm1fN1NIalFxN2RCLWV3VEs0bGdMXzNuTDRDMXFFUV8zLV9MeVljMnhXeXFjSzdrVVQ3dzQzaTk5SjlER1ZGYzQ5Q0ZEU2g0ZTd1eEswZlh1dG9IN0FQZGg5bWVHbWc",
-   "title": "RBI's policy pause, neutral stance to support market sentiment; long-term equity outlook hinges on earnings: Economists - ANI News",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTXMyVkJhQlIwYXdDTVhSVm1fN1NIalFxN2RCLWV3VEs0bGdMXzNuTDRDMXFFUV8zLV9MeVljMnhXeXFjSzdrVVQ3dzQzaTk5SjlER1ZGYzQ5Q0ZEU2g0ZTd1eEswZlh1dG9IN0FQZGg5bWVHbWc1amVFbndpTi1tMDZRRThoZkJINXBIbUFVdmJZOTlFaFNKc2VKWlE1T0NjQzNuR3pVM1RDdlQ3WVhIMzRZLUt3bDFkbEExZlpzODMxS3hpb0pvTjV4UTJCMEdGWWxGUW9wZHZXREEwS3NSMDFTSlUweF9lQW10TTlZU2ZvN1JzY2pzRk1B?oc=5",
-   "desc": "RBI's policy pause, neutral stance to support market sentiment; long-term equity outlook hinges on earnings: Economists  ANI News",
-   "source": "RBI",
-   "publisher": "ANI News",
-   "scope": "india",
-   "ts": 1785918780000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOGlsUURGTTNydm1NMXdzVTFzaThQZWlnTUJtblJCVEI0LWhnMkRHc1d1b2x3WTA2MHQ4SkZZdzRPM0VqWXZsUmh4WlRaMmV3N0NVWGtoQmlMNHhEV29hMkJHd0xHYzBoU1Nuc1RubHZ1bWxvV3V",
-   "title": "Inflation Has Eased. Growth Is Rising. So Why Didn't The RBI Cut Rates? The Big Picture Behind India's Latest Monetary Policy - inventiva.co.in",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOGlsUURGTTNydm1NMXdzVTFzaThQZWlnTUJtblJCVEI0LWhnMkRHc1d1b2x3WTA2MHQ4SkZZdzRPM0VqWXZsUmh4WlRaMmV3N0NVWGtoQmlMNHhEV29hMkJHd0xHYzBoU1Nuc1RubHZ1bWxvV3VxcThLaUNFQnpHWGRuX3ZNY1ROOVBoaHhULXBSSWtNT2tpS2ctUjJ6WVUzRTRjNV82U19XckxuRkhMR2lNeFBtX1Z4b2d5NzZNMHZhZUxFWnlYVTliQUdDZnFjZEdDUGpleUtyRGc4NGFuSV9hdTVCUWJVVmhrbA?oc=5",
-   "desc": "Inflation Has Eased. Growth Is Rising. So Why Didn't The RBI Cut Rates? The Big Picture Behind India's Latest Monetary Policy  inventiva.co.in",
-   "source": "Indian Economy",
-   "publisher": "inventiva.co.in",
-   "scope": "india",
-   "ts": 1785917624000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN1dwTzc3X1JTUEdpcjJHenRvalVLcFdYczhPMlowakhhZmNieU4yYUxnSWJYdEtTVDBiUnFjc1diME1EeG4wdENxOUxnUWxsajJudFFIdTVtYWxXc1pDRl8tb3E5ZVlIS2hoV1Z5VnFoSXBUU28",
-   "title": "India Keeps Key Interest Rate on Hold, Retains Neutral Stance - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN1dwTzc3X1JTUEdpcjJHenRvalVLcFdYczhPMlowakhhZmNieU4yYUxnSWJYdEtTVDBiUnFjc1diME1EeG4wdENxOUxnUWxsajJudFFIdTVtYWxXc1pDRl8tb3E5ZVlIS2hoV1Z5VnFoSXBUU28xWEhobFVGeDVoMVF1czhybWRsQkYwblVhY3NOUGs5MXp5X3U4b1EwWkM5SlN5RzRna016aHAtNXJuOQ?oc=5",
-   "desc": "India Keeps Key Interest Rate on Hold, Retains Neutral Stance  Bloomberg.com",
-   "source": "RBI",
-   "publisher": "Bloomberg.com",
-   "scope": "india",
-   "ts": 1785917262000
   }
  ]
 }
