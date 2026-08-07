@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-07T00:30:04.125800+00:00",
+ "updated": "2026-08-07T03:37:39.151380+00:00",
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKWXczZWZKU2RXcFBSOFlWbENldFVjSkxIZVJXOU5SNGJzVF85RUJhcHFrZFFEdXBscDdXUEo2aTdsOW90R2V2SDA4d2k5cGhkRWYzckY5WWUyOGVUM3dPTFdsMHlXRW8?oc=5",
+   "title": "World Bank sees Thailand gaining from AI supply chains - Nation Thailand",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKWXczZWZKU2RXcFBSOFlWbENldFVjSkxIZVJXOU5SNGJzVF85RUJhcHFrZFFEdXBscDdXUEo2aTdsOW90R2V2SDA4d2k5cGhkRWYzckY5WWUyOGVUM3dPTFdsMHlXRW8?oc=5",
+   "desc": "World Bank sees Thailand gaining from AI supply chains  Nation Thailand",
+   "source": "IMF / World Bank",
+   "publisher": "Nation Thailand",
+   "scope": "world",
+   "ts": 1786061400000
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
    "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
@@ -49,7 +59,7 @@
    "source": "US Fed",
    "publisher": "Barron's",
    "scope": "world",
-   "ts": 1786043822000
+   "ts": 1786043700000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVW9jSy0xUi1iS0tCaHlWM2p0SXc5SE9sTk5XNkZhNF9wdkNRVmhhTlZGQk8xOGJhb29abjg5SFNscFlHUWhzMFoxcVFqRndhZVdCSmEyYkR1MTRSM2kwQ3FHZ2ZWNU8zTll1bGxfUExHNDduOWZ",
@@ -102,16 +112,6 @@
    "ts": 1786033500000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUFZNzdTQ3JlYWM0d3pPR091S2FJTUZIYlEtN18zVGkzT1JidHF4bktKVHFGUDl4TGdZdVhQWUY3U3l1bGMzSU83eDZmUm5GaWFUb29EWnBLYVNQSEg2TTZZSDBaV0RCZ2V6dldpdXZMTHZ5R2Q",
-   "title": "Sebi Investigates 402 Cases in FY26: Market Violations - Rediff MoneyWiz",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUFZNzdTQ3JlYWM0d3pPR091S2FJTUZIYlEtN18zVGkzT1JidHF4bktKVHFGUDl4TGdZdVhQWUY3U3l1bGMzSU83eDZmUm5GaWFUb29EWnBLYVNQSEg2TTZZSDBaV0RCZ2V6dldpdXZMTHZ5R2QwLVA3eG1VRUpjN201ckFBbDVDWVJyUFc0ZF9rcEFyMHFpaGJ0NlQtbWptMzA1ZW10aTLSAa4BQVVfeXFMTlZCV3pjbUVGMU1UYkNEM2dNZWlDS1JyMFRvZWRlRll6d2g0Vk13b0hlNUtWc2haejVMSW95azdYYzEtMkp5aElDQzBEVEtweU1lSVJlUEpNMkdQSDdVNGdVdVBFTjFfRWZKV0hLS3NENE1xN3VFT3c4eGpfRkpHS0V1Ql9FYUF6ZnBtQ2hQemJWaUhsbGJJQlhDbk9kLWRwYVBaZkFLZzZaUy13d1Z3?oc=5",
-   "desc": "Sebi Investigates 402 Cases in FY26: Market Violations  Rediff MoneyWiz",
-   "source": "SEBI",
-   "publisher": "Rediff MoneyWiz",
-   "scope": "india",
-   "ts": 1786033330000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVlFBREFZckZGaDk0LTFvUHhmejctTkp3SU5HNkdtbEYtZUxpR0RGbE4wMFB5NGthU1ZUMnZ5THducmdVYkVaTW5vV1FWczRDcjFDN2xuVFhibllkWmRDNFRyYUYzcnJZa2o3Z1BubHdtdWlnb1k",
    "title": "Sebi Plans Securities Lending Revamp, Corporate Bond Tokenisation - Rediff MoneyWiz",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVlFBREFZckZGaDk0LTFvUHhmejctTkp3SU5HNkdtbEYtZUxpR0RGbE4wMFB5NGthU1ZUMnZ5THducmdVYkVaTW5vV1FWczRDcjFDN2xuVFhibllkWmRDNFRyYUYzcnJZa2o3Z1BubHdtdWlnb1k2NXpERlV6UEQ1aVA0ZmdQLXd6RGVvcWREZ3ZCVmJpbng2M29tRE9jWTJXdUZxVjE0WFlvaTY1RDJHa0RGZ1ItNWfSAbwBQVVfeXFMTTNBWVM2LWxEQ0FtcmFLQmF0OW9ma3d3RENIRi1OSXZqZmcta0FpZzJKQlQ4eEp2YktpYmUzNTZMWGlyZXhtUFhRVnhLeUNjd1A5c180NUNXTHpQWlY3UE8wYmZjTlNUbHBqYWVHU3dtZUxvdFRQNVIyX0ZBZGZQaGwxM3ktRU5DdTJDMXdpZTF1VDA5VGV4bzQyaG5NaDdRelM5MUJyVkh4UkJvczkxSVpZWVpZRVlSMXIwWXU?oc=5",
@@ -142,14 +142,14 @@
    "ts": 1786032000000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2ZsdHQ0amJyZFpUXy1mcEJVeVJjNzBWVHk2MVg5NDdhRDdkQUNpUUljU2FRamNTVTdxdExhN1JlNVhDOXViYnQ2eU5DWmgxNzAwYWJDQXozRlBoQVYzUDRqUmRHVGl3QXhqelZjOWtiSk5DTmZ",
-   "title": "RBI Raises FY27 GDP Growth Forecast to 6.7%, Lowers CPI Inflation Projection to 5% - Thekanal",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2ZsdHQ0amJyZFpUXy1mcEJVeVJjNzBWVHk2MVg5NDdhRDdkQUNpUUljU2FRamNTVTdxdExhN1JlNVhDOXViYnQ2eU5DWmgxNzAwYWJDQXozRlBoQVYzUDRqUmRHVGl3QXhqelZjOWtiSk5DTmZMZTBPeWp1eDBBRk1nVE1RTUMxQklMTDNjWWJheFBKRTRoaEtWUEVfZ19SLU1VaERNd1Zhcmg4ZkhadWxlRmx6QlNRdWc?oc=5",
-   "desc": "RBI Raises FY27 GDP Growth Forecast to 6.7%, Lowers CPI Inflation Projection to 5%  Thekanal",
-   "source": "Indian Economy",
-   "publisher": "Thekanal",
+   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVlNlRFgxVDNCcy1ER2d6clhsRUFlbzdKNDZQTS1qdUpvMmphOHZpSnBiNHRJcW1DUHBYaWpnVXJLQWZkdE9ESkFkMkthYTRJTWpBZkpWVGNMZzE5c0RWTUJMVlBtb2JmUFhqNlhscGdDNUhyZzF",
+   "title": "Sebi takes up 402 investigation cases in FY26; completes 338 - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVlNlRFgxVDNCcy1ER2d6clhsRUFlbzdKNDZQTS1qdUpvMmphOHZpSnBiNHRJcW1DUHBYaWpnVXJLQWZkdE9ESkFkMkthYTRJTWpBZkpWVGNMZzE5c0RWTUJMVlBtb2JmUFhqNlhscGdDNUhyZzFCQnE3NVNDM1ZSX09tMUFGRnVmdW5NTWwyOFlzRE5LRmFFaThYTmVaNktzVldGbXlNYXdPRzZQcWdHWjI4RHA3cmc0cUtFVkxkakhSaFdiVG1mYkRzc1RMZ9IB0wFBVV95cUxOWTYweFVyR3l4TDZDeEVrTG9xcjBCUnJscFdXcEZ1Ty1YT1RTZ3Zqcnh2b0NuMXRYT2lmSTJzN3B1Y1JXNW90bXloZW1UZGQ1RTNPZ2FzRzhvdDhJcGpVLXY0cFM1d3plZFJQNDJkaFlSN1FhSDcxb0NHSHBqMldWQkViTE82ZUZvd1JLZi1jQ2VPekh6Q1JOeGFrY1ZhTVRfNDIteWNxLUE3X2dfRW5vQVVRZjQtVGhBNUVDbjRja0VwMnJOTS1YZTFUYXFPdkZfVGdv?oc=5",
+   "desc": "Sebi takes up 402 investigation cases in FY26; completes 338  The Economic Times",
+   "source": "SEBI",
+   "publisher": "The Economic Times",
    "scope": "india",
-   "ts": 1786031513000
+   "ts": 1786031417000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaEZSMjVPeWEzNHFsZ0JBSWh5NTZ5bjhnSktYSjYybXRsRlB2SGp1OWxRaDRiYW5xTXh3emFvaWlES1F1OGtBa2g1WEdHcmRuNzF1Y0Y0b0w3ZmlqSmlsVmo4Um5XLUtOMzNMS2x1SDdNbjk2Zmh",
@@ -162,34 +162,24 @@
    "ts": 1786031196000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTVU0V2U0SlVIMFF1U05EcEp5MW4wRG9vT0o2T2hPUjFaMUdVcmVjMkFacFA5MUI0UmhyN0syY2pXVkNuTFRxLXlmNVlUWUdVSXRmSkdvVWhTRjdPWm5yS09OekRxMTVHdF83RlNlRzhiQ0lSZ3I",
-   "title": "Fed’s Warsh May Consider September Rate Hike If Inflation Is Strong, Reportedly Insists on Minimalist Communication - TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTVU0V2U0SlVIMFF1U05EcEp5MW4wRG9vT0o2T2hPUjFaMUdVcmVjMkFacFA5MUI0UmhyN0syY2pXVkNuTFRxLXlmNVlUWUdVSXRmSkdvVWhTRjdPWm5yS09OekRxMTVHdF83RlNlRzhiQ0lSZ3ItaklTXzdwLVBfUkJRYVRBdTZzbnAxMDNoanRnN3BMQ0RLY0NkNVo3ZG1ya0FtWklLWVpQdDVlQ3NFc0pMVkJsVXFCdERaQjNpbmZsUi1uck9kUlF1SC0xTkF3MUQzcXAzV2x5VUNpZHJ3TU5VTQ?oc=5",
-   "desc": "Fed’s Warsh May Consider September Rate Hike If Inflation Is Strong, Reportedly Insists on Minimalist Communication  TradingKey",
-   "source": "US Fed",
-   "publisher": "TradingKey",
-   "scope": "world",
-   "ts": 1786030936000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOEZ6aTVjUm1FNjNXemxaeDFodXNlNkZDUjJFX0dRZzJodEpZclZkZGxWbzhMR2c0OXpBeUEzazBsUWxYVERtM1MwRWh6aGFLdGktWnRXbmxDMWktc3RhbE9ibXBmd05xLVhQMlEtb2U5NlllWHM",
-   "title": "Bond Traders Want a Signal—Warsh Is Sending Them Static - Investopedia",
+   "title": "Bond Traders Want a Signal—Warsh Is Sending Them Static - investopedia.com",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOEZ6aTVjUm1FNjNXemxaeDFodXNlNkZDUjJFX0dRZzJodEpZclZkZGxWbzhMR2c0OXpBeUEzazBsUWxYVERtM1MwRWh6aGFLdGktWnRXbmxDMWktc3RhbE9ibXBmd05xLVhQMlEtb2U5NlllWHMwVElDOUsxQ0hzVGVFbUpiNEpUZnpPb2czdEhsNXgwX3RMWEdMWGNTaU9YQmdJTk9LTDZUbkFKWlFPZkhGSGlvWkQ2RWhzYVQ3Ql9UZUpo?oc=5",
-   "desc": "Bond Traders Want a Signal—Warsh Is Sending Them Static  Investopedia",
+   "desc": "Bond Traders Want a Signal—Warsh Is Sending Them Static  investopedia.com",
    "source": "US Fed",
-   "publisher": "Investopedia",
+   "publisher": "investopedia.com",
    "scope": "world",
    "ts": 1786030114000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFJ3RnJ2M2o2MkZ1VFQ4YVY4cV9HMk14ZlkxeFgyZC1sUkV1RnkxZXYwU1FZaFpMWVB2Wl9NSGE1OVpISXFUZUZBX1liVDFsQUNYaXUybWhvSDlEMlZtRHpNMHBGOHAzZVpPcUhDaWZXaWt0WE1",
-   "title": "Inflation-hit Americans earn up to $150 a month in crypto - thestreet.com",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFJ3RnJ2M2o2MkZ1VFQ4YVY4cV9HMk14ZlkxeFgyZC1sUkV1RnkxZXYwU1FZaFpMWVB2Wl9NSGE1OVpISXFUZUZBX1liVDFsQUNYaXUybWhvSDlEMlZtRHpNMHBGOHAzZVpPcUhDaWZXaWt0WE1EUktyZXFsc0phZFBlS3dHUHdqbTE0N3FhVkhLeE9YQXRBSk5mYWtQUQ?oc=5",
-   "desc": "Inflation-hit Americans earn up to $150 a month in crypto  thestreet.com",
-   "source": "US Fed",
-   "publisher": "thestreet.com",
-   "scope": "world",
-   "ts": 1786029382000
+   "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2ZsdHQ0amJyZFpUXy1mcEJVeVJjNzBWVHk2MVg5NDdhRDdkQUNpUUljU2FRamNTVTdxdExhN1JlNVhDOXViYnQ2eU5DWmgxNzAwYWJDQXozRlBoQVYzUDRqUmRHVGl3QXhqelZjOWtiSk5DTmZ",
+   "title": "RBI Raises FY27 GDP Growth Forecast to 6.7%, Lowers CPI Inflation Projection to 5% - Thekanal",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2ZsdHQ0amJyZFpUXy1mcEJVeVJjNzBWVHk2MVg5NDdhRDdkQUNpUUljU2FRamNTVTdxdExhN1JlNVhDOXViYnQ2eU5DWmgxNzAwYWJDQXozRlBoQVYzUDRqUmRHVGl3QXhqelZjOWtiSk5DTmZMZTBPeWp1eDBBRk1nVE1RTUMxQklMTDNjWWJheFBKRTRoaEtWUEVfZ19SLU1VaERNd1Zhcmg4ZkhadWxlRmx6QlNRdWc?oc=5",
+   "desc": "RBI Raises FY27 GDP Growth Forecast to 6.7%, Lowers CPI Inflation Projection to 5%  Thekanal",
+   "source": "Indian Economy",
+   "publisher": "Thekanal",
+   "scope": "india",
+   "ts": 1786028978000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZDBLeWtrX2ZLLWtFdGd5VEdCMmh4bHRDZlNlTGt2NnRRQmtrMEdYRU14eW05X2tDaWQyR2s0MzUtbzIwbjl2RkJESUxKeWhGMjZaenM0TWFUNzRwVGpqbXFjaVlpWVhIaWFHeGdhenJoeWFzdmd",
@@ -200,16 +190,6 @@
    "publisher": "Moneycontrol.com",
    "scope": "india",
    "ts": 1786028140000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ0VGTS1aUEZMdEFuMGFjS2ZMWUFRaU1fbzVvT0NpWGVvam12NzVGMHVUVFNUSWhSWVFjTHpuWko2SVBSZWlyb09DTDZCRWl0U0M2QmlOTnpGdk1hQmZoT2ppRGl0OGFtVDN2MXFrU0RVTkFLMUQ",
-   "title": "Lisa Cook Says The Fed Is Prepared To Raise Rates Again If Inflation Stalls - thewealthadvisor.com",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ0VGTS1aUEZMdEFuMGFjS2ZMWUFRaU1fbzVvT0NpWGVvam12NzVGMHVUVFNUSWhSWVFjTHpuWko2SVBSZWlyb09DTDZCRWl0U0M2QmlOTnpGdk1hQmZoT2ppRGl0OGFtVDN2MXFrU0RVTkFLMUQ0T2ctQnI4djlVeERMUGkxbGNKamlyOVlwRmNBX0Z3bTVxQ2h3a29oRlpveEV3TjRoQVFhQQ?oc=5",
-   "desc": "Lisa Cook Says The Fed Is Prepared To Raise Rates Again If Inflation Stalls  thewealthadvisor.com",
-   "source": "US Fed",
-   "publisher": "thewealthadvisor.com",
-   "scope": "world",
-   "ts": 1786027952000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ0JMekktRV82STg2QlBIU0JHQWhQeTZpYTZQWUlNS1VsVWp1azBqOWwtcVlyTjMtSkgxNWVYT2tUZXg2aDFaSGowQ1Q3QTVaam5oVnU0SGZKeWpuczUtTlJfQnVLV2NYNDBYRGpYM3NlUnRJZzd",
@@ -230,6 +210,16 @@
    "publisher": "Pragativadi",
    "scope": "india",
    "ts": 1786026996000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcm9lYTc0LV93VVV2X0k1R1ZXa0puSE9PQk5WbzlQYjBqZG1QNkhlb2tpekk4RlJReWtnN182Y0ZReVVZMnAzRXFEUTBDUHdCVUFTaHVOcjUxcXR6TGVtQjV2SlpmaXJSMmptRS11WE9aV0hmb1F",
+   "title": "Federal Reserve's Lisa Cook tells Anchorage business crowd she's 'firmly committed' to bringing down inflation - InsuranceNewsNet",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcm9lYTc0LV93VVV2X0k1R1ZXa0puSE9PQk5WbzlQYjBqZG1QNkhlb2tpekk4RlJReWtnN182Y0ZReVVZMnAzRXFEUTBDUHdCVUFTaHVOcjUxcXR6TGVtQjV2SlpmaXJSMmptRS11WE9aV0hmb1F4Mm5DdGVNYUZmLXp2ZS1xTDlwWjhDdkYydFFELV91MWpqWDlDRnV6Y2s3dWE3ZFdhUklSdlhuem9qOGJwa0xZZVZSNWhRbERVOXdZMEdiS2kwRDUwUkZTNlFnVzhGTXRtd0piN3Zp?oc=5",
+   "desc": "Federal Reserve's Lisa Cook tells Anchorage business crowd she's 'firmly committed' to bringing down inflation  InsuranceNewsNet",
+   "source": "US Fed",
+   "publisher": "InsuranceNewsNet",
+   "scope": "world",
+   "ts": 1786026190000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcWRLY2hxMDRQcmI0RDZqZ2lBUUJWLUtIOTVhZ1YxRWJGTGFUc0R2MkdCeW5vbHVxM05KSld0ZDNFZmNBcF9Qa1pYc3JWaFNJSFMtYlVJWDdkTDU3Vl9xZWlIVGdNYTcwdWNMLVR1cHdSTG9kaVU",
@@ -303,11 +293,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFoyTFVDdW5XamU1QkN0b3doaHhuMm5USE1iUUhQT3d5cDhLanJwY0NJWHJpYUZaSXVnNnB2TGtJeVM2V2pZNWJycXkyUTU3OFhoZXBpbDV1MDVqS0lncnN6YzdCUmVLdFp6QkxvMk5mUENzLXF",
-   "title": "Kevin Warsh to stick with lean Fed messaging despite market backlash - Financial Times",
+   "title": "Kevin Warsh to stick with lean Fed messaging despite market backlash - ft.com",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFoyTFVDdW5XamU1QkN0b3doaHhuMm5USE1iUUhQT3d5cDhLanJwY0NJWHJpYUZaSXVnNnB2TGtJeVM2V2pZNWJycXkyUTU3OFhoZXBpbDV1MDVqS0lncnN6YzdCUmVLdFp6QkxvMk5mUENzLXFIYUFMek52alR2NEdQUmg?oc=5",
-   "desc": "Kevin Warsh to stick with lean Fed messaging despite market backlash  Financial Times",
+   "desc": "Kevin Warsh to stick with lean Fed messaging despite market backlash  ft.com",
    "source": "US Fed",
-   "publisher": "Financial Times",
+   "publisher": "ft.com",
    "scope": "world",
    "ts": 1786014009000
   },
@@ -352,24 +342,14 @@
    "ts": 1786008969000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV3l1THh3MU5HXzN4ZHhRd3duWFpENWQxcGYxZEk2YUMwS3h1akZPLW5CY1dWRS1Ed0hiV2pPZFgzM2c0enZJUVFJakVEQU4wLV9KWkVlQ2VnTDM4T1FacmN2Vk5tWEg4QUdQaXowbVpWU1BONTh",
-   "title": "The Federal Reserve's Initial August Inflation Forecast Has Arrived, and It Contains a Glaring Red Flag That Can Come Back to Bite Wall Street - The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV3l1THh3MU5HXzN4ZHhRd3duWFpENWQxcGYxZEk2YUMwS3h1akZPLW5CY1dWRS1Ed0hiV2pPZFgzM2c0enZJUVFJakVEQU4wLV9KWkVlQ2VnTDM4T1FacmN2Vk5tWEg4QUdQaXowbVpWU1BONThxWlNvYkluLTZpUkJKVUNJa19tQmJ2cTZYdzJZRDhnU2Vj?oc=5",
-   "desc": "The Federal Reserve's Initial August Inflation Forecast Has Arrived, and It Contains a Glaring Red Flag That Can Come Back to Bite Wall Street  The Motley Fool",
+   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObHZHSW9GaVJLRUZsdkUyZk42RmM4TGhZVWN2cTRRRDFRVE5INElLQnVVQ0JlR293MzNiS1F4NHZBa2VBOWxYNjRkZHZZSkU5Ni1za2FfQXdGWW5LMUNYZE5LVWlmTXV1aERKaDkxWXo4aEJjVzB",
+   "title": "Gold stays elevated as easing energy concerns temper Fed rate expectations - Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObHZHSW9GaVJLRUZsdkUyZk42RmM4TGhZVWN2cTRRRDFRVE5INElLQnVVQ0JlR293MzNiS1F4NHZBa2VBOWxYNjRkZHZZSkU5Ni1za2FfQXdGWW5LMUNYZE5LVWlmTXV1aERKaDkxWXo4aEJjVzBSUmhTSDlyd0tTWHlISGhDQURJTlE?oc=5",
+   "desc": "Gold stays elevated as easing energy concerns temper Fed rate expectations  Yahoo Finance UK",
    "source": "US Fed",
-   "publisher": "The Motley Fool",
+   "publisher": "Yahoo Finance UK",
    "scope": "world",
-   "ts": 1786007160000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUmxHaVdYa3JhSHAwdGt1UGpQZzgtRk9PTFQ0djg1ZUVqZUo2ZEtxQWtSX1pERjJKb0JCdXNxbTFUazhXa3lCMkNFU1dMckRJOGpjQ2NLRVJrNmE5ZDhfY18ybHlRZzAxMlBaTnUyQ1pyazg0Q1V",
-   "title": "Indian markets end higher on easing crude prices, RBI policy support; Sensex gains 374 pts - indiagazette.com",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUmxHaVdYa3JhSHAwdGt1UGpQZzgtRk9PTFQ0djg1ZUVqZUo2ZEtxQWtSX1pERjJKb0JCdXNxbTFUazhXa3lCMkNFU1dMckRJOGpjQ2NLRVJrNmE5ZDhfY18ybHlRZzAxMlBaTnUyQ1pyazg0Q1VWZTVWQVBPZXJPU3h2RXFoMnJzTF80N09CWHVMdElWbTVqdjUxcUNPdW1MX3ZsbDhBS2M4RXZMU2UzMEtCeUd0S1RudFhMQlVLYTlMdi03Sy1PZmJGaEw?oc=5",
-   "desc": "Indian markets end higher on easing crude prices, RBI policy support; Sensex gains 374 pts  indiagazette.com",
-   "source": "RBI",
-   "publisher": "indiagazette.com",
-   "scope": "india",
-   "ts": 1786006860000
+   "ts": 1786008774000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaENUZWFKOFQ2d1A3YVVqeUNCSE9DeEtFY0dlZzN6ampHRFAwWjlSRzVSNDhmdFNiWHpub1A0Z05sOC05RGNrV3hQWDZ0RGs1Ry1iTXFFZ2hSVGhrZmpRTk5kVnNrdFBsbWpxUDhhZUF1bHc1TFM",
@@ -380,26 +360,6 @@
    "publisher": "CNBC",
    "scope": "world",
    "ts": 1786006536000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMW5VRVJDT0hiR3VzNTdiYlRVdlEwb1VSRmdLZGlSQTNwbWpZWE1ua2hhc0x0eHM5Z1Y0OGJvdXN6MnZjQW1NeFJGY2t3dVIyV1RER1BDX3Rxc1djbU9kczlfRFE1R2lVSmhTaVBySVhGZ3lCbW1",
-   "title": "RBI Keeps Repo Rate Unchanged At 5.25%; Industry Sees Stability, Confidence And Growth Outlook Strengthen. - TRIPURA STAR NEWS",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMW5VRVJDT0hiR3VzNTdiYlRVdlEwb1VSRmdLZGlSQTNwbWpZWE1ua2hhc0x0eHM5Z1Y0OGJvdXN6MnZjQW1NeFJGY2t3dVIyV1RER1BDX3Rxc1djbU9kczlfRFE1R2lVSmhTaVBySVhGZ3lCbW12Y2I4U0NCQlJLeVVoT3JYM3EzY2VBMGU3UmFIZjVBR0pOcUk0YkkxNS15MGdia0x3QUZ0aFJBQlFNWG1Na0xqMVRXXy1mYS1zN09iUXlnTVN1cDJMQ012NVRO?oc=5",
-   "desc": "RBI Keeps Repo Rate Unchanged At 5.25%; Industry Sees Stability, Confidence And Growth Outlook Strengthen.  TRIPURA STAR NEWS",
-   "source": "RBI",
-   "publisher": "TRIPURA STAR NEWS",
-   "scope": "india",
-   "ts": 1786003107000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBER2g3XzBfNUl6blNRb1hDdGNXaDNIMnZOU0p5OUhmZm1JNU5BQ0d2N0ZjLVQ1YUJ1eWFweS1KeXZDcmc5c2Y5X3lidGN2NDVmZUZzVUs4RDhXUXdITnh1eUtWa0t1eGFqMlpFMXE1cnRxN2JndG9",
-   "title": "Federal Reserve Bitcoin Impact Shapes Market Behavior in 2026 - The Cryptonomist",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBER2g3XzBfNUl6blNRb1hDdGNXaDNIMnZOU0p5OUhmZm1JNU5BQ0d2N0ZjLVQ1YUJ1eWFweS1KeXZDcmc5c2Y5X3lidGN2NDVmZUZzVUs4RDhXUXdITnh1eUtWa0t1eGFqMlpFMXE1cnRxN2JndG93Xw?oc=5",
-   "desc": "Federal Reserve Bitcoin Impact Shapes Market Behavior in 2026  The Cryptonomist",
-   "source": "US Fed",
-   "publisher": "The Cryptonomist",
-   "scope": "world",
-   "ts": 1786002765000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZllaUjktVkF0QVNJakJhWjRxYzEtSE5uUnJZNk91M2lWNEstNWhVZ2tXVU1FZzlkdkZ0VTJ0b2x1NElPOVFoZFpfZmV0VFJJeFE3NjE2cmRCUmNrSk9IUFVkeEsyWVBwRERxZUxtTnQ5ZXVGemd",
@@ -443,11 +403,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVkJnLUhIWThPTFFxbV9ERmZkNVQ1SGY5X2pjOUlsVWhXQmNNc3NQd1FwRHdWc29fbE5uY0Y3U1FpMkZDckswRG1fRWtMT1dwWHpUQVdtUFVkdmdhZXM3RnNENXJEN0ExS1paSFltSV9tV3Jwdmd",
-   "title": "Will UPI remain free to use? | Explained - thehindu.com",
+   "title": "Will UPI remain free to use? | Explained - The Hindu",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVkJnLUhIWThPTFFxbV9ERmZkNVQ1SGY5X2pjOUlsVWhXQmNNc3NQd1FwRHdWc29fbE5uY0Y3U1FpMkZDckswRG1fRWtMT1dwWHpUQVdtUFVkdmdhZXM3RnNENXJEN0ExS1paSFltSV9tV3JwdmdUZjcwZnN0aXVuMmphdFFLVGVuNW15NS1LNFVLdENZUGfSAZwBQVVfeXFMUHdsTktUbmgwRi1yQW1XUWR3Q05iZ2NUUzJqMWo5Vm93cFNBUzdjSjFJai1xNS1wR293MVlIRWF0TmhKbmVHd0JoT0MzemJuOXczcTk0b1hHcm83aUtFMU5wQkNNcmlpazVMSEt5dWxiWm94WWk3cjVxdkR2QWhRajc4endSYnZzWGdlV2tBQWxFeVJNQnR0LVQ4SUxl?oc=5",
-   "desc": "Will UPI remain free to use? | Explained  thehindu.com",
+   "desc": "Will UPI remain free to use? | Explained  The Hindu",
    "source": "RBI",
-   "publisher": "thehindu.com",
+   "publisher": "The Hindu",
    "scope": "india",
    "ts": 1785997974000
   },
@@ -482,9 +442,9 @@
    "ts": 1785995278000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWkJDcC1lTkV1ZWpzVWdjY3d2T3VReDVNbHZpUU1TUFNhRFk5U1AzN2w1QU5RVmdSdkkxalVyU0FPU29IZnlwV3FYb1NUSFVNNTd0QlJSUnp5SWJoNHV0c1R6Q1VSMVZUelpUUDRIUjJEaTE1SEt",
+   "id": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTWJaX0hrTFFrR0lKMXJIS01SaUJOcmR2MzJZV2wwQ1hDWDZhSjBGSW52a2V0U2NqaDdwWGVMcWNOX3lsM1llYVVQRTZhTGtjZHFqdThjZk04eS1HUzgtX0NhYkNYOUxiZ0VkQWs5QThQSXpjVUN",
    "title": "Consumer companies' price hikes may keep core inflation elevated despite RBI's benign outlook: Report - BFSI News",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWkJDcC1lTkV1ZWpzVWdjY3d2T3VReDVNbHZpUU1TUFNhRFk5U1AzN2w1QU5RVmdSdkkxalVyU0FPU29IZnlwV3FYb1NUSFVNNTd0QlJSUnp5SWJoNHV0c1R6Q1VSMVZUelpUUDRIUjJEaTE1SEtFU19OMHRYMjRnN2ZETDlPQTZuVXl5VnFjN2c2Z2U1ek1yYlhGVlo5SGpiYXE0STUxdWFOX21jeDJuZUhWaVFfS0xOLUtGZlNCelB2aEh0M1ZPWWRZeVNhQXNqLW94S0w1Q3dmZUFrcEx2cGhIdG5GNzZsTWIyN2xtbXXSAfYBQVVfeXFMUE1iWl9Ia0xRa0dJSjFySEtNUmlCTnJkdjMyWVdsMENYQ1g2YUowRkludmtldFNjamg3cFhlTHFjTl95bDNZZWFVUEU2YUxrY2RxanU4Y2ZNOHktR1M4LV9DYWJDWDlMYmdFZEFrOUE4UEl6Y1VDYjRLR2ZhemFkWVdoN0RIcGxRS2xsXzh0SmNrYlFNZ1o1TGswNW8yRFItWjdzYnJnZkcxNS1pVk80aFlQUllDWTBRd3lrQkNEU1laRHVIV3RUbEpGM3d5bktiQzA2dndVVXFoZnJCVDdQVi12dDBDMXZQa2NYN0xrSWpKcnhVWGVn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTWJaX0hrTFFrR0lKMXJIS01SaUJOcmR2MzJZV2wwQ1hDWDZhSjBGSW52a2V0U2NqaDdwWGVMcWNOX3lsM1llYVVQRTZhTGtjZHFqdThjZk04eS1HUzgtX0NhYkNYOUxiZ0VkQWs5QThQSXpjVUNiNEtHZmF6YWRZV2g3REhwbFFLbGxfOHRKY2tiUU1nWjVMazA1bzJEUi1aN3NicmdmRzE1LWlWTzRoWVBSWUNZMFF3eWtCQ0RTWVpEdUhXdFRsSkYzd3luS2JDMDZ2d1VVcWhmckJUN1BWLXZ0MEMxdlBrY1g3TGtJakpyeFVYZWfSAfYBQVVfeXFMUE1iWl9Ia0xRa0dJSjFySEtNUmlCTnJkdjMyWVdsMENYQ1g2YUowRkludmtldFNjamg3cFhlTHFjTl95bDNZZWFVUEU2YUxrY2RxanU4Y2ZNOHktR1M4LV9DYWJDWDlMYmdFZEFrOUE4UEl6Y1VDYjRLR2ZhemFkWVdoN0RIcGxRS2xsXzh0SmNrYlFNZ1o1TGswNW8yRFItWjdzYnJnZkcxNS1pVk80aFlQUllDWTBRd3lrQkNEU1laRHVIV3RUbEpGM3d5bktiQzA2dndVVXFoZnJCVDdQVi12dDBDMXZQa2NYN0xrSWpKcnhVWGVn?oc=5",
    "desc": "Consumer companies' price hikes may keep core inflation elevated despite RBI's benign outlook: Report  BFSI News",
    "source": "RBI",
    "publisher": "BFSI News",
@@ -492,42 +452,22 @@
    "ts": 1785994606000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0l1VTRYWDNRczRHUDI5NW1qWWxTX1JwWkNCaGVhR0xEWi1OVkxtSUpxZzFkOUgyR3RxRlNNV2g2SWpybjQxM1ZqRTh0U1hVZ2UwZGVtNkNtUVNfYVJFU0pER015eXJpTWJjVFRWYV9tNzVqX2R",
-   "title": "How Rising Oil Prices Affect the Stock Market - schaeffersresearch.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0l1VTRYWDNRczRHUDI5NW1qWWxTX1JwWkNCaGVhR0xEWi1OVkxtSUpxZzFkOUgyR3RxRlNNV2g2SWpybjQxM1ZqRTh0U1hVZ2UwZGVtNkNtUVNfYVJFU0pER015eXJpTWJjVFRWYV9tNzVqX2RNVk81T1FEMkZlR3J5anFvLWxBend3aXBEUnZpRDNyU3F0VXpoNldQVkQwOUdCRVFNSGl5WnRtaWc?oc=5",
-   "desc": "How Rising Oil Prices Affect the Stock Market  schaeffersresearch.com",
-   "source": "US Fed",
-   "publisher": "schaeffersresearch.com",
-   "scope": "world",
-   "ts": 1785993992000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWmpYN0RrNFUtaEtBVnZYMU53MVhrd2psbDJVU01PSjFUbTFTWVZrbXkxT2lOdXZiaThQQVBoR0JwRHRyWHRfYndTUXBSbEtFcFMzbTd6NU8yYUxEX0gzbndCdXlSRlI0NnZPdEJUc1BBN28tXzN",
-   "title": "Stock Markets Today: Sensex, Nifty gain as RBI holds rates, crude oil dips - Rediff",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWmpYN0RrNFUtaEtBVnZYMU53MVhrd2psbDJVU01PSjFUbTFTWVZrbXkxT2lOdXZiaThQQVBoR0JwRHRyWHRfYndTUXBSbEtFcFMzbTd6NU8yYUxEX0gzbndCdXlSRlI0NnZPdEJUc1BBN28tXzNfUndVb2tnbUF3QnpBaURIS2UwYWZyRVBZMTNQVklFQVFLeUtLcXg3LWVPTHhLZEFVVldvVGdVRVllYjQ2cWE4bHpsXzNNUHBXYlpObkFqTUVkYjg1bml1aXkyM1RvZ19ueEhDTF9EakHSAeABQVVfeXFMT3V1YWpWdl9ZY2Zyb1Z0SmMyczJwLXpoQkhJbGZBRWd1VWdyb3pteEZ2RHNmandBcjFCZTlGbHdJR0R0bGNhQ2JzRF9KUlF2YWNGOURtVWNUWmdoWkNJQ0UycXpjVGRoUEl1SGV6WVNGeXJ3dDVYUGN6YkxKeU52aDdJbUdUak1mRE1fbU9BbFh4TXFQZmdsUjJSd29Ra2MwN2t2VG5OVEcteEwxVnhHdVkyY0NaOE1vaWZzRTdEYy1lRW1oQ2t6N2JCTENCbld3WVItTzBnaDhOT1gzWWlXSWk?oc=5",
-   "desc": "Stock Markets Today: Sensex, Nifty gain as RBI holds rates, crude oil dips  Rediff",
+   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQWJUa0V1RUlPWXE3RW9pZmJ2MTVCRFpoanBQenRDRTZzMEppazM0V1BQZTNkMnFVMjFwY1FJX28zUHVMZ0R6S2tmb0ZSRkt0NVRrQXBLcGVfYnQ5YUQ3Yzh1M0daNG1oaTRjVGlmaTBKVUlCNHp",
+   "title": "Rupee gains 13 paise to close at 95.15 against US dollar post-RBI policy decision - Nagaland Post",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQWJUa0V1RUlPWXE3RW9pZmJ2MTVCRFpoanBQenRDRTZzMEppazM0V1BQZTNkMnFVMjFwY1FJX28zUHVMZ0R6S2tmb0ZSRkt0NVRrQXBLcGVfYnQ5YUQ3Yzh1M0daNG1oaTRjVGlmaTBKVUlCNHpJVHlQVGUyUlZsSXVsazJsd25oel8teEZwV0huV0QxQVlxSGt0MkpQRVFfRkdhX2ZnUlAxOW8?oc=5",
+   "desc": "Rupee gains 13 paise to close at 95.15 against US dollar post-RBI policy decision  Nagaland Post",
    "source": "RBI",
-   "publisher": "Rediff",
+   "publisher": "Nagaland Post",
    "scope": "india",
-   "ts": 1785993878000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOW1RUUNkbG9hMWdIVGJnUVFZaHdZV0hLXzB5QWFleDZqSEtBTzBBUkVOMXFMZXdJc3dlV1h1MXF2dHE4dHo5MUcwS2pCSU0zZnl1c2ZZcmNjb0I0NWwtTV91TzZneG9RRXhkNGptckNrY2FhSnd",
-   "title": "Dependence on gold remains key economic risk for Ghana – IMF cautions - Ghana Business News",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOW1RUUNkbG9hMWdIVGJnUVFZaHdZV0hLXzB5QWFleDZqSEtBTzBBUkVOMXFMZXdJc3dlV1h1MXF2dHE4dHo5MUcwS2pCSU0zZnl1c2ZZcmNjb0I0NWwtTV91TzZneG9RRXhkNGptckNrY2FhSndXMkFuYWExSzhXSzFncHpqT1BMYkI5R3hpdWprS2dMb2E5cnQ4ZHRDRlpYOGluTzBTN0tTTHRGeEpHbWF6UQ?oc=5",
-   "desc": "Dependence on gold remains key economic risk for Ghana – IMF cautions  Ghana Business News",
-   "source": "IMF / World Bank",
-   "publisher": "Ghana Business News",
-   "scope": "world",
-   "ts": 1785993597000
+   "ts": 1785993742000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JVnBYVDQyMGU1ZTNTWU51ZWQxUFBTLXRiaVdOWU5sbk9Mbno0a3ZKaWVXaUhUMmFwMmE1TW14OWdBekRCa0ZBdkdNeVNVcXZ3d1hia01IbWd2WnIxM0JQRHFmT0JKdDdRTGxSMTBqaHQ?oc=5",
-   "title": "The trends in central bank research papers - Financial Times",
+   "title": "The trends in central bank research papers - ft.com",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JVnBYVDQyMGU1ZTNTWU51ZWQxUFBTLXRiaVdOWU5sbk9Mbno0a3ZKaWVXaUhUMmFwMmE1TW14OWdBekRCa0ZBdkdNeVNVcXZ3d1hia01IbWd2WnIxM0JQRHFmT0JKdDdRTGxSMTBqaHQ?oc=5",
-   "desc": "The trends in central bank research papers  Financial Times",
+   "desc": "The trends in central bank research papers  ft.com",
    "source": "ECB / Europe",
-   "publisher": "Financial Times",
+   "publisher": "ft.com",
    "scope": "world",
    "ts": 1785990602000
   },
@@ -542,6 +482,16 @@
    "ts": 1785989007000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcXdabTZ4REFFeHd4Zld3UWlfT1NOT2VkWkc3dEpjdEJDY29jdVVlVmhiM3Z5eGkzcDlDOEtZN1BQd3dvOEpBUmNqbm1fMzhDUkR4UVFhQjkzQk1IUTlNX2dZYmZiTk10dG1fUWdYNEo4SC00ZGp",
+   "title": "Federal Reserve’s Lisa Cook tells Anchorage business crowd she’s ‘firmly committed’ to bringing down inflation - Anchorage Daily News",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcXdabTZ4REFFeHd4Zld3UWlfT1NOT2VkWkc3dEpjdEJDY29jdVVlVmhiM3Z5eGkzcDlDOEtZN1BQd3dvOEpBUmNqbm1fMzhDUkR4UVFhQjkzQk1IUTlNX2dZYmZiTk10dG1fUWdYNEo4SC00ZGp1a19qUkduZGVTUVRyRzdMaDNqRE1UMVpQV3dMTzN0N09saFVQZW5DaHZIWHBzZUdJMzEzaWpfa2hpSlVCbm9OelpQMHZ3ZUtpcElyVUgwRGlRWC1GRHVTTnJfR1FnVGR1TU5DdU82cFRjU0VFVjlxN2lsV3o4?oc=5",
+   "desc": "Federal Reserve’s Lisa Cook tells Anchorage business crowd she’s ‘firmly committed’ to bringing down inflation  Anchorage Daily News",
+   "source": "US Fed",
+   "publisher": "Anchorage Daily News",
+   "scope": "world",
+   "ts": 1785984494000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmswWlRrT3Z0MlI4MXpLSTBFM1VBd29mRFJiZEdiUWlsQmZkUUZRVUI3S25zU3ZYOWhlakxuSkxFZUhfcUxoZThKcGVHaExyMzRGQkoxOS1UdnhER0MxQW9OMVBMY0E4Skx5RnBlSzJSbjFQd1J",
    "title": "India’s GDP likely to grow by 6.7 per cent, says RBI - The Shillong Times",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmswWlRrT3Z0MlI4MXpLSTBFM1VBd29mRFJiZEdiUWlsQmZkUUZRVUI3S25zU3ZYOWhlakxuSkxFZUhfcUxoZThKcGVHaExyMzRGQkoxOS1UdnhER0MxQW9OMVBMY0E4Skx5RnBlSzJSbjFQd1JVOVdhTVBzR2xkSnZ1ZUxyTDRRbG94ZzRvZUFTQ1BXVFE?oc=5",
@@ -550,26 +500,6 @@
    "publisher": "The Shillong Times",
    "scope": "india",
    "ts": 1785984115000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcXdabTZ4REFFeHd4Zld3UWlfT1NOT2VkWkc3dEpjdEJDY29jdVVlVmhiM3Z5eGkzcDlDOEtZN1BQd3dvOEpBUmNqbm1fMzhDUkR4UVFhQjkzQk1IUTlNX2dZYmZiTk10dG1fUWdYNEo4SC00ZGp",
-   "title": "Federal Reserve’s Lisa Cook tells Anchorage business crowd she’s ‘firmly committed’ to bringing down inflation - Anchorage Daily News",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcXdabTZ4REFFeHd4Zld3UWlfT1NOT2VkWkc3dEpjdEJDY29jdVVlVmhiM3Z5eGkzcDlDOEtZN1BQd3dvOEpBUmNqbm1fMzhDUkR4UVFhQjkzQk1IUTlNX2dZYmZiTk10dG1fUWdYNEo4SC00ZGp1a19qUkduZGVTUVRyRzdMaDNqRE1UMVpQV3dMTzN0N09saFVQZW5DaHZIWHBzZUdJMzEzaWpfa2hpSlVCbm9OelpQMHZ3ZUtpcElyVUgwRGlRWC1GRHVTTnJfR1FnVGR1TU5DdU82cFRjU0VFVjlxN2lsV3o4?oc=5",
-   "desc": "Federal Reserve’s Lisa Cook tells Anchorage business crowd she’s ‘firmly committed’ to bringing down inflation  Anchorage Daily News",
-   "source": "US Fed",
-   "publisher": "Anchorage Daily News",
-   "scope": "world",
-   "ts": 1785984083000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYkE3WlZMSzhSVm5fbjkwR2plbmNZQVU4RVRsOElYNFZvUkpQLWYtdGZRRFJUSjE0Wm43UHpweERUVFdjZEdZQ0U1d1QzZ1Z3S01ESW5qUmpUSGh2QTVVV0ZZYXN2bGUyRGhhSGg0Sm16c29uNjd",
-   "title": "India bonds seen steady; upside bias after dovish RBI policy - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYkE3WlZMSzhSVm5fbjkwR2plbmNZQVU4RVRsOElYNFZvUkpQLWYtdGZRRFJUSjE0Wm43UHpweERUVFdjZEdZQ0U1d1QzZ1Z3S01ESW5qUmpUSGh2QTVVV0ZZYXN2bGUyRGhhSGg0Sm16c29uNjd2UGN5LVJkS3NFRk9rb0RzRS1DUDZVNGxPUk16Yk5RTTJEY0xhcGY2ZmdNdm5QbzZzWXN3UDF3cUM2TzRDWWtaVUJMeFJwNVd3b0Z1SmlzQjhsaA?oc=5",
-   "desc": "India bonds seen steady; upside bias after dovish RBI policy  TradingView",
-   "source": "RBI",
-   "publisher": "TradingView",
-   "scope": "india",
-   "ts": 1785982860000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNk1JejVNUm1tb01JeXFsYnVELTBicU5maDh4NEMxZkVXNnh3U2FJQ05JbWo4ZnFzdlVzZEN5Tks2Mnh4OVEyYno4Rk5NMFRzYVhKSEdXdURtY0wtdVFXSm9KajM0eTBRaXFkd2hpSmhNcWZsUWp",
@@ -583,11 +513,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmY1OTBseVNOZFM4X3M4MmNEem0welNsVnhLZF9Qb0N6Mnhzc1gzOXY0NUdIV3FCNXdnUGNmUkp5R1ZjQVVIaWgxVmJ6NEdGa3UyZFd0eXE4N0hxbWlFZHpXMUFPbVJ4ZzV4ZGJGQmZKVmxpc0d",
-   "title": "RBI Governor says outlook hazy, need clarity before taking any policy action - The Indian Express",
+   "title": "RBI Governor says outlook hazy, need clarity before taking any policy action - indianexpress.com",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmY1OTBseVNOZFM4X3M4MmNEem0welNsVnhLZF9Qb0N6Mnhzc1gzOXY0NUdIV3FCNXdnUGNmUkp5R1ZjQVVIaWgxVmJ6NEdGa3UyZFd0eXE4N0hxbWlFZHpXMUFPbVJ4ZzV4ZGJGQmZKVmxpc0dtR3lIVEJGMmc4YVNndnRaTTlnWmZFajF3Y2xDeEdwNGNVeVdMSENBMmotVFNrUGhSMzBjS2ljTFY2cEQzLUFHdHhDRTlTdjExYjRsSlN2WkluYjEwOXlSN0kt0gHXAUFVX3lxTE9CckpjMzlGNERNbENweXQ2U2ZrNmpobmlQR2xaa1dRWWFnM2p5bV9HRGdVVHd0UTFZNUNCN1hVZ2RhZWhWTlNyTFdGdVVsRkVtNWpkelNtVVFvREpKSEIzb0M5c0hOcHB1OXltTjhhM0lHaEcwRFpnamdCMjZvczBmd2J0ZG1rUk9mXzBPdzJvQWpFSHVwcXZleWc5ZFBzcjJSbS1GeVFHc29scUtnbWhxYnV5N21zWGZoNTdHUGprOGcxX0pFRTZYOUw0c19kNUdYMFFXTDZr?oc=5",
-   "desc": "RBI Governor says outlook hazy, need clarity before taking any policy action  The Indian Express",
+   "desc": "RBI Governor says outlook hazy, need clarity before taking any policy action  indianexpress.com",
    "source": "RBI",
-   "publisher": "The Indian Express",
+   "publisher": "indianexpress.com",
    "scope": "india",
    "ts": 1785976946000
   },
@@ -643,11 +573,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRTRJRm1DM2tjeGo0SWtQTXJySjJHbHNCNFhrMGRCR2ZNdWlkSWk4ZnpFYWoxd2xBeGtMVWxhelVRZ2FiOXh2UVpCWXZJZ19qajU5V3gzTTk5WmJmZnpYOFlrQ2RjTnNTazBseV9MWHV1QXozeVp",
-   "title": "Is the Fed About to Pop the AI Debt Bubble? - MarketWise",
+   "title": "Is the Fed About to Pop the AI Debt Bubble? - marketwise.com",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRTRJRm1DM2tjeGo0SWtQTXJySjJHbHNCNFhrMGRCR2ZNdWlkSWk4ZnpFYWoxd2xBeGtMVWxhelVRZ2FiOXh2UVpCWXZJZ19qajU5V3gzTTk5WmJmZnpYOFlrQ2RjTnNTazBseV9MWHV1QXozeVpaOGdPN1FlTlkxWWVtM0xxMHJ3UFoxNE9weHZMU04xamdNbjlLWWJKeklHRVUxWg?oc=5",
-   "desc": "Is the Fed About to Pop the AI Debt Bubble?  MarketWise",
+   "desc": "Is the Fed About to Pop the AI Debt Bubble?  marketwise.com",
    "source": "US Fed",
-   "publisher": "MarketWise",
+   "publisher": "marketwise.com",
    "scope": "world",
    "ts": 1785961247000
   },
@@ -662,42 +592,32 @@
    "ts": 1785960789000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmk1M3dMLV81cGxINUJTTjY2dDZvZ2Y4Q05kUzJ2QXdjcTdnd2lGRE9MQy1ZWm05d2JVVnFNdGlEVDBhbmY4WUFiWi0zaW1tSTAwdm1uRWxlaVFZbHFSTkt6aDBhQm95cFEwdjM3a1YwVHBrZzF",
-   "title": "Fed's Cook ready to hike rates 'if necessary' - American Banker",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmk1M3dMLV81cGxINUJTTjY2dDZvZ2Y4Q05kUzJ2QXdjcTdnd2lGRE9MQy1ZWm05d2JVVnFNdGlEVDBhbmY4WUFiWi0zaW1tSTAwdm1uRWxlaVFZbHFSTkt6aDBhQm95cFEwdjM3a1YwVHBrZzFCcFM4V2h1a1hYRi1nQVU?oc=5",
-   "desc": "Fed's Cook ready to hike rates 'if necessary'  American Banker",
+   "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRVJsNVoxWEpmUVZNWm9RNDVVRmtKZ2FmR18zWXZ6QVM0ZXdEWmVCX0tvVzRIVVduYkxkNW8xNGdaODhTRUFBRk0zck1TdGNLdGZRdUs3ZWtHNGJ0N2stMnVuTEktd3BmaUhTMVF2b1R1VEFfdkI",
+   "title": "Will the Fed hike rates in September? A 25-basis-point move is now expected: Why July’s hold has ‘lowered the bar’ - Chase Bank",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRVJsNVoxWEpmUVZNWm9RNDVVRmtKZ2FmR18zWXZ6QVM0ZXdEWmVCX0tvVzRIVVduYkxkNW8xNGdaODhTRUFBRk0zck1TdGNLdGZRdUs3ZWtHNGJ0N2stMnVuTEktd3BmaUhTMVF2b1R1VEFfdkI2dHJ5N3QtaGpranJHS0ZKNWZZOWNpTnY0QXd3LXBhWTFoZFYxWUl6RW9VMlpXTkI4TC1sci1rQ21nSkE5SjFfUzI3cEFIaHhEV2YtYl9TWFR1Uw?oc=5",
+   "desc": "Will the Fed hike rates in September? A 25-basis-point move is now expected: Why July’s hold has ‘lowered the bar’  Chase Bank",
    "source": "US Fed",
-   "publisher": "American Banker",
+   "publisher": "Chase Bank",
    "scope": "world",
-   "ts": 1785960540000
+   "ts": 1785960316000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQmgxRTM2Y0lkZXI1X2t6b0VuRlowa2t6WVd6dWpDQTNHU0tMNDkzRGtlbTc4b1JPNnEzZkpoSUpheFZGajVPSDFqUW9uWFhNclJ6ck5fbGxNNjI1aFktQ1Y3YlFCb3NUMUFUUktlSXNURjZaQnN",
-   "title": "Fed's Kashkari says central bank should raise interest rates now to avoid 'entrenched inflation problem' - Fox Business",
+   "title": "Fed's Kashkari says central bank should raise interest rates now to avoid 'entrenched inflation problem' - foxbusiness.com",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQmgxRTM2Y0lkZXI1X2t6b0VuRlowa2t6WVd6dWpDQTNHU0tMNDkzRGtlbTc4b1JPNnEzZkpoSUpheFZGajVPSDFqUW9uWFhNclJ6ck5fbGxNNjI1aFktQ1Y3YlFCb3NUMUFUUktlSXNURjZaQnNHYlZwX09uQVBFV0Y1LTdPU1NQWEhCZFpmOFpycF9rdWJSRXJ6RXhWNnRUclpkTFdRalFnUDZkd2dQRnpMUmoyOTkxd3h6MGRGNUpmckVKSzRMY3YtcFhkR0nSAdQBQVVfeXFMUDNHVVVlMzU2QU52VmJmNW90U0VuWEhVR3I4QV9HanBsVEZQSlhVa2RacnB0MU1rTUM3dUlBODVGV1dZZnZoeTRWb3ZaeVBMTHpiSEk4clY1aWhOcGNha293OGY2M1EzQzctTTJfX0JCYWhsbTNNZ0RxOWh2Z2FMUnJZR0VwV1FtNG5wd1NVQXJUMjhRZlF6NEZudW9UYWhXYzhlWWR2bG5pOXlrWVU3d3RaSzZlNGE4MDluOV9NRnhPZzgwSjBHTUJfN2Jxb0dyaUJLc1Y?oc=5",
-   "desc": "Fed's Kashkari says central bank should raise interest rates now to avoid 'entrenched inflation problem'  Fox Business",
+   "desc": "Fed's Kashkari says central bank should raise interest rates now to avoid 'entrenched inflation problem'  foxbusiness.com",
    "source": "US Fed",
-   "publisher": "Fox Business",
+   "publisher": "foxbusiness.com",
    "scope": "world",
    "ts": 1785956580000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XVGczWnotU3pYbkpHSnhwR2lkWXVvX3ZTaE1HQlJyaFdhcjhtTmhlZU9ScHlmbWpMbzJmOVBUbUtrYzFqTnBvbUQ5dFh5dGNpTTByUG1uX01RN0RTMExaY0pBTlJickhGeTU1MzR3?oc=5",
-   "title": "Sterling Faces Autumn Pressure Against Euro, Rabobank Warns - bitcoinworld.co.in",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XVGczWnotU3pYbkpHSnhwR2lkWXVvX3ZTaE1HQlJyaFdhcjhtTmhlZU9ScHlmbWpMbzJmOVBUbUtrYzFqTnBvbUQ5dFh5dGNpTTByUG1uX01RN0RTMExaY0pBTlJickhGeTU1MzR3?oc=5",
-   "desc": "Sterling Faces Autumn Pressure Against Euro, Rabobank Warns  bitcoinworld.co.in",
-   "source": "ECB / Europe",
-   "publisher": "bitcoinworld.co.in",
-   "scope": "world",
-   "ts": 1785953111000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbXM3QnhIcjNtdmt5QU5ObkJOU0RSa1d6elZTR2VJSGtFa2E1VlRXemkyZndVNGMzMVpkZEl0b2JNRDNMTXozWm04R201X0N4eFR2Wlk0dW02SEJ4c3RVRDQ5bm9TTXBVYkdNUHptTXI0NERiY0J",
-   "title": "RBI has funds to pay for UPI platform without having to charge merchants, customers - thehindu.com",
+   "title": "RBI has funds to pay for UPI platform without having to charge merchants, customers - The Hindu",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbXM3QnhIcjNtdmt5QU5ObkJOU0RSa1d6elZTR2VJSGtFa2E1VlRXemkyZndVNGMzMVpkZEl0b2JNRDNMTXozWm04R201X0N4eFR2Wlk0dW02SEJ4c3RVRDQ5bm9TTXBVYkdNUHptTXI0NERiY0JsVDNWMGZ0MUE1UWRFMEZ3c2ZtX2xyZkRLVzhoUE1oZWRhSllIZC1TTC1CRDJ3enotQlFCdjVuUFRwTEpmT2JlRkxURjBwUnl4aVZwcUlvYWl0bUNJY1d1MjhsVXhiRW5VXzbSAd8BQVVfeXFMTm82UkxsY1M0NmlvNlhGQ1U1elNXczYzX0lNYUZ3Z0ViXzBxeHZuZnJGMUY5YXNGZmFiWDEtQmlPeDB2OF8zMzk3Yzh0anVZMTdtb0Z6NW5pVnAtQzJsbm44Wm02ZFNXUzFZUm5DOEEtTzcyX3M3NjM4RTBxWUF1UXNaR1FRekZfVkdjZVhRS3BPSTdqdy1RbkR6X0czU3N4UXo1bVU1OGpmdHFBSVQyY1NnSjBVSWs1ZEx0ZGRJTGNWVGFfa0MxNS0wMUtvVWVZMXlCTnZfb3dsc1hZZUIzOA?oc=5",
-   "desc": "RBI has funds to pay for UPI platform without having to charge merchants, customers  thehindu.com",
+   "desc": "RBI has funds to pay for UPI platform without having to charge merchants, customers  The Hindu",
    "source": "RBI",
-   "publisher": "thehindu.com",
+   "publisher": "The Hindu",
    "scope": "india",
    "ts": 1785947213000
   },
@@ -773,41 +693,51 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTmZGTm1ieHZUbHN0aUFpWGFJM0twSU02TFdIM1ZjZWxoYTJjMXV6YXc2aHpYajV6QUdHRU5EVEh2cDRnTGJRbWlyLWVxX3JZSlJQTXFtaFdJMFdNVUdwZ0VzZVlOaEJXV092WEpuTTFYX0pSaE9",
-   "title": "IMF projects 10% growth for Syria's economy in 2026 after visit - newarab.com",
+   "title": "IMF projects 10% growth for Syria's economy in 2026 after visit - The New Arab",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTmZGTm1ieHZUbHN0aUFpWGFJM0twSU02TFdIM1ZjZWxoYTJjMXV6YXc2aHpYajV6QUdHRU5EVEh2cDRnTGJRbWlyLWVxX3JZSlJQTXFtaFdJMFdNVUdwZ0VzZVlOaEJXV092WEpuTTFYX0pSaE91bFlxZmdibm9ZNWx4VGJWcEJsY2w00gGQAUFVX3lxTE5Mc1NyMVlpQW5UcnZSTEVSY2kyVjBfT29TTHpBTWdnVnlScUZRYUJxbFVMNHprb1NRbW5aNy1FTHhNWnVrZVpnaXRLZ09qZlpPSFNwM0ZiQjRqU2FWMzFiQmtBa3R2eF9YM3FfcFcwLUgxZUs5Y1ZxRy1tOFlCQzZMRy0wM2hBZEtBRlNWeFV1bA?oc=5",
-   "desc": "IMF projects 10% growth for Syria's economy in 2026 after visit  newarab.com",
+   "desc": "IMF projects 10% growth for Syria's economy in 2026 after visit  The New Arab",
    "source": "IMF / World Bank",
-   "publisher": "newarab.com",
+   "publisher": "The New Arab",
    "scope": "world",
    "ts": 1785937065000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdXF1YUxYcHRfTm53MGJMVXNUdjdMcGVpYXdhWkNZMDlxcm5fWm11dVNlNzJVam9rSm9LczdSbjUybnVTSXJiVXlpMV9iejIxaElud2V4M2RCOE5feEVuWWhjUjNHVVdXOHRDREZUeENaUlVkR2Y",
-   "title": "Fed’s Kashkari Backs His Vote To Hike Interest Rates: ‘Now Is The Time’ - International Business Times",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdXF1YUxYcHRfTm53MGJMVXNUdjdMcGVpYXdhWkNZMDlxcm5fWm11dVNlNzJVam9rSm9LczdSbjUybnVTSXJiVXlpMV9iejIxaElud2V4M2RCOE5feEVuWWhjUjNHVVdXOHRDREZUeENaUlVkR2Yxb2tCaXdaZDdVLURyZFZfcE1UWm1Ed3E0VEJUNnc?oc=5",
-   "desc": "Fed’s Kashkari Backs His Vote To Hike Interest Rates: ‘Now Is The Time’  International Business Times",
-   "source": "US Fed",
-   "publisher": "International Business Times",
-   "scope": "world",
-   "ts": 1785936091000
+   "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONUJHWDFBLUNyaTNWV050SURwZnJQc2Nnb0luYVFKMWg4ZnRRQUhkYjdLSEFpdnIxSUxIbUU1VDNIX3lkR216bXRaWHgwR1ZZdWFPdWJNM1V6OVZTTlRsQzJJZ1IzaTY2d0tnX3dOWVI4RU00UEF",
+   "title": "Rupee, bonds rise on geopolitical relief, trim gains post RBI policy - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONUJHWDFBLUNyaTNWV050SURwZnJQc2Nnb0luYVFKMWg4ZnRRQUhkYjdLSEFpdnIxSUxIbUU1VDNIX3lkR216bXRaWHgwR1ZZdWFPdWJNM1V6OVZTTlRsQzJJZ1IzaTY2d0tnX3dOWVI4RU00UEFuX0d6ckJGTVFMNlpaekthWEpMX3VvWDVGc0FOYWV6czB6Sl82UHRlM2h1dEhkemRfQUplOXBHY1FsNUhKSUdvVFFVdXVVUkVqWFp4RFVWb0xrR3R3dWRBNlotOTln0gHYAUFVX3lxTFBPTkM3Ri1RQnJsR1JGc2tnOThST2F4aUNJT2NuM0hhRi1ieXZMTUNBQnItMzRVaGp3UTlBVW9xd1JTQ0R0eHQ1Y0lOZGlVN19HOEF0R2hrOTF4WER0N3dTQmd5VG94dGhqeUdhZy1SYjZOTldvUEdWTGNtODJfemUzNmt5MGlIRlViWW1nS01YWDJITjJPMXdPM2UtdjFZYXhsNkNCdzVHcGRIemhBc2t3cFZqNHQ5MHplb3pHaGItcFVBUk1qRlhZQWhGZk94by1Zb1pFWGJQMw?oc=5",
+   "desc": "Rupee, bonds rise on geopolitical relief, trim gains post RBI policy  Business Standard",
+   "source": "RBI",
+   "publisher": "Business Standard",
+   "scope": "india",
+   "ts": 1785937020000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS3lWdDRqWlhmOWJGSExYdGdwRS1xcGNLVEpYeWJqRWlpSnJMUWFJdkYzNXlYV0RXQUJ3eXotc0dxajhURDJPbmlSaUVkaVB0S3pubHg5V0xmcVRjWE9tSi1qSDVxMTZ3blRQRGJGNnFyNW5hMTk",
-   "title": "Sensex gains 152 points in volatile session as RBI keeps policy rates unchanged - thehindu.com",
+   "title": "Sensex gains 152 points in volatile session as RBI keeps policy rates unchanged - The Hindu",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS3lWdDRqWlhmOWJGSExYdGdwRS1xcGNLVEpYeWJqRWlpSnJMUWFJdkYzNXlYV0RXQUJ3eXotc0dxajhURDJPbmlSaUVkaVB0S3pubHg5V0xmcVRjWE9tSi1qSDVxMTZ3blRQRGJGNnFyNW5hMTkwRG1vMU9oT19tSGlZN2tJRExjU0liaHhsZ1ZERXZveWtMa3Vhbno0cGFLenRSRDZ5dVJpU3JyTEpTTVJtcnF0M09lZkRJTWVoS0dILWNxbl8yNHVDOWNmLW9DQm85YTNMdGjSAd8BQVVfeXFMT0RkbGUyaU5Ma3dNOU42WkxVMEk0VzRMT25DakZiUmNmNmVISWVGTFl3T1lhQm13SGpnNFNwdjlkUWY1TjJTLU9VMTdaa1l3Tm1XdXlFRHJBZnhnVFh2OEdhZ0lVZGFNOEVvS2ZMekhrbkFVRHBaRERoQmhJZzdaRDhBY29ZWU5fdV9RbFhQY1BNVlFiaUJlbnJTSVJkVlVORzJoeml2MlNIU29IN05MT2R0WWtOMkhWeU5LMDRZNU94ODV0anV2TlZlUmx2YTFCeFhxXzk3T0xpRUNjMVg4aw?oc=5",
-   "desc": "Sensex gains 152 points in volatile session as RBI keeps policy rates unchanged  thehindu.com",
+   "desc": "Sensex gains 152 points in volatile session as RBI keeps policy rates unchanged  The Hindu",
    "source": "RBI",
-   "publisher": "thehindu.com",
+   "publisher": "The Hindu",
    "scope": "india",
    "ts": 1785933624000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNLUY4SnBkQzdtZFJQaGFFTnMtSVpZX0VuYjdGa0pjNFZsanZJZC1WYzBmbENUU29WWGVuNXhlZFJQTUZTOVk3MTJsWGxVenREajVBUmZ4aU1PbTFiYlpkaXBuYTJmZ0VaaXZ4anE0T1JTT3dfZlM",
-   "title": "RBI's dovish tone strengthens as MPC holds repo rate at 5.25%, sees higher FY27 growth and lower inflation: Report - fortuneindia.com",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNLUY4SnBkQzdtZFJQaGFFTnMtSVpZX0VuYjdGa0pjNFZsanZJZC1WYzBmbENUU29WWGVuNXhlZFJQTUZTOVk3MTJsWGxVenREajVBUmZ4aU1PbTFiYlpkaXBuYTJmZ0VaaXZ4anE0T1JTT3dfZlM2WkNoWlFUdGJTU21rVTJkS3U3QlRuTEY3NzdXdVFaTHgtRG9jUHF2OTd1eURsUEVuRVp3ME05SVd4U18wZ0REUVM2R3k2Z19PcG5Lc3ZoVU52RFRuY1NCNG82Z0pYT2JIeHdRUlY0VVFaajlqVmZrY0tucGUtLTFlaDJmTDdvQ05nYlRlZVJ5aFXSAYwCQVVfeXFMTjgzTEh5aXJFNmVMLUY4MnE4b1JmX3lZRlo4ZlVBS2NWbGJQWjZDSHAwekE5cDBjcXQxWWlua3lkN1BCTlBfNzFwaUlRMDBKOGc3WDlaZWFlZjdQWkdtVy0tRjVmVV9aTm5YQ2FyM29QQXNJMlUzRnpZWXppVkZDQUl4M3ZELWJjMWdKTHU3aXZWdG8wd21taEI5blh2OVYwY0V1X0Z5MEdhZlIyS2tKNVN4aUhXcXZPLXFXTVluUjNOSEdNQktWNHlnajVDYlZCUUNUX3BhcmxhaGMxSmFUMTFBVnRPb0pYNDJMMHQyeWswdHF0dWY2eWd2X2dJX2xwMThza1Q1Q0JnaTE4Sg?oc=5",
-   "desc": "RBI's dovish tone strengthens as MPC holds repo rate at 5.25%, sees higher FY27 growth and lower inflation: Report  fortuneindia.com",
+   "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQTFHc3o1Yndtd2w0cFBQeHZiUXhUWEVNWkVnd0ZUZFhhMHM3R3lhMm5WVG50Ukt2aUJDUHZzdzVYR0xNU1FCMWtPdWpQcDYwYV9iMTZBcmtpTG9GU25Bc04wTEl1QW9fWHk2Q3k4Tk40RE9KNXM",
+   "title": "The next RBI policy: Likely more of the same - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQTFHc3o1Yndtd2w0cFBQeHZiUXhUWEVNWkVnd0ZUZFhhMHM3R3lhMm5WVG50Ukt2aUJDUHZzdzVYR0xNU1FCMWtPdWpQcDYwYV9iMTZBcmtpTG9GU25Bc04wTEl1QW9fWHk2Q3k4Tk40RE9KNXMwMFpGbVJrMDhqMXJtZ1ZSeTBiMUJERGVNcGFJaXVFV1I5ZGRVN0xZdGlCOW5hTmVacTNWd2JtMUxwQmJFWTAyMXc10gG-AUFVX3lxTE5TQVNvU3dRSmRxWERlSWJ0Q2VkTHdhVHJ3Y2tZbFRpRWpzV2lxV3h4bDhiUTVRM3lCUFBTdXJxUVNuS0FqTDVFZXBNYWpLVkZEN2FOeWlTWGdvU2x6ZW9IckIzRFFtVmNGcHdMbGEtaDNlUFQxMXpFWW5wVldydUFNeFdaNGZtR1BQV0d2Wmt0UmNxY3g4a1FZWmdLNkNZbFozb0tVTEYxd2Q1SmxvcVl4U3pMVEI4WW1FekdFcEE?oc=5",
+   "desc": "The next RBI policy: Likely more of the same  The Economic Times",
    "source": "RBI",
-   "publisher": "fortuneindia.com",
+   "publisher": "The Economic Times",
+   "scope": "india",
+   "ts": 1785932761000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNLUY4SnBkQzdtZFJQaGFFTnMtSVpZX0VuYjdGa0pjNFZsanZJZC1WYzBmbENUU29WWGVuNXhlZFJQTUZTOVk3MTJsWGxVenREajVBUmZ4aU1PbTFiYlpkaXBuYTJmZ0VaaXZ4anE0T1JTT3dfZlM",
+   "title": "RBI's dovish tone strengthens as MPC holds repo rate at 5.25%, sees higher FY27 growth and lower inflation: Report - Fortune India",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNLUY4SnBkQzdtZFJQaGFFTnMtSVpZX0VuYjdGa0pjNFZsanZJZC1WYzBmbENUU29WWGVuNXhlZFJQTUZTOVk3MTJsWGxVenREajVBUmZ4aU1PbTFiYlpkaXBuYTJmZ0VaaXZ4anE0T1JTT3dfZlM2WkNoWlFUdGJTU21rVTJkS3U3QlRuTEY3NzdXdVFaTHgtRG9jUHF2OTd1eURsUEVuRVp3ME05SVd4U18wZ0REUVM2R3k2Z19PcG5Lc3ZoVU52RFRuY1NCNG82Z0pYT2JIeHdRUlY0VVFaajlqVmZrY0tucGUtLTFlaDJmTDdvQ05nYlRlZVJ5aFXSAYwCQVVfeXFMTjgzTEh5aXJFNmVMLUY4MnE4b1JmX3lZRlo4ZlVBS2NWbGJQWjZDSHAwekE5cDBjcXQxWWlua3lkN1BCTlBfNzFwaUlRMDBKOGc3WDlaZWFlZjdQWkdtVy0tRjVmVV9aTm5YQ2FyM29QQXNJMlUzRnpZWXppVkZDQUl4M3ZELWJjMWdKTHU3aXZWdG8wd21taEI5blh2OVYwY0V1X0Z5MEdhZlIyS2tKNVN4aUhXcXZPLXFXTVluUjNOSEdNQktWNHlnajVDYlZCUUNUX3BhcmxhaGMxSmFUMTFBVnRPb0pYNDJMMHQyeWswdHF0dWY2eWd2X2dJX2xwMThza1Q1Q0JnaTE4Sg?oc=5",
+   "desc": "RBI's dovish tone strengthens as MPC holds repo rate at 5.25%, sees higher FY27 growth and lower inflation: Report  Fortune India",
+   "source": "RBI",
+   "publisher": "Fortune India",
    "scope": "india",
    "ts": 1785932421000
   },
@@ -833,11 +763,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcEJyQzZQbHN0OEFwSjlqN3VuS2VVVWJpN0FSYWN6a2VYY3RkdXR0dmx3NEZqSktDb1ZGczJfRHVtZTI0VHREMnNRVFFBRWtsWmllNjFQM255NHZYMHNtMHdveXp2SUUwN25VWGEwMHBKVlVfT2x",
-   "title": "Rupee gains 13 paise to close at 95.15 against U.S. dollar post-RBI policy decision - thehindu.com",
+   "title": "Rupee gains 13 paise to close at 95.15 against U.S. dollar post-RBI policy decision - The Hindu",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcEJyQzZQbHN0OEFwSjlqN3VuS2VVVWJpN0FSYWN6a2VYY3RkdXR0dmx3NEZqSktDb1ZGczJfRHVtZTI0VHREMnNRVFFBRWtsWmllNjFQM255NHZYMHNtMHdveXp2SUUwN25VWGEwMHBKVlVfT2x4Yk5LR1JpQWVuaDFZTUx0dlZuT1pmbGcyQll0aVNvRDhTUmR4ODBnVWw0dXdKLVlpS2RBNGVkTFR2LTd2WE1BcXJISHhxRW9ZMWVJeTVFeWVwVElidmJ4dHo2aEdycU5feGF3QdIB4AFBVV95cUxOQ1BRMUdsb3VTMmN1TG9La0g1R0Z0Z05GT1piWjBoRG5nVmZjWWVzalBiRG1vX0dHODZEYjR4azFhZER2Y0t0LTYxSUNfWnhzU0xqaU02aE1rWHN0TzZWTURJTC1veEFDYm53d2ZSRFhsMUdpN3FsV0h2a3hpcU5MdFRuUS1VYWc3S3NoOV9XbzhiSXpxeEtQU0NfT2c0SW9Lam85V2w4ZkFJVmhIUUU0bXZreC1IUkdzbXdid280N09JWkVxUXJMUXBEdkpVYVFyc2NmdkFxOHpYWjFTcDlRdA?oc=5",
-   "desc": "Rupee gains 13 paise to close at 95.15 against U.S. dollar post-RBI policy decision  thehindu.com",
+   "desc": "Rupee gains 13 paise to close at 95.15 against U.S. dollar post-RBI policy decision  The Hindu",
    "source": "RBI",
-   "publisher": "thehindu.com",
+   "publisher": "The Hindu",
    "scope": "india",
    "ts": 1785930239000
   },
@@ -883,23 +813,13 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY3JRRDFVX05PX2h3TFhGdkFvWlZ6b0JZTDVvU2NuRDBqUkhFTkVhR3lnOHQtQ0lQUnlrXzFBZDhDZWQ1a0NldnJuaXIwYnllWDllOS1xaHdfUDdUNEQzaFhDV3ZXRDVLdmdDcFlVN0QzS1FXUVd",
-   "title": "India: Waiting on the world to change – RBI Aug 2026 Meeting - 5 August 2026 - MUFG Research",
+   "title": "India: Waiting on the world to change – RBI Aug 2026 Meeting - 5 August 2026 - mufgresearch.com",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY3JRRDFVX05PX2h3TFhGdkFvWlZ6b0JZTDVvU2NuRDBqUkhFTkVhR3lnOHQtQ0lQUnlrXzFBZDhDZWQ1a0NldnJuaXIwYnllWDllOS1xaHdfUDdUNEQzaFhDV3ZXRDVLdmdDcFlVN0QzS1FXUVd6ejJWVTBIY0FWT2VKTGVGSWRiVWJfWWE0bzNjVzRjWV90U0VJem5sNXJPMEdqNlRwUQ?oc=5",
-   "desc": "India: Waiting on the world to change – RBI Aug 2026 Meeting - 5 August 2026  MUFG Research",
+   "desc": "India: Waiting on the world to change – RBI Aug 2026 Meeting - 5 August 2026  mufgresearch.com",
    "source": "RBI",
-   "publisher": "MUFG Research",
+   "publisher": "mufgresearch.com",
    "scope": "india",
    "ts": 1785924812000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdjVrUjNOTTBFeE9WaXRiY2w3Y2h1elhqQ3BUUjRYLWxnREdsZmFyZkNXUjBfNjVDZVdWQUtjTmMyNEZ6QzJ2T3IyNmF1TmJsaG05emREaE9jMm1IaFZ3TElvaWZOd2xVbHRmZk9NcmJ4dWw2VGN",
-   "title": "Closing Bell: Sensex gains 152 points, Nifty flat as investors weigh RBI policy, global cues - Zee Business",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdjVrUjNOTTBFeE9WaXRiY2w3Y2h1elhqQ3BUUjRYLWxnREdsZmFyZkNXUjBfNjVDZVdWQUtjTmMyNEZ6QzJ2T3IyNmF1TmJsaG05emREaE9jMm1IaFZ3TElvaWZOd2xVbHRmZk9NcmJ4dWw2VGNuRmE3dmNxM1JOZDFkT0dtbWR6MGdHek03RDg2NkNhazNIeE5XYlJfU2ktb2RUVjV4bVBJNTdfM1JSRkkwT3hZSXFzb25UYTdieUlkc0ZOQklRbVhudlA1akYxV3c?oc=5",
-   "desc": "Closing Bell: Sensex gains 152 points, Nifty flat as investors weigh RBI policy, global cues  Zee Business",
-   "source": "RBI",
-   "publisher": "Zee Business",
-   "scope": "india",
-   "ts": 1785924376000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTFVaWmoyelk5VUd6NVZ3Nl9EbEFodF9YNklyYXJzOVBSdmV1SVFCcDBRR3hfNmV2Q2llV0d5ZFR5czEtUXlfVTluYlBmaWdvVUN2Q0tIM2s0UTNaamgwNG95YUhHVWdQXzJQMEF3c1R5MlNtVnp",
@@ -962,16 +882,6 @@
    "ts": 1785920336000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqeUZYeWVxdV82bE53TFRVazUtcTYyZ3ZKRnBGS1IzUkVybHBaemNuYXEya1JQU3hkNE9COFF6Rzk0OFd2X2JOQnloWklFU1RCdHlfSEdrLVFYY21kbFBjWmN4NXNHanZ0R0hwbFdMQkdVN2llamd",
-   "title": "Treasury yields are steady as Kashkari says time to raise rates, ADP jobs data is weak - CNBC",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqeUZYeWVxdV82bE53TFRVazUtcTYyZ3ZKRnBGS1IzUkVybHBaemNuYXEya1JQU3hkNE9COFF6Rzk0OFd2X2JOQnloWklFU1RCdHlfSEdrLVFYY21kbFBjWmN4NXNHanZ0R0hwbFdMQkdVN2llamd2S9IBfkFVX3lxTFBxaDZxUHR3aDJBREVlN1VETGJ2aTdtaFltX2JLRXdTY2pUQW4wbVJCVGI2bUZKWExFdmlPTVBKOWFyRDdSMWU3cUlQaEdLaEdva21PNVN4M2dWQ3F3RzB2amZIQy1jZFdkUUxUb2w3emxKMm5ZQkVXbmVMUHR3dw?oc=5",
-   "desc": "Treasury yields are steady as Kashkari says time to raise rates, ADP jobs data is weak  CNBC",
-   "source": "US Fed",
-   "publisher": "CNBC",
-   "scope": "world",
-   "ts": 1785920084000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MVUh0RWxaX3hBUGdGOFhCMDI5VHVSSHpxbFlQS3Z0MEpoZWZQaERpaHU0N2VJVmRhT0lRRFNRU0k3REIwWTFVbGlyRVRWM1pfNHBtM01fMXAtWWh5WFVzX05nODktWkpxWlZIZl9TZmtQQkNlSVV",
    "title": "Cedar Hill Capital Secures SIDBI Startup India Fund of Funds 2.0 Commitment to Back AI‑First Enterprise FinTech - Indianweb2.com",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MVUh0RWxaX3hBUGdGOFhCMDI5VHVSSHpxbFlQS3Z0MEpoZWZQaERpaHU0N2VJVmRhT0lRRFNRU0k3REIwWTFVbGlyRVRWM1pfNHBtM01fMXAtWWh5WFVzX05nODktWkpxWlZIZl9TZmtQQkNlSVVmNmVRUzM?oc=5",
@@ -983,11 +893,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOamRpeWkzYjdnQVdCTUtEOVRIMjdYVVZtNDBZNjlpLVE2WW1QUnV5d3JYY1Q5S0xsVFpWcHYxR05FcFpaczhlSHJ1YkkwRmdXbzhWaWpreU5iNTZuUFlwVi1RUklvWTBMc0trOHJQUlh4dWwzU2N",
-   "title": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem - TheWire.in",
+   "title": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem - thewire.in",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOamRpeWkzYjdnQVdCTUtEOVRIMjdYVVZtNDBZNjlpLVE2WW1QUnV5d3JYY1Q5S0xsVFpWcHYxR05FcFpaczhlSHJ1YkkwRmdXbzhWaWpreU5iNTZuUFlwVi1RUklvWTBMc0trOHJQUlh4dWwzU2NJbTJub2tFYVJjaEJETElpSjFNRXFINlZ2c3ZORGhTRVFxYm5aeF9wLVRPTzFnX1VVWnVpYUU0MEh3X1pLMTkydkxnd3RPQm84S1NBcXpKT3loZEFRR2EzbVlTTC1MQkUzQUpRX3NDUU9PMnF4b2hrRTNRMVhF0gHwAUFVX3lxTE5oazQxeERNTUVTV3IyWm5odzBkZVFwUHpCYmltbTNzZ0RpNFRVVmRwdkVySGQ2b2JMajNhWmFucVIwd1V4VzVXTkpWUWpfaEtTUC1YcDZfclhIamMySHUzVGxsUTZnaGZzaTdBMHR2ZUlXQy1pek1GZXhUVGtuU2xlODZqeDByV1c3MzZaSDdlQlB0NnZMRWJ5dFRucTZWeEZtVDZWaEhZdVNiWGI2Ym9HaTNyekM2aFJOTE9xeDJaSnltZG9PUG5tQ01DY0xRSWxzdFlEMHQwd1FjM1RHeVl4eVhOVklfUTNMd1pjQmI4Yw?oc=5",
-   "desc": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem  TheWire.in",
+   "desc": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem  thewire.in",
    "source": "SIDBI / MSME",
-   "publisher": "TheWire.in",
+   "publisher": "thewire.in",
    "scope": "india",
    "ts": 1785919393000
   },
@@ -1003,11 +913,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ0RON2V6MjUwUmxyRHJiNjllbE4xNjNXSk95akVnNWh4WUhUbmtrbDZuUTQ1Tjd3R0ttU3lHaFE4ZWgzRXpLUVhVOHNTRE9QNGdWTnZ3YnJIMkZaTmpPQXNBRkQ2ekRGRFBuUmZLdWRjWlI0SWF",
-   "title": "RBI to issue polymer currency notes from beginning of next fiscal: Governor Sanjay Malhotra - thehindu.com",
+   "title": "RBI to issue polymer currency notes from beginning of next fiscal: Governor Sanjay Malhotra - The Hindu",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ0RON2V6MjUwUmxyRHJiNjllbE4xNjNXSk95akVnNWh4WUhUbmtrbDZuUTQ1Tjd3R0ttU3lHaFE4ZWgzRXpLUVhVOHNTRE9QNGdWTnZ3YnJIMkZaTmpPQXNBRkQ2ekRGRFBuUmZLdWRjWlI0SWFKZ1R5Y3N1Z2Z5eGkwOU5lck9FbjU1QVJsSW9KSUo4VTZDMVAtd3l3dC01UW80enBCZk1Idjc4TTkyQVAwNFBjcXluLVhKSGRWWThiSW5xcFJXX2E1cnlZMVRU0gHXAUFVX3lxTE5QcmMweDFiVlc0TndsdkxiZkhlaHhZYWc2RkVzeEZoWnR6WHZUUVFMWG9ybHhhQjFRSlJENV9SaUxVVUE2UldWb05TVjNuNEZ6OHBZX2lvY1NWYmtXcm0xMHFreG9OZUk1WlJNRUNQS3pYRnZ3T20yZTJ1eWpYN0JGT1h1d3VYRVJGX2tOckpvczI5Qk5JNDJFZC1YNDFqTFdZdXZDaTlaRVJ1c2JTVHV1bW1lQUU0NmVwYmxDNUVzbkdHMTFfUUhZaWs5aTVfUFJwd2l6OUxz?oc=5",
-   "desc": "RBI to issue polymer currency notes from beginning of next fiscal: Governor Sanjay Malhotra  thehindu.com",
+   "desc": "RBI to issue polymer currency notes from beginning of next fiscal: Governor Sanjay Malhotra  The Hindu",
    "source": "RBI",
-   "publisher": "thehindu.com",
+   "publisher": "The Hindu",
    "scope": "india",
    "ts": 1785918840000
   },
@@ -1023,11 +933,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTXMyVkJhQlIwYXdDTVhSVm1fN1NIalFxN2RCLWV3VEs0bGdMXzNuTDRDMXFFUV8zLV9MeVljMnhXeXFjSzdrVVQ3dzQzaTk5SjlER1ZGYzQ5Q0ZEU2g0ZTd1eEswZlh1dG9IN0FQZGg5bWVHbWc",
-   "title": "RBI's policy pause, neutral stance to support market sentiment; long-term equity outlook hinges on earnings: Economists - ANI News",
+   "title": "RBI's policy pause, neutral stance to support market sentiment; long-term equity outlook hinges on earnings: Economists - aninews.in",
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTXMyVkJhQlIwYXdDTVhSVm1fN1NIalFxN2RCLWV3VEs0bGdMXzNuTDRDMXFFUV8zLV9MeVljMnhXeXFjSzdrVVQ3dzQzaTk5SjlER1ZGYzQ5Q0ZEU2g0ZTd1eEswZlh1dG9IN0FQZGg5bWVHbWc1amVFbndpTi1tMDZRRThoZkJINXBIbUFVdmJZOTlFaFNKc2VKWlE1T0NjQzNuR3pVM1RDdlQ3WVhIMzRZLUt3bDFkbEExZlpzODMxS3hpb0pvTjV4UTJCMEdGWWxGUW9wZHZXREEwS3NSMDFTSlUweF9lQW10TTlZU2ZvN1JzY2pzRk1B?oc=5",
-   "desc": "RBI's policy pause, neutral stance to support market sentiment; long-term equity outlook hinges on earnings: Economists  ANI News",
+   "desc": "RBI's policy pause, neutral stance to support market sentiment; long-term equity outlook hinges on earnings: Economists  aninews.in",
    "source": "RBI",
-   "publisher": "ANI News",
+   "publisher": "aninews.in",
    "scope": "india",
    "ts": 1785918780000
   },
@@ -1073,11 +983,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHRRaDg4SWtBaEQ4Rm1EbGY0b1N2bUpMLURJZXVNTzMxLThrdVd5WTZkU2pKV3diNkRhOF9VcXFtZEFDemdoazRhMmFJb1ZvaFh6UDlzcUpTeENnM0I5RVZWWk11Vnkwck1laVdWVEE3UHo4cjF",
-   "title": "RBI Keeps Repo Rate At 5.25%, Retains Neutral Policy Stance - Sarkaritel.com",
+   "title": "RBI Keeps Repo Rate At 5.25%, Retains Neutral Policy Stance - sarkaritel.com",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHRRaDg4SWtBaEQ4Rm1EbGY0b1N2bUpMLURJZXVNTzMxLThrdVd5WTZkU2pKV3diNkRhOF9VcXFtZEFDemdoazRhMmFJb1ZvaFh6UDlzcUpTeENnM0I5RVZWWk11Vnkwck1laVdWVEE3UHo4cjFBQmplejB4QTVSbFFrVUw?oc=5",
-   "desc": "RBI Keeps Repo Rate At 5.25%, Retains Neutral Policy Stance  Sarkaritel.com",
+   "desc": "RBI Keeps Repo Rate At 5.25%, Retains Neutral Policy Stance  sarkaritel.com",
    "source": "RBI",
-   "publisher": "Sarkaritel.com",
+   "publisher": "sarkaritel.com",
    "scope": "india",
    "ts": 1785914574000
   },
@@ -1120,6 +1030,16 @@
    "publisher": "Business Standard",
    "scope": "india",
    "ts": 1785913161000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYlJzNEdIMVVSVG9pVGk0V2gzdTN5MnRFN0hZVzBqR1RxQjlMYUZQSk9TXzBTWnZHNHNidVh4a3JJakMwdWotY3BYZ0xRQTB3aDhXNF9qSy0tQWNFTmdpczRCckQ3T1BQSWdsY1hsZ3QtWWswSm1",
+   "title": "Rupee Holds Steady As Investors Await RBI Policy Decision Amid Cautious Market - Investing.com India",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYlJzNEdIMVVSVG9pVGk0V2gzdTN5MnRFN0hZVzBqR1RxQjlMYUZQSk9TXzBTWnZHNHNidVh4a3JJakMwdWotY3BYZ0xRQTB3aDhXNF9qSy0tQWNFTmdpczRCckQ3T1BQSWdsY1hsZ3QtWWswSm1LSGRXTUpyZ0NNV3o1UzhyTkRuamdjU2RRRmIycEt0bEpKZ3c5UEE5blY0OTBOUm5fTW8xei14SnVlSEdua3lzNGszczdpbmVLSQ?oc=5",
+   "desc": "Rupee Holds Steady As Investors Await RBI Policy Decision Amid Cautious Market  Investing.com India",
+   "source": "RBI",
+   "publisher": "Investing.com India",
+   "scope": "india",
+   "ts": 1785912711000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUU41S1NscjZLeFlRNkRPa21mZU02V3lfNHlHV1JLTThZU05YY1pWQ3N6ZlFoeU9CWV9sc3pqSkJ0UC1WVzBxQ0VDZjRhSUxVQUt6SjdnWDU0cWVSSHo0NG5UUGxnLWZjVzFOSVZ2TTEtUXU2aDd",
@@ -1200,6 +1120,86 @@
    "publisher": "Business Standard",
    "scope": "india",
    "ts": 1785910593000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMzI3N01uVzJ1TVFiUXRMRUJ5SXprQkpLRVFDRV9rQVVkVmhBQklpZTctaDhKNDJVS21ocnNZNVRrVkR4ZTJ3QXRSeFhDRzBMNmY5aU5oaFRHSDdHSGNKMzdkREt4TDZaOXVxTDJzLXlNcHVJbjY",
+   "title": "SIDBI backs Cedar Hill Capital's AI-first fintech fund - VCCircle",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMzI3N01uVzJ1TVFiUXRMRUJ5SXprQkpLRVFDRV9rQVVkVmhBQklpZTctaDhKNDJVS21ocnNZNVRrVkR4ZTJ3QXRSeFhDRzBMNmY5aU5oaFRHSDdHSGNKMzdkREt4TDZaOXVxTDJzLXlNcHVJbjY4OUxtM0NuX1N6Qk41VkFxVG02YVJjdQ?oc=5",
+   "desc": "SIDBI backs Cedar Hill Capital's AI-first fintech fund  VCCircle",
+   "source": "SIDBI / MSME",
+   "publisher": "VCCircle",
+   "scope": "india",
+   "ts": 1785909505000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQOHEtWUlSZ2tOS3kyZWFYR3ZWOFhyclBONEZnQ2w4Si00QXhPTHJyTzhTckc4UjhEdUNnVTNCTWlCU3Z4cHRmMGFnd2FKVmg2S0xHVzk4VEczT0I0NTZMNlBITkpPVVM4a1dIVlJOV2pUM0phN0d",
+   "title": "SEBI calls meeting with big brokers to review CAS rollout, focus on indicative price display and investor... - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQOHEtWUlSZ2tOS3kyZWFYR3ZWOFhyclBONEZnQ2w4Si00QXhPTHJyTzhTckc4UjhEdUNnVTNCTWlCU3Z4cHRmMGFnd2FKVmg2S0xHVzk4VEczT0I0NTZMNlBITkpPVVM4a1dIVlJOV2pUM0phN0dXeWdJVkNqYXk4U2ZNbHBvV3lqeE1yS3VhckJ6TGFTQWE0NTFJRm5rckpJSEVqdmxaNGtnMy1XV2FTWFRPSDFnTkV6RnlBZy1LSzNQbDloYWE5T0FtMmh4eklISVktdU5nU3lldDlaZTFCQnRFS0hWcHRvTENjRkJQMWNiQ3lmLTFSS1NhVmlncFNmWG02cXRWRXVNOEnSAZACQVVfeXFMT3dVdjZzRVhHTWVHSVQ0S0FxYWNMeEo3TUFPbjdyQmtQbEd0RXZPYUNnOGlpTVZoLVM5NjNPeXJQem85bWFXdy1aOXBKWExmX0VXaGhCbVpqSllIbzZrcldnSU1rUXl6eE4zREg4T3ppMkNXVlhJSXZtU0RHYW0xSkVJbWpvRWpBelJjQ3UtZ1hnY1ZXeDBBbi1Pd25fR3pKaHpCNlAyMEJnUWZWb2IxQkx5OElRVkNNNURveXVpeHhobXhzaVA3WXpQaU1OMzZwbFUxRjJNdEp1ZjVuQWlBX2QxeUZ4VU1BQjE3M2Fpdzg2SHdTYW5sdHN6clZsOGZkZ0ZXUVFVX3l0ZUpxSVQ4dXY?oc=5",
+   "desc": "SEBI calls meeting with big brokers to review CAS rollout, focus on indicative price display and investor...  Moneycontrol.com",
+   "source": "SEBI",
+   "publisher": "Moneycontrol.com",
+   "scope": "india",
+   "ts": 1785909455000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM0RrQVVxVmJwbmx2Y0Izc0hFcjhHUTNEdEhMYlNNeXpLZENJZm00X1VWLW1HV2JEOGVHQzBmTkd2VmIyYm9xRHBmQS1UZmtyZm9jTk83WDhjLXY4V052R1ZDWHE0WVFQR044MkhLOEZxVmxpTlF",
+   "title": "RBI keeps repo rate at 5.25%, projects 6.7% GDP growth and 5% inflation for FY27 - The New Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM0RrQVVxVmJwbmx2Y0Izc0hFcjhHUTNEdEhMYlNNeXpLZENJZm00X1VWLW1HV2JEOGVHQzBmTkd2VmIyYm9xRHBmQS1UZmtyZm9jTk83WDhjLXY4V052R1ZDWHE0WVFQR044MkhLOEZxVmxpTlFacVFZcm04RWZrTlVxbDItblhhYTNwcHRILUE0X0VDVXFaVjZTbHE1WEpUejNKV2JKUGc5UdIBtwFBVV95cUxPb2lkM3NTSGVwTF9BZ1dQel9VOEdiSG5JZXJPVm5HMkRsUEQtUlg4LWRSTnUzbU9mYzRqXzJuRUszTEYzRno4STZTVTg5UFlpMG5SSl9YSEJWc2Q2enJRWmFBWjJFNVZHandDQUd1R0pxMF9pVzloa0JDN2hneGZ3ZWhNdmhvUVAtcF9yTnV3UGJKc21LUnFCdnRWTEw5TXdSTnVzb19PXzBQVnVVT2xfNzdNcUdPczA?oc=5",
+   "desc": "RBI keeps repo rate at 5.25%, projects 6.7% GDP growth and 5% inflation for FY27  The New Indian Express",
+   "source": "RBI",
+   "publisher": "The New Indian Express",
+   "scope": "india",
+   "ts": 1785908950000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT0Z4eTZPbmxiLWJETXJiSjdINUl5d1ZNUEJtRGlfN2ZFUGNURHJfb0FidTdqTzlUYXRsd25sQ3pnTzYwQTczTFRacVVGRnZDeGJ1MldGTXZld2dtLUhwLUYzMUpxMUo2YzFWU0c1dDN5YTRpUGp",
+   "title": "RBI marginally raises FY27 GDP growth projection to 6.7 pc, lowers inflation forecast - ThePrint",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT0Z4eTZPbmxiLWJETXJiSjdINUl5d1ZNUEJtRGlfN2ZFUGNURHJfb0FidTdqTzlUYXRsd25sQ3pnTzYwQTczTFRacVVGRnZDeGJ1MldGTXZld2dtLUhwLUYzMUpxMUo2YzFWU0c1dDN5YTRpUGp6b0NvLXhFSU9PT0xQZ2NUdTktbTJENTBVa2QwdHFFYzZwc1pQcXFtTkNIVFVndlJYcHVNTVVtZHdPZFNwY3ctQW5WUFJmM0xn0gHDAUFVX3lxTE1NZGpZdmVMYnU4a1gzOUE3YlVWT25ublhWNTRLY1VMMTAtZFdFRmotX3g5R0JhTkdLcHFQQXljdnVsVW41WlRNLW5XSEFzWGNpaXFDNU5LaWhTaVF2T1RfaDRrSnJtYzYyZGhzanY5NTlvcVRoOWNNdW5HSElNd1dXbVktV2tnWDF0eTlNc2pvRllCVDRTOVJBSDBub0RuVDRkR3F2Yi14TVVEbU43dWhrZGxVbzVmbWUyQ3pvXzlEcFlfdw?oc=5",
+   "desc": "RBI marginally raises FY27 GDP growth projection to 6.7 pc, lowers inflation forecast  ThePrint",
+   "source": "Indian Economy",
+   "publisher": "ThePrint",
+   "scope": "india",
+   "ts": 1785908724000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKejFJRFBBb1Z2UzFYRFZILUh3cWtXdWxVT2hWeEh0ck0yT2tnZzgyWE1vTmVVWnZmV243TEU3QVBnVkRhc2lSQVYtVS11MmdEWHZZTlRWc2hlcHlkY3ZYbFFDTWVqTUZ5a3N5Z0hBTTY?oc=5",
+   "title": "RBI keeps repo rate unchanged at 5.25% - News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKejFJRFBBb1Z2UzFYRFZILUh3cWtXdWxVT2hWeEh0ck0yT2tnZzgyWE1vTmVVWnZmV243TEU3QVBnVkRhc2lSQVYtVS11MmdEWHZZTlRWc2hlcHlkY3ZYbFFDTWVqTUZ5a3N5Z0hBTTY?oc=5",
+   "desc": "RBI keeps repo rate unchanged at 5.25%  News On AIR",
+   "source": "RBI",
+   "publisher": "News On AIR",
+   "scope": "india",
+   "ts": 1785907699000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTktaU3pwWTFpN3pjRkx6NkJ2VFVwYllDZUd5N0FCM3c5M3ZnN0ZOMXR0c243Q3VHOXVoNTYtSGFKNG5jOEVna3RWLV84ZVNLdHpVQWpjbHViQnpLaVZybHVscXkyY2RQbGJFeWJBUFQ1ZEZhWUV",
+   "title": "RBI raises FY27 GDP growth forecast to 6.7 pc, projects inflation at 5 pc: Governor Malhotra - aninews.in",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTktaU3pwWTFpN3pjRkx6NkJ2VFVwYllDZUd5N0FCM3c5M3ZnN0ZOMXR0c243Q3VHOXVoNTYtSGFKNG5jOEVna3RWLV84ZVNLdHpVQWpjbHViQnpLaVZybHVscXkyY2RQbGJFeWJBUFQ1ZEZhWUVVNWJUajVvWFMzNG9SQjVLR0RjT1RUT2xfSmQ4ZE12RE1md3p3T3ZNRVB1RVFtUTBvN3J2SVNIblRrbGF6TTJ6cU5GQmwtMUVSdmx2Tjh3Q3VDS2lfM3M4bEdBcHdEdEc3Yw?oc=5",
+   "desc": "RBI raises FY27 GDP growth forecast to 6.7 pc, projects inflation at 5 pc: Governor Malhotra  aninews.in",
+   "source": "Indian Economy",
+   "publisher": "aninews.in",
+   "scope": "india",
+   "ts": 1785907620000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPVVhHbm1xYV9FMmROcmJtLXBvR0hSVHloUmFELVJDUFdnMm9QcHBvUTZWV2lIclY4clluQ01JMEtmMjhPRG5MY04xVWw5Z1RfREI2QmVJR2U2TlpKSGZIX3o4WWxWbnEwTGM2T2owNVkwTVItWW9",
+   "title": "RBI's rate, GDP and inflation verdicts also come with some stark warnings - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPVVhHbm1xYV9FMmROcmJtLXBvR0hSVHloUmFELVJDUFdnMm9QcHBvUTZWV2lIclY4clluQ01JMEtmMjhPRG5MY04xVWw5Z1RfREI2QmVJR2U2TlpKSGZIX3o4WWxWbnEwTGM2T2owNVkwTVItWW9ucGhHMnhzcS1jLU5iOE9jQXNJOElHckpoenhLTHBwLXMzb1BZQWFvaVdKZXdEaGFBSXFJLTdVRmVmdk5aaS1ReDRDMG8tY2dLYlo3ZmNNZ2hkVlI5OGlmMm5SMHh1R3VTOTZRRXNEUTJIWW9xWGM0aTc1T25YZ2lkd0lLREo0RzMwZDVSdFFGT2FVaGpKbEQyenJ6b0lRMzVjN2M0anNmcXM4VmlIVFVRSHVqanlwcEFvZEIteE5BZDJsR2NfWUl0SU9GWDBrNlZLS1E5cmRQZG9JWVHSAc8CQVVfeXFMT1lvTHZ5YUQ2UXI1NkYyVks1TXVHYzZGRkhMQUtqVW4tUzZGb1VtbzRTanpHaWFOZVN5WGx4U1NELWNXSkI1WVhiME5ERlExTWJVQzZmWW8yNFA3M2FvUnRFUEhob3BtcnlZNnAxNTUyeGlxWjZYRUxsaVcxNnd5UUtuVDUwZXNDNy1wUmF2QTJXODZwY0tpRHVjTlRWdWFHMjBuSEZUQnJGRE11N09zN3JxcHpKNFgzaC1sTGc5TXZxek9sSjhrOVM5MkhQcE9uQmJNcGtfcmRHWTctTG9RMjAxalVmQUdYNkNaYTdEMmtFRmdKLTU2ZzdLOFQwZWw5bUg4SDVsSHFQQ2w5c2s4Zlg1VWo0QUlXQ0RVS0FrMTNpelYzTXI3MmZXQndxNHJybl9PbUlPV3hrQlpiaC1hSC11SV9xQllQT09XYnJtRmM?oc=5",
+   "desc": "RBI's rate, GDP and inflation verdicts also come with some stark warnings  The Economic Times",
+   "source": "Indian Economy",
+   "publisher": "The Economic Times",
+   "scope": "india",
+   "ts": 1785907414000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORTBxTV9EaWJxckQ5VjJ0NmNtM2ZQLUdTNFpFVy1rRW1SNlJ6V25QcUFsMURRTHhaRG1uNmhUTFh4Q09BaE4zZnI4OWp4LXJoRWF6VHpRNjl5WmFBLUlFY3VSTjZXQVZKVmd5ZmprajZOUkJneXh",
+   "title": "RBI lowers FY27 inflation forecast to 5%, ups GDP growth at 6.7% - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORTBxTV9EaWJxckQ5VjJ0NmNtM2ZQLUdTNFpFVy1rRW1SNlJ6V25QcUFsMURRTHhaRG1uNmhUTFh4Q09BaE4zZnI4OWp4LXJoRWF6VHpRNjl5WmFBLUlFY3VSTjZXQVZKVmd5ZmprajZOUkJneXhOUlcyWExvODlwck9mTXlMQzFxRTRfNGlkTlJQNjRFN2p0STdKM1JGWXJJdnU0M0RxTkk1dHpCenU2YjhfM01iQW00dDZMaEpWOFgwaUlDTzVPMGxHRV9ud1ExRV83TWJMNG1YOGhFTV9IQdIB4AFBVV95cUxORTBxTV9EaWJxckQ5VjJ0NmNtM2ZQLUdTNFpFVy1rRW1SNlJ6V25QcUFsMURRTHhaRG1uNmhUTFh4Q09BaE4zZnI4OWp4LXJoRWF6VHpRNjl5WmFBLUlFY3VSTjZXQVZKVmd5ZmprajZOUkJneXhOUlcyWExvODlwck9mTXlMQzFxRTRfNGlkTlJQNjRFN2p0STdKM1JGWXJJdnU0M0RxTkk1dHpCenU2YjhfM01iQW00dDZMaEpWOFgwaUlDTzVPMGxHRV9ud1ExRV83TWJMNG1YOGhFTV9IQQ?oc=5",
+   "desc": "RBI lowers FY27 inflation forecast to 5%, ups GDP growth at 6.7%  Business Standard",
+   "source": "Indian Economy",
+   "publisher": "Business Standard",
+   "scope": "india",
+   "ts": 1785907220000
   }
  ]
 }
