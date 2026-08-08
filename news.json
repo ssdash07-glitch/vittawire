@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08T21:04:34.874086+00:00",
+ "updated": "2026-08-08T21:50:27.246044+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JU1FaWVdtZHM3THVUdTljWnFCOHpFdWR5bmwzaWRtdjNTa0xla012cmFFaVZ5OU5VdjBvVUhYSEZTM2xnemxkam5nNVBRV2NEX21KOWRySVlsRDRtQTlZRm9qaGJaS1VndF9aemJkb1F4T1UzRGc",
@@ -10,6 +10,16 @@
    "publisher": "finance.biggo.com",
    "scope": "world",
    "ts": 1786206900000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmU0RFUySjNHTEtyTnNvUDJIb3N2ZXU5SEdOQm1ZMmEtdExCOEhYWnR1NWtBa3lFdUJhYzhtODdSMEZZbUtaWk4wanNuNlNnMEZsMkJOcnZaRFhYQXQ0OWhVQkJBQkpJdXpkMTFRRVRvM3AwM2l",
+   "title": "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmU0RFUySjNHTEtyTnNvUDJIb3N2ZXU5SEdOQm1ZMmEtdExCOEhYWnR1NWtBa3lFdUJhYzhtODdSMEZZbUtaWk4wanNuNlNnMEZsMkJOcnZaRFhYQXQ0OWhVQkJBQkpJdXpkMTFRRVRvM3AwM2lxMnJHY3RtWDFXZ29odENpQTd6VTNPUm5QN2Z6ejh2V2JWVHpR?oc=5",
+   "desc": "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week  WSJ",
+   "source": "US Fed",
+   "publisher": "WSJ",
+   "scope": "world",
+   "ts": 1786206138000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
@@ -103,11 +113,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWGtIU1hCX2IyVzFPSXFQQXY0VFV0NFVxUmgwSGNpMFVFTkRoSTRQczZMY1dqUURwMS1oWTZVSkhGUzBTZEZWU1pLNjFudUVlc1hpbmNfVTdYZC1VSkxmbXVjOWdSZ2dOQU1xclRJcjVKN2FyU2k",
-   "title": "In unexpected twist, stocks rise after unexpected jobs report - Detroit Free Press",
+   "title": "In unexpected twist, stocks rise after unexpected jobs report - freep.com",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWGtIU1hCX2IyVzFPSXFQQXY0VFV0NFVxUmgwSGNpMFVFTkRoSTRQczZMY1dqUURwMS1oWTZVSkhGUzBTZEZWU1pLNjFudUVlc1hpbmNfVTdYZC1VSkxmbXVjOWdSZ2dOQU1xclRJcjVKN2FyU2k2eDhXd1d1QU4tS1BKUU5VOGl1UGExTHRESXBfb2hoNTVOazlXMDFiakl4b2RrMXptamNMUUlSeE9Hd3c1QnBXM25DaDNDV3NjUEhPMXl0OVdLSnlUUEpfUXg5Tnc?oc=5",
-   "desc": "In unexpected twist, stocks rise after unexpected jobs report  Detroit Free Press",
+   "desc": "In unexpected twist, stocks rise after unexpected jobs report  freep.com",
    "source": "US Fed",
-   "publisher": "Detroit Free Press",
+   "publisher": "freep.com",
    "scope": "world",
    "ts": 1786186980000
   },
@@ -202,22 +212,12 @@
    "ts": 1786155261000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJMDhxVl9YV2lBZkdrNEdDbnBaZTFjTllPZ2pGZGU4TUctRlVNTkp3akhuV2p2Vk9lNlhrb3JIMGhVY2pYZFhmVUNXV2VTN2p4?oc=5",
-   "title": "Fed split on rate hikes deepens as five years of high inflation tests patience - The Edge Malaysia",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJMDhxVl9YV2lBZkdrNEdDbnBaZTFjTllPZ2pGZGU4TUctRlVNTkp3akhuV2p2Vk9lNlhrb3JIMGhVY2pYZFhmVUNXV2VTN2p4?oc=5",
-   "desc": "Fed split on rate hikes deepens as five years of high inflation tests patience  The Edge Malaysia",
-   "source": "US Fed",
-   "publisher": "The Edge Malaysia",
-   "scope": "world",
-   "ts": 1786151340000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2lST2oyVjhTMHprd0JNbG5MYjdxNi00cHVIRW1LcHZLeDFWN0tzem5sMjV3MnNoY0E5eVhhVkdNMk0yOW5Jc2xNbkswRUhjU2hQbllmWThLX3J1RXFoYmJqUTZ2VjVrbUYweXIxcnd5NXgtUmp",
-   "title": "Donald Trump renews effort to fire Federal Reserve governor Lisa Cook - aljazeera.com",
+   "title": "Donald Trump renews effort to fire Federal Reserve governor Lisa Cook - Al Jazeera",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2lST2oyVjhTMHprd0JNbG5MYjdxNi00cHVIRW1LcHZLeDFWN0tzem5sMjV3MnNoY0E5eVhhVkdNMk0yOW5Jc2xNbkswRUhjU2hQbllmWThLX3J1RXFoYmJqUTZ2VjVrbUYweXIxcnd5NXgtUmpsNGFDQ0RjNUNQNk5melhxbjNxdmtmZEc5U05NeU8tNGFjT0sya3dZNDhrZk9ncV8yMWRqcmRLaGfSAbMBQVVfeXFMTVFZR3JwUHBOUlM4ZEhETkdZWnRZeGFYX3ZFUzZLOGM3cDh5c1FSX1h3eWZFbS1ObGRHNG1tdV9XdW9rc1FwbGtfX04yR3dkYzN4QnN5VDk5S3ZmQTRFdDRzY2hOTXg5MVpXTFpPWDl4R3pFMTBNRGNXT0hqcmhEbFRjNHIzNTR4LVpCTHJUOXl5S1otajMwWjg0dV9TLWNILTRzYnFmOUxqZVFWeVBiOWZIVmM?oc=5",
-   "desc": "Donald Trump renews effort to fire Federal Reserve governor Lisa Cook  aljazeera.com",
+   "desc": "Donald Trump renews effort to fire Federal Reserve governor Lisa Cook  Al Jazeera",
    "source": "US Fed",
-   "publisher": "aljazeera.com",
+   "publisher": "Al Jazeera",
    "scope": "world",
    "ts": 1786146094000
   },
@@ -362,22 +362,12 @@
    "ts": 1786120004000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmU0RFUySjNHTEtyTnNvUDJIb3N2ZXU5SEdOQm1ZMmEtdExCOEhYWnR1NWtBa3lFdUJhYzhtODdSMEZZbUtaWk4wanNuNlNnMEZsMkJOcnZaRFhYQXQ0OWhVQkJBQkpJdXpkMTFRRVRvM3AwM2l",
-   "title": "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week - WSJ",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmU0RFUySjNHTEtyTnNvUDJIb3N2ZXU5SEdOQm1ZMmEtdExCOEhYWnR1NWtBa3lFdUJhYzhtODdSMEZZbUtaWk4wanNuNlNnMEZsMkJOcnZaRFhYQXQ0OWhVQkJBQkpJdXpkMTFRRVRvM3AwM2lxMnJHY3RtWDFXZ29odENpQTd6VTNPUm5QN2Z6ejh2V2JWVHpR?oc=5",
-   "desc": "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week  WSJ",
-   "source": "US Fed",
-   "publisher": "WSJ",
-   "scope": "world",
-   "ts": 1786115985000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPREV2a2RNTnNKeks1LTVMdnJIS3NVY3lXTGZZSWtMVzZudmd5WHdoRG8xcmxtRkpTOW01bUpQNWRDTWl0Yk94MEZjNjNTSEFjcy15cjZkcU05amNubVYtREY4OGMxTU9Ha1ZFM2s1UGdTTTdHa3F",
-   "title": "Weak July jobs report helps case for Fed to hold rates but doesn't take hikes off the table - finance.yahoo.com",
+   "title": "Weak July jobs report helps case for Fed to hold rates but doesn't take hikes off the table - Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPREV2a2RNTnNKeks1LTVMdnJIS3NVY3lXTGZZSWtMVzZudmd5WHdoRG8xcmxtRkpTOW01bUpQNWRDTWl0Yk94MEZjNjNTSEFjcy15cjZkcU05amNubVYtREY4OGMxTU9Ha1ZFM2s1UGdTTTdHa3FOYmtydWdIR043LVFDbkJTd1VoNkdmQ3ZoRDhSZGFqVVp6MWFIZjcxT2U5T1JvbmwxaHY1blh0bC03WURNdDlCajRweGo0cm5wdWlhOTkzY18yOHdpUHQ3cTY1ZHk5dU5uRE1OTFg2aExwZDFMME52RXpvYkE?oc=5",
-   "desc": "Weak July jobs report helps case for Fed to hold rates but doesn't take hikes off the table  finance.yahoo.com",
+   "desc": "Weak July jobs report helps case for Fed to hold rates but doesn't take hikes off the table  Yahoo Finance",
    "source": "US Fed",
-   "publisher": "finance.yahoo.com",
+   "publisher": "Yahoo Finance",
    "scope": "world",
    "ts": 1786114948000
   },
@@ -443,11 +433,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTXpPOG02ckF4N0p0Z19LMTRXUVFCQnpWNDRwR0VUbVRscVhpOTdkSnRfRGRRMVg2ekNKRWkwVkxMbEU3OHFXTmtSb2Q3REZwMkJ2NldDU01vZWhsM3NLMXZBcUFhUVl3ZGdQTmVsM1JaQVB4dmh",
-   "title": "Investor complaints on SEBI’s SCORES platform drop by 9% in FY26 - indianexpress.com",
+   "title": "Investor complaints on SEBI’s SCORES platform drop by 9% in FY26 - The Indian Express",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTXpPOG02ckF4N0p0Z19LMTRXUVFCQnpWNDRwR0VUbVRscVhpOTdkSnRfRGRRMVg2ekNKRWkwVkxMbEU3OHFXTmtSb2Q3REZwMkJ2NldDU01vZWhsM3NLMXZBcUFhUVl3ZGdQTmVsM1JaQVB4dmhQd0RlUm9DRzB2TmVxVW04ZWhqc3M5N1VPRkF6T0gybXZVZDBPYThmYXJyNm9RRnl2UnJQaWN0UUc5VGlQX2ZxQU1GRmVscQ?oc=5",
-   "desc": "Investor complaints on SEBI’s SCORES platform drop by 9% in FY26  indianexpress.com",
+   "desc": "Investor complaints on SEBI’s SCORES platform drop by 9% in FY26  The Indian Express",
    "source": "SEBI",
-   "publisher": "indianexpress.com",
+   "publisher": "The Indian Express",
    "scope": "india",
    "ts": 1786107191000
   },
@@ -480,6 +470,16 @@
    "publisher": "CNBC TV18",
    "scope": "india",
    "ts": 1786105405000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1VZLTFFMFQxT05oOVNScVJSbW9SNDZFMjVnc2JsZXI2TXdJWEVSM3p0NzlPTi1SQ2o2aEFTTWxqVVlONlB6NHYzcThZcmhQU1N1cWlGZmQ4ek53aDhzVVpaTTZQdEMzbkU4YTNwQnpldF94S0l",
+   "title": "Jobs report will offer fresh test of Fed Chairman Warsh's less-guidance stance - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1VZLTFFMFQxT05oOVNScVJSbW9SNDZFMjVnc2JsZXI2TXdJWEVSM3p0NzlPTi1SQ2o2aEFTTWxqVVlONlB6NHYzcThZcmhQU1N1cWlGZmQ4ek53aDhzVVpaTTZQdEMzbkU4YTNwQnpldF94S0lCZ3FXZlNiSGlGZ1RQcVdEWE9qTXJHUkc5RS03d0hhZ3lQVGMzV2FQS0NBMGxkbG9tTjZNNUFqUjN4SjYyeGxyWEZTZWk0?oc=5",
+   "desc": "Jobs report will offer fresh test of Fed Chairman Warsh's less-guidance stance  Reuters",
+   "source": "US Fed",
+   "publisher": "Reuters",
+   "scope": "world",
+   "ts": 1786100661000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVmFDSXlCc2N5ZTlzTUgxRUNEbnVlMUdkQXRvdWJZTnE2WnZPV0pTM1VmeXRIZmRjbGhOUXkteE13Uno0ME5wUzhxRldHR3JOZUNFWXlvbUhqd0JCdERoa2pfV0ctM3RsUnl2S3FhcUhHWkx5V1R",
@@ -542,6 +542,16 @@
    "ts": 1786090515000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQUlKcXRoanFEQlBtY1V4cW5CTW40dFpDN1hta29DejlPaFVwWFpOWXk3R2JGakVxOFVQRXFuX3pIV0NmNnM3WXludG9MNG01cVNkUkxCSkZ5UXZpYUFINEtPX2oxUWxQaDJfM19aN1ZvZmtETUd",
+   "title": "Dow, S&P 500, Nasdaq rally to end winning week as weak jobs report eases Fed rate fears - Proactive financial news",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQUlKcXRoanFEQlBtY1V4cW5CTW40dFpDN1hta29DejlPaFVwWFpOWXk3R2JGakVxOFVQRXFuX3pIV0NmNnM3WXludG9MNG01cVNkUkxCSkZ5UXZpYUFINEtPX2oxUWxQaDJfM19aN1ZvZmtETUdLbnFmRGJtMFhUWUVocEg0VWVCSDJJYTFzZmhmaWtLM3V3MUdDYTdyRDdhVEx2aWFabnhyanluMFJXZjNpRjY4cnlLZWRDZkJTNEp1VERianVtWDV0M0tfZDBfcExNS3VIWlR3QXVLM1VGTVNQM0xNTEhsa2FsSA?oc=5",
+   "desc": "Dow, S&P 500, Nasdaq rally to end winning week as weak jobs report eases Fed rate fears  Proactive financial news",
+   "source": "US Fed",
+   "publisher": "Proactive financial news",
+   "scope": "world",
+   "ts": 1786088880000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTzJlLUZUc182c1lPWXVjdENva3F2b2tJNnFiQUItdk1HdHZkVDV3RzFWeU4ycDliV0ZzUmdSeEtKUUFHSHd0TGFaMWFHQllMSlMzeW9lR0x3blRiQnZ0VmQ0NmJjZF9LNnp1VFp0b0RRZE01N1h",
    "title": "How India's IPO boom gave Sebi a revenue windfall - Moneycontrol.com",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTzJlLUZUc182c1lPWXVjdENva3F2b2tJNnFiQUItdk1HdHZkVDV3RzFWeU4ycDliV0ZzUmdSeEtKUUFHSHd0TGFaMWFHQllMSlMzeW9lR0x3blRiQnZ0VmQ0NmJjZF9LNnp1VFp0b0RRZE01N1hRYnA2R3NqZmFoYmh3LTNHU0lEWklKQUJmcFJFRnh1LVd2UVJSMW9WNG1xY2hWYnFtM2V4T3dLc195RkF3RULSAboBQVVfeXFMTWVyaXJHSzBZYWY5RXBNeWdIMGFKTTdCcmY3eC1sR3pUblJGZkpNZlAtVFJqY2s5MmVSR19DckZCaXRNcXItc2R3LVdZUWlKVjhXNFd4SWVnSUpPendsQ2VhVGJtZ2dNTldjTVMxUTBPRkpzZzU3OEY5WEk5M1NpQ1lodUdmc0dPUnRWT2ZiX1lnRXp3V0Frd0ZwZ0RxbF9JVnhFRWVRMUN1RElxbVc3ZTdBXzVVaXZraUh3?oc=5",
@@ -560,16 +570,6 @@
    "publisher": "NDTV",
    "scope": "india",
    "ts": 1786086577000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1VZLTFFMFQxT05oOVNScVJSbW9SNDZFMjVnc2JsZXI2TXdJWEVSM3p0NzlPTi1SQ2o2aEFTTWxqVVlONlB6NHYzcThZcmhQU1N1cWlGZmQ4ek53aDhzVVpaTTZQdEMzbkU4YTNwQnpldF94S0l",
-   "title": "Jobs report will offer fresh test of Fed Chairman Warsh's less-guidance stance - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1VZLTFFMFQxT05oOVNScVJSbW9SNDZFMjVnc2JsZXI2TXdJWEVSM3p0NzlPTi1SQ2o2aEFTTWxqVVlONlB6NHYzcThZcmhQU1N1cWlGZmQ4ek53aDhzVVpaTTZQdEMzbkU4YTNwQnpldF94S0lCZ3FXZlNiSGlGZ1RQcVdEWE9qTXJHUkc5RS03d0hhZ3lQVGMzV2FQS0NBMGxkbG9tTjZNNUFqUjN4SjYyeGxyWEZTZWk0?oc=5",
-   "desc": "Jobs report will offer fresh test of Fed Chairman Warsh's less-guidance stance  Reuters",
-   "source": "US Fed",
-   "publisher": "Reuters",
-   "scope": "world",
-   "ts": 1786079040000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOHNwYl9HSW52SFhnanJoTXNMZVFKdmZ3MlFPZ2prVnFkeG5qVm9GZHBrY2hnZUdEekM4RHVqd0hva211WXlhcTFLbmpaWmFrSTdBOHFsa296dmN0MnhnNlRNRjNWbkhVaXhHcE4wU3RCYXk4T1R",
@@ -613,21 +613,21 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3NtZW9XVFh3dnFzMHJKc2plTWhVR0xTR2FnYWRobTd4WHExS0dWU1haV0F4NHNRckZTaklZajdGN0xwalZuREZpZS16bkNOMkU2akZsdFVtdktIVTN4WmZ6V0oyZ1V0ZHZId2lkSTdoMlN1aWs",
-   "title": "The Fed’s New Philosophy Could Be a Recipe for Interest Rate Volatility - Morningstar",
+   "title": "The Fed’s New Philosophy Could Be a Recipe for Interest Rate Volatility - morningstar.com",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3NtZW9XVFh3dnFzMHJKc2plTWhVR0xTR2FnYWRobTd4WHExS0dWU1haV0F4NHNRckZTaklZajdGN0xwalZuREZpZS16bkNOMkU2akZsdFVtdktIVTN4WmZ6V0oyZ1V0ZHZId2lkSTdoMlN1aWswX1dDbC1NNGhiWUU2d3AxdkpHUlUzY0hHalByS0RFUjh6cDh2YVk?oc=5",
-   "desc": "The Fed’s New Philosophy Could Be a Recipe for Interest Rate Volatility  Morningstar",
+   "desc": "The Fed’s New Philosophy Could Be a Recipe for Interest Rate Volatility  morningstar.com",
    "source": "US Fed",
-   "publisher": "Morningstar",
+   "publisher": "morningstar.com",
    "scope": "world",
    "ts": 1786061208000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQnh4YnROR0hCWnJRWThwQlJod1g2SmpIdUxybGFId1lteXlwSVN2VzBIamRBbW9oNmJiMnhkQmtJZ1hFWGNIbUxRRmNfMUE0SjMybjIzREFpV2NvWlA5TzZEeVgzeHIzcWZwLU95TV9CMU41RS1",
-   "title": "When will mortgage rates go down from a more than one-year high? - finance.yahoo.com",
+   "title": "When will mortgage rates go down from a more than one-year high? - Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQnh4YnROR0hCWnJRWThwQlJod1g2SmpIdUxybGFId1lteXlwSVN2VzBIamRBbW9oNmJiMnhkQmtJZ1hFWGNIbUxRRmNfMUE0SjMybjIzREFpV2NvWlA5TzZEeVgzeHIzcWZwLU95TV9CMU41RS1UU09JRkpQRDBnMTJBTDRaV3o0bFV3dU5CY2RLOGo3TmczZEg2Z0N4Z09leWhMUzlDT1pXSFRSM09sem5YOTMyanhFNHhlNTZGankwVlhvMk9rT0VyaVJtS1ZZUndzUVNn?oc=5",
-   "desc": "When will mortgage rates go down from a more than one-year high?  finance.yahoo.com",
+   "desc": "When will mortgage rates go down from a more than one-year high?  Yahoo Finance",
    "source": "US Fed",
-   "publisher": "finance.yahoo.com",
+   "publisher": "Yahoo Finance",
    "scope": "world",
    "ts": 1786058221000
   },
@@ -693,11 +693,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQTd2U0hIbFJCNzNPcnp2VksxMVlQN0c3MEQ1N2FTVHR6NmhuWWdGMm9OS1dUQmdqcEwtdnBmc0tSZUVIV3JGMXhZTTBISUVTclVzS3RjY0Y2amxHSnA0LThEWklhSXNvQmI3N2w1REl4eVhfclp",
-   "title": "India rate hike calls pushed back after central bank's dovish pause - Reuters",
+   "title": "India rate hike calls pushed back after central bank's dovish pause - reuters.com",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQTd2U0hIbFJCNzNPcnp2VksxMVlQN0c3MEQ1N2FTVHR6NmhuWWdGMm9OS1dUQmdqcEwtdnBmc0tSZUVIV3JGMXhZTTBISUVTclVzS3RjY0Y2amxHSnA0LThEWklhSXNvQmI3N2w1REl4eVhfclpFVnpOUUVNbE9Nang1Y010QVhHRkF4OXExQmNNMGhKano0YnYwWjg5ZVM2ek4xb1l1WEdPQkxmcHdGdXpmYlI?oc=5",
-   "desc": "India rate hike calls pushed back after central bank's dovish pause  Reuters",
+   "desc": "India rate hike calls pushed back after central bank's dovish pause  reuters.com",
    "source": "RBI",
-   "publisher": "Reuters",
+   "publisher": "reuters.com",
    "scope": "india",
    "ts": 1786028321000
   },
@@ -763,11 +763,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR0ZocU5tZHpESU1BT211bzhEM1BRdmJ3aG01UkpfVlNsektOMENwM0kzdC1iM2xxdHBKOW5NckRxWWRZdkNtTkV2aldtM01LWWVkTUctdmVZek14UjRGZFlPUzdCWTZFSmdjQ0gybmRTY0N3REt",
-   "title": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem - ptinews.com",
+   "title": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem - Press Trust of India",
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR0ZocU5tZHpESU1BT211bzhEM1BRdmJ3aG01UkpfVlNsektOMENwM0kzdC1iM2xxdHBKOW5NckRxWWRZdkNtTkV2aldtM01LWWVkTUctdmVZek14UjRGZFlPUzdCWTZFSmdjQ0gybmRTY0N3REt4RzFpWWdKeG1BdkxORHBCdFE2Q3IyYjZCT3Z5ZDdfZU05WVJSekNQZ2NPWlR0R1BHTUJEQi0ydGM0THZUemt5emEzSE9PZDhnVmNtYUVUd3JMc2xOQ3ctcVJodjExclZGZXhQYXZ5cW5sa0hnd3FpWnJOSk94NWUwbmc4YlZX?oc=5",
-   "desc": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem  ptinews.com",
+   "desc": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem  Press Trust of India",
    "source": "SIDBI / MSME",
-   "publisher": "ptinews.com",
+   "publisher": "Press Trust of India",
    "scope": "india",
    "ts": 1786019824000
   },
@@ -853,21 +853,21 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWkJDcC1lTkV1ZWpzVWdjY3d2T3VReDVNbHZpUU1TUFNhRFk5U1AzN2w1QU5RVmdSdkkxalVyU0FPU29IZnlwV3FYb1NUSFVNNTd0QlJSUnp5SWJoNHV0c1R6Q1VSMVZUelpUUDRIUjJEaTE1SEt",
-   "title": "Consumer companies' price hikes may keep core inflation elevated despite RBI's benign outlook: Report - bfsi.economictimes.indiatimes.com",
+   "title": "Consumer companies' price hikes may keep core inflation elevated despite RBI's benign outlook: Report - BFSI News",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWkJDcC1lTkV1ZWpzVWdjY3d2T3VReDVNbHZpUU1TUFNhRFk5U1AzN2w1QU5RVmdSdkkxalVyU0FPU29IZnlwV3FYb1NUSFVNNTd0QlJSUnp5SWJoNHV0c1R6Q1VSMVZUelpUUDRIUjJEaTE1SEtFU19OMHRYMjRnN2ZETDlPQTZuVXl5VnFjN2c2Z2U1ek1yYlhGVlo5SGpiYXE0STUxdWFOX21jeDJuZUhWaVFfS0xOLUtGZlNCelB2aEh0M1ZPWWRZeVNhQXNqLW94S0w1Q3dmZUFrcEx2cGhIdG5GNzZsTWIyN2xtbXXSAfYBQVVfeXFMUE1iWl9Ia0xRa0dJSjFySEtNUmlCTnJkdjMyWVdsMENYQ1g2YUowRkludmtldFNjamg3cFhlTHFjTl95bDNZZWFVUEU2YUxrY2RxanU4Y2ZNOHktR1M4LV9DYWJDWDlMYmdFZEFrOUE4UEl6Y1VDYjRLR2ZhemFkWVdoN0RIcGxRS2xsXzh0SmNrYlFNZ1o1TGswNW8yRFItWjdzYnJnZkcxNS1pVk80aFlQUllDWTBRd3lrQkNEU1laRHVIV3RUbEpGM3d5bktiQzA2dndVVXFoZnJCVDdQVi12dDBDMXZQa2NYN0xrSWpKcnhVWGVn?oc=5",
-   "desc": "Consumer companies' price hikes may keep core inflation elevated despite RBI's benign outlook: Report  bfsi.economictimes.indiatimes.com",
+   "desc": "Consumer companies' price hikes may keep core inflation elevated despite RBI's benign outlook: Report  BFSI News",
    "source": "RBI",
-   "publisher": "bfsi.economictimes.indiatimes.com",
+   "publisher": "BFSI News",
    "scope": "india",
    "ts": 1785994606000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbDVick5UWHZZd1Y1bE5zbW00ZnkwOFowYWpWWXJ2RlFyYmZXbURHUmJrR1ZwNHcwZ3E0QWlQZ2ZkOGZtWTd2Y04ySUpwUURjTlliTFlXeFpxZGxLMDhUT2JtYWZiT0dFNFM4TGhwMHpPbldrbXp",
-   "title": "RBI Keeps Repo Rate at 5.25%, Raises FY27 Growth Forecast to 6.7% Amid Inflation Risks - Daily Pioneer",
+   "title": "RBI Keeps Repo Rate at 5.25%, Raises FY27 Growth Forecast to 6.7% Amid Inflation Risks - dailypioneer.com",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbDVick5UWHZZd1Y1bE5zbW00ZnkwOFowYWpWWXJ2RlFyYmZXbURHUmJrR1ZwNHcwZ3E0QWlQZ2ZkOGZtWTd2Y04ySUpwUURjTlliTFlXeFpxZGxLMDhUT2JtYWZiT0dFNFM4TGhwMHpPbldrbXpOOTlWZGtEWkdLeWFCUWx3Zw?oc=5",
-   "desc": "RBI Keeps Repo Rate at 5.25%, Raises FY27 Growth Forecast to 6.7% Amid Inflation Risks  Daily Pioneer",
+   "desc": "RBI Keeps Repo Rate at 5.25%, Raises FY27 Growth Forecast to 6.7% Amid Inflation Risks  dailypioneer.com",
    "source": "RBI",
-   "publisher": "Daily Pioneer",
+   "publisher": "dailypioneer.com",
    "scope": "india",
    "ts": 1785992832000
   },
@@ -913,21 +913,21 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLUZyU0ViS2R4Nkx2b3c2bUlHUld4cDVmMDVVNXZvOVZ3Nm55Z0ppakZBblkyY0NxdnpOdzlIT1pHSjdfckIxMDhwT1FNMTN4LXR2VnliSGJ3UlV0emNQNXB1UFliN0ZON2hKcEdUZnk2c3h0WVZ",
-   "title": "RBI keeps rates unchanged, chooses caution amid global uncertainty - indianexpress.com",
+   "title": "RBI keeps rates unchanged, chooses caution amid global uncertainty - The Indian Express",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLUZyU0ViS2R4Nkx2b3c2bUlHUld4cDVmMDVVNXZvOVZ3Nm55Z0ppakZBblkyY0NxdnpOdzlIT1pHSjdfckIxMDhwT1FNMTN4LXR2VnliSGJ3UlV0emNQNXB1UFliN0ZON2hKcEdUZnk2c3h0WVZZb0VlQk9wallLS2FLbzhKcEhvOXVGVzVYUFFoQm1jbGpJNUNFc1lRMjFubDU1OEh2UWF1UnNvZGxuMUlELVFQUWZB0gG_AUFVX3lxTE51c0stV01KNDluenNXZHAzMjlkUVJTNGxVamVVTnpOdHNjYXNSN0dhcWU4VXFZdDRmaFA5b2xqQV84Mmx6UHNVelA2eE5Gb1c0SXcxSGNUWFJOQzI3X0l6a3lOdmRiSG4wcmEyeHMxNlFGUFdZNlZRTFFSMlZpakduTDUtWExLdmVnRnNqZU9NU3RRb0taVVVtWGJpNXAyWXRlZFRvaE42emFwTktiVGR0aUd4RFZmd185bWs5WXhV?oc=5",
-   "desc": "RBI keeps rates unchanged, chooses caution amid global uncertainty  indianexpress.com",
+   "desc": "RBI keeps rates unchanged, chooses caution amid global uncertainty  The Indian Express",
    "source": "RBI",
-   "publisher": "indianexpress.com",
+   "publisher": "The Indian Express",
    "scope": "india",
    "ts": 1785973857000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQakItQjA5OWVrVVFkY05YMWhOS25GcmRiZEZRYTdlS3FUOUlCMm1vN2h0MEMweEUyQmRDRVBGMEllMWdPalFQb3QtQ1ZrbnZqcnhuUWdxLV9PREs5QTd1cHNGSUpxNGJTc3BvNFdxSWx3TVBUYzN",
-   "title": "Federal Reserve Governor Cook: Ready to raise interest rates if inflation shows no signs of cooling - 富途牛牛",
+   "title": "Federal Reserve Governor Cook: Ready to raise interest rates if inflation shows no signs of cooling - news.futunn.com",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQakItQjA5OWVrVVFkY05YMWhOS25GcmRiZEZRYTdlS3FUOUlCMm1vN2h0MEMweEUyQmRDRVBGMEllMWdPalFQb3QtQ1ZrbnZqcnhuUWdxLV9PREs5QTd1cHNGSUpxNGJTc3BvNFdxSWx3TVBUYzNrX2swUy01eGNrVksxMDc5VkU5SDRPVnFfX3lPT1htT2hCY3dEZnZDT05jZ09IUHVR?oc=5",
-   "desc": "Federal Reserve Governor Cook: Ready to raise interest rates if inflation shows no signs of cooling  富途牛牛",
+   "desc": "Federal Reserve Governor Cook: Ready to raise interest rates if inflation shows no signs of cooling  news.futunn.com",
    "source": "US Fed",
-   "publisher": "富途牛牛",
+   "publisher": "news.futunn.com",
    "scope": "world",
    "ts": 1785968100000
   },
@@ -943,11 +943,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV1czUFF0Zmpmd3VHcUUtZDJId0hCZlk1UUJsRzY5ckhwZnZrOEsxb3hudDdVTjdockppME9odzRzaW1IZ3hMNTZqVWR2NHdVLUU0NnhMdmllOTE0ZEJ4Q25IN2ZTbUVjVWFuaWVHYXlrRE0tR29",
-   "title": "Fed governor Lisa Cook: 'I am prepared to act' on interest rates if inflation remains elevated - finance.yahoo.com",
+   "title": "Fed governor Lisa Cook: 'I am prepared to act' on interest rates if inflation remains elevated - Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV1czUFF0Zmpmd3VHcUUtZDJId0hCZlk1UUJsRzY5ckhwZnZrOEsxb3hudDdVTjdockppME9odzRzaW1IZ3hMNTZqVWR2NHdVLUU0NnhMdmllOTE0ZEJ4Q25IN2ZTbUVjVWFuaWVHYXlrRE0tR292ckctenl4aWNwOG9sYXhCLTZMQ0g4LWs4akJJdTJ0cW1ZRUFsazdfbXFfNnlmUGp6OENCNUNfQW82ME9MVUtKTllaMXJzRkNwYzlzVEVpdF9SSlFRdno5OWNMaEZOR3FXV3M4MU1BMUV2c0ZMNzlZdGU3SzZj?oc=5",
-   "desc": "Fed governor Lisa Cook: 'I am prepared to act' on interest rates if inflation remains elevated  finance.yahoo.com",
+   "desc": "Fed governor Lisa Cook: 'I am prepared to act' on interest rates if inflation remains elevated  Yahoo Finance",
    "source": "US Fed",
-   "publisher": "finance.yahoo.com",
+   "publisher": "Yahoo Finance",
    "scope": "world",
    "ts": 1785960789000
   },
@@ -1033,11 +1033,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmY1OTBseVNOZFM4X3M4MmNEem0welNsVnhLZF9Qb0N6Mnhzc1gzOXY0NUdIV3FCNXdnUGNmUkp5R1ZjQVVIaWgxVmJ6NEdGa3UyZFd0eXE4N0hxbWlFZHpXMUFPbVJ4ZzV4ZGJGQmZKVmxpc0d",
-   "title": "RBI Governor says outlook hazy, need clarity before taking any policy action - indianexpress.com",
+   "title": "RBI Governor says outlook hazy, need clarity before taking any policy action - The Indian Express",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmY1OTBseVNOZFM4X3M4MmNEem0welNsVnhLZF9Qb0N6Mnhzc1gzOXY0NUdIV3FCNXdnUGNmUkp5R1ZjQVVIaWgxVmJ6NEdGa3UyZFd0eXE4N0hxbWlFZHpXMUFPbVJ4ZzV4ZGJGQmZKVmxpc0dtR3lIVEJGMmc4YVNndnRaTTlnWmZFajF3Y2xDeEdwNGNVeVdMSENBMmotVFNrUGhSMzBjS2ljTFY2cEQzLUFHdHhDRTlTdjExYjRsSlN2WkluYjEwOXlSN0kt0gHXAUFVX3lxTE9CckpjMzlGNERNbENweXQ2U2ZrNmpobmlQR2xaa1dRWWFnM2p5bV9HRGdVVHd0UTFZNUNCN1hVZ2RhZWhWTlNyTFdGdVVsRkVtNWpkelNtVVFvREpKSEIzb0M5c0hOcHB1OXltTjhhM0lHaEcwRFpnamdCMjZvczBmd2J0ZG1rUk9mXzBPdzJvQWpFSHVwcXZleWc5ZFBzcjJSbS1GeVFHc29scUtnbWhxYnV5N21zWGZoNTdHUGprOGcxX0pFRTZYOUw0c19kNUdYMFFXTDZr?oc=5",
-   "desc": "RBI Governor says outlook hazy, need clarity before taking any policy action  indianexpress.com",
+   "desc": "RBI Governor says outlook hazy, need clarity before taking any policy action  The Indian Express",
    "source": "RBI",
-   "publisher": "indianexpress.com",
+   "publisher": "The Indian Express",
    "scope": "india",
    "ts": 1785934254000
   },
@@ -1093,11 +1093,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PSnVQYWlsdkd0S0JmRnh5bURkWHVDUVFHWi0wa04yWUo5Zk1TNlkzT2NzeHozWmRkSzUyU2hpd0Y0VDgyZkJqcGdVQzRIVFRpaUNHYXpscw?oc=5",
-   "title": "RBI keeps policy rate unchanged for third time in row in FY27 amid West Asia crisis - Asia Insurance Post",
+   "title": "RBI keeps policy rate unchanged for third time in row in FY27 amid West Asia crisis - asiainsurancepost.com",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PSnVQYWlsdkd0S0JmRnh5bURkWHVDUVFHWi0wa04yWUo5Zk1TNlkzT2NzeHozWmRkSzUyU2hpd0Y0VDgyZkJqcGdVQzRIVFRpaUNHYXpscw?oc=5",
-   "desc": "RBI keeps policy rate unchanged for third time in row in FY27 amid West Asia crisis  Asia Insurance Post",
+   "desc": "RBI keeps policy rate unchanged for third time in row in FY27 amid West Asia crisis  asiainsurancepost.com",
    "source": "RBI",
-   "publisher": "Asia Insurance Post",
+   "publisher": "asiainsurancepost.com",
    "scope": "india",
    "ts": 1785929316000
   },
@@ -1113,11 +1113,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQclpzQVE2WVJGcGo4dThvVGl5S195dUphXzJPWU9GSE1OUXVIam9yYm5QaTAwa1dFRmlFYng2MU5qMmQtcXU3bE8xZkpUcFJYbnRPOGh1TFZnaUV5RnZKaDlNX1BVdWNTWFRZNEN1VnJIdElRVFd",
-   "title": "World Bank Says AI Could Accelerate Growth in Developing Economies Amid Global Slowdown - fundsforNGOs News",
+   "title": "World Bank Says AI Could Accelerate Growth in Developing Economies Amid Global Slowdown - news.fundsforngos.org",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQclpzQVE2WVJGcGo4dThvVGl5S195dUphXzJPWU9GSE1OUXVIam9yYm5QaTAwa1dFRmlFYng2MU5qMmQtcXU3bE8xZkpUcFJYbnRPOGh1TFZnaUV5RnZKaDlNX1BVdWNTWFRZNEN1VnJIdElRVFdFZnZWR3VkUjgwZzFaNTNCbnVsVW0xMVBSZUN5bmFvTDEzcTZCeVJCZ3NFS0l0U0YzUHRPZTVtc3NTdWpOeWJxNWd5U253ZGVxSmRqLWJYUDZ2UQ?oc=5",
-   "desc": "World Bank Says AI Could Accelerate Growth in Developing Economies Amid Global Slowdown  fundsforNGOs News",
+   "desc": "World Bank Says AI Could Accelerate Growth in Developing Economies Amid Global Slowdown  news.fundsforngos.org",
    "source": "IMF / World Bank",
-   "publisher": "fundsforNGOs News",
+   "publisher": "news.fundsforngos.org",
    "scope": "world",
    "ts": 1785927250000
   },
@@ -1163,11 +1163,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzhMX2lvbHNQZTVqS2stZzBYZzhzUmcwc0Y4X2ZJQUVWU0ZtNklzOC0zVkFwS3ZUak5zajIyTTV3YWc3cllicXY5MWU5WlBudW1VNkxqVHpGQTVGQXlsVDRZb1RTN2pfNFplR2NJR1NOVXJtaEl",
-   "title": "RBI’s balanced policy stance to support growth, investment sentiment: PHDCCI - ddnews.gov.in",
+   "title": "RBI’s balanced policy stance to support growth, investment sentiment: PHDCCI - DD News",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzhMX2lvbHNQZTVqS2stZzBYZzhzUmcwc0Y4X2ZJQUVWU0ZtNklzOC0zVkFwS3ZUak5zajIyTTV3YWc3cllicXY5MWU5WlBudW1VNkxqVHpGQTVGQXlsVDRZb1RTN2pfNFplR2NJR1NOVXJtaElMbDJtd0xSX0x0VHhWd3g3WTFnT1BaLVJpeFZORkQ5Z2l4QWZOUVdVRlVQ?oc=5",
-   "desc": "RBI’s balanced policy stance to support growth, investment sentiment: PHDCCI  ddnews.gov.in",
+   "desc": "RBI’s balanced policy stance to support growth, investment sentiment: PHDCCI  DD News",
    "source": "RBI",
-   "publisher": "ddnews.gov.in",
+   "publisher": "DD News",
    "scope": "india",
    "ts": 1785923684000
   },
