@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-09T21:40:21.292167+00:00",
+ "updated": "2026-08-09T22:36:48.351964+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXM0OTQ2bFZRSVg2T3JnWVFLZjFQRnZXYnlUQzJSam1tT25NVHlheUZPWkR3YW5HYTZreFRPbkVPNzJqbldhTmdZQkVKNkR0SE5BcHlqV1c5QTJOMXNjb3ZTaFFhZWZJdjlMelkwS2k2cXBVNUw",
@@ -10,6 +10,16 @@
    "publisher": "Deccan Herald",
    "scope": "india",
    "ts": 1786303903000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
+   "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+   "desc": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News  News On AIR",
+   "source": "RBI",
+   "publisher": "News On AIR",
+   "scope": "india",
+   "ts": 1786303777000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MQm1xektUbDZuUDVRekJldUJwTFBKWlh3a211c2E3cm1veEg3a2RHWVFUSC1LYXctMlBGLTJrMk0td0dfajhuam1SZ1lLUm9QdVlNMDM2RFh1eUEwUXIxbF9jeTFZeUdpNUFTTDVGNUtzTDZJ?oc",
@@ -50,16 +60,6 @@
    "publisher": "News On AIR",
    "scope": "india",
    "ts": 1786269028000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
-   "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
-   "desc": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News  News On AIR",
-   "source": "RBI",
-   "publisher": "News On AIR",
-   "scope": "india",
-   "ts": 1786267200000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmRTTHRPT2xya2JSUFd2Nld3TXFvQlRGUmxsREUwWUFBSERFNm5ITEJLUXYwMTVQRzRScUtKZExpcEloSDFwM2UwV2p2bks0czctZDFtcl80N0VyWUVKWmJLakNLQnNtUG96WW1KUVB1RlN1T1p",
@@ -272,16 +272,6 @@
    "ts": 1786130826000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTG9KU1FNYlJWMWZlTHpESThCWUZqWUxJT0tGR2JSMXNPY2ExR1NjbHFlNmphUnM3bkI2TFp3ME1uVEMtZGRCQ0Zvbmx2aXhlaUMzUDVERTJ1UWdpRW5FcS1ialVZMG1ab0NOamtZR0VfSTZUZEI",
-   "title": "How would the markets react to fewer Fed meetings? - marketplace.org",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTG9KU1FNYlJWMWZlTHpESThCWUZqWUxJT0tGR2JSMXNPY2ExR1NjbHFlNmphUnM3bkI2TFp3ME1uVEMtZGRCQ0Zvbmx2aXhlaUMzUDVERTJ1UWdpRW5FcS1ialVZMG1ab0NOamtZR0VfSTZUZEI2T2tUbk1TdzRxUlRxVDhFbkVCVGJmQlk5Qy1icFNGM1g4Z0R3?oc=5",
-   "desc": "How would the markets react to fewer Fed meetings?  marketplace.org",
-   "source": "US Fed",
-   "publisher": "marketplace.org",
-   "scope": "world",
-   "ts": 1786128627000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkV3WmFpUmlEQlBFQ2hBNzk2eUx2d3RSZjlTT044WXc3Rjl5Mm53SmJqdnZFTHRPVmF2VFlKTUdQZjQ2LXdTU01TS0c5VDJBWjFrNnQwVHc4QnVidzgtSVFiYzZlc19fcXlyUVEzMk1lWHdmUkg",
    "title": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say. - CBS News",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkV3WmFpUmlEQlBFQ2hBNzk2eUx2d3RSZjlTT044WXc3Rjl5Mm53SmJqdnZFTHRPVmF2VFlKTUdQZjQ2LXdTU01TS0c5VDJBWjFrNnQwVHc4QnVidzgtSVFiYzZlc19fcXlyUVEzMk1lWHdmUkg5c2VTT2JJbnQtNDh2NFlGQmtUMU1TM1NIOXpYU0lCVTYxNA?oc=5",
@@ -312,22 +302,12 @@
    "ts": 1786123800000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc05jOExPbW1VT3dweGswTGZoNEI0WUQ5em1lcjJySk54SHNyNGFjY1hJaXdtQXd6bnBNODFNN1JsTnNja3NibHkyMjBxWnhjQk5SVTVNczVLaDJuOHlScHhIaE9sUUROaXd6amp6bjI2TzhUNkp",
-   "title": "Sebi clears IPO plans of 9 firms, including PlaySimple Games, Garuda Aerospace, Rediff.com and Jakson Green - Fortune India",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc05jOExPbW1VT3dweGswTGZoNEI0WUQ5em1lcjJySk54SHNyNGFjY1hJaXdtQXd6bnBNODFNN1JsTnNja3NibHkyMjBxWnhjQk5SVTVNczVLaDJuOHlScHhIaE9sUUROaXd6amp6bjI2TzhUNkpaRmtnY2F6WTZwd2FZN09BeHVLTVUycmd6NmdvWVJVSlF1Uzk4b1pXUUNqQ2E1OVJLQTktX2thR081cE1kdFhqN3lUdlQ0elpid2UzOTM1Yy1WWVNqYloxWldpZDUwQVNhVmNMNFI4U1FvNdIB7gFBVV95cUxNU0JyRVc0NnFkRDcxUDBLb1hRRUpjUmNLRUtjN0psdkpOLWFLOVZiaW1ZMFl1eHkyTlg0T1gtUVR3d2w2RWE3TXZtVk83WG4wdW91bU82eVIyVkhqaVlkdkhUa0VEQUszblFuYjZrLXRfbHpWS3pTUG9aQmloVmdUX3ExUVpqNVRuS0k4NXItNnlzUW53SVJmZWZKZ2Y1UDlLY0cySmZSRVlEQnJSeU9ndGZuaWp1RUNLYkg1YVRXVHJuOVJTQ3ZfSUlnajQ0Vi13THh3QVBLaTdfT3BWcXlXUXloSmZLWkwweUVHR1h3?oc=5",
-   "desc": "Sebi clears IPO plans of 9 firms, including PlaySimple Games, Garuda Aerospace, Rediff.com and Jakson Green  Fortune India",
-   "source": "SEBI",
-   "publisher": "Fortune India",
-   "scope": "india",
-   "ts": 1786121647000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdy1DZEhDQkYxaTQxWFhTMTE3SEhnRURrb3VYeEl2cjdzZWVfVTVaa0Y2emgzbXM5ZzBSUXNEeUVZWXVLTVBNUlBWMjRzaDZna2w4WEdLVVk4T0FXR0VjQ1dYbGk5SFZaRUJkU0RTSzF2aHRXT2t",
-   "title": "CAS transition to achieve cross-market consistency, boost price discovery mechanism: SEBI - legal.economictimes.indiatimes.com",
+   "title": "CAS transition to achieve cross-market consistency, boost price discovery mechanism: SEBI - ETLegalWorld.com",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdy1DZEhDQkYxaTQxWFhTMTE3SEhnRURrb3VYeEl2cjdzZWVfVTVaa0Y2emgzbXM5ZzBSUXNEeUVZWXVLTVBNUlBWMjRzaDZna2w4WEdLVVk4T0FXR0VjQ1dYbGk5SFZaRUJkU0RTSzF2aHRXT2tMZ3JTWlZiMjBNUGRlamdQcmVwSzNJVUtEc0dsZ1FnWXJDeHJoRnZWRTNFVEFCbElORGtCa3dNd3FDakV3Z3AxNzJNNWt0SHBKSzdXcmVmVnR5WFpJOE9CNzJYSlFCOC1IOUhfNmV4aF9wZ2VwQzlrR2hYSUJaZNIB8gFBVV95cUxNMUdTUm00RkVibEE4ODNUR1YzakoyLUliMEtVV3JrcWxEUjNxNkMxVGVXdHU5X2lhazdjQTBFbkRWa1A0Z1NmcGphUFlxREhDSXNLb0g2c05EOENMaVBxdEEzTGhEWXlORzRQcnZXejFSMFRERVBUSmFzejBULWFQQnNhTzhNZ0UtT1ZYWndJQ0xJQUMyZ0RDdnYzcF9kTnhxWWIzeXhjMjVfa245V0l3WkVLcVphY2NNN1lGbkVRZlRzaFh6S3JRMHJCZ0htQVg3SUFaZDU4dDB2eWxQOHRqdFF3SXM1NVhKbENMLU5aS216Zw?oc=5",
-   "desc": "CAS transition to achieve cross-market consistency, boost price discovery mechanism: SEBI  legal.economictimes.indiatimes.com",
+   "desc": "CAS transition to achieve cross-market consistency, boost price discovery mechanism: SEBI  ETLegalWorld.com",
    "source": "SEBI",
-   "publisher": "legal.economictimes.indiatimes.com",
+   "publisher": "ETLegalWorld.com",
    "scope": "india",
    "ts": 1786120004000
   },
@@ -493,11 +473,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMXRYckVGYzVlMU16RGcxdm1raGRDeTc4YUVSVU5wMUpENFNmMW80WDhXZ01mUHJCc0Y0LWE2TnYyWXFWSm5OTFBUX2pDZzg0RmJwcl9FSXBNRkwzYlk3bGZBS196dFdveUFjaGFPdDQ4V19fTzA",
-   "title": "MSME business confidence declines for fourth straight quarter, cost and demand pressures weigh: SIDBI - tribuneindia.com",
+   "title": "MSME business confidence declines for fourth straight quarter, cost and demand pressures weigh: SIDBI - The Tribune",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMXRYckVGYzVlMU16RGcxdm1raGRDeTc4YUVSVU5wMUpENFNmMW80WDhXZ01mUHJCc0Y0LWE2TnYyWXFWSm5OTFBUX2pDZzg0RmJwcl9FSXBNRkwzYlk3bGZBS196dFdveUFjaGFPdDQ4V19fTzA4SnFiTXJIM3ZxUFgyNTZjWFhnSzE2UTJ4UzZsNzBILVhjdTNPTkUxRzlEZHYtVmZrVEFBUG5fMzgxbEN2akVOQ252T0tnbnI3eWFWQV9ZQlYtekYyRk9pdXQ1QWFsQzRMaXFlLXRmRTBj0gHfAUFVX3lxTE4xdFhyRUZjNWUxTXpEZzF2bWtoZEN5NzhhRVJVTnAxSkQ0U2YxbzRYOFdnTWZQckJzRjQtYTZOdjJZcVZKbk5MUFRfakNnODRGYnByX0VJcE1GTDNiWTdsZkFLX3p0V295QWNoYU90NDhXX19PMDhKcWJNckgzdnFQWDI1NmNYWGdLMTZRMnhTNmw3MEgtWGN1M09ORTFHOURkdi1WZmtUQUFQbl8zODFsQ3ZqRU5DbnZPS2ducjd5YVZBX1lCVi16RjJGT2l1dDVBYWxDNExpcWUtdGZFMGM?oc=5",
-   "desc": "MSME business confidence declines for fourth straight quarter, cost and demand pressures weigh: SIDBI  tribuneindia.com",
+   "desc": "MSME business confidence declines for fourth straight quarter, cost and demand pressures weigh: SIDBI  The Tribune",
    "source": "SIDBI / MSME",
-   "publisher": "tribuneindia.com",
+   "publisher": "The Tribune",
    "scope": "india",
    "ts": 1786099109000
   },
@@ -583,11 +563,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xT01nQWl1aHJta0hCTGZ2clp1amtfTC1JY3QyM3N3RUwydWlQVEoyNE9jOExRckZpTHB1OGhjN1g3dHc2YnhSYkQ0al8zSXlQN1hUOVNqSURpUHF4Vk9mMlZ4VkltczVtUnQzU1lfNFljVW1MeXJ",
-   "title": "Sebi to simplify rules, ramp up technology use - PressReader",
+   "title": "Sebi to simplify rules, ramp up technology use - pressreader.com",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xT01nQWl1aHJta0hCTGZ2clp1amtfTC1JY3QyM3N3RUwydWlQVEoyNE9jOExRckZpTHB1OGhjN1g3dHc2YnhSYkQ0al8zSXlQN1hUOVNqSURpUHF4Vk9mMlZ4VkltczVtUnQzU1lfNFljVW1MeXJFUU55QQ?oc=5",
-   "desc": "Sebi to simplify rules, ramp up technology use  PressReader",
+   "desc": "Sebi to simplify rules, ramp up technology use  pressreader.com",
    "source": "SEBI",
-   "publisher": "PressReader",
+   "publisher": "pressreader.com",
    "scope": "india",
    "ts": 1786067914000
   },
@@ -633,11 +613,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYTdDSFdoSnVJYXh1elNfdmRPU1hhSU1rQlU1enM5alVnaC1wc2puUmVCQV81dTdfbmd3WURDdnJFVkY1RlRfanl5eEZmcE9Pa1MtY0VXVm9QcGJfRXZpTkNxSVB3TG5ubVBBSy1RVE5mRWJNdGE",
-   "title": "RBI targeting polymer currency notes launch in early FY28: Guv Malhotra - dailypioneer.com",
+   "title": "RBI targeting polymer currency notes launch in early FY28: Guv Malhotra - Daily Pioneer",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYTdDSFdoSnVJYXh1elNfdmRPU1hhSU1rQlU1enM5alVnaC1wc2puUmVCQV81dTdfbmd3WURDdnJFVkY1RlRfanl5eEZmcE9Pa1MtY0VXVm9QcGJfRXZpTkNxSVB3TG5ubVBBSy1RVE5mRWJNdGE2VXF0QmloZjB2NXlQdkVfYlR3SjRIMEMyTkExd3NXQ0FtX0dSYmRIdVRUc0E?oc=5",
-   "desc": "RBI targeting polymer currency notes launch in early FY28: Guv Malhotra  dailypioneer.com",
+   "desc": "RBI targeting polymer currency notes launch in early FY28: Guv Malhotra  Daily Pioneer",
    "source": "RBI",
-   "publisher": "dailypioneer.com",
+   "publisher": "Daily Pioneer",
    "scope": "india",
    "ts": 1786037142000
   },
@@ -723,11 +703,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTE9KS1BRTnJFR0M2RUlmYmtrYVR4T3FWYkM1NWNXUjY4cjRhTk9OSUdoWWZzdFRnVXhFYW9NY2o2VXRsajRRUndBYUdqaHBFWDVPYzlJQmJSd2JjRGd6QXJJd2FoZjlmbUZJSlYtUnFCNUlUTnF",
-   "title": "What changes under RBI's new framework for loan recovery and recovery agents - bfsi.economictimes.indiatimes.com",
+   "title": "What changes under RBI's new framework for loan recovery and recovery agents - BFSI News",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTE9KS1BRTnJFR0M2RUlmYmtrYVR4T3FWYkM1NWNXUjY4cjRhTk9OSUdoWWZzdFRnVXhFYW9NY2o2VXRsajRRUndBYUdqaHBFWDVPYzlJQmJSd2JjRGd6QXJJd2FoZjlmbUZJSlYtUnFCNUlUTnFFSzhJLVlpTlQxdy13M1JCakZGOUxXdlYtekpVS3lMWWNWajRyamxwY3BkeGw1aWF1bDFobW5fZGFiZHZNSEExTVBEcno0THJkdExKZjdMVHNXemp6LXJjR2xZaFHSAdcBQVVfeXFMTXI4V1lXN1pQZ1c2M0Naa3pKZHpXek80QWVfLTRiSldqcG1LcU10WVRZNndVcEZ4cDVoeklVQ1hqQUFaQVdtU0dCbV9BLUhRMld6RTR2eXRzMXZra1NzMUlFMUotNGRpaU1ZTWJBMTBJZTFYR2Q5Z203dFZpRVpvQXRhOFM1dFRORktQTWU5R3o5d0xtY0xXQ25DRDN6a0hhbkUtalFKaVNQVlVBNE9xeGxRdkQ3WXllU0hyd0ZCdEZQajVZNWluZ3BKemI4UWlkMU93STlMa28?oc=5",
-   "desc": "What changes under RBI's new framework for loan recovery and recovery agents  bfsi.economictimes.indiatimes.com",
+   "desc": "What changes under RBI's new framework for loan recovery and recovery agents  BFSI News",
    "source": "RBI",
-   "publisher": "bfsi.economictimes.indiatimes.com",
+   "publisher": "BFSI News",
    "scope": "india",
    "ts": 1786026538000
   },
@@ -792,16 +772,6 @@
    "ts": 1786000232000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQY09YUWZMN1huYUlSOEg4RVZNX3hMRFozOGt4dnhxSEhEODAwVVRpdDFCVExXUFBtU1FYeE5HNWFYa2RaOHh6WjVnZFl5YkVRSldwd041ZDFVN2JYWnlpYVFQT1U2X21vY2JLbnFCZllaREJ2b3l",
-   "title": "Thailand Ready to Welcome 191 Countries to the 2026 Annual Meetings of the International Monetary Fund and the World Bank Group - PR Newswire",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQY09YUWZMN1huYUlSOEg4RVZNX3hMRFozOGt4dnhxSEhEODAwVVRpdDFCVExXUFBtU1FYeE5HNWFYa2RaOHh6WjVnZFl5YkVRSldwd041ZDFVN2JYWnlpYVFQT1U2X21vY2JLbnFCZllaREJ2b3lhcjhSZW1pb2hPTTFLbEEzbS1jN19nRHdvaHVfZUZXZ0ZNYlFpaTZtQV84R2MwX2RUbUFheHhROUV4TVl3eS1GcUtlTUZrOWt6alZpTnhSVmdPbTZ0QW1QTmtwalVNVE14dEhyNG1ZZDByOTAyRTNWUnllRWlGUk5TNDJWN1VTYVdjVE15bGlmR1o0UDJKN1FnZXV5VktBb2xNdlNZeWx4emc?oc=5",
-   "desc": "Thailand Ready to Welcome 191 Countries to the 2026 Annual Meetings of the International Monetary Fund and the World Bank Group  PR Newswire",
-   "source": "IMF / World Bank",
-   "publisher": "PR Newswire",
-   "scope": "world",
-   "ts": 1786000200000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPVTUyZHRSZ09PSTZKdnRtR1dlb3lCWGlRd3Y5cWFQYVZiZUNNZjVJLUp6YTdwOC1vMGdDYWhEZUQ5MThObnRwZEVLRVIwZHl6cG1ORk1ZYWlnakhzMjloUENoano5QlNvRkNR?oc=5",
    "title": "NABARD Grade A Salary 2026 (Expected): In-Hand Salary, Pay Scale, Allowances & Job Profile - PW",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPVTUyZHRSZ09PSTZKdnRtR1dlb3lCWGlRd3Y5cWFQYVZiZUNNZjVJLUp6YTdwOC1vMGdDYWhEZUQ5MThObnRwZEVLRVIwZHl6cG1ORk1ZYWlnakhzMjloUENoano5QlNvRkNR?oc=5",
@@ -832,14 +802,14 @@
    "ts": 1785997610000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQc1pGNXNHWGNZaF9CdWhaM1ZpTTFCS19rZjYzdkhuZXlldWkwRU1CZTFsUEpfVldXRVkzYjV6eVc2Mk9XUUJyb0xvUnhXd1JZd1BSY0FYVjltdEk0d1dHSnJmeVJzNHltc1F6SXdTYnIxSHRHZzJ",
-   "title": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem - Press Trust of India",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQc1pGNXNHWGNZaF9CdWhaM1ZpTTFCS19rZjYzdkhuZXlldWkwRU1CZTFsUEpfVldXRVkzYjV6eVc2Mk9XUUJyb0xvUnhXd1JZd1BSY0FYVjltdEk0d1dHSnJmeVJzNHltc1F6SXdTYnIxSHRHZzJIOWstM1o4S0paUFlKbzQ2b3NjeFZkM2xqcGV2M09iUlRSU3ZWYUhvMU9tRzlTR0FhRVBEakxtbVAySXBTcWdtNC1YaEhWNTdodUhlS0o0WmFLY2IyS1lrN0FHWVJwQ1pvSFlVTGMweFo1YVdhcUtmVzRaVWQyTXh0Yi1IN201?oc=5",
-   "desc": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem  Press Trust of India",
-   "source": "SIDBI / MSME",
-   "publisher": "Press Trust of India",
+   "id": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWmpYN0RrNFUtaEtBVnZYMU53MVhrd2psbDJVU01PSjFUbTFTWVZrbXkxT2lOdXZiaThQQVBoR0JwRHRyWHRfYndTUXBSbEtFcFMzbTd6NU8yYUxEX0gzbndCdXlSRlI0NnZPdEJUc1BBN28tXzN",
+   "title": "Stock Markets Today: Sensex, Nifty gain as RBI holds rates, crude oil dips - Rediff",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWmpYN0RrNFUtaEtBVnZYMU53MVhrd2psbDJVU01PSjFUbTFTWVZrbXkxT2lOdXZiaThQQVBoR0JwRHRyWHRfYndTUXBSbEtFcFMzbTd6NU8yYUxEX0gzbndCdXlSRlI0NnZPdEJUc1BBN28tXzNfUndVb2tnbUF3QnpBaURIS2UwYWZyRVBZMTNQVklFQVFLeUtLcXg3LWVPTHhLZEFVVldvVGdVRVllYjQ2cWE4bHpsXzNNUHBXYlpObkFqTUVkYjg1bml1aXkyM1RvZ19ueEhDTF9EakHSAeABQVVfeXFMT3V1YWpWdl9ZY2Zyb1Z0SmMyczJwLXpoQkhJbGZBRWd1VWdyb3pteEZ2RHNmandBcjFCZTlGbHdJR0R0bGNhQ2JzRF9KUlF2YWNGOURtVWNUWmdoWkNJQ0UycXpjVGRoUEl1SGV6WVNGeXJ3dDVYUGN6YkxKeU52aDdJbUdUak1mRE1fbU9BbFh4TXFQZmdsUjJSd29Ra2MwN2t2VG5OVEcteEwxVnhHdVkyY0NaOE1vaWZzRTdEYy1lRW1oQ2t6N2JCTENCbld3WVItTzBnaDhOT1gzWWlXSWk?oc=5",
+   "desc": "Stock Markets Today: Sensex, Nifty gain as RBI holds rates, crude oil dips  Rediff",
+   "source": "RBI",
+   "publisher": "Rediff",
    "scope": "india",
-   "ts": 1785997601000
+   "ts": 1785993878000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JVnBYVDQyMGU1ZTNTWU51ZWQxUFBTLXRiaVdOWU5sbk9Mbno0a3ZKaWVXaUhUMmFwMmE1TW14OWdBekRCa0ZBdkdNeVNVcXZ3d1hia01IbWd2WnIxM0JQRHFmT0JKdDdRTGxSMTBqaHQ?oc=5",
@@ -913,11 +883,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeG9sNGNoTGRWWWVBTDVaaEFqb3VCX2dXOXBiVEk4dmd1ajhlejRFbHhsSjRJUHlyOHJHYU1XTGp5c1QzbjVZSWc1MkRyTm1ScWN5ZXNfNzE3M1F1X19tWVI3dEhwbHhpMV9mbmNQMGthZThCVkI",
-   "title": "RBI projects India's FY27 GDP growth at 6.7 per cent, flags inflation and El Niño risks - mid-day.com",
+   "title": "RBI projects India's FY27 GDP growth at 6.7 per cent, flags inflation and El Niño risks - Mid-Day",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeG9sNGNoTGRWWWVBTDVaaEFqb3VCX2dXOXBiVEk4dmd1ajhlejRFbHhsSjRJUHlyOHJHYU1XTGp5c1QzbjVZSWc1MkRyTm1ScWN5ZXNfNzE3M1F1X19tWVI3dEhwbHhpMV9mbmNQMGthZThCVkI4elZwblZCcVlQSm56S1VOejlyS3dIUEZYNXowNzJQVy1pUF8wTVZpYldpRmtqTUdnc0Z0NGd6LVNDaC1hOHhzYWhVOEZOanVrMHpwY3p6bjJWMkV6eGhuR0NkYUQ5UERJRkwtaVEtMU00VGZ2MnN0d1VzNUxsb01ON0NYWEnSAfgBQVVfeXFMTkhnZ2hpMEkwajBVVE52SjV0SDYyTnNjVjdQZ0FsUTJtWDhNanF0aTBOYjZ2SkVBb2ZqR01wRnhlcklhbGJPTVNleHJTVWw1eUVKTmpDM0RmYkxyRG1tREg1Uk5yZE5fMzczck1sV2c1ZDlEZUp3SHp4SW1yU3dVWldUNUtkbGVqRDdURW56NEdwamlVaG9HNE9TXzJHREc1aWdrSDIwMWJpeE92Ymt2N3NCcFRBVDNBakZSMUhXdTJNNlkxemkwYjBMMzVTeVMwU0EyTkt2RkN4cFc5SEtTejAwd0ZQWHBXRDE4QUxzRGlOTUFQUEhJN3I?oc=5",
-   "desc": "RBI projects India's FY27 GDP growth at 6.7 per cent, flags inflation and El Niño risks  mid-day.com",
+   "desc": "RBI projects India's FY27 GDP growth at 6.7 per cent, flags inflation and El Niño risks  Mid-Day",
    "source": "Indian Economy",
-   "publisher": "mid-day.com",
+   "publisher": "Mid-Day",
    "scope": "india",
    "ts": 1785942600000
   },
@@ -1000,16 +970,6 @@
    "publisher": "Rediff MoneyWiz",
    "scope": "india",
    "ts": 1785931433000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVkptVEUxdFU1dkRjVnVNQ2llUUdGb2twdVFhQ20xOU91VUxWSDZGaWRyS3gyeVlBazdBVmJ0T3o5WGpQcVBsZHNKenQ3bEZaejZTdy03eHZBLVp3Q3V5aUhpY2R4ekR4bE1aVWlGZ0VxQTU0eFM",
-   "title": "RBI Holds Repo Rate at 5.25% as Inflation Risks Rise - The Policy Edge",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVkptVEUxdFU1dkRjVnVNQ2llUUdGb2twdVFhQ20xOU91VUxWSDZGaWRyS3gyeVlBazdBVmJ0T3o5WGpQcVBsZHNKenQ3bEZaejZTdy03eHZBLVp3Q3V5aUhpY2R4ekR4bE1aVWlGZ0VxQTU0eFMzcU1lRG91RkZVUVB5dTA?oc=5",
-   "desc": "RBI Holds Repo Rate at 5.25% as Inflation Risks Rise  The Policy Edge",
-   "source": "RBI",
-   "publisher": "The Policy Edge",
-   "scope": "india",
-   "ts": 1785931234000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcEJyQzZQbHN0OEFwSjlqN3VuS2VVVWJpN0FSYWN6a2VYY3RkdXR0dmx3NEZqSktDb1ZGczJfRHVtZTI0VHREMnNRVFFBRWtsWmllNjFQM255NHZYMHNtMHdveXp2SUUwN25VWGEwMHBKVlVfT2x",
@@ -1102,14 +1062,14 @@
    "ts": 1785924208000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzhMX2lvbHNQZTVqS2stZzBYZzhzUmcwc0Y4X2ZJQUVWU0ZtNklzOC0zVkFwS3ZUak5zajIyTTV3YWc3cllicXY5MWU5WlBudW1VNkxqVHpGQTVGQXlsVDRZb1RTN2pfNFplR2NJR1NOVXJtaEl",
-   "title": "RBI’s balanced policy stance to support growth, investment sentiment: PHDCCI - ddnews.gov.in",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzhMX2lvbHNQZTVqS2stZzBYZzhzUmcwc0Y4X2ZJQUVWU0ZtNklzOC0zVkFwS3ZUak5zajIyTTV3YWc3cllicXY5MWU5WlBudW1VNkxqVHpGQTVGQXlsVDRZb1RTN2pfNFplR2NJR1NOVXJtaElMbDJtd0xSX0x0VHhWd3g3WTFnT1BaLVJpeFZORkQ5Z2l4QWZOUVdVRlVQ?oc=5",
-   "desc": "RBI’s balanced policy stance to support growth, investment sentiment: PHDCCI  ddnews.gov.in",
+   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR1VhdmdZYXhXX0NBRE1maVRxNlcwdlNUa01LVHB4S1oycHY3V0lFOEZuZmU3M2wxYTZfQjBiSXVnQkMzTFQ2R1NieUFMNWJTMFl6aUg2ZEJHVDgwdHNjUkFObHNoajFqd1lqUDhzSHVNVEx1MUZ",
+   "title": "RBI’s balanced policy stance to support growth, investment sentiment: PHDCCI - DD India",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR1VhdmdZYXhXX0NBRE1maVRxNlcwdlNUa01LVHB4S1oycHY3V0lFOEZuZmU3M2wxYTZfQjBiSXVnQkMzTFQ2R1NieUFMNWJTMFl6aUg2ZEJHVDgwdHNjUkFObHNoajFqd1lqUDhzSHVNVEx1MUZGX2FIRF9CWk5aeE1hckN6NVc3eGJfd3VaallXNDFOMWtKMmhDOGRYNDhUWkR0ejhRNA?oc=5",
+   "desc": "RBI’s balanced policy stance to support growth, investment sentiment: PHDCCI  DD India",
    "source": "RBI",
-   "publisher": "ddnews.gov.in",
+   "publisher": "DD India",
    "scope": "india",
-   "ts": 1785923520000
+   "ts": 1785923340000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSzJZTXhtdGd0MW1MQXF6ZC0weHpBSjdoMV9iVkcxMHI2djZYdkhJV3BPUHlxUENrU0hIYlRTSDF5Ml9HVzdzaFdIOFpualdIbG1zbTllel93YjlIWlF0WWZBcE5oQkdQdEV3OFo1YmpFQ0ZrRWx",
@@ -1200,6 +1160,46 @@
    "publisher": "Outlook Money",
    "scope": "india",
    "ts": 1785914607000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHRRaDg4SWtBaEQ4Rm1EbGY0b1N2bUpMLURJZXVNTzMxLThrdVd5WTZkU2pKV3diNkRhOF9VcXFtZEFDemdoazRhMmFJb1ZvaFh6UDlzcUpTeENnM0I5RVZWWk11Vnkwck1laVdWVEE3UHo4cjF",
+   "title": "RBI Keeps Repo Rate At 5.25%, Retains Neutral Policy Stance - Sarkaritel.com",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHRRaDg4SWtBaEQ4Rm1EbGY0b1N2bUpMLURJZXVNTzMxLThrdVd5WTZkU2pKV3diNkRhOF9VcXFtZEFDemdoazRhMmFJb1ZvaFh6UDlzcUpTeENnM0I5RVZWWk11Vnkwck1laVdWVEE3UHo4cjFBQmplejB4QTVSbFFrVUw?oc=5",
+   "desc": "RBI Keeps Repo Rate At 5.25%, Retains Neutral Policy Stance  Sarkaritel.com",
+   "source": "RBI",
+   "publisher": "Sarkaritel.com",
+   "scope": "india",
+   "ts": 1785914574000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMVZEU25pUTdKcWJtaWdPelBiNFFtWWdIa1BTRTZiakVwUzNKZjZLWW1ZUHNzclloNmtJS2NhR0Mzelh6aldQdXBXeVE2QXlPN2hyTU1rd3JxNUlLTWZneV9obXhYZ25MTEktaVU1ODdyTGt3N2d",
+   "title": "Improved balance of risk supports RBI to remain on wait & watch mode - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMVZEU25pUTdKcWJtaWdPelBiNFFtWWdIa1BTRTZiakVwUzNKZjZLWW1ZUHNzclloNmtJS2NhR0Mzelh6aldQdXBXeVE2QXlPN2hyTU1rd3JxNUlLTWZneV9obXhYZ25MTEktaVU1ODdyTGt3N2dBZGlPQWxkQTVNV3U1d1ozNE9tOTZoc1FWeVZabEVvYTVidnZGUmNuVEpvT01ORjBPMXJaZ2Znc1VTVGE1bExpX1VUaWJqVF9TaHNrM3VfVDZKNnZrel9RUdIB0wFBVV95cUxPV3BMUUN6bFowNVU0R0VvOERvLTJUdTBndXNkS0JrX2dnNk1XWkFRUWVNcmhPZE9kSzhBZUROWDREZmx5MDhQMFJBaTVGVlV0UTBQbWZVVWZqTjRDeWVkQ3ZsQ2ZRV2xkUjlqTWNaNnN3R19JSGhpcHdiZC1feDZNTmwyYURwR3k4eHBzem53eG5sRnk2YnRHay1PSEZhZjZjMUhyOVR0RFNMeGo1Q3UwQjladW9laG9fRkFWQlhwbWp5RXJvQWpoZ25qbmtwNGZ2cnIw?oc=5",
+   "desc": "Improved balance of risk supports RBI to remain on wait & watch mode  Business Standard",
+   "source": "RBI",
+   "publisher": "Business Standard",
+   "scope": "india",
+   "ts": 1785914485000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUlpZERrZGItVFh2OVgtMzN4MjUtRlR4SjhTdTBYQXRyMWNYRHpuNFo1MmRnMUV4aENrd1B4WkFxbG9tWmMtSXc5ek9lU01zWUJmbWp3WlpSYWZ0di0tbmpicGM2aU1fdUJQSk03eXE0UDM1azV",
+   "title": "RBI Policy Update August 2026: Repo Rate Unchanged at 5.25%, FY27 GDP Growth Raised to 6.7%, Inflation Forecast Cut - India Infoline",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUlpZERrZGItVFh2OVgtMzN4MjUtRlR4SjhTdTBYQXRyMWNYRHpuNFo1MmRnMUV4aENrd1B4WkFxbG9tWmMtSXc5ek9lU01zWUJmbWp3WlpSYWZ0di0tbmpicGM2aU1fdUJQSk03eXE0UDM1azVScEVncU95LW85N0xoajJiY3N4dF9OWlROMUFfTUZoVjFwcWw5UHRNT0lPSE01aDFSZXZwcUNvZlFtNVZTZzV3OS12Zk9teVRyMFFSdEtmOWRTNTRuRlAzdGZjSUxzUUM2VXNQM3JoN1lIQ3FfY01hSGFM?oc=5",
+   "desc": "RBI Policy Update August 2026: Repo Rate Unchanged at 5.25%, FY27 GDP Growth Raised to 6.7%, Inflation Forecast Cut  India Infoline",
+   "source": "RBI",
+   "publisher": "India Infoline",
+   "scope": "india",
+   "ts": 1785914337000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTTdtOHA4Z0k5bDFPN1p5ZFl4cTQ3T080ajdlc052S09fdnBWeEZNWGpBdUl0YVMybW5TeVk2djJ2ZzRZa2o0c0swbEV6YjlXS1JBdGJqRzZ5VEdTT2EtYmxyUnlwRTVIVW1SQ25icEdsTTNHbml",
+   "title": "Rupee gains post RBI policy; analysts say may rise to 90/$ by year-end - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTTdtOHA4Z0k5bDFPN1p5ZFl4cTQ3T080ajdlc052S09fdnBWeEZNWGpBdUl0YVMybW5TeVk2djJ2ZzRZa2o0c0swbEV6YjlXS1JBdGJqRzZ5VEdTT2EtYmxyUnlwRTVIVW1SQ25icEdsTTNHbmluOUFnaGF1cUxrV2hCTlBFYXJaaGtGbjdCYzhUWXNhWDY2aFplQzNucnpqOHQ1bmdYWHJYTnJmMmRpdHlVZm1Pek96a0pRWnkwSmxJLW1RWnQxWWFIck9zOFnSAdQBQVVfeXFMUDA3Tm9KV2lzUlRBNjB6cUluekZDOGJwMEJ0U1F2aVpoT0sxWmZEcDdheXg2SGNaeHY0VU00TU9VTlc4TjdrTUZmUEozeFB1RUxYeDhlNkhyWEpTMGt1WnBWN19IaUN4T2plZzlWQlVrMWN5Z0psV09XWFY4dXpSRnktcHRteFNjSXpaY01aR2JxM09wSlZ3akFPR091RGhERUFyM0ZvU1hyTl9WR3JLMTF2eTk1V25ISzZXZkhpeklyWlkzck5NRTlWdzZoNmNraGFqd20?oc=5",
+   "desc": "Rupee gains post RBI policy; analysts say may rise to 90/$ by year-end  Business Standard",
+   "source": "RBI",
+   "publisher": "Business Standard",
+   "scope": "india",
+   "ts": 1785914321000
   }
  ]
 }
