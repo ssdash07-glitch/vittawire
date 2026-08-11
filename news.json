@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-11T19:29:28.588332+00:00",
+ "updated": "2026-08-11T20:22:01.981597+00:00",
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVWRNM0VQWFp4QjZ4ekpfMlI4T3g2WUJ0eDJWbngtQ3NQb1ZaVUQzTC1yRE01VFhFUXVXMzdZeEJRYU5GNVZOYmMwN0FvMjRFbWxhQ2VnY3hSdkV0Rk8tVjNWZ0hLYWJ5RDgyT1pJeXlGenNsc3M",
+   "title": "Inflation Remains America’s Chief Economic Malady, Warns Chicago Fed’s Goolsbee - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVWRNM0VQWFp4QjZ4ekpfMlI4T3g2WUJ0eDJWbngtQ3NQb1ZaVUQzTC1yRE01VFhFUXVXMzdZeEJRYU5GNVZOYmMwN0FvMjRFbWxhQ2VnY3hSdkV0Rk8tVjNWZ0hLYWJ5RDgyT1pJeXlGenNsc3MzT2NodzYyOGtkWmxCdlV1UmJnV081a25CTEc2LW5iM2pURWo1R0FiUTkzMEpLYjRya3JRMDBqLWVFNFVpWGFGQXNBMmlmbFRCUG1IU19vdUd5NXZza0l4cWlPZkFNeTB3?oc=5",
+   "desc": "Inflation Remains America’s Chief Economic Malady, Warns Chicago Fed’s Goolsbee  TradingView",
+   "source": "US Fed",
+   "publisher": "TradingView",
+   "scope": "world",
+   "ts": 1786476061000
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQREc4OVVUbEYxLVQ1MTZYeE1sUmNTLWF2SkNzVGNaa015X1hpZWtnbldXQTVEMm1aNk5XTVhrYkpIWUZSQW9JbU1LVEx1ZXZPR3VOWkk4V0RpRHNtTTdRUzAwdzNYdlZyMm91Z0FSUHNWRkdMZ1V",
    "title": "Fed says too little, RBI is too predictable. Both may have a problem - The Economic Times",
@@ -73,13 +83,23 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWC1TWnFZM19KdGV6aWZSSUVpUjJiMWJobmJFTkFVNm1JZ3ZuY0VqMm00RzAxdzlJZXpndVVjSEpXbUtKeTNnSDdMdHdiMGdDc0RNS1htNlEtYXp6ZkhHQmdxUkNNcnNzTzExSnBXRkdlcXNON2J",
-   "title": "Is 4% still a good high-yield savings account interest rate? - cbsnews.com",
+   "title": "Is 4% still a good high-yield savings account interest rate? - CBS News",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWC1TWnFZM19KdGV6aWZSSUVpUjJiMWJobmJFTkFVNm1JZ3ZuY0VqMm00RzAxdzlJZXpndVVjSEpXbUtKeTNnSDdMdHdiMGdDc0RNS1htNlEtYXp6ZkhHQmdxUkNNcnNzTzExSnBXRkdlcXNON2JQLVlJNURCdG9wX2RySlI5TGdfV0JZWmpOVTZ5cFJqNXVJT19R?oc=5",
-   "desc": "Is 4% still a good high-yield savings account interest rate?  cbsnews.com",
+   "desc": "Is 4% still a good high-yield savings account interest rate?  CBS News",
    "source": "US Fed",
-   "publisher": "cbsnews.com",
+   "publisher": "CBS News",
    "scope": "world",
    "ts": 1786460796000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0RwQnhfeXJhVmpOcy1FNTRISVZOOXNhYmdmRHNlN0FLNGU4UVFDdEkzQmFrelJCR3NwWjEwdHFTcEY3a1ctX1dTTWJVN0FMZm9VWXgxd05pRWw1b1dudU9GXzBOZTNGWHFVOFdscC1FY1hxXzE",
+   "title": "Policy sentiment shifts hawkish at 12 of 14 major central banks, Permutable data shows - Disruption Banking",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0RwQnhfeXJhVmpOcy1FNTRISVZOOXNhYmdmRHNlN0FLNGU4UVFDdEkzQmFrelJCR3NwWjEwdHFTcEY3a1ctX1dTTWJVN0FMZm9VWXgxd05pRWw1b1dudU9GXzBOZTNGWHFVOFdscC1FY1hxXzEwa09pazUwQnJKekhXdkhLc0dyR25HOW5vaHlJbHRyWjNXaFR1RG9XckpaTXVRLTBiY2cxS2tLX29jdUdyaHhfYXpNTTk2STVzeUlTYnhJdWljVjQyWQ?oc=5",
+   "desc": "Policy sentiment shifts hawkish at 12 of 14 major central banks, Permutable data shows  Disruption Banking",
+   "source": "ECB / Europe",
+   "publisher": "Disruption Banking",
+   "scope": "world",
+   "ts": 1786460715000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPT2w2Q2FRUXZzQS1fRmh2YzRRVWxxUjNaWkstY1c0WUwzeHZZSC01clNlb3FtYV8ycmhYTWFGdG9VdDRCVExGMXAzcll2M3c3bzJpZVJKM3NDWFZ1Q1NBUnB6ajg5T25fTkwwalE3dnAya2tfTUR",
@@ -153,11 +173,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZG9Gb3BGdldqSmY0V1RCQ2lGUV9TMmt2dEFJOXlzbWZmV1J1WkJ0SnRLc0k4c1ZQVy11bkY2UG5KbEI5ZDQzUU1ULVpmVm5Ld1NmeVNlMzJNaFItQU1mVFQxdThIZXhnVTlhTUJYRXA4UklpTDB",
-   "title": "U.S. yield curve twists expose Trump’s and Bessent’s rate dilemma - The Globe and Mail",
+   "title": "U.S. yield curve twists expose Trump’s and Bessent’s rate dilemma - theglobeandmail.com",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZG9Gb3BGdldqSmY0V1RCQ2lGUV9TMmt2dEFJOXlzbWZmV1J1WkJ0SnRLc0k4c1ZQVy11bkY2UG5KbEI5ZDQzUU1ULVpmVm5Ld1NmeVNlMzJNaFItQU1mVFQxdThIZXhnVTlhTUJYRXA4UklpTDBYQm5jRFJjbXV0aGVMR050eDdUeG1HZDd4RkhqNUVPMU1YMHZVdWlqMUEzRGEzdXhRLWNqUTJJUENZZk5B?oc=5",
-   "desc": "U.S. yield curve twists expose Trump’s and Bessent’s rate dilemma  The Globe and Mail",
+   "desc": "U.S. yield curve twists expose Trump’s and Bessent’s rate dilemma  theglobeandmail.com",
    "source": "US Fed",
-   "publisher": "The Globe and Mail",
+   "publisher": "theglobeandmail.com",
    "scope": "world",
    "ts": 1786453817000
   },
@@ -190,6 +210,16 @@
    "publisher": "Rediff MoneyWiz",
    "scope": "india",
    "ts": 1786450377000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnZ5dmxPWUFBMkpfUEoydUthWTYtV055RWZKTC1UUnp4aHFabmNWMC1GaDZfWGpRWFFabmxTZFNPWmJ1c1BKRHpTNmpoR2Zad19XSGgxanptOE0wVnJHcnEwN3c0bkY0azdxUFZYUDUtLU44Y0d",
+   "title": "Trump reopens Fed battle at critical time for bond markets - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnZ5dmxPWUFBMkpfUEoydUthWTYtV055RWZKTC1UUnp4aHFabmNWMC1GaDZfWGpRWFFabmxTZFNPWmJ1c1BKRHpTNmpoR2Zad19XSGgxanptOE0wVnJHcnEwN3c0bkY0azdxUFZYUDUtLU44Y0dTUkc3Z1I0OWdWalZFMHNpbDl1a3hYWm9kS08yVjgwWkI5Q2NjVEJvOVE5SmVqa21pMXA1eGxLSjFXVGZpZF9MaEFnOFpXMw?oc=5",
+   "desc": "Trump reopens Fed battle at critical time for bond markets  Reuters",
+   "source": "US Fed",
+   "publisher": "Reuters",
+   "scope": "world",
+   "ts": 1786450314000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYzVmMDZheHhzVDZja3gyR3ZvX3dZWWtRQzByeXNmYjNxd2wwak1IeHlOU2FPMzZHMm13Z2xNTEl0WG1rb1R6UHBQUDA5bEh6cmtfSmJHOW5LekJEUDdoWmoxVmIyOEdvSTlRUUlfdlJfd2ZlUGF",
@@ -262,22 +292,12 @@
    "ts": 1786432900000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnZ5dmxPWUFBMkpfUEoydUthWTYtV055RWZKTC1UUnp4aHFabmNWMC1GaDZfWGpRWFFabmxTZFNPWmJ1c1BKRHpTNmpoR2Zad19XSGgxanptOE0wVnJHcnEwN3c0bkY0azdxUFZYUDUtLU44Y0d",
-   "title": "Trump reopens Fed battle at critical time for bond markets - reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnZ5dmxPWUFBMkpfUEoydUthWTYtV055RWZKTC1UUnp4aHFabmNWMC1GaDZfWGpRWFFabmxTZFNPWmJ1c1BKRHpTNmpoR2Zad19XSGgxanptOE0wVnJHcnEwN3c0bkY0azdxUFZYUDUtLU44Y0dTUkc3Z1I0OWdWalZFMHNpbDl1a3hYWm9kS08yVjgwWkI5Q2NjVEJvOVE5SmVqa21pMXA1eGxLSjFXVGZpZF9MaEFnOFpXMw?oc=5",
-   "desc": "Trump reopens Fed battle at critical time for bond markets  reuters.com",
-   "source": "US Fed",
-   "publisher": "reuters.com",
-   "scope": "world",
-   "ts": 1786428000000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORWJOY3Y4T19DTTNqMHIzcmwzaVlBM0c5SVpOZWlMRkVHSXpydVRlLTByQnlwMHc1Yi0zTHRWcXpObVlRa2NCZ2N6VlRpX1BpWF9oTTNUWllWcExvMFFKNkFpa19vXzlpRHYyd0tjSk1tRWlpS21",
-   "title": "SIDBI Deploys MonetaGo Secure Financing Across MSME Lending Operations - SMEStreet",
+   "title": "SIDBI Deploys MonetaGo Secure Financing Across MSME Lending Operations - smestreet.in",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORWJOY3Y4T19DTTNqMHIzcmwzaVlBM0c5SVpOZWlMRkVHSXpydVRlLTByQnlwMHc1Yi0zTHRWcXpObVlRa2NCZ2N6VlRpX1BpWF9oTTNUWllWcExvMFFKNkFpa19vXzlpRHYyd0tjSk1tRWlpS21VSlNWeHNSeWx6X1ZYaGx4d0RieEFxNWNWWEhXWGd0MFdwOFpZMXdTTnEwVDBhakg5VWxjTzFK0gGsAUFVX3lxTE5FYk5jdjhPX0NNM2owcjNybDNpWUEzRzlJWk5laUxGRUdJenJ1VGUtMHJCeXAwdzViLTNMdFZxek5tWVFrY0JnY3pWVGlfUGlYX2hNM1RaWVZwTG8wUUo2QWlrX29fOWlEdjJ3S2NKTW1FaWlLbVVKU1Z4c1J5bHpfVlhobHh3RGJ4QXE1Y1ZYSFdYZ3QwV3A4Wlkxd1NOcTBUMGFqSDlVbGNPMUo?oc=5",
-   "desc": "SIDBI Deploys MonetaGo Secure Financing Across MSME Lending Operations  SMEStreet",
+   "desc": "SIDBI Deploys MonetaGo Secure Financing Across MSME Lending Operations  smestreet.in",
    "source": "SIDBI / MSME",
-   "publisher": "SMEStreet",
+   "publisher": "smestreet.in",
    "scope": "india",
    "ts": 1786425337000
   },
@@ -362,14 +382,34 @@
    "ts": 1786405090000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXFUVVdEVHZkck9fdENfYjNiUGw1MlZQZFBhdVRCQ3Y5ZGp6QnpWeVM3V0ItOG15azdacVZCY2hLN0tTN3ZiT0Noa092ZGFoQS14ejI3c3BRa184T3JyOFpwX0FMVHZfOU1qd0k5QV9DV1ZfN2N",
-   "title": "Unemployment rate remains Fed's labor market lodestar - reuters.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXFUVVdEVHZkck9fdENfYjNiUGw1MlZQZFBhdVRCQ3Y5ZGp6QnpWeVM3V0ItOG15azdacVZCY2hLN0tTN3ZiT0Noa092ZGFoQS14ejI3c3BRa184T3JyOFpwX0FMVHZfOU1qd0k5QV9DV1ZfN2NvR0U1UFptOEF6cERsd1diMU9McnU3VDFneDhZSlBSTWcyemxieGwyRW5LaUpwRWRtNnVlZU5zT3JBVE14b29YNHNxVEJ4Ykhn?oc=5",
-   "desc": "Unemployment rate remains Fed's labor market lodestar  reuters.com",
+   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZFRIeFdTNjJXd0pzajlGUGs3T3d3bG1Fc0dpY0I4VFhfVjhxN1NxSjdzS1JiQ1ItVnB4STBrRXgzS1lnQWV5OWlablEzdUQtbnByTXhpa0J4UFhldWV0UEplcEV5bnl2MklDelE4MEhPVTJGX2x",
+   "title": "Cleveland Fed President says multiple rate hikes may be needed to curb inflation, as Trump continues pressing for rate cuts, fueling debate over the Federal Reserve's independence - 富途牛牛",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZFRIeFdTNjJXd0pzajlGUGs3T3d3bG1Fc0dpY0I4VFhfVjhxN1NxSjdzS1JiQ1ItVnB4STBrRXgzS1lnQWV5OWlablEzdUQtbnByTXhpa0J4UFhldWV0UEplcEV5bnl2MklDelE4MEhPVTJGX2xqNFc4b1FVUkEzeFpIVTMyOWlBd3NIajNKWXNMNVJKWFR5NU14SE5wVGYwaGN1Snl3?oc=5",
+   "desc": "Cleveland Fed President says multiple rate hikes may be needed to curb inflation, as Trump continues pressing for rate cuts, fueling debate over the Federal Reserve's independence  富途牛牛",
    "source": "US Fed",
-   "publisher": "reuters.com",
+   "publisher": "富途牛牛",
+   "scope": "world",
+   "ts": 1786404720000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXFUVVdEVHZkck9fdENfYjNiUGw1MlZQZFBhdVRCQ3Y5ZGp6QnpWeVM3V0ItOG15azdacVZCY2hLN0tTN3ZiT0Noa092ZGFoQS14ejI3c3BRa184T3JyOFpwX0FMVHZfOU1qd0k5QV9DV1ZfN2N",
+   "title": "Unemployment rate remains Fed's labor market lodestar - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXFUVVdEVHZkck9fdENfYjNiUGw1MlZQZFBhdVRCQ3Y5ZGp6QnpWeVM3V0ItOG15azdacVZCY2hLN0tTN3ZiT0Noa092ZGFoQS14ejI3c3BRa184T3JyOFpwX0FMVHZfOU1qd0k5QV9DV1ZfN2NvR0U1UFptOEF6cERsd1diMU9McnU3VDFneDhZSlBSTWcyemxieGwyRW5LaUpwRWRtNnVlZU5zT3JBVE14b29YNHNxVEJ4Ykhn?oc=5",
+   "desc": "Unemployment rate remains Fed's labor market lodestar  Reuters",
+   "source": "US Fed",
+   "publisher": "Reuters",
    "scope": "world",
    "ts": 1786404626000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbXp6ZkRjSU4wZUFPS0RVM3QyNDVySXlWUlJNMGtsME5aU2VPU0tydHJ5NHpUMFc0dml4Y2tHNTdvSy14a2RVNlZNWmdoUG5RVU9SWUpTdXMwMHdnNFY1RTNIbWVranpNUlhLc0FYV0hPZ2o3LVA",
+   "title": "Trump says he spoke recently to Fed Chairman Warsh, denies regular calls - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbXp6ZkRjSU4wZUFPS0RVM3QyNDVySXlWUlJNMGtsME5aU2VPU0tydHJ5NHpUMFc0dml4Y2tHNTdvSy14a2RVNlZNWmdoUG5RVU9SWUpTdXMwMHdnNFY1RTNIbWVranpNUlhLc0FYV0hPZ2o3LVA3UWwzQnFRajJPa180TlBNT0c2aTExVURHTDJDTXd6Wncxdmp30gGfAUFVX3lxTE56QmNUY2twaUVCWGtsRVBXTTBtaXFPdmZHZDhUTVYyV3VGc052MmhZbmp2WU9ZZTg3NjNGSUNJQ3ZGcVBoUEF6YXpqazZVUV93dnphR2d6bkJjT2xsNGd0OWJyRS1KRjhtWGJMa0pyQk95R3lid1lGQnRvX0FNR2x0SDNLSXoyNXU4bnBiVXV5MjBsODBESV81NlNjNnVYcw?oc=5",
+   "desc": "Trump says he spoke recently to Fed Chairman Warsh, denies regular calls  CNBC",
+   "source": "US Fed",
+   "publisher": "CNBC",
+   "scope": "world",
+   "ts": 1786394812000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUU1PclNpX3VwRGZFVTZ2YkdfM3NNVC1lZ1lMRFEyX2RoVWVLeThMMGMzRlctaDBDNEZieG1qbWJ0NVNRZ1c3SEk4WUgwUUNld1pYNHFCSGVVVEp1RE0wOHFpWW44ZnlhNzhlT3BCUE4taFBKQmV",
@@ -603,11 +643,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGh",
-   "title": "Oil prices rally, Wall Street retreats with Hormuz, inflation in focus - reuters.com",
+   "title": "Oil prices rally, Wall Street retreats with Hormuz, inflation in focus - Reuters",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5",
-   "desc": "Oil prices rally, Wall Street retreats with Hormuz, inflation in focus  reuters.com",
+   "desc": "Oil prices rally, Wall Street retreats with Hormuz, inflation in focus  Reuters",
    "source": "US Fed",
-   "publisher": "reuters.com",
+   "publisher": "Reuters",
    "scope": "world",
    "ts": 1786321500000
   },
@@ -743,11 +783,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEEySlhmc083N1pGQnF0QVpFNTNaRng1WDZaMFV2UmtzT1NnbUtHX2NBVTNJR290YXNlTGFfd2NCNVRpakxGSW1pZ0FmeXp5Qm5aNExsOHRRSjBvZFFWQlJRLTZ3Rlc5TFRXUjFQUWJxREhnVEp",
-   "title": "RBI Officers Seek HR Policy Review Amid Promotion & Welfare Concerns - bwpeople.in",
+   "title": "RBI Officers Seek HR Policy Review Amid Promotion & Welfare Concerns - BW People",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEEySlhmc083N1pGQnF0QVpFNTNaRng1WDZaMFV2UmtzT1NnbUtHX2NBVTNJR290YXNlTGFfd2NCNVRpakxGSW1pZ0FmeXp5Qm5aNExsOHRRSjBvZFFWQlJRLTZ3Rlc5TFRXUjFQUWJxREhnVEpWcmZ2Mm92WGUxaHQ0WlAxQkxYUnRRZk8zZFVVWGFES2NPaE9qS1NhcUp4Smhody1BZzQ?oc=5",
-   "desc": "RBI Officers Seek HR Policy Review Amid Promotion & Welfare Concerns  bwpeople.in",
+   "desc": "RBI Officers Seek HR Policy Review Amid Promotion & Welfare Concerns  BW People",
    "source": "RBI",
-   "publisher": "bwpeople.in",
+   "publisher": "BW People",
    "scope": "india",
    "ts": 1786182441000
   },
@@ -853,11 +893,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkV3WmFpUmlEQlBFQ2hBNzk2eUx2d3RSZjlTT044WXc3Rjl5Mm53SmJqdnZFTHRPVmF2VFlKTUdQZjQ2LXdTU01TS0c5VDJBWjFrNnQwVHc4QnVidzgtSVFiYzZlc19fcXlyUVEzMk1lWHdmUkg",
-   "title": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say. - cbsnews.com",
+   "title": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say. - CBS News",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkV3WmFpUmlEQlBFQ2hBNzk2eUx2d3RSZjlTT044WXc3Rjl5Mm53SmJqdnZFTHRPVmF2VFlKTUdQZjQ2LXdTU01TS0c5VDJBWjFrNnQwVHc4QnVidzgtSVFiYzZlc19fcXlyUVEzMk1lWHdmUkg5c2VTT2JJbnQtNDh2NFlGQmtUMU1TM1NIOXpYU0lCVTYxNA?oc=5",
-   "desc": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say.  cbsnews.com",
+   "desc": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say.  CBS News",
    "source": "US Fed",
-   "publisher": "cbsnews.com",
+   "publisher": "CBS News",
    "scope": "world",
    "ts": 1786127580000
   },
@@ -1160,46 +1200,6 @@
    "publisher": "Dealroom",
    "scope": "india",
    "ts": 1786000232000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPVTUyZHRSZ09PSTZKdnRtR1dlb3lCWGlRd3Y5cWFQYVZiZUNNZjVJLUp6YTdwOC1vMGdDYWhEZUQ5MThObnRwZEVLRVIwZHl6cG1ORk1ZYWlnakhzMjloUENoano5QlNvRkNR?oc=5",
-   "title": "NABARD Grade A Salary 2026 (Expected): In-Hand Salary, Pay Scale, Allowances & Job Profile - PW",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPVTUyZHRSZ09PSTZKdnRtR1dlb3lCWGlRd3Y5cWFQYVZiZUNNZjVJLUp6YTdwOC1vMGdDYWhEZUQ5MThObnRwZEVLRVIwZHl6cG1ORk1ZYWlnakhzMjloUENoano5QlNvRkNR?oc=5",
-   "desc": "NABARD Grade A Salary 2026 (Expected): In-Hand Salary, Pay Scale, Allowances & Job Profile  PW",
-   "source": "NABARD",
-   "publisher": "PW",
-   "scope": "india",
-   "ts": 1785999600000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVDR6M3lqRkVXQ2otbmpQOElaekc4LWphdTNDMG9XTHhBWVM0S2RaV0dnY1MySGw3cGZ1Z3lLa3ZNX0FnSGJTbVdQUklsV3ZDOU05ZEU5UVN1TFNJQlI4M2pOemUyWG85Nms3amRnaUFyTzFfdm9",
-   "title": "Realty Stocks Rally as RBI Holds Repo Rate at 5.25% - Sahi",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVDR6M3lqRkVXQ2otbmpQOElaekc4LWphdTNDMG9XTHhBWVM0S2RaV0dnY1MySGw3cGZ1Z3lLa3ZNX0FnSGJTbVdQUklsV3ZDOU05ZEU5UVN1TFNJQlI4M2pOemUyWG85Nms3amRnaUFyTzFfdm9EaHRteUo2OHdBWlNR?oc=5",
-   "desc": "Realty Stocks Rally as RBI Holds Repo Rate at 5.25%  Sahi",
-   "source": "RBI",
-   "publisher": "Sahi",
-   "scope": "india",
-   "ts": 1785999142000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0NEZ29yRFp5bzlUdkt0VkJLZEJFeS1CRERPZWdJQTF3YmFxRVJsMlVYMFQ2clA0c3pnYTlmRzZGWnFBdzc0bGZCVmFfbzdTNUlJcWx5UUVsNVZUYXhvOHladGVMTG5XeUhDaW5XSS1QOXJCNG1",
-   "title": "Monetary Policy Committee (MPC) - RBI Keeps Repo Rate Unchanged Amid Global Uncertainty - Vajiram & Ravi",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0NEZ29yRFp5bzlUdkt0VkJLZEJFeS1CRERPZWdJQTF3YmFxRVJsMlVYMFQ2clA0c3pnYTlmRzZGWnFBdzc0bGZCVmFfbzdTNUlJcWx5UUVsNVZUYXhvOHladGVMTG5XeUhDaW5XSS1QOXJCNG1KWUh4OXFjc21iYVozbVVNWURtNEVYV3FockYwdUhZWVk1UFpoZkdtYUJxV1oyU1h3?oc=5",
-   "desc": "Monetary Policy Committee (MPC) - RBI Keeps Repo Rate Unchanged Amid Global Uncertainty  Vajiram & Ravi",
-   "source": "RBI",
-   "publisher": "Vajiram & Ravi",
-   "scope": "india",
-   "ts": 1785997610000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JVnBYVDQyMGU1ZTNTWU51ZWQxUFBTLXRiaVdOWU5sbk9Mbno0a3ZKaWVXaUhUMmFwMmE1TW14OWdBekRCa0ZBdkdNeVNVcXZ3d1hia01IbWd2WnIxM0JQRHFmT0JKdDdRTGxSMTBqaHQ?oc=5",
-   "title": "The trends in central bank research papers - Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JVnBYVDQyMGU1ZTNTWU51ZWQxUFBTLXRiaVdOWU5sbk9Mbno0a3ZKaWVXaUhUMmFwMmE1TW14OWdBekRCa0ZBdkdNeVNVcXZ3d1hia01IbWd2WnIxM0JQRHFmT0JKdDdRTGxSMTBqaHQ?oc=5",
-   "desc": "The trends in central bank research papers  Financial Times",
-   "source": "ECB / Europe",
-   "publisher": "Financial Times",
-   "scope": "world",
-   "ts": 1785990824000
   }
  ]
 }
