@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-12T19:31:15.085784+00:00",
+ "updated": "2026-08-12T20:21:10.345642+00:00",
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTN4R05hRWJ1WnRicHA3V0liUmNjaEp3VXVXcDBEZUlVWGliVWtiRzBvcU9rOGJ0Wlc5S2N6RExoS2ptLVp4dEhWWVd1bVlMSU9hdktmYVVmbnFWX25aWllodTNQaUdvZHNoN193dFNqTm5veDB",
+   "title": "Opinion | Inflation is still too high - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTN4R05hRWJ1WnRicHA3V0liUmNjaEp3VXVXcDBEZUlVWGliVWtiRzBvcU9rOGJ0Wlc5S2N6RExoS2ptLVp4dEhWWVd1bVlMSU9hdktmYVVmbnFWX25aWllodTNQaUdvZHNoN193dFNqTm5veDBoQ2d3eTVETUNuYmRwREQwTG5OMk1ZQU9ia0VnWndPcGVTLVEwZEMxek9Tb2w5Mg?oc=5",
+   "desc": "Opinion | Inflation is still too high  The Washington Post",
+   "source": "US Fed",
+   "publisher": "The Washington Post",
+   "scope": "world",
+   "ts": 1786565857000
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHltVjVQNmxJOGZNYnNaT2JzaldqZHFjWlNxV1pvWTE3ekRKVFVLWkZmakZ4VWRlc0dMdlNNWEJpZTJldVZUeG5BVG5Nb2JUd1A0WExqZkZjTG9aaURWVUVUekdXczJVX0dHQXdOUGhsd3FtbnN",
    "title": "Fed seen sticking to policy-rate hold, for now, as inflation eases again - Virginia Business",
@@ -10,16 +20,6 @@
    "publisher": "Virginia Business",
    "scope": "world",
    "ts": 1786558950000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTN4R05hRWJ1WnRicHA3V0liUmNjaEp3VXVXcDBEZUlVWGliVWtiRzBvcU9rOGJ0Wlc5S2N6RExoS2ptLVp4dEhWWVd1bVlMSU9hdktmYVVmbnFWX25aWllodTNQaUdvZHNoN193dFNqTm5veDB",
-   "title": "Opinion | Inflation is still too high - The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTN4R05hRWJ1WnRicHA3V0liUmNjaEp3VXVXcDBEZUlVWGliVWtiRzBvcU9rOGJ0Wlc5S2N6RExoS2ptLVp4dEhWWVd1bVlMSU9hdktmYVVmbnFWX25aWllodTNQaUdvZHNoN193dFNqTm5veDBoQ2d3eTVETUNuYmRwREQwTG5OMk1ZQU9ia0VnWndPcGVTLVEwZEMxek9Tb2w5Mg?oc=5",
-   "desc": "Opinion | Inflation is still too high  The Washington Post",
-   "source": "US Fed",
-   "publisher": "The Washington Post",
-   "scope": "world",
-   "ts": 1786558878000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxQajlRWHFFVnEyalNGSUFfckpadDdjdTVpc1BiTktMdkM4QndBb1Y2Vnd6SkpBdXF2VkJNa0RVVUdmb1hvb2NXU0Z0WTk3Mm5pMkV5eG1UUnlHdDlUSHhjRWlFRXFxYVpIdm9zUzFoekhoeGI1U2p",
@@ -83,11 +83,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UY1dITG40c1VpaV9yY01aOWpRcUdGVVI2MUN0WnB5V1VwbDFWcF9uQkZidnRnVlpmSTA5RDJWYmNkTDhyR0kzRzVpN1N5ZXV5cHhOVUk1SWhYckZCSnhHUkFRVmJITjdoWVdVb1dsak44YWU1dWM",
-   "title": "Bitcoin Yawns As Fed’s Favorite Inflation Gauge Eases - bitcoinmagazine.com",
+   "title": "Bitcoin Yawns As Fed’s Favorite Inflation Gauge Eases - Bitcoin Magazine",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UY1dITG40c1VpaV9yY01aOWpRcUdGVVI2MUN0WnB5V1VwbDFWcF9uQkZidnRnVlpmSTA5RDJWYmNkTDhyR0kzRzVpN1N5ZXV5cHhOVUk1SWhYckZCSnhHUkFRVmJITjdoWVdVb1dsak44YWU1dWM0?oc=5",
-   "desc": "Bitcoin Yawns As Fed’s Favorite Inflation Gauge Eases  bitcoinmagazine.com",
+   "desc": "Bitcoin Yawns As Fed’s Favorite Inflation Gauge Eases  Bitcoin Magazine",
    "source": "US Fed",
-   "publisher": "bitcoinmagazine.com",
+   "publisher": "Bitcoin Magazine",
    "scope": "world",
    "ts": 1786548294000
   },
@@ -139,7 +139,7 @@
    "source": "US Fed",
    "publisher": "WTVB",
    "scope": "world",
-   "ts": 1786544100000
+   "ts": 1786544377000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNanlqekE0X1ZDUndnTndiWWhFcU1HYmk4SVNDQ01DcEM5MDRzU2V3NnpWUkxSUkdyMTRrbExJaFZEQUJTTy0yNDBZdWxtUTV2YXpIOGExdkpkSFBETzktQTN6NDFrZjRCYVprbWFLU0FiZU84R0p",
@@ -160,6 +160,16 @@
    "publisher": "Newsquawk",
    "scope": "world",
    "ts": 1786542820000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNTVKRFV6MS1RQTdUZFQ3QUQ2Mzk1Wmt4U0JRY2c2RWlfcDU0NjFYdmRZUzlyY3ZHOVRDazUtNDlnbUZsTkVMeEozV3RjVWVmekthbmpMRk42S04wZTZTYlg1VExPdTFoY2Y3MzB5eUJlcGdaNkl",
+   "title": "Inflation Cools Somewhat as Fed Debates Interest Rate Hike - News Radio 1200 WOAI",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNTVKRFV6MS1RQTdUZFQ3QUQ2Mzk1Wmt4U0JRY2c2RWlfcDU0NjFYdmRZUzlyY3ZHOVRDazUtNDlnbUZsTkVMeEozV3RjVWVmekthbmpMRk42S04wZTZTYlg1VExPdTFoY2Y3MzB5eUJlcGdaNklieFduQ1BBMVc2WVhlaGw4amRyR3RxTGFVLU9mVGRGWm1OWkpEWkxWM2gtZzZ4QW4teXlPSzktWl9xUXk2V2loYXRNcnJSUlNYbnBQRmN6Ymg1Y00zajdnSVZf?oc=5",
+   "desc": "Inflation Cools Somewhat as Fed Debates Interest Rate Hike  News Radio 1200 WOAI",
+   "source": "US Fed",
+   "publisher": "News Radio 1200 WOAI",
+   "scope": "world",
+   "ts": 1786542651000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSlZFOVhPMzFLeDUwZHNhakwzTXVZYlpqZkNMdTg4YlMyUTdFeXcwU295TWtPWFZ5R2ExY1dSa2NHS1d5VTktRW1DemVPTTNKX2lsU1lFanVZR1VuUEh1R3pZYy1wNzNicExsd19zWmJPWkZteVN",
@@ -262,16 +272,6 @@
    "ts": 1786537891000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oYWRPdXQ0d1NQdy1UWlJIRHZKMXNEUjB4TTN0SHNNQmR0OUc5ODFfN05SMWYwbkpTYVNMa1h1ajJvMFYyb2tacklEckpMLV9GZVVMU0R4R3Z6OWI4dEJienlfOEs1S1BMNURHVHB1cEM?oc=5",
-   "title": "August CPI Report 2026: Fed Faces Tough Choice as Inflation Meets Weak Jobs Data - Intellectia AI",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oYWRPdXQ0d1NQdy1UWlJIRHZKMXNEUjB4TTN0SHNNQmR0OUc5ODFfN05SMWYwbkpTYVNMa1h1ajJvMFYyb2tacklEckpMLV9GZVVMU0R4R3Z6OWI4dEJienlfOEs1S1BMNURHVHB1cEM?oc=5",
-   "desc": "August CPI Report 2026: Fed Faces Tough Choice as Inflation Meets Weak Jobs Data  Intellectia AI",
-   "source": "US Fed",
-   "publisher": "Intellectia AI",
-   "scope": "world",
-   "ts": 1786537235000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbjlQV0pxb2xPUFpFZkhpMDdQXzM3b09iaTNHcEJxbHdGTUUwOHlvWmJZbGJBdHgxNHVBSDA3Sm44RGJJWlBjdHI0RWM0NW5lcVRUbVhiNlUtVTF5MzIwcXROMEgxUjVZY0RtNHVURTc5eDFmMnJ",
    "title": "The World Bank is prepared to provide up to $100 billion to countries affected by the war in the Middle East - logos-pres.md",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbjlQV0pxb2xPUFpFZkhpMDdQXzM3b09iaTNHcEJxbHdGTUUwOHlvWmJZbGJBdHgxNHVBSDA3Sm44RGJJWlBjdHI0RWM0NW5lcVRUbVhiNlUtVTF5MzIwcXROMEgxUjVZY0RtNHVURTc5eDFmMnJKTEFCSkZmU1JPUEF4eEhDWGNWdzl3VVJJX0hST09sb3JKVjNKSGx1dU90TjloX1BRZFpwZVY1aVJmY3N5R29TR3lZOGZTR3NyajFvaUZ3cFlYVWlHZVhNb1JvX19xaA?oc=5",
@@ -313,11 +313,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV1FpZFk4M0FGcmdXbXV3TUh5OTVaY1k0aDg5MlRBTUZnU1p1eTg2NVVfRjl1NVRMNWdkejFFQUVFUEpyWmhremdxNXk5Qm5FcXUya2F5UEZNNUFKdjFnMExMTExwSERkQThybDJlSC1ZcWIzbGN",
-   "title": "UAE central bank’s seat at the dollar table - agbi.com",
+   "title": "UAE central bank’s seat at the dollar table - Arabian Gulf Business Insight | AGBI",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV1FpZFk4M0FGcmdXbXV3TUh5OTVaY1k0aDg5MlRBTUZnU1p1eTg2NVVfRjl1NVRMNWdkejFFQUVFUEpyWmhremdxNXk5Qm5FcXUya2F5UEZNNUFKdjFnMExMTExwSERkQThybDJlSC1ZcWIzbGNQbUR1ZlVZMTdHTW12R0tTZmM?oc=5",
-   "desc": "UAE central bank’s seat at the dollar table  agbi.com",
+   "desc": "UAE central bank’s seat at the dollar table  Arabian Gulf Business Insight | AGBI",
    "source": "ECB / Europe",
-   "publisher": "agbi.com",
+   "publisher": "Arabian Gulf Business Insight | AGBI",
    "scope": "world",
    "ts": 1786533473000
   },
@@ -632,6 +632,26 @@
    "ts": 1786423405000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3F1R1E0UkFIVnJLMDhPdWJBZWR5Tk5NRWdhS2RlRXowWTY5Umh2emRvM0R1RVlQQVBOZ0xLQVNCZ1NCMU9fWDJpelRqYU05STl3eUhoMDZVLUZXMjZBemhUZUd3LWFLUDlIWjFyMTc5VldfdEJ",
+   "title": "Charting the steady course of the Federal Reserve - stripes.com",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3F1R1E0UkFIVnJLMDhPdWJBZWR5Tk5NRWdhS2RlRXowWTY5Umh2emRvM0R1RVlQQVBOZ0xLQVNCZ1NCMU9fWDJpelRqYU05STl3eUhoMDZVLUZXMjZBemhUZUd3LWFLUDlIWjFyMTc5VldfdEJFRlJjSjUtUldOLWNkLVZZSDNJdzFsd2k2ZW0yRURrU2paWWNYV0U?oc=5",
+   "desc": "Charting the steady course of the Federal Reserve  stripes.com",
+   "source": "US Fed",
+   "publisher": "stripes.com",
+   "scope": "world",
+   "ts": 1786422896000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXFUVVdEVHZkck9fdENfYjNiUGw1MlZQZFBhdVRCQ3Y5ZGp6QnpWeVM3V0ItOG15azdacVZCY2hLN0tTN3ZiT0Noa092ZGFoQS14ejI3c3BRa184T3JyOFpwX0FMVHZfOU1qd0k5QV9DV1ZfN2N",
+   "title": "Unemployment rate remains Fed's labor market lodestar - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXFUVVdEVHZkck9fdENfYjNiUGw1MlZQZFBhdVRCQ3Y5ZGp6QnpWeVM3V0ItOG15azdacVZCY2hLN0tTN3ZiT0Noa092ZGFoQS14ejI3c3BRa184T3JyOFpwX0FMVHZfOU1qd0k5QV9DV1ZfN2NvR0U1UFptOEF6cERsd1diMU9McnU3VDFneDhZSlBSTWcyemxieGwyRW5LaUpwRWRtNnVlZU5zT3JBVE14b29YNHNxVEJ4Ykhn?oc=5",
+   "desc": "Unemployment rate remains Fed's labor market lodestar  Reuters",
+   "source": "US Fed",
+   "publisher": "Reuters",
+   "scope": "world",
+   "ts": 1786404626000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSUxVN1RTX2dpeVp0WTFHYnc3dWZtMWRTOGR4aE9KQmF3QXpXZ0pYeDNfVWt1U0JlQ2dPWlhyTVlWMGZzQ2hoYXpJd0xNdW1CX1NUNUpWVmwyVXRYWi1RX25Jc3I4UFNqTElKalVVZWVKRUgybEF",
    "title": "Trump Is Back to Pressuring the Fed. What Leverage Does He Have? - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSUxVN1RTX2dpeVp0WTFHYnc3dWZtMWRTOGR4aE9KQmF3QXpXZ0pYeDNfVWt1U0JlQ2dPWlhyTVlWMGZzQ2hoYXpJd0xNdW1CX1NUNUpWVmwyVXRYWi1RX25Jc3I4UFNqTElKalVVZWVKRUgybEFmQWRUOTNiUEJ6TXNQLXRJUThWWExLN1g5R2tGU3VBYlF0cEhtQUE1YThYa0o1RnVqVG5zcUtWbVE?oc=5",
@@ -679,7 +699,7 @@
    "source": "SIDBI / MSME",
    "publisher": "FinTech Futures",
    "scope": "india",
-   "ts": 1786367365000
+   "ts": 1786367402000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTkNHSTlBS0JYay1IMFVsaG5RY0QyVFhWQUdLZERmTVp4UTd6bmRlcGxCN1MzaVEzelFObVNFUFpBR244clJFLWQ4NW12MFpCM1B1MFVsRnZGbFJGNkVLaGhvU0t5N2JJS2l3YTVlU25DWEFSeHN",
@@ -703,11 +723,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGc4Skdsek9pRzJNVTNDU0ZKcTJSU3prRXRRLVVFZnM5dmg4MlAyV3lBcDZsU2h4VjdPVHRpdVQ3UllaUWE4YTRVYzNpVFp4UURxNHJQOVpFOTVkbXNYVUxheU1JNlg4dUNJVlFheXdIb2tsSXh",
-   "title": "SEBI Reviews First Week Of CAS Trading For Possible Market Manipulation: Sources - NDTV Profit",
+   "title": "SEBI Reviews First Week Of CAS Trading For Possible Market Manipulation: Sources - ndtvprofit.com",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGc4Skdsek9pRzJNVTNDU0ZKcTJSU3prRXRRLVVFZnM5dmg4MlAyV3lBcDZsU2h4VjdPVHRpdVQ3UllaUWE4YTRVYzNpVFp4UURxNHJQOVpFOTVkbXNYVUxheU1JNlg4dUNJVlFheXdIb2tsSXhheHpHaVk3blktNFJrRDU4WnZsTmZUSmJ2S1FWZXFhclNkUUNMZWhXZDZoczB4N215dks0QzRYWkJsRW5jQjBhQdIBvgFBVV95cUxNNXQ4RndDdUtiYWdZZXd3ZTZNZ3pibjFLY0FaV3g0SkFFUWhwb0M0dDVYXy1LejI3R3BNb3huMXJ3aFgwaV93ay05YnhhT09aRXgzMjVlY194a2pKTjBhYmQ3MUxVVU5pOHpFWWpHaVBuRXRXd3hkUDgzeWZ1M3hfWEZvOThnTTB5bHVjTnhBNVZRMGxSazMtbGk2Ukp3UDZmanNGSFVsRm9Xanh4QlJhM29vZHd0M3dsWGpEbk5R?oc=5",
-   "desc": "SEBI Reviews First Week Of CAS Trading For Possible Market Manipulation: Sources  NDTV Profit",
+   "desc": "SEBI Reviews First Week Of CAS Trading For Possible Market Manipulation: Sources  ndtvprofit.com",
    "source": "SEBI",
-   "publisher": "NDTV Profit",
+   "publisher": "ndtvprofit.com",
    "scope": "india",
    "ts": 1786362063000
   },
@@ -733,11 +753,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS3pqd3lubW9EWElzcXNZUW9rb3FYTl9NdkJiYXpzYjd1ekJHeDZDQnRGMHRTeXQyeGFhMzdfZnMtcWQzZFdLbmxZNW1hZXpOYzdwNXRpb1AtZDNTMEpPNXpwb05QRzg5VEhvMVI3VTVsVWhzUGZ",
-   "title": "Zee, Punit Goenka Seek Urgent Relief From SEBI Market Access Restrictions - NDTV Profit",
+   "title": "Zee, Punit Goenka Seek Urgent Relief From SEBI Market Access Restrictions - ndtvprofit.com",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS3pqd3lubW9EWElzcXNZUW9rb3FYTl9NdkJiYXpzYjd1ekJHeDZDQnRGMHRTeXQyeGFhMzdfZnMtcWQzZFdLbmxZNW1hZXpOYzdwNXRpb1AtZDNTMEpPNXpwb05QRzg5VEhvMVI3VTVsVWhzUGZCX0xmWmRlQkR5TG84TExVOVhMa2t4cV83YTlYd0hIcm9XMXo2M1RrWGVvMnNTeUFiYVJDdXBrX256XzlhMGVRVzNR0gHAAUFVX3lxTE82amxTSmtvSFYtam16cm50anJGUTF1RU5mZWNHUlozTl93aWhzMWVuVmo1RE9kNlREaS12TllLODhjTXZZOTYyS1RCcnV3WWo0QWJ6cklFMW1NQWQtZUpWMmJVcGlhWlR1WG9xM21URUdpa0tTUWlicXJFd3dXWkxLRENXWHhPSDU2NGRMQmEwbWFPdEd4cXRUUXBkSTJsUlJhQWU4NzhMS2ttbUlqU2haeVVGRUg5QUpwam9iM0dWMQ?oc=5",
-   "desc": "Zee, Punit Goenka Seek Urgent Relief From SEBI Market Access Restrictions  NDTV Profit",
+   "desc": "Zee, Punit Goenka Seek Urgent Relief From SEBI Market Access Restrictions  ndtvprofit.com",
    "source": "SEBI",
-   "publisher": "NDTV Profit",
+   "publisher": "ndtvprofit.com",
    "scope": "india",
    "ts": 1786348812000
   },
@@ -843,11 +863,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGI2dnVoZW1VUHlaT3ItS1R3bGRYdkNFTFlHMDU0aTBtbl81Ni1ESHAzZ1VtRGJkWVNoYzdFMFZxcXlqdWE4T2JSNW1Zb0dLN21rNDBZOXByWFo0NXZ1c0o4dFlZb1N6MXdsZDVkbXlMWkZSYXh",
-   "title": "Tukaram Mundhe Faces Flak, RBI Monetary Policy, Ardee IPO — The Week That Was - NDTV Profit",
+   "title": "Tukaram Mundhe Faces Flak, RBI Monetary Policy, Ardee IPO — The Week That Was - ndtvprofit.com",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGI2dnVoZW1VUHlaT3ItS1R3bGRYdkNFTFlHMDU0aTBtbl81Ni1ESHAzZ1VtRGJkWVNoYzdFMFZxcXlqdWE4T2JSNW1Zb0dLN21rNDBZOXByWFo0NXZ1c0o4dFlZb1N6MXdsZDVkbXlMWkZSYXhyZ04zZWJVazBNRWw5UFE3dHlDb25RcjVoVnRIaDhKY1hfMkwxRU9lRTQ3TXkwZTN2eVY4OE5LR01sVjJ6akkxLXVXRlHSAcIBQVVfeXFMTmcwR21CQVpGTWFmUF9pM2I4X1lZT2piZzdYM21FdDA2WFVDOXVETGVaT01lRGI3TmkyeW5JaUdDd2tUbGNGTVlIeFRrUTFBWlZMV3VYT1RXXzk1TXducldEc25hR0RxYnU3dDYxTUdwTHRGYzRneXl6SWxHak8tczZ3ODQ2YjQ0cEp0TEZZSDVYc3MtejA5MThxTjlvVkdGcUtDbWdvWFZtYl85VVRYenRGekRKOUtOR0UzaGpSb0VmeXc?oc=5",
-   "desc": "Tukaram Mundhe Faces Flak, RBI Monetary Policy, Ardee IPO — The Week That Was  NDTV Profit",
+   "desc": "Tukaram Mundhe Faces Flak, RBI Monetary Policy, Ardee IPO — The Week That Was  ndtvprofit.com",
    "source": "RBI",
-   "publisher": "NDTV Profit",
+   "publisher": "ndtvprofit.com",
    "scope": "india",
    "ts": 1786190714000
   },
@@ -1012,16 +1032,6 @@
    "ts": 1786112003000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWDJQdTU3d1BUelFadGxCTl9XZGJJLTFmekdUaWdyd1YyakVMbnZWNHZ2UV9kSi16a090eW1mWThRZHl5c0F4NVB2OHlvVmtFYTRDcUpGUlRfRHZJQUs2QUJMRXdieWZPZ0NrcmZIcERQWWUyZ2V",
-   "title": "Sebi streamlines mkt intermediaries' inspection framework, cuts FY27 target - Business Standard",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWDJQdTU3d1BUelFadGxCTl9XZGJJLTFmekdUaWdyd1YyakVMbnZWNHZ2UV9kSi16a090eW1mWThRZHl5c0F4NVB2OHlvVmtFYTRDcUpGUlRfRHZJQUs2QUJMRXdieWZPZ0NrcmZIcERQWWUyZ2VRbURrQ053Mkl1eVNEdVIzUUdRdGNEUENPdi03dTM0OF80Q3pKMURGdmpaajVMUlJjcDNSeTd4MjBsWGV0WTdULW5McWdxQW94Rk5EMmFoNW1YalZhTTM1YmNYVlI5UFVUUdIB3AFBVV95cUxOYktiekk2X3ZTY01OOE9wLVN0eERtdGxMNWNtb2trbE9VRGdsTTZlcDFGc0lvN1pUOC1wWUZBeHdVM3BFYUtVNU9nR0JQWU1tMmFXZ1JfT2g4ZUQ4OWpiWmg0Vk5rY0U1QUFLMng4dzNFUHpqX0ZLbUJGbDFiQm00djJVb2sxeFBuZU5Ia0kzS0VURlAwdUlQWlBNYXI2bkxrYmhwVko2U1hTV0hTTHJlWGZ3ZFA1ZGdSd05fVFFnOTlYbWN1S2o4bmhNZXlaMjRnZjJHS2JjSVp1UVQy?oc=5",
-   "desc": "Sebi streamlines mkt intermediaries' inspection framework, cuts FY27 target  Business Standard",
-   "source": "SEBI",
-   "publisher": "Business Standard",
-   "scope": "india",
-   "ts": 1786104145000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTFhBX2t2LVlEclEyMVNuR3lpZWNVWUt1ZmRzeVZJaXdWSlk0S2pIRUxjZUE0ZUNxMWZpU0pNZnNxcXpaZEhGSFJlUWx3am9kMUNFWGZHUHhaZkRuWEdOTktjMjVaRlFqMktMSnNJcWFucGJvbDU",
    "title": "India VIX Closes at 12.15 as RBI Policy, Crude Oil and Earnings Keep Volatility in Check - HDFC Sky",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTFhBX2t2LVlEclEyMVNuR3lpZWNVWUt1ZmRzeVZJaXdWSlk0S2pIRUxjZUE0ZUNxMWZpU0pNZnNxcXpaZEhGSFJlUWx3am9kMUNFWGZHUHhaZkRuWEdOTktjMjVaRlFqMktMSnNJcWFucGJvbDU4R3gzTkFVU2xxSk9DS01JLW1BN2VNdWg3QVNNZjVBZkdLZ095LUx1dmZzMERRRnI4YmhNZWdfY0M1blcxaklSdk5jQUtucUZGbFh1aFM4?oc=5",
@@ -1053,23 +1063,13 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZkpfanotVGxCZGx5aDNSLWRPaXVpT1h5OXJubGdYZ0hyVS1rU0U5T0I2U19pUU9nbTFhQURxSVNOS1pRd3I0b01QSmRqZ1RQblpzaExQRUJ5NzJOVVNla3c5RWtLRUwtLS1PWktEQk83Q1M4eG9",
-   "title": "CAS A Step Towards Strengthening Market Price Discovery Mechanism, Says SEBI - NDTV Profit",
+   "title": "CAS A Step Towards Strengthening Market Price Discovery Mechanism, Says SEBI - ndtvprofit.com",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZkpfanotVGxCZGx5aDNSLWRPaXVpT1h5OXJubGdYZ0hyVS1rU0U5T0I2U19pUU9nbTFhQURxSVNOS1pRd3I0b01QSmRqZ1RQblpzaExQRUJ5NzJOVVNla3c5RWtLRUwtLS1PWktEQk83Q1M4eG9wSlRPMnhndlRaTzEwM1B2dW1hc0czR3IwMWRqWUlCdVFhVFZ3UEhWclVsYnVQeVZjamJUZU00N2pzQ0t0cmh0X0FsN1RR0gHDAUFVX3lxTE5FOFhSQmlGZk5vSWFaWGFJWmRkVEd0V0lmbjJZMGF2SUwwNHQzN09BQ3o2SGItX1NjWldBR0lwVFBzek9CUW50akE1R215bXdic0lTSGpCM0lSY01URHVJQ256bWRpaUhRRkdFbEpJWGlfRmNRVkl2WUhWNEFLTU53X1hLaVdTQlRPcmg0MjBIZm5ZZWY5bC1sb1RmRzhWSFBUNWNlLXhwVS1qcVNqWUVCNHZSSFhNeGg1VjV3WEFra3M1MA?oc=5",
-   "desc": "CAS A Step Towards Strengthening Market Price Discovery Mechanism, Says SEBI  NDTV Profit",
+   "desc": "CAS A Step Towards Strengthening Market Price Discovery Mechanism, Says SEBI  ndtvprofit.com",
    "source": "SEBI",
-   "publisher": "NDTV Profit",
+   "publisher": "ndtvprofit.com",
    "scope": "india",
    "ts": 1786090515000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemJGTTB4TUpFazZOc1hNU3VtLVFXUy1UVVIwUUN3dzZ0RjZ5ZFJ4dkhOMkZLSFhFeUVWWUlYSHpsTG1IaVhCV2ItR1h5cVEtel9rTU1RV3pJNktOUnduWi1WRUctYnVPRTFPMGRST2h6MUhIb1h",
-   "title": "'No Threats, No Late Night Calls': RBI Issues New Rules For Loan Recovery - NDTV",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemJGTTB4TUpFazZOc1hNU3VtLVFXUy1UVVIwUUN3dzZ0RjZ5ZFJ4dkhOMkZLSFhFeUVWWUlYSHpsTG1IaVhCV2ItR1h5cVEtel9rTU1RV3pJNktOUnduWi1WRUctYnVPRTFPMGRST2h6MUhIb1hQai1VX3dFTHV2cVg1dVBpWmxZeTJ4d2lLUTk2cFc1alVrelM5cnpEeDlYcEM2NkdNTmVFTk5xcFVQVHMtS2jSAbwBQVVfeXFMT29sSnFaMVJGMnRPRTljek1NbHJNbDFSRmZNVDRQYnM2aWlJVXdrVDgxMVVmMkx1TXNoUVFGYnk3M2J5eXZ4WmRwV1ZqYkFpMGwtUmg3V3R3UHZQUERweXFScDljb2toZ1NMY2w1UUFFMkVXMFRiNEVldW1ST1RUTDlWVXNKdDdzakE5OTVEQzJCYU9OeFNHOUVwYklkaktlT3pubVlSUFZMS2VIbzdKVU9EQkZYTF9WcjFoUWI?oc=5",
-   "desc": "'No Threats, No Late Night Calls': RBI Issues New Rules For Loan Recovery  NDTV",
-   "source": "RBI",
-   "publisher": "NDTV",
-   "scope": "india",
-   "ts": 1786086577000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xT01nQWl1aHJta0hCTGZ2clp1amtfTC1JY3QyM3N3RUwydWlQVEoyNE9jOExRckZpTHB1OGhjN1g3dHc2YnhSYkQ0al8zSXlQN1hUOVNqSURpUHF4Vk9mMlZ4VkltczVtUnQzU1lfNFljVW1MeXJ",
