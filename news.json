@@ -1,6 +1,26 @@
 {
- "updated": "2026-08-13T21:09:26.262815+00:00",
+ "updated": "2026-08-13T22:06:33.193980+00:00",
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYzRXa01hRmpDZGx6OHZqaldfODM4ejR0c0NyNGlBUnBDMWloSDEwQlZPVWp2QmVxYWl0SGlSWjl1VW1UaE1aMDNhdW95QXpzTmFmVDNONi1IZDlLY1BoaXVfLXhOX3V0U0oxVG1BcS0xa3l0REp",
+   "title": "Stock Market Today: S&P 500 Closes at Record High as Treasury Yields Retreat, Oil price Falls to $ 87 - eurasiabusinessnews.com",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYzRXa01hRmpDZGx6OHZqaldfODM4ejR0c0NyNGlBUnBDMWloSDEwQlZPVWp2QmVxYWl0SGlSWjl1VW1UaE1aMDNhdW95QXpzTmFmVDNONi1IZDlLY1BoaXVfLXhOX3V0U0oxVG1BcS0xa3l0REpPbWNQa2h6X283WDNEMkRvM0ZadHlHUFFKNjh1NW5NMGtaM2g0Y2EwOFYtQTBmSWtMdEdlZVVFdXdib043QW9FVlBJbVpmUGZ3UzBtMEZ3bm9IcUlWSS1PbHZUNmZkZ01IOA?oc=5",
+   "desc": "Stock Market Today: S&P 500 Closes at Record High as Treasury Yields Retreat, Oil price Falls to $ 87  eurasiabusinessnews.com",
+   "source": "US Fed",
+   "publisher": "eurasiabusinessnews.com",
+   "scope": "world",
+   "ts": 1786657795000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTFaSEQyZkFiaU1KTkNPU2FuTk40RmpObmYtUUVXdVU2a2JIZ3RJSThFZ2pNdkZCYU53SjlyU0ZTMUlKVEl4Qi1pV2QxUkotYngtZ3pDRmZ6djhTUWhOc1dvVXlWckxDNG5kOUdCNkgtQ1plb1h",
+   "title": "Stocks rise and interest rates slide after inflation report - NBC News",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTFaSEQyZkFiaU1KTkNPU2FuTk40RmpObmYtUUVXdVU2a2JIZ3RJSThFZ2pNdkZCYU53SjlyU0ZTMUlKVEl4Qi1pV2QxUkotYngtZ3pDRmZ6djhTUWhOc1dvVXlWckxDNG5kOUdCNkgtQ1plb1hJMUxmOWNCMXNDbVUxMWQ?oc=5",
+   "desc": "Stocks rise and interest rates slide after inflation report  NBC News",
+   "source": "US Fed",
+   "publisher": "NBC News",
+   "scope": "world",
+   "ts": 1786652422000
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY3Ffd3lDR0l5RDB5MmVadUNoQnNzZVlfNVFqNFVReFMtS2k5Y1ZQeF95bDFrbEFBa0gwWEF2NFNSUUFTU2prRlhROEhkdVpjU1hscnFVSDd3ZjhmUzNIV0MtU1ptWXZSQ0l5bnJxdGkzVGdsQi1",
    "title": "Mortgage Rates Remain Steady; Buyers Moving on Modest Decreases - RISMedia",
@@ -9,17 +29,7 @@
    "source": "US Fed",
    "publisher": "RISMedia",
    "scope": "world",
-   "ts": 1786649932000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTFaSEQyZkFiaU1KTkNPU2FuTk40RmpObmYtUUVXdVU2a2JIZ3RJSThFZ2pNdkZCYU53SjlyU0ZTMUlKVEl4Qi1pV2QxUkotYngtZ3pDRmZ6djhTUWhOc1dvVXlWckxDNG5kOUdCNkgtQ1plb1h",
-   "title": "Stocks rise and interest rates fall after inflation report - NBC News",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTFaSEQyZkFiaU1KTkNPU2FuTk40RmpObmYtUUVXdVU2a2JIZ3RJSThFZ2pNdkZCYU53SjlyU0ZTMUlKVEl4Qi1pV2QxUkotYngtZ3pDRmZ6djhTUWhOc1dvVXlWckxDNG5kOUdCNkgtQ1plb1hJMUxmOWNCMXNDbVUxMWQ?oc=5",
-   "desc": "Stocks rise and interest rates fall after inflation report  NBC News",
-   "source": "US Fed",
-   "publisher": "NBC News",
-   "scope": "world",
-   "ts": 1786644093000
+   "ts": 1786650721000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2xxSlJaQ0V5LXdvWnhzdGN4Z281cTR5RXN4TGlsT1IwSnhDc2Y2ZjB0ajVkNWU1LVlhZmpvR0ZKQmV3SjR0MEZfR2gwVGpEQXZFTC05RVdQSjlKVU5QLUMwbE9TcmY0dFFaZ0UyVWJXVDJkZDI",
@@ -30,16 +40,6 @@
    "publisher": "Devdiscourse",
    "scope": "world",
    "ts": 1786643262000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVRlWHhiTTJfVHFqR3dnVFhQSVhqMnFlV29rRm5QTWJrZF9LNXZLUm9CZDRsZ3hUc1VGQU5vaHlqYnFPUUg5RjZ1WUFsVE5RdFA4RnBGZ2N4TmJULUJVc1dFNkRlQ2VsVUxVbjQ3NURyMmFlOHV",
-   "title": "Traders Pare Bets on Fed Rate Hike This Year as Oil Prices Fall - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVRlWHhiTTJfVHFqR3dnVFhQSVhqMnFlV29rRm5QTWJrZF9LNXZLUm9CZDRsZ3hUc1VGQU5vaHlqYnFPUUg5RjZ1WUFsVE5RdFA4RnBGZ2N4TmJULUJVc1dFNkRlQ2VsVUxVbjQ3NURyMmFlOHVjcXZpTi02WkU2RDlMQUxnSmM4SlNVUWQwUUw5VDRTc21mOWU4SnVETVJtU2ZybUF3OU5uQlhnNUYyTmpha2I?oc=5",
-   "desc": "Traders Pare Bets on Fed Rate Hike This Year as Oil Prices Fall  Bloomberg.com",
-   "source": "US Fed",
-   "publisher": "Bloomberg.com",
-   "scope": "world",
-   "ts": 1786643014000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV09URV9IQXV1RUluSkVFTXd3MU1jaWxTY1l0VjNSejc4NER5UVEyQlI2WEtaX29wdFlRaEV0Tkk3cThGQVlwOHdJU2F6N25xa2FiTWh2UEdNMnAyQTJLNnF2WU56SGdzOEdoTjdUWWVsNUY1QnU",
@@ -102,14 +102,14 @@
    "ts": 1786636323000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQc2FsWGNfblRGckhqeWVPMUF4MmREd3ljMkJFcnJvX3RMZHI4NExCWE1KSnJwRlNJaUo0MUd3TUlCNjBzQ3NjY0Q3Z1lyVWRINGhJaGpZWlRfdXVrR09xeHo4UllxSGdiWlgxWHdaYWJnX0lIMjE",
-   "title": "US stocks rise toward records as oil prices drop and inflation gets less bad - theweeklyjournal.com",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQc2FsWGNfblRGckhqeWVPMUF4MmREd3ljMkJFcnJvX3RMZHI4NExCWE1KSnJwRlNJaUo0MUd3TUlCNjBzQ3NjY0Q3Z1lyVWRINGhJaGpZWlRfdXVrR09xeHo4UllxSGdiWlgxWHdaYWJnX0lIMjE0X2JPMjVScjRpeTQtcGtaa3M5bDBCTDhqTERJRm1iQ1FxNVNheW9NV2ZwS2lpZjljUXFXXzJvbWU1WEdTVUM5U3FodHY5N0JrZWh6SDBFWTBIdmhIN2llaUNtLURRYVlpMl9aT1pRUms3dmw1dWp4dk9SUHlLd05qUlFCRDJjQ3lObTJIWQ?oc=5",
-   "desc": "US stocks rise toward records as oil prices drop and inflation gets less bad  theweeklyjournal.com",
+   "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZVFSZTJMWDRqZW1sdmxfSU5XNWdidDhlRVBnSERrWl9PdjF1ZTRKU1FrMXQ2SEhDLUJTZ3VYSjJOMmJxSTRWTFc5cmJTcHM0Z0tyeXNGZENFQktMNDZudm12OEo4VG51cGlOU3FoNUViR3dQamF",
+   "title": "GOP lawmaker targets Fed interest payments to banks as way to fund healthcare - InsuranceNewsNet",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZVFSZTJMWDRqZW1sdmxfSU5XNWdidDhlRVBnSERrWl9PdjF1ZTRKU1FrMXQ2SEhDLUJTZ3VYSjJOMmJxSTRWTFc5cmJTcHM0Z0tyeXNGZENFQktMNDZudm12OEo4VG51cGlOU3FoNUViR3dQamFlZ1pyUVhiRHJVOFh0ZXJ6ZTFMbGdmMTZQZHBzWE1reDJyUkFKWmlQQ2FVczVPeldfR3NSODhydjhXNEZtQ0NIMWhG?oc=5",
+   "desc": "GOP lawmaker targets Fed interest payments to banks as way to fund healthcare  InsuranceNewsNet",
    "source": "US Fed",
-   "publisher": "theweeklyjournal.com",
+   "publisher": "InsuranceNewsNet",
    "scope": "world",
-   "ts": 1786635180000
+   "ts": 1786635183000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNE5KTzJ2VEJFalpMX3htZVdVY2RnQXU1Wkt2dWxpZkZBNnk3cFhrekUwSnU2N2xxejZpRjcyVEJtOHhmTEhwUmJvTW9sQXk0dlNFaU51MWR0azBkSHdKamFYRjVjT2dQbWhlSFlJTHJrc2pXeTV",
@@ -120,6 +120,16 @@
    "publisher": "Reuters",
    "scope": "world",
    "ts": 1786634568000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVNOZ0U1QkZkWE9TWHNERGtQVndDVEx2a3VXV0VqYlNicktzcjNFMXVjcWhZTmFXSXVzU2ZkNXcySklEdzZHS011ME92WHBxRmg5TEl1ZjJLTENFWnAtSmhhb1RZTlFLRTRZc3A3djFrcHo2LWQ",
+   "title": "Back to the Basics: Interest Rates Explained - schaeffersresearch.com",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVNOZ0U1QkZkWE9TWHNERGtQVndDVEx2a3VXV0VqYlNicktzcjNFMXVjcWhZTmFXSXVzU2ZkNXcySklEdzZHS011ME92WHBxRmg5TEl1ZjJLTENFWnAtSmhhb1RZTlFLRTRZc3A3djFrcHo2LWQ5TU9xS0ROMk5MNEpFWk0xN0Mzcy03MUtkTmJHb24yZVJBTExJcllaSDhqaHdmd0Jib2xHMzg?oc=5",
+   "desc": "Back to the Basics: Interest Rates Explained  schaeffersresearch.com",
+   "source": "US Fed",
+   "publisher": "schaeffersresearch.com",
+   "scope": "world",
+   "ts": 1786633548000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSUJLUkRzTmdoa25JRlBITmlXb2FzLTBEUmFUdFZTcW9RVHRmWUJMTlNPQmJBZ25PWERWM3drVE9WajFyZUdyMHYydlIzNXhicE1ac212RE8yaUQyOGk4czBrV3BLTFdhdWFJYjJ0bzJXeVlRVkR",
@@ -222,16 +232,6 @@
    "ts": 1786613653000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLWtUWEhGVXFEbFZaQTAxZlJ5cXd1bXFsdWFQOW5YdmRqZ09YSGJyX1hNTzFVVWRPbWFMdk1feEdCYjlLU2NrNXFSWVlxbUx3SFFmcFJLT0FDU0pxVVBGZ2pOWFBTbFRDQURvZUxIU2tjXzNJVEZ",
-   "title": "Wall St futures tick higher as oil retreats ahead of inflation data - KITCO",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLWtUWEhGVXFEbFZaQTAxZlJ5cXd1bXFsdWFQOW5YdmRqZ09YSGJyX1hNTzFVVWRPbWFMdk1feEdCYjlLU2NrNXFSWVlxbUx3SFFmcFJLT0FDU0pxVVBGZ2pOWFBTbFRDQURvZUxIU2tjXzNJVEZyUThFd3ZKeTlIYlF0dHpCVDNuLV83Q25UaUpNMzF1WVU0bVB2WmZuWmVWLXRDaEhWc2VPUlFKWWs5OGhR?oc=5",
-   "desc": "Wall St futures tick higher as oil retreats ahead of inflation data  KITCO",
-   "source": "US Fed",
-   "publisher": "KITCO",
-   "scope": "world",
-   "ts": 1786612800000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaGNCNFRLX3VXZEczUUtWVEw1cVE3X2J0S2xxWDNsQ2t1LXNpOU5VM0lKbmJ0RzRSenhGT0JtVzNHTUpUeTF0SUVxNm5iUFRlWjExYnJrQjhwUWEwUHdWMjhGakw4d19PRjVmaTlqZG13NlRQQms",
    "title": "Dollar falls on flat PPI, cooling rate hike bets - CNBC",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaGNCNFRLX3VXZEczUUtWVEw1cVE3X2J0S2xxWDNsQ2t1LXNpOU5VM0lKbmJ0RzRSenhGT0JtVzNHTUpUeTF0SUVxNm5iUFRlWjExYnJrQjhwUWEwUHdWMjhGakw4d19PRjVmaTlqZG13NlRQQmsyUHhJY3RTUjA2YnlfZTZocTdsckF4NVl5NDZ0TWYzR2d2bUtzYndYeHg0U2hrddIBqgFBVV95cUxNY3FKVUQ1dEFzTlNyekN3OU8zOFQ5V19wRDRIXy01ZjFpVU9wUFdFdFMtZ0dQZjBZOFpXdU9vUDJBak5IejlJdmRBdmQtR0VsVzdyTXdoUE81aWNDRTIxVC1GaXBmYU5nTjJ5bklaUXREWmxtV1NOR0VQOEhtcFVtMlJIendxRW1xYVlSZ3Y1dDRuSWNtZXZTUjNxMGlhN1ZhS2lGb1AteWc3UQ?oc=5",
@@ -303,11 +303,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTWxpU3JWUTFMQUp0cWxEUEFSLUtQemc5TmZNM0ZfanBpR2VobVdVaFpUdVlCV3pWNUkxNk9IVVBFS2poeEhTZDU5cC1OcjVrMUY4U3poQTZxRTlsRFVfaW5ZdnhpMThjMHhMcGxWLUFkeXhYaUN",
-   "title": "Is pressure still mounting on the Federal Reserve to raise interest rates? The yield on 10-year U.S. Treasury issuance hits highest level since the financial crisis! - Moomoo",
+   "title": "Is pressure still mounting on the Federal Reserve to raise interest rates? The yield on 10-year U.S. Treasury issuance hits highest level since the financial crisis! - moomoo.com",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTWxpU3JWUTFMQUp0cWxEUEFSLUtQemc5TmZNM0ZfanBpR2VobVdVaFpUdVlCV3pWNUkxNk9IVVBFS2poeEhTZDU5cC1OcjVrMUY4U3poQTZxRTlsRFVfaW5ZdnhpMThjMHhMcGxWLUFkeXhYaUN5enZUVVg5eWxLa3JUX1ZEZ1JNSnN5eWVnLUtwalZkRV9ISU5KYjZvVjlqWXc?oc=5",
-   "desc": "Is pressure still mounting on the Federal Reserve to raise interest rates? The yield on 10-year U.S. Treasury issuance hits highest level since the financial crisis!  Moomoo",
+   "desc": "Is pressure still mounting on the Federal Reserve to raise interest rates? The yield on 10-year U.S. Treasury issuance hits highest level since the financial crisis!  moomoo.com",
    "source": "US Fed",
-   "publisher": "Moomoo",
+   "publisher": "moomoo.com",
    "scope": "world",
    "ts": 1786582980000
   },
@@ -332,14 +332,14 @@
    "ts": 1786569900000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTXM5eXRqdXBzRm03TVRkOW1Mcnc2djNROVhmaUhtR0NXU1N0MGcwS210T2VHZHZMRmM2MGdMQ0FEQXp1b01sZ29WSDU0bW1fNlNzS1E2RWFaNThJSk5mSmJ2Unh5azBWazhpQ2VLZFVzYjNlQ3B",
-   "title": "GOP lawmaker targets Fed interest payments to banks as way to fund healthcare - The Center Square",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTXM5eXRqdXBzRm03TVRkOW1Mcnc2djNROVhmaUhtR0NXU1N0MGcwS210T2VHZHZMRmM2MGdMQ0FEQXp1b01sZ29WSDU0bW1fNlNzS1E2RWFaNThJSk5mSmJ2Unh5azBWazhpQ2VLZFVzYjNlQ3BJdlZsek14Y24zel9BVVExOFUtS19xS09ZRTRkc09y0gGaAUFVX3lxTFBvOEp3ZzBBUDc4cGQ0ZC1uSDlSalZmbWFzZzlmUmtfdXBfaUhDS0NJX0xtbEZ4NC0zVDVoUnlQNXJ4S2IxU2dTMm8ycW5VNVV3WEFaUVJ2UUxDRUEwaFhBaWJLcFBNM3NOajJxaEFpbl96eXp4MWp3WXlzNGlfMUYweWZucXU1dy05dm9fZ3ktMF82SHNWRHRTTHc?oc=5",
-   "desc": "GOP lawmaker targets Fed interest payments to banks as way to fund healthcare  The Center Square",
+   "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUExDRXFwU1lmMTBjdHBERV9IZ0lQMkdSaTlINnBRd3RjTmFBeWpZYnd2N2ptQVRBOWgwWTROTDFjQlFmVm53S1VIWFF4VHVlcmYwRExMNFZ5UGdaSVZhdU5zb3JUeEN5amQzcGNiXzh0OXY3a3N",
+   "title": "Inflation dips, affirming Fed decision to keep interest rates steady - CFO Dive",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUExDRXFwU1lmMTBjdHBERV9IZ0lQMkdSaTlINnBRd3RjTmFBeWpZYnd2N2ptQVRBOWgwWTROTDFjQlFmVm53S1VIWFF4VHVlcmYwRExMNFZ5UGdaSVZhdU5zb3JUeEN5amQzcGNiXzh0OXY3a3NRQTc4bGhsSHlHT3J1WTJyMjFBZEw0T1FmTGVwMzFOWGw1X0QtaGFyNF83TzNzUGItUDBmM3VidEd2STJLMGVNZ0R4Slh5RGIySXBBdjI1ZlRtUA?oc=5",
+   "desc": "Inflation dips, affirming Fed decision to keep interest rates steady  CFO Dive",
    "source": "US Fed",
-   "publisher": "The Center Square",
+   "publisher": "CFO Dive",
    "scope": "world",
-   "ts": 1786569840000
+   "ts": 1786567346000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU9OVmNVQjc3NXk0dUF0TVZfNEYxYXh0VXpKTThPUmVUa3Y5N3VMVGhQdGw4YlRidDVqVmp4b2ZLZ0EyU3MzSmlpTXdCV2tKTzFhSjl3WE0wZHV2Mm42akFSUEp0alZzMG8wT09OM0QtVzJ1ZEt",
@@ -432,6 +432,16 @@
    "ts": 1786543920000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLUo4SDFMcTBGcm9FZHFKNDJ6VmJvaHphNGlXWWVDbVRIa2g1Qm9tTVlLZ2F4UGZ5LXRWaGQzeUNLYUl0SmlRV3ZncXlqNjdPVFRpMXFWdHkydlRZMjhzZk9mYm1iYVZ5NFhCTmlPeVdBRW5RTUN",
+   "title": "Benign Inflation Data Offers Reprieve to Fed as It Weighs Rate Increase - The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLUo4SDFMcTBGcm9FZHFKNDJ6VmJvaHphNGlXWWVDbVRIa2g1Qm9tTVlLZ2F4UGZ5LXRWaGQzeUNLYUl0SmlRV3ZncXlqNjdPVFRpMXFWdHkydlRZMjhzZk9mYm1iYVZ5NFhCTmlPeVdBRW5RTUNwaHNfZVNYX0FjNmczVW1DbkpydVYxZzZxN09GV2RCZlE1QkR4RF83dw?oc=5",
+   "desc": "Benign Inflation Data Offers Reprieve to Fed as It Weighs Rate Increase  The New York Times",
+   "source": "US Fed",
+   "publisher": "The New York Times",
+   "scope": "world",
+   "ts": 1786543712000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTm1KUVNyQkktNUZuTVI3bnFMNDFoZlJSVExMdzhWQ2dvU0duNWcwZUNJXzdrMWdRU3Y2RFVmMTRwemhMZi1wVEg1SWlreUp3QW5PamlkRWFfdjNQS2U1N2ZqOGZDdEp2cDhVRHhxRDNOMlZVX1p",
    "title": "RBI Proposes New Rules to Standardize Loan Rates for Borrowers - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTm1KUVNyQkktNUZuTVI3bnFMNDFoZlJSVExMdzhWQ2dvU0duNWcwZUNJXzdrMWdRU3Y2RFVmMTRwemhMZi1wVEg1SWlreUp3QW5PamlkRWFfdjNQS2U1N2ZqOGZDdEp2cDhVRHhxRDNOMlZVX1pJaURLYUlCbjlKb2ZERmxyNm0wSC1kMld6WWJhMkVUVGs2N2ZvUmx2NHhqN0JhTGZRZ3hDenQtcGtoZkdCRQ?oc=5",
@@ -442,6 +452,16 @@
    "ts": 1786543671000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbzFpX1ZrQnkxZExUNU4yTzZwM1lTZlVHMGNtYndVamZIUkZvSUxueFh6SnFkbUttWW9jMEhSVkR5cWx3UWkzbnQtUXYwdE5CcklaMVdGcDk2cllZbmVuWjUwQWpCaUpkQkMxTWpGQS1pX0FKZW8",
+   "title": "JPMorgan expects the Federal Reserve to keep interest rates unchanged, citing eased concerns as inflation appears non-sticky - Newsquawk",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbzFpX1ZrQnkxZExUNU4yTzZwM1lTZlVHMGNtYndVamZIUkZvSUxueFh6SnFkbUttWW9jMEhSVkR5cWx3UWkzbnQtUXYwdE5CcklaMVdGcDk2cllZbmVuWjUwQWpCaUpkQkMxTWpGQS1pX0FKZW8yTmdUX2tTSDZhQ18wTzVZVE5tVHFEczBIUGM3LWN3RXNnUUY1WnlMa3N6MUc3VXpFUk1oR3BvTDFKLXo5WlVGclk4N3pPaGFhb29TbHJPSW9yUElnNUYzd1VuUTlPamw2V1VCY19Hak41cWZfbFV6Z1JHZVktTk9HejU?oc=5",
+   "desc": "JPMorgan expects the Federal Reserve to keep interest rates unchanged, citing eased concerns as inflation appears non-sticky  Newsquawk",
+   "source": "US Fed",
+   "publisher": "Newsquawk",
+   "scope": "world",
+   "ts": 1786542820000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUg3aVRGR0Q0OXI5Y21EX0pYZENOaVpTYnl0NE9FTnk1OG9MQl9zZ1FlMlZENTNIeHpxWlVCbEk4d2NTNk9XTFBSdWE4RVk1Y3FPUXdhblhneFNXNTR6ZmVzRVRTeTUxSjdqck9rZ0puaUlobXl",
    "title": "July Inflation Rose As Expected—Here’s Why A Fed Rate Hike Is Now Unlikely - Forbes",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUg3aVRGR0Q0OXI5Y21EX0pYZENOaVpTYnl0NE9FTnk1OG9MQl9zZ1FlMlZENTNIeHpxWlVCbEk4d2NTNk9XTFBSdWE4RVk1Y3FPUXdhblhneFNXNTR6ZmVzRVRTeTUxSjdqck9rZ0puaUlobXl5VzVqMkk5bjJzbkVwVjNMdVZodmZtVE54WjFrTWc0dklGOFdvakhxQVdybzd0OWJzVTFzd2pZZmdLcnAtaWpLZHFKRTVHcUl4N1NwTzN0bVc0YkREbDZlYlJrNHFDbkU2ajk4bzhrYWc?oc=5",
@@ -450,6 +470,16 @@
    "publisher": "Forbes",
    "scope": "world",
    "ts": 1786539160000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3eERsb3h3SW9FdmhLbDlXdU8xN3NmbzAtVnBBMmExWndoaUhiUmJxMU9jNDgyNE5mcEQ4SE53SEpoMmZ1b3otSDUwTXo2RGl1Y004VGRQeWZEQTkwOWhkV0ZEZ1JfYmFock9WNW1LSU5mdGM?oc=",
+   "title": "CPI report shows inflation eased in July to a 3.4% annual pace - CBS News",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3eERsb3h3SW9FdmhLbDlXdU8xN3NmbzAtVnBBMmExWndoaUhiUmJxMU9jNDgyNE5mcEQ4SE53SEpoMmZ1b3otSDUwTXo2RGl1Y004VGRQeWZEQTkwOWhkV0ZEZ1JfYmFock9WNW1LSU5mdGM?oc=5",
+   "desc": "CPI report shows inflation eased in July to a 3.4% annual pace  CBS News",
+   "source": "US Fed",
+   "publisher": "CBS News",
+   "scope": "world",
+   "ts": 1786538460000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWHhjaEhhc0ZVVTA1cG5rZUVXZGtnYW4ySzlBRGRmaFN3M3F4aloyZlJrbnMxUTFrWnRrYXFvT09ZR3BjSHZFb3FNS0FUNHhNMUpYaGNwbGUwMGx4SDU1UU50MDFqSC1TRWdrWXh6cEhEOVNoeGV",
@@ -472,22 +502,12 @@
    "ts": 1786534060000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLUo4SDFMcTBGcm9FZHFKNDJ6VmJvaHphNGlXWWVDbVRIa2g1Qm9tTVlLZ2F4UGZ5LXRWaGQzeUNLYUl0SmlRV3ZncXlqNjdPVFRpMXFWdHkydlRZMjhzZk9mYm1iYVZ5NFhCTmlPeVdBRW5RTUN",
-   "title": "Benign Inflation Data Offers Reprieve to Fed as It Weighs Rate Increase - The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLUo4SDFMcTBGcm9FZHFKNDJ6VmJvaHphNGlXWWVDbVRIa2g1Qm9tTVlLZ2F4UGZ5LXRWaGQzeUNLYUl0SmlRV3ZncXlqNjdPVFRpMXFWdHkydlRZMjhzZk9mYm1iYVZ5NFhCTmlPeVdBRW5RTUNwaHNfZVNYX0FjNmczVW1DbkpydVYxZzZxN09GV2RCZlE1QkR4RF83dw?oc=5",
-   "desc": "Benign Inflation Data Offers Reprieve to Fed as It Weighs Rate Increase  The New York Times",
-   "source": "US Fed",
-   "publisher": "The New York Times",
-   "scope": "world",
-   "ts": 1786534013000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV1FpZFk4M0FGcmdXbXV3TUh5OTVaY1k0aDg5MlRBTUZnU1p1eTg2NVVfRjl1NVRMNWdkejFFQUVFUEpyWmhremdxNXk5Qm5FcXUya2F5UEZNNUFKdjFnMExMTExwSERkQThybDJlSC1ZcWIzbGN",
-   "title": "UAE central bank’s seat at the dollar table - Arabian Gulf Business Insight | AGBI",
+   "title": "UAE central bank’s seat at the dollar table - agbi.com",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV1FpZFk4M0FGcmdXbXV3TUh5OTVaY1k0aDg5MlRBTUZnU1p1eTg2NVVfRjl1NVRMNWdkejFFQUVFUEpyWmhremdxNXk5Qm5FcXUya2F5UEZNNUFKdjFnMExMTExwSERkQThybDJlSC1ZcWIzbGNQbUR1ZlVZMTdHTW12R0tTZmM?oc=5",
-   "desc": "UAE central bank’s seat at the dollar table  Arabian Gulf Business Insight | AGBI",
+   "desc": "UAE central bank’s seat at the dollar table  agbi.com",
    "source": "ECB / Europe",
-   "publisher": "Arabian Gulf Business Insight | AGBI",
+   "publisher": "agbi.com",
    "scope": "world",
    "ts": 1786533473000
   },
@@ -673,11 +693,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbkhwRUZQWHQ4Y05QQ0hXUkRGMWxiME04dU4yenMxQkJMS2ZVZ1hobFNWWS0weU5iVWhaSzJUeVhtQWRlYzF0aHhZYjRiVUswYTVPOWpleTRGSzRBcmo4Tlp0djlmZnBtYzdESzBKekJlMFRGMzJ",
-   "title": "SIDBI deploys MonetaGo’s invoice validation system - ibsintelligence.com",
+   "title": "SIDBI deploys MonetaGo’s invoice validation system - IBS Intelligence",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbkhwRUZQWHQ4Y05QQ0hXUkRGMWxiME04dU4yenMxQkJMS2ZVZ1hobFNWWS0weU5iVWhaSzJUeVhtQWRlYzF0aHhZYjRiVUswYTVPOWpleTRGSzRBcmo4Tlp0djlmZnBtYzdESzBKekJlMFRGMzJtTTNOaEpVN1c3emJ5aVJZbXgxWXpCR080dXdIdw?oc=5",
-   "desc": "SIDBI deploys MonetaGo’s invoice validation system  ibsintelligence.com",
+   "desc": "SIDBI deploys MonetaGo’s invoice validation system  IBS Intelligence",
    "source": "SIDBI / MSME",
-   "publisher": "ibsintelligence.com",
+   "publisher": "IBS Intelligence",
    "scope": "india",
    "ts": 1786432900000
   },
@@ -693,11 +713,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORWJOY3Y4T19DTTNqMHIzcmwzaVlBM0c5SVpOZWlMRkVHSXpydVRlLTByQnlwMHc1Yi0zTHRWcXpObVlRa2NCZ2N6VlRpX1BpWF9oTTNUWllWcExvMFFKNkFpa19vXzlpRHYyd0tjSk1tRWlpS21",
-   "title": "SIDBI Deploys MonetaGo Secure Financing Across MSME Lending Operations - SMEStreet",
+   "title": "SIDBI Deploys MonetaGo Secure Financing Across MSME Lending Operations - smestreet.in",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORWJOY3Y4T19DTTNqMHIzcmwzaVlBM0c5SVpOZWlMRkVHSXpydVRlLTByQnlwMHc1Yi0zTHRWcXpObVlRa2NCZ2N6VlRpX1BpWF9oTTNUWllWcExvMFFKNkFpa19vXzlpRHYyd0tjSk1tRWlpS21VSlNWeHNSeWx6X1ZYaGx4d0RieEFxNWNWWEhXWGd0MFdwOFpZMXdTTnEwVDBhakg5VWxjTzFK0gGsAUFVX3lxTE5FYk5jdjhPX0NNM2owcjNybDNpWUEzRzlJWk5laUxGRUdJenJ1VGUtMHJCeXAwdzViLTNMdFZxek5tWVFrY0JnY3pWVGlfUGlYX2hNM1RaWVZwTG8wUUo2QWlrX29fOWlEdjJ3S2NKTW1FaWlLbVVKU1Z4c1J5bHpfVlhobHh3RGJ4QXE1Y1ZYSFdYZ3QwV3A4Wlkxd1NOcTBUMGFqSDlVbGNPMUo?oc=5",
-   "desc": "SIDBI Deploys MonetaGo Secure Financing Across MSME Lending Operations  SMEStreet",
+   "desc": "SIDBI Deploys MonetaGo Secure Financing Across MSME Lending Operations  smestreet.in",
    "source": "SIDBI / MSME",
-   "publisher": "SMEStreet",
+   "publisher": "smestreet.in",
    "scope": "india",
    "ts": 1786425337000
   },
@@ -883,11 +903,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUWp0MDFETFpJTmt2QlpoNTdJQkluYjhFRi1sRlJ4ZFgwMENuenZPWXduV0xyMDlkQUhYeVYwTHpUSGk2UmxxMXhrZjRfTVhMOW50eUlxNnFwTGhHVWQ2U1dJSWpreDRKRy11dkVaOHFDTTRldWx",
-   "title": "MSME Confidence Holds Firm at 59.3 Despite Global Uncertainties: SIDBI - entrepreneurindia.com",
+   "title": "MSME Confidence Holds Firm at 59.3 Despite Global Uncertainties: SIDBI - Entrepreneur India",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUWp0MDFETFpJTmt2QlpoNTdJQkluYjhFRi1sRlJ4ZFgwMENuenZPWXduV0xyMDlkQUhYeVYwTHpUSGk2UmxxMXhrZjRfTVhMOW50eUlxNnFwTGhHVWQ2U1dJSWpreDRKRy11dkVaOHFDTTRldWxycWk2ZmpiTm5lMWV2Q0hXeVhFeTRiNk9VeVNtdWhRYWdpUW5RcG1rOFZaLVFWNi1sTGFYU0NBTUdLd2NUYnhzNlJENHdkMnZB?oc=5",
-   "desc": "MSME Confidence Holds Firm at 59.3 Despite Global Uncertainties: SIDBI  entrepreneurindia.com",
+   "desc": "MSME Confidence Holds Firm at 59.3 Despite Global Uncertainties: SIDBI  Entrepreneur India",
    "source": "SIDBI / MSME",
-   "publisher": "entrepreneurindia.com",
+   "publisher": "Entrepreneur India",
    "scope": "india",
    "ts": 1786189468000
   },
@@ -1072,22 +1092,12 @@
    "ts": 1786067914000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUFZNzdTQ3JlYWM0d3pPR091S2FJTUZIYlEtN18zVGkzT1JidHF4bktKVHFGUDl4TGdZdVhQWUY3U3l1bGMzSU83eDZmUm5GaWFUb29EWnBLYVNQSEg2TTZZSDBaV0RCZ2V6dldpdXZMTHZ5R2Q",
-   "title": "Sebi Investigates 402 Cases in FY26: Market Violations - Rediff MoneyWiz",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUFZNzdTQ3JlYWM0d3pPR091S2FJTUZIYlEtN18zVGkzT1JidHF4bktKVHFGUDl4TGdZdVhQWUY3U3l1bGMzSU83eDZmUm5GaWFUb29EWnBLYVNQSEg2TTZZSDBaV0RCZ2V6dldpdXZMTHZ5R2QwLVA3eG1VRUpjN201ckFBbDVDWVJyUFc0ZF9rcEFyMHFpaGJ0NlQtbWptMzA1ZW10aTLSAa4BQVVfeXFMTlZCV3pjbUVGMU1UYkNEM2dNZWlDS1JyMFRvZWRlRll6d2g0Vk13b0hlNUtWc2haejVMSW95azdYYzEtMkp5aElDQzBEVEtweU1lSVJlUEpNMkdQSDdVNGdVdVBFTjFfRWZKV0hLS3NENE1xN3VFT3c4eGpfRkpHS0V1Ql9FYUF6ZnBtQ2hQemJWaUhsbGJJQlhDbk9kLWRwYVBaZkFLZzZaUy13d1Z3?oc=5",
-   "desc": "Sebi Investigates 402 Cases in FY26: Market Violations  Rediff MoneyWiz",
-   "source": "SEBI",
-   "publisher": "Rediff MoneyWiz",
-   "scope": "india",
-   "ts": 1786033330000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2ZsdHQ0amJyZFpUXy1mcEJVeVJjNzBWVHk2MVg5NDdhRDdkQUNpUUljU2FRamNTVTdxdExhN1JlNVhDOXViYnQ2eU5DWmgxNzAwYWJDQXozRlBoQVYzUDRqUmRHVGl3QXhqelZjOWtiSk5DTmZ",
-   "title": "RBI Raises FY27 GDP Growth Forecast to 6.7%, Lowers CPI Inflation Projection to 5% - Thekanal",
+   "title": "RBI Raises FY27 GDP Growth Forecast to 6.7%, Lowers CPI Inflation Projection to 5% - thekanal.in",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2ZsdHQ0amJyZFpUXy1mcEJVeVJjNzBWVHk2MVg5NDdhRDdkQUNpUUljU2FRamNTVTdxdExhN1JlNVhDOXViYnQ2eU5DWmgxNzAwYWJDQXozRlBoQVYzUDRqUmRHVGl3QXhqelZjOWtiSk5DTmZMZTBPeWp1eDBBRk1nVE1RTUMxQklMTDNjWWJheFBKRTRoaEtWUEVfZ19SLU1VaERNd1Zhcmg4ZkhadWxlRmx6QlNRdWc?oc=5",
-   "desc": "RBI Raises FY27 GDP Growth Forecast to 6.7%, Lowers CPI Inflation Projection to 5%  Thekanal",
+   "desc": "RBI Raises FY27 GDP Growth Forecast to 6.7%, Lowers CPI Inflation Projection to 5%  thekanal.in",
    "source": "Indian Economy",
-   "publisher": "Thekanal",
+   "publisher": "thekanal.in",
    "scope": "india",
    "ts": 1786028978000
   },
@@ -1190,16 +1200,6 @@
    "publisher": "Business Standard",
    "scope": "india",
    "ts": 1785939300000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONUJHWDFBLUNyaTNWV050SURwZnJQc2Nnb0luYVFKMWg4ZnRRQUhkYjdLSEFpdnIxSUxIbUU1VDNIX3lkR216bXRaWHgwR1ZZdWFPdWJNM1V6OVZTTlRsQzJJZ1IzaTY2d0tnX3dOWVI4RU00UEF",
-   "title": "Rupee, bonds rise on geopolitical relief, trim gains post RBI policy - Business Standard",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONUJHWDFBLUNyaTNWV050SURwZnJQc2Nnb0luYVFKMWg4ZnRRQUhkYjdLSEFpdnIxSUxIbUU1VDNIX3lkR216bXRaWHgwR1ZZdWFPdWJNM1V6OVZTTlRsQzJJZ1IzaTY2d0tnX3dOWVI4RU00UEFuX0d6ckJGTVFMNlpaekthWEpMX3VvWDVGc0FOYWV6czB6Sl82UHRlM2h1dEhkemRfQUplOXBHY1FsNUhKSUdvVFFVdXVVUkVqWFp4RFVWb0xrR3R3dWRBNlotOTln0gHYAUFVX3lxTFBPTkM3Ri1RQnJsR1JGc2tnOThST2F4aUNJT2NuM0hhRi1ieXZMTUNBQnItMzRVaGp3UTlBVW9xd1JTQ0R0eHQ1Y0lOZGlVN19HOEF0R2hrOTF4WER0N3dTQmd5VG94dGhqeUdhZy1SYjZOTldvUEdWTGNtODJfemUzNmt5MGlIRlViWW1nS01YWDJITjJPMXdPM2UtdjFZYXhsNkNCdzVHcGRIemhBc2t3cFZqNHQ5MHplb3pHaGItcFVBUk1qRlhZQWhGZk94by1Zb1pFWGJQMw?oc=5",
-   "desc": "Rupee, bonds rise on geopolitical relief, trim gains post RBI policy  Business Standard",
-   "source": "RBI",
-   "publisher": "Business Standard",
-   "scope": "india",
-   "ts": 1785937020000
   }
  ]
 }
