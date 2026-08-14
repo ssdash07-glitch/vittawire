@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14T18:09:55.850931+00:00",
+ "updated": "2026-08-14T19:21:53.193256+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOUzc4RVdaa29EcEVFVUZRUUhZeUI4a2NmdnMwYnBCYng0c0kwbFRQWG9aLWoyajRIMHlVUDZGS0VXMk1tMTZQSEU2aXNtMURYUmgyV0p5eHg5OEdwUUlHTzRYaExTcmJJX0VlSXV0bVVEb3RVdVd",
@@ -192,6 +192,16 @@
    "ts": 1786713142000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdFJCeWdvZDMyM21HMnRqT1UzZGthcnlnRjh3Q1h2cnJqMFR1N0psMG5wamNyQXhXN3pDWEl3WlgyMU5FbUV5S1RRZHk0SmJ6eXF1dkdVVlI5d2lSSF9JNEQtci1wTUw2RGM0bWxnR3l0eGJHMHh",
+   "title": "Treasuries Gain as Weak Retail Sales Data Erode Rate-Hike Bets - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdFJCeWdvZDMyM21HMnRqT1UzZGthcnlnRjh3Q1h2cnJqMFR1N0psMG5wamNyQXhXN3pDWEl3WlgyMU5FbUV5S1RRZHk0SmJ6eXF1dkdVVlI5d2lSSF9JNEQtci1wTUw2RGM0bWxnR3l0eGJHMHhKaDN2bmlEdzQwQ3BjTWptQ0NReHpUazRFNkdYU1lmX05OSmtEMHFjZE83YV83Ynkwd3k0MDdGSmh5azdiRQ?oc=5",
+   "desc": "Treasuries Gain as Weak Retail Sales Data Erode Rate-Hike Bets  Bloomberg.com",
+   "source": "US Fed",
+   "publisher": "Bloomberg.com",
+   "scope": "world",
+   "ts": 1786713022000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaUVWa04zdkZTWXJyd21IRXR5RE9UNlJCajRwcHFvYU1lUFVtUGdxQW5nNjBwU3lhVzZ6RzV5VXM4enBuUHR2VG9hNGNheUpXMEI5QjVtNnJnWjN5Q1NZbGg0Rl80ZGJBV2hVc2dGdUQwZlJRcTQ",
    "title": "US July Retail Sales Unexpectedly Fall 0.6% as Spending Cools, Hitting Fed Rate-Hike Expectations Again - TradingKey",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaUVWa04zdkZTWXJyd21IRXR5RE9UNlJCajRwcHFvYU1lUFVtUGdxQW5nNjBwU3lhVzZ6RzV5VXM4enBuUHR2VG9hNGNheUpXMEI5QjVtNnJnWjN5Q1NZbGg0Rl80ZGJBV2hVc2dGdUQwZlJRcTQ0ZXlhYjhSeTJmTW1aQ290UHNUYkNxYUFTXzhiS1lvNEdCcU5UbXRESGxwdUR1NFZPeTNMWnJrMlQ4alRpZTl5Ulo1MENtUkk0ZVZxSHphaEM4TQ?oc=5",
@@ -273,11 +283,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeWxtOHNYZG02TzlRdlc1Mk0xOXl0QlZKNWJuTXRRS3VpRHBESlBBazFpc19BXzh0TEhSeEx2SU1HdDZmdHFuZGdKY21laVBvd09RRlNTZ3lITG90ckFlSTFfMUZmLThENXBkbnBNSnhxRHZ2Rnd",
-   "title": "Interest rate hikes go global - Washington Examiner",
+   "title": "Interest rate hikes go global - washingtonexaminer.com",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeWxtOHNYZG02TzlRdlc1Mk0xOXl0QlZKNWJuTXRRS3VpRHBESlBBazFpc19BXzh0TEhSeEx2SU1HdDZmdHFuZGdKY21laVBvd09RRlNTZ3lITG90ckFlSTFfMUZmLThENXBkbnBNSnhxRHZ2RndXSXpzLWJIZENNcUF2UkZIWHJP?oc=5",
-   "desc": "Interest rate hikes go global  Washington Examiner",
+   "desc": "Interest rate hikes go global  washingtonexaminer.com",
    "source": "US Fed",
-   "publisher": "Washington Examiner",
+   "publisher": "washingtonexaminer.com",
    "scope": "world",
    "ts": 1786703400000
   },
@@ -300,26 +310,6 @@
    "publisher": "CryptoRank",
    "scope": "world",
    "ts": 1786690978000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaHN6RVcyUkM4Z0dRUWtIWjdxeEFNNFFxUTBLZ29pZ1IxNW1vYnI1ZGhzSzZRQzlUNER1bzd6cWFraFB2YTBVejRuTTJpTW5MbzhNR1pYQU9oTXoxN3RVU2M2V0p4TDZLbTJmTFktWWRySmI2OG1",
-   "title": "Emerging-market assets rally as US inflation data suggests Fed rate hike delay - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaHN6RVcyUkM4Z0dRUWtIWjdxeEFNNFFxUTBLZ29pZ1IxNW1vYnI1ZGhzSzZRQzlUNER1bzd6cWFraFB2YTBVejRuTTJpTW5MbzhNR1pYQU9oTXoxN3RVU2M2V0p4TDZLbTJmTFktWWRySmI2OG1zN3BwNTB5anVtbWlBdTU1MkhRZHA5eEc3TV9BSWxxZXpJdU9EMUoyMmpjQXM1bUgyVXRBTU1pdXZPbFppRHNaS2lHWEVxU0NqLWVybGNPdVppLWhmVm1ZbHhhaTBDcEU2VzdDUlU?oc=5",
-   "desc": "Emerging-market assets rally as US inflation data suggests Fed rate hike delay  TradingView",
-   "source": "US Fed",
-   "publisher": "TradingView",
-   "scope": "world",
-   "ts": 1786690966000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yMzFIUGlBMXdremhsOVRuNU9SdEdENGQtdzhncE5aNl9Fakg0WTB4amRZa1VNQ3cteFU4Zmo3ZmhsdnNXdVBYWVJIUHNjMjFubHlZTXFidGxvSkxMcDZ6QmJPeEd3UHVSMnU3bjdqQng3M29venR",
-   "title": "Euro Edges Higher Vs Pound, But Range Persists: What's Driving EUR/GBP? - Bitcoin World",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yMzFIUGlBMXdremhsOVRuNU9SdEdENGQtdzhncE5aNl9Fakg0WTB4amRZa1VNQ3cteFU4Zmo3ZmhsdnNXdVBYWVJIUHNjMjFubHlZTXFidGxvSkxMcDZ6QmJPeEd3UHVSMnU3bjdqQng3M29venRPWA?oc=5",
-   "desc": "Euro Edges Higher Vs Pound, But Range Persists: What's Driving EUR/GBP?  Bitcoin World",
-   "source": "ECB / Europe",
-   "publisher": "Bitcoin World",
-   "scope": "world",
-   "ts": 1786690211000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWEhQYUJTYVFkc29TbjdWdXVRbHB0RDZOcjJTSGNfeGdjSjBFTEU1TDZhZnViZDJWai1zVHBJVHpwYUhPalQ5Q25CMzh0WTR1QS1KaDZhb0xZem0zNUZMNE9yN0k3NUlVLW9Xem1WUTVDd1RHWFR",
@@ -812,16 +802,6 @@
    "ts": 1786517047000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aV2tiekNxclZKdWEyb3VvMGxGV2pGdlVWRzhhUDBlYXJLOXlZNWhmU3ZXRTJmbEhLR3J0N3k0d3JGZUNjTkV1NkZtLXllOWJnRGdKTkRwZmJvTHNHekhtdkdaU3VZT2JkUXhNZWszb3hicFRYX1M",
-   "title": "Euro Trims Losses Vs Pound After Hot German Inflation Data - Bitcoin World",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aV2tiekNxclZKdWEyb3VvMGxGV2pGdlVWRzhhUDBlYXJLOXlZNWhmU3ZXRTJmbEhLR3J0N3k0d3JGZUNjTkV1NkZtLXllOWJnRGdKTkRwZmJvTHNHekhtdkdaU3VZT2JkUXhNZWszb3hicFRYX1MtbGpiaw?oc=5",
-   "desc": "Euro Trims Losses Vs Pound After Hot German Inflation Data  Bitcoin World",
-   "source": "ECB / Europe",
-   "publisher": "Bitcoin World",
-   "scope": "world",
-   "ts": 1786516811000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUUJ3ejFoRHVSR25SbFUzYmZqeHgtMmxDUkNUQUJLQzhVWWtPVUFnRWhYbEJEOU9sUGtVdlFzSTNLVTI4S0R4a243M3Z4ZnBxa21BaEJVOHVkVUZWN20tV0FEV0tfUEQzUElwWTk0N1Njam5FZDN",
    "title": "India's markets regulator sees no manipulation in stock closing auction, chief says - Reuters",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUUJ3ejFoRHVSR25SbFUzYmZqeHgtMmxDUkNUQUJLQzhVWWtPVUFnRWhYbEJEOU9sUGtVdlFzSTNLVTI4S0R4a243M3Z4ZnBxa21BaEJVOHVkVUZWN20tV0FEV0tfUEQzUElwWTk0N1Njam5FZDNoN2NWTFVKdnpGVTVHbTh6RjJqRmo2dFBsRUItaWRSTWxTcDlKTVpsXzk2MVUwUjJzWDlZVkZSbVFQSTVrSlFwUWtGR1JqVDY4eHEzUDFPMmxv?oc=5",
@@ -840,6 +820,16 @@
    "publisher": "NDTV Profit",
    "scope": "india",
    "ts": 1786507995000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1pYbkVVZWZvbWs1VmsycjRvQ1AyTzdIRXBkY0pBNVU0eUloaU5rTHhPSlJJNlYyb1NCRGZqRmtvRThJYnZ4cFM1a1ZTNXpsRXNXRGNmWmNWUUJvNmVxMXV6MTdoWUJ2SGdGLVg4aDg0VExQZ3N",
+   "title": "Tradeweb Government Bond Update – July 2026 - Tradeweb",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1pYbkVVZWZvbWs1VmsycjRvQ1AyTzdIRXBkY0pBNVU0eUloaU5rTHhPSlJJNlYyb1NCRGZqRmtvRThJYnZ4cFM1a1ZTNXpsRXNXRGNmWmNWUUJvNmVxMXV6MTdoWUJ2SGdGLVg4aDg0VExQZ3NiX1N0VWY1c18zVTd3RC00a3BZWkFXZ2NwUjdzTGh6NVRjWGJzNlFxblVJZHNWQXFMbw?oc=5",
+   "desc": "Tradeweb Government Bond Update – July 2026  Tradeweb",
+   "source": "ECB / Europe",
+   "publisher": "Tradeweb",
+   "scope": "world",
+   "ts": 1786477291000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeWlLSnA5Z0dhYk9GSjdGdXdMSHBxOU5PMmpCdVRNTXpteVlHRURSdGdsZVpmUXpNLXhzTEdTM3RzemNtaXpTRURxT1JYRF85ZW04RWhfVXdQRjZzdXJFMGIwSF9IdXdENVgwYUVBT2JOZUdsX0c",
@@ -912,22 +902,12 @@
    "ts": 1786432900000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdGVOeHZtTHBSY19Pa0lnUk9YdXZyRmpHUEtMSWJESC1SWi1GUzc5Q1A4ZllxbWN3R1hhZW5DaTB3VXBkVUFRTG5GZXNkZ1VTS1VfQ29BSFl4MzFSWTJrNDZsbG1lRVJGU044bjNWamh1cHh4Vlh",
-   "title": "The US Fed’s New Philosophy Could Be a Recipe for Interest Rate Volatility - Morningstar",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdGVOeHZtTHBSY19Pa0lnUk9YdXZyRmpHUEtMSWJESC1SWi1GUzc5Q1A4ZllxbWN3R1hhZW5DaTB3VXBkVUFRTG5GZXNkZ1VTS1VfQ29BSFl4MzFSWTJrNDZsbG1lRVJGU044bjNWamh1cHh4VlhqUzl3dkVGSGR6eEEyd3BwMy1FVnd5VkNPRFNDcmIwbGxpQ056VFFOWTRoRzNVQ3VuT0dRaGpO?oc=5",
-   "desc": "The US Fed’s New Philosophy Could Be a Recipe for Interest Rate Volatility  Morningstar",
-   "source": "US Fed",
-   "publisher": "Morningstar",
-   "scope": "world",
-   "ts": 1786428797000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORWJOY3Y4T19DTTNqMHIzcmwzaVlBM0c5SVpOZWlMRkVHSXpydVRlLTByQnlwMHc1Yi0zTHRWcXpObVlRa2NCZ2N6VlRpX1BpWF9oTTNUWllWcExvMFFKNkFpa19vXzlpRHYyd0tjSk1tRWlpS21",
-   "title": "SIDBI Deploys MonetaGo Secure Financing Across MSME Lending Operations - SMEStreet",
+   "title": "SIDBI Deploys MonetaGo Secure Financing Across MSME Lending Operations - smestreet.in",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORWJOY3Y4T19DTTNqMHIzcmwzaVlBM0c5SVpOZWlMRkVHSXpydVRlLTByQnlwMHc1Yi0zTHRWcXpObVlRa2NCZ2N6VlRpX1BpWF9oTTNUWllWcExvMFFKNkFpa19vXzlpRHYyd0tjSk1tRWlpS21VSlNWeHNSeWx6X1ZYaGx4d0RieEFxNWNWWEhXWGd0MFdwOFpZMXdTTnEwVDBhakg5VWxjTzFK0gGsAUFVX3lxTE5FYk5jdjhPX0NNM2owcjNybDNpWUEzRzlJWk5laUxGRUdJenJ1VGUtMHJCeXAwdzViLTNMdFZxek5tWVFrY0JnY3pWVGlfUGlYX2hNM1RaWVZwTG8wUUo2QWlrX29fOWlEdjJ3S2NKTW1FaWlLbVVKU1Z4c1J5bHpfVlhobHh3RGJ4QXE1Y1ZYSFdYZ3QwV3A4Wlkxd1NOcTBUMGFqSDlVbGNPMUo?oc=5",
-   "desc": "SIDBI Deploys MonetaGo Secure Financing Across MSME Lending Operations  SMEStreet",
+   "desc": "SIDBI Deploys MonetaGo Secure Financing Across MSME Lending Operations  smestreet.in",
    "source": "SIDBI / MSME",
-   "publisher": "SMEStreet",
+   "publisher": "smestreet.in",
    "scope": "india",
    "ts": 1786425337000
   },
@@ -983,11 +963,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd2NVczd1MG1LVVBYOU1ncy1RVVo1S0tQQms2RmpSTHB6QVFPMVduQzRsdXlONEJJQ1VkZDg3RzA2N3pEQk1VUklYSV93aHE0MXJYdWJTM1RDVkYzc1V0MzNKOF94ZUpjeUxLYTlaTlZLeGtYRzd",
-   "title": "India's SIDBI goes live MonetaGo's Secure Financing - FinTech Futures",
+   "title": "India's SIDBI goes live MonetaGo's Secure Financing - fintechfutures.com",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd2NVczd1MG1LVVBYOU1ncy1RVVo1S0tQQms2RmpSTHB6QVFPMVduQzRsdXlONEJJQ1VkZDg3RzA2N3pEQk1VUklYSV93aHE0MXJYdWJTM1RDVkYzc1V0MzNKOF94ZUpjeUxLYTlaTlZLeGtYRzdGOXFITldrbDdkb0xIS2hrUzQ0bVQyUmM4elJJUk1ZZ2hnMlJGbjI0N3o0LVJEYWdGSWxFcW0zUjdJ?oc=5",
-   "desc": "India's SIDBI goes live MonetaGo's Secure Financing  FinTech Futures",
+   "desc": "India's SIDBI goes live MonetaGo's Secure Financing  fintechfutures.com",
    "source": "SIDBI / MSME",
-   "publisher": "FinTech Futures",
+   "publisher": "fintechfutures.com",
    "scope": "india",
    "ts": 1786367365000
   },
@@ -1013,11 +993,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObGJwMno1RnMwZXF1TzdIc2d0dzhPQnVBQnBYRHhnbHJwdEd1VjkxbGp1LU5qM2VJVElUcFFsZFFwMTdFRGhJRWVZYW1NelM5Sk9OT0dZUE85TDlZTVB5YXR4TW1oRHh0c2Z3UngwR1hGWVc2Uk5",
-   "title": "Bank ‘charges’ 16.5 per cent home loan interest, woman to get Rs 14.41 lakh payout - indianexpress.com",
+   "title": "Bank ‘charges’ 16.5 per cent home loan interest, woman to get Rs 14.41 lakh payout - The Indian Express",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObGJwMno1RnMwZXF1TzdIc2d0dzhPQnVBQnBYRHhnbHJwdEd1VjkxbGp1LU5qM2VJVElUcFFsZFFwMTdFRGhJRWVZYW1NelM5Sk9OT0dZUE85TDlZTVB5YXR4TW1oRHh0c2Z3UngwR1hGWVc2Uk5kcjBqZHZTbFBUQ2dTT2gwZEY0c0lNQmZTSDJHS2ZmWFpoY3J4b3ZrTnA1aVdzV0hpZnAxb21LZElsZm5B0gG4AUFVX3lxTE4yVEk1cUFuZjZfeVV3RVFVY3doR2I2S3oyTkVOdjV5d2UyeDJiQXR6ZjcyQTB1TmhpNHZ6R3Q5WmZqd05RaUJiQ014QnpzUXhCV3BvSUVDNElUVWUtM1NpRWR1YmJJTm9yWnl5TFl2Tk1najM0YTF1VXZLY0p6bDBDOU1nZjJmRlVsbkxucmY4VEh3S1VyS3plYXlRWUY3VTZsNm9KaERFSmc5MGRFTGRJQXdGNUd0YWY?oc=5",
-   "desc": "Bank ‘charges’ 16.5 per cent home loan interest, woman to get Rs 14.41 lakh payout  indianexpress.com",
+   "desc": "Bank ‘charges’ 16.5 per cent home loan interest, woman to get Rs 14.41 lakh payout  The Indian Express",
    "source": "RBI",
-   "publisher": "indianexpress.com",
+   "publisher": "The Indian Express",
    "scope": "india",
    "ts": 1786363228000
   },
@@ -1100,16 +1080,6 @@
    "publisher": "Deccan Herald",
    "scope": "india",
    "ts": 1786260546000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRHRmQlJXSHY3V2dxTWxmcTlsekJlaUNMcmdhdnRCY1Y0QnFhNERfWTU5OTNtNFptT2Q3WXVIVGR0b3p4VWVJOU5PVjgwZW9jTWs0RVZaVjRyOUVfV1ZsVk90dkFKWkNOY2Z1NnhrX2NXVWtrNE9",
-   "title": "Indian equity markets open higher ahead of RBI’s policy outcome - ddnews.gov.in",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRHRmQlJXSHY3V2dxTWxmcTlsekJlaUNMcmdhdnRCY1Y0QnFhNERfWTU5OTNtNFptT2Q3WXVIVGR0b3p4VWVJOU5PVjgwZW9jTWs0RVZaVjRyOUVfV1ZsVk90dkFKWkNOY2Z1NnhrX2NXVWtrNE9LWWZKWEVpRXBMX2NoNFVDc29xMGxwRjZkRXdtdw?oc=5",
-   "desc": "Indian equity markets open higher ahead of RBI’s policy outcome  ddnews.gov.in",
-   "source": "RBI",
-   "publisher": "ddnews.gov.in",
-   "scope": "india",
-   "ts": 1786240042000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUWp0MDFETFpJTmt2QlpoNTdJQkluYjhFRi1sRlJ4ZFgwMENuenZPWXduV0xyMDlkQUhYeVYwTHpUSGk2UmxxMXhrZjRfTVhMOW50eUlxNnFwTGhHVWQ2U1dJSWpreDRKRy11dkVaOHFDTTRldWx",
@@ -1200,6 +1170,36 @@
    "publisher": "The Arunachal Times",
    "scope": "india",
    "ts": 1786133652000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeC1KdVJxR3ptcmpvU1h4OEVZTy1BZGRSa3VHUHd1ck84M2hKeHlZTHJkdmQzTm5PY3JPZEYxQ0toMGl4NE1WQXg5bVJHbHJfWFNNSkVUY2EwMzM4SzRkVEhxbDhpR1lDR2RVWThEaFJocFBhRU1",
+   "title": "BRICS trade meet clears MSME credit framework - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeC1KdVJxR3ptcmpvU1h4OEVZTy1BZGRSa3VHUHd1ck84M2hKeHlZTHJkdmQzTm5PY3JPZEYxQ0toMGl4NE1WQXg5bVJHbHJfWFNNSkVUY2EwMzM4SzRkVEhxbDhpR1lDR2RVWThEaFJocFBhRU1GTFdmRi1Dc1FRcEFBWEJUYmFjYkdvZjEzaUZBNERIS2hCV245U2NQZjlZbmdlbEVnWG5tYmdvRlIw0gG0AUFVX3lxTE1JdnVHNy1SR3FTSW1CT2dTUENmVVBBejJqOVBtUk13UFpWZnZZRlV0QzB6YW5VdUVTc19aNUZMRkZubHVheUR4X2ZXWFBUQ3Q5Y19lRnNwcnhWbkFQWk9IZVhUZFBwSEF4Ym9sYWpfS0pEbDRsRjBXaV96TDZ3YW9kaDlDTUZkQWdFWXFmcmxfNS01REZJckE5dmcxMnZSWEJaWXlSVGRacXRjMGNTb1B6MEVwNw?oc=5",
+   "desc": "BRICS trade meet clears MSME credit framework  The Economic Times",
+   "source": "SIDBI / MSME",
+   "publisher": "The Economic Times",
+   "scope": "india",
+   "ts": 1786130873000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkV3WmFpUmlEQlBFQ2hBNzk2eUx2d3RSZjlTT044WXc3Rjl5Mm53SmJqdnZFTHRPVmF2VFlKTUdQZjQ2LXdTU01TS0c5VDJBWjFrNnQwVHc4QnVidzgtSVFiYzZlc19fcXlyUVEzMk1lWHdmUkg",
+   "title": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say. - CBS News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkV3WmFpUmlEQlBFQ2hBNzk2eUx2d3RSZjlTT044WXc3Rjl5Mm53SmJqdnZFTHRPVmF2VFlKTUdQZjQ2LXdTU01TS0c5VDJBWjFrNnQwVHc4QnVidzgtSVFiYzZlc19fcXlyUVEzMk1lWHdmUkg5c2VTT2JJbnQtNDh2NFlGQmtUMU1TM1NIOXpYU0lCVTYxNA?oc=5",
+   "desc": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say.  CBS News",
+   "source": "US Fed",
+   "publisher": "CBS News",
+   "scope": "world",
+   "ts": 1786127580000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc05jOExPbW1VT3dweGswTGZoNEI0WUQ5em1lcjJySk54SHNyNGFjY1hJaXdtQXd6bnBNODFNN1JsTnNja3NibHkyMjBxWnhjQk5SVTVNczVLaDJuOHlScHhIaE9sUUROaXd6amp6bjI2TzhUNkp",
+   "title": "Sebi clears IPO plans of 9 firms, including PlaySimple Games, Garuda Aerospace, Rediff.com and Jakson Green - fortuneindia.com",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc05jOExPbW1VT3dweGswTGZoNEI0WUQ5em1lcjJySk54SHNyNGFjY1hJaXdtQXd6bnBNODFNN1JsTnNja3NibHkyMjBxWnhjQk5SVTVNczVLaDJuOHlScHhIaE9sUUROaXd6amp6bjI2TzhUNkpaRmtnY2F6WTZwd2FZN09BeHVLTVUycmd6NmdvWVJVSlF1Uzk4b1pXUUNqQ2E1OVJLQTktX2thR081cE1kdFhqN3lUdlQ0elpid2UzOTM1Yy1WWVNqYloxWldpZDUwQVNhVmNMNFI4U1FvNdIB7gFBVV95cUxNU0JyRVc0NnFkRDcxUDBLb1hRRUpjUmNLRUtjN0psdkpOLWFLOVZiaW1ZMFl1eHkyTlg0T1gtUVR3d2w2RWE3TXZtVk83WG4wdW91bU82eVIyVkhqaVlkdkhUa0VEQUszblFuYjZrLXRfbHpWS3pTUG9aQmloVmdUX3ExUVpqNVRuS0k4NXItNnlzUW53SVJmZWZKZ2Y1UDlLY0cySmZSRVlEQnJSeU9ndGZuaWp1RUNLYkg1YVRXVHJuOVJTQ3ZfSUlnajQ0Vi13THh3QVBLaTdfT3BWcXlXUXloSmZLWkwweUVHR1h3?oc=5",
+   "desc": "Sebi clears IPO plans of 9 firms, including PlaySimple Games, Garuda Aerospace, Rediff.com and Jakson Green  fortuneindia.com",
+   "source": "SEBI",
+   "publisher": "fortuneindia.com",
+   "scope": "india",
+   "ts": 1786121647000
   }
  ]
 }
