@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-15T07:58:18.967230+00:00",
+ "updated": "2026-08-15T08:38:58.933171+00:00",
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVUW5MTzQ3bWNteTRPUzhKU0RsanBiRTljclhxQlh1dXhIZURISlY3T0pKOWpiOHg3UUdHWFh4TmhoQ2hJSXRyRGpkM0JFWXVCWDloYVpDd1VXUlJJbUU4WGx1LW9VMkk4aEVnSHNWSGNXOTNHcGp",
+   "title": "S&P 500 Record High August 2026: Inflation & AI Earnings Drive Rally - Intellectia AI",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVUW5MTzQ3bWNteTRPUzhKU0RsanBiRTljclhxQlh1dXhIZURISlY3T0pKOWpiOHg3UUdHWFh4TmhoQ2hJSXRyRGpkM0JFWXVCWDloYVpDd1VXUlJJbUU4WGx1LW9VMkk4aEVnSHNWSGNXOTNHcGpTY0tVaFlOUQ?oc=5",
+   "desc": "S&P 500 Record High August 2026: Inflation & AI Earnings Drive Rally  Intellectia AI",
+   "source": "US Fed",
+   "publisher": "Intellectia AI",
+   "scope": "world",
+   "ts": 1786781489000
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdUJlcGp2SHEyVmNoaVgtaTc1TndyVjZyMTEwUURjLTU5ZVJ1SHNMOWVFNWFmZ3NuTXY2NlFoalVJQnltYUVsMHNxSTlkbml0UkFCVExmYS14eHlLdE9yTVBsOEpSOXMwVV9jMWkzMWsxenpxd1N",
    "title": "SEBI allows online bond platforms to offer IFSCA products, 54EC bonds, eases compliance officer... - Moneycontrol.com",
@@ -30,16 +40,6 @@
    "publisher": "news.futunn.com",
    "scope": "world",
    "ts": 1786759163000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YVWJ6a3pOZndFalRQYTVFZ0dKTkZmemRlS2FiTzhpU0xaeWdkWFRjUmp3eUYzVjZxR25LeXEtczZWaTRlUDVVYWJrOV9wWVV6ek5taEphTUQ5SENESXpGak5zeVBIcTQ?oc=5",
-   "title": "Gold heads for weekly gain as weaker dollar cools US rate hike expectations - Nation Thailand",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YVWJ6a3pOZndFalRQYTVFZ0dKTkZmemRlS2FiTzhpU0xaeWdkWFRjUmp3eUYzVjZxR25LeXEtczZWaTRlUDVVYWJrOV9wWVV6ek5taEphTUQ5SENESXpGak5zeVBIcTQ?oc=5",
-   "desc": "Gold heads for weekly gain as weaker dollar cools US rate hike expectations  Nation Thailand",
-   "source": "US Fed",
-   "publisher": "Nation Thailand",
-   "scope": "world",
-   "ts": 1786757280000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
@@ -90,6 +90,16 @@
    "publisher": "Bloomberg.com",
    "scope": "world",
    "ts": 1786738313000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNTBHUFJ2Y2hFTmRBUmRRNjFDMk01cUdaYVBQOFR2TEZ4dUdzWUxJaXpqb2tiVlZzdm1WMzZScWdkZDFTQm1janp2NWN2UDlzMDV0RmkwaGg3RXBBcnVuSncydUN3RHNOYnl1cVN5M0dleEh0VjB",
+   "title": "Gold looks to Fed minutes, housing, PMI data for direction next week - KITCO",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNTBHUFJ2Y2hFTmRBUmRRNjFDMk01cUdaYVBQOFR2TEZ4dUdzWUxJaXpqb2tiVlZzdm1WMzZScWdkZDFTQm1janp2NWN2UDlzMDV0RmkwaGg3RXBBcnVuSncydUN3RHNOYnl1cVN5M0dleEh0VjBHNEp2Zzl6OFNNdFY2QzJVVHBlOWN0djVqMDFhQWpmblFLZzNfZS1aRDAyLUNWQ0VuekM?oc=5",
+   "desc": "Gold looks to Fed minutes, housing, PMI data for direction next week  KITCO",
+   "source": "US Fed",
+   "publisher": "KITCO",
+   "scope": "world",
+   "ts": 1786733910000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPN3d1UEd4eUZqdGFEejBBSHBvN3lSeGs3UjdHSzhUbHVMeEVKNE5XU2tkSWJNbHlOd3dRUVJYcGtPNWNVZEZXQW5jN0VNclFaZlNreHUyQTJFTktxdlQ4ZkNSZGFRSzBLaXN3ZE9MTzEwak5mOTB",
@@ -150,16 +160,6 @@
    "publisher": "Moneycontrol.com",
    "scope": "india",
    "ts": 1786721913000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNTBHUFJ2Y2hFTmRBUmRRNjFDMk01cUdaYVBQOFR2TEZ4dUdzWUxJaXpqb2tiVlZzdm1WMzZScWdkZDFTQm1janp2NWN2UDlzMDV0RmkwaGg3RXBBcnVuSncydUN3RHNOYnl1cVN5M0dleEh0VjB",
-   "title": "Gold looks to Fed minutes, housing, PMI data for direction next week - KITCO",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNTBHUFJ2Y2hFTmRBUmRRNjFDMk01cUdaYVBQOFR2TEZ4dUdzWUxJaXpqb2tiVlZzdm1WMzZScWdkZDFTQm1janp2NWN2UDlzMDV0RmkwaGg3RXBBcnVuSncydUN3RHNOYnl1cVN5M0dleEh0VjBHNEp2Zzl6OFNNdFY2QzJVVHBlOWN0djVqMDFhQWpmblFLZzNfZS1aRDAyLUNWQ0VuekM?oc=5",
-   "desc": "Gold looks to Fed minutes, housing, PMI data for direction next week  KITCO",
-   "source": "US Fed",
-   "publisher": "KITCO",
-   "scope": "world",
-   "ts": 1786721880000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQjNKSEpuaTdZMWduek43QUUwOXJaRHB3a09ybjFpSDFFV1YwcWZ3WU9OOE9HVUMyZ1JZQV9QS0d3bFU5SG9uWmtXYTNZSUVacUFFZmVOSU5CbWttZXNIS3MzMXp0dEE1TDVSVTRpLWsyUHZnUmx",
@@ -223,21 +223,21 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXZRWVFHM2cwdkpyT3FrRmpVWnlXeGlwTXFsZkltX0Q3YXdZVXEyWXlSQ0tMMVA5NWNmSDZrTDFpRExwejVRZl9jOFFERS1oQUlleDNyaVF0Z1lsSllHQjM4LW1rei1NM0JJZTN4b2pGUVhlaDB",
-   "title": "Indian markets regulator proposes digital onboarding for individual foreign investors - reuters.com",
+   "title": "Indian markets regulator proposes digital onboarding for individual foreign investors - Reuters",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXZRWVFHM2cwdkpyT3FrRmpVWnlXeGlwTXFsZkltX0Q3YXdZVXEyWXlSQ0tMMVA5NWNmSDZrTDFpRExwejVRZl9jOFFERS1oQUlleDNyaVF0Z1lsSllHQjM4LW1rei1NM0JJZTN4b2pGUVhlaDBvSVZSWndPcmFBLWwtblVrTkNUZm9kRUEybmNaQzNmSG42QjZOVWh0OG9IZnctY3JOdEhBX2xOYUN5WURleWpDWDNGZ2VkR0xfekM0Zw?oc=5",
-   "desc": "Indian markets regulator proposes digital onboarding for individual foreign investors  reuters.com",
+   "desc": "Indian markets regulator proposes digital onboarding for individual foreign investors  Reuters",
    "source": "SEBI",
-   "publisher": "reuters.com",
+   "publisher": "Reuters",
    "scope": "india",
    "ts": 1786713224000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHEzWlNjWTktTVFzdFJQR1FxbXB3R19FODNoUVpha0I2VjlYaXFaenAxN2ZGYnpCZC1DMmJqeGQ4Ni0tYklGSnZuTnRtU1FNOEUzTEhFNVV1TlRPN2QyQUNjY2NSRzN6c1Y4OXAzT3Nud0VreFR",
-   "title": "India to close FX swap for overseas deposits earlier than planned, inflows top $50 bln - reuters.com",
+   "title": "India to close FX swap for overseas deposits earlier than planned, inflows top $50 bln - Reuters",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHEzWlNjWTktTVFzdFJQR1FxbXB3R19FODNoUVpha0I2VjlYaXFaenAxN2ZGYnpCZC1DMmJqeGQ4Ni0tYklGSnZuTnRtU1FNOEUzTEhFNVV1TlRPN2QyQUNjY2NSRzN6c1Y4OXAzT3Nud0VreFRGMDBGbU9DUTVObDNmRERRYjQ4Rk42RVFtUHAyRmZPTXFNM3J1S25vXzdBYjh5cUdHT2xmcTd6d1lR?oc=5",
-   "desc": "India to close FX swap for overseas deposits earlier than planned, inflows top $50 bln  reuters.com",
+   "desc": "India to close FX swap for overseas deposits earlier than planned, inflows top $50 bln  Reuters",
    "source": "RBI",
-   "publisher": "reuters.com",
+   "publisher": "Reuters",
    "scope": "india",
    "ts": 1786713142000
   },
@@ -323,11 +323,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVWxidENoLWdvdmlvbHp3RHdjdTN1RmFDc1RoVUVIVTFxQVFmNnJLRE0wUHlkcEhEQkIxbEpfQkR5VEZjdURzdThqenduWVgtclhTQXhvZ19WZFB2QVFDb0s3eURsOUMyMk1FNF9vRHFBVGV1eGd",
-   "title": "Gold rises on weaker dollar as inflation data cements rate-hold bets - cnbc.com",
+   "title": "Gold rises on weaker dollar as inflation data cements rate-hold bets - CNBC",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVWxidENoLWdvdmlvbHp3RHdjdTN1RmFDc1RoVUVIVTFxQVFmNnJLRE0wUHlkcEhEQkIxbEpfQkR5VEZjdURzdThqenduWVgtclhTQXhvZ19WZFB2QVFDb0s3eURsOUMyMk1FNF9vRHFBVGV1eGdSUi1TX0l3Ti1IVmVTTzNlNXN2VHpmU0VnQm1sVk11ejgteFA1Z1VWNk5sWk1KWndUWjVWOTjSAbABQVVfeXFMUG5Ec1dBSHJGZUlabzZqWG1KUFpxZkgwNU1iSjhud0Q2MlpKN3lBSVBlTnRrenJjZm12NlZGSjlrOWFTT1hYY2FMbmJORm4zdlVlUEYydFZDQV9mbXpfeHJxSDNZeE1QOU5nWEQ5YnZobElnRjNOQWFEUk52OVh3MWZrNjVuUjJVTlVfLVhBcktIY0FDQ3dadE9Lc3RpSlJMWlp2TVNIdGwxaHVhS0VhaFg?oc=5",
-   "desc": "Gold rises on weaker dollar as inflation data cements rate-hold bets  cnbc.com",
+   "desc": "Gold rises on weaker dollar as inflation data cements rate-hold bets  CNBC",
    "source": "US Fed",
-   "publisher": "cnbc.com",
+   "publisher": "CNBC",
    "scope": "world",
    "ts": 1786681139000
   },
@@ -340,16 +340,6 @@
    "publisher": "BusinessLine",
    "scope": "india",
    "ts": 1786670638000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVDIyRHVUbzNzMFctT0VkQXpIZWt2V09QNEtwc2VhYVlmZWRyM1NCd0NWSUZEUEFQb2VzWVFqOEdtZmpYNEc3dDFna1dQSktGZU1ONGQySmNlYVcyVHN5c05iT2V5REVnMFA0cnFKNVI3enRtTXp",
-   "title": "Dollar mixed after flat PPI, rate hike bets cool - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVDIyRHVUbzNzMFctT0VkQXpIZWt2V09QNEtwc2VhYVlmZWRyM1NCd0NWSUZEUEFQb2VzWVFqOEdtZmpYNEc3dDFna1dQSktGZU1ONGQySmNlYVcyVHN5c05iT2V5REVnMFA0cnFKNVI3enRtTXpGaUsxdGlSZ2xFbFo5VEVwWkV5eXNvMVA2Rmx5YzhxeVd1TkQ2YkpISXc3OUV5cHpaR2dxNHNOVXltdjBfSVo?oc=5",
-   "desc": "Dollar mixed after flat PPI, rate hike bets cool  Reuters",
-   "source": "US Fed",
-   "publisher": "Reuters",
-   "scope": "world",
-   "ts": 1786658839000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHBQbGpaRk5FcmRfWTlhRmNHeFJiWlpOY2pyY25qdzFka19seGhUU29vMWlvVkxzdW1oMUtYVjN0bU1WNzBsRzZxOS1BLWdRRXVPdDdBdGdPVFRSU2dMZWtXbHZQcmZHTFdhQVU1RXNBYVVyZUd",
@@ -390,16 +380,6 @@
    "publisher": "NBC News",
    "scope": "world",
    "ts": 1786652422000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52SVJTRVBvSTBGWW9vdUxySldrMS1zSU1kTlBrSzViYXhJYUpYX0o0ZlFZX09fSnBoQ2RSSExBbV83YnE3dlNMazl5QThOUldaTEpPbTNnQjc5SlpWZ3RuNXpZV1N3U0UxQTc3Q240UzY3QVJFTVE",
-   "title": "Paytm CEO, CFO Face SEBI Scrutiny Over Timing of 2023 Small-Loan Disclosure - finance.biggo.com",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52SVJTRVBvSTBGWW9vdUxySldrMS1zSU1kTlBrSzViYXhJYUpYX0o0ZlFZX09fSnBoQ2RSSExBbV83YnE3dlNMazl5QThOUldaTEpPbTNnQjc5SlpWZ3RuNXpZV1N3U0UxQTc3Q240UzY3QVJFTVE?oc=5",
-   "desc": "Paytm CEO, CFO Face SEBI Scrutiny Over Timing of 2023 Small-Loan Disclosure  finance.biggo.com",
-   "source": "SEBI",
-   "publisher": "finance.biggo.com",
-   "scope": "india",
-   "ts": 1786646640000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdHQ0bE94Nm1NUWNmWm50STduZXV3Y3lwd1U5T281ZTBuazNYUFNHQktpbVM0WWRtenE4anhfY1g4eEpyMkxfX2tUaW9ZTERFZGpTd1loVUVfaEdSSnhKNkgwa3JORGxNeUJtSmQ3U2lUa2VNdlR",
@@ -473,11 +453,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHBzY3NRd2NQNFlUZHg1Vl9PNmRrVEVqWmV3Nmo3WkMwYld4aUpnNjQ5Tk9jcVFSZHFfOWx6aWJPTFdqbjRHT1FKSHpUMzZnZGk2SzQ5NmNnOU1QZV9MMTlPNWY2OGpiamZEX1BSQS1RRWJtZjZ",
-   "title": "India markets regulator proposes easier access to riskier investment products for overseas investors - reuters.com",
+   "title": "India markets regulator proposes easier access to riskier investment products for overseas investors - Reuters",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHBzY3NRd2NQNFlUZHg1Vl9PNmRrVEVqWmV3Nmo3WkMwYld4aUpnNjQ5Tk9jcVFSZHFfOWx6aWJPTFdqbjRHT1FKSHpUMzZnZGk2SzQ5NmNnOU1QZV9MMTlPNWY2OGpiamZEX1BSQS1RRWJtZjZ0LUg3Z2xpUmRmdXZ2b0Y5THhwWkFSMTFvM1RqUVYyWjhidmU5djMyZkp0bV9jSjZVck5CcDZIR1VWTTBPU3dqR3YzX1JyOVNGMXY1Y3JBbVE?oc=5",
-   "desc": "India markets regulator proposes easier access to riskier investment products for overseas investors  reuters.com",
+   "desc": "India markets regulator proposes easier access to riskier investment products for overseas investors  Reuters",
    "source": "SEBI",
-   "publisher": "reuters.com",
+   "publisher": "Reuters",
    "scope": "india",
    "ts": 1786621426000
   },
@@ -503,11 +483,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLXltUzIxSlpXY0ZzYzZJYXo1UllwVFpLT1JaYnR3enROY3N0VGNsT3dYTDlCclA4R1FDQVpkOWhRQjRKWXNkOGs1Z2I1OWFmMGowakhfV19KelJjeUpOQy1GN3k4eFRrTkxpMHhyUmt0b09yWkJ",
-   "title": "Rupee slips, muted price action sinks volatility expectations to five-month low - reuters.com",
+   "title": "Rupee slips, muted price action sinks volatility expectations to five-month low - Reuters",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLXltUzIxSlpXY0ZzYzZJYXo1UllwVFpLT1JaYnR3enROY3N0VGNsT3dYTDlCclA4R1FDQVpkOWhRQjRKWXNkOGs1Z2I1OWFmMGowakhfV19KelJjeUpOQy1GN3k4eFRrTkxpMHhyUmt0b09yWkJfZVBkTk9pZUREUHUySHBNbmcwd0FPYzNrVTh1SUxZbEptNWl1dmpVajZf?oc=5",
-   "desc": "Rupee slips, muted price action sinks volatility expectations to five-month low  reuters.com",
+   "desc": "Rupee slips, muted price action sinks volatility expectations to five-month low  Reuters",
    "source": "RBI",
-   "publisher": "reuters.com",
+   "publisher": "Reuters",
    "scope": "india",
    "ts": 1786610477000
   },
@@ -523,11 +503,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaGNCNFRLX3VXZEczUUtWVEw1cVE3X2J0S2xxWDNsQ2t1LXNpOU5VM0lKbmJ0RzRSenhGT0JtVzNHTUpUeTF0SUVxNm5iUFRlWjExYnJrQjhwUWEwUHdWMjhGakw4d19PRjVmaTlqZG13NlRQQms",
-   "title": "Dollar falls on flat PPI, cooling rate hike bets - cnbc.com",
+   "title": "Dollar falls on flat PPI, cooling rate hike bets - CNBC",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaGNCNFRLX3VXZEczUUtWVEw1cVE3X2J0S2xxWDNsQ2t1LXNpOU5VM0lKbmJ0RzRSenhGT0JtVzNHTUpUeTF0SUVxNm5iUFRlWjExYnJrQjhwUWEwUHdWMjhGakw4d19PRjVmaTlqZG13NlRQQmsyUHhJY3RTUjA2YnlfZTZocTdsckF4NVl5NDZ0TWYzR2d2bUtzYndYeHg0U2hrddIBqgFBVV95cUxNY3FKVUQ1dEFzTlNyekN3OU8zOFQ5V19wRDRIXy01ZjFpVU9wUFdFdFMtZ0dQZjBZOFpXdU9vUDJBak5IejlJdmRBdmQtR0VsVzdyTXdoUE81aWNDRTIxVC1GaXBmYU5nTjJ5bklaUXREWmxtV1NOR0VQOEhtcFVtMlJIendxRW1xYVlSZ3Y1dDRuSWNtZXZTUjNxMGlhN1ZhS2lGb1AteWc3UQ?oc=5",
-   "desc": "Dollar falls on flat PPI, cooling rate hike bets  cnbc.com",
+   "desc": "Dollar falls on flat PPI, cooling rate hike bets  CNBC",
    "source": "US Fed",
-   "publisher": "cnbc.com",
+   "publisher": "CNBC",
    "scope": "world",
    "ts": 1786599126000
   },
@@ -633,11 +613,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQjFkWVRmbXJjU1ljTDZJUFROaVhuWG02OEp2SWR2OUU3Qm1tbjNoTWhhM2FSTjFXNGNSQ3locnMzb2hQYzRySjU5SWJDb2NXSkdaa1Z2LTVIQXVOYVVBMlNrMExfbVBCVUJ2SlI2TXRRZ3lfcXp",
-   "title": "Inflation cooled last month as gas prices fell, though costs remain elevated - PBS",
+   "title": "Inflation cooled last month as gas prices fell, though costs remain elevated - pbs.org",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQjFkWVRmbXJjU1ljTDZJUFROaVhuWG02OEp2SWR2OUU3Qm1tbjNoTWhhM2FSTjFXNGNSQ3locnMzb2hQYzRySjU5SWJDb2NXSkdaa1Z2LTVIQXVOYVVBMlNrMExfbVBCVUJ2SlI2TXRRZ3lfcXprU2tIaURXYzdTcUNOd1N3LTRNR1I2NHVueWRfdzhqb1dpNEdqX2dCTmpnQ05kOEtJWExWbjdjeEdiSnF30gG3AUFVX3lxTE9hcUMyWkFqdUtXU05iTVB0eVQ5U211ZWZFc0g3SllYNFZpZUNSSk1tUGJQOVBXYTRPVXBCUnRKWFNPMTdUeXo3MWZneldsWnhJOGdsV1plRWI3eW5FWDZzb2kxaHBxQVpzWGpwTHNMV2hVd2dQV3o5MEtpbTVVWlRZMUZ0Q0UzcDhkbE4yWDh3aXMtczc5TGdxendHX2l5cjgySGV1aUYyNEtaRG41dmNfRFViT2tsNA?oc=5",
-   "desc": "Inflation cooled last month as gas prices fell, though costs remain elevated  PBS",
+   "desc": "Inflation cooled last month as gas prices fell, though costs remain elevated  pbs.org",
    "source": "US Fed",
-   "publisher": "PBS",
+   "publisher": "pbs.org",
    "scope": "world",
    "ts": 1786557715000
   },
@@ -680,16 +660,6 @@
    "publisher": "Yahoo Finance",
    "scope": "world",
    "ts": 1786549585000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZkFkT3VUeVY2al9sbWZMX1RTVDhmZVB0clV6bHdWRkFhejlWZkVfVTl1WEdFRWlvZlFmRVZoekFLaTRlRjFKQ0VMOEdoT3pXREphOG5vRDhoaE5GZWhvaER2Zk9aVURVd3NFV2JPZUlDQkxJU0p",
-   "title": "Fed's Warsh gets a break as inflation eases - Politico",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZkFkT3VUeVY2al9sbWZMX1RTVDhmZVB0clV6bHdWRkFhejlWZkVfVTl1WEdFRWlvZlFmRVZoekFLaTRlRjFKQ0VMOEdoT3pXREphOG5vRDhoaE5GZWhvaER2Zk9aVURVd3NFV2JPZUlDQkxJU0pXTGZSNnROU3pYNnpQMFVSZw?oc=5",
-   "desc": "Fed's Warsh gets a break as inflation eases  Politico",
-   "source": "US Fed",
-   "publisher": "Politico",
-   "scope": "world",
-   "ts": 1786543920000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTm1KUVNyQkktNUZuTVI3bnFMNDFoZlJSVExMdzhWQ2dvU0duNWcwZUNJXzdrMWdRU3Y2RFVmMTRwemhMZi1wVEg1SWlreUp3QW5PamlkRWFfdjNQS2U1N2ZqOGZDdEp2cDhVRHhxRDNOMlZVX1p",
@@ -823,11 +793,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUUJ3ejFoRHVSR25SbFUzYmZqeHgtMmxDUkNUQUJLQzhVWWtPVUFnRWhYbEJEOU9sUGtVdlFzSTNLVTI4S0R4a243M3Z4ZnBxa21BaEJVOHVkVUZWN20tV0FEV0tfUEQzUElwWTk0N1Njam5FZDN",
-   "title": "India's markets regulator sees no manipulation in stock closing auction, chief says - reuters.com",
+   "title": "India's markets regulator sees no manipulation in stock closing auction, chief says - Reuters",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUUJ3ejFoRHVSR25SbFUzYmZqeHgtMmxDUkNUQUJLQzhVWWtPVUFnRWhYbEJEOU9sUGtVdlFzSTNLVTI4S0R4a243M3Z4ZnBxa21BaEJVOHVkVUZWN20tV0FEV0tfUEQzUElwWTk0N1Njam5FZDNoN2NWTFVKdnpGVTVHbTh6RjJqRmo2dFBsRUItaWRSTWxTcDlKTVpsXzk2MVUwUjJzWDlZVkZSbVFQSTVrSlFwUWtGR1JqVDY4eHEzUDFPMmxv?oc=5",
-   "desc": "India's markets regulator sees no manipulation in stock closing auction, chief says  reuters.com",
+   "desc": "India's markets regulator sees no manipulation in stock closing auction, chief says  Reuters",
    "source": "SEBI",
-   "publisher": "reuters.com",
+   "publisher": "Reuters",
    "scope": "india",
    "ts": 1786515420000
   },
@@ -893,11 +863,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR3M3MHBMZ1dYWmVjeFVFYndvM2V0a2lRSjRlbUZacU5jcE1RU2F3bGNnR1h0dDRTeEtvamVtUm9OT0t6SXhTVjFjSWhFWHBYNHRfQm92d05OQndndDJvVlBOOG92ZmhkMTVfMXF6bzJtaUR2SlJ",
-   "title": "Indian regulator proposes to bring all bullion trades under vault management rules - reuters.com",
+   "title": "Indian regulator proposes to bring all bullion trades under vault management rules - Reuters",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR3M3MHBMZ1dYWmVjeFVFYndvM2V0a2lRSjRlbUZacU5jcE1RU2F3bGNnR1h0dDRTeEtvamVtUm9OT0t6SXhTVjFjSWhFWHBYNHRfQm92d05OQndndDJvVlBOOG92ZmhkMTVfMXF6bzJtaUR2SlJrdHlBUWx3RGNnNEQ4QTA0UXdnV3puNklaVHdfZUZaWjhrbHc4RVNyNllXMXBTTHlBbTlpWW5sYkhLU3FmZ1dWazZxTm5fZElPVTZNVm9Vc2xIN2QxZl8?oc=5",
-   "desc": "Indian regulator proposes to bring all bullion trades under vault management rules  reuters.com",
+   "desc": "Indian regulator proposes to bring all bullion trades under vault management rules  Reuters",
    "source": "SEBI",
-   "publisher": "reuters.com",
+   "publisher": "Reuters",
    "scope": "india",
    "ts": 1786460143000
   },
@@ -993,11 +963,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTkNHSTlBS0JYay1IMFVsaG5RY0QyVFhWQUdLZERmTVp4UTd6bmRlcGxCN1MzaVEzelFObVNFUFpBR244clJFLWQ4NW12MFpCM1B1MFVsRnZGbFJGNkVLaGhvU0t5N2JJS2l3YTVlU25DWEFSeHN",
-   "title": "Interest rates may stay higher for longer. What that means for consumers - cnbc.com",
+   "title": "Interest rates may stay higher for longer. What that means for consumers - CNBC",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTkNHSTlBS0JYay1IMFVsaG5RY0QyVFhWQUdLZERmTVp4UTd6bmRlcGxCN1MzaVEzelFObVNFUFpBR244clJFLWQ4NW12MFpCM1B1MFVsRnZGbFJGNkVLaGhvU0t5N2JJS2l3YTVlU25DWEFSeHNrVE1qUVl5RzJQR3Y1Z0lJelllTGfSAY8BQVVfeXFMTVVRdURXbFB5WmhYLUxkazFEaF81VkpaWkg2M09TcHhZd0FzNnhWODBmTDVhV2JvTS1VejV4WXJkWUlvSVJaVml6UEJoVVUwQlV1aWlMMUxwVk5Ra0FPMC1jaGliNXppY2VRRDRFTEF5N21qVWZMVGFYSzdVMXo0WFROT0RBTGp5SHV0V1lTSmc?oc=5",
-   "desc": "Interest rates may stay higher for longer. What that means for consumers  cnbc.com",
+   "desc": "Interest rates may stay higher for longer. What that means for consumers  CNBC",
    "source": "US Fed",
-   "publisher": "cnbc.com",
+   "publisher": "CNBC",
    "scope": "world",
    "ts": 1786365686000
   },
@@ -1183,11 +1153,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkV3WmFpUmlEQlBFQ2hBNzk2eUx2d3RSZjlTT044WXc3Rjl5Mm53SmJqdnZFTHRPVmF2VFlKTUdQZjQ2LXdTU01TS0c5VDJBWjFrNnQwVHc4QnVidzgtSVFiYzZlc19fcXlyUVEzMk1lWHdmUkg",
-   "title": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say. - cbsnews.com",
+   "title": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say. - CBS News",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkV3WmFpUmlEQlBFQ2hBNzk2eUx2d3RSZjlTT044WXc3Rjl5Mm53SmJqdnZFTHRPVmF2VFlKTUdQZjQ2LXdTU01TS0c5VDJBWjFrNnQwVHc4QnVidzgtSVFiYzZlc19fcXlyUVEzMk1lWHdmUkg5c2VTT2JJbnQtNDh2NFlGQmtUMU1TM1NIOXpYU0lCVTYxNA?oc=5",
-   "desc": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say.  cbsnews.com",
+   "desc": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say.  CBS News",
    "source": "US Fed",
-   "publisher": "cbsnews.com",
+   "publisher": "CBS News",
    "scope": "world",
    "ts": 1786127580000
   },
@@ -1200,6 +1170,36 @@
    "publisher": "Fortune India",
    "scope": "india",
    "ts": 1786121647000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdy1DZEhDQkYxaTQxWFhTMTE3SEhnRURrb3VYeEl2cjdzZWVfVTVaa0Y2emgzbXM5ZzBSUXNEeUVZWXVLTVBNUlBWMjRzaDZna2w4WEdLVVk4T0FXR0VjQ1dYbGk5SFZaRUJkU0RTSzF2aHRXT2t",
+   "title": "CAS transition to achieve cross-market consistency, boost price discovery mechanism: SEBI - ETLegalWorld.com",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdy1DZEhDQkYxaTQxWFhTMTE3SEhnRURrb3VYeEl2cjdzZWVfVTVaa0Y2emgzbXM5ZzBSUXNEeUVZWXVLTVBNUlBWMjRzaDZna2w4WEdLVVk4T0FXR0VjQ1dYbGk5SFZaRUJkU0RTSzF2aHRXT2tMZ3JTWlZiMjBNUGRlamdQcmVwSzNJVUtEc0dsZ1FnWXJDeHJoRnZWRTNFVEFCbElORGtCa3dNd3FDakV3Z3AxNzJNNWt0SHBKSzdXcmVmVnR5WFpJOE9CNzJYSlFCOC1IOUhfNmV4aF9wZ2VwQzlrR2hYSUJaZNIB8gFBVV95cUxNMUdTUm00RkVibEE4ODNUR1YzakoyLUliMEtVV3JrcWxEUjNxNkMxVGVXdHU5X2lhazdjQTBFbkRWa1A0Z1NmcGphUFlxREhDSXNLb0g2c05EOENMaVBxdEEzTGhEWXlORzRQcnZXejFSMFRERVBUSmFzejBULWFQQnNhTzhNZ0UtT1ZYWndJQ0xJQUMyZ0RDdnYzcF9kTnhxWWIzeXhjMjVfa245V0l3WkVLcVphY2NNN1lGbkVRZlRzaFh6S3JRMHJCZ0htQVg3SUFaZDU4dDB2eWxQOHRqdFF3SXM1NVhKbENMLU5aS216Zw?oc=5",
+   "desc": "CAS transition to achieve cross-market consistency, boost price discovery mechanism: SEBI  ETLegalWorld.com",
+   "source": "SEBI",
+   "publisher": "ETLegalWorld.com",
+   "scope": "india",
+   "ts": 1786120004000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUJYUUNJcU1GNUNoOElNODE4cUZEM3lYbVlFRzJoM3FyMHR4QmxmX3VnaEhzanlDaVVEU1JGWktCNFVFY0lhT0I4NHBYN2c1b196NkJHdW5zcFFuRWxHOTI3RllLMG1ScjlmX2oteE5IUXpCaTl",
+   "title": "India's MSMEs stay upbeat despite West Asia conflict, SIDBI survey finds - CNBC TV18",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUJYUUNJcU1GNUNoOElNODE4cUZEM3lYbVlFRzJoM3FyMHR4QmxmX3VnaEhzanlDaVVEU1JGWktCNFVFY0lhT0I4NHBYN2c1b196NkJHdW5zcFFuRWxHOTI3RllLMG1ScjlmX2oteE5IUXpCaTlRd3ZiSzJMUTh2MXZmX0x3bGstVTlMdGlkdUZuLWh5MmdVTVFtWGJ2Q0UzZW5Wa052RDlnNnRGNTRISGpwZ0Jnam9LMU1tLWVrTFpDQ0nSAcgBQVVfeXFMT0wxNnZoV1JvQ2dTUjFPNFA1SndGLU96Z2lYN09TXzJYRWZwSEdvZGNZMXdqUWNEOFBIVndlWFFIWnhveGxiSm1SV0t4bkMyTjFIZGdtNHJNN1FNZGxzV2ZDRUs5QU9uTnhZeUhyenZKa2NzTTFuc3dnc0Q2T0VzWVJXX01iMU9BWUR4ZlA4LXFJNlpiYkJJNkp1eTlUY085WVJjQ3U1ZE9YTjlWMUkzWHg4VzNuU1BkSEttMGl4LXQxQnhJdFMzVmw?oc=5",
+   "desc": "India's MSMEs stay upbeat despite West Asia conflict, SIDBI survey finds  CNBC TV18",
+   "source": "SIDBI / MSME",
+   "publisher": "CNBC TV18",
+   "scope": "india",
+   "ts": 1786112003000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORnI2UHdxbXQ0ZDJtRVc0T3l3cFJWM2FwYVpwekhqTS00TDB0ZldtYkhLdm9VSi1nV0pUWWNvejBVZFJQV29RU2xpenhza2NobFNIeC1KQlNKdzY2ZG15UmtWc3EyS3IycjVobVp2bmJHUXNYNVY",
+   "title": "MSME business confidence declines for fourth straight quarter, cost and demand pressures weigh: SIDBI - Devdiscourse",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORnI2UHdxbXQ0ZDJtRVc0T3l3cFJWM2FwYVpwekhqTS00TDB0ZldtYkhLdm9VSi1nV0pUWWNvejBVZFJQV29RU2xpenhza2NobFNIeC1KQlNKdzY2ZG15UmtWc3EyS3IycjVobVp2bmJHUXNYNVY0NHJvSi1FdFluS1RTNlFPaUlJU2VYLUpwTTNBM3hpeDJzeEJud3pzY0s3NjNGNVEzaWZWMVlwLS0ya1p3SlEta24yNWhiVGNaX0F6bW51d3ZsY0N1MzNsZlk5VDlURGNOSFZrTE13TXZBbXhtcDNyZmxB0gHuAUFVX3lxTFBjcG5zZDM5QnhpLVpWeWVmT1I5cU9OSmI0dkVaV3g4ZURBNXZ3b29DX0xVMjBBbVBrLXkyRkZjRFVubm1zbkhQTHFVUENsTDV2cS1wQ2Y1eEo2N1lrbnd5OXFpR0k3ZUs0UlV0WDNyTHdFMHhwbWZ5MkFrWmM1cjhYcjBoYlFnM3hQWVo3aExwSDZYMjlUNE4yNVU3cVVxdF81dExTYVBzTFBRRHozY3hRem03SEVwTVYwRDJLbEwtV3p1dUhhcjJmN3JtaTQxZ1dBbGU2ZE1qOXltcjJROW5hTnZsalZkbjdIWUoxaVE?oc=5",
+   "desc": "MSME business confidence declines for fourth straight quarter, cost and demand pressures weigh: SIDBI  Devdiscourse",
+   "source": "SIDBI / MSME",
+   "publisher": "Devdiscourse",
+   "scope": "india",
+   "ts": 1786099171000
   }
  ]
 }
