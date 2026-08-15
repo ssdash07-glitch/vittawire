@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T20:32:10.165058+00:00",
+ "updated": "2026-08-15T20:57:39.235830+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb2kyX1BUUWdKSkF4b0ttX2wyTUlIM1J0WWFDT1NGMXhmZTg4LURFaHRscGJiS1RQa3RkaDNoZTF1M2E4ZHBwRnhJSF9aRS1lSHdEM1pkRzJXQmxkSmFoclNLd3l4LW0yZC1objBWbEM4ajlSMmd",
@@ -73,11 +73,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qRTdIS2hYV1dNUUFIeEhzcjZvS2tLTWZtdGJtMFZja0NBTWdXTlRNblZBeFdJa1BrbUZJRXdtLVlNckIwblp4RTh0enVESXVESjRsTzFfVEJMYlQwMDNTZVFhQkFqQnI3OUZ2M2swT053Yk1qVHF",
-   "title": "Response To Readers: Regarding “The Myth Of Yen Intervention And US Interest Rates” - richardkatz.substack.com",
+   "title": "Response To Readers: Regarding “The Myth Of Yen Intervention And US Interest Rates” - Japan Economy Watch",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qRTdIS2hYV1dNUUFIeEhzcjZvS2tLTWZtdGJtMFZja0NBTWdXTlRNblZBeFdJa1BrbUZJRXdtLVlNckIwblp4RTh0enVESXVESjRsTzFfVEJMYlQwMDNTZVFhQkFqQnI3OUZ2M2swT053Yk1qVHFB?oc=5",
-   "desc": "Response To Readers: Regarding “The Myth Of Yen Intervention And US Interest Rates”  richardkatz.substack.com",
+   "desc": "Response To Readers: Regarding “The Myth Of Yen Intervention And US Interest Rates”  Japan Economy Watch",
    "source": "US Fed",
-   "publisher": "richardkatz.substack.com",
+   "publisher": "Japan Economy Watch",
    "scope": "world",
    "ts": 1786744692000
   },
@@ -93,11 +93,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSi1GNDVKYnlNQ3NtWHVwbGUyajVnaFpNNVJDcEFrODd3MEN4a3pCVzhwbjhDTUJOQzIxYk9iQW5QYVotbGNVR3dEeF9XQ1lnQVF1RFhIbFVncEpSeFlpNlhKODQzanFJblprWWVFODduWjJvMlZ",
-   "title": "Why Government Debt Doesn’t Always Mean Higher Interest Rates - Fort Worth Inc.",
+   "title": "Why Government Debt Doesn’t Always Mean Higher Interest Rates - fortworthinc.com",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSi1GNDVKYnlNQ3NtWHVwbGUyajVnaFpNNVJDcEFrODd3MEN4a3pCVzhwbjhDTUJOQzIxYk9iQW5QYVotbGNVR3dEeF9XQ1lnQVF1RFhIbFVncEpSeFlpNlhKODQzanFJblprWWVFODduWjJvMlZELXhJN0lIeFRaNWNPZFV2bzdORkFya3Z5UFdEdEVTaHBaYm5BRUdrVHpW?oc=5",
-   "desc": "Why Government Debt Doesn’t Always Mean Higher Interest Rates  Fort Worth Inc.",
+   "desc": "Why Government Debt Doesn’t Always Mean Higher Interest Rates  fortworthinc.com",
    "source": "US Fed",
-   "publisher": "Fort Worth Inc.",
+   "publisher": "fortworthinc.com",
    "scope": "world",
    "ts": 1786739885000
   },
@@ -352,6 +352,16 @@
    "ts": 1786655820000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQVlURFlQM1EzT18wUHFhSm9Ld2RPTDlwQkxJM3M5cVdTaWZjMGUzejRIeEM0aWozU2JnS1JOaFdmaTJoZVJ6M215MlEweWpNbERFajE4UDMwZnppVEVoVEtpM0VzSXRIbE9faE54Unp2VXBBT29",
+   "title": "Higher interest rates start to look like the new normal - NBC News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQVlURFlQM1EzT18wUHFhSm9Ld2RPTDlwQkxJM3M5cVdTaWZjMGUzejRIeEM0aWozU2JnS1JOaFdmaTJoZVJ6M215MlEweWpNbERFajE4UDMwZnppVEVoVEtpM0VzSXRIbE9faE54Unp2VXBBT29kZTN2bWNVbTZ4djl0ZzdTdlJpenNFdVptNU8?oc=5",
+   "desc": "Higher interest rates start to look like the new normal  NBC News",
+   "source": "US Fed",
+   "publisher": "NBC News",
+   "scope": "world",
+   "ts": 1786654180000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTFaSEQyZkFiaU1KTkNPU2FuTk40RmpObmYtUUVXdVU2a2JIZ3RJSThFZ2pNdkZCYU53SjlyU0ZTMUlKVEl4Qi1pV2QxUkotYngtZ3pDRmZ6djhTUWhOc1dvVXlWckxDNG5kOUdCNkgtQ1plb1h",
    "title": "Stocks rise and interest rates slide after inflation report - NBC News",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTFaSEQyZkFiaU1KTkNPU2FuTk40RmpObmYtUUVXdVU2a2JIZ3RJSThFZ2pNdkZCYU53SjlyU0ZTMUlKVEl4Qi1pV2QxUkotYngtZ3pDRmZ6djhTUWhOc1dvVXlWckxDNG5kOUdCNkgtQ1plb1hJMUxmOWNCMXNDbVUxMWQ?oc=5",
@@ -413,11 +423,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmNsbnl3T2dFUnRDbVRUc0EtNHNyUklEQXJXOHJkWXY0LXFUa3FEOWY1WDI5QllHOGpZSFh4dkZjVEl6WVplbmhZOGlodmhnT0FodFlmTU1RUnFYTjlZM093elJwRGs4YU0yMDlPOUd2TGoydHl",
-   "title": "India’s SEBI Wants To Expand Who Counts As Accredited - finimize.com",
+   "title": "India’s SEBI Wants To Expand Who Counts As Accredited - Finimize",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmNsbnl3T2dFUnRDbVRUc0EtNHNyUklEQXJXOHJkWXY0LXFUa3FEOWY1WDI5QllHOGpZSFh4dkZjVEl6WVplbmhZOGlodmhnT0FodFlmTU1RUnFYTjlZM093elJwRGs4YU0yMDlPOUd2TGoydHlSbmFTbVB3TC1WbHJ2U3RxdWNU?oc=5",
-   "desc": "India’s SEBI Wants To Expand Who Counts As Accredited  finimize.com",
+   "desc": "India’s SEBI Wants To Expand Who Counts As Accredited  Finimize",
    "source": "SEBI",
-   "publisher": "finimize.com",
+   "publisher": "Finimize",
    "scope": "india",
    "ts": 1786621523000
   },
@@ -493,11 +503,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUm1HbkhzVEZQMnM3MlRodnM0SXh1YUI5cTUxRVlSWU9OTmlIamtVcDdOOTJvckphamtrT1Qwb0JKejNvOThsNVA5WF9qOUZOZmxyWVhSbGZYa0M0NlpaZWQ4S1o1RkpDV3EwUEp0OU5qVk5feE1",
-   "title": "Asian stocks rise as US inflation data dents September Fed hike bets - wtvbam.com",
+   "title": "Asian stocks rise as US inflation data dents September Fed hike bets - WTVB",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUm1HbkhzVEZQMnM3MlRodnM0SXh1YUI5cTUxRVlSWU9OTmlIamtVcDdOOTJvckphamtrT1Qwb0JKejNvOThsNVA5WF9qOUZOZmxyWVhSbGZYa0M0NlpaZWQ4S1o1RkpDV3EwUEp0OU5qVk5feE1zU2NtdTNxU1NzZnhwbHlEbjlIS2VVZFZaTi1Oa2N2bnNJckdvN29rRzYz?oc=5",
-   "desc": "Asian stocks rise as US inflation data dents September Fed hike bets  wtvbam.com",
+   "desc": "Asian stocks rise as US inflation data dents September Fed hike bets  WTVB",
    "source": "US Fed",
-   "publisher": "wtvbam.com",
+   "publisher": "WTVB",
    "scope": "world",
    "ts": 1786594300000
   },
@@ -523,11 +533,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTN4R05hRWJ1WnRicHA3V0liUmNjaEp3VXVXcDBEZUlVWGliVWtiRzBvcU9rOGJ0Wlc5S2N6RExoS2ptLVp4dEhWWVd1bVlMSU9hdktmYVVmbnFWX25aWllodTNQaUdvZHNoN193dFNqTm5veDB",
-   "title": "Opinion | Inflation is still too high - washingtonpost.com",
+   "title": "Opinion | Inflation is still too high - The Washington Post",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTN4R05hRWJ1WnRicHA3V0liUmNjaEp3VXVXcDBEZUlVWGliVWtiRzBvcU9rOGJ0Wlc5S2N6RExoS2ptLVp4dEhWWVd1bVlMSU9hdktmYVVmbnFWX25aWllodTNQaUdvZHNoN193dFNqTm5veDBoQ2d3eTVETUNuYmRwREQwTG5OMk1ZQU9ia0VnWndPcGVTLVEwZEMxek9Tb2w5Mg?oc=5",
-   "desc": "Opinion | Inflation is still too high  washingtonpost.com",
+   "desc": "Opinion | Inflation is still too high  The Washington Post",
    "source": "US Fed",
-   "publisher": "washingtonpost.com",
+   "publisher": "The Washington Post",
    "scope": "world",
    "ts": 1786578406000
   },
@@ -583,11 +593,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHltVjVQNmxJOGZNYnNaT2JzaldqZHFjWlNxV1pvWTE3ekRKVFVLWkZmakZ4VWRlc0dMdlNNWEJpZTJldVZUeG5BVG5Nb2JUd1A0WExqZkZjTG9aaURWVUVUekdXczJVX0dHQXdOUGhsd3FtbnN",
-   "title": "Fed seen sticking to policy-rate hold, for now, as inflation eases again - virginiabusiness.com",
+   "title": "Fed seen sticking to policy-rate hold, for now, as inflation eases again - Virginia Business",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHltVjVQNmxJOGZNYnNaT2JzaldqZHFjWlNxV1pvWTE3ekRKVFVLWkZmakZ4VWRlc0dMdlNNWEJpZTJldVZUeG5BVG5Nb2JUd1A0WExqZkZjTG9aaURWVUVUekdXczJVX0dHQXdOUGhsd3FtbnNSdEc5ZkY2Nm50aXlGVQ?oc=5",
-   "desc": "Fed seen sticking to policy-rate hold, for now, as inflation eases again  virginiabusiness.com",
+   "desc": "Fed seen sticking to policy-rate hold, for now, as inflation eases again  Virginia Business",
    "source": "US Fed",
-   "publisher": "virginiabusiness.com",
+   "publisher": "Virginia Business",
    "scope": "world",
    "ts": 1786559560000
   },
@@ -603,11 +613,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQjFkWVRmbXJjU1ljTDZJUFROaVhuWG02OEp2SWR2OUU3Qm1tbjNoTWhhM2FSTjFXNGNSQ3locnMzb2hQYzRySjU5SWJDb2NXSkdaa1Z2LTVIQXVOYVVBMlNrMExfbVBCVUJ2SlI2TXRRZ3lfcXp",
-   "title": "Inflation cooled last month as gas prices fell, though costs remain elevated - PBS",
+   "title": "Inflation cooled last month as gas prices fell, though costs remain elevated - pbs.org",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQjFkWVRmbXJjU1ljTDZJUFROaVhuWG02OEp2SWR2OUU3Qm1tbjNoTWhhM2FSTjFXNGNSQ3locnMzb2hQYzRySjU5SWJDb2NXSkdaa1Z2LTVIQXVOYVVBMlNrMExfbVBCVUJ2SlI2TXRRZ3lfcXprU2tIaURXYzdTcUNOd1N3LTRNR1I2NHVueWRfdzhqb1dpNEdqX2dCTmpnQ05kOEtJWExWbjdjeEdiSnF30gG3AUFVX3lxTE9hcUMyWkFqdUtXU05iTVB0eVQ5U211ZWZFc0g3SllYNFZpZUNSSk1tUGJQOVBXYTRPVXBCUnRKWFNPMTdUeXo3MWZneldsWnhJOGdsV1plRWI3eW5FWDZzb2kxaHBxQVpzWGpwTHNMV2hVd2dQV3o5MEtpbTVVWlRZMUZ0Q0UzcDhkbE4yWDh3aXMtczc5TGdxendHX2l5cjgySGV1aUYyNEtaRG41dmNfRFViT2tsNA?oc=5",
-   "desc": "Inflation cooled last month as gas prices fell, though costs remain elevated  PBS",
+   "desc": "Inflation cooled last month as gas prices fell, though costs remain elevated  pbs.org",
    "source": "US Fed",
-   "publisher": "PBS",
+   "publisher": "pbs.org",
    "scope": "world",
    "ts": 1786557715000
   },
@@ -813,11 +823,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbkhwRUZQWHQ4Y05QQ0hXUkRGMWxiME04dU4yenMxQkJMS2ZVZ1hobFNWWS0weU5iVWhaSzJUeVhtQWRlYzF0aHhZYjRiVUswYTVPOWpleTRGSzRBcmo4Tlp0djlmZnBtYzdESzBKekJlMFRGMzJ",
-   "title": "SIDBI deploys MonetaGo’s invoice validation system - ibsintelligence.com",
+   "title": "SIDBI deploys MonetaGo’s invoice validation system - IBS Intelligence",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbkhwRUZQWHQ4Y05QQ0hXUkRGMWxiME04dU4yenMxQkJMS2ZVZ1hobFNWWS0weU5iVWhaSzJUeVhtQWRlYzF0aHhZYjRiVUswYTVPOWpleTRGSzRBcmo4Tlp0djlmZnBtYzdESzBKekJlMFRGMzJtTTNOaEpVN1c3emJ5aVJZbXgxWXpCR080dXdIdw?oc=5",
-   "desc": "SIDBI deploys MonetaGo’s invoice validation system  ibsintelligence.com",
+   "desc": "SIDBI deploys MonetaGo’s invoice validation system  IBS Intelligence",
    "source": "SIDBI / MSME",
-   "publisher": "ibsintelligence.com",
+   "publisher": "IBS Intelligence",
    "scope": "india",
    "ts": 1786432900000
   },
@@ -840,16 +850,6 @@
    "publisher": "fintechbiznews.com",
    "scope": "india",
    "ts": 1786424947000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUWFJTF9QUjJCS3ZGbWZCcEd1S0lIOWdtMnBWZGk4Q1ZmbldiNnppUnRycy0temdVcXZQUnlvNzdVUmx5SldPNXdlckdBVXcxRExaOHdpS3dNcE1IaXFTVkNJa19iNjdxaUVKeEhrbDlaYUxlSFJ",
-   "title": "RBI proposes NBFC revolving credit ban after 2 yr warning; sector pushes for selective restrictions - bfsi.economictimes.indiatimes.com",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUWFJTF9QUjJCS3ZGbWZCcEd1S0lIOWdtMnBWZGk4Q1ZmbldiNnppUnRycy0temdVcXZQUnlvNzdVUmx5SldPNXdlckdBVXcxRExaOHdpS3dNcE1IaXFTVkNJa19iNjdxaUVKeEhrbDlaYUxlSFJZeTF5OHdzaFhyTW5nTVJjSjUyZzVTWndvTC1rcEQ4RnRkSzVGVzJTS2ZUVEJOWmc3WkpWUUVTOUNvbmRRV3l1Sko3Z3BzTkY5cFNfQi1SdVFta05iSWVzR09WX2hkTTg3ZTNEMzQ1OHZ5UjVqSEM1XzFGdU1obENjUzNieUQybzFpME1DbDRGX1N6aVRR0gGIAkFVX3lxTE5tWkg2emUyWFdfcnBDdGo3VlpzMTAtRHYtZEIzazF0NHVhZ2J3YzRKX3F0ODVTdDFSY2w1SnFLT000QmVKZTI2TjFyZmxKMTFhd2NTN2FfX3N1bnVPTDN6OThVM0F6a0haZExhZjdFUnNMOWRwT0lXSzZrUl9ZZkprQjlBTWlKVnIwV2JFb2FaZGxyX21oVE9wZ1hKUTRTSWRWQUFnd3lFelZnU3RESUhJOTdiYUdfY0ROMXVKVndEanRNd0tkUWY2dEJIZ01uYWlOd092UVZiaTEtYkpWel9WMWhUQWpiZEhLTHpDenRyNzMyLU9FdklPQjJCUEpOSkRGUS1FS2M2RA?oc=5",
-   "desc": "RBI proposes NBFC revolving credit ban after 2 yr warning; sector pushes for selective restrictions  bfsi.economictimes.indiatimes.com",
-   "source": "RBI",
-   "publisher": "bfsi.economictimes.indiatimes.com",
-   "scope": "india",
-   "ts": 1786414298000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVDUtaGViOG5zNHgyWTB3QUhMYm5yNFBLS1IzNkpEZjFUZnJWSzh0X280OTVzUzZuZzNOWGlZWEZKdGJRY1R4cWNMYWF2Z3BvRGtVdmVYckxSTGZ6R0lZdFZGVm9nb0NQdV9LZGtGVVZhLUhpWld",
@@ -883,11 +883,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWxtMXJhQmFyQTFVVnF4d0wzZV9Kd2J2SXFFb3BGMC1yUG12NldGdUpDLWozU3VmRmlHam1qMUhjNDF0Y3NGaTZLbHM0S2FVQjJJc2pHN1pRQTBxX2FkczJSbjNiejQydlJ3RUJrcDFrNGpSN3o",
-   "title": "RBI Keeps Repo Rate Unchanged at 5.25%; Retains Neutral Stance - SCC Online",
+   "title": "RBI Keeps Repo Rate Unchanged at 5.25%; Retains Neutral Stance - scconline.com",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWxtMXJhQmFyQTFVVnF4d0wzZV9Kd2J2SXFFb3BGMC1yUG12NldGdUpDLWozU3VmRmlHam1qMUhjNDF0Y3NGaTZLbHM0S2FVQjJJc2pHN1pRQTBxX2FkczJSbjNiejQydlJ3RUJrcDFrNGpSN3o3eGREU2lpUkhXekczQ191ODVyNHV3M0JsUVVPWTk1N19zZmJqXzJ4eG8?oc=5",
-   "desc": "RBI Keeps Repo Rate Unchanged at 5.25%; Retains Neutral Stance  SCC Online",
+   "desc": "RBI Keeps Repo Rate Unchanged at 5.25%; Retains Neutral Stance  scconline.com",
    "source": "RBI",
-   "publisher": "SCC Online",
+   "publisher": "scconline.com",
    "scope": "india",
    "ts": 1786365059000
   },
@@ -963,11 +963,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUWp0MDFETFpJTmt2QlpoNTdJQkluYjhFRi1sRlJ4ZFgwMENuenZPWXduV0xyMDlkQUhYeVYwTHpUSGk2UmxxMXhrZjRfTVhMOW50eUlxNnFwTGhHVWQ2U1dJSWpreDRKRy11dkVaOHFDTTRldWx",
-   "title": "MSME Confidence Holds Firm at 59.3 Despite Global Uncertainties: SIDBI - entrepreneurindia.com",
+   "title": "MSME Confidence Holds Firm at 59.3 Despite Global Uncertainties: SIDBI - Entrepreneur India",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUWp0MDFETFpJTmt2QlpoNTdJQkluYjhFRi1sRlJ4ZFgwMENuenZPWXduV0xyMDlkQUhYeVYwTHpUSGk2UmxxMXhrZjRfTVhMOW50eUlxNnFwTGhHVWQ2U1dJSWpreDRKRy11dkVaOHFDTTRldWxycWk2ZmpiTm5lMWV2Q0hXeVhFeTRiNk9VeVNtdWhRYWdpUW5RcG1rOFZaLVFWNi1sTGFYU0NBTUdLd2NUYnhzNlJENHdkMnZB?oc=5",
-   "desc": "MSME Confidence Holds Firm at 59.3 Despite Global Uncertainties: SIDBI  entrepreneurindia.com",
+   "desc": "MSME Confidence Holds Firm at 59.3 Despite Global Uncertainties: SIDBI  Entrepreneur India",
    "source": "SIDBI / MSME",
-   "publisher": "entrepreneurindia.com",
+   "publisher": "Entrepreneur India",
    "scope": "india",
    "ts": 1786189468000
   },
