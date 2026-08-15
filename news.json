@@ -1,16 +1,6 @@
 {
- "updated": "2026-08-15T19:02:44.327130+00:00",
+ "updated": "2026-08-15T19:39:34.928800+00:00",
  "items": [
-  {
-   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
-   "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
-   "desc": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News  News On AIR",
-   "source": "RBI",
-   "publisher": "News On AIR",
-   "scope": "india",
-   "ts": 1786812729000
-  },
   {
    "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb2kyX1BUUWdKSkF4b0ttX2wyTUlIM1J0WWFDT1NGMXhmZTg4LURFaHRscGJiS1RQa3RkaDNoZTF1M2E4ZHBwRnhJSF9aRS1lSHdEM1pkRzJXQmxkSmFoclNLd3l4LW0yZC1objBWbEM4ajlSMmd",
    "title": "RBI loan recovery rules 2027: New rights for borrowers in default - BusinessLine",
@@ -23,11 +13,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLVNEdUgtSlF5Q0NHNVc3LUpRMGVMRHktNDhwdDhtUGljNmtYckF5UXAtcnF0TF96NjkyUnFodnoyM3N4TTN1alAzbGdNLTFBcG5Bb0dIbEVOYm1XVWd3UVJCa25qYVJKMVMzZVZmcF9wR1RzVUd",
-   "title": "AI inflation is putting even more pressure on the Fed. Could higher interest rates be next? - MarketWatch",
+   "title": "AI inflation is putting even more pressure on the Fed. Could higher interest rates be next? - marketwatch.com",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLVNEdUgtSlF5Q0NHNVc3LUpRMGVMRHktNDhwdDhtUGljNmtYckF5UXAtcnF0TF96NjkyUnFodnoyM3N4TTN1alAzbGdNLTFBcG5Bb0dIbEVOYm1XVWd3UVJCa25qYVJKMVMzZVZmcF9wR1RzVUdpckpTeExIX3RnRmVMZzBKU0xhVU5JM3U2UHE2WmNvZFRFNW1fcTM5MmZ4N1NhQ0Nlc2dHZnBEMFhmN3ZxbkVpMEt3UDhxSHdHVzBjMG1OUW82aVZ4bXM?oc=5",
-   "desc": "AI inflation is putting even more pressure on the Fed. Could higher interest rates be next?  MarketWatch",
+   "desc": "AI inflation is putting even more pressure on the Fed. Could higher interest rates be next?  marketwatch.com",
    "source": "US Fed",
-   "publisher": "MarketWatch",
+   "publisher": "marketwatch.com",
    "scope": "world",
    "ts": 1786798800000
   },
@@ -40,6 +30,16 @@
    "publisher": "BW Businessworld",
    "scope": "india",
    "ts": 1786792131000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
+   "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News - Newsonair",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+   "desc": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News  Newsonair",
+   "source": "RBI",
+   "publisher": "Newsonair",
+   "scope": "india",
+   "ts": 1786778801000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdUJlcGp2SHEyVmNoaVgtaTc1TndyVjZyMTEwUURjLTU5ZVJ1SHNMOWVFNWFmZ3NuTXY2NlFoalVJQnltYUVsMHNxSTlkbml0UkFCVExmYS14eHlLdE9yTVBsOEpSOXMwVV9jMWkzMWsxenpxd1N",
@@ -73,11 +73,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qRTdIS2hYV1dNUUFIeEhzcjZvS2tLTWZtdGJtMFZja0NBTWdXTlRNblZBeFdJa1BrbUZJRXdtLVlNckIwblp4RTh0enVESXVESjRsTzFfVEJMYlQwMDNTZVFhQkFqQnI3OUZ2M2swT053Yk1qVHF",
-   "title": "Response To Readers: Regarding “The Myth Of Yen Intervention And US Interest Rates” - richardkatz.substack.com",
+   "title": "Response To Readers: Regarding “The Myth Of Yen Intervention And US Interest Rates” - Japan Economy Watch",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qRTdIS2hYV1dNUUFIeEhzcjZvS2tLTWZtdGJtMFZja0NBTWdXTlRNblZBeFdJa1BrbUZJRXdtLVlNckIwblp4RTh0enVESXVESjRsTzFfVEJMYlQwMDNTZVFhQkFqQnI3OUZ2M2swT053Yk1qVHFB?oc=5",
-   "desc": "Response To Readers: Regarding “The Myth Of Yen Intervention And US Interest Rates”  richardkatz.substack.com",
+   "desc": "Response To Readers: Regarding “The Myth Of Yen Intervention And US Interest Rates”  Japan Economy Watch",
    "source": "US Fed",
-   "publisher": "richardkatz.substack.com",
+   "publisher": "Japan Economy Watch",
    "scope": "world",
    "ts": 1786744692000
   },
@@ -143,11 +143,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0ZwSVBGdWtDRi1FZUY1MVR3YXpndUlaVWl1UEotc2VzdnN6WTZLbUgzZDd2aTdzbFBaX1VxV3hONlhUUkZPUjFpNUtrLUdoVkp6MkN1bzhCWDhGaFdjaDRGRFF2US1QTC1mdnM5Q3JGenpiU2d",
-   "title": "Wall Street Is Obsessing Over Every Word From Federal Reserve Chairman Kevin Warsh -- This Is the Phrase That Matters Most - The Motley Fool",
+   "title": "Wall Street Is Obsessing Over Every Word From Federal Reserve Chairman Kevin Warsh -- This Is the Phrase That Matters Most - fool.com",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0ZwSVBGdWtDRi1FZUY1MVR3YXpndUlaVWl1UEotc2VzdnN6WTZLbUgzZDd2aTdzbFBaX1VxV3hONlhUUkZPUjFpNUtrLUdoVkp6MkN1bzhCWDhGaFdjaDRGRFF2US1QTC1mdnM5Q3JGenpiU2dRVjhZV2FqRVlpeGludzhOT216SU5XUHJKVHk0TDhVX0NN?oc=5",
-   "desc": "Wall Street Is Obsessing Over Every Word From Federal Reserve Chairman Kevin Warsh -- This Is the Phrase That Matters Most  The Motley Fool",
+   "desc": "Wall Street Is Obsessing Over Every Word From Federal Reserve Chairman Kevin Warsh -- This Is the Phrase That Matters Most  fool.com",
    "source": "US Fed",
-   "publisher": "The Motley Fool",
+   "publisher": "fool.com",
    "scope": "world",
    "ts": 1786728180000
   },
@@ -362,22 +362,12 @@
    "ts": 1786655820000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQVlURFlQM1EzT18wUHFhSm9Ld2RPTDlwQkxJM3M5cVdTaWZjMGUzejRIeEM0aWozU2JnS1JOaFdmaTJoZVJ6M215MlEweWpNbERFajE4UDMwZnppVEVoVEtpM0VzSXRIbE9faE54Unp2VXBBT29",
-   "title": "Higher interest rates start to look like the new normal - nbcnews.com",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQVlURFlQM1EzT18wUHFhSm9Ld2RPTDlwQkxJM3M5cVdTaWZjMGUzejRIeEM0aWozU2JnS1JOaFdmaTJoZVJ6M215MlEweWpNbERFajE4UDMwZnppVEVoVEtpM0VzSXRIbE9faE54Unp2VXBBT29kZTN2bWNVbTZ4djl0ZzdTdlJpenNFdVptNU8?oc=5",
-   "desc": "Higher interest rates start to look like the new normal  nbcnews.com",
-   "source": "US Fed",
-   "publisher": "nbcnews.com",
-   "scope": "world",
-   "ts": 1786654180000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTFaSEQyZkFiaU1KTkNPU2FuTk40RmpObmYtUUVXdVU2a2JIZ3RJSThFZ2pNdkZCYU53SjlyU0ZTMUlKVEl4Qi1pV2QxUkotYngtZ3pDRmZ6djhTUWhOc1dvVXlWckxDNG5kOUdCNkgtQ1plb1h",
-   "title": "Stocks rise and interest rates slide after inflation report - nbcnews.com",
+   "title": "Stocks rise and interest rates slide after inflation report - NBC News",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTFaSEQyZkFiaU1KTkNPU2FuTk40RmpObmYtUUVXdVU2a2JIZ3RJSThFZ2pNdkZCYU53SjlyU0ZTMUlKVEl4Qi1pV2QxUkotYngtZ3pDRmZ6djhTUWhOc1dvVXlWckxDNG5kOUdCNkgtQ1plb1hJMUxmOWNCMXNDbVUxMWQ?oc=5",
-   "desc": "Stocks rise and interest rates slide after inflation report  nbcnews.com",
+   "desc": "Stocks rise and interest rates slide after inflation report  NBC News",
    "source": "US Fed",
-   "publisher": "nbcnews.com",
+   "publisher": "NBC News",
    "scope": "world",
    "ts": 1786652422000
   },
@@ -403,11 +393,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWZ6d250M1Aya1ZTOFJjS1dNY0NITkVHblBFMHJoZ0RyM1VJTGt4SE01MnVUVDhkZ3FCVVFJcWV5a21SMlFVZmJPM3hRcXN6dnNPNFZ4bzBKRlpaX0dwcG9PZERPbHdPeUI1aHZUTDhOUXdRSDl",
-   "title": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh - The Motley Fool",
+   "title": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh - fool.com",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWZ6d250M1Aya1ZTOFJjS1dNY0NITkVHblBFMHJoZ0RyM1VJTGt4SE01MnVUVDhkZ3FCVVFJcWV5a21SMlFVZmJPM3hRcXN6dnNPNFZ4bzBKRlpaX0dwcG9PZERPbHdPeUI1aHZUTDhOUXdRSDlIZm0wVDNyTnlIemFiOUVIbk5YYjFkOHFpZHlRS3FFREIw?oc=5",
-   "desc": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh  The Motley Fool",
+   "desc": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh  fool.com",
    "source": "US Fed",
-   "publisher": "The Motley Fool",
+   "publisher": "fool.com",
    "scope": "world",
    "ts": 1786633200000
   },
@@ -453,11 +443,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORjByV3gzTW1rTTlRRlRxQWdyckFNei1hN2tmaWU0Sk5aczN6US0wdVVncnE1YnRYR3ppM2FReEVzV205T0tyRUh5QjE4VEVVd2hhekQ2cGdxdkJWdnlSbG1yUjZzc0RSWWxiN1dNWEtqS0p3eFF",
-   "title": "Retail inflation rises as food prices test RBI rate pause - pressinsider.com",
+   "title": "Retail inflation rises as food prices test RBI rate pause - PRESS Insider",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORjByV3gzTW1rTTlRRlRxQWdyckFNei1hN2tmaWU0Sk5aczN6US0wdVVncnE1YnRYR3ppM2FReEVzV205T0tyRUh5QjE4VEVVd2hhekQ2cGdxdkJWdnlSbG1yUjZzc0RSWWxiN1dNWEtqS0p3eFF2TmNmTEpjSkRISEo2dXVrdENtOExOVEFLTnhZeGg3?oc=5",
-   "desc": "Retail inflation rises as food prices test RBI rate pause  pressinsider.com",
+   "desc": "Retail inflation rises as food prices test RBI rate pause  PRESS Insider",
    "source": "RBI",
-   "publisher": "pressinsider.com",
+   "publisher": "PRESS Insider",
    "scope": "india",
    "ts": 1786613653000
   },
@@ -493,11 +483,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYUp3emY5RzlMOWJhOXVkVERjZ2Y5YlN1NjRGczVqSXNrSFRjZnJab2ljdElYSV92TnFtb0t5STZnUWVxUjlkSWpBUnRtZXB6V3Q0YUpyRk1fYzl4UHI0SHpTb3BvYnVObkpla0NjT1MxZDA3ZHV",
-   "title": "UPSC Editorial Analysis: RBI Monetary Policy Committee (MPC) Decision - insightsonindia.com",
+   "title": "UPSC Editorial Analysis: RBI Monetary Policy Committee (MPC) Decision - INSIGHTS IAS",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYUp3emY5RzlMOWJhOXVkVERjZ2Y5YlN1NjRGczVqSXNrSFRjZnJab2ljdElYSV92TnFtb0t5STZnUWVxUjlkSWpBUnRtZXB6V3Q0YUpyRk1fYzl4UHI0SHpTb3BvYnVObkpla0NjT1MxZDA3ZHV6WmpKTjNsMVVFRndUcW5GbFFvUW1RUjQzbXBEX3dlYjZMM2N2U3BNWElKUnJfXzVxLWQxSkRpNHNn?oc=5",
-   "desc": "UPSC Editorial Analysis: RBI Monetary Policy Committee (MPC) Decision  insightsonindia.com",
+   "desc": "UPSC Editorial Analysis: RBI Monetary Policy Committee (MPC) Decision  INSIGHTS IAS",
    "source": "RBI",
-   "publisher": "insightsonindia.com",
+   "publisher": "INSIGHTS IAS",
    "scope": "india",
    "ts": 1786598018000
   },
@@ -523,11 +513,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTWxpU3JWUTFMQUp0cWxEUEFSLUtQemc5TmZNM0ZfanBpR2VobVdVaFpUdVlCV3pWNUkxNk9IVVBFS2poeEhTZDU5cC1OcjVrMUY4U3poQTZxRTlsRFVfaW5ZdnhpMThjMHhMcGxWLUFkeXhYaUN",
-   "title": "Is pressure still mounting on the Federal Reserve to raise interest rates? The yield on 10-year U.S. Treasury issuance hits highest level since the financial crisis! - Moomoo",
+   "title": "Is pressure still mounting on the Federal Reserve to raise interest rates? The yield on 10-year U.S. Treasury issuance hits highest level since the financial crisis! - moomoo.com",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTWxpU3JWUTFMQUp0cWxEUEFSLUtQemc5TmZNM0ZfanBpR2VobVdVaFpUdVlCV3pWNUkxNk9IVVBFS2poeEhTZDU5cC1OcjVrMUY4U3poQTZxRTlsRFVfaW5ZdnhpMThjMHhMcGxWLUFkeXhYaUN5enZUVVg5eWxLa3JUX1ZEZ1JNSnN5eWVnLUtwalZkRV9ISU5KYjZvVjlqWXc?oc=5",
-   "desc": "Is pressure still mounting on the Federal Reserve to raise interest rates? The yield on 10-year U.S. Treasury issuance hits highest level since the financial crisis!  Moomoo",
+   "desc": "Is pressure still mounting on the Federal Reserve to raise interest rates? The yield on 10-year U.S. Treasury issuance hits highest level since the financial crisis!  moomoo.com",
    "source": "US Fed",
-   "publisher": "Moomoo",
+   "publisher": "moomoo.com",
    "scope": "world",
    "ts": 1786582980000
   },
@@ -593,11 +583,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHltVjVQNmxJOGZNYnNaT2JzaldqZHFjWlNxV1pvWTE3ekRKVFVLWkZmakZ4VWRlc0dMdlNNWEJpZTJldVZUeG5BVG5Nb2JUd1A0WExqZkZjTG9aaURWVUVUekdXczJVX0dHQXdOUGhsd3FtbnN",
-   "title": "Fed seen sticking to policy-rate hold, for now, as inflation eases again - virginiabusiness.com",
+   "title": "Fed seen sticking to policy-rate hold, for now, as inflation eases again - Virginia Business",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHltVjVQNmxJOGZNYnNaT2JzaldqZHFjWlNxV1pvWTE3ekRKVFVLWkZmakZ4VWRlc0dMdlNNWEJpZTJldVZUeG5BVG5Nb2JUd1A0WExqZkZjTG9aaURWVUVUekdXczJVX0dHQXdOUGhsd3FtbnNSdEc5ZkY2Nm50aXlGVQ?oc=5",
-   "desc": "Fed seen sticking to policy-rate hold, for now, as inflation eases again  virginiabusiness.com",
+   "desc": "Fed seen sticking to policy-rate hold, for now, as inflation eases again  Virginia Business",
    "source": "US Fed",
-   "publisher": "virginiabusiness.com",
+   "publisher": "Virginia Business",
    "scope": "world",
    "ts": 1786559560000
   },
@@ -773,11 +763,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ1Zsby1VUHpBUml4cndMYVdoaTFIRnktZlVXNWtjbERhQjgyaHlyMWgwZzFoa0ZmQ3paUzFRY0tBdGdHeDFuSnR6Z2hsbmlCclpLZW1TUE5lZGNhSmJEbDNPdjhRT3pEd0hHTHYycV9Lc1JIRFd",
-   "title": "National Bank for Agriculture and Rural Development - Encyclopedia Britannica",
+   "title": "National Bank for Agriculture and Rural Development - britannica.com",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ1Zsby1VUHpBUml4cndMYVdoaTFIRnktZlVXNWtjbERhQjgyaHlyMWgwZzFoa0ZmQ3paUzFRY0tBdGdHeDFuSnR6Z2hsbmlCclpLZW1TUE5lZGNhSmJEbDNPdjhRT3pEd0hHTHYycV9Lc1JIRFdWekVjUzZFTEJjTjVGUE1kR2pPNjhzNw?oc=5",
-   "desc": "National Bank for Agriculture and Rural Development  Encyclopedia Britannica",
+   "desc": "National Bank for Agriculture and Rural Development  britannica.com",
    "source": "NABARD",
-   "publisher": "Encyclopedia Britannica",
+   "publisher": "britannica.com",
    "scope": "india",
    "ts": 1786510800000
   },
@@ -802,22 +792,12 @@
    "ts": 1786468773000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR3M3MHBMZ1dYWmVjeFVFYndvM2V0a2lRSjRlbUZacU5jcE1RU2F3bGNnR1h0dDRTeEtvamVtUm9OT0t6SXhTVjFjSWhFWHBYNHRfQm92d05OQndndDJvVlBOOG92ZmhkMTVfMXF6bzJtaUR2SlJ",
-   "title": "Indian regulator proposes to bring all bullion trades under vault management rules - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR3M3MHBMZ1dYWmVjeFVFYndvM2V0a2lRSjRlbUZacU5jcE1RU2F3bGNnR1h0dDRTeEtvamVtUm9OT0t6SXhTVjFjSWhFWHBYNHRfQm92d05OQndndDJvVlBOOG92ZmhkMTVfMXF6bzJtaUR2SlJrdHlBUWx3RGNnNEQ4QTA0UXdnV3puNklaVHdfZUZaWjhrbHc4RVNyNllXMXBTTHlBbTlpWW5sYkhLU3FmZ1dWazZxTm5fZElPVTZNVm9Vc2xIN2QxZl8?oc=5",
-   "desc": "Indian regulator proposes to bring all bullion trades under vault management rules  Reuters",
-   "source": "SEBI",
-   "publisher": "Reuters",
-   "scope": "india",
-   "ts": 1786460143000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMWw5Yy15NW85NVNLZ0U1U0hNWW5CeU9TMkF6b0RsNkQxTGNPUXNqWHhBd3pwc3dwRXdVbzd6UDBabzdtNnJNbDZ3a3JBMXF3WkN1T0FuSDNhbkozdW80dVk2RU9lbF9mekk4T1U0RVNEUlRFTkd",
-   "title": "RBI urges banks to scale AI while tightening oversight - pressinsider.com",
+   "title": "RBI urges banks to scale AI while tightening oversight - PRESS Insider",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMWw5Yy15NW85NVNLZ0U1U0hNWW5CeU9TMkF6b0RsNkQxTGNPUXNqWHhBd3pwc3dwRXdVbzd6UDBabzdtNnJNbDZ3a3JBMXF3WkN1T0FuSDNhbkozdW80dVk2RU9lbF9mekk4T1U0RVNEUlRFTkdJVEJNQmlob2NNUWM4NjJpbGttWWlZNE45VHc?oc=5",
-   "desc": "RBI urges banks to scale AI while tightening oversight  pressinsider.com",
+   "desc": "RBI urges banks to scale AI while tightening oversight  PRESS Insider",
    "source": "RBI",
-   "publisher": "pressinsider.com",
+   "publisher": "PRESS Insider",
    "scope": "india",
    "ts": 1786457174000
   },
@@ -833,11 +813,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbkhwRUZQWHQ4Y05QQ0hXUkRGMWxiME04dU4yenMxQkJMS2ZVZ1hobFNWWS0weU5iVWhaSzJUeVhtQWRlYzF0aHhZYjRiVUswYTVPOWpleTRGSzRBcmo4Tlp0djlmZnBtYzdESzBKekJlMFRGMzJ",
-   "title": "SIDBI deploys MonetaGo’s invoice validation system - ibsintelligence.com",
+   "title": "SIDBI deploys MonetaGo’s invoice validation system - IBS Intelligence",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbkhwRUZQWHQ4Y05QQ0hXUkRGMWxiME04dU4yenMxQkJMS2ZVZ1hobFNWWS0weU5iVWhaSzJUeVhtQWRlYzF0aHhZYjRiVUswYTVPOWpleTRGSzRBcmo4Tlp0djlmZnBtYzdESzBKekJlMFRGMzJtTTNOaEpVN1c3emJ5aVJZbXgxWXpCR080dXdIdw?oc=5",
-   "desc": "SIDBI deploys MonetaGo’s invoice validation system  ibsintelligence.com",
+   "desc": "SIDBI deploys MonetaGo’s invoice validation system  IBS Intelligence",
    "source": "SIDBI / MSME",
-   "publisher": "ibsintelligence.com",
+   "publisher": "IBS Intelligence",
    "scope": "india",
    "ts": 1786432900000
   },
@@ -903,11 +883,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWxtMXJhQmFyQTFVVnF4d0wzZV9Kd2J2SXFFb3BGMC1yUG12NldGdUpDLWozU3VmRmlHam1qMUhjNDF0Y3NGaTZLbHM0S2FVQjJJc2pHN1pRQTBxX2FkczJSbjNiejQydlJ3RUJrcDFrNGpSN3o",
-   "title": "RBI Keeps Repo Rate Unchanged at 5.25%; Retains Neutral Stance - SCC Online",
+   "title": "RBI Keeps Repo Rate Unchanged at 5.25%; Retains Neutral Stance - scconline.com",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWxtMXJhQmFyQTFVVnF4d0wzZV9Kd2J2SXFFb3BGMC1yUG12NldGdUpDLWozU3VmRmlHam1qMUhjNDF0Y3NGaTZLbHM0S2FVQjJJc2pHN1pRQTBxX2FkczJSbjNiejQydlJ3RUJrcDFrNGpSN3o3eGREU2lpUkhXekczQ191ODVyNHV3M0JsUVVPWTk1N19zZmJqXzJ4eG8?oc=5",
-   "desc": "RBI Keeps Repo Rate Unchanged at 5.25%; Retains Neutral Stance  SCC Online",
+   "desc": "RBI Keeps Repo Rate Unchanged at 5.25%; Retains Neutral Stance  scconline.com",
    "source": "RBI",
-   "publisher": "SCC Online",
+   "publisher": "scconline.com",
    "scope": "india",
    "ts": 1786365059000
   },
@@ -953,11 +933,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNblY1UGRjTnBrektiRmNxeUJoQXBaN2FXTmlkZ0NmRGRTTFBVZC1ILWNKNHpYMXRWbVVKbWIxaUN6X0VtbDNGdEdhb2wyZmJuc3VYTlB2ZlQ0TmlleDFwblluSWdjeEoxRGlOaldSdFhBQ3pSanl",
-   "title": "SIDBI Goes Live with MonetaGo Secure Financing to Bolster MSME Lending in India - ffnews.com",
+   "title": "SIDBI Goes Live with MonetaGo Secure Financing to Bolster MSME Lending in India - FF News",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNblY1UGRjTnBrektiRmNxeUJoQXBaN2FXTmlkZ0NmRGRTTFBVZC1ILWNKNHpYMXRWbVVKbWIxaUN6X0VtbDNGdEdhb2wyZmJuc3VYTlB2ZlQ0TmlleDFwblluSWdjeEoxRGlOaldSdFhBQ3pSanlOMGV3OUZQNlRlOFRBNmduSm5LNVZlM280OU5HNHd0cl9WR0tLb0Y0aklWbnVaU1V3?oc=5",
-   "desc": "SIDBI Goes Live with MonetaGo Secure Financing to Bolster MSME Lending in India  ffnews.com",
+   "desc": "SIDBI Goes Live with MonetaGo Secure Financing to Bolster MSME Lending in India  FF News",
    "source": "SIDBI / MSME",
-   "publisher": "ffnews.com",
+   "publisher": "FF News",
    "scope": "india",
    "ts": 1786352384000
   },
@@ -1122,6 +1102,16 @@
    "ts": 1786112683000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUJYUUNJcU1GNUNoOElNODE4cUZEM3lYbVlFRzJoM3FyMHR4QmxmX3VnaEhzanlDaVVEU1JGWktCNFVFY0lhT0I4NHBYN2c1b196NkJHdW5zcFFuRWxHOTI3RllLMG1ScjlmX2oteE5IUXpCaTl",
+   "title": "India's MSMEs stay upbeat despite West Asia conflict, SIDBI survey finds - CNBC TV18",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUJYUUNJcU1GNUNoOElNODE4cUZEM3lYbVlFRzJoM3FyMHR4QmxmX3VnaEhzanlDaVVEU1JGWktCNFVFY0lhT0I4NHBYN2c1b196NkJHdW5zcFFuRWxHOTI3RllLMG1ScjlmX2oteE5IUXpCaTlRd3ZiSzJMUTh2MXZmX0x3bGstVTlMdGlkdUZuLWh5MmdVTVFtWGJ2Q0UzZW5Wa052RDlnNnRGNTRISGpwZ0Jnam9LMU1tLWVrTFpDQ0nSAcgBQVVfeXFMT0wxNnZoV1JvQ2dTUjFPNFA1SndGLU96Z2lYN09TXzJYRWZwSEdvZGNZMXdqUWNEOFBIVndlWFFIWnhveGxiSm1SV0t4bkMyTjFIZGdtNHJNN1FNZGxzV2ZDRUs5QU9uTnhZeUhyenZKa2NzTTFuc3dnc0Q2T0VzWVJXX01iMU9BWUR4ZlA4LXFJNlpiYkJJNkp1eTlUY085WVJjQ3U1ZE9YTjlWMUkzWHg4VzNuU1BkSEttMGl4LXQxQnhJdFMzVmw?oc=5",
+   "desc": "India's MSMEs stay upbeat despite West Asia conflict, SIDBI survey finds  CNBC TV18",
+   "source": "SIDBI / MSME",
+   "publisher": "CNBC TV18",
+   "scope": "india",
+   "ts": 1786112003000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVXpVWnhLSW9ZVTM0V0ZZLXBoNm5xSUFfS3RvZERyT2hyTjhYSTZOcVVtMWN6MURWSWtoZ2loM3ZrUWhpcXR6T2ZneUNoXzBZSFk0dXA2NEdJaDRfNW1oUC1YNDFXQ00zWlZ1V2tNS0daRzQtRDR",
    "title": "MSME business confidence declines for fourth straight quarter, cost and demand pressures weigh: SIDBI - indiagazette.com",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVXpVWnhLSW9ZVTM0V0ZZLXBoNm5xSUFfS3RvZERyT2hyTjhYSTZOcVVtMWN6MURWSWtoZ2loM3ZrUWhpcXR6T2ZneUNoXzBZSFk0dXA2NEdJaDRfNW1oUC1YNDFXQ00zWlZ1V2tNS0daRzQtRDRBdDI2bnl2UXBoM3gtMWZoMjFmUHBvU0NzUmtydm9rVm5kZEpBUDZseDNaV24xelo4STVaN3Q2V3prYXBoNFh6MjRUeVMyWm1acDQ4Wml4U294R3NpVjEyWUZoWEp3VHlPc003a1k?oc=5",
@@ -1130,16 +1120,6 @@
    "publisher": "indiagazette.com",
    "scope": "india",
    "ts": 1786091280000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUJYUUNJcU1GNUNoOElNODE4cUZEM3lYbVlFRzJoM3FyMHR4QmxmX3VnaEhzanlDaVVEU1JGWktCNFVFY0lhT0I4NHBYN2c1b196NkJHdW5zcFFuRWxHOTI3RllLMG1ScjlmX2oteE5IUXpCaTl",
-   "title": "India's MSMEs stay upbeat despite West Asia conflict, SIDBI survey finds - CNBC TV18",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUJYUUNJcU1GNUNoOElNODE4cUZEM3lYbVlFRzJoM3FyMHR4QmxmX3VnaEhzanlDaVVEU1JGWktCNFVFY0lhT0I4NHBYN2c1b196NkJHdW5zcFFuRWxHOTI3RllLMG1ScjlmX2oteE5IUXpCaTlRd3ZiSzJMUTh2MXZmX0x3bGstVTlMdGlkdUZuLWh5MmdVTVFtWGJ2Q0UzZW5Wa052RDlnNnRGNTRISGpwZ0Jnam9LMU1tLWVrTFpDQ0nSAcgBQVVfeXFMT0wxNnZoV1JvQ2dTUjFPNFA1SndGLU96Z2lYN09TXzJYRWZwSEdvZGNZMXdqUWNEOFBIVndlWFFIWnhveGxiSm1SV0t4bkMyTjFIZGdtNHJNN1FNZGxzV2ZDRUs5QU9uTnhZeUhyenZKa2NzTTFuc3dnc0Q2T0VzWVJXX01iMU9BWUR4ZlA4LXFJNlpiYkJJNkp1eTlUY085WVJjQ3U1ZE9YTjlWMUkzWHg4VzNuU1BkSEttMGl4LXQxQnhJdFMzVmw?oc=5",
-   "desc": "India's MSMEs stay upbeat despite West Asia conflict, SIDBI survey finds  CNBC TV18",
-   "source": "SIDBI / MSME",
-   "publisher": "CNBC TV18",
-   "scope": "india",
-   "ts": 1786086000000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGlfRFJGZVFNcUdSMmNxRllHQ21uQktCUXczNGZxSk9wb0d0ZzdYS0tNU0I0R0t1VncxNldqcHhMV2Q2N1pEQThwWGdkd012SjdlRXZmaGJvSF8yeUY0a1ozdlJFaUk5c25uQkNYVmw4eGxRTTV",
@@ -1163,11 +1143,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY1BLRHppcV9sVUxBTzdKNGM4S1Q0R3BtTWJjTlNCUThHYzBhY2lJSmpMR1BjQUk0VWN5YjZHejQzS0V0RkU4YWdianBSZG1sWlhYakx1YjBfNnBjLTBxM3paMS1UR2Z6YVJpd2ZneW9DNHdkN1E",
-   "title": "Sebi To Leverage WhatsApp For AI-Enabled Safe Investing Awareness Campaign - Rediff",
+   "title": "Sebi To Leverage WhatsApp For AI-Enabled Safe Investing Awareness Campaign - rediff.com",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY1BLRHppcV9sVUxBTzdKNGM4S1Q0R3BtTWJjTlNCUThHYzBhY2lJSmpMR1BjQUk0VWN5YjZHejQzS0V0RkU4YWdianBSZG1sWlhYakx1YjBfNnBjLTBxM3paMS1UR2Z6YVJpd2ZneW9DNHdkN1EtXzZxZWU0RGlTblA5X216RWM0OHlfdTZKVHJFSXY2eTBLWnVuRTdyNzVkLVN1Y0ltME9oMTFZdUhGUzNGV0s3TmcyaE56MWpBSGRfeU5peFl4R1FZMWRvM1FnOHdub0NwTGlKN3h6RXY0SG5UWW5JV25KVkR4NTd3?oc=5",
-   "desc": "Sebi To Leverage WhatsApp For AI-Enabled Safe Investing Awareness Campaign  Rediff",
+   "desc": "Sebi To Leverage WhatsApp For AI-Enabled Safe Investing Awareness Campaign  rediff.com",
    "source": "SEBI",
-   "publisher": "Rediff",
+   "publisher": "rediff.com",
    "scope": "india",
    "ts": 1786080493000
   },
@@ -1200,6 +1180,26 @@
    "publisher": "Thekanal",
    "scope": "india",
    "ts": 1786028978000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR0ZocU5tZHpESU1BT211bzhEM1BRdmJ3aG01UkpfVlNsektOMENwM0kzdC1iM2xxdHBKOW5NckRxWWRZdkNtTkV2aldtM01LWWVkTUctdmVZek14UjRGZFlPUzdCWTZFSmdjQ0gybmRTY0N3REt",
+   "title": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem - ptinews.com",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR0ZocU5tZHpESU1BT211bzhEM1BRdmJ3aG01UkpfVlNsektOMENwM0kzdC1iM2xxdHBKOW5NckRxWWRZdkNtTkV2aldtM01LWWVkTUctdmVZek14UjRGZFlPUzdCWTZFSmdjQ0gybmRTY0N3REt4RzFpWWdKeG1BdkxORHBCdFE2Q3IyYjZCT3Z5ZDdfZU05WVJSekNQZ2NPWlR0R1BHTUJEQi0ydGM0THZUemt5emEzSE9PZDhnVmNtYUVUd3JMc2xOQ3ctcVJodjExclZGZXhQYXZ5cW5sa0hnd3FpWnJOSk94NWUwbmc4YlZX?oc=5",
+   "desc": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem  ptinews.com",
+   "source": "SIDBI / MSME",
+   "publisher": "ptinews.com",
+   "scope": "india",
+   "ts": 1786019824000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObUdJNFZFWlFIQ280NmRaNG94a1BoLVQ4dUtyUHUzRDlfZUZ1ajJUUzhLYnRSOFBUeTNwNDhKbjdKUDlKdFpBSmJqZzEwN3dJV0Y1UlhmRHJpOWFWQmhlVzh5X3hPVnlxRU5GeTR5S2haaFZKbzd",
+   "title": "SIDBI backs Cedar Hill Capital's $26M debut fintech fund - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObUdJNFZFWlFIQ280NmRaNG94a1BoLVQ4dUtyUHUzRDlfZUZ1ajJUUzhLYnRSOFBUeTNwNDhKbjdKUDlKdFpBSmJqZzEwN3dJV0Y1UlhmRHJpOWFWQmhlVzh5X3hPVnlxRU5GeTR5S2haaFZKbzdOSzJ1N1MtTE9yalFUZktPdnctZmhEa2FrZXF2Vjg?oc=5",
+   "desc": "SIDBI backs Cedar Hill Capital's $26M debut fintech fund  Dealroom",
+   "source": "SIDBI / MSME",
+   "publisher": "Dealroom",
+   "scope": "india",
+   "ts": 1786000232000
   }
  ]
 }
