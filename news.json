@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T15:29:18.417326+00:00",
+ "updated": "2026-08-15T15:54:57.529303+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLVNEdUgtSlF5Q0NHNVc3LUpRMGVMRHktNDhwdDhtUGljNmtYckF5UXAtcnF0TF96NjkyUnFodnoyM3N4TTN1alAzbGdNLTFBcG5Bb0dIbEVOYm1XVWd3UVJCa25qYVJKMVMzZVZmcF9wR1RzVUd",
@@ -133,11 +133,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0ZwSVBGdWtDRi1FZUY1MVR3YXpndUlaVWl1UEotc2VzdnN6WTZLbUgzZDd2aTdzbFBaX1VxV3hONlhUUkZPUjFpNUtrLUdoVkp6MkN1bzhCWDhGaFdjaDRGRFF2US1QTC1mdnM5Q3JGenpiU2d",
-   "title": "Wall Street Is Obsessing Over Every Word From Federal Reserve Chairman Kevin Warsh -- This Is the Phrase That Matters Most - fool.com",
+   "title": "Wall Street Is Obsessing Over Every Word From Federal Reserve Chairman Kevin Warsh -- This Is the Phrase That Matters Most - The Motley Fool",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0ZwSVBGdWtDRi1FZUY1MVR3YXpndUlaVWl1UEotc2VzdnN6WTZLbUgzZDd2aTdzbFBaX1VxV3hONlhUUkZPUjFpNUtrLUdoVkp6MkN1bzhCWDhGaFdjaDRGRFF2US1QTC1mdnM5Q3JGenpiU2dRVjhZV2FqRVlpeGludzhOT216SU5XUHJKVHk0TDhVX0NN?oc=5",
-   "desc": "Wall Street Is Obsessing Over Every Word From Federal Reserve Chairman Kevin Warsh -- This Is the Phrase That Matters Most  fool.com",
+   "desc": "Wall Street Is Obsessing Over Every Word From Federal Reserve Chairman Kevin Warsh -- This Is the Phrase That Matters Most  The Motley Fool",
    "source": "US Fed",
-   "publisher": "fool.com",
+   "publisher": "The Motley Fool",
    "scope": "world",
    "ts": 1786728180000
   },
@@ -383,11 +383,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWZ6d250M1Aya1ZTOFJjS1dNY0NITkVHblBFMHJoZ0RyM1VJTGt4SE01MnVUVDhkZ3FCVVFJcWV5a21SMlFVZmJPM3hRcXN6dnNPNFZ4bzBKRlpaX0dwcG9PZERPbHdPeUI1aHZUTDhOUXdRSDl",
-   "title": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh - fool.com",
+   "title": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh - The Motley Fool",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWZ6d250M1Aya1ZTOFJjS1dNY0NITkVHblBFMHJoZ0RyM1VJTGt4SE01MnVUVDhkZ3FCVVFJcWV5a21SMlFVZmJPM3hRcXN6dnNPNFZ4bzBKRlpaX0dwcG9PZERPbHdPeUI1aHZUTDhOUXdRSDlIZm0wVDNyTnlIemFiOUVIbk5YYjFkOHFpZHlRS3FFREIw?oc=5",
-   "desc": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh  fool.com",
+   "desc": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh  The Motley Fool",
    "source": "US Fed",
-   "publisher": "fool.com",
+   "publisher": "The Motley Fool",
    "scope": "world",
    "ts": 1786633200000
   },
@@ -552,6 +552,16 @@
    "ts": 1786569840000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUExDRXFwU1lmMTBjdHBERV9IZ0lQMkdSaTlINnBRd3RjTmFBeWpZYnd2N2ptQVRBOWgwWTROTDFjQlFmVm53S1VIWFF4VHVlcmYwRExMNFZ5UGdaSVZhdU5zb3JUeEN5amQzcGNiXzh0OXY3a3N",
+   "title": "Inflation dips, affirming Fed decision to keep interest rates steady - CFO Dive",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUExDRXFwU1lmMTBjdHBERV9IZ0lQMkdSaTlINnBRd3RjTmFBeWpZYnd2N2ptQVRBOWgwWTROTDFjQlFmVm53S1VIWFF4VHVlcmYwRExMNFZ5UGdaSVZhdU5zb3JUeEN5amQzcGNiXzh0OXY3a3NRQTc4bGhsSHlHT3J1WTJyMjFBZEw0T1FmTGVwMzFOWGw1X0QtaGFyNF83TzNzUGItUDBmM3VidEd2STJLMGVNZ0R4Slh5RGIySXBBdjI1ZlRtUA?oc=5",
+   "desc": "Inflation dips, affirming Fed decision to keep interest rates steady  CFO Dive",
+   "source": "US Fed",
+   "publisher": "CFO Dive",
+   "scope": "world",
+   "ts": 1786567346000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcXhVYzVVYzVxM3FZZXh2RUpCN1ZsSjZnU09reVVIeGZCT2ZfSklDTnVkTHVhcmx5NEZVaUNsUFRCbVk3RkF2YWZXaHNUUkgyR2ZHLTJmbWlLNFluWDBESFdBSGt2a3hvbFFRZ2hFNmRMbzk0MWF",
    "title": "Sensex, Nifty end marginally higher ahead of RBI policy outcome - ddnews.gov.in",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcXhVYzVVYzVxM3FZZXh2RUpCN1ZsSjZnU09reVVIeGZCT2ZfSklDTnVkTHVhcmx5NEZVaUNsUFRCbVk3RkF2YWZXaHNUUkgyR2ZHLTJmbWlLNFluWDBESFdBSGt2a3hvbFFRZ2hFNmRMbzk0MWFRaDNHMk5lOUtldm4xdnJUNHJadHhYRlo3MWVfZw?oc=5",
@@ -573,11 +583,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHltVjVQNmxJOGZNYnNaT2JzaldqZHFjWlNxV1pvWTE3ekRKVFVLWkZmakZ4VWRlc0dMdlNNWEJpZTJldVZUeG5BVG5Nb2JUd1A0WExqZkZjTG9aaURWVUVUekdXczJVX0dHQXdOUGhsd3FtbnN",
-   "title": "Fed seen sticking to policy-rate hold, for now, as inflation eases again - Virginia Business",
+   "title": "Fed seen sticking to policy-rate hold, for now, as inflation eases again - virginiabusiness.com",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHltVjVQNmxJOGZNYnNaT2JzaldqZHFjWlNxV1pvWTE3ekRKVFVLWkZmakZ4VWRlc0dMdlNNWEJpZTJldVZUeG5BVG5Nb2JUd1A0WExqZkZjTG9aaURWVUVUekdXczJVX0dHQXdOUGhsd3FtbnNSdEc5ZkY2Nm50aXlGVQ?oc=5",
-   "desc": "Fed seen sticking to policy-rate hold, for now, as inflation eases again  Virginia Business",
+   "desc": "Fed seen sticking to policy-rate hold, for now, as inflation eases again  virginiabusiness.com",
    "source": "US Fed",
-   "publisher": "Virginia Business",
+   "publisher": "virginiabusiness.com",
    "scope": "world",
    "ts": 1786559560000
   },
@@ -1083,11 +1093,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdy1DZEhDQkYxaTQxWFhTMTE3SEhnRURrb3VYeEl2cjdzZWVfVTVaa0Y2emgzbXM5ZzBSUXNEeUVZWXVLTVBNUlBWMjRzaDZna2w4WEdLVVk4T0FXR0VjQ1dYbGk5SFZaRUJkU0RTSzF2aHRXT2t",
-   "title": "CAS transition to achieve cross-market consistency, boost price discovery mechanism: SEBI - ETLegalWorld.com",
+   "title": "CAS transition to achieve cross-market consistency, boost price discovery mechanism: SEBI - legal.economictimes.indiatimes.com",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdy1DZEhDQkYxaTQxWFhTMTE3SEhnRURrb3VYeEl2cjdzZWVfVTVaa0Y2emgzbXM5ZzBSUXNEeUVZWXVLTVBNUlBWMjRzaDZna2w4WEdLVVk4T0FXR0VjQ1dYbGk5SFZaRUJkU0RTSzF2aHRXT2tMZ3JTWlZiMjBNUGRlamdQcmVwSzNJVUtEc0dsZ1FnWXJDeHJoRnZWRTNFVEFCbElORGtCa3dNd3FDakV3Z3AxNzJNNWt0SHBKSzdXcmVmVnR5WFpJOE9CNzJYSlFCOC1IOUhfNmV4aF9wZ2VwQzlrR2hYSUJaZNIB8gFBVV95cUxNMUdTUm00RkVibEE4ODNUR1YzakoyLUliMEtVV3JrcWxEUjNxNkMxVGVXdHU5X2lhazdjQTBFbkRWa1A0Z1NmcGphUFlxREhDSXNLb0g2c05EOENMaVBxdEEzTGhEWXlORzRQcnZXejFSMFRERVBUSmFzejBULWFQQnNhTzhNZ0UtT1ZYWndJQ0xJQUMyZ0RDdnYzcF9kTnhxWWIzeXhjMjVfa245V0l3WkVLcVphY2NNN1lGbkVRZlRzaFh6S3JRMHJCZ0htQVg3SUFaZDU4dDB2eWxQOHRqdFF3SXM1NVhKbENMLU5aS216Zw?oc=5",
-   "desc": "CAS transition to achieve cross-market consistency, boost price discovery mechanism: SEBI  ETLegalWorld.com",
+   "desc": "CAS transition to achieve cross-market consistency, boost price discovery mechanism: SEBI  legal.economictimes.indiatimes.com",
    "source": "SEBI",
-   "publisher": "ETLegalWorld.com",
+   "publisher": "legal.economictimes.indiatimes.com",
    "scope": "india",
    "ts": 1786120004000
   },
@@ -1190,16 +1200,6 @@
    "publisher": "Press Trust of India",
    "scope": "india",
    "ts": 1786019824000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObUdJNFZFWlFIQ280NmRaNG94a1BoLVQ4dUtyUHUzRDlfZUZ1ajJUUzhLYnRSOFBUeTNwNDhKbjdKUDlKdFpBSmJqZzEwN3dJV0Y1UlhmRHJpOWFWQmhlVzh5X3hPVnlxRU5GeTR5S2haaFZKbzd",
-   "title": "SIDBI backs Cedar Hill Capital's $26M debut fintech fund - Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObUdJNFZFWlFIQ280NmRaNG94a1BoLVQ4dUtyUHUzRDlfZUZ1ajJUUzhLYnRSOFBUeTNwNDhKbjdKUDlKdFpBSmJqZzEwN3dJV0Y1UlhmRHJpOWFWQmhlVzh5X3hPVnlxRU5GeTR5S2haaFZKbzdOSzJ1N1MtTE9yalFUZktPdnctZmhEa2FrZXF2Vjg?oc=5",
-   "desc": "SIDBI backs Cedar Hill Capital's $26M debut fintech fund  Dealroom",
-   "source": "SIDBI / MSME",
-   "publisher": "Dealroom",
-   "scope": "india",
-   "ts": 1786000232000
   }
  ]
 }
