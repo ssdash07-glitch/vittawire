@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T19:39:34.928800+00:00",
+ "updated": "2026-08-15T19:57:07.286702+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb2kyX1BUUWdKSkF4b0ttX2wyTUlIM1J0WWFDT1NGMXhmZTg4LURFaHRscGJiS1RQa3RkaDNoZTF1M2E4ZHBwRnhJSF9aRS1lSHdEM1pkRzJXQmxkSmFoclNLd3l4LW0yZC1objBWbEM4ajlSMmd",
@@ -93,11 +93,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSi1GNDVKYnlNQ3NtWHVwbGUyajVnaFpNNVJDcEFrODd3MEN4a3pCVzhwbjhDTUJOQzIxYk9iQW5QYVotbGNVR3dEeF9XQ1lnQVF1RFhIbFVncEpSeFlpNlhKODQzanFJblprWWVFODduWjJvMlZ",
-   "title": "Why Government Debt Doesn’t Always Mean Higher Interest Rates - Fort Worth Inc.",
+   "title": "Why Government Debt Doesn’t Always Mean Higher Interest Rates - fortworthinc.com",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSi1GNDVKYnlNQ3NtWHVwbGUyajVnaFpNNVJDcEFrODd3MEN4a3pCVzhwbjhDTUJOQzIxYk9iQW5QYVotbGNVR3dEeF9XQ1lnQVF1RFhIbFVncEpSeFlpNlhKODQzanFJblprWWVFODduWjJvMlZELXhJN0lIeFRaNWNPZFV2bzdORkFya3Z5UFdEdEVTaHBaYm5BRUdrVHpW?oc=5",
-   "desc": "Why Government Debt Doesn’t Always Mean Higher Interest Rates  Fort Worth Inc.",
+   "desc": "Why Government Debt Doesn’t Always Mean Higher Interest Rates  fortworthinc.com",
    "source": "US Fed",
-   "publisher": "Fort Worth Inc.",
+   "publisher": "fortworthinc.com",
    "scope": "world",
    "ts": 1786739885000
   },
@@ -460,6 +460,16 @@
    "publisher": "Reuters",
    "scope": "india",
    "ts": 1786610477000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWld4RmhkaW0zN25LMUU1YmhXMUNCVlgwY2kwcldhNnc0endtMXNaZl9JSjdvQU5jQWNGb1BUSkp0MnBORTUwdVdsQ3J3a1ctQU8wR1k4Snc3VUVOb0JBWUZOMWNkQ3o5MkFUVjRoVG9CakJGS3h",
+   "title": "Treasury yields ease after lighter-than-expected wholesale inflation - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWld4RmhkaW0zN25LMUU1YmhXMUNCVlgwY2kwcldhNnc0endtMXNaZl9JSjdvQU5jQWNGb1BUSkp0MnBORTUwdVdsQ3J3a1ctQU8wR1k4Snc3VUVOb0JBWUZOMWNkQ3o5MkFUVjRoVG9CakJGS3hOSThLN0IyTzd1aTdHelJkQdIBiwFBVV95cUxNZ1lxeWRvWExPemM4enF0RmRUeGwxaFZmMmRtY2s5eVJVOTNMYzdhdFBEdWdpYTgtTV92UV9VamowOHBfalNMT3ZVdE45ZnpsempTQ1VQVV96azRRdkl3OGdoY3RkeUEtdUh6dldUTjhsU3JIRlgxeUJKSENCekhidkhmV255VjRoSnBz?oc=5",
+   "desc": "Treasury yields ease after lighter-than-expected wholesale inflation  CNBC",
+   "source": "US Fed",
+   "publisher": "CNBC",
+   "scope": "world",
+   "ts": 1786610417000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQzNudkV4ZkZIX0tHNVh6alJCOHR6UkpJUmtSYUx6ZzhpX192bUJGa1FWUEFCZFhZck5yYkRacDM2QVljTG5PNzdDUmdsVFU1cVNHRU93UkRTcFFJT3pWYmhVYWptVldMWHp5bl9lTDRjbnNNWUR",
@@ -1073,11 +1083,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc05jOExPbW1VT3dweGswTGZoNEI0WUQ5em1lcjJySk54SHNyNGFjY1hJaXdtQXd6bnBNODFNN1JsTnNja3NibHkyMjBxWnhjQk5SVTVNczVLaDJuOHlScHhIaE9sUUROaXd6amp6bjI2TzhUNkp",
-   "title": "Sebi clears IPO plans of 9 firms, including PlaySimple Games, Garuda Aerospace, Rediff.com and Jakson Green - Fortune India",
+   "title": "Sebi clears IPO plans of 9 firms, including PlaySimple Games, Garuda Aerospace, Rediff.com and Jakson Green - fortuneindia.com",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc05jOExPbW1VT3dweGswTGZoNEI0WUQ5em1lcjJySk54SHNyNGFjY1hJaXdtQXd6bnBNODFNN1JsTnNja3NibHkyMjBxWnhjQk5SVTVNczVLaDJuOHlScHhIaE9sUUROaXd6amp6bjI2TzhUNkpaRmtnY2F6WTZwd2FZN09BeHVLTVUycmd6NmdvWVJVSlF1Uzk4b1pXUUNqQ2E1OVJLQTktX2thR081cE1kdFhqN3lUdlQ0elpid2UzOTM1Yy1WWVNqYloxWldpZDUwQVNhVmNMNFI4U1FvNdIB7gFBVV95cUxNU0JyRVc0NnFkRDcxUDBLb1hRRUpjUmNLRUtjN0psdkpOLWFLOVZiaW1ZMFl1eHkyTlg0T1gtUVR3d2w2RWE3TXZtVk83WG4wdW91bU82eVIyVkhqaVlkdkhUa0VEQUszblFuYjZrLXRfbHpWS3pTUG9aQmloVmdUX3ExUVpqNVRuS0k4NXItNnlzUW53SVJmZWZKZ2Y1UDlLY0cySmZSRVlEQnJSeU9ndGZuaWp1RUNLYkg1YVRXVHJuOVJTQ3ZfSUlnajQ0Vi13THh3QVBLaTdfT3BWcXlXUXloSmZLWkwweUVHR1h3?oc=5",
-   "desc": "Sebi clears IPO plans of 9 firms, including PlaySimple Games, Garuda Aerospace, Rediff.com and Jakson Green  Fortune India",
+   "desc": "Sebi clears IPO plans of 9 firms, including PlaySimple Games, Garuda Aerospace, Rediff.com and Jakson Green  fortuneindia.com",
    "source": "SEBI",
-   "publisher": "Fortune India",
+   "publisher": "fortuneindia.com",
    "scope": "india",
    "ts": 1786121647000
   },
@@ -1183,23 +1193,13 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR0ZocU5tZHpESU1BT211bzhEM1BRdmJ3aG01UkpfVlNsektOMENwM0kzdC1iM2xxdHBKOW5NckRxWWRZdkNtTkV2aldtM01LWWVkTUctdmVZek14UjRGZFlPUzdCWTZFSmdjQ0gybmRTY0N3REt",
-   "title": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem - ptinews.com",
+   "title": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem - Press Trust of India",
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR0ZocU5tZHpESU1BT211bzhEM1BRdmJ3aG01UkpfVlNsektOMENwM0kzdC1iM2xxdHBKOW5NckRxWWRZdkNtTkV2aldtM01LWWVkTUctdmVZek14UjRGZFlPUzdCWTZFSmdjQ0gybmRTY0N3REt4RzFpWWdKeG1BdkxORHBCdFE2Q3IyYjZCT3Z5ZDdfZU05WVJSekNQZ2NPWlR0R1BHTUJEQi0ydGM0THZUemt5emEzSE9PZDhnVmNtYUVUd3JMc2xOQ3ctcVJodjExclZGZXhQYXZ5cW5sa0hnd3FpWnJOSk94NWUwbmc4YlZX?oc=5",
-   "desc": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem  ptinews.com",
+   "desc": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem  Press Trust of India",
    "source": "SIDBI / MSME",
-   "publisher": "ptinews.com",
+   "publisher": "Press Trust of India",
    "scope": "india",
    "ts": 1786019824000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObUdJNFZFWlFIQ280NmRaNG94a1BoLVQ4dUtyUHUzRDlfZUZ1ajJUUzhLYnRSOFBUeTNwNDhKbjdKUDlKdFpBSmJqZzEwN3dJV0Y1UlhmRHJpOWFWQmhlVzh5X3hPVnlxRU5GeTR5S2haaFZKbzd",
-   "title": "SIDBI backs Cedar Hill Capital's $26M debut fintech fund - Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObUdJNFZFWlFIQ280NmRaNG94a1BoLVQ4dUtyUHUzRDlfZUZ1ajJUUzhLYnRSOFBUeTNwNDhKbjdKUDlKdFpBSmJqZzEwN3dJV0Y1UlhmRHJpOWFWQmhlVzh5X3hPVnlxRU5GeTR5S2haaFZKbzdOSzJ1N1MtTE9yalFUZktPdnctZmhEa2FrZXF2Vjg?oc=5",
-   "desc": "SIDBI backs Cedar Hill Capital's $26M debut fintech fund  Dealroom",
-   "source": "SIDBI / MSME",
-   "publisher": "Dealroom",
-   "scope": "india",
-   "ts": 1786000232000
   }
  ]
 }
