@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15T14:57:39.753938+00:00",
+ "updated": "2026-08-15T15:29:18.417326+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLVNEdUgtSlF5Q0NHNVc3LUpRMGVMRHktNDhwdDhtUGljNmtYckF5UXAtcnF0TF96NjkyUnFodnoyM3N4TTN1alAzbGdNLTFBcG5Bb0dIbEVOYm1XVWd3UVJCa25qYVJKMVMzZVZmcF9wR1RzVUd",
@@ -73,11 +73,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQlRPMWZWcUgtdkNQZHp1Wmt3U3RMb21PVGxHNjVIZzVIUFJnLXUxS09ySjVUNWlEY3MwWi1BNmdWZmtTSUdlMWg1Rzd3ZzVFMDFORHladGw2WmJhS1g5azQwcWJFd1FJSS1YWGI3OGVZQ19VR19",
-   "title": "Gold Steadies as Traders Weigh Fed Rate Path and Mideast Tension - bloomberg.com",
+   "title": "Gold Steadies as Traders Weigh Fed Rate Path and Mideast Tension - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQlRPMWZWcUgtdkNQZHp1Wmt3U3RMb21PVGxHNjVIZzVIUFJnLXUxS09ySjVUNWlEY3MwWi1BNmdWZmtTSUdlMWg1Rzd3ZzVFMDFORHladGw2WmJhS1g5azQwcWJFd1FJSS1YWGI3OGVZQ19VR19pX2w2bm0yck1qT0dOLWRvempuZE1QWjhpb2ZNYjFncXNLS3hKU3dwalVYSGY0NC1CbjBrVVdyMXBSRzZBdGZ4QQ?oc=5",
-   "desc": "Gold Steadies as Traders Weigh Fed Rate Path and Mideast Tension  bloomberg.com",
+   "desc": "Gold Steadies as Traders Weigh Fed Rate Path and Mideast Tension  Bloomberg.com",
    "source": "US Fed",
-   "publisher": "bloomberg.com",
+   "publisher": "Bloomberg.com",
    "scope": "world",
    "ts": 1786739941000
   },
@@ -92,12 +92,22 @@
    "ts": 1786739885000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdFJCeWdvZDMyM21HMnRqT1UzZGthcnlnRjh3Q1h2cnJqMFR1N0psMG5wamNyQXhXN3pDWEl3WlgyMU5FbUV5S1RRZHk0SmJ6eXF1dkdVVlI5d2lSSF9JNEQtci1wTUw2RGM0bWxnR3l0eGJHMHh",
-   "title": "Treasuries Gain as Weak Retail Sales Data Erode Rate-Hike Bets - bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdFJCeWdvZDMyM21HMnRqT1UzZGthcnlnRjh3Q1h2cnJqMFR1N0psMG5wamNyQXhXN3pDWEl3WlgyMU5FbUV5S1RRZHk0SmJ6eXF1dkdVVlI5d2lSSF9JNEQtci1wTUw2RGM0bWxnR3l0eGJHMHhKaDN2bmlEdzQwQ3BjTWptQ0NReHpUazRFNkdYU1lmX05OSmtEMHFjZE83YV83Ynkwd3k0MDdGSmh5azdiRQ?oc=5",
-   "desc": "Treasuries Gain as Weak Retail Sales Data Erode Rate-Hike Bets  bloomberg.com",
+   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQczg5WWZUNFVkRG0wWHZKSXdaZ2ZEa056Y1ExRG5lMjRmZURlS0ZqYXlDSE5HLUg4eHZZUmlRMkVTZ2ZZb2x1WHI4cW5vZjF3OXRzbVhHRS1KQ0UyMURGTHpqd0JvbmpncGp4ZktwN2djRW5UX09",
+   "title": "Dollar Slides to May Low as Weak Retail Sales Dim Rate Bets - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQczg5WWZUNFVkRG0wWHZKSXdaZ2ZEa056Y1ExRG5lMjRmZURlS0ZqYXlDSE5HLUg4eHZZUmlRMkVTZ2ZZb2x1WHI4cW5vZjF3OXRzbVhHRS1KQ0UyMURGTHpqd0JvbmpncGp4ZktwN2djRW5UX09yMTFkNlV4SlBwNmJJa2dOZnZJVlQwZDlzMTM3aFAteDRSaTB5MFF2Tm1QZk9DMlVraGhWT0xpN0s4?oc=5",
+   "desc": "Dollar Slides to May Low as Weak Retail Sales Dim Rate Bets  Bloomberg.com",
    "source": "US Fed",
-   "publisher": "bloomberg.com",
+   "publisher": "Bloomberg.com",
+   "scope": "world",
+   "ts": 1786738313000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdFJCeWdvZDMyM21HMnRqT1UzZGthcnlnRjh3Q1h2cnJqMFR1N0psMG5wamNyQXhXN3pDWEl3WlgyMU5FbUV5S1RRZHk0SmJ6eXF1dkdVVlI5d2lSSF9JNEQtci1wTUw2RGM0bWxnR3l0eGJHMHh",
+   "title": "Treasuries Gain as Weak Retail Sales Data Erode Rate-Hike Bets - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdFJCeWdvZDMyM21HMnRqT1UzZGthcnlnRjh3Q1h2cnJqMFR1N0psMG5wamNyQXhXN3pDWEl3WlgyMU5FbUV5S1RRZHk0SmJ6eXF1dkdVVlI5d2lSSF9JNEQtci1wTUw2RGM0bWxnR3l0eGJHMHhKaDN2bmlEdzQwQ3BjTWptQ0NReHpUazRFNkdYU1lmX05OSmtEMHFjZE83YV83Ynkwd3k0MDdGSmh5azdiRQ?oc=5",
+   "desc": "Treasuries Gain as Weak Retail Sales Data Erode Rate-Hike Bets  Bloomberg.com",
+   "source": "US Fed",
+   "publisher": "Bloomberg.com",
    "scope": "world",
    "ts": 1786736413000
   },
@@ -123,11 +133,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0ZwSVBGdWtDRi1FZUY1MVR3YXpndUlaVWl1UEotc2VzdnN6WTZLbUgzZDd2aTdzbFBaX1VxV3hONlhUUkZPUjFpNUtrLUdoVkp6MkN1bzhCWDhGaFdjaDRGRFF2US1QTC1mdnM5Q3JGenpiU2d",
-   "title": "Wall Street Is Obsessing Over Every Word From Federal Reserve Chairman Kevin Warsh -- This Is the Phrase That Matters Most - The Motley Fool",
+   "title": "Wall Street Is Obsessing Over Every Word From Federal Reserve Chairman Kevin Warsh -- This Is the Phrase That Matters Most - fool.com",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0ZwSVBGdWtDRi1FZUY1MVR3YXpndUlaVWl1UEotc2VzdnN6WTZLbUgzZDd2aTdzbFBaX1VxV3hONlhUUkZPUjFpNUtrLUdoVkp6MkN1bzhCWDhGaFdjaDRGRFF2US1QTC1mdnM5Q3JGenpiU2dRVjhZV2FqRVlpeGludzhOT216SU5XUHJKVHk0TDhVX0NN?oc=5",
-   "desc": "Wall Street Is Obsessing Over Every Word From Federal Reserve Chairman Kevin Warsh -- This Is the Phrase That Matters Most  The Motley Fool",
+   "desc": "Wall Street Is Obsessing Over Every Word From Federal Reserve Chairman Kevin Warsh -- This Is the Phrase That Matters Most  fool.com",
    "source": "US Fed",
-   "publisher": "The Motley Fool",
+   "publisher": "fool.com",
    "scope": "world",
    "ts": 1786728180000
   },
@@ -172,9 +182,9 @@
    "ts": 1786720827000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0NMUXdMcUtnMndZYVAxRUw4akFCWlpsLXRnY2ZYeHVIYmhtMVUtWlVud3R0Y3otNXk2T0VLM2JGZDVMaldOUXFUNEluQTBRZUZROWFPQzVrR0Y4cmVOdzlFTlhFb2ZSZzRhLVdtalpLMTZ3Nkc",
+   "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcF9QVTA3RlFsNHlPUUhwelhOeGVXVDJuS2oxdlpBU0ZmVVZIMVhQTThqYTNNd0o0NjJHWF94MmdNeEdfeVJHSFZwREx5X1JWckp6cGVaSWM1eWFmaVZxdFA0Q0NGSVFkNm5pRTFULWljdV9La2N",
    "title": "Indian market regulator SEBI proposes fully digital KYC for NRIs, OCIs, foreign nationals - The Tribune",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0NMUXdMcUtnMndZYVAxRUw4akFCWlpsLXRnY2ZYeHVIYmhtMVUtWlVud3R0Y3otNXk2T0VLM2JGZDVMaldOUXFUNEluQTBRZUZROWFPQzVrR0Y4cmVOdzlFTlhFb2ZSZzRhLVdtalpLMTZ3Nkc3RWdveDFyV0pTV3dVckNTMlMxQU1VWVhvdmlfR1N4OFg0UnhnZnB3SkRReVV4eUk1bG5aSkVrOE03aG9EZGROQTR4NEdHOWFzZ9IBzwFBVV95cUxPNFI1UUR4X1VNWUJxQTVhTWFzVHdob18zUWZHWDJmRkdaejNwa1laSGN3YUhNOTNIWHZHWFh2OEcxWUpXMEw3c2duTEdjTGxBY0Q5OTJMaTU5dkF0SEczdi1hNTZ5SmYxQmdHb0thREF6YlBaU3RKdHZrRXktMWo5Y3NCNkROUVltTDY2OG5WakRoM1NhZFZLUzF6Vmc2ZHFzSEN4SWJ4cXQyaDNSSlJyTV9uUC1TRm1GSWt5SFMzT000bUxGQjdFTjdFWk9fdzA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcF9QVTA3RlFsNHlPUUhwelhOeGVXVDJuS2oxdlpBU0ZmVVZIMVhQTThqYTNNd0o0NjJHWF94MmdNeEdfeVJHSFZwREx5X1JWckp6cGVaSWM1eWFmaVZxdFA0Q0NGSVFkNm5pRTFULWljdV9La2NUOEw2Z1EtUzFtSmE5aGFEYWY1S0lPVlFha2JoV3pDdXVwYm1QNlBWNXlkUklHMEVwT2NMOHVDMzhoOEttREhPbndlQkRTd3dEaGdmcmhzdnU5SURRMFNHQ0FVOHNNbmRWRQ?oc=5",
    "desc": "Indian market regulator SEBI proposes fully digital KYC for NRIs, OCIs, foreign nationals  The Tribune",
    "source": "SEBI",
    "publisher": "The Tribune",
@@ -183,11 +193,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVTJjUlZIUC0wajNIMlhKSm5BLUcteVpPa1BxYklBSEt1VTZqam9QWklURlA3a2M5REQ3MUJ0bDNhb3J5Q25na21faEx1bmFoUUVGbm5XRlFnNXRQZVlzby10el9famc3ZThyMHZQY3VuS19fZTE",
-   "title": "Breakingviews - Memo to CEOs: take Fed’s cue on forward guidance - reuters.com",
+   "title": "Breakingviews - Memo to CEOs: take Fed’s cue on forward guidance - Reuters",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVTJjUlZIUC0wajNIMlhKSm5BLUcteVpPa1BxYklBSEt1VTZqam9QWklURlA3a2M5REQ3MUJ0bDNhb3J5Q25na21faEx1bmFoUUVGbm5XRlFnNXRQZVlzby10el9famc3ZThyMHZQY3VuS19fZTE0end4bEZvNkJ2d19YSEdwRGF6TDE4M1V4VUMta2RET2d0R3JHNkJFV3RMRHlj?oc=5",
-   "desc": "Breakingviews - Memo to CEOs: take Fed’s cue on forward guidance  reuters.com",
+   "desc": "Breakingviews - Memo to CEOs: take Fed’s cue on forward guidance  Reuters",
    "source": "US Fed",
-   "publisher": "reuters.com",
+   "publisher": "Reuters",
    "scope": "world",
    "ts": 1786718206000
   },
@@ -253,21 +263,21 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDJaOWp0UVZZRVd3MUp5UGNUVk1EOXNybWFfeXRKR2FQYzJsUnJCN3VEU1I2bldJWHFodHlUWXQxcUdzXzVtaTN4RmEyaHlwREhvdVpialZycTYyaFozME5kWWV3MGFqT1hGS00zTnMyQmVDZkZ",
-   "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates - reuters.com",
+   "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates - Reuters",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDJaOWp0UVZZRVd3MUp5UGNUVk1EOXNybWFfeXRKR2FQYzJsUnJCN3VEU1I2bldJWHFodHlUWXQxcUdzXzVtaTN4RmEyaHlwREhvdVpialZycTYyaFozME5kWWV3MGFqT1hGS00zTnMyQmVDZkZXZTFvT0VGR0RSMU1FMnBiT3dyZFlSQmx5RDRXX0JsZ1dPMy1KOTNteGVOaVJRemdUaDhtWkpmRndEeQ?oc=5",
-   "desc": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates  reuters.com",
+   "desc": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates  Reuters",
    "source": "US Fed",
-   "publisher": "reuters.com",
+   "publisher": "Reuters",
    "scope": "world",
    "ts": 1786705191000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUkZXRWJRcG5ubW04ZjBhdDkwOUlnN3hwMEZlQ2RqT3pURzFiWmYtcmV2WUZ5dDVxZ3RzV2l3ZEVKSXEycEY5bUhJbzJWZ2ZtZkMyV1dyRUpuZXJZS0t3dElZSl83SDhSOEJXeXIySDBLWENHLVZ",
-   "title": "Wall St Week Ahead: With Fed mum on next move, investors look to earnings to keep stocks afloat - reuters.com",
+   "title": "Wall St Week Ahead: With Fed mum on next move, investors look to earnings to keep stocks afloat - Reuters",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUkZXRWJRcG5ubW04ZjBhdDkwOUlnN3hwMEZlQ2RqT3pURzFiWmYtcmV2WUZ5dDVxZ3RzV2l3ZEVKSXEycEY5bUhJbzJWZ2ZtZkMyV1dyRUpuZXJZS0t3dElZSl83SDhSOEJXeXIySDBLWENHLVZjNE5vLTBOYmFEeGZGLXkwUlpHczNjNVJZTi1vUE5qU2M3ZmJmR0ZpbXhiSVB4cy1Tel9BQTB5VXJkRUZOc2pIazVoWFBYRldvSWJNWEotcGdsV0I1dTFoQQ?oc=5",
-   "desc": "Wall St Week Ahead: With Fed mum on next move, investors look to earnings to keep stocks afloat  reuters.com",
+   "desc": "Wall St Week Ahead: With Fed mum on next move, investors look to earnings to keep stocks afloat  Reuters",
    "source": "US Fed",
-   "publisher": "reuters.com",
+   "publisher": "Reuters",
    "scope": "world",
    "ts": 1786704122000
   },
@@ -313,21 +323,21 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVDIyRHVUbzNzMFctT0VkQXpIZWt2V09QNEtwc2VhYVlmZWRyM1NCd0NWSUZEUEFQb2VzWVFqOEdtZmpYNEc3dDFna1dQSktGZU1ONGQySmNlYVcyVHN5c05iT2V5REVnMFA0cnFKNVI3enRtTXp",
-   "title": "Dollar mixed after flat PPI, rate hike bets cool - reuters.com",
+   "title": "Dollar mixed after flat PPI, rate hike bets cool - Reuters",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVDIyRHVUbzNzMFctT0VkQXpIZWt2V09QNEtwc2VhYVlmZWRyM1NCd0NWSUZEUEFQb2VzWVFqOEdtZmpYNEc3dDFna1dQSktGZU1ONGQySmNlYVcyVHN5c05iT2V5REVnMFA0cnFKNVI3enRtTXpGaUsxdGlSZ2xFbFo5VEVwWkV5eXNvMVA2Rmx5YzhxeVd1TkQ2YkpISXc3OUV5cHpaR2dxNHNOVXltdjBfSVo?oc=5",
-   "desc": "Dollar mixed after flat PPI, rate hike bets cool  reuters.com",
+   "desc": "Dollar mixed after flat PPI, rate hike bets cool  Reuters",
    "source": "US Fed",
-   "publisher": "reuters.com",
+   "publisher": "Reuters",
    "scope": "world",
    "ts": 1786658839000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHBQbGpaRk5FcmRfWTlhRmNHeFJiWlpOY2pyY25qdzFka19seGhUU29vMWlvVkxzdW1oMUtYVjN0bU1WNzBsRzZxOS1BLWdRRXVPdDdBdGdPVFRSU2dMZWtXbHZQcmZHTFdhQVU1RXNBYVVyZUd",
-   "title": "Fed should raise rates to restrain growth and inflation, Hammack says - reuters.com",
+   "title": "Fed should raise rates to restrain growth and inflation, Hammack says - Reuters",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHBQbGpaRk5FcmRfWTlhRmNHeFJiWlpOY2pyY25qdzFka19seGhUU29vMWlvVkxzdW1oMUtYVjN0bU1WNzBsRzZxOS1BLWdRRXVPdDdBdGdPVFRSU2dMZWtXbHZQcmZHTFdhQVU1RXNBYVVyZUdoTjE1RmluSXRxUUpkQXFqUkRXR0RHZ3Fxakh4dEJYY0FUM2toSTNyMFlCc3VpTHlCVTZUbGMtZGZFN0hkVG8?oc=5",
-   "desc": "Fed should raise rates to restrain growth and inflation, Hammack says  reuters.com",
+   "desc": "Fed should raise rates to restrain growth and inflation, Hammack says  Reuters",
    "source": "US Fed",
-   "publisher": "reuters.com",
+   "publisher": "Reuters",
    "scope": "world",
    "ts": 1786656289000
   },
@@ -363,21 +373,21 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNE5KTzJ2VEJFalpMX3htZVdVY2RnQXU1Wkt2dWxpZkZBNnk3cFhrekUwSnU2N2xxejZpRjcyVEJtOHhmTEhwUmJvTW9sQXk0dlNFaU51MWR0azBkSHdKamFYRjVjT2dQbWhlSFlJTHJrc2pXeTV",
-   "title": "Fed's Barkin: Still an \"open question\" if rate hike will be needed to meet inflation target - reuters.com",
+   "title": "Fed's Barkin: Still an \"open question\" if rate hike will be needed to meet inflation target - Reuters",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNE5KTzJ2VEJFalpMX3htZVdVY2RnQXU1Wkt2dWxpZkZBNnk3cFhrekUwSnU2N2xxejZpRjcyVEJtOHhmTEhwUmJvTW9sQXk0dlNFaU51MWR0azBkSHdKamFYRjVjT2dQbWhlSFlJTHJrc2pXeTVrc1JXU29BSUdycWZPcEJWX1BrTkkzaGFoQXZ1eTF6VG9LT1pLQ2JZQnp0cjd6dHlBdUxDYTlzQWZ5dHdvYzRFTWVyck9XbHNhNA?oc=5",
-   "desc": "Fed's Barkin: Still an \"open question\" if rate hike will be needed to meet inflation target  reuters.com",
+   "desc": "Fed's Barkin: Still an \"open question\" if rate hike will be needed to meet inflation target  Reuters",
    "source": "US Fed",
-   "publisher": "reuters.com",
+   "publisher": "Reuters",
    "scope": "world",
    "ts": 1786634568000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWZ6d250M1Aya1ZTOFJjS1dNY0NITkVHblBFMHJoZ0RyM1VJTGt4SE01MnVUVDhkZ3FCVVFJcWV5a21SMlFVZmJPM3hRcXN6dnNPNFZ4bzBKRlpaX0dwcG9PZERPbHdPeUI1aHZUTDhOUXdRSDl",
-   "title": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh - The Motley Fool",
+   "title": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh - fool.com",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWZ6d250M1Aya1ZTOFJjS1dNY0NITkVHblBFMHJoZ0RyM1VJTGt4SE01MnVUVDhkZ3FCVVFJcWV5a21SMlFVZmJPM3hRcXN6dnNPNFZ4bzBKRlpaX0dwcG9PZERPbHdPeUI1aHZUTDhOUXdRSDlIZm0wVDNyTnlIemFiOUVIbk5YYjFkOHFpZHlRS3FFREIw?oc=5",
-   "desc": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh  The Motley Fool",
+   "desc": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh  fool.com",
    "source": "US Fed",
-   "publisher": "The Motley Fool",
+   "publisher": "fool.com",
    "scope": "world",
    "ts": 1786633200000
   },
@@ -603,11 +613,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2NNM1hicnFuakczck9zME1UVXVFV2hjLVFzbkJMY1NaT3JUcWlfcDN3Rko0RU1iSFEzS3VQaGJibEo5S05icjFXN09POFE0dGFYS3pjTlMxa0hKSnJ2SjdaVDJRZXNIR3h5dTZvTkgxalowRnd",
-   "title": "Fed expected to leave rates unchanged next month after soft inflation data - reuters.com",
+   "title": "Fed expected to leave rates unchanged next month after soft inflation data - Reuters",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2NNM1hicnFuakczck9zME1UVXVFV2hjLVFzbkJMY1NaT3JUcWlfcDN3Rko0RU1iSFEzS3VQaGJibEo5S05icjFXN09POFE0dGFYS3pjTlMxa0hKSnJ2SjdaVDJRZXNIR3h5dTZvTkgxalowRndaeUttbHc0OFZvbmJGcXJ3UnhxYVZrSGdfbmllVXYzMmRUQ2VrMUE2eGJwa1VDdEJCM01fVlp6b1U0?oc=5",
-   "desc": "Fed expected to leave rates unchanged next month after soft inflation data  reuters.com",
+   "desc": "Fed expected to leave rates unchanged next month after soft inflation data  Reuters",
    "source": "US Fed",
-   "publisher": "reuters.com",
+   "publisher": "Reuters",
    "scope": "world",
    "ts": 1786554552000
   },
@@ -763,11 +773,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeWlLSnA5Z0dhYk9GSjdGdXdMSHBxOU5PMmpCdVRNTXpteVlHRURSdGdsZVpmUXpNLXhzTEdTM3RzemNtaXpTRURxT1JYRF85ZW04RWhfVXdQRjZzdXJFMGIwSF9IdXdENVgwYUVBT2JOZUdsX0c",
-   "title": "RBI Governor Sets Governance Priorities for Banks Using AI - policyedge.in",
+   "title": "RBI Governor Sets Governance Priorities for Banks Using AI - The Policy Edge",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeWlLSnA5Z0dhYk9GSjdGdXdMSHBxOU5PMmpCdVRNTXpteVlHRURSdGdsZVpmUXpNLXhzTEdTM3RzemNtaXpTRURxT1JYRF85ZW04RWhfVXdQRjZzdXJFMGIwSF9IdXdENVgwYUVBT2JOZUdsX0cxeDNzTms3eU9XSWJxMVZDNlJxNVc1b1FXcw?oc=5",
-   "desc": "RBI Governor Sets Governance Priorities for Banks Using AI  policyedge.in",
+   "desc": "RBI Governor Sets Governance Priorities for Banks Using AI  The Policy Edge",
    "source": "RBI",
-   "publisher": "policyedge.in",
+   "publisher": "The Policy Edge",
    "scope": "india",
    "ts": 1786468773000
   },
@@ -840,16 +850,6 @@
    "publisher": "bfsi.economictimes.indiatimes.com",
    "scope": "india",
    "ts": 1786414298000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaEVZX3AtOUtqZ3ktTm1HRG5mSUx1dnluUkFyLUtQaTl5Rk1SVzhHTlRWc2JBNzRMNkR0dlpVcnhuOUtSR0hBVlpBOGxhNDdoOW9qUDM5aU00WlFBTFh4d3FQNElmN0FqdzYwMGxGTlBZaC1PV0h",
-   "title": "EB-5 Lessons from the IMF & World Bank Group with Chris Mason and Andrew Diroll-Black - JD Supra",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaEVZX3AtOUtqZ3ktTm1HRG5mSUx1dnluUkFyLUtQaTl5Rk1SVzhHTlRWc2JBNzRMNkR0dlpVcnhuOUtSR0hBVlpBOGxhNDdoOW9qUDM5aU00WlFBTFh4d3FQNElmN0FqdzYwMGxGTlBZaC1PV0hiQUJCLVF0VXZ4T29NYUJidw?oc=5",
-   "desc": "EB-5 Lessons from the IMF & World Bank Group with Chris Mason and Andrew Diroll-Black  JD Supra",
-   "source": "IMF / World Bank",
-   "publisher": "JD Supra",
-   "scope": "world",
-   "ts": 1786405090000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVDUtaGViOG5zNHgyWTB3QUhMYm5yNFBLS1IzNkpEZjFUZnJWSzh0X280OTVzUzZuZzNOWGlZWEZKdGJRY1R4cWNMYWF2Z3BvRGtVdmVYckxSTGZ6R0lZdFZGVm9nb0NQdV9LZGtGVVZhLUhpWld",
@@ -1123,11 +1123,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGlfRFJGZVFNcUdSMmNxRllHQ21uQktCUXczNGZxSk9wb0d0ZzdYS0tNU0I0R0t1VncxNldqcHhMV2Q2N1pEQThwWGdkd012SjdlRXZmaGJvSF8yeUY0a1ozdlJFaUk5c25uQkNYVmw4eGxRTTV",
-   "title": "State Bank Of India Posts Q1 Standalone Net Profit Of 212B Rupees - sahi.com",
+   "title": "State Bank Of India Posts Q1 Standalone Net Profit Of 212B Rupees - Sahi",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGlfRFJGZVFNcUdSMmNxRllHQ21uQktCUXczNGZxSk9wb0d0ZzdYS0tNU0I0R0t1VncxNldqcHhMV2Q2N1pEQThwWGdkd012SjdlRXZmaGJvSF8yeUY0a1ozdlJFaUk5c25uQkNYVmw4eGxRTTVpYTJjdV95MzBHRWNSOWd6d2lHa3NmYUo1aFRsbVdqamtINEFNblRia05SdnQ2YTRNQQ?oc=5",
-   "desc": "State Bank Of India Posts Q1 Standalone Net Profit Of 212B Rupees  sahi.com",
+   "desc": "State Bank Of India Posts Q1 Standalone Net Profit Of 212B Rupees  Sahi",
    "source": "Indian Banking",
-   "publisher": "sahi.com",
+   "publisher": "Sahi",
    "scope": "india",
    "ts": 1786086000000
   },
@@ -1153,11 +1153,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xT01nQWl1aHJta0hCTGZ2clp1amtfTC1JY3QyM3N3RUwydWlQVEoyNE9jOExRckZpTHB1OGhjN1g3dHc2YnhSYkQ0al8zSXlQN1hUOVNqSURpUHF4Vk9mMlZ4VkltczVtUnQzU1lfNFljVW1MeXJ",
-   "title": "Sebi to simplify rules, ramp up technology use - pressreader.com",
+   "title": "Sebi to simplify rules, ramp up technology use - PressReader",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xT01nQWl1aHJta0hCTGZ2clp1amtfTC1JY3QyM3N3RUwydWlQVEoyNE9jOExRckZpTHB1OGhjN1g3dHc2YnhSYkQ0al8zSXlQN1hUOVNqSURpUHF4Vk9mMlZ4VkltczVtUnQzU1lfNFljVW1MeXJFUU55QQ?oc=5",
-   "desc": "Sebi to simplify rules, ramp up technology use  pressreader.com",
+   "desc": "Sebi to simplify rules, ramp up technology use  PressReader",
    "source": "SEBI",
-   "publisher": "pressreader.com",
+   "publisher": "PressReader",
    "scope": "india",
    "ts": 1786067914000
   },
