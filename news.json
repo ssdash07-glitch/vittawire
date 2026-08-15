@@ -1,26 +1,6 @@
 {
- "updated": "2026-08-15T21:28:46.037736+00:00",
+ "updated": "2026-08-15T21:54:50.838542+00:00",
  "items": [
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDdpZW5ESjlDSllRenlRaVdPRVpQTXdwOWxwZXN5YXR0T0ZMUUVtT1JRR0hxWTRtdlJNbUpJTXNtRnVIcnRIaW1TYWdmYWliUXFKUUNoTEZYeE1mRjNlZjJOMmFmM3pBRlp1LWNlTG5EVjVNVUt",
-   "title": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News - News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDdpZW5ESjlDSllRenlRaVdPRVpQTXdwOWxwZXN5YXR0T0ZMUUVtT1JRR0hxWTRtdlJNbUpJTXNtRnVIcnRIaW1TYWdmYWliUXFKUUNoTEZYeE1mRjNlZjJOMmFmM3pBRlp1LWNlTG5EVjVNVUtmRThkWGZxOHV2YXYxZU9uWVdGdDZ3NEQzM0NCbzBLY2xFWk40ZzQxTUk2YllTQ0p5TUlGQQ?oc=5",
-   "desc": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News  News On AIR",
-   "source": "RBI",
-   "publisher": "News On AIR",
-   "scope": "india",
-   "ts": 1786816052000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
-   "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
-   "desc": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News  News On AIR",
-   "source": "RBI",
-   "publisher": "News On AIR",
-   "scope": "india",
-   "ts": 1786812729000
-  },
   {
    "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb2kyX1BUUWdKSkF4b0ttX2wyTUlIM1J0WWFDT1NGMXhmZTg4LURFaHRscGJiS1RQa3RkaDNoZTF1M2E4ZHBwRnhJSF9aRS1lSHdEM1pkRzJXQmxkSmFoclNLd3l4LW0yZC1objBWbEM4ajlSMmd",
    "title": "RBI loan recovery rules 2027: New rights for borrowers in default - BusinessLine",
@@ -50,6 +30,16 @@
    "publisher": "BW Businessworld",
    "scope": "india",
    "ts": 1786792131000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
+   "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+   "desc": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News  News On AIR",
+   "source": "RBI",
+   "publisher": "News On AIR",
+   "scope": "india",
+   "ts": 1786778801000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdUJlcGp2SHEyVmNoaVgtaTc1TndyVjZyMTEwUURjLTU5ZVJ1SHNMOWVFNWFmZ3NuTXY2NlFoalVJQnltYUVsMHNxSTlkbml0UkFCVExmYS14eHlLdE9yTVBsOEpSOXMwVV9jMWkzMWsxenpxd1N",
@@ -103,21 +93,21 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQczg5WWZUNFVkRG0wWHZKSXdaZ2ZEa056Y1ExRG5lMjRmZURlS0ZqYXlDSE5HLUg4eHZZUmlRMkVTZ2ZZb2x1WHI4cW5vZjF3OXRzbVhHRS1KQ0UyMURGTHpqd0JvbmpncGp4ZktwN2djRW5UX09",
-   "title": "Dollar Slides to May Low as Weak Retail Sales Dim Rate Bets - Bloomberg.com",
+   "title": "Dollar Slides to May Low as Weak Retail Sales Dim Rate Bets - bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQczg5WWZUNFVkRG0wWHZKSXdaZ2ZEa056Y1ExRG5lMjRmZURlS0ZqYXlDSE5HLUg4eHZZUmlRMkVTZ2ZZb2x1WHI4cW5vZjF3OXRzbVhHRS1KQ0UyMURGTHpqd0JvbmpncGp4ZktwN2djRW5UX09yMTFkNlV4SlBwNmJJa2dOZnZJVlQwZDlzMTM3aFAteDRSaTB5MFF2Tm1QZk9DMlVraGhWT0xpN0s4?oc=5",
-   "desc": "Dollar Slides to May Low as Weak Retail Sales Dim Rate Bets  Bloomberg.com",
+   "desc": "Dollar Slides to May Low as Weak Retail Sales Dim Rate Bets  bloomberg.com",
    "source": "US Fed",
-   "publisher": "Bloomberg.com",
+   "publisher": "bloomberg.com",
    "scope": "world",
    "ts": 1786738313000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdFJCeWdvZDMyM21HMnRqT1UzZGthcnlnRjh3Q1h2cnJqMFR1N0psMG5wamNyQXhXN3pDWEl3WlgyMU5FbUV5S1RRZHk0SmJ6eXF1dkdVVlI5d2lSSF9JNEQtci1wTUw2RGM0bWxnR3l0eGJHMHh",
-   "title": "Treasuries Gain as Weak Retail Sales Data Erode Rate-Hike Bets - Bloomberg.com",
+   "title": "Treasuries Gain as Weak Retail Sales Data Erode Rate-Hike Bets - bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdFJCeWdvZDMyM21HMnRqT1UzZGthcnlnRjh3Q1h2cnJqMFR1N0psMG5wamNyQXhXN3pDWEl3WlgyMU5FbUV5S1RRZHk0SmJ6eXF1dkdVVlI5d2lSSF9JNEQtci1wTUw2RGM0bWxnR3l0eGJHMHhKaDN2bmlEdzQwQ3BjTWptQ0NReHpUazRFNkdYU1lmX05OSmtEMHFjZE83YV83Ynkwd3k0MDdGSmh5azdiRQ?oc=5",
-   "desc": "Treasuries Gain as Weak Retail Sales Data Erode Rate-Hike Bets  Bloomberg.com",
+   "desc": "Treasuries Gain as Weak Retail Sales Data Erode Rate-Hike Bets  bloomberg.com",
    "source": "US Fed",
-   "publisher": "Bloomberg.com",
+   "publisher": "bloomberg.com",
    "scope": "world",
    "ts": 1786736413000
   },
@@ -243,11 +233,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZlBkSnI5T2VhTFlqMURkS25rdTBTQVlaLUZGaFZYVTB4ZndUeUlfYXVaNFVOQkN1ZnY1c3V5Vk1BOHVUa0VzYWU0Y2hMRmdBSUkydm5CYkd0cHRNMjNuQXNvdjg4em01cUswTGt1YXdkVzVVSHl",
-   "title": "India sees sharp expansion in retail, MSME credit access since 2021 - business-standard.com",
+   "title": "India sees sharp expansion in retail, MSME credit access since 2021 - Business Standard",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZlBkSnI5T2VhTFlqMURkS25rdTBTQVlaLUZGaFZYVTB4ZndUeUlfYXVaNFVOQkN1ZnY1c3V5Vk1BOHVUa0VzYWU0Y2hMRmdBSUkydm5CYkd0cHRNMjNuQXNvdjg4em01cUswTGt1YXdkVzVVSHlyZ1h4WUhmd0IyUmlYaXpvWERBckQyZ2FqMmtLQWhodEZmNnVYVHlpbFI2dkh0WUYteWdwbzlfblJBSldfMl9vcUpFWWM1bEREb2VpQjE2elBnLW8tUHpLQdIB0wFBVV95cUxOYlNYTFNvWTJVTFpCYW1SSjBna1R5OFR4Vzk2SGF1ZDFaRjU0dUNXN05OU0xrVDU1Ym02ZGpjcTdaSEtQVzZzaENubkJ5WjlQOFRiMUF4LUVOb0V1X2RMVzhSSFg1YS12YnAyY0U3dFpkSlliN3lld1g4LVdrTUg4aWFhVWQ4Nmpva0lPUktVMklWU084N3dWSzJKaVRmYlY0RjFCRDlqZ2tPQ3hSYzZfNzktTnB2ZWtidmxOUmltX040WXpIcm9YVzhFRjczLVpFZGZr?oc=5",
-   "desc": "India sees sharp expansion in retail, MSME credit access since 2021  business-standard.com",
+   "desc": "India sees sharp expansion in retail, MSME credit access since 2021  Business Standard",
    "source": "SIDBI / MSME",
-   "publisher": "business-standard.com",
+   "publisher": "Business Standard",
    "scope": "india",
    "ts": 1786711100000
   },
@@ -333,11 +323,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQlRPMWZWcUgtdkNQZHp1Wmt3U3RMb21PVGxHNjVIZzVIUFJnLXUxS09ySjVUNWlEY3MwWi1BNmdWZmtTSUdlMWg1Rzd3ZzVFMDFORHladGw2WmJhS1g5azQwcWJFd1FJSS1YWGI3OGVZQ19VR19",
-   "title": "Gold Steadies as Traders Weigh Fed Rate Path and Mideast Tension - Bloomberg.com",
+   "title": "Gold Steadies as Traders Weigh Fed Rate Path and Mideast Tension - bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQlRPMWZWcUgtdkNQZHp1Wmt3U3RMb21PVGxHNjVIZzVIUFJnLXUxS09ySjVUNWlEY3MwWi1BNmdWZmtTSUdlMWg1Rzd3ZzVFMDFORHladGw2WmJhS1g5azQwcWJFd1FJSS1YWGI3OGVZQ19VR19pX2w2bm0yck1qT0dOLWRvempuZE1QWjhpb2ZNYjFncXNLS3hKU3dwalVYSGY0NC1CbjBrVVdyMXBSRzZBdGZ4QQ?oc=5",
-   "desc": "Gold Steadies as Traders Weigh Fed Rate Path and Mideast Tension  Bloomberg.com",
+   "desc": "Gold Steadies as Traders Weigh Fed Rate Path and Mideast Tension  bloomberg.com",
    "source": "US Fed",
-   "publisher": "Bloomberg.com",
+   "publisher": "bloomberg.com",
    "scope": "world",
    "ts": 1786663456000
   },
@@ -433,11 +423,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmNsbnl3T2dFUnRDbVRUc0EtNHNyUklEQXJXOHJkWXY0LXFUa3FEOWY1WDI5QllHOGpZSFh4dkZjVEl6WVplbmhZOGlodmhnT0FodFlmTU1RUnFYTjlZM093elJwRGs4YU0yMDlPOUd2TGoydHl",
-   "title": "India’s SEBI Wants To Expand Who Counts As Accredited - Finimize",
+   "title": "India’s SEBI Wants To Expand Who Counts As Accredited - finimize.com",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmNsbnl3T2dFUnRDbVRUc0EtNHNyUklEQXJXOHJkWXY0LXFUa3FEOWY1WDI5QllHOGpZSFh4dkZjVEl6WVplbmhZOGlodmhnT0FodFlmTU1RUnFYTjlZM093elJwRGs4YU0yMDlPOUd2TGoydHlSbmFTbVB3TC1WbHJ2U3RxdWNU?oc=5",
-   "desc": "India’s SEBI Wants To Expand Who Counts As Accredited  Finimize",
+   "desc": "India’s SEBI Wants To Expand Who Counts As Accredited  finimize.com",
    "source": "SEBI",
-   "publisher": "Finimize",
+   "publisher": "finimize.com",
    "scope": "india",
    "ts": 1786621523000
   },
@@ -470,16 +460,6 @@
    "publisher": "Reuters",
    "scope": "india",
    "ts": 1786610477000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWld4RmhkaW0zN25LMUU1YmhXMUNCVlgwY2kwcldhNnc0endtMXNaZl9JSjdvQU5jQWNGb1BUSkp0MnBORTUwdVdsQ3J3a1ctQU8wR1k4Snc3VUVOb0JBWUZOMWNkQ3o5MkFUVjRoVG9CakJGS3h",
-   "title": "Treasury yields ease after lighter-than-expected wholesale inflation - CNBC",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWld4RmhkaW0zN25LMUU1YmhXMUNCVlgwY2kwcldhNnc0endtMXNaZl9JSjdvQU5jQWNGb1BUSkp0MnBORTUwdVdsQ3J3a1ctQU8wR1k4Snc3VUVOb0JBWUZOMWNkQ3o5MkFUVjRoVG9CakJGS3hOSThLN0IyTzd1aTdHelJkQdIBiwFBVV95cUxNZ1lxeWRvWExPemM4enF0RmRUeGwxaFZmMmRtY2s5eVJVOTNMYzdhdFBEdWdpYTgtTV92UV9VamowOHBfalNMT3ZVdE45ZnpsempTQ1VQVV96azRRdkl3OGdoY3RkeUEtdUh6dldUTjhsU3JIRlgxeUJKSENCekhidkhmV255VjRoSnBz?oc=5",
-   "desc": "Treasury yields ease after lighter-than-expected wholesale inflation  CNBC",
-   "source": "US Fed",
-   "publisher": "CNBC",
-   "scope": "world",
-   "ts": 1786610417000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQzNudkV4ZkZIX0tHNVh6alJCOHR6UkpJUmtSYUx6ZzhpX192bUJGa1FWUEFCZFhZck5yYkRacDM2QVljTG5PNzdDUmdsVFU1cVNHRU93UkRTcFFJT3pWYmhVYWptVldMWHp5bl9lTDRjbnNNWUR",
@@ -533,11 +513,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTWxpU3JWUTFMQUp0cWxEUEFSLUtQemc5TmZNM0ZfanBpR2VobVdVaFpUdVlCV3pWNUkxNk9IVVBFS2poeEhTZDU5cC1OcjVrMUY4U3poQTZxRTlsRFVfaW5ZdnhpMThjMHhMcGxWLUFkeXhYaUN",
-   "title": "Is pressure still mounting on the Federal Reserve to raise interest rates? The yield on 10-year U.S. Treasury issuance hits highest level since the financial crisis! - Moomoo",
+   "title": "Is pressure still mounting on the Federal Reserve to raise interest rates? The yield on 10-year U.S. Treasury issuance hits highest level since the financial crisis! - moomoo.com",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTWxpU3JWUTFMQUp0cWxEUEFSLUtQemc5TmZNM0ZfanBpR2VobVdVaFpUdVlCV3pWNUkxNk9IVVBFS2poeEhTZDU5cC1OcjVrMUY4U3poQTZxRTlsRFVfaW5ZdnhpMThjMHhMcGxWLUFkeXhYaUN5enZUVVg5eWxLa3JUX1ZEZ1JNSnN5eWVnLUtwalZkRV9ISU5KYjZvVjlqWXc?oc=5",
-   "desc": "Is pressure still mounting on the Federal Reserve to raise interest rates? The yield on 10-year U.S. Treasury issuance hits highest level since the financial crisis!  Moomoo",
+   "desc": "Is pressure still mounting on the Federal Reserve to raise interest rates? The yield on 10-year U.S. Treasury issuance hits highest level since the financial crisis!  moomoo.com",
    "source": "US Fed",
-   "publisher": "Moomoo",
+   "publisher": "moomoo.com",
    "scope": "world",
    "ts": 1786582980000
   },
@@ -613,11 +593,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNldQaV9LaFRGQkdfdEY5X1J5dEtqVFhheUg1RFVwLWpkN0twMjBNd3FPQUNTbm5DWUVSM0FfaTlUa1lqbzk0VGRPaEhlUFBFNGcySVhFME5vbEVBR2lQdkh4TDUzdWpNamV6QUtpcnljYVJDUnF",
-   "title": "Zee, CEO Goenka approach SAT against Sebi order restricting market access - business-standard.com",
+   "title": "Zee, CEO Goenka approach SAT against Sebi order restricting market access - Business Standard",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNldQaV9LaFRGQkdfdEY5X1J5dEtqVFhheUg1RFVwLWpkN0twMjBNd3FPQUNTbm5DWUVSM0FfaTlUa1lqbzk0VGRPaEhlUFBFNGcySVhFME5vbEVBR2lQdkh4TDUzdWpNamV6QUtpcnljYVJDUnFWV3B5eEdHeEVKWGRTNFlUVW5QZnlGSHVDVmhGTDVfdWRXVnhDcUczMHFRYktXOERqVENTR3NhdXhNOWN6VkdERW8yaF95aXJxdmhYaTNLMjBfTWZhd0hCM1B4WGJWcjNR0gHbAUFVX3lxTE4tZE9aM2dwQlFndHRSTDVwUW90cjNxWTEtZmdFcWdldnlkYmZBQ3VFRmJ0WXRjdnBXcGM5Y2lUa0VjeVJ1NXNST3pmUmotTVFHai1yck1hTTRYYVduVkdtbUoyV3F3MFNzTk1jX2p4cGdxczdCRG55MjNBVTV3UGd4QXpCbzlhWXY3ZkszR3ZPMWJ0X0h5WDB5YTRJak5VQWxLM000NE5fMzNKYmlmQ0xKVGo1ODVEN1ZpOTNJOVAtd2U1RThnSG4xOEt2WjFlVUlYS05ZVHI5WGtRWQ?oc=5",
-   "desc": "Zee, CEO Goenka approach SAT against Sebi order restricting market access  business-standard.com",
+   "desc": "Zee, CEO Goenka approach SAT against Sebi order restricting market access  Business Standard",
    "source": "SEBI",
-   "publisher": "business-standard.com",
+   "publisher": "Business Standard",
    "scope": "india",
    "ts": 1786558537000
   },
@@ -693,11 +673,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUg3aVRGR0Q0OXI5Y21EX0pYZENOaVpTYnl0NE9FTnk1OG9MQl9zZ1FlMlZENTNIeHpxWlVCbEk4d2NTNk9XTFBSdWE4RVk1Y3FPUXdhblhneFNXNTR6ZmVzRVRTeTUxSjdqck9rZ0puaUlobXl",
-   "title": "July Inflation Rose As Expected—Here’s Why A Fed Rate Hike Is Now Unlikely - Forbes",
+   "title": "July Inflation Rose As Expected—Here’s Why A Fed Rate Hike Is Now Unlikely - forbes.com",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUg3aVRGR0Q0OXI5Y21EX0pYZENOaVpTYnl0NE9FTnk1OG9MQl9zZ1FlMlZENTNIeHpxWlVCbEk4d2NTNk9XTFBSdWE4RVk1Y3FPUXdhblhneFNXNTR6ZmVzRVRTeTUxSjdqck9rZ0puaUlobXl5VzVqMkk5bjJzbkVwVjNMdVZodmZtVE54WjFrTWc0dklGOFdvakhxQVdybzd0OWJzVTFzd2pZZmdLcnAtaWpLZHFKRTVHcUl4N1NwTzN0bVc0YkREbDZlYlJrNHFDbkU2ajk4bzhrYWc?oc=5",
-   "desc": "July Inflation Rose As Expected—Here’s Why A Fed Rate Hike Is Now Unlikely  Forbes",
+   "desc": "July Inflation Rose As Expected—Here’s Why A Fed Rate Hike Is Now Unlikely  forbes.com",
    "source": "US Fed",
-   "publisher": "Forbes",
+   "publisher": "forbes.com",
    "scope": "world",
    "ts": 1786539160000
   },
@@ -733,11 +713,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLUo4SDFMcTBGcm9FZHFKNDJ6VmJvaHphNGlXWWVDbVRIa2g1Qm9tTVlLZ2F4UGZ5LXRWaGQzeUNLYUl0SmlRV3ZncXlqNjdPVFRpMXFWdHkydlRZMjhzZk9mYm1iYVZ5NFhCTmlPeVdBRW5RTUN",
-   "title": "Benign Inflation Data Offers Reprieve to Fed as It Weighs Rate Increase - nytimes.com",
+   "title": "Benign Inflation Data Offers Reprieve to Fed as It Weighs Rate Increase - The New York Times",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLUo4SDFMcTBGcm9FZHFKNDJ6VmJvaHphNGlXWWVDbVRIa2g1Qm9tTVlLZ2F4UGZ5LXRWaGQzeUNLYUl0SmlRV3ZncXlqNjdPVFRpMXFWdHkydlRZMjhzZk9mYm1iYVZ5NFhCTmlPeVdBRW5RTUNwaHNfZVNYX0FjNmczVW1DbkpydVYxZzZxN09GV2RCZlE1QkR4RF83dw?oc=5",
-   "desc": "Benign Inflation Data Offers Reprieve to Fed as It Weighs Rate Increase  nytimes.com",
+   "desc": "Benign Inflation Data Offers Reprieve to Fed as It Weighs Rate Increase  The New York Times",
    "source": "US Fed",
-   "publisher": "nytimes.com",
+   "publisher": "The New York Times",
    "scope": "world",
    "ts": 1786534013000
   },
@@ -763,11 +743,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSmRud3VHaTZrSjQ1MklQd1Q0MmtSRkFHajhSZ1Q3dnhjYTFIazl6QThlcmVlajEzd3pMRVJZLWNIVzlQdGg4LVRXZVFPeEx5WFZ3b2Zxam8ydDFIak1wY1pwdUtpQ0U2RDRtZjRGUlF2eXFCbW9",
-   "title": "Sebi looks to ease position-limit, margin norms in commodity markets - business-standard.com",
+   "title": "Sebi looks to ease position-limit, margin norms in commodity markets - Business Standard",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSmRud3VHaTZrSjQ1MklQd1Q0MmtSRkFHajhSZ1Q3dnhjYTFIazl6QThlcmVlajEzd3pMRVJZLWNIVzlQdGg4LVRXZVFPeEx5WFZ3b2Zxam8ydDFIak1wY1pwdUtpQ0U2RDRtZjRGUlF2eXFCbW90RGhLX1JqXzA1U0NtdGE3Mld4eWhtVHpmOEFtN0x6Qmg5dE40TVVjamtKQnFTMC1OMk1Qckdwd29ObnpnNXBxSDI5WFgwV1ZQQjM3dWx1Qy03aWplTklsVEnSAdQBQVVfeXFMTkFjVklRM3RZaGlOT1pWa2dxQTgxUUNUM2FsNjZhV2RlNm0zS0ZvTlpLQk8tU2dlVXpoTWJWbmhCQm03cllBdkdqZlFwQnJBMWo1ZUwtYTVyZ2RjajJhd1E1aXZhQW5jNHEzUjRGSWttNjVScEVFWW05VThWWTlSU2lmaVVmWnJnRzFmLVFvQ3JVZkZxek5kQUpzbURxMzk3aW0yTFh3ZV8teF93VFo2aEtLUjBfTE9tQlBfR1F5MTNwbDlUZFdsbnRKQ1BuM2JPOWY2MXM?oc=5",
-   "desc": "Sebi looks to ease position-limit, margin norms in commodity markets  business-standard.com",
+   "desc": "Sebi looks to ease position-limit, margin norms in commodity markets  Business Standard",
    "source": "SEBI",
-   "publisher": "business-standard.com",
+   "publisher": "Business Standard",
    "scope": "india",
    "ts": 1786517047000
   },
@@ -863,11 +843,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVDUtaGViOG5zNHgyWTB3QUhMYm5yNFBLS1IzNkpEZjFUZnJWSzh0X280OTVzUzZuZzNOWGlZWEZKdGJRY1R4cWNMYWF2Z3BvRGtVdmVYckxSTGZ6R0lZdFZGVm9nb0NQdV9LZGtGVVZhLUhpWld",
-   "title": "RBI officers seek HR policy review, time-bound promotions up to Grade E - business-standard.com",
+   "title": "RBI officers seek HR policy review, time-bound promotions up to Grade E - Business Standard",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVDUtaGViOG5zNHgyWTB3QUhMYm5yNFBLS1IzNkpEZjFUZnJWSzh0X280OTVzUzZuZzNOWGlZWEZKdGJRY1R4cWNMYWF2Z3BvRGtVdmVYckxSTGZ6R0lZdFZGVm9nb0NQdV9LZGtGVVZhLUhpWldwS0lZeFdVd21NWU8teG81OXdDV1RzOEg3VDFDbVBtak9IaEg4UVBkTkkzRkFjYkE1cmROcVd3Y25oM0FrTElPeFFzeXRRNG1zelJNZTB2WTczUEs2UlI0UzR0cjRr0gHYAUFVX3lxTE1VUkxsSUFkdzU2V1pZRWRDQXAyR1ZPWUpWSlpZZkY0VFF1Smx1R1lYLW1Sc0dpbmdhOGRiUXdQb1BJMEtMaUdnOTNmaHJnUjIwd2s1Q2stWWJMTFRWLVJWenFPM0JLWnRBR1BnTTdQbmE4WW5kemo2ZG8wT1hROW5QbXNWR0xCeEdQYl9zN1FIc0ZIdHdKaldKRzhlMDdwWGF6UFl6QkZGM3kwTkpGMVN2Ty1yZFVIcXp1eGdyRVY4ZDhxdkxPT2NDZVgwQXNhMmJrMjg1ZjlRMA?oc=5",
-   "desc": "RBI officers seek HR policy review, time-bound promotions up to Grade E  business-standard.com",
+   "desc": "RBI officers seek HR policy review, time-bound promotions up to Grade E  Business Standard",
    "source": "RBI",
-   "publisher": "business-standard.com",
+   "publisher": "Business Standard",
    "scope": "india",
    "ts": 1786378276000
   },
@@ -1022,20 +1002,20 @@
    "ts": 1786172400000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0lRTm1tTVV1M0h2WnRUMGZqVW53Zm1SVVNLWkprUXFTMGV4ZVVSZVNCYWU5LU94Q0JzOHJCRFFtaGxNMnpsYW83ajg0NWIwVVFJTTZUNkpSNjV6XzFEb0t3NF9ZdjdnQVBwZjBURWc1bVJIcmF",
-   "title": "India bonds pause before RBI policy, debt supply - BusinessLine",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0lRTm1tTVV1M0h2WnRUMGZqVW53Zm1SVVNLWkprUXFTMGV4ZVVSZVNCYWU5LU94Q0JzOHJCRFFtaGxNMnpsYW83ajg0NWIwVVFJTTZUNkpSNjV6XzFEb0t3NF9ZdjdnQVBwZjBURWc1bVJIcmFaVlZlZGJLRWNfdmRHOEVQdk56QlFFWjgtd2JDZFlORkVUWWV6TGFCd1JQYTZ6OW1fT1EtREtlbVY4REVn0gG4AUFVX3lxTE5LaVNoT2E3QjRsdVQ4bHAtSnNxRnFmNHRNdnNtOE0zbF9BU19uaGVaRWlZck40ck1pb1FYVlNtVXdZWFhyczFEWGVtTUlkbVdBZ3AxS1gtcURGY190YWhlbllDTEtscFBrWXppUnJXWGx3bHh0UWtvczZmelRDX3JKTkR3Q1N2cE1ORjg4UllBY1c4OGFHM0J5Tjl0NG9GOXlRRjBVYVVyalI3TUQtdkg3OThzS1d4Mnk?oc=5",
-   "desc": "India bonds pause before RBI policy, debt supply  BusinessLine",
+   "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYzN1VWtvelJTTHhoaDZlS2FjM1dZRGtFY1lQMUl0TjI4Mk9CZG50Y3BwZmxFWkN3WE9YWUVkRU5yX1VXYUdVV2FkSjlleklUVk01aDRiTl8yemN3XzhnS1U4SXZpazdBUVRGRENfRWRGREE2bHh",
+   "title": "Oil tumble to support Indian bonds; RBI policy guidance stays large driver - BusinessLine",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYzN1VWtvelJTTHhoaDZlS2FjM1dZRGtFY1lQMUl0TjI4Mk9CZG50Y3BwZmxFWkN3WE9YWUVkRU5yX1VXYUdVV2FkSjlleklUVk01aDRiTl8yemN3XzhnS1U4SXZpazdBUVRGRENfRWRGREE2bHhfdzd3bmJibVItSkZVTjQzSzVScVlETVNkZUJQSmpLNjJUQ1J5elVLemNzSTJhUjJYTlRKMjY1ZGFPQkM2eXZsU2lxams3MmZRRHd0X1JRcEVfVGhIWjNCZUhtR2lyedIB2wFBVV95cUxPMUtBamVEU3psRG93bUc5Uk80alNINHBmNmJhRkdxVUo4RnRyYjhESXVOVWgteTdyVEZQVmJUZlJhVTl3M09XVUdxeVRIbnZKaDZIRnBTZDNsVTJ3a3V1em9SMmpTWnFreG1hbGR4ZjdKUndwOTR5UkdTOTNILTFTU05vU0tLT2xYc1Z1V1FGM2V5NGJkMGl4aElBMnAwVlVVVTJFdnJaZDZoSENmMXB6VDF6S1lickhnUzFHejFFQmZ1djFLZnMwcXRXMlRoRElOZWtCS3AxRWVVZWs?oc=5",
+   "desc": "Oil tumble to support Indian bonds; RBI policy guidance stays large driver  BusinessLine",
    "source": "RBI",
    "publisher": "BusinessLine",
    "scope": "india",
    "ts": 1786172400000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYzN1VWtvelJTTHhoaDZlS2FjM1dZRGtFY1lQMUl0TjI4Mk9CZG50Y3BwZmxFWkN3WE9YWUVkRU5yX1VXYUdVV2FkSjlleklUVk01aDRiTl8yemN3XzhnS1U4SXZpazdBUVRGRENfRWRGREE2bHh",
-   "title": "Oil tumble to support Indian bonds; RBI policy guidance stays large driver - BusinessLine",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYzN1VWtvelJTTHhoaDZlS2FjM1dZRGtFY1lQMUl0TjI4Mk9CZG50Y3BwZmxFWkN3WE9YWUVkRU5yX1VXYUdVV2FkSjlleklUVk01aDRiTl8yemN3XzhnS1U4SXZpazdBUVRGRENfRWRGREE2bHhfdzd3bmJibVItSkZVTjQzSzVScVlETVNkZUJQSmpLNjJUQ1J5elVLemNzSTJhUjJYTlRKMjY1ZGFPQkM2eXZsU2lxams3MmZRRHd0X1JRcEVfVGhIWjNCZUhtR2lyedIB2wFBVV95cUxPMUtBamVEU3psRG93bUc5Uk80alNINHBmNmJhRkdxVUo4RnRyYjhESXVOVWgteTdyVEZQVmJUZlJhVTl3M09XVUdxeVRIbnZKaDZIRnBTZDNsVTJ3a3V1em9SMmpTWnFreG1hbGR4ZjdKUndwOTR5UkdTOTNILTFTU05vU0tLT2xYc1Z1V1FGM2V5NGJkMGl4aElBMnAwVlVVVTJFdnJaZDZoSENmMXB6VDF6S1lickhnUzFHejFFQmZ1djFLZnMwcXRXMlRoRElOZWtCS3AxRWVVZWs?oc=5",
-   "desc": "Oil tumble to support Indian bonds; RBI policy guidance stays large driver  BusinessLine",
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0lRTm1tTVV1M0h2WnRUMGZqVW53Zm1SVVNLWkprUXFTMGV4ZVVSZVNCYWU5LU94Q0JzOHJCRFFtaGxNMnpsYW83ajg0NWIwVVFJTTZUNkpSNjV6XzFEb0t3NF9ZdjdnQVBwZjBURWc1bVJIcmF",
+   "title": "India bonds pause before RBI policy, debt supply - BusinessLine",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0lRTm1tTVV1M0h2WnRUMGZqVW53Zm1SVVNLWkprUXFTMGV4ZVVSZVNCYWU5LU94Q0JzOHJCRFFtaGxNMnpsYW83ajg0NWIwVVFJTTZUNkpSNjV6XzFEb0t3NF9ZdjdnQVBwZjBURWc1bVJIcmFaVlZlZGJLRWNfdmRHOEVQdk56QlFFWjgtd2JDZFlORkVUWWV6TGFCd1JQYTZ6OW1fT1EtREtlbVY4REVn0gG4AUFVX3lxTE5LaVNoT2E3QjRsdVQ4bHAtSnNxRnFmNHRNdnNtOE0zbF9BU19uaGVaRWlZck40ck1pb1FYVlNtVXdZWFhyczFEWGVtTUlkbVdBZ3AxS1gtcURGY190YWhlbllDTEtscFBrWXppUnJXWGx3bHh0UWtvczZmelRDX3JKTkR3Q1N2cE1ORjg4UllBY1c4OGFHM0J5Tjl0NG9GOXlRRjBVYVVyalI3TUQtdkg3OThzS1d4Mnk?oc=5",
+   "desc": "India bonds pause before RBI policy, debt supply  BusinessLine",
    "source": "RBI",
    "publisher": "BusinessLine",
    "scope": "india",
@@ -1198,6 +1178,26 @@
    "desc": "Monetary Policy Committee (MPC) - RBI Keeps Repo Rate Unchanged Amid Global Uncertainty  Vajiram & Ravi",
    "source": "RBI",
    "publisher": "Vajiram & Ravi",
+   "scope": "india",
+   "ts": 1785999600000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmY1OTBseVNOZFM4X3M4MmNEem0welNsVnhLZF9Qb0N6Mnhzc1gzOXY0NUdIV3FCNXdnUGNmUkp5R1ZjQVVIaWgxVmJ6NEdGa3UyZFd0eXE4N0hxbWlFZHpXMUFPbVJ4ZzV4ZGJGQmZKVmxpc0d",
+   "title": "RBI Governor says outlook hazy, need clarity before taking any policy action - The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmY1OTBseVNOZFM4X3M4MmNEem0welNsVnhLZF9Qb0N6Mnhzc1gzOXY0NUdIV3FCNXdnUGNmUkp5R1ZjQVVIaWgxVmJ6NEdGa3UyZFd0eXE4N0hxbWlFZHpXMUFPbVJ4ZzV4ZGJGQmZKVmxpc0dtR3lIVEJGMmc4YVNndnRaTTlnWmZFajF3Y2xDeEdwNGNVeVdMSENBMmotVFNrUGhSMzBjS2ljTFY2cEQzLUFHdHhDRTlTdjExYjRsSlN2WkluYjEwOXlSN0kt0gHXAUFVX3lxTE9CckpjMzlGNERNbENweXQ2U2ZrNmpobmlQR2xaa1dRWWFnM2p5bV9HRGdVVHd0UTFZNUNCN1hVZ2RhZWhWTlNyTFdGdVVsRkVtNWpkelNtVVFvREpKSEIzb0M5c0hOcHB1OXltTjhhM0lHaEcwRFpnamdCMjZvczBmd2J0ZG1rUk9mXzBPdzJvQWpFSHVwcXZleWc5ZFBzcjJSbS1GeVFHc29scUtnbWhxYnV5N21zWGZoNTdHUGprOGcxX0pFRTZYOUw0c19kNUdYMFFXTDZr?oc=5",
+   "desc": "RBI Governor says outlook hazy, need clarity before taking any policy action  The Indian Express",
+   "source": "RBI",
+   "publisher": "The Indian Express",
+   "scope": "india",
+   "ts": 1785999600000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcGpFQWhKcmRCbkpNMXNBMmhfcVFzSWx5bENUYW1RVG9uWDNqSFk2NEkydFlyLTVQNzhEek1QU1NIZjZIaDE5UG5pNDJUV1hBUG9sSzhoMi13V0hYOF9YZGJYN3RudVZJXzFwMVA3b2lkeTFpRHk",
+   "title": "Sensex, Nifty edge up after RBI pause as crude oil prices soften - India Today",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcGpFQWhKcmRCbkpNMXNBMmhfcVFzSWx5bENUYW1RVG9uWDNqSFk2NEkydFlyLTVQNzhEek1QU1NIZjZIaDE5UG5pNDJUV1hBUG9sSzhoMi13V0hYOF9YZGJYN3RudVZJXzFwMVA3b2lkeTFpRHkzMXFtV1hadkVtOTlFc2hpUlNOVm5tYlViLXZsMVdNc3dxaElKRThVVWtQQXBTX2VPRHZuUkRHOGlQVjhJVEd0a2t1TFVPRi1fRTJNdkR1MVVHcmNUUURia2h6aWtjWnluMndGRGZUeGdLM1o4cEhvcUxON2dF0gHwAUFVX3lxTFBHcDkweGNNUkdtNG5NTjVNQndjU0w1UnpXOHYyWG56bEhRa05sQnJucGRydjZQRE5fVHFxYW80VFlrV3ZIekNsZXE5YUpjY3NvVGpCcnd5WEhnb1dZa2p5MTQ2Sk1oZmpHMUtoa2EteHBWQjU0MFlLRHgyLWp1OW9zcllySXBSbzdQYlZSQWFIVS1hNldVODlUTGl5LWdYV3E2SmY1bXNlWE15b2FtWk5YVnZyOUNJM3pxdk9aMVMyckhVUE1PQXdMV21NREZZQUNXNmFmVzJzMUp4aUgtd1RWcnBCRGloVVBJM1VPRy1XaA?oc=5",
+   "desc": "Sensex, Nifty edge up after RBI pause as crude oil prices soften  India Today",
+   "source": "RBI",
+   "publisher": "India Today",
    "scope": "india",
    "ts": 1785999600000
   }
