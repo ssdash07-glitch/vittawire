@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T09:04:18.398244+00:00",
+ "updated": "2026-08-16T09:46:30.917295+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
@@ -50,6 +50,16 @@
    "publisher": "BW Businessworld",
    "scope": "india",
    "ts": 1786792131000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUHBFd3BNLXphc0dFLUYxRkNxbzg0ZXNkRkhDSFhBdUYzcDdHNm03cTZ1TEEzcnhCcVNnRW5seGMta3YxM2Q1UWxWOXk4SmxOQWtrQ1hlZXdNRXdrVTc5OW1UT2FwcU9SRHY5Y0dDd2UyU3dvR2g",
+   "title": "Zee Wins Interim Relief on Capital Raise Amid Indian Market Ban - Variety",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUHBFd3BNLXphc0dFLUYxRkNxbzg0ZXNkRkhDSFhBdUYzcDdHNm03cTZ1TEEzcnhCcVNnRW5seGMta3YxM2Q1UWxWOXk4SmxOQWtrQ1hlZXdNRXdrVTc5OW1UT2FwcU9SRHY5Y0dDd2UyU3dvR2g1TllTeGd6UXBmNHNrZnl2M0l4SWVacnR6VVVfTjhIMDRiVmJjbGQ?oc=5",
+   "desc": "Zee Wins Interim Relief on Capital Raise Amid Indian Market Ban  Variety",
+   "source": "SEBI",
+   "publisher": "Variety",
+   "scope": "india",
+   "ts": 1786781340000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdUJlcGp2SHEyVmNoaVgtaTc1TndyVjZyMTEwUURjLTU5ZVJ1SHNMOWVFNWFmZ3NuTXY2NlFoalVJQnltYUVsMHNxSTlkbml0UkFCVExmYS14eHlLdE9yTVBsOEpSOXMwVV9jMWkzMWsxenpxd1N",
@@ -133,11 +143,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0ZwSVBGdWtDRi1FZUY1MVR3YXpndUlaVWl1UEotc2VzdnN6WTZLbUgzZDd2aTdzbFBaX1VxV3hONlhUUkZPUjFpNUtrLUdoVkp6MkN1bzhCWDhGaFdjaDRGRFF2US1QTC1mdnM5Q3JGenpiU2d",
-   "title": "Wall Street Is Obsessing Over Every Word From Federal Reserve Chairman Kevin Warsh -- This Is the Phrase That Matters Most - fool.com",
+   "title": "Wall Street Is Obsessing Over Every Word From Federal Reserve Chairman Kevin Warsh -- This Is the Phrase That Matters Most - The Motley Fool",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0ZwSVBGdWtDRi1FZUY1MVR3YXpndUlaVWl1UEotc2VzdnN6WTZLbUgzZDd2aTdzbFBaX1VxV3hONlhUUkZPUjFpNUtrLUdoVkp6MkN1bzhCWDhGaFdjaDRGRFF2US1QTC1mdnM5Q3JGenpiU2dRVjhZV2FqRVlpeGludzhOT216SU5XUHJKVHk0TDhVX0NN?oc=5",
-   "desc": "Wall Street Is Obsessing Over Every Word From Federal Reserve Chairman Kevin Warsh -- This Is the Phrase That Matters Most  fool.com",
+   "desc": "Wall Street Is Obsessing Over Every Word From Federal Reserve Chairman Kevin Warsh -- This Is the Phrase That Matters Most  The Motley Fool",
    "source": "US Fed",
-   "publisher": "fool.com",
+   "publisher": "The Motley Fool",
    "scope": "world",
    "ts": 1786728180000
   },
@@ -282,16 +292,6 @@
    "ts": 1786705191000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUkZXRWJRcG5ubW04ZjBhdDkwOUlnN3hwMEZlQ2RqT3pURzFiWmYtcmV2WUZ5dDVxZ3RzV2l3ZEVKSXEycEY5bUhJbzJWZ2ZtZkMyV1dyRUpuZXJZS0t3dElZSl83SDhSOEJXeXIySDBLWENHLVZ",
-   "title": "Wall St Week Ahead: With Fed mum on next move, investors look to earnings to keep stocks afloat - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUkZXRWJRcG5ubW04ZjBhdDkwOUlnN3hwMEZlQ2RqT3pURzFiWmYtcmV2WUZ5dDVxZ3RzV2l3ZEVKSXEycEY5bUhJbzJWZ2ZtZkMyV1dyRUpuZXJZS0t3dElZSl83SDhSOEJXeXIySDBLWENHLVZjNE5vLTBOYmFEeGZGLXkwUlpHczNjNVJZTi1vUE5qU2M3ZmJmR0ZpbXhiSVB4cy1Tel9BQTB5VXJkRUZOc2pIazVoWFBYRldvSWJNWEotcGdsV0I1dTFoQQ?oc=5",
-   "desc": "Wall St Week Ahead: With Fed mum on next move, investors look to earnings to keep stocks afloat  Reuters",
-   "source": "US Fed",
-   "publisher": "Reuters",
-   "scope": "world",
-   "ts": 1786704122000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWDJ6RTQweDVoMzBFSFZJMkoyMHFlc05FWjdOemxTSnVYQjZjZGxLSGk5NzB2Sk5zcGh3T095RTF2OVh1YWliMEtKNkZaNWd5WW5DWVk0bWJCT3lvajE3OTg0YkNFLXBMWHhJdFp3bWtvMExySFY",
    "title": "India Steps Up Review of Closing Stock Auction as Concerns Mount - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWDJ6RTQweDVoMzBFSFZJMkoyMHFlc05FWjdOemxTSnVYQjZjZGxLSGk5NzB2Sk5zcGh3T095RTF2OVh1YWliMEtKNkZaNWd5WW5DWVk0bWJCT3lvajE3OTg0YkNFLXBMWHhJdFp3bWtvMExySFYyY0pnZEwyRm1yRE56QXZiSUFSek12MTNndHQ1aG0xcDFHdGRtVWVjWlhORGI4cHlPcC1xamgyRHZuQUpIbjNNQQ?oc=5",
@@ -403,11 +403,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWZ6d250M1Aya1ZTOFJjS1dNY0NITkVHblBFMHJoZ0RyM1VJTGt4SE01MnVUVDhkZ3FCVVFJcWV5a21SMlFVZmJPM3hRcXN6dnNPNFZ4bzBKRlpaX0dwcG9PZERPbHdPeUI1aHZUTDhOUXdRSDl",
-   "title": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh - fool.com",
+   "title": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh - The Motley Fool",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWZ6d250M1Aya1ZTOFJjS1dNY0NITkVHblBFMHJoZ0RyM1VJTGt4SE01MnVUVDhkZ3FCVVFJcWV5a21SMlFVZmJPM3hRcXN6dnNPNFZ4bzBKRlpaX0dwcG9PZERPbHdPeUI1aHZUTDhOUXdRSDlIZm0wVDNyTnlIemFiOUVIbk5YYjFkOHFpZHlRS3FFREIw?oc=5",
-   "desc": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh  fool.com",
+   "desc": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh  The Motley Fool",
    "source": "US Fed",
-   "publisher": "fool.com",
+   "publisher": "The Motley Fool",
    "scope": "world",
    "ts": 1786633200000
   },
@@ -502,16 +502,6 @@
    "ts": 1786598018000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUm1HbkhzVEZQMnM3MlRodnM0SXh1YUI5cTUxRVlSWU9OTmlIamtVcDdOOTJvckphamtrT1Qwb0JKejNvOThsNVA5WF9qOUZOZmxyWVhSbGZYa0M0NlpaZWQ4S1o1RkpDV3EwUEp0OU5qVk5feE1",
-   "title": "Asian stocks rise as US inflation data dents September Fed hike bets - wtvbam.com",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUm1HbkhzVEZQMnM3MlRodnM0SXh1YUI5cTUxRVlSWU9OTmlIamtVcDdOOTJvckphamtrT1Qwb0JKejNvOThsNVA5WF9qOUZOZmxyWVhSbGZYa0M0NlpaZWQ4S1o1RkpDV3EwUEp0OU5qVk5feE1zU2NtdTNxU1NzZnhwbHlEbjlIS2VVZFZaTi1Oa2N2bnNJckdvN29rRzYz?oc=5",
-   "desc": "Asian stocks rise as US inflation data dents September Fed hike bets  wtvbam.com",
-   "source": "US Fed",
-   "publisher": "wtvbam.com",
-   "scope": "world",
-   "ts": 1786594300000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXRrRlR3Z0NGdmM2NkhCWlQxT1FBN2dmMi1XQUhDUjB0YnlvVHNHaVVkNjNBSnFrNXhHaUhpNEd2UVNSSkFFcHllanhfdDUwLUUtb1dTUmwxdXBZc0N6QWptSlQ1c2xvMXVXZ3lxZmdfdTlfWVR",
    "title": "Sticky Inflation, Job Loss Prolong Fed’s Interest-Rate Limbo - The Daily Upside",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXRrRlR3Z0NGdmM2NkhCWlQxT1FBN2dmMi1XQUhDUjB0YnlvVHNHaVVkNjNBSnFrNXhHaUhpNEd2UVNSSkFFcHllanhfdDUwLUUtb1dTUmwxdXBZc0N6QWptSlQ1c2xvMXVXZ3lxZmdfdTlfWVRVRnBJa2FWc3NnNmpWSjUwdWVOLUZ6M1djVDd1dlFOSVVxRG9tdjhrS2FyQmFTNG1SQVZ6Nl9FRFMtUGE1SDhiUXFmdXR0X3RKOUtmM2piWko5RlhWT3RERkE?oc=5",
@@ -543,11 +533,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTXM5eXRqdXBzRm03TVRkOW1Mcnc2djNROVhmaUhtR0NXU1N0MGcwS210T2VHZHZMRmM2MGdMQ0FEQXp1b01sZ29WSDU0bW1fNlNzS1E2RWFaNThJSk5mSmJ2Unh5azBWazhpQ2VLZFVzYjNlQ3B",
-   "title": "GOP lawmaker targets Fed interest payments to banks as way to fund healthcare - thecentersquare.com",
+   "title": "GOP lawmaker targets Fed interest payments to banks as way to fund healthcare - The Center Square",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTXM5eXRqdXBzRm03TVRkOW1Mcnc2djNROVhmaUhtR0NXU1N0MGcwS210T2VHZHZMRmM2MGdMQ0FEQXp1b01sZ29WSDU0bW1fNlNzS1E2RWFaNThJSk5mSmJ2Unh5azBWazhpQ2VLZFVzYjNlQ3BJdlZsek14Y24zel9BVVExOFUtS19xS09ZRTRkc09y0gGaAUFVX3lxTFBvOEp3ZzBBUDc4cGQ0ZC1uSDlSalZmbWFzZzlmUmtfdXBfaUhDS0NJX0xtbEZ4NC0zVDVoUnlQNXJ4S2IxU2dTMm8ycW5VNVV3WEFaUVJ2UUxDRUEwaFhBaWJLcFBNM3NOajJxaEFpbl96eXp4MWp3WXlzNGlfMUYweWZucXU1dy05dm9fZ3ktMF82SHNWRHRTTHc?oc=5",
-   "desc": "GOP lawmaker targets Fed interest payments to banks as way to fund healthcare  thecentersquare.com",
+   "desc": "GOP lawmaker targets Fed interest payments to banks as way to fund healthcare  The Center Square",
    "source": "US Fed",
-   "publisher": "thecentersquare.com",
+   "publisher": "The Center Square",
    "scope": "world",
    "ts": 1786569840000
   },
@@ -1002,16 +992,6 @@
    "ts": 1786120004000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFbE1aMVIzY25XMTFjUFJndGVvd0xpNFVRQjVHcW1Qa1VOYTJHWUpuUE0zYXVSTWprUWFOMFJPYnRabi1idm1kOGNNbzJQV0hqbnV3YktBZlduLS16R1dJa1p1R1dFN3FZcU1OMVhB?oc=5",
-   "title": "SEBI Clears IPOs Of Rediff, PlaySimple - Inc42",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFbE1aMVIzY25XMTFjUFJndGVvd0xpNFVRQjVHcW1Qa1VOYTJHWUpuUE0zYXVSTWprUWFOMFJPYnRabi1idm1kOGNNbzJQV0hqbnV3YktBZlduLS16R1dJa1p1R1dFN3FZcU1OMVhB?oc=5",
-   "desc": "SEBI Clears IPOs Of Rediff, PlaySimple  Inc42",
-   "source": "SEBI",
-   "publisher": "Inc42",
-   "scope": "india",
-   "ts": 1786112683000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVXpVWnhLSW9ZVTM0V0ZZLXBoNm5xSUFfS3RvZERyT2hyTjhYSTZOcVVtMWN6MURWSWtoZ2loM3ZrUWhpcXR6T2ZneUNoXzBZSFk0dXA2NEdJaDRfNW1oUC1YNDFXQ00zWlZ1V2tNS0daRzQtRDR",
    "title": "MSME business confidence declines for fourth straight quarter, cost and demand pressures weigh: SIDBI - indiagazette.com",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVXpVWnhLSW9ZVTM0V0ZZLXBoNm5xSUFfS3RvZERyT2hyTjhYSTZOcVVtMWN6MURWSWtoZ2loM3ZrUWhpcXR6T2ZneUNoXzBZSFk0dXA2NEdJaDRfNW1oUC1YNDFXQ00zWlZ1V2tNS0daRzQtRDRBdDI2bnl2UXBoM3gtMWZoMjFmUHBvU0NzUmtydm9rVm5kZEpBUDZseDNaV24xelo4STVaN3Q2V3prYXBoNFh6MjRUeVMyWm1acDQ4Wml4U294R3NpVjEyWUZoWEp3VHlPc003a1k?oc=5",
@@ -1050,6 +1030,16 @@
    "publisher": "CBS News",
    "scope": "world",
    "ts": 1786086000000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xT01nQWl1aHJta0hCTGZ2clp1amtfTC1JY3QyM3N3RUwydWlQVEoyNE9jOExRckZpTHB1OGhjN1g3dHc2YnhSYkQ0al8zSXlQN1hUOVNqSURpUHF4Vk9mMlZ4VkltczVtUnQzU1lfNFljVW1MeXJ",
+   "title": "Sebi to simplify rules, ramp up technology use - PressReader",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xT01nQWl1aHJta0hCTGZ2clp1amtfTC1JY3QyM3N3RUwydWlQVEoyNE9jOExRckZpTHB1OGhjN1g3dHc2YnhSYkQ0al8zSXlQN1hUOVNqSURpUHF4Vk9mMlZ4VkltczVtUnQzU1lfNFljVW1MeXJFUU55QQ?oc=5",
+   "desc": "Sebi to simplify rules, ramp up technology use  PressReader",
+   "source": "SEBI",
+   "publisher": "PressReader",
+   "scope": "india",
+   "ts": 1786067914000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUFZNzdTQ3JlYWM0d3pPR091S2FJTUZIYlEtN18zVGkzT1JidHF4bktKVHFGUDl4TGdZdVhQWUY3U3l1bGMzSU83eDZmUm5GaWFUb29EWnBLYVNQSEg2TTZZSDBaV0RCZ2V6dldpdXZMTHZ5R2Q",
@@ -1198,6 +1188,16 @@
    "desc": "Why RBI kept repo rate unchanged at 5.25% despite inflation concerns  The Indian Express",
    "source": "RBI",
    "publisher": "The Indian Express",
+   "scope": "india",
+   "ts": 1785913200000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeXpPbnFPUkhLc1poTHJKdHB4SS12U2ZuNVE2UUwyQUptbjUwS3VFOFQ1eTRndWh2ZDhtTjBwbjlsYW9ldW5Zb19ZMG5vM3lGSUZDZXFJcGMwbnkwQTRSc0JHVUIyS1hlVFBqaWtqUDRZRFdVMnR",
+   "title": "RBI MPC meeting: Repo rate maintained at 5.25%; 5 key highlights from August policy meeting - livemint.com",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeXpPbnFPUkhLc1poTHJKdHB4SS12U2ZuNVE2UUwyQUptbjUwS3VFOFQ1eTRndWh2ZDhtTjBwbjlsYW9ldW5Zb19ZMG5vM3lGSUZDZXFJcGMwbnkwQTRSc0JHVUIyS1hlVFBqaWtqUDRZRFdVMnR0eENwM0hfczg2Y3A1UjJsV044SEVfNWFrcVNKNlpFR3NXRTRRdXlUUE5UV1habnoteVpiMGsycHlxNURZeDhkTGJOQnZQRmEtdWVJNXlqcUF6cE5KMTR6RW1TWVRnNDd5MzhLOFdlTW4zUjF0XzkyU1gyOTNTN0hiMTN2bDTSAfgBQVVfeXFMTlV2aUNUVzVTSVZxMEF0aE1xU2dJVzRCX2c4SkY1TmJ1NDlVTVFwVTcxSnU1VzZJRHlzTHNVZEdDTm5IQi1QMTZZS2RXSERLWTNyb3BYRjhtRVBvSC1BTkJoM1ZQaVdWWVFzMzFjUzJSTjJMUGZTbU9FUmpMbkYtWHlJaWo4SVlxLW1GcFMtRE5zQ2dwUG9UZy1pNFlrZmZQM2M5M1pWYmpLb1ZZbzF0TmRraUE4bGZLVWtkWXBqSjlOaXJidXJpTk1KbWh5UExLTVNKdXFhMG11VWJBSW9YRTAyZ2hackEwUU9IQzZLeGg0ZTZYZG1VdWw?oc=5",
+   "desc": "RBI MPC meeting: Repo rate maintained at 5.25%; 5 key highlights from August policy meeting  livemint.com",
+   "source": "RBI",
+   "publisher": "livemint.com",
    "scope": "india",
    "ts": 1785913200000
   }
