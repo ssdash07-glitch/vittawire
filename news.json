@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T11:28:19.609617+00:00",
+ "updated": "2026-08-16T11:55:09.654118+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDF3cjFrdXdSSHNPNjZnRGo1U1RMMVFXUXkzck9RRHBMX21aWS1NS2owYlhYNW1yWkx6ZUhJZ3dkMGdaTklYRHJseXJJWWFwQUlrTWVnTW9UTTFNd1dMRHlCVDdfSy1NalFtb1FNY1MtUVhnNUl",
@@ -10,6 +10,16 @@
    "publisher": "Financial Times",
    "scope": "world",
    "ts": 1786878002000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSU9YbEFjOXNoMUFhVWtVbnNXZm9RZWhabFRuaWRBSTVjRzVqWXhSeE1hV2xRMzZkSmhvNWNYcnNaamtRcU54WG5CS2IxMlNDLURrbnpXVkVCUDZHRUVUZ0E5N2lSMjRFd2RhZWJINWw2RmVIWUs",
+   "title": "Warsh Rate-Hike Trade Collapses, Trump's Tariffs Create Trade Fraud Incentive and More: This Week in Economy - tradingview.com",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSU9YbEFjOXNoMUFhVWtVbnNXZm9RZWhabFRuaWRBSTVjRzVqWXhSeE1hV2xRMzZkSmhvNWNYcnNaamtRcU54WG5CS2IxMlNDLURrbnpXVkVCUDZHRUVUZ0E5N2lSMjRFd2RhZWJINWw2RmVIWUstY3pJTVlBY2xCRWJXT2ZKTXNEMUh6WVBKMjlfSW9JSl9zNTVXWkZXT1B5b3NxVG04bU1VUnhmdlQybjBFalJnM3RIWVg1S0hqY2s1TW85UmYwTWpkSnFhTWEzNTZQanRvMHViUlVFNlo3U3pQWU1wbmpQRmM3TXpYMGV2RWJzODEyNg?oc=5",
+   "desc": "Warsh Rate-Hike Trade Collapses, Trump's Tariffs Create Trade Fraud Incentive and More: This Week in Economy  tradingview.com",
+   "source": "US Fed",
+   "publisher": "tradingview.com",
+   "scope": "world",
+   "ts": 1786874465000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX2VGWVJPUTV0MVZ1Y1d5ck1yRF81WERSakRpLXFXSTlzUHNKazZJRHFaaE9YTlBfbkdFS2VBWlBacDNwSHNHS2I1dTB1V1I5N3M5ZVItSkc3dHVlOUl3UHBCczl2WWxmalRZcENSN1lkakMtaWZ",
@@ -63,11 +73,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOazZpa3hHVzJNakZ4M2g1SGdZS3ZieVh4WE4wZTJIMXpWN0V1WkdiVDZhb3BrUDZ3WVQzUFBXR0JTOTBBb2hiQVdUakYzRmVKX0Job1NDTXQ2dG13RHpRVjd4Z2Y0TVJzRTNwRktMaXhsbldyNEl",
-   "title": "RBI Moves To Tighten Loan Rate Rules, Pushes For Clearer Link Between Policy Rates, EMIs - BW Businessworld",
+   "title": "RBI Moves To Tighten Loan Rate Rules, Pushes For Clearer Link Between Policy Rates, EMIs - businessworld.in",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOazZpa3hHVzJNakZ4M2g1SGdZS3ZieVh4WE4wZTJIMXpWN0V1WkdiVDZhb3BrUDZ3WVQzUFBXR0JTOTBBb2hiQVdUakYzRmVKX0Job1NDTXQ2dG13RHpRVjd4Z2Y0TVJzRTNwRktMaXhsbldyNElBWVZ5QmFMb05IU0ozMkFsMUozOGdvbWxzbU54WU5zbFBjSFhTUnIzOWM4LVpJNzQ2MHFpYVUwb2ZETTNSbnYxaFlsMXZ0QWtOcGR2cVdPZkpzemxB?oc=5",
-   "desc": "RBI Moves To Tighten Loan Rate Rules, Pushes For Clearer Link Between Policy Rates, EMIs  BW Businessworld",
+   "desc": "RBI Moves To Tighten Loan Rate Rules, Pushes For Clearer Link Between Policy Rates, EMIs  businessworld.in",
    "source": "RBI",
-   "publisher": "BW Businessworld",
+   "publisher": "businessworld.in",
    "scope": "india",
    "ts": 1786792131000
   },
@@ -100,16 +110,6 @@
    "publisher": "Japan Economy Watch",
    "scope": "world",
    "ts": 1786744692000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSi1GNDVKYnlNQ3NtWHVwbGUyajVnaFpNNVJDcEFrODd3MEN4a3pCVzhwbjhDTUJOQzIxYk9iQW5QYVotbGNVR3dEeF9XQ1lnQVF1RFhIbFVncEpSeFlpNlhKODQzanFJblprWWVFODduWjJvMlZ",
-   "title": "Why Government Debt Doesn’t Always Mean Higher Interest Rates - Fort Worth Inc.",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSi1GNDVKYnlNQ3NtWHVwbGUyajVnaFpNNVJDcEFrODd3MEN4a3pCVzhwbjhDTUJOQzIxYk9iQW5QYVotbGNVR3dEeF9XQ1lnQVF1RFhIbFVncEpSeFlpNlhKODQzanFJblprWWVFODduWjJvMlZELXhJN0lIeFRaNWNPZFV2bzdORkFya3Z5UFdEdEVTaHBaYm5BRUdrVHpW?oc=5",
-   "desc": "Why Government Debt Doesn’t Always Mean Higher Interest Rates  Fort Worth Inc.",
-   "source": "US Fed",
-   "publisher": "Fort Worth Inc.",
-   "scope": "world",
-   "ts": 1786739885000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQczg5WWZUNFVkRG0wWHZKSXdaZ2ZEa056Y1ExRG5lMjRmZURlS0ZqYXlDSE5HLUg4eHZZUmlRMkVTZ2ZZb2x1WHI4cW5vZjF3OXRzbVhHRS1KQ0UyMURGTHpqd0JvbmpncGp4ZktwN2djRW5UX09",
@@ -153,11 +153,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHRHVk1kbERfZG14am9PVy1HQkJBU3R5ZTBVLVp6VjBLQS1MLWs0QS0xOG4xTC1pcnY5ZXd6cXFESUg5UmxGLUZHcjBhbzYySWFtNGo1SkpqdGxsQUh2NDZyUlZGTzNHdjh3QUlYQy16UVplOUx",
-   "title": "Week Ahead for FX, Bonds: Fed Minutes, China Data in Focus - WSJ",
+   "title": "Week Ahead for FX, Bonds: Fed Minutes, China Data in Focus - wsj.com",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHRHVk1kbERfZG14am9PVy1HQkJBU3R5ZTBVLVp6VjBLQS1MLWs0QS0xOG4xTC1pcnY5ZXd6cXFESUg5UmxGLUZHcjBhbzYySWFtNGo1SkpqdGxsQUh2NDZyUlZGTzNHdjh3QUlYQy16UVplOUxlMjVGVl9wMXFsWC1lZWJMaElxdWZuNHZYNU53Yy1VNG84?oc=5",
-   "desc": "Week Ahead for FX, Bonds: Fed Minutes, China Data in Focus  WSJ",
+   "desc": "Week Ahead for FX, Bonds: Fed Minutes, China Data in Focus  wsj.com",
    "source": "US Fed",
-   "publisher": "WSJ",
+   "publisher": "wsj.com",
    "scope": "world",
    "ts": 1786723080000
   },
@@ -253,11 +253,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZlBkSnI5T2VhTFlqMURkS25rdTBTQVlaLUZGaFZYVTB4ZndUeUlfYXVaNFVOQkN1ZnY1c3V5Vk1BOHVUa0VzYWU0Y2hMRmdBSUkydm5CYkd0cHRNMjNuQXNvdjg4em01cUswTGt1YXdkVzVVSHl",
-   "title": "India sees sharp expansion in retail, MSME credit access since 2021 - business-standard.com",
+   "title": "India sees sharp expansion in retail, MSME credit access since 2021 - Business Standard",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZlBkSnI5T2VhTFlqMURkS25rdTBTQVlaLUZGaFZYVTB4ZndUeUlfYXVaNFVOQkN1ZnY1c3V5Vk1BOHVUa0VzYWU0Y2hMRmdBSUkydm5CYkd0cHRNMjNuQXNvdjg4em01cUswTGt1YXdkVzVVSHlyZ1h4WUhmd0IyUmlYaXpvWERBckQyZ2FqMmtLQWhodEZmNnVYVHlpbFI2dkh0WUYteWdwbzlfblJBSldfMl9vcUpFWWM1bEREb2VpQjE2elBnLW8tUHpLQdIB0wFBVV95cUxOYlNYTFNvWTJVTFpCYW1SSjBna1R5OFR4Vzk2SGF1ZDFaRjU0dUNXN05OU0xrVDU1Ym02ZGpjcTdaSEtQVzZzaENubkJ5WjlQOFRiMUF4LUVOb0V1X2RMVzhSSFg1YS12YnAyY0U3dFpkSlliN3lld1g4LVdrTUg4aWFhVWQ4Nmpva0lPUktVMklWU084N3dWSzJKaVRmYlY0RjFCRDlqZ2tPQ3hSYzZfNzktTnB2ZWtidmxOUmltX040WXpIcm9YVzhFRjczLVpFZGZr?oc=5",
-   "desc": "India sees sharp expansion in retail, MSME credit access since 2021  business-standard.com",
+   "desc": "India sees sharp expansion in retail, MSME credit access since 2021  Business Standard",
    "source": "SIDBI / MSME",
-   "publisher": "business-standard.com",
+   "publisher": "Business Standard",
    "scope": "india",
    "ts": 1786711100000
   },
@@ -273,11 +273,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU0hXQTd5eUtkaDZkRVVocFZnLTUyX2NJbko3TFo3QVlBSjdBRURNWXdNOVJCSF9vaVdMMGhIXzVTN2R6bm9SeVdqdktha0dFX3AyNC1OTGQyU2I4SFppYTBVOXVCM3VBSk1lTlU5U2QtT3VzRm9",
-   "title": "Kotak Flags Pressure On Prime HFCs From Proposed RBI Rules - BW Businessworld",
+   "title": "Kotak Flags Pressure On Prime HFCs From Proposed RBI Rules - businessworld.in",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU0hXQTd5eUtkaDZkRVVocFZnLTUyX2NJbko3TFo3QVlBSjdBRURNWXdNOVJCSF9vaVdMMGhIXzVTN2R6bm9SeVdqdktha0dFX3AyNC1OTGQyU2I4SFppYTBVOXVCM3VBSk1lTlU5U2QtT3VzRm9LbG9nQm5qVjBOZDVzZFJGR3NHUlU0SkxUVVloaHFjb0FUNEU1WWJMOGczTHdjMA?oc=5",
-   "desc": "Kotak Flags Pressure On Prime HFCs From Proposed RBI Rules  BW Businessworld",
+   "desc": "Kotak Flags Pressure On Prime HFCs From Proposed RBI Rules  businessworld.in",
    "source": "RBI",
-   "publisher": "BW Businessworld",
+   "publisher": "businessworld.in",
    "scope": "india",
    "ts": 1786709572000
   },
@@ -563,11 +563,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHltVjVQNmxJOGZNYnNaT2JzaldqZHFjWlNxV1pvWTE3ekRKVFVLWkZmakZ4VWRlc0dMdlNNWEJpZTJldVZUeG5BVG5Nb2JUd1A0WExqZkZjTG9aaURWVUVUekdXczJVX0dHQXdOUGhsd3FtbnN",
-   "title": "Fed seen sticking to policy-rate hold, for now, as inflation eases again - virginiabusiness.com",
+   "title": "Fed seen sticking to policy-rate hold, for now, as inflation eases again - Virginia Business",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHltVjVQNmxJOGZNYnNaT2JzaldqZHFjWlNxV1pvWTE3ekRKVFVLWkZmakZ4VWRlc0dMdlNNWEJpZTJldVZUeG5BVG5Nb2JUd1A0WExqZkZjTG9aaURWVUVUekdXczJVX0dHQXdOUGhsd3FtbnNSdEc5ZkY2Nm50aXlGVQ?oc=5",
-   "desc": "Fed seen sticking to policy-rate hold, for now, as inflation eases again  virginiabusiness.com",
+   "desc": "Fed seen sticking to policy-rate hold, for now, as inflation eases again  Virginia Business",
    "source": "US Fed",
-   "publisher": "virginiabusiness.com",
+   "publisher": "Virginia Business",
    "scope": "world",
    "ts": 1786559560000
   },
@@ -593,11 +593,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEhfYzhqTzJnQmFwQl8wRTNGYVBKR2hoN1hjNEU5T0h6QzROQ2ZNNjhqVmEybnp4YlBJako5X2JkbWl2RnZyblBkaFlwM0o4YUJyOXJWY0EzMTl2S2tYVGU1TmkxWmpwZjZURUdHU0VxV2RnXzZ",
-   "title": "In-Line Inflation Reading Buys the Fed More Time to Defend Its Forecast - WSJ",
+   "title": "In-Line Inflation Reading Buys the Fed More Time to Defend Its Forecast - wsj.com",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEhfYzhqTzJnQmFwQl8wRTNGYVBKR2hoN1hjNEU5T0h6QzROQ2ZNNjhqVmEybnp4YlBJako5X2JkbWl2RnZyblBkaFlwM0o4YUJyOXJWY0EzMTl2S2tYVGU1TmkxWmpwZjZURUdHU0VxV2RnXzZwWERwUEFkZXpPODRzbndPSHA0MnB1T0lCVGREdWF6eEVnQg?oc=5",
-   "desc": "In-Line Inflation Reading Buys the Fed More Time to Defend Its Forecast  WSJ",
+   "desc": "In-Line Inflation Reading Buys the Fed More Time to Defend Its Forecast  wsj.com",
    "source": "US Fed",
-   "publisher": "WSJ",
+   "publisher": "wsj.com",
    "scope": "world",
    "ts": 1786550160000
   },
@@ -723,11 +723,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSmRud3VHaTZrSjQ1MklQd1Q0MmtSRkFHajhSZ1Q3dnhjYTFIazl6QThlcmVlajEzd3pMRVJZLWNIVzlQdGg4LVRXZVFPeEx5WFZ3b2Zxam8ydDFIak1wY1pwdUtpQ0U2RDRtZjRGUlF2eXFCbW9",
-   "title": "Sebi looks to ease position-limit, margin norms in commodity markets - business-standard.com",
+   "title": "Sebi looks to ease position-limit, margin norms in commodity markets - Business Standard",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSmRud3VHaTZrSjQ1MklQd1Q0MmtSRkFHajhSZ1Q3dnhjYTFIazl6QThlcmVlajEzd3pMRVJZLWNIVzlQdGg4LVRXZVFPeEx5WFZ3b2Zxam8ydDFIak1wY1pwdUtpQ0U2RDRtZjRGUlF2eXFCbW90RGhLX1JqXzA1U0NtdGE3Mld4eWhtVHpmOEFtN0x6Qmg5dE40TVVjamtKQnFTMC1OMk1Qckdwd29ObnpnNXBxSDI5WFgwV1ZQQjM3dWx1Qy03aWplTklsVEnSAdQBQVVfeXFMTkFjVklRM3RZaGlOT1pWa2dxQTgxUUNUM2FsNjZhV2RlNm0zS0ZvTlpLQk8tU2dlVXpoTWJWbmhCQm03cllBdkdqZlFwQnJBMWo1ZUwtYTVyZ2RjajJhd1E1aXZhQW5jNHEzUjRGSWttNjVScEVFWW05VThWWTlSU2lmaVVmWnJnRzFmLVFvQ3JVZkZxek5kQUpzbURxMzk3aW0yTFh3ZV8teF93VFo2aEtLUjBfTE9tQlBfR1F5MTNwbDlUZFdsbnRKQ1BuM2JPOWY2MXM?oc=5",
-   "desc": "Sebi looks to ease position-limit, margin norms in commodity markets  business-standard.com",
+   "desc": "Sebi looks to ease position-limit, margin norms in commodity markets  Business Standard",
    "source": "SEBI",
-   "publisher": "business-standard.com",
+   "publisher": "Business Standard",
    "scope": "india",
    "ts": 1786517047000
   },
@@ -963,11 +963,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZmkySXk2eHpRSXJIR0hySnJ4ZmJKbWMxZXd1UUZ0MUs1Zi1mLUc3eUlLY3FBaWJYVGg3NUp0WTJZYlRCdmM4Y3YxUGRKbXZRbGl6LVE3QVd2d3RPUHhsX1I2Z3hmMkpQT3Z1YzRuT21LczlRc19",
-   "title": "NABARD celebrates 45th foundation day: Four decades of partnership for a resilient and prosperous rural Arunachal - The Arunachal Times",
+   "title": "NABARD celebrates 45th foundation day: Four decades of partnership for a resilient and prosperous rural Arunachal - arunachaltimes.in",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZmkySXk2eHpRSXJIR0hySnJ4ZmJKbWMxZXd1UUZ0MUs1Zi1mLUc3eUlLY3FBaWJYVGg3NUp0WTJZYlRCdmM4Y3YxUGRKbXZRbGl6LVE3QVd2d3RPUHhsX1I2Z3hmMkpQT3Z1YzRuT21LczlRc190eXBMV055Y05mc0l2TGhwTWVURG1nbkhER0FkNnUyM25xU1lfdHZidzBxWTEtSWNkbkRmUWhfb09MbnF2NkVKNTdUZ292Y0JjMlNWVmhCcXlsaVpTdnAtSHRPOTVabkZ6OUIzaDJ6ZTNN?oc=5",
-   "desc": "NABARD celebrates 45th foundation day: Four decades of partnership for a resilient and prosperous rural Arunachal  The Arunachal Times",
+   "desc": "NABARD celebrates 45th foundation day: Four decades of partnership for a resilient and prosperous rural Arunachal  arunachaltimes.in",
    "source": "NABARD",
-   "publisher": "The Arunachal Times",
+   "publisher": "arunachaltimes.in",
    "scope": "india",
    "ts": 1786133652000
   },
@@ -1022,16 +1022,6 @@
    "ts": 1786086000000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGlfRFJGZVFNcUdSMmNxRllHQ21uQktCUXczNGZxSk9wb0d0ZzdYS0tNU0I0R0t1VncxNldqcHhMV2Q2N1pEQThwWGdkd012SjdlRXZmaGJvSF8yeUY0a1ozdlJFaUk5c25uQkNYVmw4eGxRTTV",
-   "title": "State Bank Of India Posts Q1 Standalone Net Profit Of 212B Rupees - Sahi",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGlfRFJGZVFNcUdSMmNxRllHQ21uQktCUXczNGZxSk9wb0d0ZzdYS0tNU0I0R0t1VncxNldqcHhMV2Q2N1pEQThwWGdkd012SjdlRXZmaGJvSF8yeUY0a1ozdlJFaUk5c25uQkNYVmw4eGxRTTVpYTJjdV95MzBHRWNSOWd6d2lHa3NmYUo1aFRsbVdqamtINEFNblRia05SdnQ2YTRNQQ?oc=5",
-   "desc": "State Bank Of India Posts Q1 Standalone Net Profit Of 212B Rupees  Sahi",
-   "source": "Indian Banking",
-   "publisher": "Sahi",
-   "scope": "india",
-   "ts": 1786086000000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkV3WmFpUmlEQlBFQ2hBNzk2eUx2d3RSZjlTT044WXc3Rjl5Mm53SmJqdnZFTHRPVmF2VFlKTUdQZjQ2LXdTU01TS0c5VDJBWjFrNnQwVHc4QnVidzgtSVFiYzZlc19fcXlyUVEzMk1lWHdmUkg",
    "title": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say. - CBS News",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkV3WmFpUmlEQlBFQ2hBNzk2eUx2d3RSZjlTT044WXc3Rjl5Mm53SmJqdnZFTHRPVmF2VFlKTUdQZjQ2LXdTU01TS0c5VDJBWjFrNnQwVHc4QnVidzgtSVFiYzZlc19fcXlyUVEzMk1lWHdmUkg5c2VTT2JJbnQtNDh2NFlGQmtUMU1TM1NIOXpYU0lCVTYxNA?oc=5",
@@ -1040,16 +1030,6 @@
    "publisher": "CBS News",
    "scope": "world",
    "ts": 1786086000000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xT01nQWl1aHJta0hCTGZ2clp1amtfTC1JY3QyM3N3RUwydWlQVEoyNE9jOExRckZpTHB1OGhjN1g3dHc2YnhSYkQ0al8zSXlQN1hUOVNqSURpUHF4Vk9mMlZ4VkltczVtUnQzU1lfNFljVW1MeXJ",
-   "title": "Sebi to simplify rules, ramp up technology use - PressReader",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xT01nQWl1aHJta0hCTGZ2clp1amtfTC1JY3QyM3N3RUwydWlQVEoyNE9jOExRckZpTHB1OGhjN1g3dHc2YnhSYkQ0al8zSXlQN1hUOVNqSURpUHF4Vk9mMlZ4VkltczVtUnQzU1lfNFljVW1MeXJFUU55QQ?oc=5",
-   "desc": "Sebi to simplify rules, ramp up technology use  PressReader",
-   "source": "SEBI",
-   "publisher": "PressReader",
-   "scope": "india",
-   "ts": 1786067914000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUFZNzdTQ3JlYWM0d3pPR091S2FJTUZIYlEtN18zVGkzT1JidHF4bktKVHFGUDl4TGdZdVhQWUY3U3l1bGMzSU83eDZmUm5GaWFUb29EWnBLYVNQSEg2TTZZSDBaV0RCZ2V6dldpdXZMTHZ5R2Q",
@@ -1133,11 +1113,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN3pmX0xxdTl3dG9rcURQVU1jcTVnUUFQQ3ZObUtWV2c0Wi1UWnFqU29yZ3ZaVFNGLUtlSk04OERWUFFManhWak9kdHhITFhvaThxMWQ3NjVYS0NiRW5kb2N4MUNDZGY2X2xaY0liZVQ3ZlV5cEt",
-   "title": "RBI’s policy decision effectively rules out interest rate hike in FY27 amid benign inflation outlook: Experts - PSU Watch",
+   "title": "RBI’s policy decision effectively rules out interest rate hike in FY27 amid benign inflation outlook: Experts - psuwatch.com",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN3pmX0xxdTl3dG9rcURQVU1jcTVnUUFQQ3ZObUtWV2c0Wi1UWnFqU29yZ3ZaVFNGLUtlSk04OERWUFFManhWak9kdHhITFhvaThxMWQ3NjVYS0NiRW5kb2N4MUNDZGY2X2xaY0liZVQ3ZlV5cEtuaTZ4Q29SX0xPNHdSZXhDaGdPLS1EQW82VlVzM1VWMUZVQkJRUjV2cjJ5dkhuQWY3SE41WkRHMndQNE1RLTY0QkhyaVR5RlY5dVlSb3oxYmh2Z2RybHE2ZTlwRFBXeDFaY9IB5AFBVV95cUxOTGE4b19mX1kyamJHcXNUdTM1UktnbmR6bm1jVmpZM0JidWJMTE16alNSS0c5LVllSE9iOUJfOGd5RWRFaWFwYWh0NnpKTGlVSGJuTnJvd3VCRXd0Sk9IU0Vaa1lqeThvVE1Ra0YwQ3VLaElQWl9UZDhSLUMzOHp6NE9DdzRXM2tabUJpQWM0Q0NxYkt5Njd1WXNGdi1qR0cyaDRRZ3lza2xtUl92Mk1FQnF6bENRdm5WOE5lQ01XV09fcDMzU0dqbUQ1bzNSUUtkandYLThtZ3lQSDhkLUYxUTVyb04?oc=5",
-   "desc": "RBI’s policy decision effectively rules out interest rate hike in FY27 amid benign inflation outlook: Experts  PSU Watch",
+   "desc": "RBI’s policy decision effectively rules out interest rate hike in FY27 amid benign inflation outlook: Experts  psuwatch.com",
    "source": "RBI",
-   "publisher": "PSU Watch",
+   "publisher": "psuwatch.com",
    "scope": "india",
    "ts": 1785947307000
   },
@@ -1173,21 +1153,21 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWU92TS1mWFVTT0FVVGJyZUo5eFRDWTNobGlocGUzalA3T240X3ZockhuU0NGbU9TaFhRdTFGYkNOLWpqOGVLR1hhS08yM2MtRGpEcTFZRkpJMXQ2aUczVTFCTS1XbGlhSGFMUUxFQXh6OUJhcHR",
-   "title": "RBI MPC Meeting 2026: RBI Keeps Repo Rate Steady At 5.25% Amid US-Iran War - ndtv.com",
+   "title": "RBI MPC Meeting 2026: RBI Keeps Repo Rate Steady At 5.25% Amid US-Iran War - NDTV",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWU92TS1mWFVTT0FVVGJyZUo5eFRDWTNobGlocGUzalA3T240X3ZockhuU0NGbU9TaFhRdTFGYkNOLWpqOGVLR1hhS08yM2MtRGpEcTFZRkpJMXQ2aUczVTFCTS1XbGlhSGFMUUxFQXh6OUJhcHRGRjk4b0FLYVg1TzZUQ1hEdU1UWE4tclBrZlh6LVc1RVBxUDZTcmgzYW9wZlBadEFCVW5ZODZjVGJGRFhiX29SSVBSWF9XOFV0T1RWTDBJZ3M5MFE4SEZBWVRHNFRfZS1jNlBKLTdDOFZDNVBnMElFQdIB7gFBVV95cUxOQzN2Ul9LYThPRDFWelZGbkZTRUwxa1ZRbEk4SWN4Yk52bkV1X1BCbUJXeDJXM1RmUXRQZmU1N2VBMzdTQ3dDc05Rdzh3bnNxMURRZnRDQk5pZERJRTR2QWdqMnhJNXdOaHpiQXdVaUtpam5vaW5mS1dOQUJ0SllNRlU1QlVBdnA2NGFQWHgtLXRuaGpibHhjaXlVcXB4YTlLR3lPVlRQZXQzSVY3WWRGU2tDSllsT3REQzVVQkpjUjNOZ2dZcVlaU2w3V1hIVmVIRXd2TGFwRjJUMW1XaVVsTDBnVjMwYVQ1MVVKR1lR?oc=5",
-   "desc": "RBI MPC Meeting 2026: RBI Keeps Repo Rate Steady At 5.25% Amid US-Iran War  ndtv.com",
+   "desc": "RBI MPC Meeting 2026: RBI Keeps Repo Rate Steady At 5.25% Amid US-Iran War  NDTV",
    "source": "RBI",
-   "publisher": "ndtv.com",
+   "publisher": "NDTV",
    "scope": "india",
    "ts": 1785913200000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0h6N3VUVk5NZU9ONWtaa2g5RThpbEp4SUxydVZxdktNQkQyWlhLUnY5LVFIcnhTbk51azJnc0lRMlNXT2owdDdBNlRpUDZVa1hub1VGV0M5RTlLdV9fVHFTV2dYeHR3N3QtVHoxRmFFTHM3a3I",
-   "title": "RBI keeps repo rate unchanged at 5.25% | Monetary Policy Committee | UPSC | Explained - manoramayearbook.in",
+   "title": "RBI keeps repo rate unchanged at 5.25% | Monetary Policy Committee | UPSC | Explained - Manorama Yearbook",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0h6N3VUVk5NZU9ONWtaa2g5RThpbEp4SUxydVZxdktNQkQyWlhLUnY5LVFIcnhTbk51azJnc0lRMlNXT2owdDdBNlRpUDZVa1hub1VGV0M5RTlLdV9fVHFTV2dYeHR3N3QtVHoxRmFFTHM3a3I2Y0hwT1hLQlBMeDlEeVBicEI4QkpxaXdvbGJDYVJ3Rkg0M3V5UVZWWl9NUXBlWGxRU3F6dXBnbEE?oc=5",
-   "desc": "RBI keeps repo rate unchanged at 5.25% | Monetary Policy Committee | UPSC | Explained  manoramayearbook.in",
+   "desc": "RBI keeps repo rate unchanged at 5.25% | Monetary Policy Committee | UPSC | Explained  Manorama Yearbook",
    "source": "RBI",
-   "publisher": "manoramayearbook.in",
+   "publisher": "Manorama Yearbook",
    "scope": "india",
    "ts": 1785913200000
   },
@@ -1198,6 +1178,26 @@
    "desc": "Why RBI kept repo rate unchanged at 5.25% despite inflation concerns  The Indian Express",
    "source": "RBI",
    "publisher": "The Indian Express",
+   "scope": "india",
+   "ts": 1785913200000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeXpPbnFPUkhLc1poTHJKdHB4SS12U2ZuNVE2UUwyQUptbjUwS3VFOFQ1eTRndWh2ZDhtTjBwbjlsYW9ldW5Zb19ZMG5vM3lGSUZDZXFJcGMwbnkwQTRSc0JHVUIyS1hlVFBqaWtqUDRZRFdVMnR",
+   "title": "RBI MPC meeting: Repo rate maintained at 5.25%; 5 key highlights from August policy meeting - livemint.com",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeXpPbnFPUkhLc1poTHJKdHB4SS12U2ZuNVE2UUwyQUptbjUwS3VFOFQ1eTRndWh2ZDhtTjBwbjlsYW9ldW5Zb19ZMG5vM3lGSUZDZXFJcGMwbnkwQTRSc0JHVUIyS1hlVFBqaWtqUDRZRFdVMnR0eENwM0hfczg2Y3A1UjJsV044SEVfNWFrcVNKNlpFR3NXRTRRdXlUUE5UV1habnoteVpiMGsycHlxNURZeDhkTGJOQnZQRmEtdWVJNXlqcUF6cE5KMTR6RW1TWVRnNDd5MzhLOFdlTW4zUjF0XzkyU1gyOTNTN0hiMTN2bDTSAfgBQVVfeXFMTlV2aUNUVzVTSVZxMEF0aE1xU2dJVzRCX2c4SkY1TmJ1NDlVTVFwVTcxSnU1VzZJRHlzTHNVZEdDTm5IQi1QMTZZS2RXSERLWTNyb3BYRjhtRVBvSC1BTkJoM1ZQaVdWWVFzMzFjUzJSTjJMUGZTbU9FUmpMbkYtWHlJaWo4SVlxLW1GcFMtRE5zQ2dwUG9UZy1pNFlrZmZQM2M5M1pWYmpLb1ZZbzF0TmRraUE4bGZLVWtkWXBqSjlOaXJidXJpTk1KbWh5UExLTVNKdXFhMG11VWJBSW9YRTAyZ2hackEwUU9IQzZLeGg0ZTZYZG1VdWw?oc=5",
+   "desc": "RBI MPC meeting: Repo rate maintained at 5.25%; 5 key highlights from August policy meeting  livemint.com",
+   "source": "RBI",
+   "publisher": "livemint.com",
+   "scope": "india",
+   "ts": 1785913200000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObmE0TmRJWXFXSWVyRVEtai1Xc29FWTZyZXZHUnNfZ1NxQ2Qtbm9QTUJLa1I4cXVZS2lzTVMtMGRUNGpLUzA5V2Z2YnlrOEw5RldTZ0FlNExEY0F0YzB6THRXb1J3WHJkTV9YcVNGWjJZY3FhaWE",
+   "title": "RBI projects GDP growth to 6.7% in this fiscal year - News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObmE0TmRJWXFXSWVyRVEtai1Xc29FWTZyZXZHUnNfZ1NxQ2Qtbm9QTUJLa1I4cXVZS2lzTVMtMGRUNGpLUzA5V2Z2YnlrOEw5RldTZ0FlNExEY0F0YzB6THRXb1J3WHJkTV9YcVNGWjJZY3FhaWE2RDRLNVVFTmt2TVJ3?oc=5",
+   "desc": "RBI projects GDP growth to 6.7% in this fiscal year  News On AIR",
+   "source": "RBI",
+   "publisher": "News On AIR",
    "scope": "india",
    "ts": 1785913200000
   }
