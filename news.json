@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T15:55:28.353082+00:00",
+ "updated": "2026-08-16T16:31:54.946511+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbkVDbzBlUEVQYjY4OUtDMTlTVzdHM0o0OTEwZjJOWDNzNGJtS2pOWDdIeEZnb3ZoTVhNa0RZVl8wMklYTHBuVU9OZm9Za05EbDZqOThkb2dDaDdWRlRYX2wzWHJUczZPVEVPNGEyTlF6MEpMbWV",
@@ -23,13 +23,23 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZS1MeWowSjFWYXhRUjUzejA5N2JPWWVBU0Y2UEszUFNzVnM0b0xKZDZSbnlKTHNEYnZlUTRETDlUSnYzeWpVc3lhM19qN0Zzd2NwTmpIZjZlYUFUVkdicW01WF9rZjZ0eEVvTElYa2l4c0V1aHl",
-   "title": "Interest rate dilemma for central banks as inflation rises but growth slows - The Guardian",
+   "title": "Interest rate dilemma for central banks as inflation rises but growth slows - theguardian.com",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZS1MeWowSjFWYXhRUjUzejA5N2JPWWVBU0Y2UEszUFNzVnM0b0xKZDZSbnlKTHNEYnZlUTRETDlUSnYzeWpVc3lhM19qN0Zzd2NwTmpIZjZlYUFUVkdicW01WF9rZjZ0eEVvTElYa2l4c0V1aHlxRG9uUkM4RElua2FURDRWTmVXcWVWeXZGTlZsVjF1OEEwRUVOVWtxU1Vuak1pa2VfWWJDMG9Mcm0zTGJjYWM3UHlEVHpCTzl0Vi1hZw?oc=5",
-   "desc": "Interest rate dilemma for central banks as inflation rises but growth slows  The Guardian",
+   "desc": "Interest rate dilemma for central banks as inflation rises but growth slows  theguardian.com",
    "source": "US Fed",
-   "publisher": "The Guardian",
+   "publisher": "theguardian.com",
    "scope": "world",
    "ts": 1786888800000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzVVM0xPRlc0TXBUZkVkaHpERWVZTXQwbUdVcFU5U01EMElTLVgyWjg2bnVpeUh2TjB4V1FmaGE0cnZyUWc5U3RSSHh4WlRPNTNtQldPMGJxMFY0V3pTLUZkZEZZQ2R5c2x5cnBYdkNMX3pVUWF",
+   "title": "Bonds Face a Bigger Threat Than the Fed as Global Rates Climb - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzVVM0xPRlc0TXBUZkVkaHpERWVZTXQwbUdVcFU5U01EMElTLVgyWjg2bnVpeUh2TjB4V1FmaGE0cnZyUWc5U3RSSHh4WlRPNTNtQldPMGJxMFY0V3pTLUZkZEZZQ2R5c2x5cnBYdkNMX3pVUWFZSy1PRUpwRGxnOHd4VGRkdjFjTFRCSDB3Tm9VOWppSGF5U0FkdGljSWtTLV9PRU02cXlja1EzbmVvN0lB?oc=5",
+   "desc": "Bonds Face a Bigger Threat Than the Fed as Global Rates Climb  Bloomberg.com",
+   "source": "US Fed",
+   "publisher": "Bloomberg.com",
+   "scope": "world",
+   "ts": 1786881600000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDF3cjFrdXdSSHNPNjZnRGo1U1RMMVFXUXkzck9RRHBMX21aWS1NS2owYlhYNW1yWkx6ZUhJZ3dkMGdaTklYRHJseXJJWWFwQUlrTWVnTW9UTTFNd1dMRHlCVDdfSy1NalFtb1FNY1MtUVhnNUl",
@@ -132,6 +142,16 @@
    "ts": 1786744692000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSi1GNDVKYnlNQ3NtWHVwbGUyajVnaFpNNVJDcEFrODd3MEN4a3pCVzhwbjhDTUJOQzIxYk9iQW5QYVotbGNVR3dEeF9XQ1lnQVF1RFhIbFVncEpSeFlpNlhKODQzanFJblprWWVFODduWjJvMlZ",
+   "title": "Why Government Debt Doesn’t Always Mean Higher Interest Rates - Fort Worth Inc.",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSi1GNDVKYnlNQ3NtWHVwbGUyajVnaFpNNVJDcEFrODd3MEN4a3pCVzhwbjhDTUJOQzIxYk9iQW5QYVotbGNVR3dEeF9XQ1lnQVF1RFhIbFVncEpSeFlpNlhKODQzanFJblprWWVFODduWjJvMlZELXhJN0lIeFRaNWNPZFV2bzdORkFya3Z5UFdEdEVTaHBaYm5BRUdrVHpW?oc=5",
+   "desc": "Why Government Debt Doesn’t Always Mean Higher Interest Rates  Fort Worth Inc.",
+   "source": "US Fed",
+   "publisher": "Fort Worth Inc.",
+   "scope": "world",
+   "ts": 1786739885000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQczg5WWZUNFVkRG0wWHZKSXdaZ2ZEa056Y1ExRG5lMjRmZURlS0ZqYXlDSE5HLUg4eHZZUmlRMkVTZ2ZZb2x1WHI4cW5vZjF3OXRzbVhHRS1KQ0UyMURGTHpqd0JvbmpncGp4ZktwN2djRW5UX09",
    "title": "Dollar Slides to May Low as Weak Retail Sales Dim Rate Bets - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQczg5WWZUNFVkRG0wWHZKSXdaZ2ZEa056Y1ExRG5lMjRmZURlS0ZqYXlDSE5HLUg4eHZZUmlRMkVTZ2ZZb2x1WHI4cW5vZjF3OXRzbVhHRS1KQ0UyMURGTHpqd0JvbmpncGp4ZktwN2djRW5UX09yMTFkNlV4SlBwNmJJa2dOZnZJVlQwZDlzMTM3aFAteDRSaTB5MFF2Tm1QZk9DMlVraGhWT0xpN0s4?oc=5",
@@ -160,16 +180,6 @@
    "publisher": "NDTV Profit",
    "scope": "india",
    "ts": 1786730305000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR292WTVNTlAzR25KY2JRZ25qUzVTVDRUei1vbHo0QTFPdXFNNFNtNG9pWXNSWTRMRVQwMVlNWDNEMTFxNTVvXzU3RmZ5M2lHXzR6cVR6UTRPMHZOdVZGRF9Uc2FQNFRBdWxWcVZkRl9qYlZOSXJ",
-   "title": "RBI may stay nimble on rates as growth is seen slowing to 6.6%: Report - The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR292WTVNTlAzR25KY2JRZ25qUzVTVDRUei1vbHo0QTFPdXFNNFNtNG9pWXNSWTRMRVQwMVlNWDNEMTFxNTVvXzU3RmZ5M2lHXzR6cVR6UTRPMHZOdVZGRF9Uc2FQNFRBdWxWcVZkRl9qYlZOSXJzMXBVYVg3RHFxVkZmX3d5cE53MTA1bEJCQ1J6NjJfU1JSb2pNal80SFV3cEpxTUdyOHBJWlBsQXBMX2tQWXRXc1BkSU82M09HbUNncmRoeGFzemtKWVhpSU5hNEdlQ1NWcTFwTUY2YjI40gHkAUFVX3lxTE5XLV85VWUtY2R1d0JJUTN6R0llUmgybl90cEgwRi10bElsc3pncVBldGNYaXlwbFpGS01oQk1MOUZHX3MyNnZ2NFBDU2IxWTJocl93UzVMeHA3OW83ZW5RSzZzZEY5QUFza2xrN1Fqdy1aclJxLXBubmhOeWY0d1IzaC1MbGN1dHdnN2dEbEJFRDNKTERKLW1fN1hyMnRXcURGNURJbm5WMEFTS1prRklsM3NicXh2R0JlU0d2SmhURkF6M0lpck5ZRXJBeW1OSkFXM2thRlppM3k2S1I2eENsRFFQTA?oc=5",
-   "desc": "RBI may stay nimble on rates as growth is seen slowing to 6.6%: Report  The Economic Times",
-   "source": "RBI",
-   "publisher": "The Economic Times",
-   "scope": "india",
-   "ts": 1786728780000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHRHVk1kbERfZG14am9PVy1HQkJBU3R5ZTBVLVp6VjBLQS1MLWs0QS0xOG4xTC1pcnY5ZXd6cXFESUg5UmxGLUZHcjBhbzYySWFtNGo1SkpqdGxsQUh2NDZyUlZGTzNHdjh3QUlYQy16UVplOUx",
@@ -413,11 +423,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFhOVzJZUmp4SHB5a3JfejBiNGJmbW5YRXByRUc0a1piVzBENTVWdE9BYWU1WFdRNFNlcU1KWEJFaHBXMGhiRzByUXEyVjZaRW5uWDFxd0hfSkhTOWNaY2hhRGtBanVieVVxbGZkSFExVXhXWHR",
-   "title": "Cleveland Fed President Says Central Bank Must ‘Act Now’ to Bring Down Inflation - Barron's",
+   "title": "Cleveland Fed President Says Central Bank Must ‘Act Now’ to Bring Down Inflation - barrons.com",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFhOVzJZUmp4SHB5a3JfejBiNGJmbW5YRXByRUc0a1piVzBENTVWdE9BYWU1WFdRNFNlcU1KWEJFaHBXMGhiRzByUXEyVjZaRW5uWDFxd0hfSkhTOWNaY2hhRGtBanVieVVxbGZkSFExVXhXWHRxN3A2S0FZTFB6Y3F0RmFrWEN1TTlCWUFyTlBPSjA2MWNVZEhUdw?oc=5",
-   "desc": "Cleveland Fed President Says Central Bank Must ‘Act Now’ to Bring Down Inflation  Barron's",
+   "desc": "Cleveland Fed President Says Central Bank Must ‘Act Now’ to Bring Down Inflation  barrons.com",
    "source": "US Fed",
-   "publisher": "Barron's",
+   "publisher": "barrons.com",
    "scope": "world",
    "ts": 1786632360000
   },
@@ -543,11 +553,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHltVjVQNmxJOGZNYnNaT2JzaldqZHFjWlNxV1pvWTE3ekRKVFVLWkZmakZ4VWRlc0dMdlNNWEJpZTJldVZUeG5BVG5Nb2JUd1A0WExqZkZjTG9aaURWVUVUekdXczJVX0dHQXdOUGhsd3FtbnN",
-   "title": "Fed seen sticking to policy-rate hold, for now, as inflation eases again - Virginia Business",
+   "title": "Fed seen sticking to policy-rate hold, for now, as inflation eases again - virginiabusiness.com",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHltVjVQNmxJOGZNYnNaT2JzaldqZHFjWlNxV1pvWTE3ekRKVFVLWkZmakZ4VWRlc0dMdlNNWEJpZTJldVZUeG5BVG5Nb2JUd1A0WExqZkZjTG9aaURWVUVUekdXczJVX0dHQXdOUGhsd3FtbnNSdEc5ZkY2Nm50aXlGVQ?oc=5",
-   "desc": "Fed seen sticking to policy-rate hold, for now, as inflation eases again  Virginia Business",
+   "desc": "Fed seen sticking to policy-rate hold, for now, as inflation eases again  virginiabusiness.com",
    "source": "US Fed",
-   "publisher": "Virginia Business",
+   "publisher": "virginiabusiness.com",
    "scope": "world",
    "ts": 1786559560000
   },
@@ -732,6 +742,16 @@
    "ts": 1786468773000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcVFadUVfMkJMa3VzRDNRTlh0N1dIclZyZnZMSHllX0drbkV1c1RYOUx2TER3TTZsSTZJOGMxSzgzajlZbXlRSVo4N3Q5MkJCY21WejZxYnFiaV92Nnh3QUZLNFJQNW42UUJPLVZiczFJQmgzbkV",
+   "title": "Indian eco, banking sector can withstand West Asia crisis, trade policy: RBI Guv Malhotra - BusinessLine",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcVFadUVfMkJMa3VzRDNRTlh0N1dIclZyZnZMSHllX0drbkV1c1RYOUx2TER3TTZsSTZJOGMxSzgzajlZbXlRSVo4N3Q5MkJCY21WejZxYnFiaV92Nnh3QUZLNFJQNW42UUJPLVZiczFJQmgzbkV0TEI1aF9oZW85MU5wT0U1LTBVX3hxeC0zZE5EYjQ3WXRsWFJ3bVZxczJ5SjdkS2VFclpZU2Y0bktpYzAyazdxZ3MzMTBjRC1kRkdiTWcxckpQTGFWSHFmX0ZzWGJVTERsTEViSVhMYTZycE1FcHctcEVfcGtyV2FaMTROU2cw0gH7AUFVX3lxTE1PMmZmNDZwUmJaUm1oaFNibGFPR0VPZWp6Vy0tWkFmR2xWZDNyQmdxV0YweENoYklPZlNEUDM4RnV5VUN5c1dwdHlYTUJ4ckdaeXAwM3lpVkVOSUFtU245X2VxUHRkWW1oeTlTNTI3djk1UXE4SzZKZE1MdVRQbzlyWEVLWWlWbFNJaDM2YkE0anlCQXlrUFcxVF9URGVDWWI1S29ETWtQWVhrUUVWRHJUWk5BRldMVlJhbmNzOE9IekNzam9ETmktRVItb2I3bElCR0pOVWJrWUlIeFpaLTN4OFJKRk81dFNud1Jtdk5WX1ZWaXRDMy01X0VN?oc=5",
+   "desc": "Indian eco, banking sector can withstand West Asia crisis, trade policy: RBI Guv Malhotra  BusinessLine",
+   "source": "RBI",
+   "publisher": "BusinessLine",
+   "scope": "india",
+   "ts": 1786434943000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbkhwRUZQWHQ4Y05QQ0hXUkRGMWxiME04dU4yenMxQkJMS2ZVZ1hobFNWWS0weU5iVWhaSzJUeVhtQWRlYzF0aHhZYjRiVUswYTVPOWpleTRGSzRBcmo4Tlp0djlmZnBtYzdESzBKekJlMFRGMzJ",
    "title": "SIDBI deploys MonetaGo’s invoice validation system - ibsintelligence.com",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbkhwRUZQWHQ4Y05QQ0hXUkRGMWxiME04dU4yenMxQkJMS2ZVZ1hobFNWWS0weU5iVWhaSzJUeVhtQWRlYzF0aHhZYjRiVUswYTVPOWpleTRGSzRBcmo4Tlp0djlmZnBtYzdESzBKekJlMFRGMzJtTTNOaEpVN1c3emJ5aVJZbXgxWXpCR080dXdIdw?oc=5",
@@ -840,16 +860,6 @@
    "publisher": "Deccan Herald",
    "scope": "india",
    "ts": 1786260546000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUWp0MDFETFpJTmt2QlpoNTdJQkluYjhFRi1sRlJ4ZFgwMENuenZPWXduV0xyMDlkQUhYeVYwTHpUSGk2UmxxMXhrZjRfTVhMOW50eUlxNnFwTGhHVWQ2U1dJSWpreDRKRy11dkVaOHFDTTRldWx",
-   "title": "MSME Confidence Holds Firm at 59.3 Despite Global Uncertainties: SIDBI - Entrepreneur India",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUWp0MDFETFpJTmt2QlpoNTdJQkluYjhFRi1sRlJ4ZFgwMENuenZPWXduV0xyMDlkQUhYeVYwTHpUSGk2UmxxMXhrZjRfTVhMOW50eUlxNnFwTGhHVWQ2U1dJSWpreDRKRy11dkVaOHFDTTRldWxycWk2ZmpiTm5lMWV2Q0hXeVhFeTRiNk9VeVNtdWhRYWdpUW5RcG1rOFZaLVFWNi1sTGFYU0NBTUdLd2NUYnhzNlJENHdkMnZB?oc=5",
-   "desc": "MSME Confidence Holds Firm at 59.3 Despite Global Uncertainties: SIDBI  Entrepreneur India",
-   "source": "SIDBI / MSME",
-   "publisher": "Entrepreneur India",
-   "scope": "india",
-   "ts": 1786189468000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTk5TTDR4X2xxc1RmanVBNTNqSzR4NFl4bV9pbEpMbEZFZEs4WTJCdU5fYVRrZ28zYmRBNlZwTi1NR1ZLbldCODk0bEVxU29Ia3pGRkxvNlpGVVJCSHVPbU16YzVoOV92RlZPOGZVWlV5eTQ0ZFd",
@@ -1003,11 +1013,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR0ZocU5tZHpESU1BT211bzhEM1BRdmJ3aG01UkpfVlNsektOMENwM0kzdC1iM2xxdHBKOW5NckRxWWRZdkNtTkV2aldtM01LWWVkTUctdmVZek14UjRGZFlPUzdCWTZFSmdjQ0gybmRTY0N3REt",
-   "title": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem - Press Trust of India",
+   "title": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem - ptinews.com",
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR0ZocU5tZHpESU1BT211bzhEM1BRdmJ3aG01UkpfVlNsektOMENwM0kzdC1iM2xxdHBKOW5NckRxWWRZdkNtTkV2aldtM01LWWVkTUctdmVZek14UjRGZFlPUzdCWTZFSmdjQ0gybmRTY0N3REt4RzFpWWdKeG1BdkxORHBCdFE2Q3IyYjZCT3Z5ZDdfZU05WVJSekNQZ2NPWlR0R1BHTUJEQi0ydGM0THZUemt5emEzSE9PZDhnVmNtYUVUd3JMc2xOQ3ctcVJodjExclZGZXhQYXZ5cW5sa0hnd3FpWnJOSk94NWUwbmc4YlZX?oc=5",
-   "desc": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem  Press Trust of India",
+   "desc": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem  ptinews.com",
    "source": "SIDBI / MSME",
-   "publisher": "Press Trust of India",
+   "publisher": "ptinews.com",
    "scope": "india",
    "ts": 1786019824000
   },
@@ -1188,16 +1198,6 @@
    "desc": "India VIX Falls 3% to 12.01 as RBI Policy Keeps Volatility Low  HDFC Sky",
    "source": "RBI",
    "publisher": "HDFC Sky",
-   "scope": "india",
-   "ts": 1785913200000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdjh1S05rZ3A3eWpKeHZra2I0bEVqdkF2eDBEVTU0MjRVTU5jNG45c1RYYmx4djhhdG1OU1RQQ2FpRFhuZURpM3BKemtWRnpMX2tYcWt2aVYzRTRYZnFISEN3bVpuN2xWQTk2TG9JSWF3eEpweTR",
-   "title": "Indian Rupee Trades At 95.07 Per USD Against 94.97 Before RBI Policy Decision - Sahi",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdjh1S05rZ3A3eWpKeHZra2I0bEVqdkF2eDBEVTU0MjRVTU5jNG45c1RYYmx4djhhdG1OU1RQQ2FpRFhuZURpM3BKemtWRnpMX2tYcWt2aVYzRTRYZnFISEN3bVpuN2xWQTk2TG9JSWF3eEpweTRDN3d5NGNScWNwRHA5a2ZWajZvMHk5VlFMOXJWTGhXcHdYS0s0eDU3N18zTEFJbkRuQkRoc1IwV2dOM192QWJyOUk?oc=5",
-   "desc": "Indian Rupee Trades At 95.07 Per USD Against 94.97 Before RBI Policy Decision  Sahi",
-   "source": "RBI",
-   "publisher": "Sahi",
    "scope": "india",
    "ts": 1785913200000
   }
