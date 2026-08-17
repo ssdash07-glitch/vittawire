@@ -1,6 +1,26 @@
 {
- "updated": "2026-08-16T23:54:37.349130+00:00",
+ "updated": "2026-08-17T01:40:26.360271+00:00",
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DUEthMHVJQmtoZUZEOUpkSXJsNFdNdFBIaVh2d2dod09UVThIY0FrNUpCNnktZ0Fyb0FKN1J4Z2lvai1Xa1lPUTRsVEFJMUVJWUp5N3MyQXpsS2NReEVwSFgtQTNmeW8wUm0yenFZMnBqUzFfb0R",
+   "title": "Yen edges up as traders push back Fed rate hike bets - SRN News",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DUEthMHVJQmtoZUZEOUpkSXJsNFdNdFBIaVh2d2dod09UVThIY0FrNUpCNnktZ0Fyb0FKN1J4Z2lvai1Xa1lPUTRsVEFJMUVJWUp5N3MyQXpsS2NReEVwSFgtQTNmeW8wUm0yenFZMnBqUzFfb0RQVzVGTGpqUQ?oc=5",
+   "desc": "Yen edges up as traders push back Fed rate hike bets  SRN News",
+   "source": "US Fed",
+   "publisher": "SRN News",
+   "scope": "world",
+   "ts": 1786929009000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzVVM0xPRlc0TXBUZkVkaHpERWVZTXQwbUdVcFU5U01EMElTLVgyWjg2bnVpeUh2TjB4V1FmaGE0cnZyUWc5U3RSSHh4WlRPNTNtQldPMGJxMFY0V3pTLUZkZEZZQ2R5c2x5cnBYdkNMX3pVUWF",
+   "title": "Bonds Face a Bigger Threat Than the Fed as Global Rates Climb - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzVVM0xPRlc0TXBUZkVkaHpERWVZTXQwbUdVcFU5U01EMElTLVgyWjg2bnVpeUh2TjB4V1FmaGE0cnZyUWc5U3RSSHh4WlRPNTNtQldPMGJxMFY0V3pTLUZkZEZZQ2R5c2x5cnBYdkNMX3pVUWFZSy1PRUpwRGxnOHd4VGRkdjFjTFRCSDB3Tm9VOWppSGF5U0FkdGljSWtTLV9PRU02cXlja1EzbmVvN0lB?oc=5",
+   "desc": "Bonds Face a Bigger Threat Than the Fed as Global Rates Climb  Bloomberg.com",
+   "source": "US Fed",
+   "publisher": "Bloomberg.com",
+   "scope": "world",
+   "ts": 1786921637000
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
    "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
@@ -43,23 +63,13 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZS1MeWowSjFWYXhRUjUzejA5N2JPWWVBU0Y2UEszUFNzVnM0b0xKZDZSbnlKTHNEYnZlUTRETDlUSnYzeWpVc3lhM19qN0Zzd2NwTmpIZjZlYUFUVkdicW01WF9rZjZ0eEVvTElYa2l4c0V1aHl",
-   "title": "Interest rate dilemma for central banks as inflation rises but growth slows - theguardian.com",
+   "title": "Interest rate dilemma for central banks as inflation rises but growth slows - The Guardian",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZS1MeWowSjFWYXhRUjUzejA5N2JPWWVBU0Y2UEszUFNzVnM0b0xKZDZSbnlKTHNEYnZlUTRETDlUSnYzeWpVc3lhM19qN0Zzd2NwTmpIZjZlYUFUVkdicW01WF9rZjZ0eEVvTElYa2l4c0V1aHlxRG9uUkM4RElua2FURDRWTmVXcWVWeXZGTlZsVjF1OEEwRUVOVWtxU1Vuak1pa2VfWWJDMG9Mcm0zTGJjYWM3UHlEVHpCTzl0Vi1hZw?oc=5",
-   "desc": "Interest rate dilemma for central banks as inflation rises but growth slows  theguardian.com",
+   "desc": "Interest rate dilemma for central banks as inflation rises but growth slows  The Guardian",
    "source": "US Fed",
-   "publisher": "theguardian.com",
+   "publisher": "The Guardian",
    "scope": "world",
    "ts": 1786888800000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzVVM0xPRlc0TXBUZkVkaHpERWVZTXQwbUdVcFU5U01EMElTLVgyWjg2bnVpeUh2TjB4V1FmaGE0cnZyUWc5U3RSSHh4WlRPNTNtQldPMGJxMFY0V3pTLUZkZEZZQ2R5c2x5cnBYdkNMX3pVUWF",
-   "title": "Bonds Face a Bigger Threat Than the Fed as Global Rates Climb - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzVVM0xPRlc0TXBUZkVkaHpERWVZTXQwbUdVcFU5U01EMElTLVgyWjg2bnVpeUh2TjB4V1FmaGE0cnZyUWc5U3RSSHh4WlRPNTNtQldPMGJxMFY0V3pTLUZkZEZZQ2R5c2x5cnBYdkNMX3pVUWFZSy1PRUpwRGxnOHd4VGRkdjFjTFRCSDB3Tm9VOWppSGF5U0FkdGljSWtTLV9PRU02cXlja1EzbmVvN0lB?oc=5",
-   "desc": "Bonds Face a Bigger Threat Than the Fed as Global Rates Climb  Bloomberg.com",
-   "source": "US Fed",
-   "publisher": "Bloomberg.com",
-   "scope": "world",
-   "ts": 1786881600000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDF3cjFrdXdSSHNPNjZnRGo1U1RMMVFXUXkzck9RRHBMX21aWS1NS2owYlhYNW1yWkx6ZUhJZ3dkMGdaTklYRHJseXJJWWFwQUlrTWVnTW9UTTFNd1dMRHlCVDdfSy1NalFtb1FNY1MtUVhnNUl",
@@ -100,16 +110,6 @@
    "publisher": "MarketWatch",
    "scope": "world",
    "ts": 1786798800000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUHBFd3BNLXphc0dFLUYxRkNxbzg0ZXNkRkhDSFhBdUYzcDdHNm03cTZ1TEEzcnhCcVNnRW5seGMta3YxM2Q1UWxWOXk4SmxOQWtrQ1hlZXdNRXdrVTc5OW1UT2FwcU9SRHY5Y0dDd2UyU3dvR2g",
-   "title": "Zee Wins Interim Relief on Capital Raise Amid Indian Market Ban - Variety",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUHBFd3BNLXphc0dFLUYxRkNxbzg0ZXNkRkhDSFhBdUYzcDdHNm03cTZ1TEEzcnhCcVNnRW5seGMta3YxM2Q1UWxWOXk4SmxOQWtrQ1hlZXdNRXdrVTc5OW1UT2FwcU9SRHY5Y0dDd2UyU3dvR2g1TllTeGd6UXBmNHNrZnl2M0l4SWVacnR6VVVfTjhIMDRiVmJjbGQ?oc=5",
-   "desc": "Zee Wins Interim Relief on Capital Raise Amid Indian Market Ban  Variety",
-   "source": "SEBI",
-   "publisher": "Variety",
-   "scope": "india",
-   "ts": 1786781340000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdUJlcGp2SHEyVmNoaVgtaTc1TndyVjZyMTEwUURjLTU5ZVJ1SHNMOWVFNWFmZ3NuTXY2NlFoalVJQnltYUVsMHNxSTlkbml0UkFCVExmYS14eHlLdE9yTVBsOEpSOXMwVV9jMWkzMWsxenpxd1N",
@@ -190,16 +190,6 @@
    "publisher": "Moneycontrol.com",
    "scope": "india",
    "ts": 1786721913000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQjNKSEpuaTdZMWduek43QUUwOXJaRHB3a09ybjFpSDFFV1YwcWZ3WU9OOE9HVUMyZ1JZQV9QS0d3bFU5SG9uWmtXYTNZSUVacUFFZmVOSU5CbWttZXNIS3MzMXp0dEE1TDVSVTRpLWsyUHZnUmx",
-   "title": "SEBI proposes digital onboarding and portable KYC for overseas Indian investors - Moneycontrol.com",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQjNKSEpuaTdZMWduek43QUUwOXJaRHB3a09ybjFpSDFFV1YwcWZ3WU9OOE9HVUMyZ1JZQV9QS0d3bFU5SG9uWmtXYTNZSUVacUFFZmVOSU5CbWttZXNIS3MzMXp0dEE1TDVSVTRpLWsyUHZnUmxRNklJMUhTSjBDVzZYT21ZcHlCYkI2eW9MREpSOEJ6Q3UxbXZjTlBGSjdENy00LVU0amVPWWJ3MHBQeHhJMFM4Y1V4ZUllbUtLdlpRdC1nREhGQlJXNnJYSHU5YXRydzNnb2ZKdi1D0gHiAUFVX3lxTE1FVXliNXF6UUJoMkNxdk9xVmVNUVJ6NHUwSkE1NmRmd2NYaTNPVXFCelVQSVNMTGg3czB5NUk2ZE1wM3RHdmFDN3hUcVpseGUxY29kYTdER1E4Y1pBUUQ1MENJTXVmdGN4UXRxMWRLZ0J5bW5BbXpqbFZRbVhVOWdlSVUxRTVQcnVqQTZHaU9ZdGJhYTN3Q2JJZTNhU19lX1l0RUtLaEtld0ZJQ25MQWtpMnhCR0I0cU9UUG10blZVRmxZYWhGQ1VyQVlvbklFcjRrWUtQZjNxbXZ5NzZuX21xaEE?oc=5",
-   "desc": "SEBI proposes digital onboarding and portable KYC for overseas Indian investors  Moneycontrol.com",
-   "source": "SEBI",
-   "publisher": "Moneycontrol.com",
-   "scope": "india",
-   "ts": 1786721781000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOHZ5X1lpLTBPbzVkcmVFZVpicVU4NkxGRkdod19RLTJYVUNfclZLNThJcnFwX3BFejE1NlFleUk3dFpnS3EtQWhaZXk0cGMyNEM2S0F1c0E5M1RWampneXAtdDV3VWl4YWlEc0xMN2lTalBmNDZ",
@@ -393,13 +383,23 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdHQ0bE94Nm1NUWNmWm50STduZXV3Y3lwd1U5T281ZTBuazNYUFNHQktpbVM0WWRtenE4anhfY1g4eEpyMkxfX2tUaW9ZTERFZGpTd1loVUVfaEdSSnhKNkgwa3JORGxNeUJtSmQ3U2lUa2VNdlR",
-   "title": "RBI reviews MSME credit flow, TReDS, Udyam registration in J&K, Ladakh - Kashmir News Observer",
+   "title": "RBI reviews MSME credit flow, TReDS, Udyam registration in J&K, Ladakh - kashmirnewsobserver.com",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdHQ0bE94Nm1NUWNmWm50STduZXV3Y3lwd1U5T281ZTBuazNYUFNHQktpbVM0WWRtenE4anhfY1g4eEpyMkxfX2tUaW9ZTERFZGpTd1loVUVfaEdSSnhKNkgwa3JORGxNeUJtSmQ3U2lUa2VNdlRBLUhfNFhIQVk3bDYycWpZcnlKNUNWLVU4UWFpSUFuNnNVYzNwTXNWUkF6dHppVXh1aFdVelRNb0RSa2VSQzVaM2pIdVU4MnUwVlNxRnJlbHow?oc=5",
-   "desc": "RBI reviews MSME credit flow, TReDS, Udyam registration in J&K, Ladakh  Kashmir News Observer",
+   "desc": "RBI reviews MSME credit flow, TReDS, Udyam registration in J&K, Ladakh  kashmirnewsobserver.com",
    "source": "SIDBI / MSME",
-   "publisher": "Kashmir News Observer",
+   "publisher": "kashmirnewsobserver.com",
    "scope": "india",
    "ts": 1786639499000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObVlwVnFBNUZIejFSNVNjbUw2aHNDLVVIRUFnX3VDZHNzMDgtYzFER3dZdkN3bE9EUzMwUDh1NDlRUEx2aGRfZGRnc2lVWW9mTFlrMjY4SWdCWGlFTGZzZ1hQYXk5WmlWYkRKaHUwUWdkLWRiekd",
+   "title": "Sebi proposes colour-coded risk meter for bonds - livemint.com",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObVlwVnFBNUZIejFSNVNjbUw2aHNDLVVIRUFnX3VDZHNzMDgtYzFER3dZdkN3bE9EUzMwUDh1NDlRUEx2aGRfZGRnc2lVWW9mTFlrMjY4SWdCWGlFTGZzZ1hQYXk5WmlWYkRKaHUwUWdkLWRiekdQWUk2d1FVY2tnaXRkVXY2bF9kaEl0UGlnMElZN0E3dUJlSExjNGMwMkt3OFBLTFg5TGpadFhlVnk2anhJR280TE1UT2FkSUJnZHh2S2RnVnhXck1mXzBkRWdhOWhWMVJaWdIB3AFBVV95cUxPQ3c3X29PM2x4WlFXSG1JUUdYcUxhOTdmV2FvRUhqZmF0c3hTM1ozeVZtdDY4NTlGeGtwbFp6TEdVTkJaQ3RIcEd1eXJaWWFrQ25RdGR1SUpnZHF5dFphYnpHYXpGblFpN2hWaVNiOC1CQmNwcEFnaENGTzFGWFdmajBvSkF3emVwNkdQeHFVanJLd0owWGt2eWdmOEgyZ1RsejJyNmQwYXMwSURqLVhuNkdBSm8wVU04Y1lNWUNhOGRjQUVRb3lIRUlkNVFtRTBlVzMzQnNDUlBCUnA0?oc=5",
+   "desc": "Sebi proposes colour-coded risk meter for bonds  livemint.com",
+   "source": "SEBI",
+   "publisher": "livemint.com",
+   "scope": "india",
+   "ts": 1786639026000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNE5KTzJ2VEJFalpMX3htZVdVY2RnQXU1Wkt2dWxpZkZBNnk3cFhrekUwSnU2N2xxejZpRjcyVEJtOHhmTEhwUmJvTW9sQXk0dlNFaU51MWR0azBkSHdKamFYRjVjT2dQbWhlSFlJTHJrc2pXeTV",
@@ -412,14 +412,14 @@
    "ts": 1786634568000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSUJLUkRzTmdoa25JRlBITmlXb2FzLTBEUmFUdFZTcW9RVHRmWUJMTlNPQmJBZ25PWERWM3drVE9WajFyZUdyMHYydlIzNXhicE1ac212RE8yaUQyOGk4czBrV3BLTFdhdWFJYjJ0bzJXeVlRVkR",
-   "title": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSUJLUkRzTmdoa25JRlBITmlXb2FzLTBEUmFUdFZTcW9RVHRmWUJMTlNPQmJBZ25PWERWM3drVE9WajFyZUdyMHYydlIzNXhicE1ac212RE8yaUQyOGk4czBrV3BLTFdhdWFJYjJ0bzJXeVlRVkR6YUxjQjl2OTFlTkF4S0pmOVBZQmJ2eC1aQ0tVOWZVY1pHSw?oc=5",
-   "desc": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh  Yahoo Finance",
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWZ6d250M1Aya1ZTOFJjS1dNY0NITkVHblBFMHJoZ0RyM1VJTGt4SE01MnVUVDhkZ3FCVVFJcWV5a21SMlFVZmJPM3hRcXN6dnNPNFZ4bzBKRlpaX0dwcG9PZERPbHdPeUI1aHZUTDhOUXdRSDl",
+   "title": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh - The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWZ6d250M1Aya1ZTOFJjS1dNY0NITkVHblBFMHJoZ0RyM1VJTGt4SE01MnVUVDhkZ3FCVVFJcWV5a21SMlFVZmJPM3hRcXN6dnNPNFZ4bzBKRlpaX0dwcG9PZERPbHdPeUI1aHZUTDhOUXdRSDlIZm0wVDNyTnlIemFiOUVIbk5YYjFkOHFpZHlRS3FFREIw?oc=5",
+   "desc": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh  The Motley Fool",
    "source": "US Fed",
-   "publisher": "Yahoo Finance",
+   "publisher": "The Motley Fool",
    "scope": "world",
-   "ts": 1786630800000
+   "ts": 1786633200000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHBzY3NRd2NQNFlUZHg1Vl9PNmRrVEVqWmV3Nmo3WkMwYld4aUpnNjQ5Tk9jcVFSZHFfOWx6aWJPTFdqbjRHT1FKSHpUMzZnZGk2SzQ5NmNnOU1QZV9MMTlPNWY2OGpiamZEX1BSQS1RRWJtZjZ",
@@ -453,11 +453,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQzNudkV4ZkZIX0tHNVh6alJCOHR6UkpJUmtSYUx6ZzhpX192bUJGa1FWUEFCZFhZck5yYkRacDM2QVljTG5PNzdDUmdsVFU1cVNHRU93UkRTcFFJT3pWYmhVYWptVldMWHp5bl9lTDRjbnNNWUR",
-   "title": "Muthoot Fincorp files draft papers with SEBI for Rs 3,000 crore IPO - mid-day.com",
+   "title": "Muthoot Fincorp files draft papers with SEBI for Rs 3,000 crore IPO - Mid-Day",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQzNudkV4ZkZIX0tHNVh6alJCOHR6UkpJUmtSYUx6ZzhpX192bUJGa1FWUEFCZFhZck5yYkRacDM2QVljTG5PNzdDUmdsVFU1cVNHRU93UkRTcFFJT3pWYmhVYWptVldMWHp5bl9lTDRjbnNNWUR1eUxWbHRoN2ZmeXIwNGhPV1h5blZxVHlJal9pM2d2azZITjBVTkpHQXJpUDFKWmRKR1M3SGt4RkRxSUMtUXVLUkh0M2c4Y1NrX3M5ODRJX1NGR283VdIB0AFBVV95cUxNaldXU0xXUkF1UWhjUlJSYjM5S1F6S0VsVmlQN0Z0MGkzU3E3a1Y2YlhneFV4bzd3dzhjdVNsWHJnZWRYbjZ4SDIzb0V6SmpTbnRPOFprZGRDLThPOFNGU0hPVlFzdUUxQThydW04emlOOVBIXzZyVGlhNUFGamQ0YjNLNlBtSkRpV0IxSlNKUFhKWVZzXzN5Ul9zd1k3RWI1WlRYcnJLbE9NV0lhWXlyYm1PN2RJeTNZVjFYRXdtLXcwNGZJWlNPVTFoaFRjdHNM?oc=5",
-   "desc": "Muthoot Fincorp files draft papers with SEBI for Rs 3,000 crore IPO  mid-day.com",
+   "desc": "Muthoot Fincorp files draft papers with SEBI for Rs 3,000 crore IPO  Mid-Day",
    "source": "SEBI",
-   "publisher": "mid-day.com",
+   "publisher": "Mid-Day",
    "scope": "india",
    "ts": 1786599300000
   },
@@ -573,11 +573,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV1FJWDQ2dGo4UWprTzRQQ0wxQ1hRZFY0SmNaSUc0V1JwMEEzLWE1NmF3S0ZMeWlCX1U2VjRQOGFULUxsazRIbXhCdE5ET0tTYWpnT2xncUw5a2d3eTBpYVhVSDJNV0gzenJ6WFNYSDNCWjJsZGZ",
-   "title": "SEBI eyes FPIs, mutual funds to deepen commodity derivatives market: Chairman Pandey - legal.economictimes.indiatimes.com",
+   "title": "SEBI eyes FPIs, mutual funds to deepen commodity derivatives market: Chairman Pandey - ETLegalWorld.com",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV1FJWDQ2dGo4UWprTzRQQ0wxQ1hRZFY0SmNaSUc0V1JwMEEzLWE1NmF3S0ZMeWlCX1U2VjRQOGFULUxsazRIbXhCdE5ET0tTYWpnT2xncUw5a2d3eTBpYVhVSDJNV0gzenJ6WFNYSDNCWjJsZGZ0WkI2cmo0SU9YMjQ4Y0FLTmVwUF9qcWl1ZHJSOGc0WjNjcXY5TjN0VW13N3d2cFdEb096a0s3OHU5ZHBpQk80eXJ3eFlXMk5XckowQ0RLWVBtTnlNUmZydmZLN0E4WmVLUEdDeTdXT19VOFA1ZDdEUdIB6wFBVV95cUxNMjF5WUN5NDkxOGFJRXR0dm5fX0YyNzhlblVOWlI1bGFWSl9Oc0lBdHlRRjRJa2pyRnMzZmJhLWdjZmwyR29mQ3c0YWludEh1UmR1NWR1TW9Ib0RXN0dUejFSREs3S3VnOWZJQlE4a3dYbWJucjk1cmFSMWRPV1pPQ0pqUGplMm8tVDZsa1U2R3UzYURVZDJHUWxHUndNUG5YdHktdW5TZXN3Nnl2bTMwZlBNMjltZ294cC1Xblh4MnhWdHRCclM5dHJjc3FPaEtnd09CekE4RlhjNE9TcjdqY3BfWmFNbVF5U09r?oc=5",
-   "desc": "SEBI eyes FPIs, mutual funds to deepen commodity derivatives market: Chairman Pandey  legal.economictimes.indiatimes.com",
+   "desc": "SEBI eyes FPIs, mutual funds to deepen commodity derivatives market: Chairman Pandey  ETLegalWorld.com",
    "source": "SEBI",
-   "publisher": "legal.economictimes.indiatimes.com",
+   "publisher": "ETLegalWorld.com",
    "scope": "india",
    "ts": 1786520650000
   },
@@ -652,16 +652,6 @@
    "ts": 1786507995000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeWlLSnA5Z0dhYk9GSjdGdXdMSHBxOU5PMmpCdVRNTXpteVlHRURSdGdsZVpmUXpNLXhzTEdTM3RzemNtaXpTRURxT1JYRF85ZW04RWhfVXdQRjZzdXJFMGIwSF9IdXdENVgwYUVBT2JOZUdsX0c",
-   "title": "RBI Governor Sets Governance Priorities for Banks Using AI - The Policy Edge",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeWlLSnA5Z0dhYk9GSjdGdXdMSHBxOU5PMmpCdVRNTXpteVlHRURSdGdsZVpmUXpNLXhzTEdTM3RzemNtaXpTRURxT1JYRF85ZW04RWhfVXdQRjZzdXJFMGIwSF9IdXdENVgwYUVBT2JOZUdsX0cxeDNzTms3eU9XSWJxMVZDNlJxNVc1b1FXcw?oc=5",
-   "desc": "RBI Governor Sets Governance Priorities for Banks Using AI  The Policy Edge",
-   "source": "RBI",
-   "publisher": "The Policy Edge",
-   "scope": "india",
-   "ts": 1786468773000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbkhwRUZQWHQ4Y05QQ0hXUkRGMWxiME04dU4yenMxQkJMS2ZVZ1hobFNWWS0weU5iVWhaSzJUeVhtQWRlYzF0aHhZYjRiVUswYTVPOWpleTRGSzRBcmo4Tlp0djlmZnBtYzdESzBKekJlMFRGMzJ",
    "title": "SIDBI deploys MonetaGo’s invoice validation system - IBS Intelligence",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbkhwRUZQWHQ4Y05QQ0hXUkRGMWxiME04dU4yenMxQkJMS2ZVZ1hobFNWWS0weU5iVWhaSzJUeVhtQWRlYzF0aHhZYjRiVUswYTVPOWpleTRGSzRBcmo4Tlp0djlmZnBtYzdESzBKekJlMFRGMzJtTTNOaEpVN1c3emJ5aVJZbXgxWXpCR080dXdIdw?oc=5",
@@ -673,11 +663,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORWJOY3Y4T19DTTNqMHIzcmwzaVlBM0c5SVpOZWlMRkVHSXpydVRlLTByQnlwMHc1Yi0zTHRWcXpObVlRa2NCZ2N6VlRpX1BpWF9oTTNUWllWcExvMFFKNkFpa19vXzlpRHYyd0tjSk1tRWlpS21",
-   "title": "SIDBI Deploys MonetaGo Secure Financing Across MSME Lending Operations - smestreet.in",
+   "title": "SIDBI Deploys MonetaGo Secure Financing Across MSME Lending Operations - SMEStreet",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORWJOY3Y4T19DTTNqMHIzcmwzaVlBM0c5SVpOZWlMRkVHSXpydVRlLTByQnlwMHc1Yi0zTHRWcXpObVlRa2NCZ2N6VlRpX1BpWF9oTTNUWllWcExvMFFKNkFpa19vXzlpRHYyd0tjSk1tRWlpS21VSlNWeHNSeWx6X1ZYaGx4d0RieEFxNWNWWEhXWGd0MFdwOFpZMXdTTnEwVDBhakg5VWxjTzFK0gGsAUFVX3lxTE5FYk5jdjhPX0NNM2owcjNybDNpWUEzRzlJWk5laUxGRUdJenJ1VGUtMHJCeXAwdzViLTNMdFZxek5tWVFrY0JnY3pWVGlfUGlYX2hNM1RaWVZwTG8wUUo2QWlrX29fOWlEdjJ3S2NKTW1FaWlLbVVKU1Z4c1J5bHpfVlhobHh3RGJ4QXE1Y1ZYSFdYZ3QwV3A4Wlkxd1NOcTBUMGFqSDlVbGNPMUo?oc=5",
-   "desc": "SIDBI Deploys MonetaGo Secure Financing Across MSME Lending Operations  smestreet.in",
+   "desc": "SIDBI Deploys MonetaGo Secure Financing Across MSME Lending Operations  SMEStreet",
    "source": "SIDBI / MSME",
-   "publisher": "smestreet.in",
+   "publisher": "SMEStreet",
    "scope": "india",
    "ts": 1786425337000
   },
@@ -883,11 +873,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdy1DZEhDQkYxaTQxWFhTMTE3SEhnRURrb3VYeEl2cjdzZWVfVTVaa0Y2emgzbXM5ZzBSUXNEeUVZWXVLTVBNUlBWMjRzaDZna2w4WEdLVVk4T0FXR0VjQ1dYbGk5SFZaRUJkU0RTSzF2aHRXT2t",
-   "title": "CAS transition to achieve cross-market consistency, boost price discovery mechanism: SEBI - legal.economictimes.indiatimes.com",
+   "title": "CAS transition to achieve cross-market consistency, boost price discovery mechanism: SEBI - ETLegalWorld.com",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdy1DZEhDQkYxaTQxWFhTMTE3SEhnRURrb3VYeEl2cjdzZWVfVTVaa0Y2emgzbXM5ZzBSUXNEeUVZWXVLTVBNUlBWMjRzaDZna2w4WEdLVVk4T0FXR0VjQ1dYbGk5SFZaRUJkU0RTSzF2aHRXT2tMZ3JTWlZiMjBNUGRlamdQcmVwSzNJVUtEc0dsZ1FnWXJDeHJoRnZWRTNFVEFCbElORGtCa3dNd3FDakV3Z3AxNzJNNWt0SHBKSzdXcmVmVnR5WFpJOE9CNzJYSlFCOC1IOUhfNmV4aF9wZ2VwQzlrR2hYSUJaZNIB8gFBVV95cUxNMUdTUm00RkVibEE4ODNUR1YzakoyLUliMEtVV3JrcWxEUjNxNkMxVGVXdHU5X2lhazdjQTBFbkRWa1A0Z1NmcGphUFlxREhDSXNLb0g2c05EOENMaVBxdEEzTGhEWXlORzRQcnZXejFSMFRERVBUSmFzejBULWFQQnNhTzhNZ0UtT1ZYWndJQ0xJQUMyZ0RDdnYzcF9kTnhxWWIzeXhjMjVfa245V0l3WkVLcVphY2NNN1lGbkVRZlRzaFh6S3JRMHJCZ0htQVg3SUFaZDU4dDB2eWxQOHRqdFF3SXM1NVhKbENMLU5aS216Zw?oc=5",
-   "desc": "CAS transition to achieve cross-market consistency, boost price discovery mechanism: SEBI  legal.economictimes.indiatimes.com",
+   "desc": "CAS transition to achieve cross-market consistency, boost price discovery mechanism: SEBI  ETLegalWorld.com",
    "source": "SEBI",
-   "publisher": "legal.economictimes.indiatimes.com",
+   "publisher": "ETLegalWorld.com",
    "scope": "india",
    "ts": 1786120004000
   },
@@ -933,11 +923,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR0ZocU5tZHpESU1BT211bzhEM1BRdmJ3aG01UkpfVlNsektOMENwM0kzdC1iM2xxdHBKOW5NckRxWWRZdkNtTkV2aldtM01LWWVkTUctdmVZek14UjRGZFlPUzdCWTZFSmdjQ0gybmRTY0N3REt",
-   "title": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem - ptinews.com",
+   "title": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem - Press Trust of India",
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR0ZocU5tZHpESU1BT211bzhEM1BRdmJ3aG01UkpfVlNsektOMENwM0kzdC1iM2xxdHBKOW5NckRxWWRZdkNtTkV2aldtM01LWWVkTUctdmVZek14UjRGZFlPUzdCWTZFSmdjQ0gybmRTY0N3REt4RzFpWWdKeG1BdkxORHBCdFE2Q3IyYjZCT3Z5ZDdfZU05WVJSekNQZ2NPWlR0R1BHTUJEQi0ydGM0THZUemt5emEzSE9PZDhnVmNtYUVUd3JMc2xOQ3ctcVJodjExclZGZXhQYXZ5cW5sa0hnd3FpWnJOSk94NWUwbmc4YlZX?oc=5",
-   "desc": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem  ptinews.com",
+   "desc": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem  Press Trust of India",
    "source": "SIDBI / MSME",
-   "publisher": "ptinews.com",
+   "publisher": "Press Trust of India",
    "scope": "india",
    "ts": 1786019824000
   },
@@ -953,11 +943,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmY1OTBseVNOZFM4X3M4MmNEem0welNsVnhLZF9Qb0N6Mnhzc1gzOXY0NUdIV3FCNXdnUGNmUkp5R1ZjQVVIaWgxVmJ6NEdGa3UyZFd0eXE4N0hxbWlFZHpXMUFPbVJ4ZzV4ZGJGQmZKVmxpc0d",
-   "title": "RBI Governor says outlook hazy, need clarity before taking any policy action - The Indian Express",
+   "title": "RBI Governor says outlook hazy, need clarity before taking any policy action - indianexpress.com",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcmY1OTBseVNOZFM4X3M4MmNEem0welNsVnhLZF9Qb0N6Mnhzc1gzOXY0NUdIV3FCNXdnUGNmUkp5R1ZjQVVIaWgxVmJ6NEdGa3UyZFd0eXE4N0hxbWlFZHpXMUFPbVJ4ZzV4ZGJGQmZKVmxpc0dtR3lIVEJGMmc4YVNndnRaTTlnWmZFajF3Y2xDeEdwNGNVeVdMSENBMmotVFNrUGhSMzBjS2ljTFY2cEQzLUFHdHhDRTlTdjExYjRsSlN2WkluYjEwOXlSN0kt0gHXAUFVX3lxTE9CckpjMzlGNERNbENweXQ2U2ZrNmpobmlQR2xaa1dRWWFnM2p5bV9HRGdVVHd0UTFZNUNCN1hVZ2RhZWhWTlNyTFdGdVVsRkVtNWpkelNtVVFvREpKSEIzb0M5c0hOcHB1OXltTjhhM0lHaEcwRFpnamdCMjZvczBmd2J0ZG1rUk9mXzBPdzJvQWpFSHVwcXZleWc5ZFBzcjJSbS1GeVFHc29scUtnbWhxYnV5N21zWGZoNTdHUGprOGcxX0pFRTZYOUw0c19kNUdYMFFXTDZr?oc=5",
-   "desc": "RBI Governor says outlook hazy, need clarity before taking any policy action  The Indian Express",
+   "desc": "RBI Governor says outlook hazy, need clarity before taking any policy action  indianexpress.com",
    "source": "RBI",
-   "publisher": "The Indian Express",
+   "publisher": "indianexpress.com",
    "scope": "india",
    "ts": 1785999600000
   },
@@ -993,11 +983,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2ZsdHQ0amJyZFpUXy1mcEJVeVJjNzBWVHk2MVg5NDdhRDdkQUNpUUljU2FRamNTVTdxdExhN1JlNVhDOXViYnQ2eU5DWmgxNzAwYWJDQXozRlBoQVYzUDRqUmRHVGl3QXhqelZjOWtiSk5DTmZ",
-   "title": "RBI Raises FY27 GDP Growth Forecast to 6.7%, Lowers CPI Inflation Projection to 5% - Thekanal",
+   "title": "RBI Raises FY27 GDP Growth Forecast to 6.7%, Lowers CPI Inflation Projection to 5% - thekanal.in",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2ZsdHQ0amJyZFpUXy1mcEJVeVJjNzBWVHk2MVg5NDdhRDdkQUNpUUljU2FRamNTVTdxdExhN1JlNVhDOXViYnQ2eU5DWmgxNzAwYWJDQXozRlBoQVYzUDRqUmRHVGl3QXhqelZjOWtiSk5DTmZMZTBPeWp1eDBBRk1nVE1RTUMxQklMTDNjWWJheFBKRTRoaEtWUEVfZ19SLU1VaERNd1Zhcmg4ZkhadWxlRmx6QlNRdWc?oc=5",
-   "desc": "RBI Raises FY27 GDP Growth Forecast to 6.7%, Lowers CPI Inflation Projection to 5%  Thekanal",
+   "desc": "RBI Raises FY27 GDP Growth Forecast to 6.7%, Lowers CPI Inflation Projection to 5%  thekanal.in",
    "source": "Indian Economy",
-   "publisher": "Thekanal",
+   "publisher": "thekanal.in",
    "scope": "india",
    "ts": 1785999600000
   },
@@ -1063,11 +1053,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ01oTXJwMWRVdVNRd2VocmxxZTNnRkFXUzhZVmc3eEdaRzl5cks5WjRnNXluOXhDX3BHWFdvekJvY0g1bEtpMEJjNzFFdHEwY3BET2FjUFpJdWlCaTlkNzVNUWt2b3JmM2tVZWMwSmhoRmdZUmZ",
-   "title": "Why RBI kept repo rate unchanged at 5.25% despite inflation concerns - The Indian Express",
+   "title": "Why RBI kept repo rate unchanged at 5.25% despite inflation concerns - indianexpress.com",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ01oTXJwMWRVdVNRd2VocmxxZTNnRkFXUzhZVmc3eEdaRzl5cks5WjRnNXluOXhDX3BHWFdvekJvY0g1bEtpMEJjNzFFdHEwY3BET2FjUFpJdWlCaTlkNzVNUWt2b3JmM2tVZWMwSmhoRmdZUmZ5UXBXaHNLVHkzWF9CM3dPRWEzQUtIN3FBYXlRVG1veDNyQmtzVmVPZHVpVG91bkpiU1dPaFgxUzhCSDY0NWp4R2JSZDRzRzlrd0JnekE4TlHSAcwBQVVfeXFMT0pXb3hNR21IQTI2RjRJTlRiYjhCb2pFajNmanZRd3hRSDhvVHZCa05ucE1lNlllXzhrX2FMMFN6TGRVS0dtM0NmNWtKR3RZQ0toYmRPRlRidG9ITXFlczB4ZHlkNEgtcnNBWURwWW1id19QM2s2aDRsaDYzQWJ6WGRPdFpfNUQ2SVhBMHd3VGNZV011YV9mT1VZeUxKc0pOaFYtX0ZDZkU4Uy05c3E0M1ZYdEk2OWdqMUV2dDNadFBTQlItZi1jMEw2dVpE?oc=5",
-   "desc": "Why RBI kept repo rate unchanged at 5.25% despite inflation concerns  The Indian Express",
+   "desc": "Why RBI kept repo rate unchanged at 5.25% despite inflation concerns  indianexpress.com",
    "source": "RBI",
-   "publisher": "The Indian Express",
+   "publisher": "indianexpress.com",
    "scope": "india",
    "ts": 1785913200000
   },
@@ -1198,6 +1188,16 @@
    "desc": "Indian equity markets open higher ahead of RBI’s policy outcome  ddnews.gov.in",
    "source": "RBI",
    "publisher": "ddnews.gov.in",
+   "scope": "india",
+   "ts": 1785913200000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82bEVtVGR2N25ob0xWaFFCalB1WkpQclZ0eDNUNnN0VjNJRTNkeFRyOUR6azZzVjVPWlBjNEVRckRNajlwSGl1MGlUN2lkMEhUajJvMm0xMTBaOTJ1akVJU2FfVzNzd2VaYzR2UC1wRFVTV00?oc=",
+   "title": "RBI MPC Meeting August 2026: Key Decisions and What They Mean for You - Sahi",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82bEVtVGR2N25ob0xWaFFCalB1WkpQclZ0eDNUNnN0VjNJRTNkeFRyOUR6azZzVjVPWlBjNEVRckRNajlwSGl1MGlUN2lkMEhUajJvMm0xMTBaOTJ1akVJU2FfVzNzd2VaYzR2UC1wRFVTV00?oc=5",
+   "desc": "RBI MPC Meeting August 2026: Key Decisions and What They Mean for You  Sahi",
+   "source": "RBI",
+   "publisher": "Sahi",
    "scope": "india",
    "ts": 1785913200000
   }
