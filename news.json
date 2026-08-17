@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-17T23:31:33.449804+00:00",
+ "updated": "2026-08-17T23:56:59.655693+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc0pnQmNyamZGVFpyb1pfOUhWMlUzdm4zVkYwN2VucEQ5dTBKUjZGa0RQMzQ1ZG5ySTlVRFBnLUZIaEMzRlg3NHRDalFMbEFzZmZpYlY2cldVbHVWamtLVXg3QlRNZ0RIMnp6SDFPV3BNMVRvVzF",
@@ -102,16 +102,6 @@
    "ts": 1786982181000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzV0WHFzU1g3UTZ6bHBHZEdYN3VCWHpyaVN0N2JHc3JxMDh1dUJUYUl5aV9zaXZFNnE1RExQak11aTgtOHQ0V3haeWIwWDBBS2FJLVVkdEJWRk96eVB5RjRSdFdiMzFkaHBQa3lnS0EtOW9ZSWx",
-   "title": "Gold strengthens above $4,400 as Fed rate-hike expectations fade - FXStreet",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTzV0WHFzU1g3UTZ6bHBHZEdYN3VCWHpyaVN0N2JHc3JxMDh1dUJUYUl5aV9zaXZFNnE1RExQak11aTgtOHQ0V3haeWIwWDBBS2FJLVVkdEJWRk96eVB5RjRSdFdiMzFkaHBQa3lnS0EtOW9ZSWxoOFl3em5zYzBpeXlkVU1ObjV2eGk4cjVKcE1EUE1JdnlPakY0bXdHdkp3N3V0cWM1VXg2RzBldG9BWkZn?oc=5",
-   "desc": "Gold strengthens above $4,400 as Fed rate-hike expectations fade  FXStreet",
-   "source": "US Fed",
-   "publisher": "FXStreet",
-   "scope": "world",
-   "ts": 1786981110000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSTBpXzhDNmtSZjFwWWVfa09wZWxkSUJLZUpPUUZqYUlvd0tIUG1uU2s2ZHhiNXplQk9BeldQVkltTUp0NEFjX21JTzY4dWlCLUYxX3llNWhWWmRxTjFWdnFTaUd3X2JXNWxyemlidmh4UUUwRi1",
    "title": "CAS here to stay, but open to review for improvement: SEBI - The Hindu",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSTBpXzhDNmtSZjFwWWVfa09wZWxkSUJLZUpPUUZqYUlvd0tIUG1uU2s2ZHhiNXplQk9BeldQVkltTUp0NEFjX21JTzY4dWlCLUYxX3llNWhWWmRxTjFWdnFTaUd3X2JXNWxyemlidmh4UUUwRi1wa3hSdjdiN3dsZi1nbmFLLTloSU9vU3lsSXlzYzIxS2VWU0lMc3M2YW5mUEdYck0zTVlhYnRSeTdEN0Fxd0RHZ9IBtgFBVV95cUxNSTBpXzhDNmtSZjFwWWVfa09wZWxkSUJLZUpPUUZqYUlvd0tIUG1uU2s2ZHhiNXplQk9BeldQVkltTUp0NEFjX21JTzY4dWlCLUYxX3llNWhWWmRxTjFWdnFTaUd3X2JXNWxyemlidmh4UUUwRi1wa3hSdjdiN3dsZi1nbmFLLTloSU9vU3lsSXlzYzIxS2VWU0lMc3M2YW5mUEdYck0zTVlhYnRSeTdEN0Fxd0RHZw?oc=5",
@@ -203,11 +193,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1ZThRcmFjRFdFLWJHZHNEZDRsM0hUSkRrMmlXcjM3MnRDcXpqNm5LeTd1UkdHREE1QU1HRXNHT1Z4VEZwU1V3TXc4c1JQLXJSVFp6ckZ0WnNlWlIzMnI0TzYxQTgxRnpwTUM4Y3Fn?oc=5",
-   "title": "The Price of Fed Silence - The Daily Economy",
+   "title": "The Price of Fed Silence - thedailyeconomy.org",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1ZThRcmFjRFdFLWJHZHNEZDRsM0hUSkRrMmlXcjM3MnRDcXpqNm5LeTd1UkdHREE1QU1HRXNHT1Z4VEZwU1V3TXc4c1JQLXJSVFp6ckZ0WnNlWlIzMnI0TzYxQTgxRnpwTUM4Y3Fn?oc=5",
-   "desc": "The Price of Fed Silence  The Daily Economy",
+   "desc": "The Price of Fed Silence  thedailyeconomy.org",
    "source": "US Fed",
-   "publisher": "The Daily Economy",
+   "publisher": "thedailyeconomy.org",
    "scope": "world",
    "ts": 1786961700000
   },
@@ -342,6 +332,16 @@
    "ts": 1786942920000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkZyaE1uZHRDdVNCWnVVbU5kdkI3ckMzTGFnQUNzQ29sU3lWT3Via3pFcGNBdUFESWlkRTdQQkNqVFZqdThXS1phdWMzV3oxaHhkR0tqMU0tRFM2NVlsTVcyWWF2V01QMWlIdzFhZ2Fqc2xGR3N",
+   "title": "Goldman Says Markets Too Hawkish on Betting Fed Will Hike Rates - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkZyaE1uZHRDdVNCWnVVbU5kdkI3ckMzTGFnQUNzQ29sU3lWT3Via3pFcGNBdUFESWlkRTdQQkNqVFZqdThXS1phdWMzV3oxaHhkR0tqMU0tRFM2NVlsTVcyWWF2V01QMWlIdzFhZ2Fqc2xGR3NWVTNGSXFMaDhaT2NsSWlhUW5mYUlxRlBhUjU5ZkowbGR4VVpONE4tUQ?oc=5",
+   "desc": "Goldman Says Markets Too Hawkish on Betting Fed Will Hike Rates  Yahoo Finance",
+   "source": "US Fed",
+   "publisher": "Yahoo Finance",
+   "scope": "world",
+   "ts": 1786939320000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaE1MaXJmaVEyMmx6U3JIRFdZd3JYSFdrWktWZTF5djd4enRjU01uYXNMU1hRbHlJM1htYUg5aWtLcWJkM1VsdWpIcVg0NnBWV1AyVnVDYzh4MmRwT3JXcE5mUV9KZlBkTHF0YUZzUGZPeUtzQUF",
    "title": "Goldman Says Markets Too Hawkish on Betting Fed Will Hike Rates - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaE1MaXJmaVEyMmx6U3JIRFdZd3JYSFdrWktWZTF5djd4enRjU01uYXNMU1hRbHlJM1htYUg5aWtLcWJkM1VsdWpIcVg0NnBWV1AyVnVDYzh4MmRwT3JXcE5mUV9KZlBkTHF0YUZzUGZPeUtzQUF0elRibnhReTJ0N0JRMnB1MTBzYW5ucEs2RFZMbzNFWm1SeVB4QjQtNmdIaW5FSVNhNXN6TEhRT0RGYlJWeXU?oc=5",
@@ -403,11 +403,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDF3cjFrdXdSSHNPNjZnRGo1U1RMMVFXUXkzck9RRHBMX21aWS1NS2owYlhYNW1yWkx6ZUhJZ3dkMGdaTklYRHJseXJJWWFwQUlrTWVnTW9UTTFNd1dMRHlCVDdfSy1NalFtb1FNY1MtUVhnNUl",
-   "title": "Will the Fed minutes reveal any forward guidance? - ft.com",
+   "title": "Will the Fed minutes reveal any forward guidance? - Financial Times",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDF3cjFrdXdSSHNPNjZnRGo1U1RMMVFXUXkzck9RRHBMX21aWS1NS2owYlhYNW1yWkx6ZUhJZ3dkMGdaTklYRHJseXJJWWFwQUlrTWVnTW9UTTFNd1dMRHlCVDdfSy1NalFtb1FNY1MtUVhnNUlacEZpZXh1UjhSa0k4X3Y?oc=5",
-   "desc": "Will the Fed minutes reveal any forward guidance?  ft.com",
+   "desc": "Will the Fed minutes reveal any forward guidance?  Financial Times",
    "source": "US Fed",
-   "publisher": "ft.com",
+   "publisher": "Financial Times",
    "scope": "world",
    "ts": 1786878002000
   },
@@ -523,21 +523,21 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZlBkSnI5T2VhTFlqMURkS25rdTBTQVlaLUZGaFZYVTB4ZndUeUlfYXVaNFVOQkN1ZnY1c3V5Vk1BOHVUa0VzYWU0Y2hMRmdBSUkydm5CYkd0cHRNMjNuQXNvdjg4em01cUswTGt1YXdkVzVVSHl",
-   "title": "India sees sharp expansion in retail, MSME credit access since 2021 - business-standard.com",
+   "title": "India sees sharp expansion in retail, MSME credit access since 2021 - Business Standard",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZlBkSnI5T2VhTFlqMURkS25rdTBTQVlaLUZGaFZYVTB4ZndUeUlfYXVaNFVOQkN1ZnY1c3V5Vk1BOHVUa0VzYWU0Y2hMRmdBSUkydm5CYkd0cHRNMjNuQXNvdjg4em01cUswTGt1YXdkVzVVSHlyZ1h4WUhmd0IyUmlYaXpvWERBckQyZ2FqMmtLQWhodEZmNnVYVHlpbFI2dkh0WUYteWdwbzlfblJBSldfMl9vcUpFWWM1bEREb2VpQjE2elBnLW8tUHpLQdIB0wFBVV95cUxOYlNYTFNvWTJVTFpCYW1SSjBna1R5OFR4Vzk2SGF1ZDFaRjU0dUNXN05OU0xrVDU1Ym02ZGpjcTdaSEtQVzZzaENubkJ5WjlQOFRiMUF4LUVOb0V1X2RMVzhSSFg1YS12YnAyY0U3dFpkSlliN3lld1g4LVdrTUg4aWFhVWQ4Nmpva0lPUktVMklWU084N3dWSzJKaVRmYlY0RjFCRDlqZ2tPQ3hSYzZfNzktTnB2ZWtidmxOUmltX040WXpIcm9YVzhFRjczLVpFZGZr?oc=5",
-   "desc": "India sees sharp expansion in retail, MSME credit access since 2021  business-standard.com",
+   "desc": "India sees sharp expansion in retail, MSME credit access since 2021  Business Standard",
    "source": "SIDBI / MSME",
-   "publisher": "business-standard.com",
+   "publisher": "Business Standard",
    "scope": "india",
    "ts": 1786711100000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWDJ6RTQweDVoMzBFSFZJMkoyMHFlc05FWjdOemxTSnVYQjZjZGxLSGk5NzB2Sk5zcGh3T095RTF2OVh1YWliMEtKNkZaNWd5WW5DWVk0bWJCT3lvajE3OTg0YkNFLXBMWHhJdFp3bWtvMExySFY",
-   "title": "India Steps Up Review of Closing Stock Auction as Concerns Mount - bloomberg.com",
+   "title": "India Steps Up Review of Closing Stock Auction as Concerns Mount - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWDJ6RTQweDVoMzBFSFZJMkoyMHFlc05FWjdOemxTSnVYQjZjZGxLSGk5NzB2Sk5zcGh3T095RTF2OVh1YWliMEtKNkZaNWd5WW5DWVk0bWJCT3lvajE3OTg0YkNFLXBMWHhJdFp3bWtvMExySFYyY0pnZEwyRm1yRE56QXZiSUFSek12MTNndHQ1aG0xcDFHdGRtVWVjWlhORGI4cHlPcC1xamgyRHZuQUpIbjNNQQ?oc=5",
-   "desc": "India Steps Up Review of Closing Stock Auction as Concerns Mount  bloomberg.com",
+   "desc": "India Steps Up Review of Closing Stock Auction as Concerns Mount  Bloomberg.com",
    "source": "SEBI",
-   "publisher": "bloomberg.com",
+   "publisher": "Bloomberg.com",
    "scope": "india",
    "ts": 1786702565000
   },
@@ -632,16 +632,6 @@
    "ts": 1786569900000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU9OVmNVQjc3NXk0dUF0TVZfNEYxYXh0VXpKTThPUmVUa3Y5N3VMVGhQdGw4YlRidDVqVmp4b2ZLZ0EyU3MzSmlpTXdCV2tKTzFhSjl3WE0wZHV2Mm42akFSUEp0alZzMG8wT09OM0QtVzJ1ZEt",
-   "title": "SIDBI must evolve from lender to ‘market maker’ and ‘risk-sharing’ partner: FM Sitharaman - ddnews.gov.in",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU9OVmNVQjc3NXk0dUF0TVZfNEYxYXh0VXpKTThPUmVUa3Y5N3VMVGhQdGw4YlRidDVqVmp4b2ZLZ0EyU3MzSmlpTXdCV2tKTzFhSjl3WE0wZHV2Mm42akFSUEp0alZzMG8wT09OM0QtVzJ1ZEtLVUhtYUlMOHV0Y3dnbExld1ZINFF1M0k4U19rX09uQ1kwenFGbHJXYjJBbWMzdjF4LXFURURfdjNJ?oc=5",
-   "desc": "SIDBI must evolve from lender to ‘market maker’ and ‘risk-sharing’ partner: FM Sitharaman  ddnews.gov.in",
-   "source": "SIDBI / MSME",
-   "publisher": "ddnews.gov.in",
-   "scope": "india",
-   "ts": 1786564802000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcmVrOS1QbnNaclpxUElCbzFTVXFsZVBKZHR5aEd6T3NJMzE4aF9pZmNIdXJzcGw5bkhxNmlRVmIzelFZYmRoUkw4ZHJsbnU1c1BZY1hBaE5SUW0wdmtRN0ZJMkE3UlhoODlHQlJ3TE90ZEtVbGh",
    "title": "RBI floats harmonised interest rate determination draft rules for banks, NBFCs - ETLegalWorld.com",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcmVrOS1QbnNaclpxUElCbzFTVXFsZVBKZHR5aEd6T3NJMzE4aF9pZmNIdXJzcGw5bkhxNmlRVmIzelFZYmRoUkw4ZHJsbnU1c1BZY1hBaE5SUW0wdmtRN0ZJMkE3UlhoODlHQlJ3TE90ZEtVbGhXSGFjeHdnNDV3Qkx6anVtQ190MG1Qd1NvcDlRaUg1djAwUnBvcTBHS1o5dFpRcDhKZGs1X0VLVUo5MEtrOTBHYjNCOTRteTlaNC1vNS1TdHJUMmQ2OGswS05qd2g1bHpON19IeU1NRUJB?oc=5",
@@ -653,11 +643,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTm1KUVNyQkktNUZuTVI3bnFMNDFoZlJSVExMdzhWQ2dvU0duNWcwZUNJXzdrMWdRU3Y2RFVmMTRwemhMZi1wVEg1SWlreUp3QW5PamlkRWFfdjNQS2U1N2ZqOGZDdEp2cDhVRHhxRDNOMlZVX1p",
-   "title": "RBI Proposes New Rules to Standardize Loan Rates for Borrowers - bloomberg.com",
+   "title": "RBI Proposes New Rules to Standardize Loan Rates for Borrowers - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTm1KUVNyQkktNUZuTVI3bnFMNDFoZlJSVExMdzhWQ2dvU0duNWcwZUNJXzdrMWdRU3Y2RFVmMTRwemhMZi1wVEg1SWlreUp3QW5PamlkRWFfdjNQS2U1N2ZqOGZDdEp2cDhVRHhxRDNOMlZVX1pJaURLYUlCbjlKb2ZERmxyNm0wSC1kMld6WWJhMkVUVGs2N2ZvUmx2NHhqN0JhTGZRZ3hDenQtcGtoZkdCRQ?oc=5",
-   "desc": "RBI Proposes New Rules to Standardize Loan Rates for Borrowers  bloomberg.com",
+   "desc": "RBI Proposes New Rules to Standardize Loan Rates for Borrowers  Bloomberg.com",
    "source": "RBI",
-   "publisher": "bloomberg.com",
+   "publisher": "Bloomberg.com",
    "scope": "india",
    "ts": 1786543671000
   },
@@ -763,11 +753,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORWJOY3Y4T19DTTNqMHIzcmwzaVlBM0c5SVpOZWlMRkVHSXpydVRlLTByQnlwMHc1Yi0zTHRWcXpObVlRa2NCZ2N6VlRpX1BpWF9oTTNUWllWcExvMFFKNkFpa19vXzlpRHYyd0tjSk1tRWlpS21",
-   "title": "SIDBI Deploys MonetaGo Secure Financing Across MSME Lending Operations - SMEStreet",
+   "title": "SIDBI Deploys MonetaGo Secure Financing Across MSME Lending Operations - smestreet.in",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORWJOY3Y4T19DTTNqMHIzcmwzaVlBM0c5SVpOZWlMRkVHSXpydVRlLTByQnlwMHc1Yi0zTHRWcXpObVlRa2NCZ2N6VlRpX1BpWF9oTTNUWllWcExvMFFKNkFpa19vXzlpRHYyd0tjSk1tRWlpS21VSlNWeHNSeWx6X1ZYaGx4d0RieEFxNWNWWEhXWGd0MFdwOFpZMXdTTnEwVDBhakg5VWxjTzFK0gGsAUFVX3lxTE5FYk5jdjhPX0NNM2owcjNybDNpWUEzRzlJWk5laUxGRUdJenJ1VGUtMHJCeXAwdzViLTNMdFZxek5tWVFrY0JnY3pWVGlfUGlYX2hNM1RaWVZwTG8wUUo2QWlrX29fOWlEdjJ3S2NKTW1FaWlLbVVKU1Z4c1J5bHpfVlhobHh3RGJ4QXE1Y1ZYSFdYZ3QwV3A4Wlkxd1NOcTBUMGFqSDlVbGNPMUo?oc=5",
-   "desc": "SIDBI Deploys MonetaGo Secure Financing Across MSME Lending Operations  SMEStreet",
+   "desc": "SIDBI Deploys MonetaGo Secure Financing Across MSME Lending Operations  smestreet.in",
    "source": "SIDBI / MSME",
-   "publisher": "SMEStreet",
+   "publisher": "smestreet.in",
    "scope": "india",
    "ts": 1786425337000
   },
@@ -783,11 +773,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd2NVczd1MG1LVVBYOU1ncy1RVVo1S0tQQms2RmpSTHB6QVFPMVduQzRsdXlONEJJQ1VkZDg3RzA2N3pEQk1VUklYSV93aHE0MXJYdWJTM1RDVkYzc1V0MzNKOF94ZUpjeUxLYTlaTlZLeGtYRzd",
-   "title": "India's SIDBI goes live MonetaGo's Secure Financing - fintechfutures.com",
+   "title": "India's SIDBI goes live MonetaGo's Secure Financing - FinTech Futures",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd2NVczd1MG1LVVBYOU1ncy1RVVo1S0tQQms2RmpSTHB6QVFPMVduQzRsdXlONEJJQ1VkZDg3RzA2N3pEQk1VUklYSV93aHE0MXJYdWJTM1RDVkYzc1V0MzNKOF94ZUpjeUxLYTlaTlZLeGtYRzdGOXFITldrbDdkb0xIS2hrUzQ0bVQyUmM4elJJUk1ZZ2hnMlJGbjI0N3o0LVJEYWdGSWxFcW0zUjdJ?oc=5",
-   "desc": "India's SIDBI goes live MonetaGo's Secure Financing  fintechfutures.com",
+   "desc": "India's SIDBI goes live MonetaGo's Secure Financing  FinTech Futures",
    "source": "SIDBI / MSME",
-   "publisher": "fintechfutures.com",
+   "publisher": "FinTech Futures",
    "scope": "india",
    "ts": 1786367365000
   },
@@ -853,11 +843,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVm9Gb0l2OGE1LVNsRDk0Yno5b2poM3ZuRm01LW53SFVJcnNaOWNRTUY1V2ZoYVJFRE1OSVRKelp6OVB5MUczOGRYMTRLQUw4XzNSQlNJLU9fSWFPRWo3ejVzSFBqZWZCekQ4em0zSWY4djVxMnB",
-   "title": "West Asia conflict fails to dent MSME confidence: SIDBI - Deccan Herald",
+   "title": "West Asia conflict fails to dent MSME confidence: SIDBI - deccanherald.com",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVm9Gb0l2OGE1LVNsRDk0Yno5b2poM3ZuRm01LW53SFVJcnNaOWNRTUY1V2ZoYVJFRE1OSVRKelp6OVB5MUczOGRYMTRLQUw4XzNSQlNJLU9fSWFPRWo3ejVzSFBqZWZCekQ4em0zSWY4djVxMnBhNmg3SkFBbHlxamZUazZydlRRZkZuWElDV0FzakJDdlBVeTlFdHdnQkpxZWc?oc=5",
-   "desc": "West Asia conflict fails to dent MSME confidence: SIDBI  Deccan Herald",
+   "desc": "West Asia conflict fails to dent MSME confidence: SIDBI  deccanherald.com",
    "source": "SIDBI / MSME",
-   "publisher": "Deccan Herald",
+   "publisher": "deccanherald.com",
    "scope": "india",
    "ts": 1786258800000
   },
@@ -952,6 +942,26 @@
    "ts": 1786120004000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORnI2UHdxbXQ0ZDJtRVc0T3l3cFJWM2FwYVpwekhqTS00TDB0ZldtYkhLdm9VSi1nV0pUWWNvejBVZFJQV29RU2xpenhza2NobFNIeC1KQlNKdzY2ZG15UmtWc3EyS3IycjVobVp2bmJHUXNYNVY",
+   "title": "MSME business confidence declines for fourth straight quarter, cost and demand pressures weigh: SIDBI - Devdiscourse",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORnI2UHdxbXQ0ZDJtRVc0T3l3cFJWM2FwYVpwekhqTS00TDB0ZldtYkhLdm9VSi1nV0pUWWNvejBVZFJQV29RU2xpenhza2NobFNIeC1KQlNKdzY2ZG15UmtWc3EyS3IycjVobVp2bmJHUXNYNVY0NHJvSi1FdFluS1RTNlFPaUlJU2VYLUpwTTNBM3hpeDJzeEJud3pzY0s3NjNGNVEzaWZWMVlwLS0ya1p3SlEta24yNWhiVGNaX0F6bW51d3ZsY0N1MzNsZlk5VDlURGNOSFZrTE13TXZBbXhtcDNyZmxB0gHuAUFVX3lxTFBjcG5zZDM5QnhpLVpWeWVmT1I5cU9OSmI0dkVaV3g4ZURBNXZ3b29DX0xVMjBBbVBrLXkyRkZjRFVubm1zbkhQTHFVUENsTDV2cS1wQ2Y1eEo2N1lrbnd5OXFpR0k3ZUs0UlV0WDNyTHdFMHhwbWZ5MkFrWmM1cjhYcjBoYlFnM3hQWVo3aExwSDZYMjlUNE4yNVU3cVVxdF81dExTYVBzTFBRRHozY3hRem03SEVwTVYwRDJLbEwtV3p1dUhhcjJmN3JtaTQxZ1dBbGU2ZE1qOXltcjJROW5hTnZsalZkbjdIWUoxaVE?oc=5",
+   "desc": "MSME business confidence declines for fourth straight quarter, cost and demand pressures weigh: SIDBI  Devdiscourse",
+   "source": "SIDBI / MSME",
+   "publisher": "Devdiscourse",
+   "scope": "india",
+   "ts": 1786099171000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUJYUUNJcU1GNUNoOElNODE4cUZEM3lYbVlFRzJoM3FyMHR4QmxmX3VnaEhzanlDaVVEU1JGWktCNFVFY0lhT0I4NHBYN2c1b196NkJHdW5zcFFuRWxHOTI3RllLMG1ScjlmX2oteE5IUXpCaTl",
+   "title": "India's MSMEs stay upbeat despite West Asia conflict, SIDBI survey finds - CNBC TV18",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUJYUUNJcU1GNUNoOElNODE4cUZEM3lYbVlFRzJoM3FyMHR4QmxmX3VnaEhzanlDaVVEU1JGWktCNFVFY0lhT0I4NHBYN2c1b196NkJHdW5zcFFuRWxHOTI3RllLMG1ScjlmX2oteE5IUXpCaTlRd3ZiSzJMUTh2MXZmX0x3bGstVTlMdGlkdUZuLWh5MmdVTVFtWGJ2Q0UzZW5Wa052RDlnNnRGNTRISGpwZ0Jnam9LMU1tLWVrTFpDQ0nSAcgBQVVfeXFMT0wxNnZoV1JvQ2dTUjFPNFA1SndGLU96Z2lYN09TXzJYRWZwSEdvZGNZMXdqUWNEOFBIVndlWFFIWnhveGxiSm1SV0t4bkMyTjFIZGdtNHJNN1FNZGxzV2ZDRUs5QU9uTnhZeUhyenZKa2NzTTFuc3dnc0Q2T0VzWVJXX01iMU9BWUR4ZlA4LXFJNlpiYkJJNkp1eTlUY085WVJjQ3U1ZE9YTjlWMUkzWHg4VzNuU1BkSEttMGl4LXQxQnhJdFMzVmw?oc=5",
+   "desc": "India's MSMEs stay upbeat despite West Asia conflict, SIDBI survey finds  CNBC TV18",
+   "source": "SIDBI / MSME",
+   "publisher": "CNBC TV18",
+   "scope": "india",
+   "ts": 1786086000000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkV3WmFpUmlEQlBFQ2hBNzk2eUx2d3RSZjlTT044WXc3Rjl5Mm53SmJqdnZFTHRPVmF2VFlKTUdQZjQ2LXdTU01TS0c5VDJBWjFrNnQwVHc4QnVidzgtSVFiYzZlc19fcXlyUVEzMk1lWHdmUkg",
    "title": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say. - CBS News",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkV3WmFpUmlEQlBFQ2hBNzk2eUx2d3RSZjlTT044WXc3Rjl5Mm53SmJqdnZFTHRPVmF2VFlKTUdQZjQ2LXdTU01TS0c5VDJBWjFrNnQwVHc4QnVidzgtSVFiYzZlc19fcXlyUVEzMk1lWHdmUkg5c2VTT2JJbnQtNDh2NFlGQmtUMU1TM1NIOXpYU0lCVTYxNA?oc=5",
@@ -1033,11 +1043,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JVnBYVDQyMGU1ZTNTWU51ZWQxUFBTLXRiaVdOWU5sbk9Mbno0a3ZKaWVXaUhUMmFwMmE1TW14OWdBekRCa0ZBdkdNeVNVcXZ3d1hia01IbWd2WnIxM0JQRHFmT0JKdDdRTGxSMTBqaHQ?oc=5",
-   "title": "The trends in central bank research papers - ft.com",
+   "title": "The trends in central bank research papers - Financial Times",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JVnBYVDQyMGU1ZTNTWU51ZWQxUFBTLXRiaVdOWU5sbk9Mbno0a3ZKaWVXaUhUMmFwMmE1TW14OWdBekRCa0ZBdkdNeVNVcXZ3d1hia01IbWd2WnIxM0JQRHFmT0JKdDdRTGxSMTBqaHQ?oc=5",
-   "desc": "The trends in central bank research papers  ft.com",
+   "desc": "The trends in central bank research papers  Financial Times",
    "source": "ECB / Europe",
-   "publisher": "ft.com",
+   "publisher": "Financial Times",
    "scope": "world",
    "ts": 1785990824000
   },
@@ -1063,11 +1073,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWWdnZDdyVWVWY0tXRzNEQkw0Y0FKYVN1UjJiTWVGVnd0ZUVQelVzeVUtcC1SWExjdENwM2w4VnVGUUlJa0RONmJXZ0FyNC1fLVhHalk3YXlwTm12YjlLVTViRkoxbGtWeE1iNHdaTFpNQkowdnR",
-   "title": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem - Press Trust of India",
+   "title": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem - ptinews.com",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWWdnZDdyVWVWY0tXRzNEQkw0Y0FKYVN1UjJiTWVGVnd0ZUVQelVzeVUtcC1SWExjdENwM2w4VnVGUUlJa0RONmJXZ0FyNC1fLVhHalk3YXlwTm12YjlLVTViRkoxbGtWeE1iNHdaTFpNQkowdnRyVnVGNzlqSUtFanpsV0trSE5oWlN5eEpyejBoZ2xob1dvbmRWT2tQQ2UtdVU5dDVmRFNGdmpHTEZwR2RERktGbFJTemdrdHZBUmRHVzAza2gxc2kwQ2hISUxxYXRZTGdVR2VWMzRtWFQtSUFuZUZEaHVZcUFHYjFuV095ZjFjYXpNcXF2TUw5cnUw?oc=5",
-   "desc": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem  Press Trust of India",
+   "desc": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem  ptinews.com",
    "source": "SIDBI / MSME",
-   "publisher": "Press Trust of India",
+   "publisher": "ptinews.com",
    "scope": "india",
    "ts": 1785929408000
   },
@@ -1133,11 +1143,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN1dwTzc3X1JTUEdpcjJHenRvalVLcFdYczhPMlowakhhZmNieU4yYUxnSWJYdEtTVDBiUnFjc1diME1EeG4wdENxOUxnUWxsajJudFFIdTVtYWxXc1pDRl8tb3E5ZVlIS2hoV1Z5VnFoSXBUU28",
-   "title": "India Keeps Key Interest Rate on Hold, Retains Neutral Stance - bloomberg.com",
+   "title": "India Keeps Key Interest Rate on Hold, Retains Neutral Stance - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN1dwTzc3X1JTUEdpcjJHenRvalVLcFdYczhPMlowakhhZmNieU4yYUxnSWJYdEtTVDBiUnFjc1diME1EeG4wdENxOUxnUWxsajJudFFIdTVtYWxXc1pDRl8tb3E5ZVlIS2hoV1Z5VnFoSXBUU28xWEhobFVGeDVoMVF1czhybWRsQkYwblVhY3NOUGs5MXp5X3U4b1EwWkM5SlN5RzRna016aHAtNXJuOQ?oc=5",
-   "desc": "India Keeps Key Interest Rate on Hold, Retains Neutral Stance  bloomberg.com",
+   "desc": "India Keeps Key Interest Rate on Hold, Retains Neutral Stance  Bloomberg.com",
    "source": "RBI",
-   "publisher": "bloomberg.com",
+   "publisher": "Bloomberg.com",
    "scope": "india",
    "ts": 1785913200000
   },
@@ -1163,11 +1173,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORWVOaWFud2RXSS1CS2FyX0ZqMmJ4NmdVVjRiRlp0bXBmd2hSVXBMeDl3OWpRYVpNQ29xWUF0dE5WTExtSDhZdUlreFVETU9WTS14bEdLM21BSzdpeWhzX1dwaTI3LWZHaHo3b1h5NF9EZGotVE5",
-   "title": "RBI Policy: Realty, Auto Outperform As Reserve Bank Of India Maintains Status Quo On Rates - outlookmoney.com",
+   "title": "RBI Policy: Realty, Auto Outperform As Reserve Bank Of India Maintains Status Quo On Rates - Outlook Money",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORWVOaWFud2RXSS1CS2FyX0ZqMmJ4NmdVVjRiRlp0bXBmd2hSVXBMeDl3OWpRYVpNQ29xWUF0dE5WTExtSDhZdUlreFVETU9WTS14bEdLM21BSzdpeWhzX1dwaTI3LWZHaHo3b1h5NF9EZGotVE56R0F1bkw1V3BJT3JzZFF1UXptMHVVbnpxVG9NVUJ0b1NlNThsN1ZHSnVDalJjdVhEa0szODAwSTdQekh4Z25yaDJNQ0szeDd5cGtkZTRmajFnajhmdkFqZTBRTXhVekpjVnpyZ202QzMtMVNvNVhMNjVHVGJR0gH4AUFVX3lxTE9sTkJfZGJpbDV2R1JRSWVqeUh2UUs3V3l6bVNIN2ZsTWk4VGtkTXRHVTJLT190cVlCZXBCSE95dXdtenJ3WFdMc0F5YU4yLV96VDhzSy11ZXNBUHFidU9Hb3gyR2ZlM1NJajRfSFJrQS1GVlB4el95WmtoQVlpaXhDUWJ2T3NKNXNydnZYTUg5blIyVlNsaVVXbkJFRDhWWEtVbDF5RnZyLTE0ZE42YWVOT3dabjNSM2F4dkdrd1RGcVBONjFtYXVicktVaWNGUkplVVpieXpBbXpqd3l5dTdwYnBPd2VWM0pETzgtRkZFb3dGZkg5TjBq?oc=5",
-   "desc": "RBI Policy: Realty, Auto Outperform As Reserve Bank Of India Maintains Status Quo On Rates  outlookmoney.com",
+   "desc": "RBI Policy: Realty, Auto Outperform As Reserve Bank Of India Maintains Status Quo On Rates  Outlook Money",
    "source": "RBI",
-   "publisher": "outlookmoney.com",
+   "publisher": "Outlook Money",
    "scope": "india",
    "ts": 1785913200000
   },
@@ -1188,16 +1198,6 @@
    "desc": "Indian Rupee Trades At 95.07 Per USD Against 94.97 Before RBI Policy Decision  Sahi",
    "source": "RBI",
    "publisher": "Sahi",
-   "scope": "india",
-   "ts": 1785913200000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzhMX2lvbHNQZTVqS2stZzBYZzhzUmcwc0Y4X2ZJQUVWU0ZtNklzOC0zVkFwS3ZUak5zajIyTTV3YWc3cllicXY5MWU5WlBudW1VNkxqVHpGQTVGQXlsVDRZb1RTN2pfNFplR2NJR1NOVXJtaEl",
-   "title": "RBI’s balanced policy stance to support growth, investment sentiment: PHDCCI - ddnews.gov.in",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzhMX2lvbHNQZTVqS2stZzBYZzhzUmcwc0Y4X2ZJQUVWU0ZtNklzOC0zVkFwS3ZUak5zajIyTTV3YWc3cllicXY5MWU5WlBudW1VNkxqVHpGQTVGQXlsVDRZb1RTN2pfNFplR2NJR1NOVXJtaElMbDJtd0xSX0x0VHhWd3g3WTFnT1BaLVJpeFZORkQ5Z2l4QWZOUVdVRlVQ?oc=5",
-   "desc": "RBI’s balanced policy stance to support growth, investment sentiment: PHDCCI  ddnews.gov.in",
-   "source": "RBI",
-   "publisher": "ddnews.gov.in",
    "scope": "india",
    "ts": 1785913200000
   }
