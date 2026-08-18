@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-18T14:56:06.024415+00:00",
+ "updated": "2026-08-18T15:38:41.565067+00:00",
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSWROYzV6anhBbTA2YVBVYUJOMkItbkEtN0VVTzExVGg3NXBwM0xLMjRPZEdDSmJ4TEJHTXlOa0dFRkZkd1FoYVRxMHV5QTRESVY3S0JLRW5CbmdBYjNyV2J4TTNpNUxQRElQQTRTTHZrN19GeG5",
+   "title": "Trump’s War Sends Interest Rates Soaring – OpEd - Eurasia Review",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSWROYzV6anhBbTA2YVBVYUJOMkItbkEtN0VVTzExVGg3NXBwM0xLMjRPZEdDSmJ4TEJHTXlOa0dFRkZkd1FoYVRxMHV5QTRESVY3S0JLRW5CbmdBYjNyV2J4TTNpNUxQRElQQTRTTHZrN19GeG5XZzlnWjFyeENiZGVNQ29HOXFTS2o0VA?oc=5",
+   "desc": "Trump’s War Sends Interest Rates Soaring – OpEd  Eurasia Review",
+   "source": "US Fed",
+   "publisher": "Eurasia Review",
+   "scope": "world",
+   "ts": 1787066205000
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVWlaZWlGWHNvaGdPYUl0U3o0cE9pWkZfejljeUpzNWxERHJVOFZOenRxY2g3dGhwRGtnc1RHSzVycjlTb3JwQlAtaFpPSHhZSVlVdU1ieV95bHhYNTl5RG9jQTEwTkJUaldpN1pMNEQxTVFOZlJ",
    "title": "What is keeping Gold between $4,200 and $4,500 as Federal Reserve pause bets build? - FXStreet",
@@ -120,6 +130,16 @@
    "publisher": "News On AIR",
    "scope": "india",
    "ts": 1787047995000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DVm1yYlNtRFZuam9taUZWblczM0tIX3lvR2RZTXRtLVVTNDlsSXJwbW9GWFpoMzU4akExLS1IMGlEcXZpaXl0X2ZxRnRILWtNckdsLXZYbjU?oc=5",
+   "title": "Top CD rates today, Aug. 18, 2026: Lock in up to up to 4.50% - Fortune",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DVm1yYlNtRFZuam9taUZWblczM0tIX3lvR2RZTXRtLVVTNDlsSXJwbW9GWFpoMzU4akExLS1IMGlEcXZpaXl0X2ZxRnRILWtNckdsLXZYbjU?oc=5",
+   "desc": "Top CD rates today, Aug. 18, 2026: Lock in up to up to 4.50%  Fortune",
+   "source": "US Fed",
+   "publisher": "Fortune",
+   "scope": "world",
+   "ts": 1787047260000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYVBhdmNoWWVGOEc1bk0yMUt1cGcwY2VzMndRS2VSMFZNTDQ4REM2Mm11Z2hQaGFFZnB0U2hMU3p1U1lvODZBMG5jZDlYZEQ0aVZrd3YtdjdwUXNvR0JaZW1YcnNMSmR4UVJEUGtjd29vdlFCLU4",
@@ -263,11 +283,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYm12d1lDZVJ1R1l2bTVWaHdJWS1IdUcwenBET1NJT3RmYlZOMkh2V0l1cTJoVVpwVlVLd3NJSG1GY0hmTEh3eVkySEVUYWplVFMzelotQXluWDJ4TFdHM05EMHc3cGwwTDdxTXFJaE1CLU9YYS1",
-   "title": "One neutral rate estimate suggests Fed's policy stance is accommodative, paper says - Reuters",
+   "title": "One neutral rate estimate suggests Fed's policy stance is accommodative, paper says - reuters.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYm12d1lDZVJ1R1l2bTVWaHdJWS1IdUcwenBET1NJT3RmYlZOMkh2V0l1cTJoVVpwVlVLd3NJSG1GY0hmTEh3eVkySEVUYWplVFMzelotQXluWDJ4TFdHM05EMHc3cGwwTDdxTXFJaE1CLU9YYS1DX2xmSndiNHpTNEp5cmJsRzJGaF9PaXhua3k2cUc5YkJsdXhCUjltODNSN2FnQXFQd3Y3TTlMcV9rYnk4NjROTWRtWkg4Zzdn?oc=5",
-   "desc": "One neutral rate estimate suggests Fed's policy stance is accommodative, paper says  Reuters",
+   "desc": "One neutral rate estimate suggests Fed's policy stance is accommodative, paper says  reuters.com",
    "source": "US Fed",
-   "publisher": "Reuters",
+   "publisher": "reuters.com",
    "scope": "world",
    "ts": 1786986849000
   },
@@ -313,23 +333,13 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUm5obmIwbTBxZGo3NF9lc3RGSzJQTGlIbklXQlJVMWdiN01pVzhFTWF2MXlrLW5lMmg4c1hpM0o3ekdxSkpJbnlOS01Mc3RtYmpjYXRwdTRpeGc1d0dUWVRwRzBCeDBNbWxtMVQtc3owajZmRFh",
-   "title": "Do Not Trust Live Trading Streams On Social Media: SEBI Warns Investors - ndtvprofit.com",
+   "title": "Do Not Trust Live Trading Streams On Social Media: SEBI Warns Investors - NDTV Profit",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUm5obmIwbTBxZGo3NF9lc3RGSzJQTGlIbklXQlJVMWdiN01pVzhFTWF2MXlrLW5lMmg4c1hpM0o3ekdxSkpJbnlOS01Mc3RtYmpjYXRwdTRpeGc1d0dUWVRwRzBCeDBNbWxtMVQtc3owajZmRFhyR2czc3FmY1lSSHRsMjdjUTIzUHVmVnlETTUtZ1pQVHBoMFZVd1pMajVxZ0tqLVRmVVl6bDFzQmppQXJKMWvSAbwBQVVfeXFMTlhKSDlKV0EtWjhDX2V1Qk5DZFVyM05ZRGFfdXpRVjRjajAwMk5NM1Y0WnNHVFdNTFloSDNJVTQzQkxsRlVIOTFkdXlaYzBsWk9zU19HckJkeTgwSzY4ZFZHWjZycWRsUzY4MnI1TDMwNWpQbTRSdGVDaGdLNDI3M29ZMTJTRlA5VTlIRkFUbWswY0Rud00zdmkzalUwWVhkYkphVGNFOXk1TThlaTBJMm9xMXJKM0g0bENrU2g?oc=5",
-   "desc": "Do Not Trust Live Trading Streams On Social Media: SEBI Warns Investors  ndtvprofit.com",
+   "desc": "Do Not Trust Live Trading Streams On Social Media: SEBI Warns Investors  NDTV Profit",
    "source": "SEBI",
-   "publisher": "ndtvprofit.com",
+   "publisher": "NDTV Profit",
    "scope": "india",
    "ts": 1786984166000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMHdRZUkwdXZaTzktSnFfZHQtWldvcGFuRVNXQ2NSRGU4SlQ3elFaWlV3a0ppMEpXb1JCSDk5Ujl3LXd0WjJfTE5ZRlNyZVRtZnE0aEdCakhoR0hZanhEM1hUVlVraXpLVG42YTVHRFQ4SHhCeWM",
-   "title": "What hike? Why Wall Street is abandoning its call for higher rates. - Business Insider Africa",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMHdRZUkwdXZaTzktSnFfZHQtWldvcGFuRVNXQ2NSRGU4SlQ3elFaWlV3a0ppMEpXb1JCSDk5Ujl3LXd0WjJfTE5ZRlNyZVRtZnE0aEdCakhoR0hZanhEM1hUVlVraXpLVG42YTVHRFQ4SHhCeWMxQngwZXJZcG1neHlzd3pjUENuaTI1NDk4YngwQXV3YmlUcFBscXJwQXBOazlTYUVCOGV1M3BKVi1WUTZmRnJyaFk?oc=5",
-   "desc": "What hike? Why Wall Street is abandoning its call for higher rates.  Business Insider Africa",
-   "source": "US Fed",
-   "publisher": "Business Insider Africa",
-   "scope": "world",
-   "ts": 1786982161000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSTBpXzhDNmtSZjFwWWVfa09wZWxkSUJLZUpPUUZqYUlvd0tIUG1uU2s2ZHhiNXplQk9BeldQVkltTUp0NEFjX21JTzY4dWlCLUYxX3llNWhWWmRxTjFWdnFTaUd3X2JXNWxyemlidmh4UUUwRi1",
@@ -403,11 +413,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0p0REVVbU5Jemw4S3l1Z1l6d1phN25HR3lMck44YjJlQld3bFh0M0l3ZEROT0o3cjdIbTVrNjVSS2xzMjhPTjE0VHA2eE9kUlREVUZpWTZwbUQ1dDVpa1VmRGQ4eVU1OHh4S1BtSnkyLUZkZ2V",
-   "title": "Fed to hold interest rates this year, economists say, sticking to their view: Reuters poll - Reuters",
+   "title": "Fed to hold interest rates this year, economists say, sticking to their view: Reuters poll - reuters.com",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0p0REVVbU5Jemw4S3l1Z1l6d1phN25HR3lMck44YjJlQld3bFh0M0l3ZEROT0o3cjdIbTVrNjVSS2xzMjhPTjE0VHA2eE9kUlREVUZpWTZwbUQ1dDVpa1VmRGQ4eVU1OHh4S1BtSnkyLUZkZ2VTTU9IU0Fsc3VucUZNVm9zM1N3RUdpc0gzdk5zOGV3bzNROUlXaXdvZFdoR2tId0N6bHJyUTZlUmp0MzJXRQ?oc=5",
-   "desc": "Fed to hold interest rates this year, economists say, sticking to their view: Reuters poll  Reuters",
+   "desc": "Fed to hold interest rates this year, economists say, sticking to their view: Reuters poll  reuters.com",
    "source": "US Fed",
-   "publisher": "Reuters",
+   "publisher": "reuters.com",
    "scope": "world",
    "ts": 1786964889000
   },
@@ -433,11 +443,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdUpiUHhKbEtobmthQ1VQV0VIX2tCUGxYMjFMRUFvR2FXNnRCVmJyX0c1NWdvR1NGanNUc2xoNUcyVUp2TkIxc2pmU1NyS245SEdTMWtIcTFyYVdtM1JRZ0xUT0ZocDdrNjB6OVJ6X2F1OWVCYWo",
-   "title": "Dollar Falls Sharply as Prospects Dim for Fed Rate Rise - wsj.com",
+   "title": "Dollar Falls Sharply as Prospects Dim for Fed Rate Rise - WSJ",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdUpiUHhKbEtobmthQ1VQV0VIX2tCUGxYMjFMRUFvR2FXNnRCVmJyX0c1NWdvR1NGanNUc2xoNUcyVUp2TkIxc2pmU1NyS245SEdTMWtIcTFyYVdtM1JRZ0xUT0ZocDdrNjB6OVJ6X2F1OWVCYWowLW5iS0NmMklVTy0xSWJvWW80ZWdIX2xqWlBVOGZfN1lnWHRUd1lUZENLSzlFVEE4UU9hcGJBYW9NQ1dJTmFGVWd4OFNnUg?oc=5",
-   "desc": "Dollar Falls Sharply as Prospects Dim for Fed Rate Rise  wsj.com",
+   "desc": "Dollar Falls Sharply as Prospects Dim for Fed Rate Rise  WSJ",
    "source": "US Fed",
-   "publisher": "wsj.com",
+   "publisher": "WSJ",
    "scope": "world",
    "ts": 1786957380000
   },
@@ -533,11 +543,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVGRscVZvWDlqZGtZZlM5alpGTkhTa1BPQ3JYYTdueEduSU5KbFNZQjVyVDQ2VDA5WHdxUjZQRjNTSHNwZ3RWUnVLREJrenpWakw5LXFOSlZjU081YXhYcURKM1BqZUxIQll3R3VxM0YweEFIMzh",
-   "title": "Gold climbs on weaker dollar, easing Fed rate hike concerns - Reuters",
+   "title": "Gold climbs on weaker dollar, easing Fed rate hike concerns - reuters.com",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVGRscVZvWDlqZGtZZlM5alpGTkhTa1BPQ3JYYTdueEduSU5KbFNZQjVyVDQ2VDA5WHdxUjZQRjNTSHNwZ3RWUnVLREJrenpWakw5LXFOSlZjU081YXhYcURKM1BqZUxIQll3R3VxM0YweEFIMzhpN1hhSG5tOXQ2bm1yQmVjYUdaQm5VZXBPYzdTVHl5Skd4aFpSaVU?oc=5",
-   "desc": "Gold climbs on weaker dollar, easing Fed rate hike concerns  Reuters",
+   "desc": "Gold climbs on weaker dollar, easing Fed rate hike concerns  reuters.com",
    "source": "US Fed",
-   "publisher": "Reuters",
+   "publisher": "reuters.com",
    "scope": "world",
    "ts": 1786936980000
   },
@@ -563,11 +573,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmU0RFUySjNHTEtyTnNvUDJIb3N2ZXU5SEdOQm1ZMmEtdExCOEhYWnR1NWtBa3lFdUJhYzhtODdSMEZZbUtaWk4wanNuNlNnMEZsMkJOcnZaRFhYQXQ0OWhVQkJBQkpJdXpkMTFRRVRvM3AwM2l",
-   "title": "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week - wsj.com",
+   "title": "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week - WSJ",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmU0RFUySjNHTEtyTnNvUDJIb3N2ZXU5SEdOQm1ZMmEtdExCOEhYWnR1NWtBa3lFdUJhYzhtODdSMEZZbUtaWk4wanNuNlNnMEZsMkJOcnZaRFhYQXQ0OWhVQkJBQkpJdXpkMTFRRVRvM3AwM2lxMnJHY3RtWDFXZ29odENpQTd6VTNPUm5QN2Z6ejh2V2JWVHpR?oc=5",
-   "desc": "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week  wsj.com",
+   "desc": "These Are the 12 Fed Officials Who Are Voting on Interest Rates This Week  WSJ",
    "source": "US Fed",
-   "publisher": "wsj.com",
+   "publisher": "WSJ",
    "scope": "world",
    "ts": 1786922945000
   },
@@ -783,21 +793,21 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2NNM1hicnFuakczck9zME1UVXVFV2hjLVFzbkJMY1NaT3JUcWlfcDN3Rko0RU1iSFEzS3VQaGJibEo5S05icjFXN09POFE0dGFYS3pjTlMxa0hKSnJ2SjdaVDJRZXNIR3h5dTZvTkgxalowRnd",
-   "title": "Fed expected to leave rates unchanged next month after soft inflation data - Reuters",
+   "title": "Fed expected to leave rates unchanged next month after soft inflation data - reuters.com",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2NNM1hicnFuakczck9zME1UVXVFV2hjLVFzbkJMY1NaT3JUcWlfcDN3Rko0RU1iSFEzS3VQaGJibEo5S05icjFXN09POFE0dGFYS3pjTlMxa0hKSnJ2SjdaVDJRZXNIR3h5dTZvTkgxalowRndaeUttbHc0OFZvbmJGcXJ3UnhxYVZrSGdfbmllVXYzMmRUQ2VrMUE2eGJwa1VDdEJCM01fVlp6b1U0?oc=5",
-   "desc": "Fed expected to leave rates unchanged next month after soft inflation data  Reuters",
+   "desc": "Fed expected to leave rates unchanged next month after soft inflation data  reuters.com",
    "source": "US Fed",
-   "publisher": "Reuters",
+   "publisher": "reuters.com",
    "scope": "world",
    "ts": 1786554552000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEhfYzhqTzJnQmFwQl8wRTNGYVBKR2hoN1hjNEU5T0h6QzROQ2ZNNjhqVmEybnp4YlBJako5X2JkbWl2RnZyblBkaFlwM0o4YUJyOXJWY0EzMTl2S2tYVGU1TmkxWmpwZjZURUdHU0VxV2RnXzZ",
-   "title": "In-Line Inflation Reading Buys the Fed More Time to Defend Its Forecast - wsj.com",
+   "title": "In-Line Inflation Reading Buys the Fed More Time to Defend Its Forecast - WSJ",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEhfYzhqTzJnQmFwQl8wRTNGYVBKR2hoN1hjNEU5T0h6QzROQ2ZNNjhqVmEybnp4YlBJako5X2JkbWl2RnZyblBkaFlwM0o4YUJyOXJWY0EzMTl2S2tYVGU1TmkxWmpwZjZURUdHU0VxV2RnXzZwWERwUEFkZXpPODRzbndPSHA0MnB1T0lCVGREdWF6eEVnQg?oc=5",
-   "desc": "In-Line Inflation Reading Buys the Fed More Time to Defend Its Forecast  wsj.com",
+   "desc": "In-Line Inflation Reading Buys the Fed More Time to Defend Its Forecast  WSJ",
    "source": "US Fed",
-   "publisher": "wsj.com",
+   "publisher": "WSJ",
    "scope": "world",
    "ts": 1786550160000
   },
@@ -943,11 +953,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGc4Skdsek9pRzJNVTNDU0ZKcTJSU3prRXRRLVVFZnM5dmg4MlAyV3lBcDZsU2h4VjdPVHRpdVQ3UllaUWE4YTRVYzNpVFp4UURxNHJQOVpFOTVkbXNYVUxheU1JNlg4dUNJVlFheXdIb2tsSXh",
-   "title": "SEBI Reviews First Week Of CAS Trading For Possible Market Manipulation: Sources - ndtvprofit.com",
+   "title": "SEBI Reviews First Week Of CAS Trading For Possible Market Manipulation: Sources - NDTV Profit",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGc4Skdsek9pRzJNVTNDU0ZKcTJSU3prRXRRLVVFZnM5dmg4MlAyV3lBcDZsU2h4VjdPVHRpdVQ3UllaUWE4YTRVYzNpVFp4UURxNHJQOVpFOTVkbXNYVUxheU1JNlg4dUNJVlFheXdIb2tsSXhheHpHaVk3blktNFJrRDU4WnZsTmZUSmJ2S1FWZXFhclNkUUNMZWhXZDZoczB4N215dks0QzRYWkJsRW5jQjBhQdIBvgFBVV95cUxNNXQ4RndDdUtiYWdZZXd3ZTZNZ3pibjFLY0FaV3g0SkFFUWhwb0M0dDVYXy1LejI3R3BNb3huMXJ3aFgwaV93ay05YnhhT09aRXgzMjVlY194a2pKTjBhYmQ3MUxVVU5pOHpFWWpHaVBuRXRXd3hkUDgzeWZ1M3hfWEZvOThnTTB5bHVjTnhBNVZRMGxSazMtbGk2Ukp3UDZmanNGSFVsRm9Xanh4QlJhM29vZHd0M3dsWGpEbk5R?oc=5",
-   "desc": "SEBI Reviews First Week Of CAS Trading For Possible Market Manipulation: Sources  ndtvprofit.com",
+   "desc": "SEBI Reviews First Week Of CAS Trading For Possible Market Manipulation: Sources  NDTV Profit",
    "source": "SEBI",
-   "publisher": "ndtvprofit.com",
+   "publisher": "NDTV Profit",
    "scope": "india",
    "ts": 1786362063000
   },
@@ -1190,16 +1200,6 @@
    "publisher": "TradingView",
    "scope": "india",
    "ts": 1785943256000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWWdnZDdyVWVWY0tXRzNEQkw0Y0FKYVN1UjJiTWVGVnd0ZUVQelVzeVUtcC1SWExjdENwM2w4VnVGUUlJa0RONmJXZ0FyNC1fLVhHalk3YXlwTm12YjlLVTViRkoxbGtWeE1iNHdaTFpNQkowdnR",
-   "title": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem - Press Trust of India",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWWdnZDdyVWVWY0tXRzNEQkw0Y0FKYVN1UjJiTWVGVnd0ZUVQelVzeVUtcC1SWExjdENwM2w4VnVGUUlJa0RONmJXZ0FyNC1fLVhHalk3YXlwTm12YjlLVTViRkoxbGtWeE1iNHdaTFpNQkowdnRyVnVGNzlqSUtFanpsV0trSE5oWlN5eEpyejBoZ2xob1dvbmRWT2tQQ2UtdVU5dDVmRFNGdmpHTEZwR2RERktGbFJTemdrdHZBUmRHVzAza2gxc2kwQ2hISUxxYXRZTGdVR2VWMzRtWFQtSUFuZUZEaHVZcUFHYjFuV095ZjFjYXpNcXF2TUw5cnUw?oc=5",
-   "desc": "Collaboration, Inclusion and Entrepreneurship: How SIDBI MSME Samvaad Is Shaping the Future of India’s MSME Ecosystem  Press Trust of India",
-   "source": "SIDBI / MSME",
-   "publisher": "Press Trust of India",
-   "scope": "india",
-   "ts": 1785929408000
   }
  ]
 }
