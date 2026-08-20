@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T11:03:02.860435+00:00",
+ "updated": "2026-08-20T11:47:50.788717+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWJrRElidFZVcTVHa1NsSVFKd2l4MEJfZXJJVkYweWp5R2ZXUVN6RmFsdFJpY3d2U0FZZEdHUjItUnVxOXpqQnE4Zy1jTnY1a00yTFFTWjU5alpWWkFnQnpldUhUQjJSRlhjYXZBcTRtdEJVOV9",
@@ -62,16 +62,6 @@
    "ts": 1787210401000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFZKdkNFcXpKNHVFM3hLekxWWlRSWGF5LTZyLXhleWtQSGowY3lMZGNtTUttc19pZ2tINmR6Q1p5Z25hcF9Qbk1hQmYzSkI3ZThlYkxHajk0eERnN1pCZEZvMnF3djBEYVhBVWc1MUZEcUsxR0k",
-   "title": "RBI expected to hike rates 25 bps twice this cycle, meeting minutes read hawkish: Economist - CNBC",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFZKdkNFcXpKNHVFM3hLekxWWlRSWGF5LTZyLXhleWtQSGowY3lMZGNtTUttc19pZ2tINmR6Q1p5Z25hcF9Qbk1hQmYzSkI3ZThlYkxHajk0eERnN1pCZEZvMnF3djBEYVhBVWc1MUZEcUsxR0kzTnVXMUp2THpiSVhuTTRPTjkxZnI4T2pCYS1KM2lVRW5jcDd4ZUZhZTlHekRnTzMwUkxWaUE2d0RTNldn?oc=5",
-   "desc": "RBI expected to hike rates 25 bps twice this cycle, meeting minutes read hawkish: Economist  CNBC",
-   "source": "RBI",
-   "publisher": "CNBC",
-   "scope": "india",
-   "ts": 1787209870000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWhlLUo5SzJWeS05N0hTbkcyWDZPanNENUpYMGdGQjlubmg1emk2dVpoV3ZEYUVweU9EMGNlUWY4Ym5CbTVvSV9rcWl4c3pWRHhBVzBUa19RZFVTbEN2WXJMSFBObktFZjlTX1ltVk1oNm5Fa3h",
    "title": "Explainer: Why India's market regulator barred a JPMorgan entity from the country's securities market - Reuters",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWhlLUo5SzJWeS05N0hTbkcyWDZPanNENUpYMGdGQjlubmg1emk2dVpoV3ZEYUVweU9EMGNlUWY4Ym5CbTVvSV9rcWl4c3pWRHhBVzBUa19RZFVTbEN2WXJMSFBObktFZjlTX1ltVk1oNm5Fa3hINThEcUdZcGxuMXEwVTcyZXdRdHRPWGs1eERxYVdvSHVraHdtNTFqM3h4UGFVb0RPQkRJWjQ3M3pXdmk3NkRWWXRRMXJ2c0dhVTBwLVNheGE3TUdB?oc=5",
@@ -80,6 +70,16 @@
    "publisher": "Reuters",
    "scope": "india",
    "ts": 1787209643000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFZKdkNFcXpKNHVFM3hLekxWWlRSWGF5LTZyLXhleWtQSGowY3lMZGNtTUttc19pZ2tINmR6Q1p5Z25hcF9Qbk1hQmYzSkI3ZThlYkxHajk0eERnN1pCZEZvMnF3djBEYVhBVWc1MUZEcUsxR0k",
+   "title": "RBI expected to hike rates 25 bps twice this cycle, meeting minutes read hawkish: Economist - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFZKdkNFcXpKNHVFM3hLekxWWlRSWGF5LTZyLXhleWtQSGowY3lMZGNtTUttc19pZ2tINmR6Q1p5Z25hcF9Qbk1hQmYzSkI3ZThlYkxHajk0eERnN1pCZEZvMnF3djBEYVhBVWc1MUZEcUsxR0kzTnVXMUp2THpiSVhuTTRPTjkxZnI4T2pCYS1KM2lVRW5jcDd4ZUZhZTlHekRnTzMwUkxWaUE2d0RTNldn?oc=5",
+   "desc": "RBI expected to hike rates 25 bps twice this cycle, meeting minutes read hawkish: Economist  CNBC",
+   "source": "RBI",
+   "publisher": "CNBC",
+   "scope": "india",
+   "ts": 1787208071000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNmtBbjZyVHliUmktM1BhdVZ2NGhYaWZOelJ6NTNiQXFJZlJMWXkyTzJWZWtEcTNIWVdCU2Jfa0IxTVFtZ0FKdjRVaGhmaVFvbk04RjFzeVhJUnhRRXlVckdoOFdmb1VrbDJJaWpOS1hqYlJqLWo",
@@ -170,6 +170,16 @@
    "publisher": "Bloomberg.com",
    "scope": "india",
    "ts": 1787200020000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOGlsUURGTTNydm1NMXdzVTFzaThQZWlnTUJtblJCVEI0LWhnMkRHc1d1b2x3WTA2MHQ4SkZZdzRPM0VqWXZsUmh4WlRaMmV3N0NVWGtoQmlMNHhEV29hMkJHd0xHYzBoU1Nuc1RubHZ1bWxvV3V",
+   "title": "Inflation Has Eased. Growth Is Rising. So Why Didn't The RBI Cut Rates? The Big Picture Behind India's Latest Monetary Policy - inventiva.co.in",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOGlsUURGTTNydm1NMXdzVTFzaThQZWlnTUJtblJCVEI0LWhnMkRHc1d1b2x3WTA2MHQ4SkZZdzRPM0VqWXZsUmh4WlRaMmV3N0NVWGtoQmlMNHhEV29hMkJHd0xHYzBoU1Nuc1RubHZ1bWxvV3VxcThLaUNFQnpHWGRuX3ZNY1ROOVBoaHhULXBSSWtNT2tpS2ctUjJ6WVUzRTRjNV82U19XckxuRkhMR2lNeFBtX1Z4b2d5NzZNMHZhZUxFWnlYVTliQUdDZnFjZEdDUGpleUtyRGc4NGFuSV9hdTVCUWJVVmhrbA?oc=5",
+   "desc": "Inflation Has Eased. Growth Is Rising. So Why Didn't The RBI Cut Rates? The Big Picture Behind India's Latest Monetary Policy  inventiva.co.in",
+   "source": "Indian Economy",
+   "publisher": "inventiva.co.in",
+   "scope": "india",
+   "ts": 1787199792000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4UU9mTS12YURhcnFWWHVXaDNMUEY2cnBsanN2TlRoaThWUDMtMVpVVWJ5RWxKck8zd2E2OW1PT0NuNzhpWXFodFdxZW1pNnR6UkhCUlVvUDhDNVcxdF94Q3h1Sm1hNEtWZXVmZHNOaW41Vm01?oc",
@@ -362,6 +372,16 @@
    "ts": 1787168805000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbGJtNHhWeW5zNEk5ZERYN1hFQnI3Vmp3UG9OUENacjBuNndmOHlkZkJ3MHdPMnRRc1RGMUhhZ0xUcTZDV0lYbGVrVU9RTEl0MUFEVTRqVTJvU0U5bXV1emt0dDhCOWtuSDVKSV8xUXVQNGl4OGR",
+   "title": "More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting - The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbGJtNHhWeW5zNEk5ZERYN1hFQnI3Vmp3UG9OUENacjBuNndmOHlkZkJ3MHdPMnRRc1RGMUhhZ0xUcTZDV0lYbGVrVU9RTEl0MUFEVTRqVTJvU0U5bXV1emt0dDhCOWtuSDVKSV8xUXVQNGl4OGRhS25NcFR5VUpwOWhvYkNOQQ?oc=5",
+   "desc": "More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting  The New York Times",
+   "source": "US Fed",
+   "publisher": "The New York Times",
+   "scope": "world",
+   "ts": 1787168776000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcVhOSFppNXp1MmE4UjYzQXhsMnhYOUwyVVdmOGR0X0ZueG1rSW9YZWt3dExDdlN5cFlKb3BzRHFsTUQwemJWV0NVbEdqSDdDb2tzR1Y4RUJXXzFDTlQ1R0t0akhWOEtrTUpBY2ZQc1ZSb1M5dDh",
    "title": "SEBI Bars Two Entities for Prima Facie Manipulation in New Closing Auction, Impounds ₹3.68 Crore - Dividend Increase Stocks - Vinanet",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcVhOSFppNXp1MmE4UjYzQXhsMnhYOUwyVVdmOGR0X0ZueG1rSW9YZWt3dExDdlN5cFlKb3BzRHFsTUQwemJWV0NVbEdqSDdDb2tzR1Y4RUJXXzFDTlQ1R0t0akhWOEtrTUpBY2ZQc1ZSb1M5dDh4V3Q2eDlvSEJzX0xuRS1HLWNxUGc0VFcteGtlbEpQYlVOd2xuU21sQ0JEZ19JRTIxZE5xc2Vib0VzVVYwQXNKR2NhcFIwVTU0RlBjZWpMckd1ZVRaRDJkYnFX?oc=5",
@@ -400,16 +420,6 @@
    "publisher": "Axios",
    "scope": "world",
    "ts": 1787167420000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc3p2QVItQTJIS1UxcVh2SVN4eE5VRG1fTnF5N3pPcURLSXNXVkFGWG1rUExpZXdhSGt1Q2YtcUFlUGdYa0xDbnZrRm1feTVMTGJodTFkSHFGWTJDcEVtZVlIdk1wbE9MUjZiSXRNdWNJY2diN3J",
-   "title": "Fed minutes lean hawkish, but we don’t expect a hike - ING THINK economic and financial analysis | ING THINK",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc3p2QVItQTJIS1UxcVh2SVN4eE5VRG1fTnF5N3pPcURLSXNXVkFGWG1rUExpZXdhSGt1Q2YtcUFlUGdYa0xDbnZrRm1feTVMTGJodTFkSHFGWTJDcEVtZVlIdk1wbE9MUjZiSXRNdWNJY2diN3JjUzJqNjI5dEE3WkVaOTRsdw?oc=5",
-   "desc": "Fed minutes lean hawkish, but we don’t expect a hike  ING THINK economic and financial analysis | ING THINK",
-   "source": "US Fed",
-   "publisher": "ING THINK economic and financial analysis | ING THINK",
-   "scope": "world",
-   "ts": 1787167018000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVo5OU5OQlk3bHpRcUlzMVNsNDEtLTQ1a05Zb1NoUldHZUtvcWMybE9WT1lQZkJFYXlBSXFwNEg0cGY1SE0zMUR2N1NrQzBpMi04Y0ppeTlTbEtNdWhETFRYN3NZdmlzQ3ZKOERrZ3NYVTBLem5",
@@ -542,16 +552,6 @@
    "ts": 1787163248000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbGJtNHhWeW5zNEk5ZERYN1hFQnI3Vmp3UG9OUENacjBuNndmOHlkZkJ3MHdPMnRRc1RGMUhhZ0xUcTZDV0lYbGVrVU9RTEl0MUFEVTRqVTJvU0U5bXV1emt0dDhCOWtuSDVKSV8xUXVQNGl4OGR",
-   "title": "More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting - The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbGJtNHhWeW5zNEk5ZERYN1hFQnI3Vmp3UG9OUENacjBuNndmOHlkZkJ3MHdPMnRRc1RGMUhhZ0xUcTZDV0lYbGVrVU9RTEl0MUFEVTRqVTJvU0U5bXV1emt0dDhCOWtuSDVKSV8xUXVQNGl4OGRhS25NcFR5VUpwOWhvYkNOQQ?oc=5",
-   "desc": "More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting  The New York Times",
-   "source": "US Fed",
-   "publisher": "The New York Times",
-   "scope": "world",
-   "ts": 1787162907000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX3djZ2FKOHhfMkVRRHEzdFlsQ0t2Tmt5OE1sM1lrX1V3WFZ3RXlYdTlZcFVSWmx0YWFYaDZRSjYyYkRwVXQzZm5Sdldobk5xc0pXdVotLUt2S251cnVfdHV3MmRObmd1aW5zcGZkVGVxdkgzbUR",
    "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show - CNBC",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX3djZ2FKOHhfMkVRRHEzdFlsQ0t2Tmt5OE1sM1lrX1V3WFZ3RXlYdTlZcFVSWmx0YWFYaDZRSjYyYkRwVXQzZm5Sdldobk5xc0pXdVotLUt2S251cnVfdHV3MmRObmd1aW5zcGZkVGVxdkgzbURqbU9qV093Wmt2aWFFWkpxaWNGYVRQanh6NWRqeXJfZHA3bDB4Nmp2LXlrbUh0MlR1WWdDWEM5QUpaV2gycjItYmvSAbwBQVVfeXFMTjhBbUlQSGRVY3hPZXpNT3A1NFlLQ1ViNUZ0WjBzaC1LdTlFZ3J1UHI4Q1FGT2tUZ3JWeDBOWTIxRGJWRnNRUW9VcHdfQkhKZk5IaGhBdmdiSXFYX3RySnhUOVNpeUN2TjBvMUVKcEUyRXlQUjZkRmYwQU5ud3VIczJwLTZxVW90NlVZYjM4a2J3RnpxbjV1RlZ5VXFYenNZcXFEVmhLM0pKUnQyOVZQRm5lMUlvdDNLWVRFOU0?oc=5",
@@ -640,16 +640,6 @@
    "publisher": "livemint.com",
    "scope": "india",
    "ts": 1787153773000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmFjbUtOUjVzQTFkaDNNUjVPR1lHcTNELVlJWHRtaWNGSmdlalE5OUxxRERLc0lmVXZSczlpOHplc29ObEhNRWdDZTRHdDVHSEF1QU5Bd1J0eHJQUktCWm43ZVZyMy1VRGJWc0pxMWlsU0JtLWh",
-   "title": "Money market vs. high-yield savings account: Which will be better if the Fed raises interest rates? - CBS News",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmFjbUtOUjVzQTFkaDNNUjVPR1lHcTNELVlJWHRtaWNGSmdlalE5OUxxRERLc0lmVXZSczlpOHplc29ObEhNRWdDZTRHdDVHSEF1QU5Bd1J0eHJQUktCWm43ZVZyMy1VRGJWc0pxMWlsU0JtLWhUcjJ6cEpwZWxwTEg3SjJXeENpSFVYT1c2YTNUclVGWUU3S2h1MjZCajA?oc=5",
-   "desc": "Money market vs. high-yield savings account: Which will be better if the Fed raises interest rates?  CBS News",
-   "source": "US Fed",
-   "publisher": "CBS News",
-   "scope": "world",
-   "ts": 1787153345000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN21TUnRicTg3WmwyN3lOMkxET01rWUx4bGE0U0JPWGU3UWlJMFozVXFaczFVSEp1MFRJRmY0QXlmTWxBYllxUzVpVFZjWm43QS1PbkpoQWlOR09oamRoczNFNGVhOC03QlFxdHhBMDZGT1dUSXh",
@@ -784,7 +774,7 @@
   {
    "id": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUW1DRnJQZGFZTHVtcThSNExTMkN5THl0TkZKUm0xQWYxczZvaXNhTmxxcmpMQUhmVlhyMG02YUt5STVScm5tUVVwUURsVE5fT0NHRnZua0Z6a2gtOV96SWYzcDZyTFU5bHdaVm9ldEZsdkFMR2I",
    "title": "Market cap increased from Rs 3 crore to Rs 4925 crore, SEBI unearths the trick of fund rotation - Moneycontrol.com",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUW1DRnJQZGFZTHVtcThSNExTMkN5THl0TkZKUm0xQWYxczZvaXNhTmxxcmpMQUhmVlhyMG02YUt5STVScm5tUVVwUURsVE5fT0NHRnZua0Z6a2gtOV96SWYzcDZyTFU5bHdaVm9ldEZsdkFMR2ItOVFEMzl4ZkVmeVFfQm1jNmR5eU1tVmVtSXZJdWtZUDFTQVh1Yjl6d01ZRjhFdENlTk02SWtVUDRmNGRaMkdiMC04Q2ltTG9UYWFrZUNmaG1jeW4yUjFybWtGM1FHa0pLa0VXYnFsU1ByVlZlQy1Ca2x2dTEtYXVoM2bSAfYBQVVfeXFMTlVzVEZZdHk1NlV4UVVKMXM3dkxQOFd6THVmQXljX3NJSmRhbkRRU3k4RXNuYmI5TW5BTmJYM3N2c0cxWFlHV29TN2F1VUY5YlZSdXlSVEdPQjROVWZHQWdKRjJoQ3FuQnV3VG9DQ19yckFGV0Q2OG00RzJkWGlPZjFaT1l3czA4bFJHSFhYbHRhZ3BwTXBycFMzdDFJMmZrMlZ5NXhXYWEwcnl0Zk9GZHRZbExmOXVKY0MtY0VwWE5YZ3J6UEc3WTZMZFVqTWJEOXFzNi1abnN2eVprV1BMUHNpMjlhd0RHblNQdjhGZ1RqZ18zZnBn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUW1DRnJQZGFZTHVtcThSNExTMkN5THl0TkZKUm0xQWYxczZvaXNhTmxxcmpMQUhmVlhyMG02YUt5STVScm5tUVVwUURsVE5fT0NHRnZua0Z6a2gtOV96SWYzcDZyTFU5bHdaVm9ldEZsdkFMR2ItOVFEMzl4ZkVmeVFfQm1jNmR5eU1tVmVtSXZJdWtZUDFTQVh1Yjl6d01ZRjhFdENlTk02SWtVUDRmNGRaMkdiMC04Q2ltTG9UYWFrZUNmaG1jeW4yUjFybWtGM1FHa0pLa0VXYnFsU1ByVlZlQy1Ca2x2dTEtYXVoM2Y?oc=5",
    "desc": "Market cap increased from Rs 3 crore to Rs 4925 crore, SEBI unearths the trick of fund rotation  Moneycontrol.com",
    "source": "SEBI",
    "publisher": "Moneycontrol.com",
@@ -810,16 +800,6 @@
    "publisher": "The Tribune",
    "scope": "india",
    "ts": 1787143993000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOTTVVcmpCd3NZejR2RFUxamxmYlAyaXYzNWNMa0VkcjRRQkFSTDhUbkFIMWJQR1RrUUFOcHlXSXJfTzVpd25XN0pRREhKLWFMbWNsRG9QX0hEblRkWHFIbUxXMHBGSlhGbWg2WTVtVnd5ZG5SYks",
-   "title": "RBI Governor Sanjay Malhotra wants more clarity on inflation before changing repo rate amid West Asia conf - The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOTTVVcmpCd3NZejR2RFUxamxmYlAyaXYzNWNMa0VkcjRRQkFSTDhUbkFIMWJQR1RrUUFOcHlXSXJfTzVpd25XN0pRREhKLWFMbWNsRG9QX0hEblRkWHFIbUxXMHBGSlhGbWg2WTVtVnd5ZG5SYksxMVVyTFZVWXJQQUowTGI1aTdCSVFmZ3VUSnd4Vm5fMTBlVGpOb0FXdWRwTnhOcDNrTmtvaVEySm5pUTQwQ1haWlQ4TXAtVnkxNDJyYVNWSzlXU3g3a1lyTFVtaHEyLXVobUlsT1k3alljbjgtV2kwMVkzczR3X0l3V0ZVazR4Wm1NOURIRnVFU1RZTFhaTjE1TnhKamYtZXhsVHFiLUtIbFFYWjhZTGdQQTjSAaACQVVfeXFMTk01VXJqQndzWXo0dkRVMWpsZmJQMml2MzVjTGtFZHI0UUJBUkw4VG5BSDFiUEdUa1FBTnB5V0lyX081aXduVzdKUURISi1hTG1jbERvUF9IRG5UZFhxSG1MVzBwRkpYRm1oNlk1bVZ3eWRuUmJLMTFVckxWVVlyUEFKMExiNWk3QklRZmd1VEp3eFZuXzEwZVRqTm9BV3VkcE54TnAza05rb2lRMkpuaVE0MENYWlpUOE1wLVZ5MTQycmFTVks5V1N4N2tZckxVbWhxMi11aG1JbE9ZN2pZY244LVdpMDFZM3M0d19Jd1dGVWs0eFptTTlESEZ1RVNUWUxYWk4xNU54SmpmLWV4bFRxYi1LSGxRWFo4WUxnUEE4?oc=5",
-   "desc": "RBI Governor Sanjay Malhotra wants more clarity on inflation before changing repo rate amid West Asia conf  The Economic Times",
-   "source": "RBI",
-   "publisher": "The Economic Times",
-   "scope": "india",
-   "ts": 1787142900000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOHFHM1ZLamNIdVJyTkZYNnd3YnIxRklaSHdtdVF3ZVZhZlRXazEtQjMtSkJvSk9wUm1FeVdkRlBQcnRCbHlWUDRXZ2RVQ04ySG9pWmZDT2Y4SzRiUWhJcHZScUswanhVZXlsYW1mVDREZkF2N0J",
@@ -1082,16 +1062,6 @@
    "ts": 1787103048000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ0hVdkRUS2NQLTlfMmRmZHpPeTBhOWQtUWg2Zk5kdHpCV2VuWXNRMnBEVHFrci1scElfMmNVeXFtV1NpOTdoQjdYN0Z1MXZHR3hyZjRmNkFzbUwtU1hPa1BpZS0tYk9lSzlfVUVIV2pZRXpEbEJ",
-   "title": "Why Treasury Yields Are Surging—and What It Means for Your Money - Investopedia",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ0hVdkRUS2NQLTlfMmRmZHpPeTBhOWQtUWg2Zk5kdHpCV2VuWXNRMnBEVHFrci1scElfMmNVeXFtV1NpOTdoQjdYN0Z1MXZHR3hyZjRmNkFzbUwtU1hPa1BpZS0tYk9lSzlfVUVIV2pZRXpEbEJsaXhIZWNWV05NcTRMMjdlVzFQNjN6Vmdrd3hyLVhuSEtHYzZXTmFTR2FrMkxIZQ?oc=5",
-   "desc": "Why Treasury Yields Are Surging—and What It Means for Your Money  Investopedia",
-   "source": "US Fed",
-   "publisher": "Investopedia",
-   "scope": "world",
-   "ts": 1787097902000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZlZIeUo4M0lORnR3R0hyOVV3Zm1VX0IxYWUzWmdOMTlVV3pfUjJtWG9qTnlkWndieTlkWll2bGdIM0pPTEFtZDc4YzlabzZuVEJXUnFac292Z0tGY2lzVTdPMk8xb19Tb1NMUzdzWWhiRUFGR25",
    "title": "Watch Fed Minutes Show Many Officials Wanted Rate Hike in July - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZlZIeUo4M0lORnR3R0hyOVV3Zm1VX0IxYWUzWmdOMTlVV3pfUjJtWG9qTnlkWndieTlkWll2bGdIM0pPTEFtZDc4YzlabzZuVEJXUnFac292Z0tGY2lzVTdPMk8xb19Tb1NMUzdzWWhiRUFGR25xa3k0bi0zT3lmSk9XeXFQOUJacm5hT2pUTzNucWZuMDlxODJBalJPVGRFS0RlZnprNE0?oc=5",
@@ -1200,6 +1170,36 @@
    "publisher": "The Economic Times",
    "scope": "india",
    "ts": 1787055823000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53N1RqLXJYZ0k1TTVNd0gzRUhzZW4wRm1qMXdwTEhWRnF4SXJsSVJ2aVZRZ0ZBZEFXT0h0OEZmd0ZTdzljSHFaQ0djWDhwTl9paktHNUNWcXhnN3c?oc=5",
+   "title": "Federal Reserve to hold interest rates as bond market does the tightening, Gayeski says - Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53N1RqLXJYZ0k1TTVNd0gzRUhzZW4wRm1qMXdwTEhWRnF4SXJsSVJ2aVZRZ0ZBZEFXT0h0OEZmd0ZTdzljSHFaQ0djWDhwTl9paktHNUNWcXhnN3c?oc=5",
+   "desc": "Federal Reserve to hold interest rates as bond market does the tightening, Gayeski says  Fox Business",
+   "source": "US Fed",
+   "publisher": "Fox Business",
+   "scope": "world",
+   "ts": 1787055252000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdUN0akVyTjVTeERJQjQ0ZGhoZzNqcFMtMnIwaC12NWY1c1VLWWhUZEFoX0loLWVfYU5WZzBxdkJKd2ZqRUM2QWlDVm85dXExd1llak5TY05UU3h1M2RGUEdGM2VkSkFWNU1Ocks5ZHVYYTFMZXg",
+   "title": "India 10-year bond gives up post-policy gains as oil moves, RBI swap pullback weigh - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdUN0akVyTjVTeERJQjQ0ZGhoZzNqcFMtMnIwaC12NWY1c1VLWWhUZEFoX0loLWVfYU5WZzBxdkJKd2ZqRUM2QWlDVm85dXExd1llak5TY05UU3h1M2RGUEdGM2VkSkFWNU1Ocks5ZHVYYTFMZXgxS1lZa3ktR3VsMTNwR3FRcmh6aWVtRzhwcmpHVGlDMDdvaVNpSkZWS0xiTlhFWFpHcFo3ZGpHOW42THhKX2tJZjNFTko1aVR5WXNDUkVPRE1aeHZhVWl6aVpLWVZSZWVncTJMdWtaTlhNdkVfOHdQQUk?oc=5",
+   "desc": "India 10-year bond gives up post-policy gains as oil moves, RBI swap pullback weigh  TradingView",
+   "source": "RBI",
+   "publisher": "TradingView",
+   "scope": "india",
+   "ts": 1787054086000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU21WeVlUOTFTeXhnZVFONVA5Uk1LWmhvX1FJN05RZFZ0ZVRLei05a3ByTkc0SG1peDhJZnA3UlNDYVFuRVExZFRuQUtKUF9VblRLR0RvOE9YUjRocnYtamp5STlPU0Rua1lMdEhWbU5US0tpNHJ",
+   "title": "The UK Treasury can’t avoid the Bank of England’s losses - Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU21WeVlUOTFTeXhnZVFONVA5Uk1LWmhvX1FJN05RZFZ0ZVRLei05a3ByTkc0SG1peDhJZnA3UlNDYVFuRVExZFRuQUtKUF9VblRLR0RvOE9YUjRocnYtamp5STlPU0Rua1lMdEhWbU5US0tpNHJrd1lxRU43MVRweFoxLUE?oc=5",
+   "desc": "The UK Treasury can’t avoid the Bank of England’s losses  Financial Times",
+   "source": "ECB / Europe",
+   "publisher": "Financial Times",
+   "scope": "world",
+   "ts": 1787052604000
   }
  ]
 }
