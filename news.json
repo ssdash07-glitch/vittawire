@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T16:04:57.413588+00:00",
+ "updated": "2026-08-20T16:55:40.312352+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY0VkU3FQUlh3LTJSUXR4cGdfSVRNV0tuNEtXM014eGR0VENQdndmLTlkNlh5eE9VbWo0OUdnWXBGWTlsaHg0X0wwamdRZlRSdTZtWlFNMjhlRXpnb24zQzY4a1dGYjRQaS1UT2xHa29mLW5sQVV",
@@ -10,6 +10,16 @@
    "publisher": "investingLive",
    "scope": "world",
    "ts": 1787240454000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzV4TmJyWmZ0V182bFdVMTdDeTMtSlVMd3lHNzRHbnpBYnpSR3JiTWxNVnVONDFhQzNqTl9JcS11dWRrTV92TTVDLUJUYjBzVGZjRkd1cTcxOW5Ubk1id21SSWlKTlRoTGtCbVlZeHh1OTNrcTR",
+   "title": "Treasury Turns to Interventionist Tactics to Lower Interest Rates - The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzV4TmJyWmZ0V182bFdVMTdDeTMtSlVMd3lHNzRHbnpBYnpSR3JiTWxNVnVONDFhQzNqTl9JcS11dWRrTV92TTVDLUJUYjBzVGZjRkd1cTcxOW5Ubk1id21SSWlKTlRoTGtCbVlZeHh1OTNrcTR1UmZPcklyeWp6Z20tWlFycmJQNkdKU21uZEVoeS1UaHNXNA?oc=5",
+   "desc": "Treasury Turns to Interventionist Tactics to Lower Interest Rates  The New York Times",
+   "source": "US Fed",
+   "publisher": "The New York Times",
+   "scope": "world",
+   "ts": 1787240180000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFllZ3c0S1FpSUt5UFlXMTQ2VUZTYjFuN3paRWFkUUROZHVwUmlXX2RLQ2dJaGJNajRNWTBSS1cwbXB1a0pNbXdXc0ZTWnEyWEJYQ2FtNjZGYjFZeUdZR3ZZY01WakI0X00wSlIzUlNuUXkwRXd",
@@ -102,26 +112,6 @@
    "ts": 1787230552000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWWlQVERrbnhzQmxhckRSN2x3SWFOcTBhV0M5U1pVTDNHaDRfMUpQczdGTXdHeXZQbk5LWFRQcm9vbmxXX2V2cnN0dkUzVTNrM0dzaEIwbHNoQ3ZOZHZadEVjMHZmckVHZG02bkVFNDNxcnFidnE",
-   "title": "Fed's Daly doesn't see evidence calling for pre-emptive rate hikes, policy in good place - investingLive",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWWlQVERrbnhzQmxhckRSN2x3SWFOcTBhV0M5U1pVTDNHaDRfMUpQczdGTXdHeXZQbk5LWFRQcm9vbmxXX2V2cnN0dkUzVTNrM0dzaEIwbHNoQ3ZOZHZadEVjMHZmckVHZG02bkVFNDNxcnFidnE1dTlJNUpKYjAxQ3BaNlo0Z3Q0ZWx2eFE3S3g4Ml82a1ZXOTJVRERNa2xWS3U5WkF4eWJXQnFuZ0JQSzdHaTZqcXcwLU9xSU1peHFySHNnTGtV?oc=5",
-   "desc": "Fed's Daly doesn't see evidence calling for pre-emptive rate hikes, policy in good place  investingLive",
-   "source": "US Fed",
-   "publisher": "investingLive",
-   "scope": "world",
-   "ts": 1787230456000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1FNX1VSYi1NcjRhdXBianR1cW9kLU4zX3VOTzh0RjNqTEF5S1ZaRDhQdV9HVi1rdktYazBzaEM4dXVPdkx6QUJxbmxJNENlUkIxS2x5emc2NHRjREVLbFV5b29WcEEzWVQyNU1ENlEzRVdZR0V",
-   "title": "Trump Criticizes Fed Board for Political Rate Decisions, Spares Chairman Warsh - News and Statistics - IndexBox",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1FNX1VSYi1NcjRhdXBianR1cW9kLU4zX3VOTzh0RjNqTEF5S1ZaRDhQdV9HVi1rdktYazBzaEM4dXVPdkx6QUJxbmxJNENlUkIxS2x5emc2NHRjREVLbFV5b29WcEEzWVQyNU1ENlEzRVdZR0VBeGl5R1BsT1NKbTNaWkhNZW1hQ1ctdGdrejBhbG12YkE?oc=5",
-   "desc": "Trump Criticizes Fed Board for Political Rate Decisions, Spares Chairman Warsh - News and Statistics  IndexBox",
-   "source": "US Fed",
-   "publisher": "IndexBox",
-   "scope": "world",
-   "ts": 1787230380000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
    "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
@@ -140,6 +130,16 @@
    "publisher": "qz.com",
    "scope": "world",
    "ts": 1787229455000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWWlQVERrbnhzQmxhckRSN2x3SWFOcTBhV0M5U1pVTDNHaDRfMUpQczdGTXdHeXZQbk5LWFRQcm9vbmxXX2V2cnN0dkUzVTNrM0dzaEIwbHNoQ3ZOZHZadEVjMHZmckVHZG02bkVFNDNxcnFidnE",
+   "title": "Fed's Daly doesn't see evidence calling for pre-emptive rate hikes, policy in good place - investingLive",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWWlQVERrbnhzQmxhckRSN2x3SWFOcTBhV0M5U1pVTDNHaDRfMUpQczdGTXdHeXZQbk5LWFRQcm9vbmxXX2V2cnN0dkUzVTNrM0dzaEIwbHNoQ3ZOZHZadEVjMHZmckVHZG02bkVFNDNxcnFidnE1dTlJNUpKYjAxQ3BaNlo0Z3Q0ZWx2eFE3S3g4Ml82a1ZXOTJVRERNa2xWS3U5WkF4eWJXQnFuZ0JQSzdHaTZqcXcwLU9xSU1peHFySHNnTGtV?oc=5",
+   "desc": "Fed's Daly doesn't see evidence calling for pre-emptive rate hikes, policy in good place  investingLive",
+   "source": "US Fed",
+   "publisher": "investingLive",
+   "scope": "world",
+   "ts": 1787228688000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd1VNRVF2S1d2NWNHLTcxNlpTZ0pyOXpZeGwwbEtjM0pGaG9wSERxeHFaanRwLU51Y21nRjBwMUFtZFdXZ3FydWQ0MDBYc3VzTG10UEt6VHlHUWRxb0RxZFlOZkI3cGZYS2lSSXN6eWg4VWVkTWV",
@@ -170,16 +170,6 @@
    "publisher": "Zee Business",
    "scope": "india",
    "ts": 1787223112000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdGVjdE9qVDh4NHJrSkFCa09JbU9HWnNLWTRBczJLaUdUdjlGd1NHMUJpeVktaXlfc1VFZjl3Y0M5UWYzSWhLY1RnYlJHTlBYSGtweFlYb29qM2pxTDloa2Y0ZmsyUzM4eWtXc095MHJOWWpFV3N",
-   "title": "Euro Holds Steady Vs Pound As ECB And BoE Rate Hike Bets Offset - Bitcoin World",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdGVjdE9qVDh4NHJrSkFCa09JbU9HWnNLWTRBczJLaUdUdjlGd1NHMUJpeVktaXlfc1VFZjl3Y0M5UWYzSWhLY1RnYlJHTlBYSGtweFlYb29qM2pxTDloa2Y0ZmsyUzM4eWtXc095MHJOWWpFV3NVZlNYcDdTYXNwMXdOWQ?oc=5",
-   "desc": "Euro Holds Steady Vs Pound As ECB And BoE Rate Hike Bets Offset  Bitcoin World",
-   "source": "ECB / Europe",
-   "publisher": "Bitcoin World",
-   "scope": "world",
-   "ts": 1787221511000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSEViMTlkNjB4MkhyLU10THFrMC1qOUEzZlFkQVNId2I5SGRWYTNVNG5vQ1hOejl6cjVzUDQ2UUc4QkxieU1QeEFBRjJvaUtUZFNGME5YSmtBRFI4SDBzTS1YZkZOVHpwTmxBRDA5TW5iYlFTVWk",
@@ -323,11 +313,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSjVxX0hraFRJXzNuQ0RwRnJZdlJkb2w4aUEyMjhxdFRvTmk1RU5DMkJxNXdoWDRNcGhaV1pNUDNaWXdFXzFPX0dfQXdaajdWTFprSUwxQzFHeEsxVFZSV2RXV1RzR3lxWks5ZW9fdlV1QnZacXl",
-   "title": "RBI likely to stay on prolonged rate pause in FY27 amid robust growth, easing inflation: Report - Economic Times BFSI",
+   "title": "RBI likely to stay on prolonged rate pause in FY27 amid robust growth, easing inflation: Report - bfsi.economictimes.indiatimes.com",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSjVxX0hraFRJXzNuQ0RwRnJZdlJkb2w4aUEyMjhxdFRvTmk1RU5DMkJxNXdoWDRNcGhaV1pNUDNaWXdFXzFPX0dfQXdaajdWTFprSUwxQzFHeEsxVFZSV2RXV1RzR3lxWks5ZW9fdlV1QnZacXlnWUNKZTdEUGxsMnFJeEJrV3pKUnV0R0JQbXFFaU9OMjJWWm9CWC1YcDFrai1uVFEtclpkalBtcndvV1FucmduenBKRjM5amJvdWs0THNUX05QaXJrQUQ0em1OdmIyRkFEWENXblBUeFRYNGpHNUp6Ukp2SWfSAe8BQVVfeXFMT2JKcmFyVE9hWXZSdzJMNC1fMFB1WWJDdEJIaEkyaDdJal9UQWF0YmFoZjhmdmpVcW5jcFBhQ0VRYXBhZHpSVmVqamxQNlRBTC1USkx6ZGg5UUUwaXFobkdDY1F3VWpySFZHcEVaQnpNNnBqLWc3ZUQtYXdLVmE1bThZMnh0S3ltd29SeThHSWJZWlJpQlVkY1VzLUJmbVFXdy1OcUJ3cXd3aWtlN0ZlbEwxRWFBYlVDcUNJT2F1R29fREhnMklpbi1TUU1sWXRpZjhjWl9aRzlTclB3ZldhZVpJSGgzVm1uWmpFd3hEUVU?oc=5",
-   "desc": "RBI likely to stay on prolonged rate pause in FY27 amid robust growth, easing inflation: Report  Economic Times BFSI",
+   "desc": "RBI likely to stay on prolonged rate pause in FY27 amid robust growth, easing inflation: Report  bfsi.economictimes.indiatimes.com",
    "source": "RBI",
-   "publisher": "Economic Times BFSI",
+   "publisher": "bfsi.economictimes.indiatimes.com",
    "scope": "india",
    "ts": 1787204015000
   },
@@ -349,7 +339,7 @@
    "source": "US Fed",
    "publisher": "Financial Times",
    "scope": "world",
-   "ts": 1787200208000
+   "ts": 1787200468000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb3EwZG8tMl9jaFhRQ21vMnFjbXV4Qmc1bE83RFRLX1c0dFgwVkNMTFA3dmhlT0FEXzdLdWt4c0lGQ0V0b0phYmFWSlRBUWp6bzYwSy1ucVFjbE1WVHZteWZ2UkF2NlFxNXI1bmdNM1AyTnk5X2N",
@@ -422,14 +412,14 @@
    "ts": 1787192640000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmR4Q1hpR0FNekc0NVpwbmczS1lmUXBtU3lSSkpQSGNDR0M0aHNOMjdZUUlNdjk2TFh1Mk5HdFp0NTJyTlhCZnVBMVdkLTM1WkhLV1BZV3liYkJXRTJLbXh4aFhiUDh5YkNJcEpra011VEtUUXl",
-   "title": "Trump urges Fed to cut interest rates, says 'they are so afraid of inflation' - inkl",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmR4Q1hpR0FNekc0NVpwbmczS1lmUXBtU3lSSkpQSGNDR0M0aHNOMjdZUUlNdjk2TFh1Mk5HdFp0NTJyTlhCZnVBMVdkLTM1WkhLV1BZV3liYkJXRTJLbXh4aFhiUDh5YkNJcEpra011VEtUUXlmMm5Hb0RVZldGQ2JaanFKRjl0S1dwcnBpRTJZUHptb2p4NmxYWWpMTWNlRHc?oc=5",
-   "desc": "Trump urges Fed to cut interest rates, says 'they are so afraid of inflation'  inkl",
+   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR25IeXp0TEREZG54bGxQX3JwT0R4azdKVVZuRWdGbE1pY3hKaGQ4Wk43ZndJdmpqNnZTOHFGVzE1WllkTkx2Qm9ZLVJ0NDQxLXROTW1sR3pFQnR2T0J3NEV2OVBReUxUWVo4WWFGWndZNk94a3c",
+   "title": "Watch Will 'Continue to See Dissent Under Warsh Fed' Says Jack Manley - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR25IeXp0TEREZG54bGxQX3JwT0R4azdKVVZuRWdGbE1pY3hKaGQ4Wk43ZndJdmpqNnZTOHFGVzE1WllkTkx2Qm9ZLVJ0NDQxLXROTW1sR3pFQnR2T0J3NEV2OVBReUxUWVo4WWFGWndZNk94a3cwbVJURGMzLW1xUEdhV3lmUXRRNmlEaGJrSmVHZThXMm1RV0ZJU0kxNkxwWVZPUDdRLWk?oc=5",
+   "desc": "Watch Will 'Continue to See Dissent Under Warsh Fed' Says Jack Manley  Bloomberg.com",
    "source": "US Fed",
-   "publisher": "inkl",
+   "publisher": "Bloomberg.com",
    "scope": "world",
-   "ts": 1787191245000
+   "ts": 1787184000000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE94NWtnVTFYOGRxSDdodmNaNjBqVEdObFFuVTJfdGVuRFMwUG92RXBOT2E5TTdLVG9UWm5CR2pZOTNNRjgyR2pQZVVNSU5WSnd5U1h3NldjTy1sTG5wQlJtLVg4VHNWTDI1R2NOcS13MGt2UdIBd0F",
@@ -450,16 +440,6 @@
    "publisher": "PBS",
    "scope": "world",
    "ts": 1787174383000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYV93bURtVUMtVEtLdTRqcjdTc2R5N3NrYUhDNnk1UmVpek96QnRaZkE3MmFRR3RQejh6WG1GeEI5WFhLdGc3TjRKc04xUkh5NEQ3eVVTLWJGYV9CRHJSMHJ4aWkwX3BoZVBNWnppOVJ4UkpOLUR",
-   "title": "Pound-Euro Slides despite Firmer UK Inflation, GBP/EUR Tests 1.1650 - CurrencyNews.co.uk",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYV93bURtVUMtVEtLdTRqcjdTc2R5N3NrYUhDNnk1UmVpek96QnRaZkE3MmFRR3RQejh6WG1GeEI5WFhLdGc3TjRKc04xUkh5NEQ3eVVTLWJGYV9CRHJSMHJ4aWkwX3BoZVBNWnppOVJ4UkpOLURlMzRfaklOM0MxUWgzQ2VaTXFyNXFpT3NrN2g4cVloWkNxdWtxTzZLbVhMeG1KbDREbXJBMUc0QjYtT0c5NFNkNHo5YXBITzdvWWg5Q1RK?oc=5",
-   "desc": "Pound-Euro Slides despite Firmer UK Inflation, GBP/EUR Tests 1.1650  CurrencyNews.co.uk",
-   "source": "ECB / Europe",
-   "publisher": "CurrencyNews.co.uk",
-   "scope": "world",
-   "ts": 1787173562000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVUROVWx3VExrYlVyaFRjNmZ1LXRNR0JTSXZDeXBjS1RCSk10TGJ5OFIwRnJCV0wxNkk4d0lVd3dDeHpFbk03ZC1WRFVVYlJLR0l2U0ZZVjZRaHpLazRMZWtSMFRaN01uSHpxNXduUEJyWlp0aXJ",
@@ -582,6 +562,16 @@
    "ts": 1787168189000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPenZvUUNSSTA5SkRUODJzV3NYa3NObWhqc2RQVi05Z2dvUERGTGN2cEVVbVFKeFNFS0VsellpNWhEZ0d1dmtINEFRVFlwRHZUT0I4Vl9aNW1lQVZDSzgzLVZPUXVsaldFa1cxM29jUlBnNlpIYmR",
+   "title": "Latest Federal Reserve minutes show more support for rate hikes as inflation fears mount - New York Post",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPenZvUUNSSTA5SkRUODJzV3NYa3NObWhqc2RQVi05Z2dvUERGTGN2cEVVbVFKeFNFS0VsellpNWhEZ0d1dmtINEFRVFlwRHZUT0I4Vl9aNW1lQVZDSzgzLVZPUXVsaldFa1cxM29jUlBnNlpIYmRKaWJGdmh6b0l5WUdUVl91NUpyRlBja0pmRXZWMy1LTTNxNXQ4MHh4UDltNDlQQTlyYVUxTGM3a3plbTlWakxZblp3eGJJYkM0WUpkVVRWN3NV?oc=5",
+   "desc": "Latest Federal Reserve minutes show more support for rate hikes as inflation fears mount  New York Post",
+   "source": "US Fed",
+   "publisher": "New York Post",
+   "scope": "world",
+   "ts": 1787167620000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGw2OVNJRW1JR2ZrZ3BpV2lxNXAwNVo5QVYzMTExSmRZUmxaQUhnb256Mkt3bWI1QlRzdDBpbVJjbjRmVVNyV2NEVjcydm14TWtxMVhFd2dCTVNOSk91OTVyNjVzQzUtSTVDejVLeUJuYXppZUN",
    "title": "Many US Fed policymakers back interest rate hikes if inflation stays high - France 24",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGw2OVNJRW1JR2ZrZ3BpV2lxNXAwNVo5QVYzMTExSmRZUmxaQUhnb256Mkt3bWI1QlRzdDBpbVJjbjRmVVNyV2NEVjcydm14TWtxMVhFd2dCTVNOSk91OTVyNjVzQzUtSTVDejVLeUJuYXppZUNuaVY3VGxpa1Jhdzd3NVJ0ZnN6Ny10NEh3OWkwWnA0ZDVPUjBvTTVwTVd1VDgyVXlhVldGb3JKWVRnbWlwWW1KQ3U4aktOVw?oc=5",
@@ -640,16 +630,6 @@
    "publisher": "Yahoo Finance",
    "scope": "world",
    "ts": 1787164872000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQNGc4clR6THVFb0czc3BIY3owelM4eWF5ODNoVHdUVjJaVHJOcDdreXlzRkx4VXBYcWxEclN2eTNqYmpfSUFrOWg2TGxtUVdnNjdHcWpFTjZQWVhNZEJyRFRzOG9fcVR1NjhGV1daUDZPZ1lYZXM",
-   "title": "'Many' Fed officials think higher rates will be needed if inflation stays high - Bozeman Daily Chronicle",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQNGc4clR6THVFb0czc3BIY3owelM4eWF5ODNoVHdUVjJaVHJOcDdreXlzRkx4VXBYcWxEclN2eTNqYmpfSUFrOWg2TGxtUVdnNjdHcWpFTjZQWVhNZEJyRFRzOG9fcVR1NjhGV1daUDZPZ1lYZXMyOWlWVS1BaWtuaDdNUngxckRzR1pFSEhKdkQtNllKbjh0R3I5enY1UkE5ekhEY1VBU2VtaW1wZ1dadkMwa0hMbXBqYXA3TFV1aHZTM3VZSjhPR0JIc3lyQ21JRS1UQXBZaWtlQ3dWVTBNWjZtazN4NVJiZ2NmNGJaUHhKd09QcW9ZclJSQkdKNHpfemRIemZYRWlwZw?oc=5",
-   "desc": "'Many' Fed officials think higher rates will be needed if inflation stays high  Bozeman Daily Chronicle",
-   "source": "US Fed",
-   "publisher": "Bozeman Daily Chronicle",
-   "scope": "world",
-   "ts": 1787164723000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQWEt5Q3dhWUdERVp6Q3JZQ05KQk5qUTcwZi1WZVMteFVTX09YQVZrZ0FPN0pyRU9qZnpJbElqNEE4Vm05ZmcyZ3ZEdl9YcUpEb2prb1F1cVdLM1daTkMxNjNCV3ZXQlE?oc=5",
@@ -1200,6 +1180,26 @@
    "publisher": "Moneycontrol.com",
    "scope": "india",
    "ts": 1787114965000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81a282eEMxZl9TVUI1S1g3Wk1yQWprS2ZRNWNSMFYybnpiaVIwRHRvVFphU1h3alpnUUhWQk44TGxkZUhhTXlsVlhoMTJhQzVwcWt5cnpjZDktT2dXdmpweENEc2Z3UUJVNXF1QnZIaw?oc=5",
+   "title": "Digital Euro and Stablecoins: The Difference - CryptoTicker",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81a282eEMxZl9TVUI1S1g3Wk1yQWprS2ZRNWNSMFYybnpiaVIwRHRvVFphU1h3alpnUUhWQk44TGxkZUhhTXlsVlhoMTJhQzVwcWt5cnpjZDktT2dXdmpweENEc2Z3UUJVNXF1QnZIaw?oc=5",
+   "desc": "Digital Euro and Stablecoins: The Difference  CryptoTicker",
+   "source": "ECB / Europe",
+   "publisher": "CryptoTicker",
+   "scope": "world",
+   "ts": 1787109262000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcndJX1Jycmh3OGFnNWY3Qy15emxGZmRFOUgwMERGZHlyd3N2M2duVHVmLUFhM1Bscy1VR29XalNTV2E2QUd2YWdyQzRueEVVeUFxTGNxcWtsVzBUQ0plVld3ZE9mWGdCb2hFQ1d5MzMtU3RTUUl",
+   "title": "New RBI Rules: How Your Home, Personal Loan EMIs Will Change In 2027 - NDTV",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcndJX1Jycmh3OGFnNWY3Qy15emxGZmRFOUgwMERGZHlyd3N2M2duVHVmLUFhM1Bscy1VR29XalNTV2E2QUd2YWdyQzRueEVVeUFxTGNxcWtsVzBUQ0plVld3ZE9mWGdCb2hFQ1d5MzMtU3RTUUloNUtHbmFqTHpxSFV4d0syNUVjZjdZM0Z5X0xWMnd1c05nSmJWZkpvOFZYSkZiRi1WSWpTbWU3S1HSAbYBQVVfeXFMUExveW9rZEVvVEZNQTRRQ1VadTdFVzl5VTVNZHdOcHdlcmNFaXZudHdKRjN3bGNJZFJ1YV91cDJGZk1Nd1RHY3Nac3hDZ2dGS1pNV0k2S2EwaXEtVjd3RDFhd0tBRXBSZHdUWVBWWWNRanJIV0xjWTZIa1Z6aGhXZzFTMHFQeUtaNzJvR01nekpsWUZpWnVOSU9tYUxrT1JJUWRwYWVkSXBnd2RaWkhWbnQzM1gzV1E?oc=5",
+   "desc": "New RBI Rules: How Your Home, Personal Loan EMIs Will Change In 2027  NDTV",
+   "source": "RBI",
+   "publisher": "NDTV",
+   "scope": "india",
+   "ts": 1787103233000
   }
  ]
 }
