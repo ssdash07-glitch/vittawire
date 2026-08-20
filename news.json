@@ -1,15 +1,65 @@
 {
- "updated": "2026-08-20T18:01:11.449496+00:00",
+ "updated": "2026-08-20T19:05:54.138441+00:00",
  "items": [
   {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdEZQRm01bWxlaWV3VllvMFY2akZPM0tkeXR3MmFHNzRFbFJ2WVpWWU5sRjdoVzlXQno2NEk3VWpiM0ctSTlzejlIVGQ5azg5cE5tWHlzTXZ2WGNJTy01eF9yOGU2LVZ6YmFLMjRzTXNNZ05CU3h",
-   "title": "Bessent’s Treasury Twist Clouds Warsh’s Plea to ‘Play the Ball’ - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdEZQRm01bWxlaWV3VllvMFY2akZPM0tkeXR3MmFHNzRFbFJ2WVpWWU5sRjdoVzlXQno2NEk3VWpiM0ctSTlzejlIVGQ5azg5cE5tWHlzTXZ2WGNJTy01eF9yOGU2LVZ6YmFLMjRzTXNNZ05CU3hpSVVPT01xbzNOV2MzOHJuTExPOWpNX2NBQVZCLVc0MXFKVnZmWGs0MXA2aDRtWGJtUVJZTzBrVmtnUUJ3?oc=5",
-   "desc": "Bessent’s Treasury Twist Clouds Warsh’s Plea to ‘Play the Ball’  Bloomberg.com",
+   "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOVBzWG1VemRhaHZiYW1OT1p6aV9yMklnQXdRWEtoUFRrbGR0YVEwcXpzLVgxV3R0MVB3SUlRQWVNLXB1WnZIaGRCMUZHa05zdzBiQ1B2SGJxZmU5cmQ5bm02UWtXTzl0dzNxVWtwU3ExVk9zVUN",
+   "title": "News Wrap: Federal Reserve leaves interest rates unchanged - NEPM",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOVBzWG1VemRhaHZiYW1OT1p6aV9yMklnQXdRWEtoUFRrbGR0YVEwcXpzLVgxV3R0MVB3SUlRQWVNLXB1WnZIaGRCMUZHa05zdzBiQ1B2SGJxZmU5cmQ5bm02UWtXTzl0dzNxVWtwU3ExVk9zVUNlbTNaZUVDWnVjYnBR?oc=5",
+   "desc": "News Wrap: Federal Reserve leaves interest rates unchanged  NEPM",
    "source": "US Fed",
-   "publisher": "Bloomberg.com",
+   "publisher": "NEPM",
+   "scope": "world",
+   "ts": 1787250341000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTjB2MDZMOWNiQl9VeGZOTXdNamlybU9oUDBfNHJYandnVmdjV3psWE4xTC1tcnM2Y1hHTDBOS082Y0NtWGtpSllDZWxnQ3V1TkQ2SmNIcnJmQ21hZmNWREg2ZnJmRkxFeUFZZDRpTmxJV2sxcUl",
+   "title": "Sebi streamlines FPI onboarding, allows digitally signed Power of Attorney - Rediff",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTjB2MDZMOWNiQl9VeGZOTXdNamlybU9oUDBfNHJYandnVmdjV3psWE4xTC1tcnM2Y1hHTDBOS082Y0NtWGtpSllDZWxnQ3V1TkQ2SmNIcnJmQ21hZmNWREg2ZnJmRkxFeUFZZDRpTmxJV2sxcUlhTXRkTTZzcks1YWFhYU5PTFJXb1ZWLTQ4Sks4dUNlV29ueVdJRlAtbUx4MU5seHFQSlFjRW16VGxyUzdqdE53R25xSVZJTVNRaTNCdndqOUxfel9SOFI2Sm5tWjZnQ9IB1wFBVV95cUxPYXlydUFtbXlRTk1GZzhrMlU2eEhLM3FCT2JmOUFhQ0VLV1p2TWVtRUN5NktJWElsYnJYR1dFSkZ2MURCY0swU1kwZGZNSFpyR1JxSmhVampvU3NWcHVnd0lpOWU2RmN0Rkp3eW9NRDNiZEgtcldMakpQQXRVS0xMSWx5Z1NrV1l1eWpaT1BGcS03LWZYWW1nRExEOE80a3hGenBGTGJ3b3BxQ2JiME1GRFNZOTVDd1hMWXh1bjJXemR6M01od0ltdHNiX0Z0dDVxVURMdVlxbw?oc=5",
+   "desc": "Sebi streamlines FPI onboarding, allows digitally signed Power of Attorney  Rediff",
+   "source": "SEBI",
+   "publisher": "Rediff",
+   "scope": "india",
+   "ts": 1787249734000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzV4TmJyWmZ0V182bFdVMTdDeTMtSlVMd3lHNzRHbnpBYnpSR3JiTWxNVnVONDFhQzNqTl9JcS11dWRrTV92TTVDLUJUYjBzVGZjRkd1cTcxOW5Ubk1id21SSWlKTlRoTGtCbVlZeHh1OTNrcTR",
+   "title": "Treasury Turns to Interventionist Tactics to Lower Interest Rates - The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzV4TmJyWmZ0V182bFdVMTdDeTMtSlVMd3lHNzRHbnpBYnpSR3JiTWxNVnVONDFhQzNqTl9JcS11dWRrTV92TTVDLUJUYjBzVGZjRkd1cTcxOW5Ubk1id21SSWlKTlRoTGtCbVlZeHh1OTNrcTR1UmZPcklyeWp6Z20tWlFycmJQNkdKU21uZEVoeS1UaHNXNA?oc=5",
+   "desc": "Treasury Turns to Interventionist Tactics to Lower Interest Rates  The New York Times",
+   "source": "US Fed",
+   "publisher": "The New York Times",
+   "scope": "world",
+   "ts": 1787249234000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQemtJRXdKVWJfcjlsQ1Jqbk5UUXVCZHRxM0FZX2ljanNRd3VxTXVHcXZteDdybTRLRlhSMUw2NzY0UC1Lb21fZHpHekVjUzNBcFF3bmZpdzJ1a3JyMEpsRDJnMzJ0VkdUYUZUUlI2a0NTUEtTOTF",
+   "title": "Economists don’t see RBI hiking rate in October - financialexpress.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQemtJRXdKVWJfcjlsQ1Jqbk5UUXVCZHRxM0FZX2ljanNRd3VxTXVHcXZteDdybTRLRlhSMUw2NzY0UC1Lb21fZHpHekVjUzNBcFF3bmZpdzJ1a3JyMEpsRDJnMzJ0VkdUYUZUUlI2a0NTUEtTOTFvemZxTE9WSW9aZ2lHY2pMR2dmOWEyV1NKTTlZS1pmUW10aFVPSFVWeDVhREpHeEh30gGsAUFVX3lxTE0zRy1rdTlGSEVfLXdobXhqbElnMG5HUjFVSzVzTWZpajRockNlcVNjVjA2SVBYWWVLZVVFVmVfWXBYRndDVF9zVXpsOERmREVyVW1LcVZLRGhxcXNPOGFqZjFIN3E3VDJ6ZXhKMnliOEpuNXdvSmlTV3VXYVpwTU10MEpfMzI2d3U2NUcwRXJWV3Y3VWNvUjRIdEVXQ1hLeFZEVkl3aUJSaTJhbkg?oc=5",
+   "desc": "Economists don’t see RBI hiking rate in October  financialexpress.com",
+   "source": "RBI",
+   "publisher": "financialexpress.com",
+   "scope": "india",
+   "ts": 1787248640000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdEZQRm01bWxlaWV3VllvMFY2akZPM0tkeXR3MmFHNzRFbFJ2WVpWWU5sRjdoVzlXQno2NEk3VWpiM0ctSTlzejlIVGQ5azg5cE5tWHlzTXZ2WGNJTy01eF9yOGU2LVZ6YmFLMjRzTXNNZ05CU3h",
+   "title": "Bessent’s Treasury Twist Clouds Warsh’s Plea to ‘Play the Ball’ - Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdEZQRm01bWxlaWV3VllvMFY2akZPM0tkeXR3MmFHNzRFbFJ2WVpWWU5sRjdoVzlXQno2NEk3VWpiM0ctSTlzejlIVGQ5azg5cE5tWHlzTXZ2WGNJTy01eF9yOGU2LVZ6YmFLMjRzTXNNZ05CU3hpSVVPT01xbzNOV2MzOHJuTExPOWpNX2NBQVZCLVc0MXFKVnZmWGs0MXA2aDRtWGJtUVJZTzBrVmtnUUJ3?oc=5",
+   "desc": "Bessent’s Treasury Twist Clouds Warsh’s Plea to ‘Play the Ball’  Bloomberg",
+   "source": "US Fed",
+   "publisher": "Bloomberg",
    "scope": "world",
    "ts": 1787246823000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWFJ3S1VzZXpvRXc4eEJtVGs2X0JhQmsxU1FqekJ3N09DdGppQkN3SXR0MHZMLTNDU2Rwam51S1ZTV3NrQVlqNThqa0dIT3d3OTZDWDZQMmo2M1A5Q0t0SVl6M1kwTHYwSDE4RnY2eHpZNVBLbGQ",
+   "title": "Trump Renews Fed Rate Criticism, Says U.S. Should Be Paying Much Less - Earnings Expansion Phase - Vinanet",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWFJ3S1VzZXpvRXc4eEJtVGs2X0JhQmsxU1FqekJ3N09DdGppQkN3SXR0MHZMLTNDU2Rwam51S1ZTV3NrQVlqNThqa0dIT3d3OTZDWDZQMmo2M1A5Q0t0SVl6M1kwTHYwSDE4RnY2eHpZNVBLbGQ5REdtTmJwQjE4Y284ekZnTTNXZlR4S3NxNkJwaVlVSXdYSUMwOUNpQVlxQ0dSRXVzOG9NSVhC?oc=5",
+   "desc": "Trump Renews Fed Rate Criticism, Says U.S. Should Be Paying Much Less - Earnings Expansion Phase  Vinanet",
+   "source": "US Fed",
+   "publisher": "Vinanet",
+   "scope": "world",
+   "ts": 1787246630000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWhlLUo5SzJWeS05N0hTbkcyWDZPanNENUpYMGdGQjlubmg1emk2dVpoV3ZEYUVweU9EMGNlUWY4Ym5CbTVvSV9rcWl4c3pWRHhBVzBUa19RZFVTbEN2WXJMSFBObktFZjlTX1ltVk1oNm5Fa3h",
@@ -22,6 +72,16 @@
    "ts": 1787244758000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDdpZW5ESjlDSllRenlRaVdPRVpQTXdwOWxwZXN5YXR0T0ZMUUVtT1JRR0hxWTRtdlJNbUpJTXNtRnVIcnRIaW1TYWdmYWliUXFKUUNoTEZYeE1mRjNlZjJOMmFmM3pBRlp1LWNlTG5EVjVNVUt",
+   "title": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News - News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDdpZW5ESjlDSllRenlRaVdPRVpQTXdwOWxwZXN5YXR0T0ZMUUVtT1JRR0hxWTRtdlJNbUpJTXNtRnVIcnRIaW1TYWdmYWliUXFKUUNoTEZYeE1mRjNlZjJOMmFmM3pBRlp1LWNlTG5EVjVNVUtmRThkWGZxOHV2YXYxZU9uWVdGdDZ3NEQzM0NCbzBLY2xFWk40ZzQxTUk2YllTQ0p5TUlGQQ?oc=5",
+   "desc": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News  News On AIR",
+   "source": "RBI",
+   "publisher": "News On AIR",
+   "scope": "india",
+   "ts": 1787240678000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY0VkU3FQUlh3LTJSUXR4cGdfSVRNV0tuNEtXM014eGR0VENQdndmLTlkNlh5eE9VbWo0OUdnWXBGWTlsaHg0X0wwamdRZlRSdTZtWlFNMjhlRXpnb24zQzY4a1dGYjRQaS1UT2xHa29mLW5sQVV",
    "title": "Fed's Musalem says hiking rates now could save more aggressive action later - investingLive",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY0VkU3FQUlh3LTJSUXR4cGdfSVRNV0tuNEtXM014eGR0VENQdndmLTlkNlh5eE9VbWo0OUdnWXBGWTlsaHg0X0wwamdRZlRSdTZtWlFNMjhlRXpnb24zQzY4a1dGYjRQaS1UT2xHa29mLW5sQVVUelZveFlWa25lN0k4MmI1aXBLTEtxM01ScDN2RGk1NlRGZy1kWWF3bXd4bHotTk9YYWlSX21ETVpYeXYwT01zVmc?oc=5",
@@ -29,7 +89,7 @@
    "source": "US Fed",
    "publisher": "investingLive",
    "scope": "world",
-   "ts": 1787240454000
+   "ts": 1787240206000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFllZ3c0S1FpSUt5UFlXMTQ2VUZTYjFuN3paRWFkUUROZHVwUmlXX2RLQ2dJaGJNajRNWTBSS1cwbXB1a0pNbXdXc0ZTWnEyWEJYQ2FtNjZGYjFZeUdZR3ZZY01WakI0X00wSlIzUlNuUXkwRXd",
@@ -70,26 +130,6 @@
    "publisher": "Rediff MoneyWiz",
    "scope": "india",
    "ts": 1787235183000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzV4TmJyWmZ0V182bFdVMTdDeTMtSlVMd3lHNzRHbnpBYnpSR3JiTWxNVnVONDFhQzNqTl9JcS11dWRrTV92TTVDLUJUYjBzVGZjRkd1cTcxOW5Ubk1id21SSWlKTlRoTGtCbVlZeHh1OTNrcTR",
-   "title": "Treasury Turns to Interventionist Tactics to Lower Interest Rates - The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzV4TmJyWmZ0V182bFdVMTdDeTMtSlVMd3lHNzRHbnpBYnpSR3JiTWxNVnVONDFhQzNqTl9JcS11dWRrTV92TTVDLUJUYjBzVGZjRkd1cTcxOW5Ubk1id21SSWlKTlRoTGtCbVlZeHh1OTNrcTR1UmZPcklyeWp6Z20tWlFycmJQNkdKU21uZEVoeS1UaHNXNA?oc=5",
-   "desc": "Treasury Turns to Interventionist Tactics to Lower Interest Rates  The New York Times",
-   "source": "US Fed",
-   "publisher": "The New York Times",
-   "scope": "world",
-   "ts": 1787235000000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXRmdzg4b1huaFBUTklSMmdMWm9hQldJTW5WRXI1QUp5ekZQa3NUTXRpTlNxSEdvRTg3WXpyZ3MwQ3FUbFdJZm1fZm9pT2pTajB5MmJ3d3lJLXpTbFBZMzNqUXN0Z1ljZ0hvZF9DbjlWLUtPQzh",
-   "title": "The best way out of America’s debt spiral is robust economic growth - Washington Examiner",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXRmdzg4b1huaFBUTklSMmdMWm9hQldJTW5WRXI1QUp5ekZQa3NUTXRpTlNxSEdvRTg3WXpyZ3MwQ3FUbFdJZm1fZm9pT2pTajB5MmJ3d3lJLXpTbFBZMzNqUXN0Z1ljZ0hvZF9DbjlWLUtPQzhsNUtLcW1TV0pUTkZTc1RxTkZvaUFJcHlYbkxVNWxkQXg1TUY5Wnc2SjhtMkszejJ2eXdjUXpNNE40RmZTUEV2RFJHLVBaVy12LUVYV2cySjJ1SG5DdjFURjVzMlh1cEJlekk?oc=5",
-   "desc": "The best way out of America’s debt spiral is robust economic growth  Washington Examiner",
-   "source": "US Fed",
-   "publisher": "Washington Examiner",
-   "scope": "world",
-   "ts": 1787234400000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTlZoeTJUZXZOQTg4VGlyOEVEVkh0ZE5seFRKcVp0NWN1UzNSbDVISUF6cC05c0I1bGNFV3h6MGs5eGFCdWVieDlKay1rcmxQaERnQTNBQTJyVWd3TFpkRjRPdnZIV3NUbmI5UTBWN3hnaFNuakV",
@@ -182,26 +222,6 @@
    "ts": 1787228688000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd1VNRVF2S1d2NWNHLTcxNlpTZ0pyOXpZeGwwbEtjM0pGaG9wSERxeHFaanRwLU51Y21nRjBwMUFtZFdXZ3FydWQ0MDBYc3VzTG10UEt6VHlHUWRxb0RxZFlOZkI3cGZYS2lSSXN6eWg4VWVkTWV",
-   "title": "30-Year Treasury Yield Hits 19-Year High: What It Means for Investors in 2026 - Intellectia AI",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd1VNRVF2S1d2NWNHLTcxNlpTZ0pyOXpZeGwwbEtjM0pGaG9wSERxeHFaanRwLU51Y21nRjBwMUFtZFdXZ3FydWQ0MDBYc3VzTG10UEt6VHlHUWRxb0RxZFlOZkI3cGZYS2lSSXN6eWg4VWVkTWVmTWJSVHBEOWVGbw?oc=5",
-   "desc": "30-Year Treasury Yield Hits 19-Year High: What It Means for Investors in 2026  Intellectia AI",
-   "source": "US Fed",
-   "publisher": "Intellectia AI",
-   "scope": "world",
-   "ts": 1787228008000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUlNmcnZTRjE0UkJZRWphSGlhTzlYeGlybmRMVl9SaHBzd3puM1g4SGQ1OVB2VjBpRXUyaTM2SXE5Q0xQVWxUVndwLTk0SFFVcncyejNGeDNaZ3RsNjNYNjYyM1pKOExYWmlfbmQ3ZUxxam54NVB",
-   "title": "Sebi Eases FPI Onboarding with Digital PoA - Rediff MoneyWiz",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUlNmcnZTRjE0UkJZRWphSGlhTzlYeGlybmRMVl9SaHBzd3puM1g4SGQ1OVB2VjBpRXUyaTM2SXE5Q0xQVWxUVndwLTk0SFFVcncyejNGeDNaZ3RsNjNYNjYyM1pKOExYWmlfbmQ3ZUxxam54NVB0QlRVTlVzY19OSlI3cS1ib1NwWUN5akV2eThfVElhY3k0Q3VR0gGfAUFVX3lxTE1vTUhFSEx3QVJwN0RIc0N2OVlhVm1LUlBpbWVqUEN4Z2syZ0FRdkMtN1ZYOURiNEN1a1VLTDBRREI2aUdfVm8tbERyekdtN0s2U19Ec3hNUW9kT3Q1Z3dhTklYcFFiVEplQ0pBQzg1YWRSUE9QMFlySnREcDgwcHdqYktNNGRZaEw0TUZwVEdTd0xBZ3U4TmR2UjFPTnBxSQ?oc=5",
-   "desc": "Sebi Eases FPI Onboarding with Digital PoA  Rediff MoneyWiz",
-   "source": "SEBI",
-   "publisher": "Rediff MoneyWiz",
-   "scope": "india",
-   "ts": 1787227923000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWJrRElidFZVcTVHa1NsSVFKd2l4MEJfZXJJVkYweWp5R2ZXUVN6RmFsdFJpY3d2U0FZZEdHUjItUnVxOXpqQnE4Zy1jTnY1a00yTFFTWjU5alpWWkFnQnpldUhUQjJSRlhjYXZBcTRtdEJVOV9",
    "title": "RBI policy: Why BofA and Goldman Sachs expect rate hikes despite August hold - Zee Business",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWJrRElidFZVcTVHa1NsSVFKd2l4MEJfZXJJVkYweWp5R2ZXUVN6RmFsdFJpY3d2U0FZZEdHUjItUnVxOXpqQnE4Zy1jTnY1a00yTFFTWjU5alpWWkFnQnpldUhUQjJSRlhjYXZBcTRtdEJVOV9MdHJoUDFmTTVVUWc5Q0NTSDA5NktlYlN3ZE5pWjdISXBTSXhOZ1pYZlA1T3pvQldMQnY4cUpqZjRaR216TkEzNGN3MFVVaEowMHp2Zw?oc=5",
@@ -224,7 +244,7 @@
   {
    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNEVUdmY5YUpuaFJKQ0g2MGdLTUZsX0lmc3FERjZlRTNVSGRyR2ZyQUpBZGN3RHNIWExlajJpS3VOMVZOQTl4VWxFelp4dnBwbzdEQkRrdVpZMEJjUkc1clZKMEVPX20tNUh1TUhYZERPcHdSa1R",
    "title": "Treasury yields rebound, wiping out the decline following Bessent's intervention - CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNEVUdmY5YUpuaFJKQ0g2MGdLTUZsX0lmc3FERjZlRTNVSGRyR2ZyQUpBZGN3RHNIWExlajJpS3VOMVZOQTl4VWxFelp4dnBwbzdEQkRrdVpZMEJjUkc1clZKMEVPX20tNUh1TUhYZERPcHdSa1RtZ1ZuelIta0hOWHMxUGFqZGlXdUR1c2Rock1UOHRXZFhOd29YclpnTEMzT3ZyNEtLWTk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNEVUdmY5YUpuaFJKQ0g2MGdLTUZsX0lmc3FERjZlRTNVSGRyR2ZyQUpBZGN3RHNIWExlajJpS3VOMVZOQTl4VWxFelp4dnBwbzdEQkRrdVpZMEJjUkc1clZKMEVPX20tNUh1TUhYZERPcHdSa1RtZ1ZuelIta0hOWHMxUGFqZGlXdUR1c2Rock1UOHRXZFhOd29YclpnTEMzT3ZyNEtLWTnSAa4BQVVfeXFMUDJXVzY5dHRmMVcwS2RXRFNqbDVsUkFhMHpPRDdPd2pYYVZJZ293dUtXNU85M3BNR2pQaVNQa3I5MVY0eE5HS2JVZGFwM2J5eS1OVHBubTI5bEZZa2o5ZDBjUWdOeEF4b295NTc3XzNhUjNDUkZIaDN1Qy1FN2dhbDF6WWxweUhRUm00bVUxS3Ywd1F5M052cVViQ3NCX1MtNzJVVWkzVnAzZnZFbEJ3?oc=5",
    "desc": "Treasury yields rebound, wiping out the decline following Bessent's intervention  CNBC",
    "source": "US Fed",
    "publisher": "CNBC",
@@ -349,7 +369,7 @@
    "source": "US Fed",
    "publisher": "Financial Times",
    "scope": "world",
-   "ts": 1787200468000
+   "ts": 1787200208000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb3EwZG8tMl9jaFhRQ21vMnFjbXV4Qmc1bE83RFRLX1c0dFgwVkNMTFA3dmhlT0FEXzdLdWt4c0lGQ0V0b0phYmFWSlRBUWp6bzYwSy1ucVFjbE1WVHZteWZ2UkF2NlFxNXI1bmdNM1AyTnk5X2N",
@@ -423,11 +443,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR25IeXp0TEREZG54bGxQX3JwT0R4azdKVVZuRWdGbE1pY3hKaGQ4Wk43ZndJdmpqNnZTOHFGVzE1WllkTkx2Qm9ZLVJ0NDQxLXROTW1sR3pFQnR2T0J3NEV2OVBReUxUWVo4WWFGWndZNk94a3c",
-   "title": "Watch Will 'Continue to See Dissent Under Warsh Fed' Says Jack Manley - Bloomberg.com",
+   "title": "Watch Will 'Continue to See Dissent Under Warsh Fed' Says Jack Manley - Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR25IeXp0TEREZG54bGxQX3JwT0R4azdKVVZuRWdGbE1pY3hKaGQ4Wk43ZndJdmpqNnZTOHFGVzE1WllkTkx2Qm9ZLVJ0NDQxLXROTW1sR3pFQnR2T0J3NEV2OVBReUxUWVo4WWFGWndZNk94a3cwbVJURGMzLW1xUEdhV3lmUXRRNmlEaGJrSmVHZThXMm1RV0ZJU0kxNkxwWVZPUDdRLWk?oc=5",
-   "desc": "Watch Will 'Continue to See Dissent Under Warsh Fed' Says Jack Manley  Bloomberg.com",
+   "desc": "Watch Will 'Continue to See Dissent Under Warsh Fed' Says Jack Manley  Bloomberg",
    "source": "US Fed",
-   "publisher": "Bloomberg.com",
+   "publisher": "Bloomberg",
    "scope": "world",
    "ts": 1787184000000
   },
@@ -663,21 +683,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTm96dEFucnAxQkNTQmowckpUNXNtNmFfU1BEakd3ZE85Wm1mR1BWZUhJZzFBTFNfYkFtbzdFMW16dWxSbEYwMHNvWnJ0dE1VODNZeGtWVDl5ZlFEcFVLUjVNd0dDb3QtLVhMc083WlJpYTVqOVk",
-   "title": "Fed Minutes Signal Interest Rate Hikes Unless Inflation Improves - Forbes",
+   "title": "Fed Likely Hiking Interest Rates Unless Inflation Comes Down, Minutes Show - Forbes",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTm96dEFucnAxQkNTQmowckpUNXNtNmFfU1BEakd3ZE85Wm1mR1BWZUhJZzFBTFNfYkFtbzdFMW16dWxSbEYwMHNvWnJ0dE1VODNZeGtWVDl5ZlFEcFVLUjVNd0dDb3QtLVhMc083WlJpYTVqOVk0MGhCdHpCUlZxaGI4WE11OWF2dDNsUGxsNEVPd2NRbG9ZRjhUTzVXencxNjJ0SndTZmdoQm1MbGpOZHNVc19rc3c?oc=5",
-   "desc": "Fed Minutes Signal Interest Rate Hikes Unless Inflation Improves  Forbes",
+   "desc": "Fed Likely Hiking Interest Rates Unless Inflation Comes Down, Minutes Show  Forbes",
    "source": "US Fed",
    "publisher": "Forbes",
-   "scope": "world",
-   "ts": 1787163624000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaEp0VHAxS2ladUF3ODhub3dMZDJ4bDhxOW1lWHlibklmbFBvT0VmS1d0V09qakEwSlR2cU10TWcwMWFxYUVzWmxxUFFLMDdpdk16bDBkaXJqN2FHa1ZHV1dwR1U3aWQtVDBYQVNaZ0FKLURDZFJ",
-   "title": "Breaking: FOMC officials acknowledged inflation remained elevated - FXStreet",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaEp0VHAxS2ladUF3ODhub3dMZDJ4bDhxOW1lWHlibklmbFBvT0VmS1d0V09qakEwSlR2cU10TWcwMWFxYUVzWmxxUFFLMDdpdk16bDBkaXJqN2FHa1ZHV1dwR1U3aWQtVDBYQVNaZ0FKLURDZFJ5aDBhRVVmQkRyRWoyWlozckxRSEZ6SmUzSDBRVndZMFBmZkZnS3pWdk5zTmtNcHh6aUxsQkI2ZVJTZF93?oc=5",
-   "desc": "Breaking: FOMC officials acknowledged inflation remained elevated  FXStreet",
-   "source": "US Fed",
-   "publisher": "FXStreet",
    "scope": "world",
    "ts": 1787163624000
   },
@@ -693,11 +703,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnhUQ0hDaThRZzVZemxic282Yk52cFFMMmZxcU5RRlFTZ256SFlGUHlYODZzckFyMXdiWUJXODhlN3Q2QTViS2FVNnVWejhoUjdHbkZDY3MzTDV1Y2JMR1FYT0kza0g2WnFSZmJZSEdmV1ViNXF",
-   "title": "Fed Minutes Show Many Officials Said Rate Hikes May Be Needed - Bloomberg.com",
+   "title": "Fed Minutes Show Many Officials Said Rate Hikes May Be Needed - Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnhUQ0hDaThRZzVZemxic282Yk52cFFMMmZxcU5RRlFTZ256SFlGUHlYODZzckFyMXdiWUJXODhlN3Q2QTViS2FVNnVWejhoUjdHbkZDY3MzTDV1Y2JMR1FYT0kza0g2WnFSZmJZSEdmV1ViNXFFUDlTa3NVTklzcThpMDViQkdOT0tiU0FhMmJsQngySDRyZXZ5Ul9LcmRxbE1sOEdCQ0h0cmNqX2x3RnlR?oc=5",
-   "desc": "Fed Minutes Show Many Officials Said Rate Hikes May Be Needed  Bloomberg.com",
+   "desc": "Fed Minutes Show Many Officials Said Rate Hikes May Be Needed  Bloomberg",
    "source": "US Fed",
-   "publisher": "Bloomberg.com",
+   "publisher": "Bloomberg",
    "scope": "world",
    "ts": 1787163248000
   },
@@ -730,16 +740,6 @@
    "publisher": "BusinessLine",
    "scope": "india",
    "ts": 1787157854000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWJYS20yUU13VS01ak85LVp0N3JXV2g1QkVpOUNydTFVZ3VxbUJQZTFWQmdhUHBTdjlZTjVIeFZkUHlwV1BQaGtxVVpBeUVTbmwyaUJ1Vk9GRXRPNzdhZUhfOUlBVndfOGh4cTRfcXNPQ2YzZDB",
-   "title": "SEBI Bans Copthall, Mansi for Sensex Call Auction Manipulation - Rediff MoneyWiz",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWJYS20yUU13VS01ak85LVp0N3JXV2g1QkVpOUNydTFVZ3VxbUJQZTFWQmdhUHBTdjlZTjVIeFZkUHlwV1BQaGtxVVpBeUVTbmwyaUJ1Vk9GRXRPNzdhZUhfOUlBVndfOGh4cTRfcXNPQ2YzZDBVaUhaWDZMc0MxNHdJaE1feWFFR2NwT24wX3F0dGZqZnRRVTdERk1KMUJZbGRaMWNWN21Qemc5Q1FrUVlaMNIBuAFBVV95cUxOeGtCLU5PTjBCeWxhUEd5VzdkN29xUl9DcG83MTNjMDVzLThodmg5eHBlcHd3Y3EyR2pQOENzeUhfS0gxRTFqMkpLMkFoaWZUSlppWm5hZnp3d2dsMkVMUGhlUkhLdXdBSnZnaUhyNTgwVnUtSy1MNThPNnZ1eWJzYVlpWkRUQVE2anlhMVZGVFI2WjhLWERYQ0xZUkFyRUpSeGVZYVBJLW8zSWhSOElMQnAyaEM3cWd5?oc=5",
-   "desc": "SEBI Bans Copthall, Mansi for Sensex Call Auction Manipulation  Rediff MoneyWiz",
-   "source": "SEBI",
-   "publisher": "Rediff MoneyWiz",
-   "scope": "india",
-   "ts": 1787157088000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaVNuYUlTMHZldkxRTHdRdDI1bGZILWk2Rmw1ODViQ2VxMHlJYXZmSTlxOHNUTUpyNkFXVnZ1RUMwcHhqNUZ4NGJNOHFRNDdhajZteHZjczZMRXdTZ1ZSVXlndU5DUVNjMTJoNHpiV1RKdEdSeE1",
