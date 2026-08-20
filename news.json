@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20T09:46:10.205105+00:00",
+ "updated": "2026-08-20T10:36:03.125198+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSEViMTlkNjB4MkhyLU10THFrMC1qOUEzZlFkQVNId2I5SGRWYTNVNG5vQ1hOejl6cjVzUDQ2UUc4QkxieU1QeEFBRjJvaUtUZFNGME5YSmtBRFI4SDBzTS1YZkZOVHpwTmxBRDA5TW5iYlFTVWk",
@@ -52,6 +52,16 @@
    "ts": 1787210401000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFZKdkNFcXpKNHVFM3hLekxWWlRSWGF5LTZyLXhleWtQSGowY3lMZGNtTUttc19pZ2tINmR6Q1p5Z25hcF9Qbk1hQmYzSkI3ZThlYkxHajk0eERnN1pCZEZvMnF3djBEYVhBVWc1MUZEcUsxR0k",
+   "title": "RBI expected to hike rates 25 bps twice this cycle, meeting minutes read hawkish: Economist - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFZKdkNFcXpKNHVFM3hLekxWWlRSWGF5LTZyLXhleWtQSGowY3lMZGNtTUttc19pZ2tINmR6Q1p5Z25hcF9Qbk1hQmYzSkI3ZThlYkxHajk0eERnN1pCZEZvMnF3djBEYVhBVWc1MUZEcUsxR0kzTnVXMUp2THpiSVhuTTRPTjkxZnI4T2pCYS1KM2lVRW5jcDd4ZUZhZTlHekRnTzMwUkxWaUE2d0RTNldn?oc=5",
+   "desc": "RBI expected to hike rates 25 bps twice this cycle, meeting minutes read hawkish: Economist  CNBC",
+   "source": "RBI",
+   "publisher": "CNBC",
+   "scope": "india",
+   "ts": 1787209870000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWhlLUo5SzJWeS05N0hTbkcyWDZPanNENUpYMGdGQjlubmg1emk2dVpoV3ZEYUVweU9EMGNlUWY4Ym5CbTVvSV9rcWl4c3pWRHhBVzBUa19RZFVTbEN2WXJMSFBObktFZjlTX1ltVk1oNm5Fa3h",
    "title": "Explainer: Why India's market regulator barred a JPMorgan entity from the country's securities market - Reuters",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWhlLUo5SzJWeS05N0hTbkcyWDZPanNENUpYMGdGQjlubmg1emk2dVpoV3ZEYUVweU9EMGNlUWY4Ym5CbTVvSV9rcWl4c3pWRHhBVzBUa19RZFVTbEN2WXJMSFBObktFZjlTX1ltVk1oNm5Fa3hINThEcUdZcGxuMXEwVTcyZXdRdHRPWGs1eERxYVdvSHVraHdtNTFqM3h4UGFVb0RPQkRJWjQ3M3pXdmk3NkRWWXRRMXJ2c0dhVTBwLVNheGE3TUdB?oc=5",
@@ -60,16 +70,6 @@
    "publisher": "Reuters",
    "scope": "india",
    "ts": 1787209643000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFZKdkNFcXpKNHVFM3hLekxWWlRSWGF5LTZyLXhleWtQSGowY3lMZGNtTUttc19pZ2tINmR6Q1p5Z25hcF9Qbk1hQmYzSkI3ZThlYkxHajk0eERnN1pCZEZvMnF3djBEYVhBVWc1MUZEcUsxR0k",
-   "title": "RBI expected to hike rates 25 bps twice this cycle, meeting minutes read hawkish: Economist - CNBC",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFZKdkNFcXpKNHVFM3hLekxWWlRSWGF5LTZyLXhleWtQSGowY3lMZGNtTUttc19pZ2tINmR6Q1p5Z25hcF9Qbk1hQmYzSkI3ZThlYkxHajk0eERnN1pCZEZvMnF3djBEYVhBVWc1MUZEcUsxR0kzTnVXMUp2THpiSVhuTTRPTjkxZnI4T2pCYS1KM2lVRW5jcDd4ZUZhZTlHekRnTzMwUkxWaUE2d0RTNldn?oc=5",
-   "desc": "RBI expected to hike rates 25 bps twice this cycle, meeting minutes read hawkish: Economist  CNBC",
-   "source": "RBI",
-   "publisher": "CNBC",
-   "scope": "india",
-   "ts": 1787208070000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNmtBbjZyVHliUmktM1BhdVZ2NGhYaWZOelJ6NTNiQXFJZlJMWXkyTzJWZWtEcTNIWVdCU2Jfa0IxTVFtZ0FKdjRVaGhmaVFvbk04RjFzeVhJUnhRRXlVckdoOFdmb1VrbDJJaWpOS1hqYlJqLWo",
@@ -332,6 +332,16 @@
    "ts": 1787170524000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNXzEwTmtqMDh4SVVSLWdwUHgzbDF6dVJST2wzY0JHVzhXX0dOZGF0ZjdRLUhfRkZ4cW16ZE5Yb0N6TEZBUC1SbzJOaDBMMDEtOWhEc0MwV1FERWlQLUVCVnZUYk5RdWNPY0J0bkRyMW9qQVFxY2F",
+   "title": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNXzEwTmtqMDh4SVVSLWdwUHgzbDF6dVJST2wzY0JHVzhXX0dOZGF0ZjdRLUhfRkZ4cW16ZE5Yb0N6TEZBUC1SbzJOaDBMMDEtOWhEc0MwV1FERWlQLUVCVnZUYk5RdWNPY0J0bkRyMW9qQVFxY2F1MHNkZVU1emdnZUpCYmdzUdIBiwFBVV95cUxOT2NBRklGTmdfOE9SS1NuU3QteFQ2Y1ZvX0E4ZDRZTXpOYlE2VzVsQWRMbzlOTWRQWGVDblRYWHBUXzVKXzFuMlhrd29BWllfN25QS3RvRmgtLXR1N3plNzIxQ2RrOWFQNHlSY0tMbXFUcTN2T3BwTUlMd1ZnNmd5T0JWaEN2WHVnRFJv?oc=5",
+   "desc": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed  CNBC",
+   "source": "US Fed",
+   "publisher": "CNBC",
+   "scope": "world",
+   "ts": 1787169752000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREJFZVl5eWdqekp3WHc5TmFKZEZFb3dad3dZN1I5dXNIbjhza3hVeUFLOWRTNng2ZVBnTkt3RHYxOFp2ckFuWjFCaGdwQTZnVDh3OVVxS1ZhNzBQX1ZFOVhpSVJMMDdtamZ0VnNTa3V2aXY2Vno",
    "title": "SEBI sets up dedicated task force to tackle AI-driven cyber threats - News On AIR",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREJFZVl5eWdqekp3WHc5TmFKZEZFb3dad3dZN1I5dXNIbjhza3hVeUFLOWRTNng2ZVBnTkt3RHYxOFp2ckFuWjFCaGdwQTZnVDh3OVVxS1ZhNzBQX1ZFOVhpSVJMMDdtamZ0VnNTa3V2aXY2VnoxZHZWNllFckVDMDliY0JqQnBqSkl0SG1RV1JMRWlZU3lYTw?oc=5",
@@ -379,7 +389,7 @@
    "source": "US Fed",
    "publisher": "Axios",
    "scope": "world",
-   "ts": 1787167429000
+   "ts": 1787167420000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc3p2QVItQTJIS1UxcVh2SVN4eE5VRG1fTnF5N3pPcURLSXNXVkFGWG1rUExpZXdhSGt1Q2YtcUFlUGdYa0xDbnZrRm1feTVMTGJodTFkSHFGWTJDcEVtZVlIdk1wbE9MUjZiSXRNdWNJY2diN3J",
@@ -470,6 +480,16 @@
    "publisher": "MarketWatch",
    "scope": "world",
    "ts": 1787164020000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcXIwSUlYc2VFTnJyUWNHR1hpODFmbVl2enVOZHlJZVRrVFBuRG5PR1V1Q0VPcHVrcmFCWC1Fa25pMHRFX2c5VXVxbm1QdW04Zkg0WEdjc1JBek81Tk9FX2JzOTJvYWYxb0V4WGR2bHI4Q2dwc0l",
+   "title": "The Fed Held Rates Steady In July. But Members Said They Will Need To Hike Unless Inflation Cools. - International Business Times",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcXIwSUlYc2VFTnJyUWNHR1hpODFmbVl2enVOZHlJZVRrVFBuRG5PR1V1Q0VPcHVrcmFCWC1Fa25pMHRFX2c5VXVxbm1QdW04Zkg0WEdjc1JBek81Tk9FX2JzOTJvYWYxb0V4WGR2bHI4Q2dwc0l5SWtmNEJmVlN5WkNLZDJmVlZGQXRuMjBmUTVKdngzaG12VFZUd1RxemlFNGEtWGd5REM0Z1g3aGlQcUNjQkI?oc=5",
+   "desc": "The Fed Held Rates Steady In July. But Members Said They Will Need To Hike Unless Inflation Cools.  International Business Times",
+   "source": "US Fed",
+   "publisher": "International Business Times",
+   "scope": "world",
+   "ts": 1787164016000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTm96dEFucnAxQkNTQmowckpUNXNtNmFfU1BEakd3ZE85Wm1mR1BWZUhJZzFBTFNfYkFtbzdFMW16dWxSbEYwMHNvWnJ0dE1VODNZeGtWVDl5ZlFEcFVLUjVNd0dDb3QtLVhMc083WlJpYTVqOVk",
@@ -604,7 +624,7 @@
   {
    "id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZExYZ20xalFvLU82V2R3dWtubkpXeGFSX1FmUFpHaDR1c3NBbjJNZGU2VkJ1MWMtYlZiaEx5cE05cUcxN0FvX18xXzRkY3IwRXUyc3JGSTVyZUxkcXRJZFlZTGl0czFDRkQzcllsTExib1B1blB",
    "title": "Sebi bars two entities from markets over manipulation in CAS, orders ₹3.68 crore disgorgement - livemint.com",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZExYZ20xalFvLU82V2R3dWtubkpXeGFSX1FmUFpHaDR1c3NBbjJNZGU2VkJ1MWMtYlZiaEx5cE05cUcxN0FvX18xXzRkY3IwRXUyc3JGSTVyZUxkcXRJZFlZTGl0czFDRkQzcllsTExib1B1blBXX0pkZUwzbS1ieV80M1U0WG15aGN0QXRZRjlHa0RMcExHNUJ0NGtCMGx6VkR3ZmllaS03WjVjdjRLNGNXVHp2SnNYOUVaazV2Y3I1SUluRkYyWXZUYTdjMEJVWGR3a3VxQ0V6bl9hdTI4bjVMSjlYZjVMU0R5eW1ycmJtRkU?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZExYZ20xalFvLU82V2R3dWtubkpXeGFSX1FmUFpHaDR1c3NBbjJNZGU2VkJ1MWMtYlZiaEx5cE05cUcxN0FvX18xXzRkY3IwRXUyc3JGSTVyZUxkcXRJZFlZTGl0czFDRkQzcllsTExib1B1blBXX0pkZUwzbS1ieV80M1U0WG15aGN0QXRZRjlHa0RMcExHNUJ0NGtCMGx6VkR3ZmllaS03WjVjdjRLNGNXVHp2SnNYOUVaazV2Y3I1SUluRkYyWXZUYTdjMEJVWGR3a3VxQ0V6bl9hdTI4bjVMSjlYZjVMU0R5eW1ycmJtRkXSAfgBQVVfeXFMT08yalctcm8wM181VTVMUkYzLXl3czdPQndKMWpHYktaRF93dWk2WmF6TEtZNlJvdXlkN3NFeGx1SGpBVDNqcm1rUW9OOW9tZndpQ01DckEzZjRnbnV3WnFIMjhsLUh6UG0xOER5NmFiRG9DbmNvNVlpbU5aQ3FEMVh2OEdnMTNaRk5POS1UTjB3QzNEbmEwMG1YTFlIZEJNNzNOZG1TS2xiTjFJTlVOamJuQ0xLbTVBSGgwZ3hfLWRVbmM5d19CaWd3ZE1ncUdya1pTbGtPVXdLQkFiTTdSSWJvQjQzeGprYXhnajYtN1lVYmYzX3dQdko?oc=5",
    "desc": "Sebi bars two entities from markets over manipulation in CAS, orders ₹3.68 crore disgorgement  livemint.com",
    "source": "SEBI",
    "publisher": "livemint.com",
@@ -780,16 +800,6 @@
    "publisher": "The Tribune",
    "scope": "india",
    "ts": 1787143993000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOLUFmSjhjMk5TNVR2VlJKanp0MHYwN2djS0Q4T2NrWkVMQmk4bVE1ZVVVcTZKc2VSVlhPWXF3TGsyRE9aUVNDaFJ4QmgwR1FJY0lGNUpieFhaclpfYk9tc2VfSnNoN3M2ZW9hWXd0MldEemZDY24",
-   "title": "RBI MPC minutes: Sanjay Malhotra holds rate-cut trigger back, says ‘more certainty’ needed on inflation - Zee Business",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOLUFmSjhjMk5TNVR2VlJKanp0MHYwN2djS0Q4T2NrWkVMQmk4bVE1ZVVVcTZKc2VSVlhPWXF3TGsyRE9aUVNDaFJ4QmgwR1FJY0lGNUpieFhaclpfYk9tc2VfSnNoN3M2ZW9hWXd0MldEemZDY24wZkNiT01XVjNtclpMeEdkT3AzRFZ4SWN1ZmZZRFdfLUZ3amtYdHE5c3VWU1NVTzV1ZHpFUXh5eVJJNmZiS2owX20wcnRJQzlYSG01VGhRcTVxTGNVVjROcFpKZWMyX2NPQnlHRTNWV3Aw?oc=5",
-   "desc": "RBI MPC minutes: Sanjay Malhotra holds rate-cut trigger back, says ‘more certainty’ needed on inflation  Zee Business",
-   "source": "RBI",
-   "publisher": "Zee Business",
-   "scope": "india",
-   "ts": 1787143155000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOTTVVcmpCd3NZejR2RFUxamxmYlAyaXYzNWNMa0VkcjRRQkFSTDhUbkFIMWJQR1RrUUFOcHlXSXJfTzVpd25XN0pRREhKLWFMbWNsRG9QX0hEblRkWHFIbUxXMHBGSlhGbWg2WTVtVnd5ZG5SYks",
@@ -1042,16 +1052,6 @@
    "ts": 1787109262000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWXhPWGhJWWFHNnNWUHN1NjZENVItSDI2aFo3UEthN2lsYmMxWDhLOF9ZeVk1UlI5dFNjWmxfWjFQcFdvRnZuaXZ1NEtyMkdDRkVONmwwQkdWYWwtWmxETlI3ZWpob21jQlVlTy0zTWI1QU1La0I",
-   "title": "Global health relief: Ebola is back; IMF needs gold sales fix - DT Next",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWXhPWGhJWWFHNnNWUHN1NjZENVItSDI2aFo3UEthN2lsYmMxWDhLOF9ZeVk1UlI5dFNjWmxfWjFQcFdvRnZuaXZ1NEtyMkdDRkVONmwwQkdWYWwtWmxETlI3ZWpob21jQlVlTy0zTWI1QU1La0IxMFdMdC11VDZUSWZqc0wyZU9rTUxwZ0dQQdIBnAFBVV95cUxPZDBHOFNIZU5WLWxWbVJUcnhKN3c3aVNqSDMtREF4RzFWYUNkX0lQN2wwNGg5QnhfRFpVZ1RfU0lpRnZScndab3VwM2poTWo0ajRMTG1rdUlpNkxxOFljSG90OTVCajVLcEJHeWhkZHFiOFFnSFI0MS1RXzVRUERlc3NwUzNyZXQ2YUFSb19hUDZOaDR1UFZhYU1TT0s?oc=5",
-   "desc": "Global health relief: Ebola is back; IMF needs gold sales fix  DT Next",
-   "source": "IMF / World Bank",
-   "publisher": "DT Next",
-   "scope": "world",
-   "ts": 1787104377000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcndJX1Jycmh3OGFnNWY3Qy15emxGZmRFOUgwMERGZHlyd3N2M2duVHVmLUFhM1Bscy1VR29XalNTV2E2QUd2YWdyQzRueEVVeUFxTGNxcWtsVzBUQ0plVld3ZE9mWGdCb2hFQ1d5MzMtU3RTUUl",
    "title": "New RBI Rules: How Your Home, Personal Loan EMIs Will Change In 2027 - NDTV",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcndJX1Jycmh3OGFnNWY3Qy15emxGZmRFOUgwMERGZHlyd3N2M2duVHVmLUFhM1Bscy1VR29XalNTV2E2QUd2YWdyQzRueEVVeUFxTGNxcWtsVzBUQ0plVld3ZE9mWGdCb2hFQ1d5MzMtU3RTUUloNUtHbmFqTHpxSFV4d0syNUVjZjdZM0Z5X0xWMnd1c05nSmJWZkpvOFZYSkZiRi1WSWpTbWU3S1HSAbYBQVVfeXFMUExveW9rZEVvVEZNQTRRQ1VadTdFVzl5VTVNZHdOcHdlcmNFaXZudHdKRjN3bGNJZFJ1YV91cDJGZk1Nd1RHY3Nac3hDZ2dGS1pNV0k2S2EwaXEtVjd3RDFhd0tBRXBSZHdUWVBWWWNRanJIV0xjWTZIa1Z6aGhXZzFTMHFQeUtaNzJvR01nekpsWUZpWnVOSU9tYUxrT1JJUWRwYWVkSXBnd2RaWkhWbnQzM1gzV1E?oc=5",
@@ -1110,16 +1110,6 @@
    "publisher": "Daily Monitor",
    "scope": "world",
    "ts": 1787083245000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcmxnb1psckYyVFUtRmtfZWVEbzQ1VExrOHhWam1qUE4wa285VE43QUdzNVVSMjhsb25weEJCNkY1OVcyb21jQXB5dDV2VlVzWVkzcHhCeHJCSkcwdUZ5ZHFkUl9DSy1qNlpqeUhGRFlIZ1BXLTN",
-   "title": "Sebi Plans Consultation Paper to Overhaul Corporate Bond Distribution Framework - Post-Earnings Reaction - Vinanet",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcmxnb1psckYyVFUtRmtfZWVEbzQ1VExrOHhWam1qUE4wa285VE43QUdzNVVSMjhsb25weEJCNkY1OVcyb21jQXB5dDV2VlVzWVkzcHhCeHJCSkcwdUZ5ZHFkUl9DSy1qNlpqeUhGRFlIZ1BXLTNBQXVHcGZqd2RRRUJ3Y1JZMGZQVThVbW5YekxGMUlyMzU1eExRNmlJOEQ5b0w0M0ZubG1pYzk1bXh3QmNxVk1CNzVDMjNucG1R?oc=5",
-   "desc": "Sebi Plans Consultation Paper to Overhaul Corporate Bond Distribution Framework - Post-Earnings Reaction  Vinanet",
-   "source": "SEBI",
-   "publisher": "Vinanet",
-   "scope": "india",
-   "ts": 1787082403000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLWZGRjdhS08xUGsxNThkb3p6YzYwSjlKVU5fMTQ2RXBoU2VTSmJXSzY2Nk0tY05Wa1FhQ1ZwNEpsTDZUM2hBb092bktrVlhvRS0wMDZkVEhpUmY2V0lOWjQ2SWFIUUZnN0NoN1F5STVsb3NkYVV",
@@ -1200,6 +1190,16 @@
    "publisher": "The Economic Times",
    "scope": "india",
    "ts": 1787055823000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53N1RqLXJYZ0k1TTVNd0gzRUhzZW4wRm1qMXdwTEhWRnF4SXJsSVJ2aVZRZ0ZBZEFXT0h0OEZmd0ZTdzljSHFaQ0djWDhwTl9paktHNUNWcXhnN3c?oc=5",
+   "title": "Federal Reserve to hold interest rates as bond market does the tightening, Gayeski says - Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53N1RqLXJYZ0k1TTVNd0gzRUhzZW4wRm1qMXdwTEhWRnF4SXJsSVJ2aVZRZ0ZBZEFXT0h0OEZmd0ZTdzljSHFaQ0djWDhwTl9paktHNUNWcXhnN3c?oc=5",
+   "desc": "Federal Reserve to hold interest rates as bond market does the tightening, Gayeski says  Fox Business",
+   "source": "US Fed",
+   "publisher": "Fox Business",
+   "scope": "world",
+   "ts": 1787055252000
   }
  ]
 }
