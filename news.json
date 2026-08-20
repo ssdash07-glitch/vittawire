@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-20T10:36:03.125198+00:00",
+ "updated": "2026-08-20T11:03:02.860435+00:00",
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWJrRElidFZVcTVHa1NsSVFKd2l4MEJfZXJJVkYweWp5R2ZXUVN6RmFsdFJpY3d2U0FZZEdHUjItUnVxOXpqQnE4Zy1jTnY1a00yTFFTWjU5alpWWkFnQnpldUhUQjJSRlhjYXZBcTRtdEJVOV9",
+   "title": "RBI policy: Why BofA and Goldman Sachs expect rate hikes despite August hold - Zee Business",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWJrRElidFZVcTVHa1NsSVFKd2l4MEJfZXJJVkYweWp5R2ZXUVN6RmFsdFJpY3d2U0FZZEdHUjItUnVxOXpqQnE4Zy1jTnY1a00yTFFTWjU5alpWWkFnQnpldUhUQjJSRlhjYXZBcTRtdEJVOV9MdHJoUDFmTTVVUWc5Q0NTSDA5NktlYlN3ZE5pWjdISXBTSXhOZ1pYZlA1T3pvQldMQnY4cUpqZjRaR216TkEzNGN3MFVVaEowMHp2Zw?oc=5",
+   "desc": "RBI policy: Why BofA and Goldman Sachs expect rate hikes despite August hold  Zee Business",
+   "source": "RBI",
+   "publisher": "Zee Business",
+   "scope": "india",
+   "ts": 1787223112000
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSEViMTlkNjB4MkhyLU10THFrMC1qOUEzZlFkQVNId2I5SGRWYTNVNG5vQ1hOejl6cjVzUDQ2UUc4QkxieU1QeEFBRjJvaUtUZFNGME5YSmtBRFI4SDBzTS1YZkZOVHpwTmxBRDA5TW5iYlFTVWk",
    "title": "RBI's next move could be a rate hike if inflation stays high, says MPC member - CNBC TV18",
@@ -149,7 +159,7 @@
    "source": "US Fed",
    "publisher": "Financial Times",
    "scope": "world",
-   "ts": 1787200208000
+   "ts": 1787200468000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb3EwZG8tMl9jaFhRQ21vMnFjbXV4Qmc1bE83RFRLX1c0dFgwVkNMTFA3dmhlT0FEXzdLdWt4c0lGQ0V0b0phYmFWSlRBUWp6bzYwSy1ucVFjbE1WVHZteWZ2UkF2NlFxNXI1bmdNM1AyTnk5X2N",
@@ -162,14 +172,14 @@
    "ts": 1787200020000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU1hQM1hZXzdxRVpQbk9tQjdnRE9IMThNeS1wTUhPUVNGWUI1Rm44eFZXaGF1dGpPZG12eE5nWldnZmhocEFCOFJrZFdlOTVHb1ZEc3dSa0VWN2hjVkpMQVVzamNBSktNdHBLa1Q0cGo5ZnpFd0F",
-   "title": "Trump attacks Federal Reserve over ‘ridiculous’ rates - MorungExpress",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU1hQM1hZXzdxRVpQbk9tQjdnRE9IMThNeS1wTUhPUVNGWUI1Rm44eFZXaGF1dGpPZG12eE5nWldnZmhocEFCOFJrZFdlOTVHb1ZEc3dSa0VWN2hjVkpMQVVzamNBSktNdHBLa1Q0cGo5ZnpFd0FMVFZObGlFcll0T24tVQ?oc=5",
-   "desc": "Trump attacks Federal Reserve over ‘ridiculous’ rates  MorungExpress",
-   "source": "US Fed",
-   "publisher": "MorungExpress",
-   "scope": "world",
-   "ts": 1787196660000
+   "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4UU9mTS12YURhcnFWWHVXaDNMUEY2cnBsanN2TlRoaThWUDMtMVpVVWJ5RWxKck8zd2E2OW1PT0NuNzhpWXFodFdxZW1pNnR6UkhCUlVvUDhDNVcxdF94Q3h1Sm1hNEtWZXVmZHNOaW41Vm01?oc",
+   "title": "SEBI Bars Copthall, Mansi for CAS Manipulation - HDFC Sky",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4UU9mTS12YURhcnFWWHVXaDNMUEY2cnBsanN2TlRoaThWUDMtMVpVVWJ5RWxKck8zd2E2OW1PT0NuNzhpWXFodFdxZW1pNnR6UkhCUlVvUDhDNVcxdF94Q3h1Sm1hNEtWZXVmZHNOaW41Vm01?oc=5",
+   "desc": "SEBI Bars Copthall, Mansi for CAS Manipulation  HDFC Sky",
+   "source": "SEBI",
+   "publisher": "HDFC Sky",
+   "scope": "india",
+   "ts": 1787199186000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNRV9nUWp0SUZWTVg0SGZLUWdmVU1rdHJ2dUVnWDVRTUpSN2kyMmJnMm1Lb01MM216VzYyLWwzZTBJOTdSYlAzZHUzTmMwRmdRRURZMm1sbC1GY2lIOUZ4NW5BbVZfa0FvOHB0QV92eGtITGdoQkJ",
@@ -1190,16 +1200,6 @@
    "publisher": "The Economic Times",
    "scope": "india",
    "ts": 1787055823000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53N1RqLXJYZ0k1TTVNd0gzRUhzZW4wRm1qMXdwTEhWRnF4SXJsSVJ2aVZRZ0ZBZEFXT0h0OEZmd0ZTdzljSHFaQ0djWDhwTl9paktHNUNWcXhnN3c?oc=5",
-   "title": "Federal Reserve to hold interest rates as bond market does the tightening, Gayeski says - Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53N1RqLXJYZ0k1TTVNd0gzRUhzZW4wRm1qMXdwTEhWRnF4SXJsSVJ2aVZRZ0ZBZEFXT0h0OEZmd0ZTdzljSHFaQ0djWDhwTl9paktHNUNWcXhnN3c?oc=5",
-   "desc": "Federal Reserve to hold interest rates as bond market does the tightening, Gayeski says  Fox Business",
-   "source": "US Fed",
-   "publisher": "Fox Business",
-   "scope": "world",
-   "ts": 1787055252000
   }
  ]
 }
