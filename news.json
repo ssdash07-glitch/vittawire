@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-20T19:49:53.067035+00:00",
+ "updated": "2026-08-20T20:34:36.344338+00:00",
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JX2tycmJrX2RGY0tSNEVoNzQ4dVprQ25pS1c0czRfOE9xT1VBSDUzdUQ1ZV9zZ3g1V3ZDVk1RajVQcnMxSE1JUFI5dlo5RlhUUkJTd1ZaT01KTlpZZlZhN3BLZUVfOEQyWnlsZktuM3ZtZXNiQW9",
+   "title": "The bond market just overruled the Fed - Curzio Research",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JX2tycmJrX2RGY0tSNEVoNzQ4dVprQ25pS1c0czRfOE9xT1VBSDUzdUQ1ZV9zZ3g1V3ZDVk1RajVQcnMxSE1JUFI5dlo5RlhUUkJTd1ZaT01KTlpZZlZhN3BLZUVfOEQyWnlsZktuM3ZtZXNiQW9weUd3?oc=5",
+   "desc": "The bond market just overruled the Fed  Curzio Research",
+   "source": "US Fed",
+   "publisher": "Curzio Research",
+   "scope": "world",
+   "ts": 1787255657000
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOVBzWG1VemRhaHZiYW1OT1p6aV9yMklnQXdRWEtoUFRrbGR0YVEwcXpzLVgxV3R0MVB3SUlRQWVNLXB1WnZIaGRCMUZHa05zdzBiQ1B2SGJxZmU5cmQ5bm02UWtXTzl0dzNxVWtwU3ExVk9zVUN",
    "title": "News Wrap: Federal Reserve leaves interest rates unchanged - NEPM",
@@ -20,16 +30,6 @@
    "publisher": "Rediff",
    "scope": "india",
    "ts": 1787249734000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzV4TmJyWmZ0V182bFdVMTdDeTMtSlVMd3lHNzRHbnpBYnpSR3JiTWxNVnVONDFhQzNqTl9JcS11dWRrTV92TTVDLUJUYjBzVGZjRkd1cTcxOW5Ubk1id21SSWlKTlRoTGtCbVlZeHh1OTNrcTR",
-   "title": "Treasury Turns to Interventionist Tactics to Lower Interest Rates - The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzV4TmJyWmZ0V182bFdVMTdDeTMtSlVMd3lHNzRHbnpBYnpSR3JiTWxNVnVONDFhQzNqTl9JcS11dWRrTV92TTVDLUJUYjBzVGZjRkd1cTcxOW5Ubk1id21SSWlKTlRoTGtCbVlZeHh1OTNrcTR1UmZPcklyeWp6Z20tWlFycmJQNkdKU21uZEVoeS1UaHNXNA?oc=5",
-   "desc": "Treasury Turns to Interventionist Tactics to Lower Interest Rates  The New York Times",
-   "source": "US Fed",
-   "publisher": "The New York Times",
-   "scope": "world",
-   "ts": 1787249234000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQemtJRXdKVWJfcjlsQ1Jqbk5UUXVCZHRxM0FZX2ljanNRd3VxTXVHcXZteDdybTRLRlhSMUw2NzY0UC1Lb21fZHpHekVjUzNBcFF3bmZpdzJ1a3JyMEpsRDJnMzJ0VkdUYUZUUlI2a0NTUEtTOTF",
@@ -112,6 +112,16 @@
    "ts": 1787237988000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOalpBeVBzcXdzV2xUdi1jQ0VrVktoMWdJaGh0LVZhcWNEUEZENk53LXpWNDhSTGR3dnVlSkJxQXNkQkxWOVBDLUQtSmZlY244YTBUTkdmRTVsUlBmVkY0UzVETzdlOVROZGcyM2hNYXQ2Y2lBczB",
+   "title": "IMF Mission Chief Sarwat Jahan highlights Nepal’s post-reform economic stabilization - Nepalnews.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOalpBeVBzcXdzV2xUdi1jQ0VrVktoMWdJaGh0LVZhcWNEUEZENk53LXpWNDhSTGR3dnVlSkJxQXNkQkxWOVBDLUQtSmZlY244YTBUTkdmRTVsUlBmVkY0UzVETzdlOVROZGcyM2hNYXQ2Y2lBczBqdjBiUFRkYVV1dF9ZVUxLTE0tZWdDR0ZZc1otUW0yZVhDTjVkQUxuS19HXzh4NkZacHY3cVpObEliS0dUYWhFQXNUbE5PYzNfeWtrQ1k?oc=5",
+   "desc": "IMF Mission Chief Sarwat Jahan highlights Nepal’s post-reform economic stabilization  Nepalnews.com",
+   "source": "IMF / World Bank",
+   "publisher": "Nepalnews.com",
+   "scope": "world",
+   "ts": 1787237805000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONHRUbU1kdE1pUGdqd1lWMVhfTU9rc18xMWROeHlFZDVpUmtycW9xcVFEZ3JDTDN0b2p3a2hsQ0pCenIxYno5TFNxSFZGTHY3Z2NwWG02NzNqOEtWZ0VpOWhEQ2pKZzkzVDlla04wc1QwS3BMUDR",
    "title": "Dhenu Buildcon’s ₹492.5 Crore Market Value Draws SEBI Scrutiny - The420.in",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONHRUbU1kdE1pUGdqd1lWMVhfTU9rc18xMWROeHlFZDVpUmtycW9xcVFEZ3JDTDN0b2p3a2hsQ0pCenIxYno5TFNxSFZGTHY3Z2NwWG02NzNqOEtWZ0VpOWhEQ2pKZzkzVDlla04wc1QwS3BMUDRoUndvcnBfOWcxaHRaZmRuVmZHY2U0TFE3TQ?oc=5",
@@ -130,6 +140,16 @@
    "publisher": "Rediff MoneyWiz",
    "scope": "india",
    "ts": 1787235183000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzV4TmJyWmZ0V182bFdVMTdDeTMtSlVMd3lHNzRHbnpBYnpSR3JiTWxNVnVONDFhQzNqTl9JcS11dWRrTV92TTVDLUJUYjBzVGZjRkd1cTcxOW5Ubk1id21SSWlKTlRoTGtCbVlZeHh1OTNrcTR",
+   "title": "Treasury Turns to Interventionist Tactics to Lower Interest Rates - The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzV4TmJyWmZ0V182bFdVMTdDeTMtSlVMd3lHNzRHbnpBYnpSR3JiTWxNVnVONDFhQzNqTl9JcS11dWRrTV92TTVDLUJUYjBzVGZjRkd1cTcxOW5Ubk1id21SSWlKTlRoTGtCbVlZeHh1OTNrcTR1UmZPcklyeWp6Z20tWlFycmJQNkdKU21uZEVoeS1UaHNXNA?oc=5",
+   "desc": "Treasury Turns to Interventionist Tactics to Lower Interest Rates  The New York Times",
+   "source": "US Fed",
+   "publisher": "The New York Times",
+   "scope": "world",
+   "ts": 1787235000000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTlZoeTJUZXZOQTg4VGlyOEVEVkh0ZE5seFRKcVp0NWN1UzNSbDVISUF6cC05c0I1bGNFV3h6MGs5eGFCdWVieDlKay1rcmxQaERnQTNBQTJyVWd3TFpkRjRPdnZIV3NUbmI5UTBWN3hnaFNuakV",
@@ -219,7 +239,7 @@
    "source": "US Fed",
    "publisher": "investingLive",
    "scope": "world",
-   "ts": 1787228688000
+   "ts": 1787228984000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWJrRElidFZVcTVHa1NsSVFKd2l4MEJfZXJJVkYweWp5R2ZXUVN6RmFsdFJpY3d2U0FZZEdHUjItUnVxOXpqQnE4Zy1jTnY1a00yTFFTWjU5alpWWkFnQnpldUhUQjJSRlhjYXZBcTRtdEJVOV9",
@@ -522,16 +542,6 @@
    "ts": 1787172268000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRHBHamxodXMzbWlRMG9tZ0U5Vzg4a0xhVkdlQmVEZ1JENENEcUszbkZkbzhlX3BwU3ZoN1FfdXpTNzZLTTdNbFB1Q0FmOXc2aVpyR3czVkdvZXFBZmF2QXVRUF9kSl9BQm1CYnhlS2MzRHplSjB",
-   "title": "Trump urges Fed to lower interest rates - Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRHBHamxodXMzbWlRMG9tZ0U5Vzg4a0xhVkdlQmVEZ1JENENEcUszbkZkbzhlX3BwU3ZoN1FfdXpTNzZLTTdNbFB1Q0FmOXc2aVpyR3czVkdvZXFBZmF2QXVRUF9kSl9BQm1CYnhlS2MzRHplSjBDVkhsbE90MEk1bUZLUnYtWEJP?oc=5",
-   "desc": "Trump urges Fed to lower interest rates  Anadolu Ajansı",
-   "source": "US Fed",
-   "publisher": "Anadolu Ajansı",
-   "scope": "world",
-   "ts": 1787171824000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjhMcXlGelNialZZS3RvOVY3SEVreGlyV1dabkJZV0JqcnpSM0ZGcGo2czdoM01KVXZOUDJYUTBVdXFfMWtZZi1meWRqa2dmYXhKR2RPalNEdllhSFNlczhVbkhRR1g4ZGNvQWp6RHQtV0dsZHU",
    "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less - CNBC",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjhMcXlGelNialZZS3RvOVY3SEVreGlyV1dabkJZV0JqcnpSM0ZGcGo2czdoM01KVXZOUDJYUTBVdXFfMWtZZi1meWRqa2dmYXhKR2RPalNEdllhSFNlczhVbkhRR1g4ZGNvQWp6RHQtV0dsZHUzdEFkTW55RmlHSWpacS01WWxHVXpjQ1F6TUJKQ0ZGNlA0MlIzVjFTSy1UR1F0RHNGb0RLbTlKY2Zz0gG0AUFVX3lxTE43N2E0eUEzem1JR1ZwR0ZVWk5ocWp4WlRmRWQ3VEotRDBhUllXZkdUUmVGd2o5akJiakNYcHdJelk3eHJvalJVWUZia3NtU1RRSExNYUJqLWROejZzV0ZxcnlNMUdLSkxXUTZtcGtGd0RHVWlLeXUtWGplbG5Od3ZXOExYUS00V0NfSWNGcVdqdkRFYTg3ZUJ2UGZ0OVFpTFNrcXNCLVQzMDRITzBzcm1rNk44Yw?oc=5",
@@ -540,6 +550,16 @@
    "publisher": "CNBC",
    "scope": "world",
    "ts": 1787171568000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWERIM2I3T0tzZWlQc3dWSzVhX1Z4eGdwbDl3d1N4VUZrWXcwQnpGSVNKbC1aWTU1Z1g4anRBaG15Y3BIT3NhS0YzSGtxSWlnOGpNSlA0ODRZTnBmREwzTWZObHJ6VE1ra25qc2lSRDdGY0VBQWY",
+   "title": "Bond yields fall after Treasury announces surprise move to ease rising rates - NBC News",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWERIM2I3T0tzZWlQc3dWSzVhX1Z4eGdwbDl3d1N4VUZrWXcwQnpGSVNKbC1aWTU1Z1g4anRBaG15Y3BIT3NhS0YzSGtxSWlnOGpNSlA0ODRZTnBmREwzTWZObHJ6VE1ra25qc2lSRDdGY0VBQWY5Q0RCWDFBNVNDRVRBRTJqMGJ2YWF5QmRQZHR0Y0Jo?oc=5",
+   "desc": "Bond yields fall after Treasury announces surprise move to ease rising rates  NBC News",
+   "source": "US Fed",
+   "publisher": "NBC News",
+   "scope": "world",
+   "ts": 1787171362000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbzRVc1Z4bTd5THJ4V08yaHBHSGZ0Z0FtMU9wMWlRTGk0dlNuSklqYjUwQmYzZnlvTHJ5TGRfYkFKYzFXRmdlNEZkNThha0V1VFF3c2s2YkotcWNjcVpvVklEZlpoQTNWQ3l6OWhuTFN6d1ZUMGF",
@@ -592,6 +612,16 @@
    "ts": 1787169752000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbElsRFRLSUFTZTNOX2VrbjFYcGJuOXNoTlJyMmd3dl9uRFpzeTNhY2dYRk85UTZyY0lQMk9iYzVkTmVRLVVXZk1EQTNfLWQ2R19sU2cyeWZ0WmwtdmJYNWdGS3VrQWE3TjU4bUFKa2RKM1ZQN3I",
+   "title": "Fed Minutes Reveal Broader Support for Rate Increases - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbElsRFRLSUFTZTNOX2VrbjFYcGJuOXNoTlJyMmd3dl9uRFpzeTNhY2dYRk85UTZyY0lQMk9iYzVkTmVRLVVXZk1EQTNfLWQ2R19sU2cyeWZ0WmwtdmJYNWdGS3VrQWE3TjU4bUFKa2RKM1ZQN3I5Ml9pVkxiQzA4ellNbmp1MDd6RTYtMW1KWEtmQWROT3JITWo3VDFQeTlN?oc=5",
+   "desc": "Fed Minutes Reveal Broader Support for Rate Increases  WSJ",
+   "source": "US Fed",
+   "publisher": "WSJ",
+   "scope": "world",
+   "ts": 1787169071000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0X0lMdDNqOTlwMjNXa1lLR0M4MTVxVC1jMnZWNk50T1pQYXYzdkpVbkxjMk5oVjctbDhIZHpUZDJBMmo1cjd6c1kwWi10bjlVUmVHOE5JS0Zfc005czdITTAxR0Fqckt1Q1AwQXItUm1nTlV3dTJ",
    "title": "‘Many’ Fed officials think higher rates will be needed if inflation stays high - The Virginian-Pilot",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0X0lMdDNqOTlwMjNXa1lLR0M4MTVxVC1jMnZWNk50T1pQYXYzdkpVbkxjMk5oVjctbDhIZHpUZDJBMmo1cjd6c1kwWi10bjlVUmVHOE5JS0Zfc005czdITTAxR0Fqckt1Q1AwQXItUm1nTlV3dTJJNUdURldXdw?oc=5",
@@ -642,16 +672,6 @@
    "ts": 1787167620000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGw2OVNJRW1JR2ZrZ3BpV2lxNXAwNVo5QVYzMTExSmRZUmxaQUhnb256Mkt3bWI1QlRzdDBpbVJjbjRmVVNyV2NEVjcydm14TWtxMVhFd2dCTVNOSk91OTVyNjVzQzUtSTVDejVLeUJuYXppZUN",
-   "title": "Many US Fed policymakers back interest rate hikes if inflation stays high - France 24",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGw2OVNJRW1JR2ZrZ3BpV2lxNXAwNVo5QVYzMTExSmRZUmxaQUhnb256Mkt3bWI1QlRzdDBpbVJjbjRmVVNyV2NEVjcydm14TWtxMVhFd2dCTVNOSk91OTVyNjVzQzUtSTVDejVLeUJuYXppZUNuaVY3VGxpa1Jhdzd3NVJ0ZnN6Ny10NEh3OWkwWnA0ZDVPUjBvTTVwTVd1VDgyVXlhVldGb3JKWVRnbWlwWW1KQ3U4aktOVw?oc=5",
-   "desc": "Many US Fed policymakers back interest rate hikes if inflation stays high  France 24",
-   "source": "US Fed",
-   "publisher": "France 24",
-   "scope": "world",
-   "ts": 1787167033000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVo5OU5OQlk3bHpRcUlzMVNsNDEtLTQ1a05Zb1NoUldHZUtvcWMybE9WT1lQZkJFYXlBSXFwNEg0cGY1SE0zMUR2N1NrQzBpMi04Y0ppeTlTbEtNdWhETFRYN3NZdmlzQ3ZKOERrZ3NYVTBLem5",
    "title": "Fed Talked Rate Hike if Inflation Fails to Cool Further - U.S. News & World Report",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVo5OU5OQlk3bHpRcUlzMVNsNDEtLTQ1a05Zb1NoUldHZUtvcWMybE9WT1lQZkJFYXlBSXFwNEg0cGY1SE0zMUR2N1NrQzBpMi04Y0ppeTlTbEtNdWhETFRYN3NZdmlzQ3ZKOERrZ3NYVTBLem51bEVSRG44ZU40TUZHWGNWVmpTYkxMa1ZvNE1oM3FDYkhRTWtpY2lBcklidV9EVk9JXzQ3eE0zNndtZ1REV2VLNHZ3?oc=5",
@@ -660,16 +680,6 @@
    "publisher": "U.S. News & World Report",
    "scope": "world",
    "ts": 1787166420000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbElsRFRLSUFTZTNOX2VrbjFYcGJuOXNoTlJyMmd3dl9uRFpzeTNhY2dYRk85UTZyY0lQMk9iYzVkTmVRLVVXZk1EQTNfLWQ2R19sU2cyeWZ0WmwtdmJYNWdGS3VrQWE3TjU4bUFKa2RKM1ZQN3I",
-   "title": "Fed Minutes Reveal Broader Support for Rate Increases - WSJ",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbElsRFRLSUFTZTNOX2VrbjFYcGJuOXNoTlJyMmd3dl9uRFpzeTNhY2dYRk85UTZyY0lQMk9iYzVkTmVRLVVXZk1EQTNfLWQ2R19sU2cyeWZ0WmwtdmJYNWdGS3VrQWE3TjU4bUFKa2RKM1ZQN3I5Ml9pVkxiQzA4ellNbmp1MDd6RTYtMW1KWEtmQWROT3JITWo3VDFQeTlN?oc=5",
-   "desc": "Fed Minutes Reveal Broader Support for Rate Increases  WSJ",
-   "source": "US Fed",
-   "publisher": "WSJ",
-   "scope": "world",
-   "ts": 1787166240000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUU3QzJ6YTh1c3NuVDhBeE1lZzByYWtla200SkRNWnZEWW5wWmZWXzZvS3RqYU8yM2Y1VE91aHVWMng0MnczWVNjV3poa2t2TnFmYVhMZDVJSE1kdjFGcU9MaW5vS0o0MjEwalJmU0tZekFHclB",
@@ -1190,16 +1200,6 @@
    "publisher": "NDTV Profit",
    "scope": "india",
    "ts": 1787118236000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zQW0taXhRV0JaN1g2cFpXQnJGeDY1c0V1SXpPTUZielFrbmpBZC1TRDRmZDBjeG9INVQtZVJheGNwZHlJTi1ZaVZiQ2JDY1NROU1KM041WjhGSy1tV05LZ2lKbGJmR3B3UXBiOWF4M3hlQ2pVcEE",
-   "title": "Sterling at the Mercy of UK CPI and Lagarde's Remarks as Rate-Hike Pricing Hangs in the Balance - finance.biggo.com",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zQW0taXhRV0JaN1g2cFpXQnJGeDY1c0V1SXpPTUZielFrbmpBZC1TRDRmZDBjeG9INVQtZVJheGNwZHlJTi1ZaVZiQ2JDY1NROU1KM041WjhGSy1tV05LZ2lKbGJmR3B3UXBiOWF4M3hlQ2pVcEE?oc=5",
-   "desc": "Sterling at the Mercy of UK CPI and Lagarde's Remarks as Rate-Hike Pricing Hangs in the Balance  finance.biggo.com",
-   "source": "ECB / Europe",
-   "publisher": "finance.biggo.com",
-   "scope": "world",
-   "ts": 1787115960000
   }
  ]
 }
