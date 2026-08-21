@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T16:04:24.031951+00:00",
+ "updated": "2026-08-21T16:56:06.033303+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY0JKWHl3NllVMUl6LUgwT1BJdmhORVNZaVhDTXhPVTFVMlBWbWRvYXNpSnA1ZlpNVjJMOFAtSklPTmRWQ3pKYWhYWVJvbmltenZaczJGZmU3OWtTYWtqMDA1UGRwUllaQi1PbW95M1AwMW9mUkJ",
@@ -10,6 +10,16 @@
    "publisher": "CryptoRank",
    "scope": "world",
    "ts": 1787325202000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX0w3X3phQWJjcjBtR2J6WmJsb0ZHVHZjWUxwY1BVMzR1UUZQa2VRTUJFRVgwaVlUcUtSMGVXOGtsWnBQOUJkN0o3TFRyX3ZHQ3BtX0Ixb0FYb3JYWHR0UzBnanUwX3NGdUVlbHVIUVkxaTdPWUp",
+   "title": "Normal Interest Rates: What The Debt Panic Gets Wrong - Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX0w3X3phQWJjcjBtR2J6WmJsb0ZHVHZjWUxwY1BVMzR1UUZQa2VRTUJFRVgwaVlUcUtSMGVXOGtsWnBQOUJkN0o3TFRyX3ZHQ3BtX0Ixb0FYb3JYWHR0UzBnanUwX3NGdUVlbHVIUVkxaTdPWUpFSHh4Y2tqT1FrN0xUS2NmazBIWGFZbjRaWWNaSkE?oc=5",
+   "desc": "Normal Interest Rates: What The Debt Panic Gets Wrong  Seeking Alpha",
+   "source": "US Fed",
+   "publisher": "Seeking Alpha",
+   "scope": "world",
+   "ts": 1787323500000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90TW1SZ0luaDNUNF9FRklEeVFHX2dlMHJRMTNVaWRPTmFDbE5KaHYwMUU3aGZHbHdYY0pLclV5OWxmUXAyYzVmX1FJYmFUcWZNWWRqcTVHaUdZcEVs?oc=5",
@@ -50,16 +60,6 @@
    "publisher": "Bloomberg.com",
    "scope": "india",
    "ts": 1787307048000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT1EwVDVWYkUxRURlMzZha08tZ2RkMmZEaU83X0V5N2Q1dHhJV0wxanVGd2prakNnUlN6emFFZDJLX3gwN004cE10ZUlSVVdpWGotZ0hxUmFxa3RoVUQ2VnZrVEpibW1Oa3ZieE96bTBRdXp3YTU",
-   "title": "Dow Jones Futures Rise as Traders Weigh Debt Buybacks vs. Surging Oil Prices - CryptoRank",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT1EwVDVWYkUxRURlMzZha08tZ2RkMmZEaU83X0V5N2Q1dHhJV0wxanVGd2prakNnUlN6emFFZDJLX3gwN004cE10ZUlSVVdpWGotZ0hxUmFxa3RoVUQ2VnZrVEpibW1Oa3ZieE96bTBRdXp3YTU2QVBDUEw5dnB5S1hoQTV4Y2M?oc=5",
-   "desc": "Dow Jones Futures Rise as Traders Weigh Debt Buybacks vs. Surging Oil Prices  CryptoRank",
-   "source": "US Fed",
-   "publisher": "CryptoRank",
-   "scope": "world",
-   "ts": 1787305232000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
@@ -280,6 +280,16 @@
    "publisher": "Reuters",
    "scope": "india",
    "ts": 1787241771000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbVQxUklqYk1lQXliUjl3VDMyYkpjTm85UHM3ZExSdmc3UHFLS3FLdXJScjFKMWRGc1ZkekJ5Ym85bHNkdUxJcU56UU1ZRkhYUk9YcDc2ZmdrdkVTZkxXeENyNFlyZndndGgyX3RKZWJFazJXNmF",
+   "title": "SEBI to allow MFDs to distribute corporate bonds through online platforms: Amarjeet Singh - Cafemutual",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbVQxUklqYk1lQXliUjl3VDMyYkpjTm85UHM3ZExSdmc3UHFLS3FLdXJScjFKMWRGc1ZkekJ5Ym85bHNkdUxJcU56UU1ZRkhYUk9YcDc2ZmdrdkVTZkxXeENyNFlyZndndGgyX3RKZWJFazJXNmF4MHh6WkRDd244ZHZYejJ5MW5RZFJYaERzVEZsMkd1em5GejVPQVVLUHMzNXA5Q2oyUExfUTFZbmZ6dXRRb3Q5T0VSdXZVNGhPSjFkbGN0OU1PUFdnNA?oc=5",
+   "desc": "SEBI to allow MFDs to distribute corporate bonds through online platforms: Amarjeet Singh  Cafemutual",
+   "source": "SEBI",
+   "publisher": "Cafemutual",
+   "scope": "india",
+   "ts": 1787241548000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU2RfSmxEVW5nc2dWZk9qRFdVTE5NU0ZEYk9ZUVlDZUxKSUtOUGQ2eTUwRW8xdVlqSm5WejlxRnQ0WnltRzlfRFVoMzFUUU1wMTZkT2pWRlpCYlY3T0JaSHpBT2htUHhtS0phYjVwR3Q0US1aamt",
@@ -742,14 +752,14 @@
    "ts": 1787169752000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNVXYwTGxaSTdxcWhoMlVGRkZRcV9OWTNTWFQ0SmVwSXZLQkVhZWE1Uk16M2FQQlpsWC0tZXJXV1pGY0lONWVIVUx1ekcxcGdtdHlyT0JNVHl5bWxBcmI5LUY3ZEdHSG5QQVE?oc=5",
-   "title": "Several Fed officials signal support for higher rates - Transport Topics",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNVXYwTGxaSTdxcWhoMlVGRkZRcV9OWTNTWFQ0SmVwSXZLQkVhZWE1Uk16M2FQQlpsWC0tZXJXV1pGY0lONWVIVUx1ekcxcGdtdHlyT0JNVHl5bWxBcmI5LUY3ZEdHSG5QQVE?oc=5",
-   "desc": "Several Fed officials signal support for higher rates  Transport Topics",
+   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbElsRFRLSUFTZTNOX2VrbjFYcGJuOXNoTlJyMmd3dl9uRFpzeTNhY2dYRk85UTZyY0lQMk9iYzVkTmVRLVVXZk1EQTNfLWQ2R19sU2cyeWZ0WmwtdmJYNWdGS3VrQWE3TjU4bUFKa2RKM1ZQN3I",
+   "title": "Fed Minutes Reveal Broader Support for Rate Increases - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbElsRFRLSUFTZTNOX2VrbjFYcGJuOXNoTlJyMmd3dl9uRFpzeTNhY2dYRk85UTZyY0lQMk9iYzVkTmVRLVVXZk1EQTNfLWQ2R19sU2cyeWZ0WmwtdmJYNWdGS3VrQWE3TjU4bUFKa2RKM1ZQN3I5Ml9pVkxiQzA4ellNbmp1MDd6RTYtMW1KWEtmQWROT3JITWo3VDFQeTlN?oc=5",
+   "desc": "Fed Minutes Reveal Broader Support for Rate Increases  WSJ",
    "source": "US Fed",
-   "publisher": "Transport Topics",
+   "publisher": "WSJ",
    "scope": "world",
-   "ts": 1787169249000
+   "ts": 1787169071000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUFjdmxUb2VzOFR4b1NuZnB4aXdGWUVJSUhUaXhzR0RhWVVtdVp3NzRHRkhFc090ZVlBT3ZHSTVtSWxZNEFxWkNiaUZpd00yZW81SlQ2MzM3X2d5ZzRULVZtdG5rRkk1LU9jMVBSbURuQnRwTW5",
@@ -780,16 +790,6 @@
    "publisher": "U.S. News & World Report",
    "scope": "world",
    "ts": 1787166420000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbElsRFRLSUFTZTNOX2VrbjFYcGJuOXNoTlJyMmd3dl9uRFpzeTNhY2dYRk85UTZyY0lQMk9iYzVkTmVRLVVXZk1EQTNfLWQ2R19sU2cyeWZ0WmwtdmJYNWdGS3VrQWE3TjU4bUFKa2RKM1ZQN3I",
-   "title": "Fed Minutes Reveal Broader Support for Rate Increases - WSJ",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbElsRFRLSUFTZTNOX2VrbjFYcGJuOXNoTlJyMmd3dl9uRFpzeTNhY2dYRk85UTZyY0lQMk9iYzVkTmVRLVVXZk1EQTNfLWQ2R19sU2cyeWZ0WmwtdmJYNWdGS3VrQWE3TjU4bUFKa2RKM1ZQN3I5Ml9pVkxiQzA4ellNbmp1MDd6RTYtMW1KWEtmQWROT3JITWo3VDFQeTlN?oc=5",
-   "desc": "Fed Minutes Reveal Broader Support for Rate Increases  WSJ",
-   "source": "US Fed",
-   "publisher": "WSJ",
-   "scope": "world",
-   "ts": 1787166240000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc1pOWFhZYUYyUk9LYlN5UDZwZ05vVHFIVGl2NFlWTjhHOVpJS3ZUWVBxeV9CUkxobjVOa1VxN3RtSWJJbXl5U1pGLU9XUGhOTGwyUzlreVhIR1g1Q2V5N25QdFFlV2JUb1VENkZFc1FnRVRNVWg",
