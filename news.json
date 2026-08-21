@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T17:36:15.702369+00:00",
+ "updated": "2026-08-21T18:02:21.582259+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQWUyQ3JhRmlVLW00T3I0VXNJc1VUdFJiekRHSHd4VjNVbUNYVHJnVzM4NWpQeXJjalcyQlRQMXdiYTNnV3VTSmRKcnlJWXl0LXRKcUtYcXZ3eTdTMDEtaHZXbUh2bHNWeEp4Z2FIbXQ0cldDVjl",
@@ -20,6 +20,16 @@
    "publisher": "Taipei Times",
    "scope": "world",
    "ts": 1787328000000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5INC1xWGNWV2N0Q1lndzA4RjVHLXpabG95blZGRWZLY1hlZnlxbzRGZTY5Mm5FZHVpMUVjTkcwTVFtQ2dkamNqMnhrcHM?oc=5",
+   "title": "Video Federal Reserve holds interest rates steady as economy weathers resurgent inflation - ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5INC1xWGNWV2N0Q1lndzA4RjVHLXpabG95blZGRWZLY1hlZnlxbzRGZTY5Mm5FZHVpMUVjTkcwTVFtQ2dkamNqMnhrcHM?oc=5",
+   "desc": "Video Federal Reserve holds interest rates steady as economy weathers resurgent inflation  ABC News - Breaking News, Latest News and Videos",
+   "source": "US Fed",
+   "publisher": "ABC News - Breaking News, Latest News and Videos",
+   "scope": "world",
+   "ts": 1787325281000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY0JKWHl3NllVMUl6LUgwT1BJdmhORVNZaVhDTXhPVTFVMlBWbWRvYXNpSnA1ZlpNVjJMOFAtSklPTmRWQ3pKYWhYWVJvbmltenZaczJGZmU3OWtTYWtqMDA1UGRwUllaQi1PbW95M1AwMW9mUkJ",
@@ -180,16 +190,6 @@
    "publisher": "Telegraph India",
    "scope": "india",
    "ts": 1787271284000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzV4TmJyWmZ0V182bFdVMTdDeTMtSlVMd3lHNzRHbnpBYnpSR3JiTWxNVnVONDFhQzNqTl9JcS11dWRrTV92TTVDLUJUYjBzVGZjRkd1cTcxOW5Ubk1id21SSWlKTlRoTGtCbVlZeHh1OTNrcTR",
-   "title": "Treasury Turns to Interventionist Tactics to Lower Interest Rates - The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzV4TmJyWmZ0V182bFdVMTdDeTMtSlVMd3lHNzRHbnpBYnpSR3JiTWxNVnVONDFhQzNqTl9JcS11dWRrTV92TTVDLUJUYjBzVGZjRkd1cTcxOW5Ubk1id21SSWlKTlRoTGtCbVlZeHh1OTNrcTR1UmZPcklyeWp6Z20tWlFycmJQNkdKU21uZEVoeS1UaHNXNA?oc=5",
-   "desc": "Treasury Turns to Interventionist Tactics to Lower Interest Rates  The New York Times",
-   "source": "US Fed",
-   "publisher": "The New York Times",
-   "scope": "world",
-   "ts": 1787270443000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNExUX05vcVRoMGFiSkhtemgyTmhlSVpPd25ldTV2d0NXQWpvTzJLdTJSOUFnTjBPN2JKVU1oWXA2STYzNHBlVVdoa1V3a25ka1NVbkdSQXo5N2VhQU1DSFIwbjEtM0ZIN1ZPd2tNMDJPR1NTcWp",
@@ -380,6 +380,16 @@
    "publisher": "Rediff MoneyWiz",
    "scope": "india",
    "ts": 1787235183000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzV4TmJyWmZ0V182bFdVMTdDeTMtSlVMd3lHNzRHbnpBYnpSR3JiTWxNVnVONDFhQzNqTl9JcS11dWRrTV92TTVDLUJUYjBzVGZjRkd1cTcxOW5Ubk1id21SSWlKTlRoTGtCbVlZeHh1OTNrcTR",
+   "title": "Treasury Turns to Interventionist Tactics to Lower Interest Rates - The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzV4TmJyWmZ0V182bFdVMTdDeTMtSlVMd3lHNzRHbnpBYnpSR3JiTWxNVnVONDFhQzNqTl9JcS11dWRrTV92TTVDLUJUYjBzVGZjRkd1cTcxOW5Ubk1id21SSWlKTlRoTGtCbVlZeHh1OTNrcTR1UmZPcklyeWp6Z20tWlFycmJQNkdKU21uZEVoeS1UaHNXNA?oc=5",
+   "desc": "Treasury Turns to Interventionist Tactics to Lower Interest Rates  The New York Times",
+   "source": "US Fed",
+   "publisher": "The New York Times",
+   "scope": "world",
+   "ts": 1787235000000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY0JNOEJiWjBZdzVMOEMzYWlxVUxZd1FYYkcybkp6MEp2WnlvQTVySGM4RFBxSExGV0xrTjRYUkpqMXQydl9Selk3U0trT2hWMGN6Tmh0SGhtWHNuNHBUbUM0VXJuM3JVelVCTTIweHlQYjZIMXk",
@@ -842,6 +852,16 @@
    "ts": 1787164913000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcENKUFV0YnZENWxIcVFhUHdFTzZYc1hxQlQwWktnMUl1LXhpc0dYMGFzM1RBRjFUVXFzZVVUVUVuVlF1T3JfNkRHOEUtREJldXhXeVF2WFQzbllkbkdJNzRGbHFjbXpDSWFpbkZxLUZrcS1jNmE",
+   "title": "Federal Reserve officials express rising concern over persistently high US inflation - Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcENKUFV0YnZENWxIcVFhUHdFTzZYc1hxQlQwWktnMUl1LXhpc0dYMGFzM1RBRjFUVXFzZVVUVUVuVlF1T3JfNkRHOEUtREJldXhXeVF2WFQzbllkbkdJNzRGbHFjbXpDSWFpbkZxLUZrcS1jNmEtNXJBa0dQY2VLdzRvTzA?oc=5",
+   "desc": "Federal Reserve officials express rising concern over persistently high US inflation  Financial Times",
+   "source": "US Fed",
+   "publisher": "Financial Times",
+   "scope": "world",
+   "ts": 1787164312000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTm96dEFucnAxQkNTQmowckpUNXNtNmFfU1BEakd3ZE85Wm1mR1BWZUhJZzFBTFNfYkFtbzdFMW16dWxSbEYwMHNvWnJ0dE1VODNZeGtWVDl5ZlFEcFVLUjVNd0dDb3QtLVhMc083WlJpYTVqOVk",
    "title": "Fed Likely Hiking Interest Rates Unless Inflation Comes Down, Minutes Show - Forbes",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTm96dEFucnAxQkNTQmowckpUNXNtNmFfU1BEakd3ZE85Wm1mR1BWZUhJZzFBTFNfYkFtbzdFMW16dWxSbEYwMHNvWnJ0dE1VODNZeGtWVDl5ZlFEcFVLUjVNd0dDb3QtLVhMc083WlJpYTVqOVk0MGhCdHpCUlZxaGI4WE11OWF2dDNsUGxsNEVPd2NRbG9ZRjhUTzVXencxNjJ0SndTZmdoQm1MbGpOZHNVc19rc3c?oc=5",
@@ -1180,26 +1200,6 @@
    "publisher": "The Assam Tribune",
    "scope": "india",
    "ts": 1787130399000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX1NqREVMTXgtV3BVZDNaU19sb3RqeTcxWG5YbFZ5dkh2cUctc0ZYdVNEMEs2SUdhMkw0eW03ajczSXZLTWpFMzlYdS1qZ2loaUh0YkxyY3Etd2x2b0RzZDlIM2doMW56UUhYSWxNSy1ZRjluNlR",
-   "title": "SEBI to soon issue AI, machine learning guidelines for capital markets: SEBI Chairman - Mid-Day",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX1NqREVMTXgtV3BVZDNaU19sb3RqeTcxWG5YbFZ5dkh2cUctc0ZYdVNEMEs2SUdhMkw0eW03ajczSXZLTWpFMzlYdS1qZ2loaUh0YkxyY3Etd2x2b0RzZDlIM2doMW56UUhYSWxNSy1ZRjluNlRSM1Qta2RKWHZIekNCNFJFa3kwWXVwbjBnZkMtekFaSEZXNER3Tk1RLWZDakhYM0x4YndvYWhPTUpPSkxJQllQUDdORnFzZDBxczBGOEN3YllBa1pHVGpGQm1uZGQxVEJzbTZuOUxDT3k4OdIB5gFBVV95cUxQTGFuSEtPRExwWnJRTEk5cFNjY0J1UTVLOGpiUEg3LTBGdWktUXdBVUJvSHFrbHdncUV3Tk41Z1F4OGRfWnA2dVBzeDkyTkFSMEh5R050dTJIcDNIYy1wVnJDa2FhX2hQQmw2NV92SXFhOWFTQ0R5NE5fRWN5dEtCQVR1eGxyYUtqN3JodjNOY0dKY2FDTzMtdm9GOHFvREkzUWVEaEhhVHN6VHFMZnJQbGd3Vi1QZzhrODZZUW1Rem5JcWh0MFhQNEEyUEdDcWV3dTdYbFJzSW5CM0R4V2JfOXZnU2VCZw?oc=5",
-   "desc": "SEBI to soon issue AI, machine learning guidelines for capital markets: SEBI Chairman  Mid-Day",
-   "source": "SEBI",
-   "publisher": "Mid-Day",
-   "scope": "india",
-   "ts": 1787130060000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPR2J3ejIxa08ydHRRMmlya2xJYmQ2M2Z3RjU4a3RFTGZRZ2gxbGNPc1g4R3J3TEZkby05alRqS0RIZ21uQ1ZOdG1fczZjMFNReVpTRmdHQ1l2MG1wUGN2Y0N1b2JEaXFnVGtFeXhuQzI1LWhQUVF",
-   "title": "User claims ₹1,200 credit-card charge after 46-paise shortfall; bank responds, here’s what RBI rules say - livemint.com",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPR2J3ejIxa08ydHRRMmlya2xJYmQ2M2Z3RjU4a3RFTGZRZ2gxbGNPc1g4R3J3TEZkby05alRqS0RIZ21uQ1ZOdG1fczZjMFNReVpTRmdHQ1l2MG1wUGN2Y0N1b2JEaXFnVGtFeXhuQzI1LWhQUVFPWXZTMGdNd2lHaWNqU0xDb0I2RmFTUWFTOVRsQ3RieFJGRFE2UkR5MUtmZ1JvVnhVdU53WWFHaHk0NUZnOUZoMmw1bWhOSzFNMW1LV2xmamVvRnQtTU44NjFkV3RoRFduQXF5Z1Z1VmpvX0QxWFhEYWVQdmh3eE5qeVF4cExjYlBkT2pLbUc0UdIBgwJBVV95cUxPTjRYVTFWck1jaUR6T1JZamFrTjhZcFlsdXpQcERBTjd1N3YxSXEyT2tBOENPU1o2VmFnYzlhSnI2QzU1VWhVWVliSEpxakZpQWpoV2g4MC1uS0xVOXBTNVp2WDB2bmwySFZSbVV3Xzg1SGYwQm10SEhvbHVYbU9rLTVJWW4zZG9YNTRpYUhtMVN5ZERlYXhZekR4bGN3bXptdGVsX3RpS193MkZpUkhRWGhLamtwZUFVbVduVllQX1pJSGQ0M3A4TjM2cWppbUotT3ZPZmhVNnphMndreXlhZ0o1NjBWcVAyMkdSUzhyVlNXSTVUc2k1NzVJdk11eUx4Zjh3?oc=5",
-   "desc": "User claims ₹1,200 credit-card charge after 46-paise shortfall; bank responds, here’s what RBI rules say  livemint.com",
-   "source": "RBI",
-   "publisher": "livemint.com",
-   "scope": "india",
-   "ts": 1787128660000
   }
  ]
 }
