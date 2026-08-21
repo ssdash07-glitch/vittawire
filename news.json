@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T22:34:14.431230+00:00",
+ "updated": "2026-08-21T22:58:56.377317+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREJFZVl5eWdqekp3WHc5TmFKZEZFb3dad3dZN1I5dXNIbjhza3hVeUFLOWRTNng2ZVBnTkt3RHYxOFp2ckFuWjFCaGdwQTZnVDh3OVVxS1ZhNzBQX1ZFOVhpSVJMMDdtamZ0VnNTa3V2aXY2Vno",
@@ -30,6 +30,16 @@
    "publisher": "ABC News - Breaking News, Latest News and Videos",
    "scope": "world",
    "ts": 1787339861000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWt0a0pjUS1keW9xb0RENkFWYzhta2JreFNRUldrS1ZkRFRVRVNxSUZJUU1vaklGMHFnYktJenhrQmZRQzlpM1JUUkFPRldwOEpMV0pXdkJzeUVabU1kX29JRFRNNVFMMDlhZHNkRnlHenNvMnI",
+   "title": "3 Healthcare Funds to Play Safe as Fed Readies for Rate Hike - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWt0a0pjUS1keW9xb0RENkFWYzhta2JreFNRUldrS1ZkRFRVRVNxSUZJUU1vaklGMHFnYktJenhrQmZRQzlpM1JUUkFPRldwOEpMV0pXdkJzeUVabU1kX29JRFRNNVFMMDlhZHNkRnlHenNvMnIxMEZDWG80VERTU3hhY0lEUTNxUDlMaFJNRlJNLXNfbVBUdDA4TXN0Rzl6TmJpczdDUmZyY1ZGeEhnNG91NGY3bFU?oc=5",
+   "desc": "3 Healthcare Funds to Play Safe as Fed Readies for Rate Hike  TradingView",
+   "source": "US Fed",
+   "publisher": "TradingView",
+   "scope": "world",
+   "ts": 1787329680000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iOG4yNU54NVI3QThUbE1DMlcwLUtDVmhtYkRnR2FCcTY0NUpvWlRVUHo1U3ZDal81bmpvdzMwSXEzZk9oSmFWLUVOSWhfcFJMUGJ2M2ZvdHd4Rll3R0RDaGJJTXlsaHI3anR2MnViTGVPTEZhZmc",
@@ -70,16 +80,6 @@
    "publisher": "News On AIR",
    "scope": "india",
    "ts": 1787322075000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY2xoZG1VZVowM0pxTnBEcDBBVzQyNld1dnJtN0cwZjZQZ1hmY3h0VXk0TGdGaWd1QjlWNmlaT1ZHYkdDa0xPOHlNaG5KM011cFdkSGgwZGdNbkdwempiai1lVi0zVkhCdkFaVzRnUnFQaGl3ZkF",
-   "title": "India bonds log worst week in FY27 on RBI surprise U-turns - bfsi.economictimes.indiatimes.com",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY2xoZG1VZVowM0pxTnBEcDBBVzQyNld1dnJtN0cwZjZQZ1hmY3h0VXk0TGdGaWd1QjlWNmlaT1ZHYkdDa0xPOHlNaG5KM011cFdkSGgwZGdNbkdwempiai1lVi0zVkhCdkFaVzRnUnFQaGl3ZkFvaVJEYjdCMFZHVjd2c21WMUg1QWd1Z1pkZzNVeXA1aE0ycjhGSlZVMXpHQVlPNE5lRDlieHJpV3R3OWNDNHVvOTBTT1JmUmlOdEZ3RW9BLWpOenI1cURoTGfSAdQBQVVfeXFMUDFrMVFxVjJZMW5nZ1BSenh3dV9vZlVVZzlydUFueXpTM1BiSS1oVk9OU2NIQjVUMnVmWjBTZ2RFR3B5VnI4SFYtZWh1NzdvWDNXQTBpWFhGTnVmakkyX1cyZXQxUEhnQ0dTV0ppejlVSFItUEo0dGtKSkpBOTF2NjZzaWJDMGViWU84Y2lXYUhwX3VIUkowT0hkY2tWaE4yNHl3cXNRaTlaVTV1WHJLbnJCZXpHaWczbTBuUlpjZi1wWF9PekRrcXNON1VXYjNZeVl6dXY?oc=5",
-   "desc": "India bonds log worst week in FY27 on RBI surprise U-turns  bfsi.economictimes.indiatimes.com",
-   "source": "RBI",
-   "publisher": "bfsi.economictimes.indiatimes.com",
-   "scope": "india",
-   "ts": 1787319072000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90TW1SZ0luaDNUNF9FRklEeVFHX2dlMHJRMTNVaWRPTmFDbE5KaHYwMUU3aGZHbHdYY0pLclV5OWxmUXAyYzVmX1FJYmFUcWZNWWRqcTVHaUdZcEVs?oc=5",
@@ -330,16 +330,6 @@
    "publisher": "mpamag.com",
    "scope": "world",
    "ts": 1787248559000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdEZQRm01bWxlaWV3VllvMFY2akZPM0tkeXR3MmFHNzRFbFJ2WVpWWU5sRjdoVzlXQno2NEk3VWpiM0ctSTlzejlIVGQ5azg5cE5tWHlzTXZ2WGNJTy01eF9yOGU2LVZ6YmFLMjRzTXNNZ05CU3h",
-   "title": "Bessent’s Treasury Twist Clouds Warsh’s Plea to ‘Play the Ball’ - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdEZQRm01bWxlaWV3VllvMFY2akZPM0tkeXR3MmFHNzRFbFJ2WVpWWU5sRjdoVzlXQno2NEk3VWpiM0ctSTlzejlIVGQ5azg5cE5tWHlzTXZ2WGNJTy01eF9yOGU2LVZ6YmFLMjRzTXNNZ05CU3hpSVVPT01xbzNOV2MzOHJuTExPOWpNX2NBQVZCLVc0MXFKVnZmWGs0MXA2aDRtWGJtUVJZTzBrVmtnUUJ3?oc=5",
-   "desc": "Bessent’s Treasury Twist Clouds Warsh’s Plea to ‘Play the Ball’  Bloomberg.com",
-   "source": "US Fed",
-   "publisher": "Bloomberg.com",
-   "scope": "world",
-   "ts": 1787246823000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWhlLUo5SzJWeS05N0hTbkcyWDZPanNENUpYMGdGQjlubmg1emk2dVpoV3ZEYUVweU9EMGNlUWY4Ym5CbTVvSV9rcWl4c3pWRHhBVzBUa19RZFVTbEN2WXJMSFBObktFZjlTX1ltVk1oNm5Fa3h",
@@ -672,16 +662,6 @@
    "ts": 1787203761000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb1BUeDdhdGNMaXBUZHJsZmlLTGNhV2pidlNaVWhMRG5aSnUtaGxBdmJ5dWpySmROdmJjVXJycWdBTmVJeGZPeEVUNDY1ZWtOa3hKVjNOeEtod1pHWnBiYnh2bmRacXQzQVNYX1VwYW1oeUZCUnM",
-   "title": "RBI's surprisingly hawkish tone in policy minutes weighs on Indian bonds - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb1BUeDdhdGNMaXBUZHJsZmlLTGNhV2pidlNaVWhMRG5aSnUtaGxBdmJ5dWpySmROdmJjVXJycWdBTmVJeGZPeEVUNDY1ZWtOa3hKVjNOeEtod1pHWnBiYnh2bmRacXQzQVNYX1VwYW1oeUZCUnM4UVRuS0hCNFltdnFreXpNVThDekZ6MnllUUYzblYxb2V2N3dPOFN4cFVYblplUEotUFdFdS1qVFhMV0xmdU9DU3NZZVpYUUg1Q1N6cnVwY1JzamwxaHBmLTVJVm40bUxkWF80QQ?oc=5",
-   "desc": "RBI's surprisingly hawkish tone in policy minutes weighs on Indian bonds  TradingView",
-   "source": "RBI",
-   "publisher": "TradingView",
-   "scope": "india",
-   "ts": 1787201940000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOQ1FNckJkZV95SGRZWUU1eG9iSy1paGJkbDRJT0liZVhwUUVvQ3VkdEdLeVNQamVKdkt6OVBaNnVzY2J0TENzWjIwVndpb25JclRqakFCTndUaFR6QVhBM1UzX041emRQc2REelpla3E?oc=5",
    "title": "Federal Reserve policymakers are becoming more hawkish - Financial Times",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOQ1FNckJkZV95SGRZWUU1eG9iSy1paGJkbDRJT0liZVhwUUVvQ3VkdEdLeVNQamVKdkt6OVBaNnVzY2J0TENzWjIwVndpb25JclRqakFCTndUaFR6QVhBM1UzX041emRQc2REelpla3E?oc=5",
@@ -852,16 +832,6 @@
    "ts": 1787168189000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPenZvUUNSSTA5SkRUODJzV3NYa3NObWhqc2RQVi05Z2dvUERGTGN2cEVVbVFKeFNFS0VsellpNWhEZ0d1dmtINEFRVFlwRHZUT0I4Vl9aNW1lQVZDSzgzLVZPUXVsaldFa1cxM29jUlBnNlpIYmR",
-   "title": "Latest Federal Reserve minutes show more support for rate hikes as inflation fears mount - New York Post",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPenZvUUNSSTA5SkRUODJzV3NYa3NObWhqc2RQVi05Z2dvUERGTGN2cEVVbVFKeFNFS0VsellpNWhEZ0d1dmtINEFRVFlwRHZUT0I4Vl9aNW1lQVZDSzgzLVZPUXVsaldFa1cxM29jUlBnNlpIYmRKaWJGdmh6b0l5WUdUVl91NUpyRlBja0pmRXZWMy1LTTNxNXQ4MHh4UDltNDlQQTlyYVUxTGM3a3plbTlWakxZblp3eGJJYkM0WUpkVVRWN3NV?oc=5",
-   "desc": "Latest Federal Reserve minutes show more support for rate hikes as inflation fears mount  New York Post",
-   "source": "US Fed",
-   "publisher": "New York Post",
-   "scope": "world",
-   "ts": 1787167620000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVo5OU5OQlk3bHpRcUlzMVNsNDEtLTQ1a05Zb1NoUldHZUtvcWMybE9WT1lQZkJFYXlBSXFwNEg0cGY1SE0zMUR2N1NrQzBpMi04Y0ppeTlTbEtNdWhETFRYN3NZdmlzQ3ZKOERrZ3NYVTBLem5",
    "title": "Fed Talked Rate Hike if Inflation Fails to Cool Further - U.S. News & World Report",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVo5OU5OQlk3bHpRcUlzMVNsNDEtLTQ1a05Zb1NoUldHZUtvcWMybE9WT1lQZkJFYXlBSXFwNEg0cGY1SE0zMUR2N1NrQzBpMi04Y0ppeTlTbEtNdWhETFRYN3NZdmlzQ3ZKOERrZ3NYVTBLem51bEVSRG44ZU40TUZHWGNWVmpTYkxMa1ZvNE1oM3FDYkhRTWtpY2lBcklidV9EVk9JXzQ3eE0zNndtZ1REV2VLNHZ3?oc=5",
@@ -910,16 +880,6 @@
    "publisher": "Realtor.com",
    "scope": "world",
    "ts": 1787164913000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVEw1S2JfLTVyZ29zUEFCNVRRYVZPbDdtR0dfM3M5N21FYjREZnF4UVYtaUw3ZHJ4SDh4Nlk0VVA2bEdTS2gtMUpTT1ZlMU5wOVRzTTlYX1NiN1V4UWt1MjdaSkNvR3JOdm15X2F3TXhXLUtTc2x",
-   "title": "Several Fed officials wanted to raise rates last month. If inflation doesn't come down, more of them see hikes. - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVEw1S2JfLTVyZ29zUEFCNVRRYVZPbDdtR0dfM3M5N21FYjREZnF4UVYtaUw3ZHJ4SDh4Nlk0VVA2bEdTS2gtMUpTT1ZlMU5wOVRzTTlYX1NiN1V4UWt1MjdaSkNvR3JOdm15X2F3TXhXLUtTc2xtMkc5YXV4Wkp0V3RqRVE0cGlkVHpITUdGRjExY0FiRjRJcWxhLXdtUDJFSWRsdDV5TlVYZUduUGl4NnVERXA2eGJFMG44R0FXd0RBcmoza2pKaG03dS1BLTJfcVU2MjVpX25idEtqbF92clp1b0xPTExVZHpPZWFHSXZfTTZhOVRQN2lEdFg5VEJr?oc=5",
-   "desc": "Several Fed officials wanted to raise rates last month. If inflation doesn't come down, more of them see hikes.  Yahoo Finance",
-   "source": "US Fed",
-   "publisher": "Yahoo Finance",
-   "scope": "world",
-   "ts": 1787164872000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTm96dEFucnAxQkNTQmowckpUNXNtNmFfU1BEakd3ZE85Wm1mR1BWZUhJZzFBTFNfYkFtbzdFMW16dWxSbEYwMHNvWnJ0dE1VODNZeGtWVDl5ZlFEcFVLUjVNd0dDb3QtLVhMc083WlJpYTVqOVk",
@@ -1010,16 +970,6 @@
    "publisher": "The Tribune",
    "scope": "india",
    "ts": 1787156038000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVduUlFMMWUwTEl0LXVQSllpS1ZvdDM3cE1wdXI1cnBFQjFqWU1nUWZ4UFNRSUp5dC12Nkh6cHdoQWZORFA1V1hVM2IxcnZTeUtWZUFtcWlEdllSYmVNZ2ZnN042TUFIbEFVMWhiRnZlTVFmVlJ",
-   "title": "The Fed Held Rates Flat for 231 Days, Your Mortgage Rates Went Up Anyway - 24/7 Wall St.",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVduUlFMMWUwTEl0LXVQSllpS1ZvdDM3cE1wdXI1cnBFQjFqWU1nUWZ4UFNRSUp5dC12Nkh6cHdoQWZORFA1V1hVM2IxcnZTeUtWZUFtcWlEdllSYmVNZ2ZnN042TUFIbEFVMWhiRnZlTVFmVlJnWTNPcWxNS2FaRzFQeGtCd2haNTg1ODJ2ek8xNzJNNEF2WnJuRjhWd0w3SE5MUFBxdDQ3bGUzckNORGFXUG5ZZw?oc=5",
-   "desc": "The Fed Held Rates Flat for 231 Days, Your Mortgage Rates Went Up Anyway  24/7 Wall St.",
-   "source": "US Fed",
-   "publisher": "24/7 Wall St.",
-   "scope": "world",
-   "ts": 1787154381000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZExYZ20xalFvLU82V2R3dWtubkpXeGFSX1FmUFpHaDR1c3NBbjJNZGU2VkJ1MWMtYlZiaEx5cE05cUcxN0FvX18xXzRkY3IwRXUyc3JGSTVyZUxkcXRJZFlZTGl0czFDRkQzcllsTExib1B1blB",
@@ -1200,6 +1150,56 @@
    "publisher": "marketplace.org",
    "scope": "world",
    "ts": 1787141520000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13bmVpYnhFb1BRVk1xZWVfd3JoaGU1UFMzVDY0UVFycUIxRDk1U0Iza1U1clV5bjRiVnlyN1I5c2d6V0N0TjRweVJ1VVp0dUxnTmYzOGFvS2g0NW90Qm1CU1VtZ2U?oc=5",
+   "title": "RBI Governor Prefers To Wait For More Inflation Clarity Before Adjusting Policy Rate - Binance",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13bmVpYnhFb1BRVk1xZWVfd3JoaGU1UFMzVDY0UVFycUIxRDk1U0Iza1U1clV5bjRiVnlyN1I5c2d6V0N0TjRweVJ1VVp0dUxnTmYzOGFvS2g0NW90Qm1CU1VtZ2U?oc=5",
+   "desc": "RBI Governor Prefers To Wait For More Inflation Clarity Before Adjusting Policy Rate  Binance",
+   "source": "RBI",
+   "publisher": "Binance",
+   "scope": "india",
+   "ts": 1787140152000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZEY0dXE2dnJQVzJOTGlzbUhWQTRnSjgxSDMxcnJPUzNadEplZndLdmFrLWl3S05TNkJRVUZMaGJxUERZRXBmanM0ZUlTZUthSDZUZlJxcDBHN21uTTB1Yk5nZjF1bGctREhVeFhRSzVhQUZzRS1",
+   "title": "Mint Explainer | Why Sebi wants to revamp its settlement framework - livemint.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZEY0dXE2dnJQVzJOTGlzbUhWQTRnSjgxSDMxcnJPUzNadEplZndLdmFrLWl3S05TNkJRVUZMaGJxUERZRXBmanM0ZUlTZUthSDZUZlJxcDBHN21uTTB1Yk5nZjF1bGctREhVeFhRSzVhQUZzRS1ZR19YMlZDY0xHRzczM3ZPRTFjd0FXSnpaV0J3dTdnemxHZmhvWXJqX0h5eEI5Z3RxN3VWUk5kcXBjZlRDb0F4a1luX3J1Y3BaZVpRXzlkMVlJ0gHMAUFVX3lxTE9OdlU5ZkgyTFJuRm9iN252T0NhN1Jud2VQM1FuTlIzWVFfWGVBenV3alN5WENLbGVOaC10RkVZTzhONVJoRUJ5TGNLdmxlVzF0N0h3dXh2TEVWQkY0OTdIQk9wYWtTU1haeFQyZGFhVzBRanZ0OVBLbnpDOXVHRWxRWE9WUlEyeDAzckNsME1NVXVvWF9iZ3BjR2gtbXBZcEdrWDVHVnJrYjJZNTJXUFlUUXNjZDBOd0x4a3JXSFh6Tzh0WDZNT2hsSDNmMQ?oc=5",
+   "desc": "Mint Explainer | Why Sebi wants to revamp its settlement framework  livemint.com",
+   "source": "SEBI",
+   "publisher": "livemint.com",
+   "scope": "india",
+   "ts": 1787139348000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWp4UDFmcUp3WmY1aG9rOE5ScGxHSFRGQ3VHaG1NLXpnQ1dnRnNicnl4cFoteFAzZklHTHVLbWVKSW81Qno0X1pYQm54X3hOSHdsQmJJbTBYbUtqd0NSalVtZ2dKQjlaVGlodkJjbHhCeFhxUGw",
+   "title": "Sebi warns traders against manipulating closing auction - PRESS Insider",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWp4UDFmcUp3WmY1aG9rOE5ScGxHSFRGQ3VHaG1NLXpnQ1dnRnNicnl4cFoteFAzZklHTHVLbWVKSW81Qno0X1pYQm54X3hOSHdsQmJJbTBYbUtqd0NSalVtZ2dKQjlaVGlodkJjbHhCeFhxUGw4VzctSU5RaURSNFBsd1hCMlNuVlhxTFVITEJGZw?oc=5",
+   "desc": "Sebi warns traders against manipulating closing auction  PRESS Insider",
+   "source": "SEBI",
+   "publisher": "PRESS Insider",
+   "scope": "india",
+   "ts": 1787137321000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45V1JheVN6eHBRVFBFNHNWdVBxdDBaSDZrVm0wOHJnWUFhM3hRWERQY0c5TWlqY0ZlQnNjbXVEbmY4QWYzMktwOUo5anZFQnI2OVJkeTVRTzVxQQ?oc=5",
+   "title": "What's happening to UK interest rates and what does it mean for mortgages? - BBC",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45V1JheVN6eHBRVFBFNHNWdVBxdDBaSDZrVm0wOHJnWUFhM3hRWERQY0c5TWlqY0ZlQnNjbXVEbmY4QWYzMktwOUo5anZFQnI2OVJkeTVRTzVxQQ?oc=5",
+   "desc": "What's happening to UK interest rates and what does it mean for mortgages?  BBC",
+   "source": "ECB / Europe",
+   "publisher": "BBC",
+   "scope": "world",
+   "ts": 1787133504000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdGpMLVFockhFeHRJeXpEc0pDRDNaZXdtdEdwSzM1U2RTcVliSTZ5UUgwdUd4a294RmUxUk8zS2g3QUpmMXp3WDlwR1otbGFpeGxCUG53bEt2SGxCUDVBdlZVMzhxNkZsdWVrSzRWYUdKa0c4cXN",
+   "title": "AI in Markets: SEBI to Mandate Human Oversight, Kill Switches and Data Controls, Says Pandey - Moneylife",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdGpMLVFockhFeHRJeXpEc0pDRDNaZXdtdEdwSzM1U2RTcVliSTZ5UUgwdUd4a294RmUxUk8zS2g3QUpmMXp3WDlwR1otbGFpeGxCUG53bEt2SGxCUDVBdlZVMzhxNkZsdWVrSzRWYUdKa0c4cXNITzBDWF9QNE9SUDhNZDZzT1VOTzVMT0luVlV5RjZybW9VMHdCOENLeXk0NDhOQkNyNkN1UVNTbkdhQl9tckRhMkdTWk5GSFpSX1YwN2VfLW82emhhaHZOdw?oc=5",
+   "desc": "AI in Markets: SEBI to Mandate Human Oversight, Kill Switches and Data Controls, Says Pandey  Moneylife",
+   "source": "SEBI",
+   "publisher": "Moneylife",
+   "scope": "india",
+   "ts": 1787132971000
   }
  ]
 }
