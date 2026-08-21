@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T15:38:32.638133+00:00",
+ "updated": "2026-08-21T16:04:24.031951+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY0JKWHl3NllVMUl6LUgwT1BJdmhORVNZaVhDTXhPVTFVMlBWbWRvYXNpSnA1ZlpNVjJMOFAtSklPTmRWQ3pKYWhYWVJvbmltenZaczJGZmU3OWtTYWtqMDA1UGRwUllaQi1PbW95M1AwMW9mUkJ",
@@ -822,6 +822,16 @@
    "ts": 1787164913000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcENKUFV0YnZENWxIcVFhUHdFTzZYc1hxQlQwWktnMUl1LXhpc0dYMGFzM1RBRjFUVXFzZVVUVUVuVlF1T3JfNkRHOEUtREJldXhXeVF2WFQzbllkbkdJNzRGbHFjbXpDSWFpbkZxLUZrcS1jNmE",
+   "title": "Federal Reserve officials express rising concern over persistently high US inflation - Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcENKUFV0YnZENWxIcVFhUHdFTzZYc1hxQlQwWktnMUl1LXhpc0dYMGFzM1RBRjFUVXFzZVVUVUVuVlF1T3JfNkRHOEUtREJldXhXeVF2WFQzbllkbkdJNzRGbHFjbXpDSWFpbkZxLUZrcS1jNmEtNXJBa0dQY2VLdzRvTzA?oc=5",
+   "desc": "Federal Reserve officials express rising concern over persistently high US inflation  Financial Times",
+   "source": "US Fed",
+   "publisher": "Financial Times",
+   "scope": "world",
+   "ts": 1787164312000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTm96dEFucnAxQkNTQmowckpUNXNtNmFfU1BEakd3ZE85Wm1mR1BWZUhJZzFBTFNfYkFtbzdFMW16dWxSbEYwMHNvWnJ0dE1VODNZeGtWVDl5ZlFEcFVLUjVNd0dDb3QtLVhMc083WlJpYTVqOVk",
    "title": "Fed Likely Hiking Interest Rates Unless Inflation Comes Down, Minutes Show - Forbes",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTm96dEFucnAxQkNTQmowckpUNXNtNmFfU1BEakd3ZE85Wm1mR1BWZUhJZzFBTFNfYkFtbzdFMW16dWxSbEYwMHNvWnJ0dE1VODNZeGtWVDl5ZlFEcFVLUjVNd0dDb3QtLVhMc083WlJpYTVqOVk0MGhCdHpCUlZxaGI4WE11OWF2dDNsUGxsNEVPd2NRbG9ZRjhUTzVXencxNjJ0SndTZmdoQm1MbGpOZHNVc19rc3c?oc=5",
@@ -1190,16 +1200,6 @@
    "publisher": "ETLegalWorld.com",
    "scope": "india",
    "ts": 1787128262000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1I5MXpXNlZROWFfbEhTUlp6Mktnb2JMWXJlSGNldno1RW1rT25ZbGR6T0w0b0EzX1NYVy1BczRKMFpFbUFBTWxVcEY2eHlyT2d4NlcxbFBCeXdJam1rcloxS3E2X1lCVnhMRm0tZDBEM0FpeHV",
-   "title": "Sebi Warns Against CAS Manipulation; System Here to Stay - Rediff MoneyWiz",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1I5MXpXNlZROWFfbEhTUlp6Mktnb2JMWXJlSGNldno1RW1rT25ZbGR6T0w0b0EzX1NYVy1BczRKMFpFbUFBTWxVcEY2eHlyT2d4NlcxbFBCeXdJam1rcloxS3E2X1lCVnhMRm0tZDBEM0FpeHVsaC1wN0p5UFp0S3RndjRhdXhtSzhSUlFfZER5NkZ3SS1GQmdLVTNEUF84VDNHamNnXzhlVmPSAbABQVVfeXFMTUZoa1lfelM1RkRqVWQ5VjgzbUlmc01BMVZfN054SXE2T0FweXdNOWRyZ2M1bWdvZGoyejlUUG1mWHpNVHd6Wks4SC1uTVNBNm9qMHkxY1pJbnlSVkRDR2NBSVNKRzlUUFplTjlCYXFiRnhfcXNxOE1IQ3l2ZVRjcTYwYlYxYi0wOW9jV1gxc09iWFh0YkdnNWpxZi1kSmZaejVBVks4ckQ5azk3SF81SGE?oc=5",
-   "desc": "Sebi Warns Against CAS Manipulation; System Here to Stay  Rediff MoneyWiz",
-   "source": "SEBI",
-   "publisher": "Rediff MoneyWiz",
-   "scope": "india",
-   "ts": 1787126615000
   }
  ]
 }
