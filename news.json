@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21T01:41:26.767567+00:00",
+ "updated": "2026-08-21T03:08:07.339616+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb1ktSm15NktMYUpvOWlNdEJKeXBTLUdFRngtOTg2ZG5hTkY3RHZJRnlLQzhqUkkwWkxRRXRZX0NjSlZDN2Qwcm9sYlRsNGk5MC1WLXJ6Z1RCdE0yM2Y4ZnBoaVNTS3FheGtYZWswODB0cDlScHo",
@@ -10,6 +10,16 @@
    "publisher": "The National Tribune",
    "scope": "world",
    "ts": 1787275162000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
+   "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+   "desc": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News  News On AIR",
+   "source": "RBI",
+   "publisher": "News On AIR",
+   "scope": "india",
+   "ts": 1787272916000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbWZ4WTVkeVh0RHcwY0p6V1UtV1d2TDREdVZCRXlDaGJHYktoRzdkeHM2OWtrTkhmUnM5TG03Zk1kRGV4RUVMeXBaZ0VuZXJBNldUTlVpcVFzVjNjQ2x2ZXFCTmZ4M1ZzdjVlRThRU2RKaHBqVDZ",
@@ -50,16 +60,6 @@
    "publisher": "Devdiscourse",
    "scope": "world",
    "ts": 1787268637000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
-   "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
-   "desc": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News  News On AIR",
-   "source": "RBI",
-   "publisher": "News On AIR",
-   "scope": "india",
-   "ts": 1787268564000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLW9YN1hLbmxmTEo2eDdfbWNzb2JQdFhleVpsVDBxWXVLWUQwS3ZhWGRCNjJLSVNQdlNDbHAzYUstdzU2QUFlSTlPM1ROVVpqUFhzcTltNTl1b1FoSy1tNkhfcGR3d2E5WkhQY256MWxTYW9VSjJ",
@@ -152,16 +152,6 @@
    "ts": 1787248559000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQWEt5Q3dhWUdERVp6Q3JZQ05KQk5qUTcwZi1WZVMteFVTX09YQVZrZ0FPN0pyRU9qZnpJbElqNEE4Vm05ZmcyZ3ZEdl9YcUpEb2prb1F1cVdLM1daTkMxNjNCV3ZXQlE?oc=5",
-   "title": "Fed officials warned rate hikes may be needed if inflation stays high - Axios",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQWEt5Q3dhWUdERVp6Q3JZQ05KQk5qUTcwZi1WZVMteFVTX09YQVZrZ0FPN0pyRU9qZnpJbElqNEE4Vm05ZmcyZ3ZEdl9YcUpEb2prb1F1cVdLM1daTkMxNjNCV3ZXQlE?oc=5",
-   "desc": "Fed officials warned rate hikes may be needed if inflation stays high  Axios",
-   "source": "US Fed",
-   "publisher": "Axios",
-   "scope": "world",
-   "ts": 1787247418000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWhlLUo5SzJWeS05N0hTbkcyWDZPanNENUpYMGdGQjlubmg1emk2dVpoV3ZEYUVweU9EMGNlUWY4Ym5CbTVvSV9rcWl4c3pWRHhBVzBUa19RZFVTbEN2WXJMSFBObktFZjlTX1ltVk1oNm5Fa3h",
    "title": "Explainer: Why India's market regulator barred a JPMorgan entity from the country's securities market - Reuters",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWhlLUo5SzJWeS05N0hTbkcyWDZPanNENUpYMGdGQjlubmg1emk2dVpoV3ZEYUVweU9EMGNlUWY4Ym5CbTVvSV9rcWl4c3pWRHhBVzBUa19RZFVTbEN2WXJMSFBObktFZjlTX1ltVk1oNm5Fa3hINThEcUdZcGxuMXEwVTcyZXdRdHRPWGs1eERxYVdvSHVraHdtNTFqM3h4UGFVb0RPQkRJWjQ3M3pXdmk3NkRWWXRRMXJ2c0dhVTBwLVNheGE3TUdB?oc=5",
@@ -170,6 +160,16 @@
    "publisher": "Reuters",
    "scope": "india",
    "ts": 1787244758000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZnV3R29lVzh3SnpKbzZOWEVDVzRidDgyeFNEd2RnV196Y2hmQXlGaW8wUnV6LXZHdGlOcldldEg3bFhxd0VQMnVFYlpWMy0wM05iSEZfazJhWjl5TEFOaU5vSmhLRlptREZBSmE0N2pMMUFqNGc",
+   "title": "Trump Renews Criticism of Federal Reserve, Argues U.S. Should Be Paying Much Less - Tech Earnings Analysis - Vinanet",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZnV3R29lVzh3SnpKbzZOWEVDVzRidDgyeFNEd2RnV196Y2hmQXlGaW8wUnV6LXZHdGlOcldldEg3bFhxd0VQMnVFYlpWMy0wM05iSEZfazJhWjl5TEFOaU5vSmhLRlptREZBSmE0N2pMMUFqNGctbVdZU2lGZDdQTkcta3JpOTRsdDlRb3lEM2R6RFlQSFYzUnBIU1A2UHBUM2wtWGVWd1UzVzlTM19GejJPRFRJLXBxLTBJVA?oc=5",
+   "desc": "Trump Renews Criticism of Federal Reserve, Argues U.S. Should Be Paying Much Less - Tech Earnings Analysis  Vinanet",
+   "source": "US Fed",
+   "publisher": "Vinanet",
+   "scope": "world",
+   "ts": 1787243643000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUVJ6bXhzRjhidmNacEdxUTU1dTZ1X0lCZ2VITXJsbEpnQlVMX3dBNE5VdHpTRVBvalNZLUZKZ1c3X19ySVQtQWdsOVM5TW5pdW9FejFLUC1rN1J4V1hCc0ExRnV5MndzOThHS2phSVJjM2VBSkU",
@@ -252,6 +252,16 @@
    "ts": 1787235183000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY0JNOEJiWjBZdzVMOEMzYWlxVUxZd1FYYkcybkp6MEp2WnlvQTVySGM4RFBxSExGV0xrTjRYUkpqMXQydl9Selk3U0trT2hWMGN6Tmh0SGhtWHNuNHBUbUM0VXJuM3JVelVCTTIweHlQYjZIMXk",
+   "title": "SEBI to launch pilot for bond tokenisation; eases FPI onboarding process - The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY0JNOEJiWjBZdzVMOEMzYWlxVUxZd1FYYkcybkp6MEp2WnlvQTVySGM4RFBxSExGV0xrTjRYUkpqMXQydl9Selk3U0trT2hWMGN6Tmh0SGhtWHNuNHBUbUM0VXJuM3JVelVCTTIweHlQYjZIMXkzbTJHTEdSUjhrd1NxRGtCUVpXQ290aGhSYnRfRHhLRE9DdzNjYmdiQ3VIcDhvM0Njd1M5Q2lHWmIxT0hBbF96cWItUWQyZUFlZHVZZHBjX01QSUFB0gHQAUFVX3lxTFA5ZVBUenZnWHRjWkt5WkFBZlB3U01PN0JPRWludkZKQWlkN0VwODlDd3V2dGZNWldNQzlwUDFGS2ZRZC1rUzhMZm9YNTdpaEVZcU5sVjQ1dDYzRnVZSVlXdHBHZDdVcGhNczBxSnpOUFBmcVRxMEowNUdHTThUSjZqNjJ4UEYtZGZyblh0Qkt2SDVMc0dVbFpvaU5oLUFSNVZkSUtRSDVlYVZTNjhXNVRaalZOdWthVWRfOW1RQ2JVbWtZZ2phMUt3YU9BQmQtVF8?oc=5",
+   "desc": "SEBI to launch pilot for bond tokenisation; eases FPI onboarding process  The Indian Express",
+   "source": "SEBI",
+   "publisher": "The Indian Express",
+   "scope": "india",
+   "ts": 1787234409000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT2h5bV83RVh2T0xBcTdTU0JuT0ZQVGJaTjMwVUhEMkZmcFJtcXBnRU1uVno1QW5lR0dsOURhYmEyRUhFVnJiY0o2Q2x0bVpiZUVlMGZfSGZ1RW9tQ2dJV2Q3NWdDY1hnMm5aZzVBVVo0cjhoRUp",
    "title": "SEBI Allows FPIs to Submit Digitally Signed Powers of Attorney, Waives Notarisation and Apostille Requirements - Subscription Growth Report - Vinanet",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT2h5bV83RVh2T0xBcTdTU0JuT0ZQVGJaTjMwVUhEMkZmcFJtcXBnRU1uVno1QW5lR0dsOURhYmEyRUhFVnJiY0o2Q2x0bVpiZUVlMGZfSGZ1RW9tQ2dJV2Q3NWdDY1hnMm5aZzVBVVo0cjhoRUpqcm5MeTgxQWM1N1U0RTJYRzgxdXVMS0RvNFpwT1p3SF83QXNneXltN2NlQkRTSkhkWVdfazBuMXRIdzlYYUVwckUxdk8zMExPVEJLU1p0QjN4eVJQX2FIaWVQNERGV2NvVzFtandqUFpGNDBqS3h1UQ?oc=5",
@@ -312,6 +322,16 @@
    "ts": 1787229455000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOFdxalVOLVpXdmMyeFNUa3NneFRWWmUwcVlKejNTMmdGQkktNFJ1YXlJeWNraG43YWNDY0xlS1AyTll4MUMwTEVrZTVRNFVBSDA2QmJPeW81Q2hwS25xMFN3MHRiR0o2RGpqMXdRclRCWU41bDl",
+   "title": "Mortgage Rate Trends Over the Last 10 Years: 2016-2026 - Norada Real Estate Investments",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOFdxalVOLVpXdmMyeFNUa3NneFRWWmUwcVlKejNTMmdGQkktNFJ1YXlJeWNraG43YWNDY0xlS1AyTll4MUMwTEVrZTVRNFVBSDA2QmJPeW81Q2hwS25xMFN3MHRiR0o2RGpqMXdRclRCWU41bDl3eFdXLTNWWWd6ME1KSEQ3VG5UVkE?oc=5",
+   "desc": "Mortgage Rate Trends Over the Last 10 Years: 2016-2026  Norada Real Estate Investments",
+   "source": "US Fed",
+   "publisher": "Norada Real Estate Investments",
+   "scope": "world",
+   "ts": 1787228558000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUlNmcnZTRjE0UkJZRWphSGlhTzlYeGlybmRMVl9SaHBzd3puM1g4SGQ1OVB2VjBpRXUyaTM2SXE5Q0xQVWxUVndwLTk0SFFVcncyejNGeDNaZ3RsNjNYNjYyM1pKOExYWmlfbmQ3ZUxxam54NVB",
    "title": "Sebi Eases FPI Onboarding with Digital PoA - Rediff MoneyWiz",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUlNmcnZTRjE0UkJZRWphSGlhTzlYeGlybmRMVl9SaHBzd3puM1g4SGQ1OVB2VjBpRXUyaTM2SXE5Q0xQVWxUVndwLTk0SFFVcncyejNGeDNaZ3RsNjNYNjYyM1pKOExYWmlfbmQ3ZUxxam54NVB0QlRVTlVzY19OSlI3cS1ib1NwWUN5akV2eThfVElhY3k0Q3VR0gGfAUFVX3lxTE1vTUhFSEx3QVJwN0RIc0N2OVlhVm1LUlBpbWVqUEN4Z2syZ0FRdkMtN1ZYOURiNEN1a1VLTDBRREI2aUdfVm8tbERyekdtN0s2U19Ec3hNUW9kT3Q1Z3dhTklYcFFiVEplQ0pBQzg1YWRSUE9QMFlySnREcDgwcHdqYktNNGRZaEw0TUZwVEdTd0xBZ3U4TmR2UjFPTnBxSQ?oc=5",
@@ -340,6 +360,16 @@
    "publisher": "Bitcoin World",
    "scope": "world",
    "ts": 1787221511000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQWEt5Q3dhWUdERVp6Q3JZQ05KQk5qUTcwZi1WZVMteFVTX09YQVZrZ0FPN0pyRU9qZnpJbElqNEE4Vm05ZmcyZ3ZEdl9YcUpEb2prb1F1cVdLM1daTkMxNjNCV3ZXQlE?oc=5",
+   "title": "Fed officials warned rate hikes may be needed if inflation stays high - Axios",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQWEt5Q3dhWUdERVp6Q3JZQ05KQk5qUTcwZi1WZVMteFVTX09YQVZrZ0FPN0pyRU9qZnpJbElqNEE4Vm05ZmcyZ3ZEdl9YcUpEb2prb1F1cVdLM1daTkMxNjNCV3ZXQlE?oc=5",
+   "desc": "Fed officials warned rate hikes may be needed if inflation stays high  Axios",
+   "source": "US Fed",
+   "publisher": "Axios",
+   "scope": "world",
+   "ts": 1787220502000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSEViMTlkNjB4MkhyLU10THFrMC1qOUEzZlFkQVNId2I5SGRWYTNVNG5vQ1hOejl6cjVzUDQ2UUc4QkxieU1QeEFBRjJvaUtUZFNGME5YSmtBRFI4SDBzTS1YZkZOVHpwTmxBRDA5TW5iYlFTVWk",
@@ -383,11 +413,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNVdSTlBBc0ppQnE1MjJRekdLenQwUHhxZmxQTFhOZm81Q2lrWFhzOFJPOUhWRXBHN2xBcGg5cFNVM0h0UHhoNHhYdHYtRGlZS2t6NzYtVUtDMTBCZUxtZldUNjBmWWtvbzhQTGxxMUlwU0VScEp",
-   "title": "Sebi to overhaul SME listing framework, tighten AI/ML accountability in financial markets - rediff.com",
+   "title": "Sebi to overhaul SME listing framework, tighten AI/ML accountability in financial markets - Rediff",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNVdSTlBBc0ppQnE1MjJRekdLenQwUHhxZmxQTFhOZm81Q2lrWFhzOFJPOUhWRXBHN2xBcGg5cFNVM0h0UHhoNHhYdHYtRGlZS2t6NzYtVUtDMTBCZUxtZldUNjBmWWtvbzhQTGxxMUlwU0VScEprRk1vRVY2TG1fQTNGMlNRaUZUSTZtTXhuNE1DaTRsTnNacm1xR0FnTXpOX0JIZUtyeU9Sd1BLVXZVQnd2NnlBSUJnQlVWZmxwV2dHYjB2bUhuaWJpQ3EwanAzeVHSAdQBQVVfeXFMUFpnUzFoRjR6aE80TWVjNllhbGxhR1JZcUtnY1JwN2xBTENUWkFWeUlZT3BVUUthRUFVdHFQSTBPNFdtRS1aUEFhckRVMW1jQ2VVVFVCQkZ1MkJKTjl2bEdPRFFXTTlCbDlwY2U5YjhodGtpT0FiM2FhVVo2alROcDY4eUNUZ0FVOHMyOGJYbG5lajJQS3Qzc2NJMGFXRkJxeDBvZHNwWk10Q3k4eGpNTHVnSjJ1cEdjVmNhM0pGaHQxMzVhSFdIRGNLeDJpTFQ2b0Q0ckY?oc=5",
-   "desc": "Sebi to overhaul SME listing framework, tighten AI/ML accountability in financial markets  rediff.com",
+   "desc": "Sebi to overhaul SME listing framework, tighten AI/ML accountability in financial markets  Rediff",
    "source": "SEBI",
-   "publisher": "rediff.com",
+   "publisher": "Rediff",
    "scope": "india",
    "ts": 1787212535000
   },
@@ -433,11 +463,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbEhxMndWejl6NHNDYkVpRE9oSTF5bVpNeUR2UzhPSGE3Qm9paS1OaU5sbGtJcWR5aVZEeWhSYWZNWkNXeGNQRHZXU2l6LUgyQmJWTFdfcGhUSktjaTZlZ0ZVU2VxNHVzRkN4RGZvdGFMRVlTTHN",
-   "title": "RBI MPC members hint at rate hikes as inflation risks persist - rediff.com",
+   "title": "RBI MPC members hint at rate hikes as inflation risks persist - Rediff",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbEhxMndWejl6NHNDYkVpRE9oSTF5bVpNeUR2UzhPSGE3Qm9paS1OaU5sbGtJcWR5aVZEeWhSYWZNWkNXeGNQRHZXU2l6LUgyQmJWTFdfcGhUSktjaTZlZ0ZVU2VxNHVzRkN4RGZvdGFMRVlTTHNnTms2M1lSdUZucERuNDZwVG1nREhQNGowY3E5U1dwVU93cWV6SVRUazVXOHBlM3lnZXFINmZKXzBXODJrUTdKQdIBuAFBVV95cUxPeHFNVkVwazJUNXR4bjNaSGRNaW9VZDUzbEN6XzFGbEtGR2pWS3FpR1IxemJfR29UaDJOeGkxLWdDcGllQjd3YkRzdVF2MV9qM3YzYkRJdnBNcHdrY3BJUnI0NkV4QUZQUzR3VmlzOFYxc0dnU2VxZDgtSXpzTHlfcGg2SjFXbTZYdm5HSTd1bmk2NDc3YXk5aDh0dEU4aXVHSFBOMlpZU1dXQ0FmVldDZkh6cTRqUFFY?oc=5",
-   "desc": "RBI MPC members hint at rate hikes as inflation risks persist  rediff.com",
+   "desc": "RBI MPC members hint at rate hikes as inflation risks persist  Rediff",
    "source": "RBI",
-   "publisher": "rediff.com",
+   "publisher": "Rediff",
    "scope": "india",
    "ts": 1787204160000
   },
@@ -522,6 +552,16 @@
    "ts": 1787195819000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEp5ODBDWGVqYUZ1eEdFS1BxODduekpEZFB0Vm9YcmFCeW9IYnV1eUNFeHpJZ3lLT0NMSk9OazBVZE1xZmJvMnlBZjNjSWpodkEtd09CdmpOT0VSQVJvZDNHRWNFQWxMU1ZxR05UOE92SXd6WTl",
+   "title": "Bessent acts to break bond market fever, head off rising borrowing costs - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEp5ODBDWGVqYUZ1eEdFS1BxODduekpEZFB0Vm9YcmFCeW9IYnV1eUNFeHpJZ3lLT0NMSk9OazBVZE1xZmJvMnlBZjNjSWpodkEtd09CdmpOT0VSQVJvZDNHRWNFQWxMU1ZxR05UOE92SXd6WTllbEhBQUotZjhVVUdZckw5UloxS1JqamtJcGNzVFVwS3hjNXdXR2VjcFJuMnlReWFIN1dLbHBldzhKWndMTTY?oc=5",
+   "desc": "Bessent acts to break bond market fever, head off rising borrowing costs  The Washington Post",
+   "source": "US Fed",
+   "publisher": "The Washington Post",
+   "scope": "world",
+   "ts": 1787194768000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTjFLY18wcXNxRDY3OW9McDNlelkxaXhIWHV0a0dKcDNTQVk1NmRZZllkUFpTTkFhaFJzR1dFOG1ZOW1EaERyV253alNPSUdJUUQ3UVIyWV9tbTZNU0ZtcXplXzZ5LUo1NnliX0p6OWY1ZFBmVlR",
    "title": "India regulator bets on trading reforms to reverse foreign capital flight - Reuters",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTjFLY18wcXNxRDY3OW9McDNlelkxaXhIWHV0a0dKcDNTQVk1NmRZZllkUFpTTkFhaFJzR1dFOG1ZOW1EaERyV253alNPSUdJUUQ3UVIyWV9tbTZNU0ZtcXplXzZ5LUo1NnliX0p6OWY1ZFBmVlRNaHM0UDJ3VHVvbXlkWExQelNfWk53ZElIb2J0OTk4SGRTMmNJMFQxSHNzWEVfNkVIS1d6Z1cxek9qckxCeTNSN1BuQ3Vvdw?oc=5",
@@ -560,6 +600,16 @@
    "publisher": "PBS",
    "scope": "world",
    "ts": 1787174383000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYV93bURtVUMtVEtLdTRqcjdTc2R5N3NrYUhDNnk1UmVpek96QnRaZkE3MmFRR3RQejh6WG1GeEI5WFhLdGc3TjRKc04xUkh5NEQ3eVVTLWJGYV9CRHJSMHJ4aWkwX3BoZVBNWnppOVJ4UkpOLUR",
+   "title": "Pound-Euro Slides despite Firmer UK Inflation, GBP/EUR Tests 1.1650 - CurrencyNews.co.uk",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYV93bURtVUMtVEtLdTRqcjdTc2R5N3NrYUhDNnk1UmVpek96QnRaZkE3MmFRR3RQejh6WG1GeEI5WFhLdGc3TjRKc04xUkh5NEQ3eVVTLWJGYV9CRHJSMHJ4aWkwX3BoZVBNWnppOVJ4UkpOLURlMzRfaklOM0MxUWgzQ2VaTXFyNXFpT3NrN2g4cVloWkNxdWtxTzZLbVhMeG1KbDREbXJBMUc0QjYtT0c5NFNkNHo5YXBITzdvWWg5Q1RK?oc=5",
+   "desc": "Pound-Euro Slides despite Firmer UK Inflation, GBP/EUR Tests 1.1650  CurrencyNews.co.uk",
+   "source": "ECB / Europe",
+   "publisher": "CurrencyNews.co.uk",
+   "scope": "world",
+   "ts": 1787173562000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVUROVWx3VExrYlVyaFRjNmZ1LXRNR0JTSXZDeXBjS1RCSk10TGJ5OFIwRnJCV0wxNkk4d0lVd3dDeHpFbk03ZC1WRFVVYlJLR0l2U0ZZVjZRaHpLazRMZWtSMFRaN01uSHpxNXduUEJyWlp0aXJ",
@@ -783,11 +833,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnhUQ0hDaThRZzVZemxic282Yk52cFFMMmZxcU5RRlFTZ256SFlGUHlYODZzckFyMXdiWUJXODhlN3Q2QTViS2FVNnVWejhoUjdHbkZDY3MzTDV1Y2JMR1FYT0kza0g2WnFSZmJZSEdmV1ViNXF",
-   "title": "Fed Minutes Show Many Officials Said Rate Hikes May Be Needed - Bloomberg",
+   "title": "Fed Minutes Show Many Officials Said Rate Hikes May Be Needed - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnhUQ0hDaThRZzVZemxic282Yk52cFFMMmZxcU5RRlFTZ256SFlGUHlYODZzckFyMXdiWUJXODhlN3Q2QTViS2FVNnVWejhoUjdHbkZDY3MzTDV1Y2JMR1FYT0kza0g2WnFSZmJZSEdmV1ViNXFFUDlTa3NVTklzcThpMDViQkdOT0tiU0FhMmJsQngySDRyZXZ5Ul9LcmRxbE1sOEdCQ0h0cmNqX2x3RnlR?oc=5",
-   "desc": "Fed Minutes Show Many Officials Said Rate Hikes May Be Needed  Bloomberg",
+   "desc": "Fed Minutes Show Many Officials Said Rate Hikes May Be Needed  Bloomberg.com",
    "source": "US Fed",
-   "publisher": "Bloomberg",
+   "publisher": "Bloomberg.com",
    "scope": "world",
    "ts": 1787163248000
   },
@@ -1150,56 +1200,6 @@
    "publisher": "livemint.com",
    "scope": "india",
    "ts": 1787128660000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT013cFplc3hDcklnR3FUTkYzRXhIQ3Y4a2tVeFg5YTN6RXQwQkx3ZXhUeldUY0w0WXl3Mk0zWEgwWVdOaTRFb2tDZlFEeGQxb0cwUi1hbWtnZTJZZGVEc1YxMHVMdkt1UFNLVlpGT2N1bXN0MlV",
-   "title": "India regulator reviewing small-company IPO, delisting rules, chief says - ETLegalWorld.com",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT013cFplc3hDcklnR3FUTkYzRXhIQ3Y4a2tVeFg5YTN6RXQwQkx3ZXhUeldUY0w0WXl3Mk0zWEgwWVdOaTRFb2tDZlFEeGQxb0cwUi1hbWtnZTJZZGVEc1YxMHVMdkt1UFNLVlpGT2N1bXN0MlVEOXptQl9aZ3ZxYmtYRUh1MUtIS3JSM1JpTkQ4WjlodjI0cHhnX3lkeU9tMUpaVlByU2R3ZlF2c2xHMmJVazlCRElDbGMxUXFzZkJtVGJOQWU4Zm4yTlYwUUQ0dTFCRkRn0gHbAUFVX3lxTE9FMFc5X3lGUDctbzdpMTU0QzRBWUc0V0hSSG5ydndMZmQwZzJLcWo5dE90YURfYVZOcHdvYk5OY01jdWNkdEd0QnFFd1JpcUlSRXczaUNwa1V3cjYxbk90RHdaMDM4Zy1qY3ZqOUNJOXJfSkhwMThYQ3poSmxVSmdQUEpORjNIZFJlU3dia1ZJV0RlQndkb1NGc1pfQ3BhaXZSNm1qTDhzT1ZTaWJpMFRiQS0wR3kzMzN5b1ZzSE5aRnV0RkJLZGJGNjVDUDRqTTZqSzFoRmVIcFo3bw?oc=5",
-   "desc": "India regulator reviewing small-company IPO, delisting rules, chief says  ETLegalWorld.com",
-   "source": "SEBI",
-   "publisher": "ETLegalWorld.com",
-   "scope": "india",
-   "ts": 1787128262000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1I5MXpXNlZROWFfbEhTUlp6Mktnb2JMWXJlSGNldno1RW1rT25ZbGR6T0w0b0EzX1NYVy1BczRKMFpFbUFBTWxVcEY2eHlyT2d4NlcxbFBCeXdJam1rcloxS3E2X1lCVnhMRm0tZDBEM0FpeHV",
-   "title": "Sebi Warns Against CAS Manipulation; System Here to Stay - Rediff MoneyWiz",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1I5MXpXNlZROWFfbEhTUlp6Mktnb2JMWXJlSGNldno1RW1rT25ZbGR6T0w0b0EzX1NYVy1BczRKMFpFbUFBTWxVcEY2eHlyT2d4NlcxbFBCeXdJam1rcloxS3E2X1lCVnhMRm0tZDBEM0FpeHVsaC1wN0p5UFp0S3RndjRhdXhtSzhSUlFfZER5NkZ3SS1GQmdLVTNEUF84VDNHamNnXzhlVmPSAbABQVVfeXFMTUZoa1lfelM1RkRqVWQ5VjgzbUlmc01BMVZfN054SXE2T0FweXdNOWRyZ2M1bWdvZGoyejlUUG1mWHpNVHd6Wks4SC1uTVNBNm9qMHkxY1pJbnlSVkRDR2NBSVNKRzlUUFplTjlCYXFiRnhfcXNxOE1IQ3l2ZVRjcTYwYlYxYi0wOW9jV1gxc09iWFh0YkdnNWpxZi1kSmZaejVBVks4ckQ5azk3SF81SGE?oc=5",
-   "desc": "Sebi Warns Against CAS Manipulation; System Here to Stay  Rediff MoneyWiz",
-   "source": "SEBI",
-   "publisher": "Rediff MoneyWiz",
-   "scope": "india",
-   "ts": 1787126615000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsTDJ5V3MwZDllTTd1YUNEX1NMc2pLdWlldkRWUkMyTGh5SG1HVTBHaENDWkY1R09zbzR2Ql9IOUt0YTJVSjR0RGI1VExzb2Q5ZWRkU0VnR2lfUVdLdGswV1BidFhyZUFsNk0wOWxzTkVVX2VhUkN",
-   "title": "SEBI cautions against influencers offering real-time trading strategies - MediaNama",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsTDJ5V3MwZDllTTd1YUNEX1NMc2pLdWlldkRWUkMyTGh5SG1HVTBHaENDWkY1R09zbzR2Ql9IOUt0YTJVSjR0RGI1VExzb2Q5ZWRkU0VnR2lfUVdLdGswV1BidFhyZUFsNk0wOWxzTkVVX2VhUkNSRVRucENFemc?oc=5",
-   "desc": "SEBI cautions against influencers offering real-time trading strategies  MediaNama",
-   "source": "SEBI",
-   "publisher": "MediaNama",
-   "scope": "india",
-   "ts": 1787124279000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUy1BdFZpWGVWdVVOLVpvLUlMc2pONnBaRFpRcmxkcGstMFpacnRoaXh0ekh3Zjg5blNaU0xwTzhjX2NpM2l1aUtubHAxQ0Y5cndXVWxuUno0Nl9neE9fZmtNUFdCbkVfY0o1VGxwbjBCTnl6bWk",
-   "title": "Do not try to manipulate, defame CAS system, warns SEBI chief - Moneycontrol.com",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUy1BdFZpWGVWdVVOLVpvLUlMc2pONnBaRFpRcmxkcGstMFpacnRoaXh0ekh3Zjg5blNaU0xwTzhjX2NpM2l1aUtubHAxQ0Y5cndXVWxuUno0Nl9neE9fZmtNUFdCbkVfY0o1VGxwbjBCTnl6bWktTDJjMGZWLXc5WGY0RDRaTHdtQlByUWNZMmNjV2pFSndMNlI2enlVT0lMUXVmWC1NUTNnSDBlTG14WFhLZFRFQnBUb0l4WElPWXZ3UdIBxwFBVV95cUxObjc5SlhpOWpDVVBYS1Nfb3ZKUmZvVVdfNHRxM0NtTXllOS11MXdRRlJ5Q2lVcFptM0lPUmZfYjRuN0JfeER2R3NLSDVHblNjenpBczB4VjdXX1BNelY3cDRLeEtVWTBXRjhhdHM3RWw0ZXczU01VbU81OHdYMkkzSzAtSEJJRHhhbldCb3J5VjNlcnZjM1AtYmtHX3liSEljMG1QSlNzTFdoVVRiSVBVaHBBdGNaUWRBUW4ycnoxZjV0QllJRFVz?oc=5",
-   "desc": "Do not try to manipulate, defame CAS system, warns SEBI chief  Moneycontrol.com",
-   "source": "SEBI",
-   "publisher": "Moneycontrol.com",
-   "scope": "india",
-   "ts": 1787122901000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdDItZERuY1BEeEhXaVd1eE54OW55QmRvMl9RRlZaVkNDLW1DaldtYVgtMEtEbC1qTVc4eHh1MV9MemVnZVR6RmNwVEZUS0RuZmtqdzRDbXQ0bDRPNU5aLVZlT0R4YVNuSHdLVEUyU0l0cFpPSnV",
-   "title": "Euro trims gains against British Pound after UK CPI inflation rises to 2.9% - FXStreet",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdDItZERuY1BEeEhXaVd1eE54OW55QmRvMl9RRlZaVkNDLW1DaldtYVgtMEtEbC1qTVc4eHh1MV9MemVnZVR6RmNwVEZUS0RuZmtqdzRDbXQ0bDRPNU5aLVZlT0R4YVNuSHdLVEUyU0l0cFpPSnVzVGI5UXhqWVI2ZU9fbjAwRGtQSFFIRHpNYUUzdnZDdlNWb3FTcXhqZUEzbmJod3F2eE90d2Q0U2NaMTJRM0Z1RWM?oc=5",
-   "desc": "Euro trims gains against British Pound after UK CPI inflation rises to 2.9%  FXStreet",
-   "source": "ECB / Europe",
-   "publisher": "FXStreet",
-   "scope": "world",
-   "ts": 1787121319000
   }
  ]
 }
