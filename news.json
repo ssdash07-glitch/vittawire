@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T23:28:44.025303+00:00",
+ "updated": "2026-08-22T23:55:24.359562+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
@@ -170,16 +170,6 @@
    "publisher": "CryptoRank",
    "scope": "world",
    "ts": 1787378670000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rb0NmbUVuZXhGVk1nbFN0RndCenhRVzVJVVJ1dVB2bjJ3MHBHdmRQSkFocHV5RHhueEdEZUNWS3ByOWV0Z3I4ZE5WNkhlX0hXMTBTMkhtX0E3RW5QdTNhdGh6cV9nb01Zc1JtbGJrOA?oc=5",
-   "title": "Treasury Yields Rising August 2026: Investor Guide to Bond Market - Intellectia AI",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rb0NmbUVuZXhGVk1nbFN0RndCenhRVzVJVVJ1dVB2bjJ3MHBHdmRQSkFocHV5RHhueEdEZUNWS3ByOWV0Z3I4ZE5WNkhlX0hXMTBTMkhtX0E3RW5QdTNhdGh6cV9nb01Zc1JtbGJrOA?oc=5",
-   "desc": "Treasury Yields Rising August 2026: Investor Guide to Bond Market  Intellectia AI",
-   "source": "US Fed",
-   "publisher": "Intellectia AI",
-   "scope": "world",
-   "ts": 1787372152000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15OWlKdkRadjlhbDg5V3p1dzYzbWxDOWlCWUprTjVNTkNrNTZMTDlhcHlXV3VNTjZOZFJPSVpWZmVDWXUtN3BKY1RXZ1RVbTEzOGN6VVVfckdBaVJpU0NrZlVfSktBOTEtajgxenIybHNfdTFE?oc",
@@ -1200,6 +1190,16 @@
    "publisher": "The Indian Express",
    "scope": "india",
    "ts": 1787147089000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xemNQc092bEdMQW9ndE4ycFRxVlRlalNmRmxpa0dyNzV5TWpVRzlMYWd3U2lCUWk4NGQ1ZjY5R01LcG1raDl3c0cxZFNVNWZtaUdJNXhtbkI3ZVdFVXNOU1RNQXB5YU5oc2dIVno2X09nV0ttdVk",
+   "title": "RBI warns Middle East war could worsen inflation outlook - PRESS Insider",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xemNQc092bEdMQW9ndE4ycFRxVlRlalNmRmxpa0dyNzV5TWpVRzlMYWd3U2lCUWk4NGQ1ZjY5R01LcG1raDl3c0cxZFNVNWZtaUdJNXhtbkI3ZVdFVXNOU1RNQXB5YU5oc2dIVno2X09nV0ttdVkzTmxZVW5GdzA?oc=5",
+   "desc": "RBI warns Middle East war could worsen inflation outlook  PRESS Insider",
+   "source": "RBI",
+   "publisher": "PRESS Insider",
+   "scope": "india",
+   "ts": 1787147077000
   }
  ]
 }
