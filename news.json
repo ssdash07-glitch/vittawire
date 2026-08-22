@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T15:28:59.221173+00:00",
+ "updated": "2026-08-22T15:55:16.661533+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaUgyN2xzamZvVTJ1ZHJzX1dxd1MtWkNqM0RGYTdVeENjbl92WW83YVNDS243RkRfYmpEMEw4QkJjcnBLa0ZHZDN5em5EOGJMd3FINmpFYl9sYm5xYU11bngzSU5KX0REQnNYWFR5N2JBb1FQbzh",
@@ -110,6 +110,16 @@
    "publisher": "36 Kr",
    "scope": "world",
    "ts": 1787356943000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0dVdGdUp3cHBTWVJrQlgwNDZ2anlXREdiVmFuUjFVQnNnaGJMelpYVHdfMlpSdDV2cC1DTnZnUXNNcUNGOFZ4VGFkZGFRQ0tRSmpJVG8wanRGMXFlMHpkeFp0U2VaLW0zMERhaFNUY2R3cm1SN1E",
+   "title": "Euro Steadies Against British Pound As Strong PMIs Support Both Currencies - Bitcoin World",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0dVdGdUp3cHBTWVJrQlgwNDZ2anlXREdiVmFuUjFVQnNnaGJMelpYVHdfMlpSdDV2cC1DTnZnUXNNcUNGOFZ4VGFkZGFRQ0tRSmpJVG8wanRGMXFlMHpkeFp0U2VaLW0zMERhaFNUY2R3cm1SN1E?oc=5",
+   "desc": "Euro Steadies Against British Pound As Strong PMIs Support Both Currencies  Bitcoin World",
+   "source": "ECB / Europe",
+   "publisher": "Bitcoin World",
+   "scope": "world",
+   "ts": 1787351710000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREJFZVl5eWdqekp3WHc5TmFKZEZFb3dad3dZN1I5dXNIbjhza3hVeUFLOWRTNng2ZVBnTkt3RHYxOFp2ckFuWjFCaGdwQTZnVDh3OVVxS1ZhNzBQX1ZFOVhpSVJMMDdtamZ0VnNTa3V2aXY2Vno",
@@ -380,16 +390,6 @@
    "publisher": "Reuters",
    "scope": "world",
    "ts": 1787269444000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSVRUSV8yamU0TV9KS0l6VjdObHdFelZjd2QxY2ZhWXBJTjN5b3hRbzZGekxuNWVQUHFVSXNHdFFscG1LTTVMX2xKZkx2Nk1GNzRBY3E4RGlGcXpUSkVxUnRaQllXeFlrT2lFd0UycUpVV1Q2MHp",
-   "title": "Fed minutes show September rate hike still on the table - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSVRUSV8yamU0TV9KS0l6VjdObHdFelZjd2QxY2ZhWXBJTjN5b3hRbzZGekxuNWVQUHFVSXNHdFFscG1LTTVMX2xKZkx2Nk1GNzRBY3E4RGlGcXpUSkVxUnRaQllXeFlrT2lFd0UycUpVV1Q2MHpYQzU2TFBaM3JYTW50dHFKTlJtd2Y3QzViUWpRRklDSU13VzlHUjRHMmRrSlFibHM3Rzlsa0NNcHh1Tm9XdG1qRTdZ?oc=5",
-   "desc": "Fed minutes show September rate hike still on the table  Reuters",
-   "source": "US Fed",
-   "publisher": "Reuters",
-   "scope": "world",
-   "ts": 1787268690000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU1lNaXRIOXU3YTJnYVFpdTRGcEk1bkdlTVU5blUwOVgzZXdfaTB1TnJ0cWhXa0J5Z2Fob3NYLVdVcEx4RnZmdUpwdlgyX05oV21HYlFPMFhWc25HM1l0ZUh2UHluWnBzdl82TmdGZHNnbmI1TXV",
@@ -942,16 +942,6 @@
    "ts": 1787166420000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbElsRFRLSUFTZTNOX2VrbjFYcGJuOXNoTlJyMmd3dl9uRFpzeTNhY2dYRk85UTZyY0lQMk9iYzVkTmVRLVVXZk1EQTNfLWQ2R19sU2cyeWZ0WmwtdmJYNWdGS3VrQWE3TjU4bUFKa2RKM1ZQN3I",
-   "title": "Fed Minutes Reveal Broader Support for Rate Increases - WSJ",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbElsRFRLSUFTZTNOX2VrbjFYcGJuOXNoTlJyMmd3dl9uRFpzeTNhY2dYRk85UTZyY0lQMk9iYzVkTmVRLVVXZk1EQTNfLWQ2R19sU2cyeWZ0WmwtdmJYNWdGS3VrQWE3TjU4bUFKa2RKM1ZQN3I5Ml9pVkxiQzA4ellNbmp1MDd6RTYtMW1KWEtmQWROT3JITWo3VDFQeTlN?oc=5",
-   "desc": "Fed Minutes Reveal Broader Support for Rate Increases  WSJ",
-   "source": "US Fed",
-   "publisher": "WSJ",
-   "scope": "world",
-   "ts": 1787166240000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc1pOWFhZYUYyUk9LYlN5UDZwZ05vVHFIVGl2NFlWTjhHOVpJS3ZUWVBxeV9CUkxobjVOa1VxN3RtSWJJbXl5U1pGLU9XUGhOTGwyUzlreVhIR1g1Q2V5N25QdFFlV2JUb1VENkZFc1FnRVRNVWg",
    "title": "SEBI Flags Manipulative Trades During Sensex Expiry Closing Auction, Impounds Rs 3.67 Crore - Guidance Revision Trend - vinanet.vn",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc1pOWFhZYUYyUk9LYlN5UDZwZ05vVHFIVGl2NFlWTjhHOVpJS3ZUWVBxeV9CUkxobjVOa1VxN3RtSWJJbXl5U1pGLU9XUGhOTGwyUzlreVhIR1g1Q2V5N25QdFFlV2JUb1VENkZFc1FnRVRNVWgtX0pUVFVaOUMxa0JLZ2RZZ2VVX1BlNzV6b2JoRGp1YmdDVjV4dS1YVzZaX1ZFVGM5WFJOOGttcTZfQWxGV3p3SnF3Y2ZNSTFIVHg5aG1kSllZOVV0Zw?oc=5",
@@ -995,7 +985,7 @@
    "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbGJtNHhWeW5zNEk5ZERYN1hFQnI3Vmp3UG9OUENacjBuNndmOHlkZkJ3MHdPMnRRc1RGMUhhZ0xUcTZDV0lYbGVrVU9RTEl0MUFEVTRqVTJvU0U5bXV1emt0dDhCOWtuSDVKSV8xUXVQNGl4OGR",
    "title": "More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting - The New York Times",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbGJtNHhWeW5zNEk5ZERYN1hFQnI3Vmp3UG9OUENacjBuNndmOHlkZkJ3MHdPMnRRc1RGMUhhZ0xUcTZDV0lYbGVrVU9RTEl0MUFEVTRqVTJvU0U5bXV1emt0dDhCOWtuSDVKSV8xUXVQNGl4OGRhS25NcFR5VUpwOWhvYkNOQQ?oc=5",
-   "desc": "More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting  The New York Times",
+   "desc": "More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting  The New York TimesFed Minutes Reveal Broader Support for Rate Increases  WSJFed minutes show September rate hike still on the table  Reuters",
    "source": "US Fed",
    "publisher": "The New York Times",
    "scope": "world",
@@ -1200,6 +1190,16 @@
    "publisher": "livemint.com",
    "scope": "india",
    "ts": 1787142333000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2huV25tOGZsR0tDWUhUMHFNX2ZCMlNLRWlwM2JtZEx1aUNXYnFWXzE3emJkdGZzT3paTEtCa1hfWUlPS2hzblB2elp0ZWdLQUhMVVpzek4zbEF6eWM0dndSOTBYZHBVTTl3d2VobFB2NnZSMzV",
+   "title": "RBI minutes show different inflation concerns and a case for a rate hike - investingLive",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2huV25tOGZsR0tDWUhUMHFNX2ZCMlNLRWlwM2JtZEx1aUNXYnFWXzE3emJkdGZzT3paTEtCa1hfWUlPS2hzblB2elp0ZWdLQUhMVVpzek4zbEF6eWM0dndSOTBYZHBVTTl3d2VobFB2NnZSMzVDOWNVRXVnejRMUGNEZ2g5OF9jS09fWDNBVmFfOWlXcDBYX1FIZThOWTdNZ1pfUVZmbkI4U2FNMDQ2YUg3WQ?oc=5",
+   "desc": "RBI minutes show different inflation concerns and a case for a rate hike  investingLive",
+   "source": "RBI",
+   "publisher": "investingLive",
+   "scope": "india",
+   "ts": 1787142180000
   }
  ]
 }
