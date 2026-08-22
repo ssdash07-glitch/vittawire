@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T05:47:33.091306+00:00",
+ "updated": "2026-08-22T06:49:14.744999+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rb0NmbUVuZXhGVk1nbFN0RndCenhRVzVJVVJ1dVB2bjJ3MHBHdmRQSkFocHV5RHhueEdEZUNWS3ByOWV0Z3I4ZE5WNkhlX0hXMTBTMkhtX0E3RW5QdTNhdGh6cV9nb01Zc1JtbGJrOA?oc=5",
@@ -100,16 +100,6 @@
    "publisher": "finance.biggo.com",
    "scope": "world",
    "ts": 1787336340000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLVVTcVVZeEVrOUF6V1NYdF8wcERQV1pWaGJkT2FySkRIZmtwOHVGOEZDNHF6VzRpdkhhRzVHd3dZTkRtWWJzMmZ6cDIwc1N4VG1xM3FNMml3aV9ETkYwSU5zaFpZd3FGeUNBWGRNY0RuV2NXanZ",
-   "title": "The Treasury, the Fed and the threat to your money - MarketWatch",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLVVTcVVZeEVrOUF6V1NYdF8wcERQV1pWaGJkT2FySkRIZmtwOHVGOEZDNHF6VzRpdkhhRzVHd3dZTkRtWWJzMmZ6cDIwc1N4VG1xM3FNMml3aV9ETkYwSU5zaFpZd3FGeUNBWGRNY0RuV2NXanZHb2thckQ1ZzFDVmhmeFNsSGVGWTNoTUlaSFdjallLemtF?oc=5",
-   "desc": "The Treasury, the Fed and the threat to your money  MarketWatch",
-   "source": "US Fed",
-   "publisher": "MarketWatch",
-   "scope": "world",
-   "ts": 1787336100000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iOG4yNU54NVI3QThUbE1DMlcwLUtDVmhtYkRnR2FCcTY0NUpvWlRVUHo1U3ZDal81bmpvdzMwSXEzZk9oSmFWLUVOSWhfcFJMUGJ2M2ZvdHd4Rll3R0RDaGJJTXlsaHI3anR2MnViTGVPTEZhZmc",
@@ -242,6 +232,16 @@
    "ts": 1787306546000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDkyNXdUUDhSd3VEQzJZN2piWnFMbnA3WVJXcUlYTVAxcnlsZ2hVTkpyODBjdzd6VktvTlhCM2N0NzFSblh1bGZEaVJ3ZnN2aUpkX3JMOVROQmowV2UxTENVY3ItMFYtZW1wM0poNEUycTBvZ21",
+   "title": "RBI deputy governor sees GDP growth exceeding 6.7% forecast - Firstpost",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDkyNXdUUDhSd3VEQzJZN2piWnFMbnA3WVJXcUlYTVAxcnlsZ2hVTkpyODBjdzd6VktvTlhCM2N0NzFSblh1bGZEaVJ3ZnN2aUpkX3JMOVROQmowV2UxTENVY3ItMFYtZW1wM0poNEUycTBvZ21HQ2tsanBLZnNUbl8zZWU0NVp2NGM5cTdOQjM4NzUzRG9kMC1zODU1R3pDX2pSTVlsTHRpRUXSAbABQVVfeXFMTnBlczBwZENZYlF6N21rUFkybmtpOTFxcHM0SHF2Y1BBYU96Z2U3N21Zc0JLTS1zaEprYkduNjFVSllqSENsbFBhODRJRkNCbXZTcWFYNVk1dkp2d2E1SEdkbDhqNW55U1gtekZrZi1CdGdmWlNHTWNaR0NXMzN1Vks3WkZMRGRpN1lUd2NXWFduVzVOQ1FIS3dyclVVX1BSSVZOMkFBZnpXU1hsQ1BIUE4?oc=5",
+   "desc": "RBI deputy governor sees GDP growth exceeding 6.7% forecast  Firstpost",
+   "source": "Indian Economy",
+   "publisher": "Firstpost",
+   "scope": "india",
+   "ts": 1787297551000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94UWg1VThDcWV2SGFkTEQ5ZlhXLVhXU09XSUJIU3kzbDZER29KNHF6QzVfN2FHUUZ4c0paVG9kMVE3aEdzNGktbXNsdTBYc1FfSVJ2V01fZlR4eG5FSUtVa19XRldMQUNY?oc=5",
    "title": "RBI Changes Bank Deposit Rates Framework: What the New Interest Rules Mean for FD Investors - chshyd.in",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94UWg1VThDcWV2SGFkTEQ5ZlhXLVhXU09XSUJIU3kzbDZER29KNHF6QzVfN2FHUUZ4c0paVG9kMVE3aEdzNGktbXNsdTBYc1FfSVJ2V01fZlR4eG5FSUtVa19XRldMQUNY?oc=5",
@@ -270,6 +270,16 @@
    "publisher": "The Sentinel - of this Land, for its People",
    "scope": "india",
    "ts": 1787288457000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzE",
+   "title": "Fed holds interest rates steady as inflation hits 3-year high - ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+   "desc": "Fed holds interest rates steady as inflation hits 3-year high  ABC News - Breaking News, Latest News and Videos",
+   "source": "US Fed",
+   "publisher": "ABC News - Breaking News, Latest News and Videos",
+   "scope": "world",
+   "ts": 1787287139000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLURaampYRUpZbjN0aDF2dnRKSkZLcm1TNGJDNFFGREgzRDJFS2xUMEdFQXBtTUFhVTBMTmhoRU1pSUhvTkFDUWlQX3FFdmo3NDdXcVBhdWZqY2lBcWlZdFBCQ1ZxQllwbGpJMHNFU3QwVzc2eER",
@@ -350,6 +360,16 @@
    "publisher": "The Arunachal Times",
    "scope": "india",
    "ts": 1787254560000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNjRlS1VNTzlNbHNvOHE0QXllX1Atdmx6WGJFX1N2Y3Q0ZEF3cFVmMlp6SUhoeHZMMmRpOXhuNWxsT0wwYVNTcWMyTTJQNmREVW1pVm1qbnBGR0NwRzMtYlVDQllsV1NZdXQ0UG1qNG1OQ0FlOHV",
+   "title": "When will mortgage rates go down? As the selling season closes, not soon enough. - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNjRlS1VNTzlNbHNvOHE0QXllX1Atdmx6WGJFX1N2Y3Q0ZEF3cFVmMlp6SUhoeHZMMmRpOXhuNWxsT0wwYVNTcWMyTTJQNmREVW1pVm1qbnBGR0NwRzMtYlVDQllsV1NZdXQ0UG1qNG1OQ0FlOHVsY3hCTm9TTTJtSFZtS0VIVy1ZcDRlVXdiTEdYeG4wbnd1NFZfci0wUGcyOTRVWkZMR0lSLTdUZHE2WFBVNFBrY1BvSGllM0lQWS1TMDZkUnV5SHRQVUwxVTNwdUZKSEpXVEgtRjF4QlJla0FBanB6Ukg3?oc=5",
+   "desc": "When will mortgage rates go down? As the selling season closes, not soon enough.  Yahoo Finance",
+   "source": "US Fed",
+   "publisher": "Yahoo Finance",
+   "scope": "world",
+   "ts": 1787254209000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLV9LVFhVN05jZnlQNHZpLVkzMlV4SEc3eFcxM1JPNVVRYjFWWUhUTE5YYjFuSEppWHdFNWJkWGJNR1Z3LVNUdUswQ0FLVGNTRG84Vzlwc3ctOG9nazlpV1h6SGpKZjVsaEpiaXdUeWY0Z3JVMkZ",
@@ -592,16 +612,6 @@
    "ts": 1787216267000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOTXJUUGN4dmNiU29oN2kyWTJIVG4xNngxVExpUDhoVTdQWDl0dmhJYUQybnJCMnJrMHBIM1BTWU5tOGVJX3ZzZkpWbGd1RzNWbXc5elA5V0MzM0lpNDN2M1V0V014RGt0S2ZLcjZkMFJPUWt6bWd",
-   "title": "SEBI Alleges ₹1,000 Crore Loan Ruse At Dhenu Buildcon. How Did ₹25 Crore Become ₹1,000 Crore? But A Closer Look At Dhenu Buildcon Throws Up Several More Red Flags. - inventiva.co.in",
-   "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOTXJUUGN4dmNiU29oN2kyWTJIVG4xNngxVExpUDhoVTdQWDl0dmhJYUQybnJCMnJrMHBIM1BTWU5tOGVJX3ZzZkpWbGd1RzNWbXc5elA5V0MzM0lpNDN2M1V0V014RGt0S2ZLcjZkMFJPUWt6bWdXMXBJVGhpSzR2YlhSeTl5OTc1LTBHcWdMSkpfYXFFMV9SVHJ0MVYwLVpYZHNNQWVvSWJSRl9YeGZyaGItMnd3NmhLTE16QzJNMU8tcERzLUsySlNPVzY2aHo1VkV2TmpCNG1HSGUyR2N6RG1SMHI2MzA3cEVTQ3R4ZGZDcXU2VVB6N0VEQ290V2xIQ05BSUlRbjJhMWFJYzFCbjAwQTJWUkpLd0R1UGVmd3JFdGRqRWtWSmhmU3RDaVE2b0RIcU0zb0VmNzEwNlVv?oc=5",
-   "desc": "SEBI Alleges ₹1,000 Crore Loan Ruse At Dhenu Buildcon. How Did ₹25 Crore Become ₹1,000 Crore? But A Closer Look At Dhenu Buildcon Throws Up Several More Red Flags.  inventiva.co.in",
-   "source": "SEBI",
-   "publisher": "inventiva.co.in",
-   "scope": "india",
-   "ts": 1787214620000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQU3c3RjlKYi1hQlBOcElVOFpfYXRKM0VxdElRT0FnOXM5d1ViYUNScXV2cThoS3VMd3Jnb1NGOVpjV2JoUVBLV19yMHJDY2dUeXJtZ2d6V2U3N1E0YW9UWmVUWmRFSm4yZTFGNkQ4aEFEUS0yX3V",
    "title": "SEBI To Issue AI Rules For Markets, F&O Trading, CAS & SME IPOs Under Regulator’s Watch - Business Today",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQU3c3RjlKYi1hQlBOcElVOFpfYXRKM0VxdElRT0FnOXM5d1ViYUNScXV2cThoS3VMd3Jnb1NGOVpjV2JoUVBLV19yMHJDY2dUeXJtZ2d6V2U3N1E0YW9UWmVUWmRFSm4yZTFGNkQ4aEFEUS0yX3VRYlVJYW55RmU3dEFtdXRfXy1lal9HQmtDQW1zWE02MngxWEFKbmdXYzkxQVp4dXJfSTMwUWdtRS1oSHRacmJ1SERyaGVSaVB0bHhfTzVSVzZzdUdiT2dFVVF3VWloWVZTaVN1QVJsM29rQTBHS03SAeoBQVVfeXFMUDRqWVNvNlBpQTdPeTd1cDAwVDhRLXRuRC1Dbl9oTDBzUmdaRVpmUkRfUG1saThobGVmMUY0cnlTUzNMWnNkNFB3cFJfZ1ZOZFFIYlh4aUdDQklLQkxIN29OUFk1TGZ3enl3RU9oYVAzY21za0tTaGlDcFBCb0N6c3dKMl9ERC1tTEpFekJRcGtsaHZWTWNORS1IdFQ0blVWY3VCbndYX01WSHYzbzRmdjNJbjR3aUVkbkotV0k0R2xGTWRPSG9tVzdtRUFQSDIyM3Z4Y2xMSHRUNjNYWmFkTlZYV3A2WFNjdmdB?oc=5",
@@ -842,6 +852,16 @@
    "ts": 1787171077000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNVXYwTGxaSTdxcWhoMlVGRkZRcV9OWTNTWFQ0SmVwSXZLQkVhZWE1Uk16M2FQQlpsWC0tZXJXV1pGY0lONWVIVUx1ekcxcGdtdHlyT0JNVHl5bWxBcmI5LUY3ZEdHSG5QQVE?oc=5",
+   "title": "Several Fed officials signal support for higher rates - Transport Topics",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNVXYwTGxaSTdxcWhoMlVGRkZRcV9OWTNTWFQ0SmVwSXZLQkVhZWE1Uk16M2FQQlpsWC0tZXJXV1pGY0lONWVIVUx1ekcxcGdtdHlyT0JNVHl5bWxBcmI5LUY3ZEdHSG5QQVE?oc=5",
+   "desc": "Several Fed officials signal support for higher rates  Transport Topics",
+   "source": "US Fed",
+   "publisher": "Transport Topics",
+   "scope": "world",
+   "ts": 1787169249000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUFjdmxUb2VzOFR4b1NuZnB4aXdGWUVJSUhUaXhzR0RhWVVtdVp3NzRHRkhFc090ZVlBT3ZHSTVtSWxZNEFxWkNiaUZpd00yZW81SlQ2MzM3X2d5ZzRULVZtdG5rRkk1LU9jMVBSbURuQnRwTW5",
    "title": "‘Manipulative’ trades during CAS on expiry day: Sebi bans 2 entities - MillenniumPost",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUFjdmxUb2VzOFR4b1NuZnB4aXdGWUVJSUhUaXhzR0RhWVVtdVp3NzRHRkhFc090ZVlBT3ZHSTVtSWxZNEFxWkNiaUZpd00yZW81SlQ2MzM3X2d5ZzRULVZtdG5rRkk1LU9jMVBSbURuQnRwTW5kQkw3c0JHRHNTZEg5a0JLcjgzV0t3bzZMNTlMcVZKaHdmR2FHWTdoYlhzQUhXekdGMmNMT1ZvYlVQZtIBtgFBVV95cUxQNUxZbVk0VE02T2NnM1V2V19MUGRMTFg3SkpLUTczZFkyaGp6dkZPSFI1ZEVob011LU5ncnphMUxtUWJPREUyUTBoOXlTdkpJazl4VGcwX3ppcEdLX2Z5Nzk0RDFYRC14dnVMUi04Nl9iMUVvcTQ1WXFSdVBuc05KQ25zMDBKeTA5UHJjeHBRLV8zMHZMYmR5WXpjbmhDdlYxNVJnQy1iY2JBUWV6ZVZhLVRqbDkzUQ?oc=5",
@@ -940,16 +960,6 @@
    "publisher": "Rediff MoneyWiz",
    "scope": "india",
    "ts": 1787157088000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaVNuYUlTMHZldkxRTHdRdDI1bGZILWk2Rmw1ODViQ2VxMHlJYXZmSTlxOHNUTUpyNkFXVnZ1RUMwcHhqNUZ4NGJNOHFRNDdhajZteHZjczZMRXdTZ1ZSVXlndU5DUVNjMTJoNHpiV1RKdEdSeE1",
-   "title": "India regulator bars two over Dhenu Buildcon fabricated loan scheme, inflated market value - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaVNuYUlTMHZldkxRTHdRdDI1bGZILWk2Rmw1ODViQ2VxMHlJYXZmSTlxOHNUTUpyNkFXVnZ1RUMwcHhqNUZ4NGJNOHFRNDdhajZteHZjczZMRXdTZ1ZSVXlndU5DUVNjMTJoNHpiV1RKdEdSeE1xaEJKcS1DdDJRSzhVMkFHRlBMTm1HWjI3eHBXWHVOWFRvajhCaUJibWZpbWpWblFpNEt1MUxZa0htNFZnSkZsN2lLZlZ5SHQyVVJWdWh2VDQwcA?oc=5",
-   "desc": "India regulator bars two over Dhenu Buildcon fabricated loan scheme, inflated market value  Reuters",
-   "source": "SEBI",
-   "publisher": "Reuters",
-   "scope": "india",
-   "ts": 1787156931000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd0pPb3I2a1hibUdvX1hyN3YtcERqT1YwcnY5b0RMMmRsQW9nRFp0ZzFSSmFiM0RISjRKSUFsR3JWOVdBVzBPa1l6ZUhiYzgxeldUTzA3b1NMY2JzQUVsWmFVZkVMc3IwbF9XUFdKeFl1V09Qdnd",
@@ -1190,16 +1200,6 @@
    "publisher": "Mid-Day",
    "scope": "india",
    "ts": 1787130060000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPR2J3ejIxa08ydHRRMmlya2xJYmQ2M2Z3RjU4a3RFTGZRZ2gxbGNPc1g4R3J3TEZkby05alRqS0RIZ21uQ1ZOdG1fczZjMFNReVpTRmdHQ1l2MG1wUGN2Y0N1b2JEaXFnVGtFeXhuQzI1LWhQUVF",
-   "title": "User claims ₹1,200 credit-card charge after 46-paise shortfall; bank responds, here’s what RBI rules say - livemint.com",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPR2J3ejIxa08ydHRRMmlya2xJYmQ2M2Z3RjU4a3RFTGZRZ2gxbGNPc1g4R3J3TEZkby05alRqS0RIZ21uQ1ZOdG1fczZjMFNReVpTRmdHQ1l2MG1wUGN2Y0N1b2JEaXFnVGtFeXhuQzI1LWhQUVFPWXZTMGdNd2lHaWNqU0xDb0I2RmFTUWFTOVRsQ3RieFJGRFE2UkR5MUtmZ1JvVnhVdU53WWFHaHk0NUZnOUZoMmw1bWhOSzFNMW1LV2xmamVvRnQtTU44NjFkV3RoRFduQXF5Z1Z1VmpvX0QxWFhEYWVQdmh3eE5qeVF4cExjYlBkT2pLbUc0UdIBgwJBVV95cUxPTjRYVTFWck1jaUR6T1JZamFrTjhZcFlsdXpQcERBTjd1N3YxSXEyT2tBOENPU1o2VmFnYzlhSnI2QzU1VWhVWVliSEpxakZpQWpoV2g4MC1uS0xVOXBTNVp2WDB2bmwySFZSbVV3Xzg1SGYwQm10SEhvbHVYbU9rLTVJWW4zZG9YNTRpYUhtMVN5ZERlYXhZekR4bGN3bXptdGVsX3RpS193MkZpUkhRWGhLamtwZUFVbVduVllQX1pJSGQ0M3A4TjM2cWppbUotT3ZPZmhVNnphMndreXlhZ0o1NjBWcVAyMkdSUzhyVlNXSTVUc2k1NzVJdk11eUx4Zjh3?oc=5",
-   "desc": "User claims ₹1,200 credit-card charge after 46-paise shortfall; bank responds, here’s what RBI rules say  livemint.com",
-   "source": "RBI",
-   "publisher": "livemint.com",
-   "scope": "india",
-   "ts": 1787128660000
   }
  ]
 }
