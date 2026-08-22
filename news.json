@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T21:29:43.693861+00:00",
+ "updated": "2026-08-22T21:55:44.993745+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
@@ -10,6 +10,16 @@
    "publisher": "News On AIR",
    "scope": "india",
    "ts": 1787426078000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREJFZVl5eWdqekp3WHc5TmFKZEZFb3dad3dZN1I5dXNIbjhza3hVeUFLOWRTNng2ZVBnTkt3RHYxOFp2ckFuWjFCaGdwQTZnVDh3OVVxS1ZhNzBQX1ZFOVhpSVJMMDdtamZ0VnNTa3V2aXY2Vno",
+   "title": "SEBI sets up dedicated task force to tackle AI-driven cyber threats - News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREJFZVl5eWdqekp3WHc5TmFKZEZFb3dad3dZN1I5dXNIbjhza3hVeUFLOWRTNng2ZVBnTkt3RHYxOFp2ckFuWjFCaGdwQTZnVDh3OVVxS1ZhNzBQX1ZFOVhpSVJMMDdtamZ0VnNTa3V2aXY2VnoxZHZWNllFckVDMDliY0JqQnBqSkl0SG1RV1JMRWlZU3lYTw?oc=5",
+   "desc": "SEBI sets up dedicated task force to tackle AI-driven cyber threats  News On AIR",
+   "source": "SEBI",
+   "publisher": "News On AIR",
+   "scope": "india",
+   "ts": 1787418385000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOFdUU0U5bWE4ek8yaDQ0ZmgyQU0wWFVVYnlJZ1N3VURlcFh0YllaZkl2WV9jOUl2b1FKV0FWN2ExTEJlZmdGUGZnRTRzWEx0cW0tem0xNWNJWkI0NjdycEQ1QW5pbGNmb3A1NmZjWVozZFNoSkp",
@@ -153,23 +163,13 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51QXYtSGVxR2NKajRyY0RJQmQ2VnBVRHV2dW9YUzNUdndhTjhQSElEUFoyMXBDcnhTM1ZLSVZXYjVjZEZmQ0NVYWNNbVEyd2RldDBB?oc=5",
-   "title": "36Kr Global · Middle East | World Bank Report: Qatar Ranks Among the World's Leading Countries in AI Development - 36 Kr",
+   "title": "36Kr Global · Middle East | World Bank Report: Qatar Ranks Among the World's Leading Countries in AI Development - 36Kr",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51QXYtSGVxR2NKajRyY0RJQmQ2VnBVRHV2dW9YUzNUdndhTjhQSElEUFoyMXBDcnhTM1ZLSVZXYjVjZEZmQ0NVYWNNbVEyd2RldDBB?oc=5",
-   "desc": "36Kr Global · Middle East | World Bank Report: Qatar Ranks Among the World's Leading Countries in AI Development  36 Kr",
+   "desc": "36Kr Global · Middle East | World Bank Report: Qatar Ranks Among the World's Leading Countries in AI Development  36Kr",
    "source": "IMF / World Bank",
-   "publisher": "36 Kr",
+   "publisher": "36Kr",
    "scope": "world",
    "ts": 1787356943000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREJFZVl5eWdqekp3WHc5TmFKZEZFb3dad3dZN1I5dXNIbjhza3hVeUFLOWRTNng2ZVBnTkt3RHYxOFp2ckFuWjFCaGdwQTZnVDh3OVVxS1ZhNzBQX1ZFOVhpSVJMMDdtamZ0VnNTa3V2aXY2Vno",
-   "title": "SEBI sets up dedicated task force to tackle AI-driven cyber threats - News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREJFZVl5eWdqekp3WHc5TmFKZEZFb3dad3dZN1I5dXNIbjhza3hVeUFLOWRTNng2ZVBnTkt3RHYxOFp2ckFuWjFCaGdwQTZnVDh3OVVxS1ZhNzBQX1ZFOVhpSVJMMDdtamZ0VnNTa3V2aXY2VnoxZHZWNllFckVDMDliY0JqQnBqSkl0SG1RV1JMRWlZU3lYTw?oc=5",
-   "desc": "SEBI sets up dedicated task force to tackle AI-driven cyber threats  News On AIR",
-   "source": "SEBI",
-   "publisher": "News On AIR",
-   "scope": "india",
-   "ts": 1787345581000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ySWlzYk5nYXJST2Q2aUZUVVNTVGZBd2xFT0VpMllnOWNUOEpLU3ZiMWREeWFwRlpqWnRYQTVjZk8yRjBHd0N6TS1hMnRId25ma004ZTJWNThHMUQ5b0NabmFReEZnQdIBa0FVX3lxTE1qZVlwN2J",
@@ -180,16 +180,6 @@
    "publisher": "FOX 35 Orlando",
    "scope": "world",
    "ts": 1787344637000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21",
-   "title": "Will the Fed raise interest rates this year? Divided economists weigh in - ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
-   "desc": "Will the Fed raise interest rates this year? Divided economists weigh in  ABC News - Breaking News, Latest News and Videos",
-   "source": "US Fed",
-   "publisher": "ABC News - Breaking News, Latest News and Videos",
-   "scope": "world",
-   "ts": 1787330178000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iOG4yNU54NVI3QThUbE1DMlcwLUtDVmhtYkRnR2FCcTY0NUpvWlRVUHo1U3ZDal81bmpvdzMwSXEzZk9oSmFWLUVOSWhfcFJMUGJ2M2ZvdHd4Rll3R0RDaGJJTXlsaHI3anR2MnViTGVPTEZhZmc",
@@ -1200,6 +1190,16 @@
    "publisher": "NDTV Profit",
    "scope": "india",
    "ts": 1787142788000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVTNlbjZuRHkwVTk3Y2h3V3B3MDFjUEpnUC1RRVBhbUd4VWZiWlVwRDVUdHB1U3l6UjBnTjllRzBlWE1wbERxZ3plamNhTVFtZ2Vqb1NyTU9mYS05QUl0aDY5YnZpNkF3Mjh1WnlDWTVOSXFsb3p",
+   "title": "RBI's rate-setting panel hints at future policy tightening if inflation persists - livemint.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVTNlbjZuRHkwVTk3Y2h3V3B3MDFjUEpnUC1RRVBhbUd4VWZiWlVwRDVUdHB1U3l6UjBnTjllRzBlWE1wbERxZ3plamNhTVFtZ2Vqb1NyTU9mYS05QUl0aDY5YnZpNkF3Mjh1WnlDWTVOSXFsb3phQTYzZl9aU19tQ3dldmZwQmJQRzlDY0JMMFNhbWRkczVKV1ZvVUpibG9HOVpQZ29PeExLUEQtMTNXelJR0gG3AUFVX3lxTE9VT2owaktncFNVQXJDeEJRb21tRDE2LXR4UHlLbnhEajVfRk5HMDNib0ZDck41blh1VGppVDRRbzduWmRKTnl5QzdDWGk5MXVtZWZ0QUIzNjdZYVluZnA2M09QS3ZxT3JIRExOem04UWh1TXRZT3lpMEc3T2JPWnFldlJxNjdEWkdocGt3SXdKUlh0UUNCT1gxRzliRURhU3RsSDEtR1ZSWklWNko3OUdsU3d5ZThuTQ?oc=5",
+   "desc": "RBI's rate-setting panel hints at future policy tightening if inflation persists  livemint.com",
+   "source": "RBI",
+   "publisher": "livemint.com",
+   "scope": "india",
+   "ts": 1787142333000
   }
  ]
 }
