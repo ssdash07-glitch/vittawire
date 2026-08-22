@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T10:57:33.388325+00:00",
+ "updated": "2026-08-22T11:29:01.072122+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcXV2WGd0YlNreXlmbjVDVzhWZUwtQThmeTMwbk91WjRUWVRydTc2Z1RNS2FZVVY0V3ZKUUlvRnkzWmg1ZXhXVEMxUGFUX21JRTFSZndGNVJfV0ZPQ2lIU1N3NDh2REN3OUV5ZjdkSzlHRDFkaUl",
@@ -483,11 +483,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOalpBeVBzcXdzV2xUdi1jQ0VrVktoMWdJaGh0LVZhcWNEUEZENk53LXpWNDhSTGR3dnVlSkJxQXNkQkxWOVBDLUQtSmZlY244YTBUTkdmRTVsUlBmVkY0UzVETzdlOVROZGcyM2hNYXQ2Y2lBczB",
-   "title": "IMF Mission Chief Sarwat Jahan highlights Nepal’s post-reform economic stabilization - Nepalnews.com",
+   "title": "IMF Mission Chief Sarwat Jahan highlights Nepal’s post-reform economic stabilization - NepalNews",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOalpBeVBzcXdzV2xUdi1jQ0VrVktoMWdJaGh0LVZhcWNEUEZENk53LXpWNDhSTGR3dnVlSkJxQXNkQkxWOVBDLUQtSmZlY244YTBUTkdmRTVsUlBmVkY0UzVETzdlOVROZGcyM2hNYXQ2Y2lBczBqdjBiUFRkYVV1dF9ZVUxLTE0tZWdDR0ZZc1otUW0yZVhDTjVkQUxuS19HXzh4NkZacHY3cVpObEliS0dUYWhFQXNUbE5PYzNfeWtrQ1k?oc=5",
-   "desc": "IMF Mission Chief Sarwat Jahan highlights Nepal’s post-reform economic stabilization  Nepalnews.com",
+   "desc": "IMF Mission Chief Sarwat Jahan highlights Nepal’s post-reform economic stabilization  NepalNews",
    "source": "IMF / World Bank",
-   "publisher": "Nepalnews.com",
+   "publisher": "NepalNews",
    "scope": "world",
    "ts": 1787238178000
   },
@@ -822,16 +822,6 @@
    "ts": 1787171568000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWERIM2I3T0tzZWlQc3dWSzVhX1Z4eGdwbDl3d1N4VUZrWXcwQnpGSVNKbC1aWTU1Z1g4anRBaG15Y3BIT3NhS0YzSGtxSWlnOGpNSlA0ODRZTnBmREwzTWZObHJ6VE1ra25qc2lSRDdGY0VBQWY",
-   "title": "Bond yields fall after Treasury announces surprise move to ease rising rates - NBC News",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWERIM2I3T0tzZWlQc3dWSzVhX1Z4eGdwbDl3d1N4VUZrWXcwQnpGSVNKbC1aWTU1Z1g4anRBaG15Y3BIT3NhS0YzSGtxSWlnOGpNSlA0ODRZTnBmREwzTWZObHJ6VE1ra25qc2lSRDdGY0VBQWY5Q0RCWDFBNVNDRVRBRTJqMGJ2YWF5QmRQZHR0Y0Jo?oc=5",
-   "desc": "Bond yields fall after Treasury announces surprise move to ease rising rates  NBC News",
-   "source": "US Fed",
-   "publisher": "NBC News",
-   "scope": "world",
-   "ts": 1787171362000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbzRVc1Z4bTd5THJ4V08yaHBHSGZ0Z0FtMU9wMWlRTGk0dlNuSklqYjUwQmYzZnlvTHJ5TGRfYkFKYzFXRmdlNEZkNThha0V1VFF3c2s2YkotcWNjcVpvVklEZlpoQTNWQ3l6OWhuTFN6d1ZUMGF",
    "title": "Many Fed officials flagged inflation threat, possible need to hike rates - CFO Dive",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbzRVc1Z4bTd5THJ4V08yaHBHSGZ0Z0FtMU9wMWlRTGk0dlNuSklqYjUwQmYzZnlvTHJ5TGRfYkFKYzFXRmdlNEZkNThha0V1VFF3c2s2YkotcWNjcVpvVklEZlpoQTNWQ3l6OWhuTFN6d1ZUMGFHV093a3UtRzVKQlpwQlBBRjZaU003T1hHbTc4bWRwLVd2TzhzWG1PREhYM1ZrcW0tZ3VFZEZ5S19NT25wYnJtTTBFdXpkV2p3?oc=5",
@@ -940,16 +930,6 @@
    "publisher": "Realtor.com",
    "scope": "world",
    "ts": 1787164913000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVEw1S2JfLTVyZ29zUEFCNVRRYVZPbDdtR0dfM3M5N21FYjREZnF4UVYtaUw3ZHJ4SDh4Nlk0VVA2bEdTS2gtMUpTT1ZlMU5wOVRzTTlYX1NiN1V4UWt1MjdaSkNvR3JOdm15X2F3TXhXLUtTc2x",
-   "title": "Several Fed officials wanted to raise rates last month. If inflation doesn't come down, more of them see hikes. - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVEw1S2JfLTVyZ29zUEFCNVRRYVZPbDdtR0dfM3M5N21FYjREZnF4UVYtaUw3ZHJ4SDh4Nlk0VVA2bEdTS2gtMUpTT1ZlMU5wOVRzTTlYX1NiN1V4UWt1MjdaSkNvR3JOdm15X2F3TXhXLUtTc2xtMkc5YXV4Wkp0V3RqRVE0cGlkVHpITUdGRjExY0FiRjRJcWxhLXdtUDJFSWRsdDV5TlVYZUduUGl4NnVERXA2eGJFMG44R0FXd0RBcmoza2pKaG03dS1BLTJfcVU2MjVpX25idEtqbF92clp1b0xPTExVZHpPZWFHSXZfTTZhOVRQN2lEdFg5VEJr?oc=5",
-   "desc": "Several Fed officials wanted to raise rates last month. If inflation doesn't come down, more of them see hikes.  Yahoo Finance",
-   "source": "US Fed",
-   "publisher": "Yahoo Finance",
-   "scope": "world",
-   "ts": 1787164872000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcENKUFV0YnZENWxIcVFhUHdFTzZYc1hxQlQwWktnMUl1LXhpc0dYMGFzM1RBRjFUVXFzZVVUVUVuVlF1T3JfNkRHOEUtREJldXhXeVF2WFQzbllkbkdJNzRGbHFjbXpDSWFpbkZxLUZrcS1jNmE",
@@ -1063,9 +1043,9 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQZnJuLVJPdU1DbDg3TTNOVVJUVzhMU1dzeFhBREYzZmN1dFMtbTJXVENHeHhDT0xoN1Z4RS00V2NjQ0w1S09WaUVfUF9wT0FRc3BmUjRxRlNaMGRvY2FKMjJqRF80akI1ZEFZd3pOTS1lUlhGeW8",
-   "title": "SEBI bars JP Morgan entity, Mansi Share over alleged CAS manipulation, slaps Rs 3.68 crore impounding... - Moneycontrol.com",
-   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQZnJuLVJPdU1DbDg3TTNOVVJUVzhMU1dzeFhBREYzZmN1dFMtbTJXVENHeHhDT0xoN1Z4RS00V2NjQ0w1S09WaUVfUF9wT0FRc3BmUjRxRlNaMGRvY2FKMjJqRF80akI1ZEFZd3pOTS1lUlhGeW8waWFBN3paNUlTMUNGbTJvNGtxTDYySmNFcnVMQWNKUjVlZ2FtUHFQS0ZZc09pLTlUVmtFNFlndmVQVVlhNG5LNl91S05IQ05jX2k1aDVRLUZ1RXNGcEcwLVg5ZnhFYzBNaV8xYXdscUlzZWtVOHFzcUtURFZ5U2ZlUFlRNHdESE1STmZUT2Q3ejZvb1NqZ2hPY0t1V2JfREF5NlR6ZnZ4cWtlVlNfWFkyZzBpVjVJRHfSAasCQVVfeXFMTi1UR1Z6SjZ4cm5wVXJQbFJzbi1NSmhLZVRLMDJydlhUUGZZMVcxM0R1UGFEQ0tNY0paLTZmaGZ0b3FNR1BxdXU3a0l0RF9TNVZjT2wxQ3BTc2tSUFdaZlpPOXNJLXpXQ0tXTkZuUFVYbFJqRy11WUpFRnV3emlNNjhnWXZMSkdmUlBMcHBINkJRdExvTTJMWnRtU29BTC1kbGd3a2htamZsMDY3b09yMzV1b0c0Q0R3eTNrb1c2WklRWWdjM2NSX2ljRlp1WlVSX2NDR1haeXBPRTF6QjRTR3M5U1lISHd3ZDNsUHdreVAwalg0b3dMc3JkYXcxa2ZQMWw2QmIwWkxnV3pweTIzVkNsSWZwRG1ZVjc1SVlwS2xrX2NzLU1sSHFfb0E?oc=5",
-   "desc": "SEBI bars JP Morgan entity, Mansi Share over alleged CAS manipulation, slaps Rs 3.68 crore impounding...  Moneycontrol.com",
+   "title": "SEBI bars JP Morgan entity, Mansi Share over alleged CAS manipulation, slaps Rs 3.68 crore impounding order - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQZnJuLVJPdU1DbDg3TTNOVVJUVzhMU1dzeFhBREYzZmN1dFMtbTJXVENHeHhDT0xoN1Z4RS00V2NjQ0w1S09WaUVfUF9wT0FRc3BmUjRxRlNaMGRvY2FKMjJqRF80akI1ZEFZd3pOTS1lUlhGeW8waWFBN3paNUlTMUNGbTJvNGtxTDYySmNFcnVMQWNKUjVlZ2FtUHFQS0ZZc09pLTlUVmtFNFlndmVQVVlhNG5LNl91S05IQ05jX2k1aDVRLUZ1RXNGcEcwLVg5ZnhFYzBNaV8xYXdscUlzZWtVOHFzcUtURFZ5U2ZlUFlRNHdESE1STmZUT2Q3ejZvb1NqZ2hPY0t1V2JfREF5NlR6ZnZ4cWtlVlNfWFkyZzBpVjVJRHc?oc=5",
+   "desc": "SEBI bars JP Morgan entity, Mansi Share over alleged CAS manipulation, slaps Rs 3.68 crore impounding order  Moneycontrol.com",
    "source": "SEBI",
    "publisher": "Moneycontrol.com",
    "scope": "india",
@@ -1200,6 +1180,26 @@
    "publisher": "marketplace.org",
    "scope": "world",
    "ts": 1787141520000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZEY0dXE2dnJQVzJOTGlzbUhWQTRnSjgxSDMxcnJPUzNadEplZndLdmFrLWl3S05TNkJRVUZMaGJxUERZRXBmanM0ZUlTZUthSDZUZlJxcDBHN21uTTB1Yk5nZjF1bGctREhVeFhRSzVhQUZzRS1",
+   "title": "Mint Explainer | Why Sebi wants to revamp its settlement framework - livemint.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZEY0dXE2dnJQVzJOTGlzbUhWQTRnSjgxSDMxcnJPUzNadEplZndLdmFrLWl3S05TNkJRVUZMaGJxUERZRXBmanM0ZUlTZUthSDZUZlJxcDBHN21uTTB1Yk5nZjF1bGctREhVeFhRSzVhQUZzRS1ZR19YMlZDY0xHRzczM3ZPRTFjd0FXSnpaV0J3dTdnemxHZmhvWXJqX0h5eEI5Z3RxN3VWUk5kcXBjZlRDb0F4a1luX3J1Y3BaZVpRXzlkMVlJ0gHMAUFVX3lxTE9OdlU5ZkgyTFJuRm9iN252T0NhN1Jud2VQM1FuTlIzWVFfWGVBenV3alN5WENLbGVOaC10RkVZTzhONVJoRUJ5TGNLdmxlVzF0N0h3dXh2TEVWQkY0OTdIQk9wYWtTU1haeFQyZGFhVzBRanZ0OVBLbnpDOXVHRWxRWE9WUlEyeDAzckNsME1NVXVvWF9iZ3BjR2gtbXBZcEdrWDVHVnJrYjJZNTJXUFlUUXNjZDBOd0x4a3JXSFh6Tzh0WDZNT2hsSDNmMQ?oc=5",
+   "desc": "Mint Explainer | Why Sebi wants to revamp its settlement framework  livemint.com",
+   "source": "SEBI",
+   "publisher": "livemint.com",
+   "scope": "india",
+   "ts": 1787139348000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWp4UDFmcUp3WmY1aG9rOE5ScGxHSFRGQ3VHaG1NLXpnQ1dnRnNicnl4cFoteFAzZklHTHVLbWVKSW81Qno0X1pYQm54X3hOSHdsQmJJbTBYbUtqd0NSalVtZ2dKQjlaVGlodkJjbHhCeFhxUGw",
+   "title": "Sebi warns traders against manipulating closing auction - PRESS Insider",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWp4UDFmcUp3WmY1aG9rOE5ScGxHSFRGQ3VHaG1NLXpnQ1dnRnNicnl4cFoteFAzZklHTHVLbWVKSW81Qno0X1pYQm54X3hOSHdsQmJJbTBYbUtqd0NSalVtZ2dKQjlaVGlodkJjbHhCeFhxUGw4VzctSU5RaURSNFBsd1hCMlNuVlhxTFVITEJGZw?oc=5",
+   "desc": "Sebi warns traders against manipulating closing auction  PRESS Insider",
+   "source": "SEBI",
+   "publisher": "PRESS Insider",
+   "scope": "india",
+   "ts": 1787137321000
   }
  ]
 }
