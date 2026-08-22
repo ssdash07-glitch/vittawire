@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T07:59:15.508633+00:00",
+ "updated": "2026-08-22T08:41:02.758621+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRXhtX1FMSzdCTWNPbjFaZVR1VjczVFVLRDZwTHgxUTR5N2NQakVGa2dmQVYyYllsQnVub3BzejhPSThZTUNOcVZac2dMeUR0SmV2QjZINmFTRHBaRW10Y1lZQlZpdXJTX3k3ak1sejRGbnZzOEZ",
@@ -60,6 +60,16 @@
    "publisher": "Bitcoin World",
    "scope": "world",
    "ts": 1787351710000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREJFZVl5eWdqekp3WHc5TmFKZEZFb3dad3dZN1I5dXNIbjhza3hVeUFLOWRTNng2ZVBnTkt3RHYxOFp2ckFuWjFCaGdwQTZnVDh3OVVxS1ZhNzBQX1ZFOVhpSVJMMDdtamZ0VnNTa3V2aXY2Vno",
+   "title": "SEBI sets up dedicated task force to tackle AI-driven cyber threats - News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREJFZVl5eWdqekp3WHc5TmFKZEZFb3dad3dZN1I5dXNIbjhza3hVeUFLOWRTNng2ZVBnTkt3RHYxOFp2ckFuWjFCaGdwQTZnVDh3OVVxS1ZhNzBQX1ZFOVhpSVJMMDdtamZ0VnNTa3V2aXY2VnoxZHZWNllFckVDMDliY0JqQnBqSkl0SG1RV1JMRWlZU3lYTw?oc=5",
+   "desc": "SEBI sets up dedicated task force to tackle AI-driven cyber threats  News On AIR",
+   "source": "SEBI",
+   "publisher": "News On AIR",
+   "scope": "india",
+   "ts": 1787345581000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ySWlzYk5nYXJST2Q2aUZUVVNTVGZBd2xFT0VpMllnOWNUOEpLU3ZiMWREeWFwRlpqWnRYQTVjZk8yRjBHd0N6TS1hMnRId25ma004ZTJWNThHMUQ5b0NabmFReEZnQdIBa0FVX3lxTE1qZVlwN2J",
@@ -140,16 +150,6 @@
    "publisher": "Seeking Alpha",
    "scope": "world",
    "ts": 1787323500000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
-   "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
-   "desc": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News  News On AIR",
-   "source": "RBI",
-   "publisher": "News On AIR",
-   "scope": "india",
-   "ts": 1787322075000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHUtM1poLXZNbl80ME0yQ0c0ajdiQ1RPQTd2V2RteTNrcmZVaDctcWxEczlEZHBVVXFDbTIya29Zd1FIWXY2ajhzaWdkMzdZRXlOS2hnRlFtRmJnalZ1M3RGNWVIdldQRTlTZV9DaWhJSjFGRXJ",
@@ -490,26 +490,6 @@
    "publisher": "CNBC TV18",
    "scope": "india",
    "ts": 1787238141000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONHRUbU1kdE1pUGdqd1lWMVhfTU9rc18xMWROeHlFZDVpUmtycW9xcVFEZ3JDTDN0b2p3a2hsQ0pCenIxYno5TFNxSFZGTHY3Z2NwWG02NzNqOEtWZ0VpOWhEQ2pKZzkzVDlla04wc1QwS3BMUDR",
-   "title": "Dhenu Buildcon’s ₹492.5 Crore Market Value Draws SEBI Scrutiny - The420.in",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONHRUbU1kdE1pUGdqd1lWMVhfTU9rc18xMWROeHlFZDVpUmtycW9xcVFEZ3JDTDN0b2p3a2hsQ0pCenIxYno5TFNxSFZGTHY3Z2NwWG02NzNqOEtWZ0VpOWhEQ2pKZzkzVDlla04wc1QwS3BMUDRoUndvcnBfOWcxaHRaZmRuVmZHY2U0TFE3TQ?oc=5",
-   "desc": "Dhenu Buildcon’s ₹492.5 Crore Market Value Draws SEBI Scrutiny  The420.in",
-   "source": "SEBI",
-   "publisher": "The420.in",
-   "scope": "india",
-   "ts": 1787236420000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmxkNGhnd0NfdjVwM2h5bG11WkZTb2tNMGFBZGZJV2J3LTRDVzhLZWxPOXZsbHhGeXc1WTcwclpMUE5EdU9rNnpzcVVROXBHcmM0Z215LTdQN2l0TnJzZUw2XzFsMXpYVUV3VkxzUzNnb3J2Uml",
-   "title": "Sebi Permits IFSCA Entities to Access KRA KYC Records - Rediff MoneyWiz",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmxkNGhnd0NfdjVwM2h5bG11WkZTb2tNMGFBZGZJV2J3LTRDVzhLZWxPOXZsbHhGeXc1WTcwclpMUE5EdU9rNnpzcVVROXBHcmM0Z215LTdQN2l0TnJzZUw2XzFsMXpYVUV3VkxzUzNnb3J2UmlqeTc5U0gydEQwQnppSjhlU3ltd3FYMWxBX0xGQ2FLU1FOaEVnUy0zeXB1ZWUtaExhSUnSAa4BQVVfeXFMTWZrT21ILTlMRFI2VEc4LWtCQVRwZkFGVTZEZGl6a3VzWjNpa2R5WEN4TlpETnRMQmppRnl1YWI5RmJ0dXVrdmN0ck16UzZFUEM5NGdTNTJ4TmxjRnVndGhhWUhfbFpMU1VPYmR3cHdxYW5CVG1HdzlSYVFFcUFOZGZONWpCN2l3eWJzdVpJc1J6MWZFbXVpbXhWT2FyQTdqbHJTTVBKWE5zREFZN1BR?oc=5",
-   "desc": "Sebi Permits IFSCA Entities to Access KRA KYC Records  Rediff MoneyWiz",
-   "source": "SEBI",
-   "publisher": "Rediff MoneyWiz",
-   "scope": "india",
-   "ts": 1787235183000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzV4TmJyWmZ0V182bFdVMTdDeTMtSlVMd3lHNzRHbnpBYnpSR3JiTWxNVnVONDFhQzNqTl9JcS11dWRrTV92TTVDLUJUYjBzVGZjRkd1cTcxOW5Ubk1id21SSWlKTlRoTGtCbVlZeHh1OTNrcTR",
@@ -1200,6 +1180,26 @@
    "publisher": "livemint.com",
    "scope": "india",
    "ts": 1787128660000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT013cFplc3hDcklnR3FUTkYzRXhIQ3Y4a2tVeFg5YTN6RXQwQkx3ZXhUeldUY0w0WXl3Mk0zWEgwWVdOaTRFb2tDZlFEeGQxb0cwUi1hbWtnZTJZZGVEc1YxMHVMdkt1UFNLVlpGT2N1bXN0MlV",
+   "title": "India regulator reviewing small-company IPO, delisting rules, chief says - ETLegalWorld.com",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT013cFplc3hDcklnR3FUTkYzRXhIQ3Y4a2tVeFg5YTN6RXQwQkx3ZXhUeldUY0w0WXl3Mk0zWEgwWVdOaTRFb2tDZlFEeGQxb0cwUi1hbWtnZTJZZGVEc1YxMHVMdkt1UFNLVlpGT2N1bXN0MlVEOXptQl9aZ3ZxYmtYRUh1MUtIS3JSM1JpTkQ4WjlodjI0cHhnX3lkeU9tMUpaVlByU2R3ZlF2c2xHMmJVazlCRElDbGMxUXFzZkJtVGJOQWU4Zm4yTlYwUUQ0dTFCRkRn0gHbAUFVX3lxTE9FMFc5X3lGUDctbzdpMTU0QzRBWUc0V0hSSG5ydndMZmQwZzJLcWo5dE90YURfYVZOcHdvYk5OY01jdWNkdEd0QnFFd1JpcUlSRXczaUNwa1V3cjYxbk90RHdaMDM4Zy1qY3ZqOUNJOXJfSkhwMThYQ3poSmxVSmdQUEpORjNIZFJlU3dia1ZJV0RlQndkb1NGc1pfQ3BhaXZSNm1qTDhzT1ZTaWJpMFRiQS0wR3kzMzN5b1ZzSE5aRnV0RkJLZGJGNjVDUDRqTTZqSzFoRmVIcFo3bw?oc=5",
+   "desc": "India regulator reviewing small-company IPO, delisting rules, chief says  ETLegalWorld.com",
+   "source": "SEBI",
+   "publisher": "ETLegalWorld.com",
+   "scope": "india",
+   "ts": 1787128262000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1I5MXpXNlZROWFfbEhTUlp6Mktnb2JMWXJlSGNldno1RW1rT25ZbGR6T0w0b0EzX1NYVy1BczRKMFpFbUFBTWxVcEY2eHlyT2d4NlcxbFBCeXdJam1rcloxS3E2X1lCVnhMRm0tZDBEM0FpeHV",
+   "title": "Sebi Warns Against CAS Manipulation; System Here to Stay - Rediff MoneyWiz",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1I5MXpXNlZROWFfbEhTUlp6Mktnb2JMWXJlSGNldno1RW1rT25ZbGR6T0w0b0EzX1NYVy1BczRKMFpFbUFBTWxVcEY2eHlyT2d4NlcxbFBCeXdJam1rcloxS3E2X1lCVnhMRm0tZDBEM0FpeHVsaC1wN0p5UFp0S3RndjRhdXhtSzhSUlFfZER5NkZ3SS1GQmdLVTNEUF84VDNHamNnXzhlVmPSAbABQVVfeXFMTUZoa1lfelM1RkRqVWQ5VjgzbUlmc01BMVZfN054SXE2T0FweXdNOWRyZ2M1bWdvZGoyejlUUG1mWHpNVHd6Wks4SC1uTVNBNm9qMHkxY1pJbnlSVkRDR2NBSVNKRzlUUFplTjlCYXFiRnhfcXNxOE1IQ3l2ZVRjcTYwYlYxYi0wOW9jV1gxc09iWFh0YkdnNWpxZi1kSmZaejVBVks4ckQ5azk3SF81SGE?oc=5",
+   "desc": "Sebi Warns Against CAS Manipulation; System Here to Stay  Rediff MoneyWiz",
+   "source": "SEBI",
+   "publisher": "Rediff MoneyWiz",
+   "scope": "india",
+   "ts": 1787126615000
   }
  ]
 }
