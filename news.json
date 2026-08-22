@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T13:35:33.192576+00:00",
+ "updated": "2026-08-22T13:57:18.161985+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNelVkSEw0UXFVYzlBRGxPZVBDWjY1OGVPZ0x5cnBuOXhIOUJMcWpjdXZSM01kdnJFLTRKS2ZnZWUtQjJJbzJocXk0cDhhZi03bjJSNjRaWnJHd3ZfbVc3Wko4enBkQVRwMkVvTHRuT01ta093MUh",
@@ -9,7 +9,7 @@
    "source": "US Fed",
    "publisher": "The Motley Fool",
    "scope": "world",
-   "ts": 1787404608000
+   "ts": 1787405846000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcXV2WGd0YlNreXlmbjVDVzhWZUwtQThmeTMwbk91WjRUWVRydTc2Z1RNS2FZVVY0V3ZKUUlvRnkzWmg1ZXhXVEMxUGFUX21JRTFSZndGNVJfV0ZPQ2lIU1N3NDh2REN3OUV5ZjdkSzlHRDFkaUl",
@@ -360,6 +360,16 @@
    "publisher": "USA Today",
    "scope": "world",
    "ts": 1787260380000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMnpuanlrQW5PZHljTlV3ZWE1VTZLcklkQmZnTFNvSXlxOEFVM0JHX2htXzBGdEpYdlZ1QVVIbHRIRXpNMWR2ZkREa19LaGJRUFg1VnU2Tzl6R1JrbUs1VW5aalpJV1M1WVBCM0JhX1dHZ1hLSGF",
+   "title": "NABARD conducts financial inclusion session for students - The Arunachal Times",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMnpuanlrQW5PZHljTlV3ZWE1VTZLcklkQmZnTFNvSXlxOEFVM0JHX2htXzBGdEpYdlZ1QVVIbHRIRXpNMWR2ZkREa19LaGJRUFg1VnU2Tzl6R1JrbUs1VW5aalpJV1M1WVBCM0JhX1dHZ1hLSGF5QkVEdGpldUZTU2k4MXkzU3JfaElBWnF6eG4yN0dE?oc=5",
+   "desc": "NABARD conducts financial inclusion session for students  The Arunachal Times",
+   "source": "NABARD",
+   "publisher": "The Arunachal Times",
+   "scope": "india",
+   "ts": 1787254560000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNjRlS1VNTzlNbHNvOHE0QXllX1Atdmx6WGJFX1N2Y3Q0ZEF3cFVmMlp6SUhoeHZMMmRpOXhuNWxsT0wwYVNTcWMyTTJQNmREVW1pVm1qbnBGR0NwRzMtYlVDQllsV1NZdXQ0UG1qNG1OQ0FlOHV",
@@ -822,6 +832,16 @@
    "ts": 1787171568000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWERIM2I3T0tzZWlQc3dWSzVhX1Z4eGdwbDl3d1N4VUZrWXcwQnpGSVNKbC1aWTU1Z1g4anRBaG15Y3BIT3NhS0YzSGtxSWlnOGpNSlA0ODRZTnBmREwzTWZObHJ6VE1ra25qc2lSRDdGY0VBQWY",
+   "title": "Bond yields fall after Treasury announces surprise move to ease rising rates - NBC News",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWERIM2I3T0tzZWlQc3dWSzVhX1Z4eGdwbDl3d1N4VUZrWXcwQnpGSVNKbC1aWTU1Z1g4anRBaG15Y3BIT3NhS0YzSGtxSWlnOGpNSlA0ODRZTnBmREwzTWZObHJ6VE1ra25qc2lSRDdGY0VBQWY5Q0RCWDFBNVNDRVRBRTJqMGJ2YWF5QmRQZHR0Y0Jo?oc=5",
+   "desc": "Bond yields fall after Treasury announces surprise move to ease rising rates  NBC News",
+   "source": "US Fed",
+   "publisher": "NBC News",
+   "scope": "world",
+   "ts": 1787171362000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbzRVc1Z4bTd5THJ4V08yaHBHSGZ0Z0FtMU9wMWlRTGk0dlNuSklqYjUwQmYzZnlvTHJ5TGRfYkFKYzFXRmdlNEZkNThha0V1VFF3c2s2YkotcWNjcVpvVklEZlpoQTNWQ3l6OWhuTFN6d1ZUMGF",
    "title": "Many Fed officials flagged inflation threat, possible need to hike rates - CFO Dive",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbzRVc1Z4bTd5THJ4V08yaHBHSGZ0Z0FtMU9wMWlRTGk0dlNuSklqYjUwQmYzZnlvTHJ5TGRfYkFKYzFXRmdlNEZkNThha0V1VFF3c2s2YkotcWNjcVpvVklEZlpoQTNWQ3l6OWhuTFN6d1ZUMGFHV093a3UtRzVKQlpwQlBBRjZaU003T1hHbTc4bWRwLVd2TzhzWG1PREhYM1ZrcW0tZ3VFZEZ5S19NT25wYnJtTTBFdXpkV2p3?oc=5",
@@ -1180,26 +1200,6 @@
    "publisher": "Business Standard",
    "scope": "india",
    "ts": 1787142079000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMF9adjlpRlYzb2pmUEh0YnEtX3FHTjBFOWZHM1F0cGVadEtkYlUxNEE5X0ZCTkxmaE1rbzVMOEo3Wk56dFhMSUFUUHZxeVE3a0lQUW0xMUtsLXpiRnJkOWZObHJKWHFnODl5UXpPYlFaVExwM2t",
-   "title": "What to watch for in the next Fed minutes - marketplace.org",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMF9adjlpRlYzb2pmUEh0YnEtX3FHTjBFOWZHM1F0cGVadEtkYlUxNEE5X0ZCTkxmaE1rbzVMOEo3Wk56dFhMSUFUUHZxeVE3a0lQUW0xMUtsLXpiRnJkOWZObHJKWHFnODl5UXpPYlFaVExwM2tYc3hhNzlJc2hUVFZQOUpGMGZrYmZHWkpB?oc=5",
-   "desc": "What to watch for in the next Fed minutes  marketplace.org",
-   "source": "US Fed",
-   "publisher": "marketplace.org",
-   "scope": "world",
-   "ts": 1787141520000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZEY0dXE2dnJQVzJOTGlzbUhWQTRnSjgxSDMxcnJPUzNadEplZndLdmFrLWl3S05TNkJRVUZMaGJxUERZRXBmanM0ZUlTZUthSDZUZlJxcDBHN21uTTB1Yk5nZjF1bGctREhVeFhRSzVhQUZzRS1",
-   "title": "Mint Explainer | Why Sebi wants to revamp its settlement framework - livemint.com",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZEY0dXE2dnJQVzJOTGlzbUhWQTRnSjgxSDMxcnJPUzNadEplZndLdmFrLWl3S05TNkJRVUZMaGJxUERZRXBmanM0ZUlTZUthSDZUZlJxcDBHN21uTTB1Yk5nZjF1bGctREhVeFhRSzVhQUZzRS1ZR19YMlZDY0xHRzczM3ZPRTFjd0FXSnpaV0J3dTdnemxHZmhvWXJqX0h5eEI5Z3RxN3VWUk5kcXBjZlRDb0F4a1luX3J1Y3BaZVpRXzlkMVlJ0gHMAUFVX3lxTE9OdlU5ZkgyTFJuRm9iN252T0NhN1Jud2VQM1FuTlIzWVFfWGVBenV3alN5WENLbGVOaC10RkVZTzhONVJoRUJ5TGNLdmxlVzF0N0h3dXh2TEVWQkY0OTdIQk9wYWtTU1haeFQyZGFhVzBRanZ0OVBLbnpDOXVHRWxRWE9WUlEyeDAzckNsME1NVXVvWF9iZ3BjR2gtbXBZcEdrWDVHVnJrYjJZNTJXUFlUUXNjZDBOd0x4a3JXSFh6Tzh0WDZNT2hsSDNmMQ?oc=5",
-   "desc": "Mint Explainer | Why Sebi wants to revamp its settlement framework  livemint.com",
-   "source": "SEBI",
-   "publisher": "livemint.com",
-   "scope": "india",
-   "ts": 1787139348000
   }
  ]
 }
