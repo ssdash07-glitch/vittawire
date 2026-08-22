@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-22T07:35:58.060662+00:00",
+ "updated": "2026-08-22T07:59:15.508633+00:00",
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRXhtX1FMSzdCTWNPbjFaZVR1VjczVFVLRDZwTHgxUTR5N2NQakVGa2dmQVYyYllsQnVub3BzejhPSThZTUNOcVZac2dMeUR0SmV2QjZINmFTRHBaRW10Y1lZQlZpdXJTX3k3ak1sejRGbnZzOEZ",
+   "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent - Al Jazeera",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRXhtX1FMSzdCTWNPbjFaZVR1VjczVFVLRDZwTHgxUTR5N2NQakVGa2dmQVYyYllsQnVub3BzejhPSThZTUNOcVZac2dMeUR0SmV2QjZINmFTRHBaRW10Y1lZQlZpdXJTX3k3ak1sejRGbnZzOEZ4TVBuLTROTmVvOFJjX2EyMkJ1MFAxcE8wY0U2SlVqQVpZSk9OVzd5c2pBNjR3ZDlKQnFFTURhT29nLWNn0gG3AUFVX3lxTE5KX1Q5MWNGdTBzbXdqb01NRUtmb2NfZDR3a0NIN0tkT3FXeGRfOTRhYmtmS0RwaGtfR2QtM3p1ekt6MVdKcHMydmVrdllQd2IycjJQa2hMZDJseDFOclhyZG90Rk5NV3dtbkpEY09OUUthcVgyaXQzel9uTnowMGZSVTJOczFDeV93YmZpSVpvSTh6TzNjaFhtUkVnbnFVN1FoTFRsMWpxb2tibDVoUklFSFpRclg3QQ?oc=5",
+   "desc": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent  Al Jazeera",
+   "source": "IMF / World Bank",
+   "publisher": "Al Jazeera",
+   "scope": "world",
+   "ts": 1787384271000
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rb0NmbUVuZXhGVk1nbFN0RndCenhRVzVJVVJ1dVB2bjJ3MHBHdmRQSkFocHV5RHhueEdEZUNWS3ByOWV0Z3I4ZE5WNkhlX0hXMTBTMkhtX0E3RW5QdTNhdGh6cV9nb01Zc1JtbGJrOA?oc=5",
    "title": "Treasury Yields Rising August 2026: Investor Guide to Bond Market - Intellectia AI",
@@ -52,16 +62,6 @@
    "ts": 1787351710000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREJFZVl5eWdqekp3WHc5TmFKZEZFb3dad3dZN1I5dXNIbjhza3hVeUFLOWRTNng2ZVBnTkt3RHYxOFp2ckFuWjFCaGdwQTZnVDh3OVVxS1ZhNzBQX1ZFOVhpSVJMMDdtamZ0VnNTa3V2aXY2Vno",
-   "title": "SEBI sets up dedicated task force to tackle AI-driven cyber threats - News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREJFZVl5eWdqekp3WHc5TmFKZEZFb3dad3dZN1I5dXNIbjhza3hVeUFLOWRTNng2ZVBnTkt3RHYxOFp2ckFuWjFCaGdwQTZnVDh3OVVxS1ZhNzBQX1ZFOVhpSVJMMDdtamZ0VnNTa3V2aXY2VnoxZHZWNllFckVDMDliY0JqQnBqSkl0SG1RV1JMRWlZU3lYTw?oc=5",
-   "desc": "SEBI sets up dedicated task force to tackle AI-driven cyber threats  News On AIR",
-   "source": "SEBI",
-   "publisher": "News On AIR",
-   "scope": "india",
-   "ts": 1787345581000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ySWlzYk5nYXJST2Q2aUZUVVNTVGZBd2xFT0VpMllnOWNUOEpLU3ZiMWREeWFwRlpqWnRYQTVjZk8yRjBHd0N6TS1hMnRId25ma004ZTJWNThHMUQ5b0NabmFReEZnQdIBa0FVX3lxTE1qZVlwN2J",
    "title": "Federal Reserve holds interest rates steady - FOX 35 Orlando",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ySWlzYk5nYXJST2Q2aUZUVVNTVGZBd2xFT0VpMllnOWNUOEpLU3ZiMWREeWFwRlpqWnRYQTVjZk8yRjBHd0N6TS1hMnRId25ma004ZTJWNThHMUQ5b0NabmFReEZnQdIBa0FVX3lxTE1qZVlwN2JhdWlKV0JBcTBKVU03emxaZF9GMjBNQ2NhSmRzVXk0d081ejJjSWctNHQ0OWZCekwwZXJsbzE3OEN0NkFITElQZWVTaHNWa1djVGc0djBTS0JXeXJuOXB5U05vemZj?oc=5",
@@ -100,6 +100,16 @@
    "publisher": "finance.biggo.com",
    "scope": "world",
    "ts": 1787336340000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWt0a0pjUS1keW9xb0RENkFWYzhta2JreFNRUldrS1ZkRFRVRVNxSUZJUU1vaklGMHFnYktJenhrQmZRQzlpM1JUUkFPRldwOEpMV0pXdkJzeUVabU1kX29JRFRNNVFMMDlhZHNkRnlHenNvMnI",
+   "title": "3 Healthcare Funds to Play Safe as Fed Readies for Rate Hike - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWt0a0pjUS1keW9xb0RENkFWYzhta2JreFNRUldrS1ZkRFRVRVNxSUZJUU1vaklGMHFnYktJenhrQmZRQzlpM1JUUkFPRldwOEpMV0pXdkJzeUVabU1kX29JRFRNNVFMMDlhZHNkRnlHenNvMnIxMEZDWG80VERTU3hhY0lEUTNxUDlMaFJNRlJNLXNfbVBUdDA4TXN0Rzl6TmJpczdDUmZyY1ZGeEhnNG91NGY3bFU?oc=5",
+   "desc": "3 Healthcare Funds to Play Safe as Fed Readies for Rate Hike  TradingView",
+   "source": "US Fed",
+   "publisher": "TradingView",
+   "scope": "world",
+   "ts": 1787329680000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iOG4yNU54NVI3QThUbE1DMlcwLUtDVmhtYkRnR2FCcTY0NUpvWlRVUHo1U3ZDal81bmpvdzMwSXEzZk9oSmFWLUVOSWhfcFJMUGJ2M2ZvdHd4Rll3R0RDaGJJTXlsaHI3anR2MnViTGVPTEZhZmc",
@@ -852,16 +862,6 @@
    "ts": 1787171077000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNVXYwTGxaSTdxcWhoMlVGRkZRcV9OWTNTWFQ0SmVwSXZLQkVhZWE1Uk16M2FQQlpsWC0tZXJXV1pGY0lONWVIVUx1ekcxcGdtdHlyT0JNVHl5bWxBcmI5LUY3ZEdHSG5QQVE?oc=5",
-   "title": "Several Fed officials signal support for higher rates - Transport Topics",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNVXYwTGxaSTdxcWhoMlVGRkZRcV9OWTNTWFQ0SmVwSXZLQkVhZWE1Uk16M2FQQlpsWC0tZXJXV1pGY0lONWVIVUx1ekcxcGdtdHlyT0JNVHl5bWxBcmI5LUY3ZEdHSG5QQVE?oc=5",
-   "desc": "Several Fed officials signal support for higher rates  Transport Topics",
-   "source": "US Fed",
-   "publisher": "Transport Topics",
-   "scope": "world",
-   "ts": 1787169249000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUFjdmxUb2VzOFR4b1NuZnB4aXdGWUVJSUhUaXhzR0RhWVVtdVp3NzRHRkhFc090ZVlBT3ZHSTVtSWxZNEFxWkNiaUZpd00yZW81SlQ2MzM3X2d5ZzRULVZtdG5rRkk1LU9jMVBSbURuQnRwTW5",
    "title": "‘Manipulative’ trades during CAS on expiry day: Sebi bans 2 entities - MillenniumPost",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUFjdmxUb2VzOFR4b1NuZnB4aXdGWUVJSUhUaXhzR0RhWVVtdVp3NzRHRkhFc090ZVlBT3ZHSTVtSWxZNEFxWkNiaUZpd00yZW81SlQ2MzM3X2d5ZzRULVZtdG5rRkk1LU9jMVBSbURuQnRwTW5kQkw3c0JHRHNTZEg5a0JLcjgzV0t3bzZMNTlMcVZKaHdmR2FHWTdoYlhzQUhXekdGMmNMT1ZvYlVQZtIBtgFBVV95cUxQNUxZbVk0VE02T2NnM1V2V19MUGRMTFg3SkpLUTczZFkyaGp6dkZPSFI1ZEVob011LU5ncnphMUxtUWJPREUyUTBoOXlTdkpJazl4VGcwX3ppcEdLX2Z5Nzk0RDFYRC14dnVMUi04Nl9iMUVvcTQ1WXFSdVBuc05KQ25zMDBKeTA5UHJjeHBRLV8zMHZMYmR5WXpjbmhDdlYxNVJnQy1iY2JBUWV6ZVZhLVRqbDkzUQ?oc=5",
@@ -870,16 +870,6 @@
    "publisher": "MillenniumPost",
    "scope": "india",
    "ts": 1787168189000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPenZvUUNSSTA5SkRUODJzV3NYa3NObWhqc2RQVi05Z2dvUERGTGN2cEVVbVFKeFNFS0VsellpNWhEZ0d1dmtINEFRVFlwRHZUT0I4Vl9aNW1lQVZDSzgzLVZPUXVsaldFa1cxM29jUlBnNlpIYmR",
-   "title": "Latest Federal Reserve minutes show more support for rate hikes as inflation fears mount - New York Post",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPenZvUUNSSTA5SkRUODJzV3NYa3NObWhqc2RQVi05Z2dvUERGTGN2cEVVbVFKeFNFS0VsellpNWhEZ0d1dmtINEFRVFlwRHZUT0I4Vl9aNW1lQVZDSzgzLVZPUXVsaldFa1cxM29jUlBnNlpIYmRKaWJGdmh6b0l5WUdUVl91NUpyRlBja0pmRXZWMy1LTTNxNXQ4MHh4UDltNDlQQTlyYVUxTGM3a3plbTlWakxZblp3eGJJYkM0WUpkVVRWN3NV?oc=5",
-   "desc": "Latest Federal Reserve minutes show more support for rate hikes as inflation fears mount  New York Post",
-   "source": "US Fed",
-   "publisher": "New York Post",
-   "scope": "world",
-   "ts": 1787167620000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVo5OU5OQlk3bHpRcUlzMVNsNDEtLTQ1a05Zb1NoUldHZUtvcWMybE9WT1lQZkJFYXlBSXFwNEg0cGY1SE0zMUR2N1NrQzBpMi04Y0ppeTlTbEtNdWhETFRYN3NZdmlzQ3ZKOERrZ3NYVTBLem5",
@@ -910,16 +900,6 @@
    "publisher": "Realtor.com",
    "scope": "world",
    "ts": 1787164913000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcENKUFV0YnZENWxIcVFhUHdFTzZYc1hxQlQwWktnMUl1LXhpc0dYMGFzM1RBRjFUVXFzZVVUVUVuVlF1T3JfNkRHOEUtREJldXhXeVF2WFQzbllkbkdJNzRGbHFjbXpDSWFpbkZxLUZrcS1jNmE",
-   "title": "Federal Reserve officials express rising concern over persistently high US inflation - Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcENKUFV0YnZENWxIcVFhUHdFTzZYc1hxQlQwWktnMUl1LXhpc0dYMGFzM1RBRjFUVXFzZVVUVUVuVlF1T3JfNkRHOEUtREJldXhXeVF2WFQzbllkbkdJNzRGbHFjbXpDSWFpbkZxLUZrcS1jNmEtNXJBa0dQY2VLdzRvTzA?oc=5",
-   "desc": "Federal Reserve officials express rising concern over persistently high US inflation  Financial Times",
-   "source": "US Fed",
-   "publisher": "Financial Times",
-   "scope": "world",
-   "ts": 1787164312000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTm96dEFucnAxQkNTQmowckpUNXNtNmFfU1BEakd3ZE85Wm1mR1BWZUhJZzFBTFNfYkFtbzdFMW16dWxSbEYwMHNvWnJ0dE1VODNZeGtWVDl5ZlFEcFVLUjVNd0dDb3QtLVhMc083WlJpYTVqOVk",
@@ -1200,6 +1180,26 @@
    "publisher": "The Assam Tribune",
    "scope": "india",
    "ts": 1787130399000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX1NqREVMTXgtV3BVZDNaU19sb3RqeTcxWG5YbFZ5dkh2cUctc0ZYdVNEMEs2SUdhMkw0eW03ajczSXZLTWpFMzlYdS1qZ2loaUh0YkxyY3Etd2x2b0RzZDlIM2doMW56UUhYSWxNSy1ZRjluNlR",
+   "title": "SEBI to soon issue AI, machine learning guidelines for capital markets: SEBI Chairman - Mid-Day",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX1NqREVMTXgtV3BVZDNaU19sb3RqeTcxWG5YbFZ5dkh2cUctc0ZYdVNEMEs2SUdhMkw0eW03ajczSXZLTWpFMzlYdS1qZ2loaUh0YkxyY3Etd2x2b0RzZDlIM2doMW56UUhYSWxNSy1ZRjluNlRSM1Qta2RKWHZIekNCNFJFa3kwWXVwbjBnZkMtekFaSEZXNER3Tk1RLWZDakhYM0x4YndvYWhPTUpPSkxJQllQUDdORnFzZDBxczBGOEN3YllBa1pHVGpGQm1uZGQxVEJzbTZuOUxDT3k4OdIB5gFBVV95cUxQTGFuSEtPRExwWnJRTEk5cFNjY0J1UTVLOGpiUEg3LTBGdWktUXdBVUJvSHFrbHdncUV3Tk41Z1F4OGRfWnA2dVBzeDkyTkFSMEh5R050dTJIcDNIYy1wVnJDa2FhX2hQQmw2NV92SXFhOWFTQ0R5NE5fRWN5dEtCQVR1eGxyYUtqN3JodjNOY0dKY2FDTzMtdm9GOHFvREkzUWVEaEhhVHN6VHFMZnJQbGd3Vi1QZzhrODZZUW1Rem5JcWh0MFhQNEEyUEdDcWV3dTdYbFJzSW5CM0R4V2JfOXZnU2VCZw?oc=5",
+   "desc": "SEBI to soon issue AI, machine learning guidelines for capital markets: SEBI Chairman  Mid-Day",
+   "source": "SEBI",
+   "publisher": "Mid-Day",
+   "scope": "india",
+   "ts": 1787130060000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPR2J3ejIxa08ydHRRMmlya2xJYmQ2M2Z3RjU4a3RFTGZRZ2gxbGNPc1g4R3J3TEZkby05alRqS0RIZ21uQ1ZOdG1fczZjMFNReVpTRmdHQ1l2MG1wUGN2Y0N1b2JEaXFnVGtFeXhuQzI1LWhQUVF",
+   "title": "User claims ₹1,200 credit-card charge after 46-paise shortfall; bank responds, here’s what RBI rules say - livemint.com",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPR2J3ejIxa08ydHRRMmlya2xJYmQ2M2Z3RjU4a3RFTGZRZ2gxbGNPc1g4R3J3TEZkby05alRqS0RIZ21uQ1ZOdG1fczZjMFNReVpTRmdHQ1l2MG1wUGN2Y0N1b2JEaXFnVGtFeXhuQzI1LWhQUVFPWXZTMGdNd2lHaWNqU0xDb0I2RmFTUWFTOVRsQ3RieFJGRFE2UkR5MUtmZ1JvVnhVdU53WWFHaHk0NUZnOUZoMmw1bWhOSzFNMW1LV2xmamVvRnQtTU44NjFkV3RoRFduQXF5Z1Z1VmpvX0QxWFhEYWVQdmh3eE5qeVF4cExjYlBkT2pLbUc0UdIBgwJBVV95cUxPTjRYVTFWck1jaUR6T1JZamFrTjhZcFlsdXpQcERBTjd1N3YxSXEyT2tBOENPU1o2VmFnYzlhSnI2QzU1VWhVWVliSEpxakZpQWpoV2g4MC1uS0xVOXBTNVp2WDB2bmwySFZSbVV3Xzg1SGYwQm10SEhvbHVYbU9rLTVJWW4zZG9YNTRpYUhtMVN5ZERlYXhZekR4bGN3bXptdGVsX3RpS193MkZpUkhRWGhLamtwZUFVbVduVllQX1pJSGQ0M3A4TjM2cWppbUotT3ZPZmhVNnphMndreXlhZ0o1NjBWcVAyMkdSUzhyVlNXSTVUc2k1NzVJdk11eUx4Zjh3?oc=5",
+   "desc": "User claims ₹1,200 credit-card charge after 46-paise shortfall; bank responds, here’s what RBI rules say  livemint.com",
+   "source": "RBI",
+   "publisher": "livemint.com",
+   "scope": "india",
+   "ts": 1787128660000
   }
  ]
 }
