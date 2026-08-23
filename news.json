@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T13:58:14.430301+00:00",
+ "updated": "2026-08-23T14:32:32.781181+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
@@ -110,6 +110,16 @@
    "publisher": "CryptoRank",
    "scope": "world",
    "ts": 1787405766000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRG1IQUI5WDdnaEtBS3BRbGhMNGdTWWRacENsd1NHS2ppVzBmbG9PRGR0WWgxYUhNYlN3MjdjczVmNHBZSG81TEJ0TmdlUUNCbVZGV3k3MGhEWHNGdDFZRFdqY1pBT0F6RFJhSk96LWMzUEFSMVh",
+   "title": "U.S. Federal Reserve Officials Signal Openness to Higher Interest Rates - Tekedia",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRG1IQUI5WDdnaEtBS3BRbGhMNGdTWWRacENsd1NHS2ppVzBmbG9PRGR0WWgxYUhNYlN3MjdjczVmNHBZSG81TEJ0TmdlUUNCbVZGV3k3MGhEWHNGdDFZRFdqY1pBT0F6RFJhSk96LWMzUEFSMVh0Nk5UT0RYVHJLX1NDOU5TSUllMGVDNjFxZjdSMENqNmFRYVJkTQ?oc=5",
+   "desc": "U.S. Federal Reserve Officials Signal Openness to Higher Interest Rates  Tekedia",
+   "source": "US Fed",
+   "publisher": "Tekedia",
+   "scope": "world",
+   "ts": 1787403527000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMGVoRzBZQ2k5M2VZcFotWVYyTG9pNzc0VF9taEJsb1FfZmxyY2pBZEluUVlWQmpIUElFMzJZbTFBRzNPd3NxRzAtcTZZWjZIalZXTEh2RkhsNGFmRDdNWldPb0YxYlM1QU5zQlltbzdFUXdLUUE",
@@ -952,6 +962,16 @@
    "ts": 1787168655000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUFjdmxUb2VzOFR4b1NuZnB4aXdGWUVJSUhUaXhzR0RhWVVtdVp3NzRHRkhFc090ZVlBT3ZHSTVtSWxZNEFxWkNiaUZpd00yZW81SlQ2MzM3X2d5ZzRULVZtdG5rRkk1LU9jMVBSbURuQnRwTW5",
+   "title": "‘Manipulative’ trades during CAS on expiry day: Sebi bans 2 entities - MillenniumPost",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUFjdmxUb2VzOFR4b1NuZnB4aXdGWUVJSUhUaXhzR0RhWVVtdVp3NzRHRkhFc090ZVlBT3ZHSTVtSWxZNEFxWkNiaUZpd00yZW81SlQ2MzM3X2d5ZzRULVZtdG5rRkk1LU9jMVBSbURuQnRwTW5kQkw3c0JHRHNTZEg5a0JLcjgzV0t3bzZMNTlMcVZKaHdmR2FHWTdoYlhzQUhXekdGMmNMT1ZvYlVQZtIBtgFBVV95cUxQNUxZbVk0VE02T2NnM1V2V19MUGRMTFg3SkpLUTczZFkyaGp6dkZPSFI1ZEVob011LU5ncnphMUxtUWJPREUyUTBoOXlTdkpJazl4VGcwX3ppcEdLX2Z5Nzk0RDFYRC14dnVMUi04Nl9iMUVvcTQ1WXFSdVBuc05KQ25zMDBKeTA5UHJjeHBRLV8zMHZMYmR5WXpjbmhDdlYxNVJnQy1iY2JBUWV6ZVZhLVRqbDkzUQ?oc=5",
+   "desc": "‘Manipulative’ trades during CAS on expiry day: Sebi bans 2 entities  MillenniumPost",
+   "source": "SEBI",
+   "publisher": "MillenniumPost",
+   "scope": "india",
+   "ts": 1787168189000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVo5OU5OQlk3bHpRcUlzMVNsNDEtLTQ1a05Zb1NoUldHZUtvcWMybE9WT1lQZkJFYXlBSXFwNEg0cGY1SE0zMUR2N1NrQzBpMi04Y0ppeTlTbEtNdWhETFRYN3NZdmlzQ3ZKOERrZ3NYVTBLem5",
    "title": "Fed Talked Rate Hike if Inflation Fails to Cool Further - U.S. News & World Report",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVo5OU5OQlk3bHpRcUlzMVNsNDEtLTQ1a05Zb1NoUldHZUtvcWMybE9WT1lQZkJFYXlBSXFwNEg0cGY1SE0zMUR2N1NrQzBpMi04Y0ppeTlTbEtNdWhETFRYN3NZdmlzQ3ZKOERrZ3NYVTBLem51bEVSRG44ZU40TUZHWGNWVmpTYkxMa1ZvNE1oM3FDYkhRTWtpY2lBcklidV9EVk9JXzQ3eE0zNndtZ1REV2VLNHZ3?oc=5",
@@ -1180,26 +1200,6 @@
    "publisher": "Moneycontrol.com",
    "scope": "india",
    "ts": 1787145197000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOHFHM1ZLamNIdVJyTkZYNnd3YnIxRklaSHdtdVF3ZVZhZlRXazEtQjMtSkJvSk9wUm1FeVdkRlBQcnRCbHlWUDRXZ2RVQ04ySG9pWmZDT2Y4SzRiUWhJcHZScUswanhVZXlsYW1mVDREZkF2N0J",
-   "title": "Rate Policy Tweak On Cards? RBI MPC Minutes Puts Blame On Food, Fuel For Higher Inflation - NDTV Profit",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOHFHM1ZLamNIdVJyTkZYNnd3YnIxRklaSHdtdVF3ZVZhZlRXazEtQjMtSkJvSk9wUm1FeVdkRlBQcnRCbHlWUDRXZ2RVQ04ySG9pWmZDT2Y4SzRiUWhJcHZScUswanhVZXlsYW1mVDREZkF2N0JjSVZnS05icFl0VGNGQlBBZUpMTG1jakxSUnNwN2ZDYWNhTEZSYnM1ZFN6UEczTUJzRDVYSUMxbEgwT3JfNElPalQtTVFZRXRDR3NyWjdKSlpSblR6Y9IB0wFBVV95cUxObUpCV080Z1hVa1JxTEpuODZQQXNZbGZJcHNIVDJLN1dRS1ZGNDdfWUN6NWlpcnE0VVR4SEZVSzNhcVJMSkYtTjRxd2FIcDBHNzRVM3ZndGZIM3JpVzQzRGdxRVQtZFZidkktd3poSTFPQUJqcFVLSC1yVG5pcEM5bUZVYmRDVnRwNDJZcXdHQ0xMVE9rVHZkQ0tMT2lfaW9CM2d2dGhKa1dzc3dMTEtXNE5GWTlDV1NkSjBIU0wxVE1aSlRRVllodGtsWlNBaERxLWJR?oc=5",
-   "desc": "Rate Policy Tweak On Cards? RBI MPC Minutes Puts Blame On Food, Fuel For Higher Inflation  NDTV Profit",
-   "source": "RBI",
-   "publisher": "NDTV Profit",
-   "scope": "india",
-   "ts": 1787142788000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVTNlbjZuRHkwVTk3Y2h3V3B3MDFjUEpnUC1RRVBhbUd4VWZiWlVwRDVUdHB1U3l6UjBnTjllRzBlWE1wbERxZ3plamNhTVFtZ2Vqb1NyTU9mYS05QUl0aDY5YnZpNkF3Mjh1WnlDWTVOSXFsb3p",
-   "title": "RBI's rate-setting panel hints at future policy tightening if inflation persists - livemint.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVTNlbjZuRHkwVTk3Y2h3V3B3MDFjUEpnUC1RRVBhbUd4VWZiWlVwRDVUdHB1U3l6UjBnTjllRzBlWE1wbERxZ3plamNhTVFtZ2Vqb1NyTU9mYS05QUl0aDY5YnZpNkF3Mjh1WnlDWTVOSXFsb3phQTYzZl9aU19tQ3dldmZwQmJQRzlDY0JMMFNhbWRkczVKV1ZvVUpibG9HOVpQZ29PeExLUEQtMTNXelJR0gG3AUFVX3lxTE9VT2owaktncFNVQXJDeEJRb21tRDE2LXR4UHlLbnhEajVfRk5HMDNib0ZDck41blh1VGppVDRRbzduWmRKTnl5QzdDWGk5MXVtZWZ0QUIzNjdZYVluZnA2M09QS3ZxT3JIRExOem04UWh1TXRZT3lpMEc3T2JPWnFldlJxNjdEWkdocGt3SXdKUlh0UUNCT1gxRzliRURhU3RsSDEtR1ZSWklWNko3OUdsU3d5ZThuTQ?oc=5",
-   "desc": "RBI's rate-setting panel hints at future policy tightening if inflation persists  livemint.com",
-   "source": "RBI",
-   "publisher": "livemint.com",
-   "scope": "india",
-   "ts": 1787142333000
   }
  ]
 }
