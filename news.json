@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T17:55:05.396045+00:00",
+ "updated": "2026-08-23T18:36:48.418233+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
@@ -40,6 +40,16 @@
    "publisher": "vinanet.vn",
    "scope": "india",
    "ts": 1787437428000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21",
+   "title": "Will the Fed raise interest rates this year? Divided economists weigh in - ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
+   "desc": "Will the Fed raise interest rates this year? Divided economists weigh in  ABC News - Breaking News, Latest News and Videos",
+   "source": "US Fed",
+   "publisher": "ABC News - Breaking News, Latest News and Videos",
+   "scope": "world",
+   "ts": 1787432624000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYmJwRjBHUklYTEl6YzFGYW1uVTZET3B5TTBUMHpBemk1S3QxOF9pNWNaYmtYQlllYWZPVk8zU0lScDNjb1RCb1A4TUlteVNpdFVuMEtxR2F1YWhaU1ZmVjI4cXYzak5NZlhTZGgyNGNDWTFKMl9",
@@ -130,16 +140,6 @@
    "publisher": "The New York Times",
    "scope": "world",
    "ts": 1787389352000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzE",
-   "title": "Fed holds interest rates steady as inflation hits 3-year high - ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-   "desc": "Fed holds interest rates steady as inflation hits 3-year high  ABC News - Breaking News, Latest News and Videos",
-   "source": "US Fed",
-   "publisher": "ABC News - Breaking News, Latest News and Videos",
-   "scope": "world",
-   "ts": 1787389209000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oWVZvS0pTS3pjRWd6Y0ZaMjZES2lhZHRfN24tdkthWXI0S1hqcjZwcHlCV0VSLWhIVnRVVmJHRUVUUjR2NWZnVTljVWVCblRqNXFoRUJZRmhxdVE?oc=5",
@@ -322,16 +322,6 @@
    "ts": 1787295060000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS3pZZXo0dzNVSXdOd21OYWtiMVFIZ0V4MTZLMmNBbVVnUDFQWkxIVm1IeFhaUFJ5YXlyTUpnU1BqTFhoTDdOWkx3aFMxR3RYalQtbENvY0ptME1kMWZrXy04dmxOYWhCZnQ3TUQxRFRGMmZCamx",
-   "title": "NABARD trains AUS agriculture students on banking, agri-credit and rural finance careers - The Sentinel - of this Land, for its People",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS3pZZXo0dzNVSXdOd21OYWtiMVFIZ0V4MTZLMmNBbVVnUDFQWkxIVm1IeFhaUFJ5YXlyTUpnU1BqTFhoTDdOWkx3aFMxR3RYalQtbENvY0ptME1kMWZrXy04dmxOYWhCZnQ3TUQxRFRGMmZCamxNMUFDS1pGN0V1NjV1ajFaRlJUMFJDYndYa3Y2Y01GSUtsNEd4bW5salprWVpzTlpET0tobHFXeW45ZXVseElNelJJb1ZKZFBIM2NhRGo1aHdMTXgwQkg4clNRSF9hUWVnNGJnRVkyOWZyWGlKS1NUM1VWbUHSAfcBQVVfeXFMT296VWFteEl3MUpSdGNuMXRWSFc1aDBiRl85ZDRkdmVSYldXU3paNUhwNUtpOVZmV1A0VTVhUlk1M0doRjkxNG9qOVhndU1GdUx6TUsyS3NfbDFLOFJSVkd3NWx2QUJUc1VwWF9ZdjFZamJjNFdPTnMxR3Q1UmZDTGtVMGtsbFdmMkMzaWI4R1NTcTNDeXcxV0xKSUdVRUlGZWVwTms2TUtsMldYaEVRS2lSNXBtYW5sNHRtSWpkZDJxbm9VZEs2bUNGNkpOUkNhOC1FOXNXY2dZN2phY09JdElqV0J2c3IwUEhqdFJibGgyaWkxdFE2Yw?oc=5",
-   "desc": "NABARD trains AUS agriculture students on banking, agri-credit and rural finance careers  The Sentinel - of this Land, for its People",
-   "source": "NABARD",
-   "publisher": "The Sentinel - of this Land, for its People",
-   "scope": "india",
-   "ts": 1787288457000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVpsS0gtNUxDYk5hNWpnb3FPSm85VERoYkVhZWNhRDJndW9ZQnU1UTQzSUtlNVhubUZGaDZXSWtmaWIydUwwSFQ0VGRhaFNtOC1IbmFSR1ZjbV9WSkpLOS1nbTRVWWRna281Wm1yek1BVXJabnF",
    "title": "SEBI Explainer: Stock Manipulation & New Closing Price Mechanism - Rediff MoneyWiz",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVpsS0gtNUxDYk5hNWpnb3FPSm85VERoYkVhZWNhRDJndW9ZQnU1UTQzSUtlNVhubUZGaDZXSWtmaWIydUwwSFQ0VGRhaFNtOC1IbmFSR1ZjbV9WSkpLOS1nbTRVWWRna281Wm1yek1BVXJabnFmVVM3Q1JtRmwwOEpvY1U2QzV2Rm9PeGhYOUMxMF9KMUJ1dFhsRXR6NnlJelRFX2oxRi16VEI1dlBydVhYMNIBuAFBVV95cUxQVkc0QXhWNkJJamI0Z0xjb1J1YXczU09aWEhjZnNoWlowWkRaN25RYlg2Y2FkdFlkT1ZEdS1HZVFZUlhqREVOTm5xOHJUZnNzSDY3dmFVN1laaFczQXJGNVFNVDJnZVdBUkJ1SGJaOWNqOHV0TmxULTVWWEJ1NDBYQnFUazZwYVJjRWxiQXZqRmFUb0RES1lJOFN2alNLQU5XbmdqRVZPUXV0NUJVcWN1Qk1GclBjbGZ4?oc=5",
@@ -442,6 +432,16 @@
    "ts": 1787253156000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOVBzWG1VemRhaHZiYW1OT1p6aV9yMklnQXdRWEtoUFRrbGR0YVEwcXpzLVgxV3R0MVB3SUlRQWVNLXB1WnZIaGRCMUZHa05zdzBiQ1B2SGJxZmU5cmQ5bm02UWtXTzl0dzNxVWtwU3ExVk9zVUN",
+   "title": "News Wrap: Federal Reserve leaves interest rates unchanged - NEPM",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOVBzWG1VemRhaHZiYW1OT1p6aV9yMklnQXdRWEtoUFRrbGR0YVEwcXpzLVgxV3R0MVB3SUlRQWVNLXB1WnZIaGRCMUZHa05zdzBiQ1B2SGJxZmU5cmQ5bm02UWtXTzl0dzNxVWtwU3ExVk9zVUNlbTNaZUVDWnVjYnBR?oc=5",
+   "desc": "News Wrap: Federal Reserve leaves interest rates unchanged  NEPM",
+   "source": "US Fed",
+   "publisher": "NEPM",
+   "scope": "world",
+   "ts": 1787250341000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTjB2MDZMOWNiQl9VeGZOTXdNamlybU9oUDBfNHJYandnVmdjV3psWE4xTC1tcnM2Y1hHTDBOS082Y0NtWGtpSllDZWxnQ3V1TkQ2SmNIcnJmQ21hZmNWREg2ZnJmRkxFeUFZZDRpTmxJV2sxcUl",
    "title": "Sebi streamlines FPI onboarding, allows digitally signed Power of Attorney - Rediff",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTjB2MDZMOWNiQl9VeGZOTXdNamlybU9oUDBfNHJYandnVmdjV3psWE4xTC1tcnM2Y1hHTDBOS082Y0NtWGtpSllDZWxnQ3V1TkQ2SmNIcnJmQ21hZmNWREg2ZnJmRkxFeUFZZDRpTmxJV2sxcUlhTXRkTTZzcks1YWFhYU5PTFJXb1ZWLTQ4Sks4dUNlV29ueVdJRlAtbUx4MU5seHFQSlFjRW16VGxyUzdqdE53R25xSVZJTVNRaTNCdndqOUxfel9SOFI2Sm5tWjZnQ9IB1wFBVV95cUxPYXlydUFtbXlRTk1GZzhrMlU2eEhLM3FCT2JmOUFhQ0VLV1p2TWVtRUN5NktJWElsYnJYR1dFSkZ2MURCY0swU1kwZGZNSFpyR1JxSmhVampvU3NWcHVnd0lpOWU2RmN0Rkp3eW9NRDNiZEgtcldMakpQQXRVS0xMSWx5Z1NrV1l1eWpaT1BGcS03LWZYWW1nRExEOE80a3hGenBGTGJ3b3BxQ2JiME1GRFNZOTVDd1hMWXh1bjJXemR6M01od0ltdHNiX0Z0dDVxVURMdVlxbw?oc=5",
@@ -520,16 +520,6 @@
    "publisher": "NepalNews",
    "scope": "world",
    "ts": 1787238178000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONHRUbU1kdE1pUGdqd1lWMVhfTU9rc18xMWROeHlFZDVpUmtycW9xcVFEZ3JDTDN0b2p3a2hsQ0pCenIxYno5TFNxSFZGTHY3Z2NwWG02NzNqOEtWZ0VpOWhEQ2pKZzkzVDlla04wc1QwS3BMUDR",
-   "title": "Dhenu Buildcon’s ₹492.5 Crore Market Value Draws SEBI Scrutiny - The420.in",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONHRUbU1kdE1pUGdqd1lWMVhfTU9rc18xMWROeHlFZDVpUmtycW9xcVFEZ3JDTDN0b2p3a2hsQ0pCenIxYno5TFNxSFZGTHY3Z2NwWG02NzNqOEtWZ0VpOWhEQ2pKZzkzVDlla04wc1QwS3BMUDRoUndvcnBfOWcxaHRaZmRuVmZHY2U0TFE3TQ?oc=5",
-   "desc": "Dhenu Buildcon’s ₹492.5 Crore Market Value Draws SEBI Scrutiny  The420.in",
-   "source": "SEBI",
-   "publisher": "The420.in",
-   "scope": "india",
-   "ts": 1787236420000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzV4TmJyWmZ0V182bFdVMTdDeTMtSlVMd3lHNzRHbnpBYnpSR3JiTWxNVnVONDFhQzNqTl9JcS11dWRrTV92TTVDLUJUYjBzVGZjRkd1cTcxOW5Ubk1id21SSWlKTlRoTGtCbVlZeHh1OTNrcTR",
@@ -620,16 +610,6 @@
    "publisher": "CNBC",
    "scope": "world",
    "ts": 1787216267000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOTXJUUGN4dmNiU29oN2kyWTJIVG4xNngxVExpUDhoVTdQWDl0dmhJYUQybnJCMnJrMHBIM1BTWU5tOGVJX3ZzZkpWbGd1RzNWbXc5elA5V0MzM0lpNDN2M1V0V014RGt0S2ZLcjZkMFJPUWt6bWd",
-   "title": "SEBI Alleges ₹1,000 Crore Loan Ruse At Dhenu Buildcon. How Did ₹25 Crore Become ₹1,000 Crore? But A Closer Look At Dhenu Buildcon Throws Up Several More Red Flags. - inventiva.co.in",
-   "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOTXJUUGN4dmNiU29oN2kyWTJIVG4xNngxVExpUDhoVTdQWDl0dmhJYUQybnJCMnJrMHBIM1BTWU5tOGVJX3ZzZkpWbGd1RzNWbXc5elA5V0MzM0lpNDN2M1V0V014RGt0S2ZLcjZkMFJPUWt6bWdXMXBJVGhpSzR2YlhSeTl5OTc1LTBHcWdMSkpfYXFFMV9SVHJ0MVYwLVpYZHNNQWVvSWJSRl9YeGZyaGItMnd3NmhLTE16QzJNMU8tcERzLUsySlNPVzY2aHo1VkV2TmpCNG1HSGUyR2N6RG1SMHI2MzA3cEVTQ3R4ZGZDcXU2VVB6N0VEQ290V2xIQ05BSUlRbjJhMWFJYzFCbjAwQTJWUkpLd0R1UGVmd3JFdGRqRWtWSmhmU3RDaVE2b0RIcU0zb0VmNzEwNlVv?oc=5",
-   "desc": "SEBI Alleges ₹1,000 Crore Loan Ruse At Dhenu Buildcon. How Did ₹25 Crore Become ₹1,000 Crore? But A Closer Look At Dhenu Buildcon Throws Up Several More Red Flags.  inventiva.co.in",
-   "source": "SEBI",
-   "publisher": "inventiva.co.in",
-   "scope": "india",
-   "ts": 1787214620000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQU3c3RjlKYi1hQlBOcElVOFpfYXRKM0VxdElRT0FnOXM5d1ViYUNScXV2cThoS3VMd3Jnb1NGOVpjV2JoUVBLV19yMHJDY2dUeXJtZ2d6V2U3N1E0YW9UWmVUWmRFSm4yZTFGNkQ4aEFEUS0yX3V",
@@ -972,16 +952,6 @@
    "ts": 1787157088000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaVNuYUlTMHZldkxRTHdRdDI1bGZILWk2Rmw1ODViQ2VxMHlJYXZmSTlxOHNUTUpyNkFXVnZ1RUMwcHhqNUZ4NGJNOHFRNDdhajZteHZjczZMRXdTZ1ZSVXlndU5DUVNjMTJoNHpiV1RKdEdSeE1",
-   "title": "India regulator bars two over Dhenu Buildcon fabricated loan scheme, inflated market value - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaVNuYUlTMHZldkxRTHdRdDI1bGZILWk2Rmw1ODViQ2VxMHlJYXZmSTlxOHNUTUpyNkFXVnZ1RUMwcHhqNUZ4NGJNOHFRNDdhajZteHZjczZMRXdTZ1ZSVXlndU5DUVNjMTJoNHpiV1RKdEdSeE1xaEJKcS1DdDJRSzhVMkFHRlBMTm1HWjI3eHBXWHVOWFRvajhCaUJibWZpbWpWblFpNEt1MUxZa0htNFZnSkZsN2lLZlZ5SHQyVVJWdWh2VDQwcA?oc=5",
-   "desc": "India regulator bars two over Dhenu Buildcon fabricated loan scheme, inflated market value  Reuters",
-   "source": "SEBI",
-   "publisher": "Reuters",
-   "scope": "india",
-   "ts": 1787156931000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT1lXVEJZZ05QMUI4WWtQMlJfZmJON0xuVXNWRGhHZGtIVVZPNWtPTTlmZ2tBOTRWSmVnT3ZlVnZGdW9GaXNiSEZmUDF5TzRrUlNzYW1LUG9SczlPdWRLNXh6d3BXUXdzY0hBaG00QXRDZXpFcUh",
    "title": "SEBI bars Copthall Mauritius, Mansi from markets over CAS manipulation; impounds Rs 3.68 crore - ANI News",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT1lXVEJZZ05QMUI4WWtQMlJfZmJON0xuVXNWRGhHZGtIVVZPNWtPTTlmZ2tBOTRWSmVnT3ZlVnZGdW9GaXNiSEZmUDF5TzRrUlNzYW1LUG9SczlPdWRLNXh6d3BXUXdzY0hBaG00QXRDZXpFcUhmVkhzWmF3QkxWdW9kMWFVTXF6QTl6aFRMMkdXNS1kVExIN1RTLUxlMWhsbzREOUJyb2s5bEd6T3NuclpUd2NhVEZBTWhMQVpjLW5kUHozWnptWWt1RzFJcERRYnhHWmRiQlFrQQ?oc=5",
@@ -1200,6 +1170,36 @@
    "publisher": "Moneylife",
    "scope": "india",
    "ts": 1787132971000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPR2J3ejIxa08ydHRRMmlya2xJYmQ2M2Z3RjU4a3RFTGZRZ2gxbGNPc1g4R3J3TEZkby05alRqS0RIZ21uQ1ZOdG1fczZjMFNReVpTRmdHQ1l2MG1wUGN2Y0N1b2JEaXFnVGtFeXhuQzI1LWhQUVF",
+   "title": "User claims ₹1,200 credit-card charge after 46-paise shortfall; bank responds, here’s what RBI rules say - livemint.com",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPR2J3ejIxa08ydHRRMmlya2xJYmQ2M2Z3RjU4a3RFTGZRZ2gxbGNPc1g4R3J3TEZkby05alRqS0RIZ21uQ1ZOdG1fczZjMFNReVpTRmdHQ1l2MG1wUGN2Y0N1b2JEaXFnVGtFeXhuQzI1LWhQUVFPWXZTMGdNd2lHaWNqU0xDb0I2RmFTUWFTOVRsQ3RieFJGRFE2UkR5MUtmZ1JvVnhVdU53WWFHaHk0NUZnOUZoMmw1bWhOSzFNMW1LV2xmamVvRnQtTU44NjFkV3RoRFduQXF5Z1Z1VmpvX0QxWFhEYWVQdmh3eE5qeVF4cExjYlBkT2pLbUc0UdIBgwJBVV95cUxPTjRYVTFWck1jaUR6T1JZamFrTjhZcFlsdXpQcERBTjd1N3YxSXEyT2tBOENPU1o2VmFnYzlhSnI2QzU1VWhVWVliSEpxakZpQWpoV2g4MC1uS0xVOXBTNVp2WDB2bmwySFZSbVV3Xzg1SGYwQm10SEhvbHVYbU9rLTVJWW4zZG9YNTRpYUhtMVN5ZERlYXhZekR4bGN3bXptdGVsX3RpS193MkZpUkhRWGhLamtwZUFVbVduVllQX1pJSGQ0M3A4TjM2cWppbUotT3ZPZmhVNnphMndreXlhZ0o1NjBWcVAyMkdSUzhyVlNXSTVUc2k1NzVJdk11eUx4Zjh3?oc=5",
+   "desc": "User claims ₹1,200 credit-card charge after 46-paise shortfall; bank responds, here’s what RBI rules say  livemint.com",
+   "source": "RBI",
+   "publisher": "livemint.com",
+   "scope": "india",
+   "ts": 1787128660000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT013cFplc3hDcklnR3FUTkYzRXhIQ3Y4a2tVeFg5YTN6RXQwQkx3ZXhUeldUY0w0WXl3Mk0zWEgwWVdOaTRFb2tDZlFEeGQxb0cwUi1hbWtnZTJZZGVEc1YxMHVMdkt1UFNLVlpGT2N1bXN0MlV",
+   "title": "India regulator reviewing small-company IPO, delisting rules, chief says - ETLegalWorld.com",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT013cFplc3hDcklnR3FUTkYzRXhIQ3Y4a2tVeFg5YTN6RXQwQkx3ZXhUeldUY0w0WXl3Mk0zWEgwWVdOaTRFb2tDZlFEeGQxb0cwUi1hbWtnZTJZZGVEc1YxMHVMdkt1UFNLVlpGT2N1bXN0MlVEOXptQl9aZ3ZxYmtYRUh1MUtIS3JSM1JpTkQ4WjlodjI0cHhnX3lkeU9tMUpaVlByU2R3ZlF2c2xHMmJVazlCRElDbGMxUXFzZkJtVGJOQWU4Zm4yTlYwUUQ0dTFCRkRn0gHbAUFVX3lxTE9FMFc5X3lGUDctbzdpMTU0QzRBWUc0V0hSSG5ydndMZmQwZzJLcWo5dE90YURfYVZOcHdvYk5OY01jdWNkdEd0QnFFd1JpcUlSRXczaUNwa1V3cjYxbk90RHdaMDM4Zy1qY3ZqOUNJOXJfSkhwMThYQ3poSmxVSmdQUEpORjNIZFJlU3dia1ZJV0RlQndkb1NGc1pfQ3BhaXZSNm1qTDhzT1ZTaWJpMFRiQS0wR3kzMzN5b1ZzSE5aRnV0RkJLZGJGNjVDUDRqTTZqSzFoRmVIcFo3bw?oc=5",
+   "desc": "India regulator reviewing small-company IPO, delisting rules, chief says  ETLegalWorld.com",
+   "source": "SEBI",
+   "publisher": "ETLegalWorld.com",
+   "scope": "india",
+   "ts": 1787128262000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1I5MXpXNlZROWFfbEhTUlp6Mktnb2JMWXJlSGNldno1RW1rT25ZbGR6T0w0b0EzX1NYVy1BczRKMFpFbUFBTWxVcEY2eHlyT2d4NlcxbFBCeXdJam1rcloxS3E2X1lCVnhMRm0tZDBEM0FpeHV",
+   "title": "Sebi Warns Against CAS Manipulation; System Here to Stay - Rediff MoneyWiz",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1I5MXpXNlZROWFfbEhTUlp6Mktnb2JMWXJlSGNldno1RW1rT25ZbGR6T0w0b0EzX1NYVy1BczRKMFpFbUFBTWxVcEY2eHlyT2d4NlcxbFBCeXdJam1rcloxS3E2X1lCVnhMRm0tZDBEM0FpeHVsaC1wN0p5UFp0S3RndjRhdXhtSzhSUlFfZER5NkZ3SS1GQmdLVTNEUF84VDNHamNnXzhlVmPSAbABQVVfeXFMTUZoa1lfelM1RkRqVWQ5VjgzbUlmc01BMVZfN054SXE2T0FweXdNOWRyZ2M1bWdvZGoyejlUUG1mWHpNVHd6Wks4SC1uTVNBNm9qMHkxY1pJbnlSVkRDR2NBSVNKRzlUUFplTjlCYXFiRnhfcXNxOE1IQ3l2ZVRjcTYwYlYxYi0wOW9jV1gxc09iWFh0YkdnNWpxZi1kSmZaejVBVks4ckQ5azk3SF81SGE?oc=5",
+   "desc": "Sebi Warns Against CAS Manipulation; System Here to Stay  Rediff MoneyWiz",
+   "source": "SEBI",
+   "publisher": "Rediff MoneyWiz",
+   "scope": "india",
+   "ts": 1787126615000
   }
  ]
 }
