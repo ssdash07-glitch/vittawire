@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T11:28:56.660439+00:00",
+ "updated": "2026-08-23T11:55:52.035634+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
@@ -140,16 +140,6 @@
    "publisher": "vinanet.vn",
    "scope": "india",
    "ts": 1787402080000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaHdTRXVSWjdRcU80SVkzeHFuQUt1S24xYjl3SUpkSVV1eU5XSEpFcFduSHhsY3dENHdRV2NkWkRKVDhscGt2Rk14bXFJTWF3ZWZIRmhaMzZrVnFuOTZTQ3pyOFEzNHBtNFdxQjVLV3lVRy1mWWw",
-   "title": "The Stagflationary Recession Is On Our Doorstep As Interest Rates Surge (NYSEARCA:SPY) - Seeking Alpha",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaHdTRXVSWjdRcU80SVkzeHFuQUt1S24xYjl3SUpkSVV1eU5XSEpFcFduSHhsY3dENHdRV2NkWkRKVDhscGt2Rk14bXFJTWF3ZWZIRmhaMzZrVnFuOTZTQ3pyOFEzNHBtNFdxQjVLV3lVRy1mWWw5SG5RejZhUTRCbU5Jcm5wYkkzQjQxZ2JxMEZYOTQxU1dORjdFZnNLWkFXQXYwOUltTFcxLVNJcTIyRlpR?oc=5",
-   "desc": "The Stagflationary Recession Is On Our Doorstep As Interest Rates Surge (NYSEARCA:SPY)  Seeking Alpha",
-   "source": "US Fed",
-   "publisher": "Seeking Alpha",
-   "scope": "world",
-   "ts": 1787400000000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sekZ4YXFfQ0VGdjAzWDk5RUtDcXdvdE85bFN3TEVDVmNHRDdheWY3cy1QNUR4MV9aekZpcTYxVHREX2VweXFkdmpSSDhsYktLZHBWbmJrTmRKSmhvUFVEQ1F3a3V0Wk5aZGs5MDk2Sjh0bXJyUl9",
@@ -900,6 +890,16 @@
    "publisher": "TradingView",
    "scope": "india",
    "ts": 1787192640000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT1N6WGRLb2ZMZGlMelVCSjdBSzdEbUUtV3l1Vy1yQzB3cXZ2X2I0VG1naVh1bDZoc2d6ZmxQNUR4SU1sRy1kWFoxcjNqSXlLcVJWdzl4ZVhPcHRaVU96RUozS3p4Z0NMUEppeGZ4LURWQVAtZjM",
+   "title": "Fed policymakers’ inflation concerns increased at July meeting, minutes show - Virginia Business",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT1N6WGRLb2ZMZGlMelVCSjdBSzdEbUUtV3l1Vy1yQzB3cXZ2X2I0VG1naVh1bDZoc2d6ZmxQNUR4SU1sRy1kWFoxcjNqSXlLcVJWdzl4ZVhPcHRaVU96RUozS3p4Z0NMUEppeGZ4LURWQVAtZjMtV2l5TVM5NmFZblpwLTdub2hEa1NWZDZsQ1R6dmk1ZTBsOTdJMHA2YmgyY2JFZzN1NA?oc=5",
+   "desc": "Fed policymakers’ inflation concerns increased at July meeting, minutes show  Virginia Business",
+   "source": "US Fed",
+   "publisher": "Virginia Business",
+   "scope": "world",
+   "ts": 1787181702000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE94NWtnVTFYOGRxSDdodmNaNjBqVEdObFFuVTJfdGVuRFMwUG92RXBOT2E5TTdLVG9UWm5CR2pZOTNNRjgyR2pQZVVNSU5WSnd5U1h3NldjTy1sTG5wQlJtLVg4VHNWTDI1R2NOcS13MGt2UdIBd0F",
