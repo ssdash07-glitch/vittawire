@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T13:35:46.923297+00:00",
+ "updated": "2026-08-23T13:58:14.430301+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
@@ -10,6 +10,16 @@
    "publisher": "News On AIR",
    "scope": "india",
    "ts": 1787485938000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREJFZVl5eWdqekp3WHc5TmFKZEZFb3dad3dZN1I5dXNIbjhza3hVeUFLOWRTNng2ZVBnTkt3RHYxOFp2ckFuWjFCaGdwQTZnVDh3OVVxS1ZhNzBQX1ZFOVhpSVJMMDdtamZ0VnNTa3V2aXY2Vno",
+   "title": "SEBI sets up dedicated task force to tackle AI-driven cyber threats - News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREJFZVl5eWdqekp3WHc5TmFKZEZFb3dad3dZN1I5dXNIbjhza3hVeUFLOWRTNng2ZVBnTkt3RHYxOFp2ckFuWjFCaGdwQTZnVDh3OVVxS1ZhNzBQX1ZFOVhpSVJMMDdtamZ0VnNTa3V2aXY2VnoxZHZWNllFckVDMDliY0JqQnBqSkl0SG1RV1JMRWlZU3lYTw?oc=5",
+   "desc": "SEBI sets up dedicated task force to tackle AI-driven cyber threats  News On AIR",
+   "source": "SEBI",
+   "publisher": "News On AIR",
+   "scope": "india",
+   "ts": 1787480021000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDdpZW5ESjlDSllRenlRaVdPRVpQTXdwOWxwZXN5YXR0T0ZMUUVtT1JRR0hxWTRtdlJNbUpJTXNtRnVIcnRIaW1TYWdmYWliUXFKUUNoTEZYeE1mRjNlZjJOMmFmM3pBRlp1LWNlTG5EVjVNVUt",
@@ -50,16 +60,6 @@
    "publisher": "vinanet.vn",
    "scope": "india",
    "ts": 1787429032000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREJFZVl5eWdqekp3WHc5TmFKZEZFb3dad3dZN1I5dXNIbjhza3hVeUFLOWRTNng2ZVBnTkt3RHYxOFp2ckFuWjFCaGdwQTZnVDh3OVVxS1ZhNzBQX1ZFOVhpSVJMMDdtamZ0VnNTa3V2aXY2Vno",
-   "title": "SEBI sets up dedicated task force to tackle AI-driven cyber threats - News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREJFZVl5eWdqekp3WHc5TmFKZEZFb3dad3dZN1I5dXNIbjhza3hVeUFLOWRTNng2ZVBnTkt3RHYxOFp2ckFuWjFCaGdwQTZnVDh3OVVxS1ZhNzBQX1ZFOVhpSVJMMDdtamZ0VnNTa3V2aXY2VnoxZHZWNllFckVDMDliY0JqQnBqSkl0SG1RV1JMRWlZU3lYTw?oc=5",
-   "desc": "SEBI sets up dedicated task force to tackle AI-driven cyber threats  News On AIR",
-   "source": "SEBI",
-   "publisher": "News On AIR",
-   "scope": "india",
-   "ts": 1787418385000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaUgyN2xzamZvVTJ1ZHJzX1dxd1MtWkNqM0RGYTdVeENjbl92WW83YVNDS243RkRfYmpEMEw4QkJjcnBLa0ZHZDN5em5EOGJMd3FINmpFYl9sYm5xYU11bngzSU5KX0REQnNYWFR5N2JBb1FQbzh",
@@ -213,11 +213,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51QXYtSGVxR2NKajRyY0RJQmQ2VnBVRHV2dW9YUzNUdndhTjhQSElEUFoyMXBDcnhTM1ZLSVZXYjVjZEZmQ0NVYWNNbVEyd2RldDBB?oc=5",
-   "title": "36Kr Global · Middle East | World Bank Report: Qatar Ranks Among the World's Leading Countries in AI Development - 36 Kr",
+   "title": "36Kr Global · Middle East | World Bank Report: Qatar Ranks Among the World's Leading Countries in AI Development - 36Kr",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51QXYtSGVxR2NKajRyY0RJQmQ2VnBVRHV2dW9YUzNUdndhTjhQSElEUFoyMXBDcnhTM1ZLSVZXYjVjZEZmQ0NVYWNNbVEyd2RldDBB?oc=5",
-   "desc": "36Kr Global · Middle East | World Bank Report: Qatar Ranks Among the World's Leading Countries in AI Development  36 Kr",
+   "desc": "36Kr Global · Middle East | World Bank Report: Qatar Ranks Among the World's Leading Countries in AI Development  36Kr",
    "source": "IMF / World Bank",
-   "publisher": "36 Kr",
+   "publisher": "36Kr",
    "scope": "world",
    "ts": 1787356943000
   },
@@ -370,6 +370,16 @@
    "publisher": "Mid-Day",
    "scope": "india",
    "ts": 1787295060000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS3pZZXo0dzNVSXdOd21OYWtiMVFIZ0V4MTZLMmNBbVVnUDFQWkxIVm1IeFhaUFJ5YXlyTUpnU1BqTFhoTDdOWkx3aFMxR3RYalQtbENvY0ptME1kMWZrXy04dmxOYWhCZnQ3TUQxRFRGMmZCamx",
+   "title": "NABARD trains AUS agriculture students on banking, agri-credit and rural finance careers - The Sentinel - of this Land, for its People",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS3pZZXo0dzNVSXdOd21OYWtiMVFIZ0V4MTZLMmNBbVVnUDFQWkxIVm1IeFhaUFJ5YXlyTUpnU1BqTFhoTDdOWkx3aFMxR3RYalQtbENvY0ptME1kMWZrXy04dmxOYWhCZnQ3TUQxRFRGMmZCamxNMUFDS1pGN0V1NjV1ajFaRlJUMFJDYndYa3Y2Y01GSUtsNEd4bW5salprWVpzTlpET0tobHFXeW45ZXVseElNelJJb1ZKZFBIM2NhRGo1aHdMTXgwQkg4clNRSF9hUWVnNGJnRVkyOWZyWGlKS1NUM1VWbUHSAfcBQVVfeXFMT296VWFteEl3MUpSdGNuMXRWSFc1aDBiRl85ZDRkdmVSYldXU3paNUhwNUtpOVZmV1A0VTVhUlk1M0doRjkxNG9qOVhndU1GdUx6TUsyS3NfbDFLOFJSVkd3NWx2QUJUc1VwWF9ZdjFZamJjNFdPTnMxR3Q1UmZDTGtVMGtsbFdmMkMzaWI4R1NTcTNDeXcxV0xKSUdVRUlGZWVwTms2TUtsMldYaEVRS2lSNXBtYW5sNHRtSWpkZDJxbm9VZEs2bUNGNkpOUkNhOC1FOXNXY2dZN2phY09JdElqV0J2c3IwUEhqdFJibGgyaWkxdFE2Yw?oc=5",
+   "desc": "NABARD trains AUS agriculture students on banking, agri-credit and rural finance careers  The Sentinel - of this Land, for its People",
+   "source": "NABARD",
+   "publisher": "The Sentinel - of this Land, for its People",
+   "scope": "india",
+   "ts": 1787288457000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVpsS0gtNUxDYk5hNWpnb3FPSm85VERoYkVhZWNhRDJndW9ZQnU1UTQzSUtlNVhubUZGaDZXSWtmaWIydUwwSFQ0VGRhaFNtOC1IbmFSR1ZjbV9WSkpLOS1nbTRVWWRna281Wm1yek1BVXJabnF",
@@ -590,6 +600,16 @@
    "publisher": "The Indian Express",
    "scope": "india",
    "ts": 1787234409000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX2RibGlpTW10Q05qbjV2TWZOS0pmSXcyTXZEUHBpellwZGJLQzNicTdVTGJsaWZmNTdyNUtkWElHSW9qc2lqNHAwaXVYTUt4M2tTWXR5QWk3TDF3a29PSi1WQTVyZWFaREZ6MklGRERobTdZLUR",
+   "title": "Many Fed officials flagged inflation threat, possible need to hike rates - Construction Dive",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX2RibGlpTW10Q05qbjV2TWZOS0pmSXcyTXZEUHBpellwZGJLQzNicTdVTGJsaWZmNTdyNUtkWElHSW9qc2lqNHAwaXVYTUt4M2tTWXR5QWk3TDF3a29PSi1WQTVyZWFaREZ6MklGRERobTdZLURDcFJJVnd3MHFvZklRN3R0cTJXWnloMjdEbWpBSk1UOGxyajd0NmR5aG5ULThCZDUzNmR0M2RHRDE3OE92YVFNeFpmaGhEN2VmMi1DRHhnLWU0YU1B?oc=5",
+   "desc": "Many Fed officials flagged inflation threat, possible need to hike rates  Construction Dive",
+   "source": "US Fed",
+   "publisher": "Construction Dive",
+   "scope": "world",
+   "ts": 1787233616000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYkR3VEpQYjdsQUQwbHVkSnVVV2dkSi1YaTVzYW9TT1hiaTdyWllzNzlaSi1vNGVmTnhKdzBwcFMyajVyeUpjanFKT19XSkxRT3J5NVZ4Q2lGWkwxVVBCcEJhWUFUZHNGUDJ6S3FhVGIzYWhiaUp",
@@ -932,16 +952,6 @@
    "ts": 1787168655000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUFjdmxUb2VzOFR4b1NuZnB4aXdGWUVJSUhUaXhzR0RhWVVtdVp3NzRHRkhFc090ZVlBT3ZHSTVtSWxZNEFxWkNiaUZpd00yZW81SlQ2MzM3X2d5ZzRULVZtdG5rRkk1LU9jMVBSbURuQnRwTW5",
-   "title": "‘Manipulative’ trades during CAS on expiry day: Sebi bans 2 entities - MillenniumPost",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUFjdmxUb2VzOFR4b1NuZnB4aXdGWUVJSUhUaXhzR0RhWVVtdVp3NzRHRkhFc090ZVlBT3ZHSTVtSWxZNEFxWkNiaUZpd00yZW81SlQ2MzM3X2d5ZzRULVZtdG5rRkk1LU9jMVBSbURuQnRwTW5kQkw3c0JHRHNTZEg5a0JLcjgzV0t3bzZMNTlMcVZKaHdmR2FHWTdoYlhzQUhXekdGMmNMT1ZvYlVQZtIBtgFBVV95cUxQNUxZbVk0VE02T2NnM1V2V19MUGRMTFg3SkpLUTczZFkyaGp6dkZPSFI1ZEVob011LU5ncnphMUxtUWJPREUyUTBoOXlTdkpJazl4VGcwX3ppcEdLX2Z5Nzk0RDFYRC14dnVMUi04Nl9iMUVvcTQ1WXFSdVBuc05KQ25zMDBKeTA5UHJjeHBRLV8zMHZMYmR5WXpjbmhDdlYxNVJnQy1iY2JBUWV6ZVZhLVRqbDkzUQ?oc=5",
-   "desc": "‘Manipulative’ trades during CAS on expiry day: Sebi bans 2 entities  MillenniumPost",
-   "source": "SEBI",
-   "publisher": "MillenniumPost",
-   "scope": "india",
-   "ts": 1787168189000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVo5OU5OQlk3bHpRcUlzMVNsNDEtLTQ1a05Zb1NoUldHZUtvcWMybE9WT1lQZkJFYXlBSXFwNEg0cGY1SE0zMUR2N1NrQzBpMi04Y0ppeTlTbEtNdWhETFRYN3NZdmlzQ3ZKOERrZ3NYVTBLem5",
    "title": "Fed Talked Rate Hike if Inflation Fails to Cool Further - U.S. News & World Report",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVo5OU5OQlk3bHpRcUlzMVNsNDEtLTQ1a05Zb1NoUldHZUtvcWMybE9WT1lQZkJFYXlBSXFwNEg0cGY1SE0zMUR2N1NrQzBpMi04Y0ppeTlTbEtNdWhETFRYN3NZdmlzQ3ZKOERrZ3NYVTBLem51bEVSRG44ZU40TUZHWGNWVmpTYkxMa1ZvNE1oM3FDYkhRTWtpY2lBcklidV9EVk9JXzQ3eE0zNndtZ1REV2VLNHZ3?oc=5",
@@ -1190,16 +1200,6 @@
    "publisher": "livemint.com",
    "scope": "india",
    "ts": 1787142333000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2huV25tOGZsR0tDWUhUMHFNX2ZCMlNLRWlwM2JtZEx1aUNXYnFWXzE3emJkdGZzT3paTEtCa1hfWUlPS2hzblB2elp0ZWdLQUhMVVpzek4zbEF6eWM0dndSOTBYZHBVTTl3d2VobFB2NnZSMzV",
-   "title": "RBI minutes show different inflation concerns and a case for a rate hike - investingLive",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2huV25tOGZsR0tDWUhUMHFNX2ZCMlNLRWlwM2JtZEx1aUNXYnFWXzE3emJkdGZzT3paTEtCa1hfWUlPS2hzblB2elp0ZWdLQUhMVVpzek4zbEF6eWM0dndSOTBYZHBVTTl3d2VobFB2NnZSMzVDOWNVRXVnejRMUGNEZ2g5OF9jS09fWDNBVmFfOWlXcDBYX1FIZThOWTdNZ1pfUVZmbkI4U2FNMDQ2YUg3WQ?oc=5",
-   "desc": "RBI minutes show different inflation concerns and a case for a rate hike  investingLive",
-   "source": "RBI",
-   "publisher": "investingLive",
-   "scope": "india",
-   "ts": 1787142180000
   }
  ]
 }
