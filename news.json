@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T16:34:49.862575+00:00",
+ "updated": "2026-08-23T16:59:10.448488+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
@@ -80,16 +80,6 @@
    "publisher": "Business Standard",
    "scope": "india",
    "ts": 1787409531000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLWFsLUloN0FuY1BXMVU3cGdlTUlSbEpaN3IyZXllWFNfcXhmc3NYRUtQMlpWdGtFMk8tR3c5TGRRa2V6dFZjMmt6LWpwbVlyZHZpOEJjMmx3WTdqZlBjdXR6clhWTV91UzFUcDB6ZjVlMXlPVkZ",
-   "title": "America In Focus: Fed officials eye higher rates; unemployment claims fall - News-Times",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLWFsLUloN0FuY1BXMVU3cGdlTUlSbEpaN3IyZXllWFNfcXhmc3NYRUtQMlpWdGtFMk8tR3c5TGRRa2V6dFZjMmt6LWpwbVlyZHZpOEJjMmx3WTdqZlBjdXR6clhWTV91UzFUcDB6ZjVlMXlPVkZmSmsyVzlKU2RrbTA4RzNobWJJN2Zoc3cxcWUxbGk5cWdoenlxR2t6TGI5M3FBbG5n?oc=5",
-   "desc": "America In Focus: Fed officials eye higher rates; unemployment claims fall  News-Times",
-   "source": "US Fed",
-   "publisher": "News-Times",
-   "scope": "world",
-   "ts": 1787408629000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSmpyUEZZMGJMdTd3RUttUkJyMHlpYk5jWVJYMXNELWNHRWdQZXJrYUE4Z1QyMzlWcDF0NC1aV2xaQjJrRlBSWnd1a3NQQ3V5LXBrVGhUakhfMDJfSWoxWTZtWWdsUmlUcHJfVkpGem9FLTd0SVB",
@@ -1200,6 +1190,16 @@
    "publisher": "BBC",
    "scope": "world",
    "ts": 1787133504000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdGpMLVFockhFeHRJeXpEc0pDRDNaZXdtdEdwSzM1U2RTcVliSTZ5UUgwdUd4a294RmUxUk8zS2g3QUpmMXp3WDlwR1otbGFpeGxCUG53bEt2SGxCUDVBdlZVMzhxNkZsdWVrSzRWYUdKa0c4cXN",
+   "title": "AI in Markets: SEBI to Mandate Human Oversight, Kill Switches and Data Controls, Says Pandey - Moneylife",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdGpMLVFockhFeHRJeXpEc0pDRDNaZXdtdEdwSzM1U2RTcVliSTZ5UUgwdUd4a294RmUxUk8zS2g3QUpmMXp3WDlwR1otbGFpeGxCUG53bEt2SGxCUDVBdlZVMzhxNkZsdWVrSzRWYUdKa0c4cXNITzBDWF9QNE9SUDhNZDZzT1VOTzVMT0luVlV5RjZybW9VMHdCOENLeXk0NDhOQkNyNkN1UVNTbkdhQl9tckRhMkdTWk5GSFpSX1YwN2VfLW82emhhaHZOdw?oc=5",
+   "desc": "AI in Markets: SEBI to Mandate Human Oversight, Kill Switches and Data Controls, Says Pandey  Moneylife",
+   "source": "SEBI",
+   "publisher": "Moneylife",
+   "scope": "india",
+   "ts": 1787132971000
   }
  ]
 }
