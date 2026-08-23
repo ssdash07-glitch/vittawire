@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-23T07:51:22.942608+00:00",
+ "updated": "2026-08-23T08:36:37.568162+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMUVOTFNlaEplVGZna1ljd1VlYUtvWFlfZl9IMEJRUUdjQktpQU5SaGUydm1ldno5QURLSXJZR3RXZWpiZGx1Y000NDl4TDU1dms4QWl6YXVFUXoyaXNiU2dJeTdHb1FXZHBmQXNxaTRMUG5GVzF",
@@ -40,6 +40,16 @@
    "publisher": "News On AIR",
    "scope": "india",
    "ts": 1787433719000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYmJwRjBHUklYTEl6YzFGYW1uVTZET3B5TTBUMHpBemk1S3QxOF9pNWNaYmtYQlllYWZPVk8zU0lScDNjb1RCb1A4TUlteVNpdFVuMEtxR2F1YWhaU1ZmVjI4cXYzak5NZlhTZGgyNGNDWTFKMl9",
+   "title": "Sebi Chairman Says Regulator Reviewing Framework for Monitoring Issue Proceeds Utilisation - Earnings Cycle Report - vinanet.vn",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYmJwRjBHUklYTEl6YzFGYW1uVTZET3B5TTBUMHpBemk1S3QxOF9pNWNaYmtYQlllYWZPVk8zU0lScDNjb1RCb1A4TUlteVNpdFVuMEtxR2F1YWhaU1ZmVjI4cXYzak5NZlhTZGgyNGNDWTFKMl9veFFYY0daWkp0T3FFSEN4cVBiaW84R2Q4Z3RwUmFtWHdEbU1laVJWbURia0d6NHFqM2JjMXE2bHVQMjFGcUVjY1dJXzJJZzV0WkJnWnltcmtKd1JXSkU?oc=5",
+   "desc": "Sebi Chairman Says Regulator Reviewing Framework for Monitoring Issue Proceeds Utilisation - Earnings Cycle Report  vinanet.vn",
+   "source": "SEBI",
+   "publisher": "vinanet.vn",
+   "scope": "india",
+   "ts": 1787429032000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQREJFZVl5eWdqekp3WHc5TmFKZEZFb3dad3dZN1I5dXNIbjhza3hVeUFLOWRTNng2ZVBnTkt3RHYxOFp2ckFuWjFCaGdwQTZnVDh3OVVxS1ZhNzBQX1ZFOVhpSVJMMDdtamZ0VnNTa3V2aXY2Vno",
@@ -392,16 +402,6 @@
    "ts": 1787295060000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21",
-   "title": "Will the Fed raise interest rates this year? Divided economists weigh in - ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
-   "desc": "Will the Fed raise interest rates this year? Divided economists weigh in  ABC News - Breaking News, Latest News and Videos",
-   "source": "US Fed",
-   "publisher": "ABC News - Breaking News, Latest News and Videos",
-   "scope": "world",
-   "ts": 1787289468000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS3pZZXo0dzNVSXdOd21OYWtiMVFIZ0V4MTZLMmNBbVVnUDFQWkxIVm1IeFhaUFJ5YXlyTUpnU1BqTFhoTDdOWkx3aFMxR3RYalQtbENvY0ptME1kMWZrXy04dmxOYWhCZnQ3TUQxRFRGMmZCamx",
    "title": "NABARD trains AUS agriculture students on banking, agri-credit and rural finance careers - The Sentinel - of this Land, for its People",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS3pZZXo0dzNVSXdOd21OYWtiMVFIZ0V4MTZLMmNBbVVnUDFQWkxIVm1IeFhaUFJ5YXlyTUpnU1BqTFhoTDdOWkx3aFMxR3RYalQtbENvY0ptME1kMWZrXy04dmxOYWhCZnQ3TUQxRFRGMmZCamxNMUFDS1pGN0V1NjV1ajFaRlJUMFJDYndYa3Y2Y01GSUtsNEd4bW5salprWVpzTlpET0tobHFXeW45ZXVseElNelJJb1ZKZFBIM2NhRGo1aHdMTXgwQkg4clNRSF9hUWVnNGJnRVkyOWZyWGlKS1NUM1VWbUHSAfcBQVVfeXFMT296VWFteEl3MUpSdGNuMXRWSFc1aDBiRl85ZDRkdmVSYldXU3paNUhwNUtpOVZmV1A0VTVhUlk1M0doRjkxNG9qOVhndU1GdUx6TUsyS3NfbDFLOFJSVkd3NWx2QUJUc1VwWF9ZdjFZamJjNFdPTnMxR3Q1UmZDTGtVMGtsbFdmMkMzaWI4R1NTcTNDeXcxV0xKSUdVRUlGZWVwTms2TUtsMldYaEVRS2lSNXBtYW5sNHRtSWpkZDJxbm9VZEs2bUNGNkpOUkNhOC1FOXNXY2dZN2phY09JdElqV0J2c3IwUEhqdFJibGgyaWkxdFE2Yw?oc=5",
@@ -420,6 +420,16 @@
    "publisher": "Rediff MoneyWiz",
    "scope": "india",
    "ts": 1787287970000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21",
+   "title": "Will the Fed raise interest rates this year? Divided economists weigh in - ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
+   "desc": "Will the Fed raise interest rates this year? Divided economists weigh in  ABC News - Breaking News, Latest News and Videos",
+   "source": "US Fed",
+   "publisher": "ABC News - Breaking News, Latest News and Videos",
+   "scope": "world",
+   "ts": 1787285956000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLURaampYRUpZbjN0aDF2dnRKSkZLcm1TNGJDNFFGREgzRDJFS2xUMEdFQXBtTUFhVTBMTmhoRU1pSUhvTkFDUWlQX3FFdmo3NDdXcVBhdWZqY2lBcWlZdFBCQ1ZxQllwbGpJMHNFU3QwVzc2eER",
@@ -960,16 +970,6 @@
    "publisher": "Futurism",
    "scope": "world",
    "ts": 1787171122000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdHUzRnFVUzNDZU5MeG9GRFoyaDROOWNXTU9GQWRkX3VySDlIZjhvQkF4LVNoOE1JS1ZieWRWa2x4ZTZ4UXk3V211VFU3YXVXWDIxWVdhMzJack9NODhaOTIwMEZ5a0ZiT3puTF9VYXdqRGhkaFp",
-   "title": "Trump plays down bond market fears, pushes interest rate cuts - The Hill",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdHUzRnFVUzNDZU5MeG9GRFoyaDROOWNXTU9GQWRkX3VySDlIZjhvQkF4LVNoOE1JS1ZieWRWa2x4ZTZ4UXk3V211VFU3YXVXWDIxWVdhMzJack9NODhaOTIwMEZ5a0ZiT3puTF9VYXdqRGhkaFprMnZRRFVTQ0FjRjBwWGczM3VhU1VRRmZSQU12QdIBlwFBVV95cUxQUzNJNVVIa2w2TE9GY1lJWVNyeUhJRUs1MGJfSmhZVlJSY0dQYWpHSnZqdXZRb0FvNEpBNjIzQ2w4b2tMYmxsSThsc19DRktKbTlaVXd3dm50WFozdlVfeWpmRkRYWkt6c1VCQ2pQeFpkSkl6c3dTMXNkYlBSbERCSHFkQWhnbGdweG9YR3hWTld1NjhqSXU4?oc=5",
-   "desc": "Trump plays down bond market fears, pushes interest rate cuts  The Hill",
-   "source": "US Fed",
-   "publisher": "The Hill",
-   "scope": "world",
-   "ts": 1787171100000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMWhNT1FpMWZFTWlTYkhvdzdycVFBMEptUkJGR0VZWGVfbVV0VHdrT0M2ZE04cm11eTY4dldkYnpqdVVHa0RPNGJyZzBmZnV6U1BiQnBQOXRHSy1RdHQ0VFpWVkwybFZpcDZBQ2Mtb0t6UWVCQnU",
