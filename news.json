@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T21:04:26.725200+00:00",
+ "updated": "2026-08-24T21:48:24.771957+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORWZZR05jSEhBRVpEdkZjMmxTRlh1VVpFb1RYY3o2S285V2ZkdHNrbjNTY2ozUVFKS2o0NDc5UjJ1bWVwZ0poWmVrcFF0T1N5bm5WOTVfTTYxT1RkT1lnalhwOERwbGtvSlFiWlVYbFl4ZjIxNEk",
@@ -132,12 +132,12 @@
    "ts": 1787580000000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ESWxhWjI4bnJYVjlIbUE5YVhEY0RqT1h0WGs3b0dlXzVvay00VnI3TWJXbFR3YlNMcmtQdTRpSnlWMlh4eFltUW1oX3VhVGpZTHBqM3hncVVfeXRXaTk3WWJocHVEQ0l2a3cyRl9FV0IwOE1fY0x",
-   "title": "Here’s exactly how a Fed rate change hits your wallet - WFTV",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ESWxhWjI4bnJYVjlIbUE5YVhEY0RqT1h0WGs3b0dlXzVvay00VnI3TWJXbFR3YlNMcmtQdTRpSnlWMlh4eFltUW1oX3VhVGpZTHBqM3hncVVfeXRXaTk3WWJocHVEQ0l2a3cyRl9FV0IwOE1fY0xTbUNPRdIBjwFBVV95cUxPTnY2V1ZJVGtJQWY5d2szQktRYVBpNVJaVnp2VHN3c25maXZ5Ry1BSklKZnBRZHprNUlZRjZkRUhpMVJ3TlFRbmIyV2I5eGswTl9fdFp3SFNDaHY4WnRYVDJsbXlPWEtqRGdlWG41V1RreDg5V2xsejliMEMtdmJobGk2OGdjU3lyR3NRLV94dw?oc=5",
-   "desc": "Here’s exactly how a Fed rate change hits your wallet  WFTV",
+   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa1VNUFJzMlJwaTVUQjVHWHpmYlhBY3hTOVEtWjVYZ1laNk40NFZqMDcwclU5LUN2eEQ5LTdLaVBjLThNZHBsekpSRmhISFNZMlVvSEVocGJ5el83ZUlQVVJVMjJQQ0VCSG9XZkFNRHlpZTc2WlF",
+   "title": "Here’s exactly how a Fed rate change hits your wallet - Boston 25 News",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa1VNUFJzMlJwaTVUQjVHWHpmYlhBY3hTOVEtWjVYZ1laNk40NFZqMDcwclU5LUN2eEQ5LTdLaVBjLThNZHBsekpSRmhISFNZMlVvSEVocGJ5el83ZUlQVVJVMjJQQ0VCSG9XZkFNRHlpZTc2WlFSU3lweVVwZHFzRGF4dEZpUdIBmgFBVV95cUxQWm5ZRjBxb3VtUFhXZF9IZDdSZzFpSG9WME9DS05MbzgzWkI0dWQwZ2h4akpjN2ttbjYtRGppRE9yLUt3aXZfR2FQdTI3WnQ5VGNFanRXd1NIZEI1UEhLNFV6a3lwbWpvVkFma2JIc1V5N2tYazZZb1pzTkNHZUFMUVA5ZVQ5cTZvV1JRWGd5dWRtT3M0OFlLWFVR?oc=5",
+   "desc": "Here’s exactly how a Fed rate change hits your wallet  Boston 25 News",
    "source": "US Fed",
-   "publisher": "WFTV",
+   "publisher": "Boston 25 News",
    "scope": "world",
    "ts": 1787578204000
   },
@@ -210,6 +210,16 @@
    "publisher": "SME Futures",
    "scope": "india",
    "ts": 1787565727000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vT2x6dW5rdjNWTm9zMjQtc1hOeFlNVmVZWDRoNzQtSkhrZTBzQkk3SDdOOG82NUpSQ2YtQmRGQ09TNi00a0Rmbi00T09rU2VoUUVpZVZCNVI?oc=5",
+   "title": "Top CD rates today, Aug. 24, 2026: Lock in up to up to 4.50% - Fortune",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vT2x6dW5rdjNWTm9zMjQtc1hOeFlNVmVZWDRoNzQtSkhrZTBzQkk3SDdOOG82NUpSQ2YtQmRGQ09TNi00a0Rmbi00T09rU2VoUUVpZVZCNVI?oc=5",
+   "desc": "Top CD rates today, Aug. 24, 2026: Lock in up to up to 4.50%  Fortune",
+   "source": "US Fed",
+   "publisher": "Fortune",
+   "scope": "world",
+   "ts": 1787565660000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxONllYRWtnTWF3c1NPT0t4a1hvMXJZQXJ2VkxkTl9leHlqTGdoR2ZRSDR0U3VrcXJGQWRfZ3FNNk0ycDdBNklkRUlWMnRVUC0xNzh1bi1qY3VmVGxaZzlxTDNEaG5VcDRfWENVQUZ6U3pyQWZhWkU",
@@ -309,7 +319,7 @@
    "source": "RBI",
    "publisher": "Reuters",
    "scope": "india",
-   "ts": 1787543580000
+   "ts": 1787543604000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYmxXN2RnSExFTnA1TFI4ZzhTTXdxVDU3SlFBWDNENF9sV19XNlp6LXBWVVdPamhMeVBHUEYtdnNHUkQ0ejJCSmxKWGtmNFkyT0JjNWtEcEM3RktHczQ3ZTZFUVRzUWdoZHlOcmJqMWU0Njg2QkM",
@@ -462,16 +472,6 @@
    "ts": 1787356943000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ySWlzYk5nYXJST2Q2aUZUVVNTVGZBd2xFT0VpMllnOWNUOEpLU3ZiMWREeWFwRlpqWnRYQTVjZk8yRjBHd0N6TS1hMnRId25ma004ZTJWNThHMUQ5b0NabmFReEZnQdIBa0FVX3lxTE1qZVlwN2J",
-   "title": "Federal Reserve holds interest rates steady - FOX 35 Orlando",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ySWlzYk5nYXJST2Q2aUZUVVNTVGZBd2xFT0VpMllnOWNUOEpLU3ZiMWREeWFwRlpqWnRYQTVjZk8yRjBHd0N6TS1hMnRId25ma004ZTJWNThHMUQ5b0NabmFReEZnQdIBa0FVX3lxTE1qZVlwN2JhdWlKV0JBcTBKVU03emxaZF9GMjBNQ2NhSmRzVXk0d081ejJjSWctNHQ0OWZCekwwZXJsbzE3OEN0NkFITElQZWVTaHNWa1djVGc0djBTS0JXeXJuOXB5U05vemZj?oc=5",
-   "desc": "Federal Reserve holds interest rates steady  FOX 35 Orlando",
-   "source": "US Fed",
-   "publisher": "FOX 35 Orlando",
-   "scope": "world",
-   "ts": 1787344637000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQnhpQlFuZ1VacjFIbEFfUV94VllQcWJGYUU4Y3RQbEF6MjNzMlNRaFliRFpMZEpFTFlRNWQtanR3TWdiRmVGb3d2cjJfSUNzTGFLdmdjcnZHckNtZUhlb25kZUZPTlk5NTFJNENsZlRvelpNbms",
    "title": "Sebi Cancels Registration of 15 Investment Advisers Over Unpaid Renewal Fees - Quarterly Earnings Report - vinanet.vn",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQnhpQlFuZ1VacjFIbEFfUV94VllQcWJGYUU4Y3RQbEF6MjNzMlNRaFliRFpMZEpFTFlRNWQtanR3TWdiRmVGb3d2cjJfSUNzTGFLdmdjcnZHckNtZUhlb25kZUZPTlk5NTFJNENsZlRvelpNbms1cEM0dmtWRmNtcFNGMDMtbXVyN0toOUMweHdXMFlwLWFDN3o2NVJhZGc4aS1yZ1FWS0w4Z0RYbUtiZktESmpMNTV6UGc?oc=5",
@@ -483,11 +483,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHUtM1poLXZNbl80ME0yQ0c0ajdiQ1RPQTd2V2RteTNrcmZVaDctcWxEczlEZHBVVXFDbTIya29Zd1FIWXY2ajhzaWdkMzdZRXlOS2hnRlFtRmJnalZ1M3RGNWVIdldQRTlTZV9DaWhJSjFGRXJ",
-   "title": "Sebi proposes bond distributor network, tighter ad rules to deepen retail participation - livemint.com",
+   "title": "Sebi proposes bond distributor network, tighter ad rules to deepen retail participation - Livemint",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHUtM1poLXZNbl80ME0yQ0c0ajdiQ1RPQTd2V2RteTNrcmZVaDctcWxEczlEZHBVVXFDbTIya29Zd1FIWXY2ajhzaWdkMzdZRXlOS2hnRlFtRmJnalZ1M3RGNWVIdldQRTlTZV9DaWhJSjFGRXJaclFkY2Ffc3Vwd2R2RU45VG5qQ2YtQ3pFLWlHcldTZXNRSFlpTWZMd2ZPeXkwWFFaSTBrMmxMYndmckJ1aWpLQk5TWHNIUG1uUDbSAcYBQVVfeXFMTUxNdjVYV194ZHJjdVNld00wZkNEeUIwX0FyLVFSbDBPOGlsNkpuN2ZiSkV4YXp6OEdrWkZVVExMZXZBemZiUUhjT2N0OVVRZG45RUEzQ1pZWkxmOS1YOFhENVhaSFdnbE8yZ3NWRXZZOF9hQktFVTJSaG1VY3RXQXRuVEotdWJ2ZEFVcEd5MlkyNDdJSFo0MUt4dXNJNG11dGMzYkx0anVseUdub3pmMWVMS2UwWEM4ZzVIZUR0QTdGX3ZpYUF3?oc=5",
-   "desc": "Sebi proposes bond distributor network, tighter ad rules to deepen retail participation  livemint.com",
+   "desc": "Sebi proposes bond distributor network, tighter ad rules to deepen retail participation  Livemint",
    "source": "SEBI",
-   "publisher": "livemint.com",
+   "publisher": "Livemint",
    "scope": "india",
    "ts": 1787320415000
   },
@@ -530,6 +530,16 @@
    "publisher": "The Economic Times",
    "scope": "india",
    "ts": 1787309766000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVV9POTVNRW9tdXdvMWx6RlAteUZfbkdyRTQ2T1hhZjh2czRQR05uQ05tcFBHTGJCNVhIT2t5b3kxbGtxOHN3bDJpUDFEYXV1Sm41ODFxWHRFWEJWNTBDVUU0M2daQnV3V2dIV0R4NVFhdmJFMXB",
+   "title": "Manipulation of new stock closing price mechanism & Sebi action: An explainer - cfo.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVV9POTVNRW9tdXdvMWx6RlAteUZfbkdyRTQ2T1hhZjh2czRQR05uQ05tcFBHTGJCNVhIT2t5b3kxbGtxOHN3bDJpUDFEYXV1Sm41ODFxWHRFWEJWNTBDVUU0M2daQnV3V2dIV0R4NVFhdmJFMXBWUWpieGVWQThVcjNxc3QzTU9kZmJ1dGR1OEtwZGJYMjJNeTA0NGFrN191RWRwTlJseGN1b3Rya05VSmc0YTJSTVZhRUx3bUZhRmVHS01fMGM3NHVzVk9mX1lUWEVteEdBdms5NG1iUEdNMjdMdmpEbm9mcEdVT2JB0gHzAUFVX3lxTE1JTzRsZ1NZN1FQYnM2Q0lCT3NaTUJVTml0SDFkYVBvWHlteVpDdmVKUFpGczRfLW4yRF9VdU9nRHVUamxvbVFhS2g5bjJIN01CUEg4Y2tsRndZOHNabFNvM19uS2hnajdDbFMwUDdySzBUZnJjbmFIb2gtNVJ1SnNpMWxJMzFOVUpGdU1PZk5hNDdoM2I0WTRjUDJEbFp2M2pDaFV5cERHQzgyUDA4a09WWWltYW5kY2t3cXI1eUJUMlc2ZnZYRjZINDNsSDRhWGdXc3NaLUVXaE9qbWVsOHViTV9qVDJDVzFiaFJQWkFYa0RzRQ?oc=5",
+   "desc": "Manipulation of new stock closing price mechanism & Sebi action: An explainer  cfo.economictimes.indiatimes.com",
+   "source": "SEBI",
+   "publisher": "cfo.economictimes.indiatimes.com",
+   "scope": "india",
+   "ts": 1787300461000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDkyNXdUUDhSd3VEQzJZN2piWnFMbnA3WVJXcUlYTVAxcnlsZ2hVTkpyODBjdzd6VktvTlhCM2N0NzFSblh1bGZEaVJ3ZnN2aUpkX3JMOVROQmowV2UxTENVY3ItMFYtZW1wM0poNEUycTBvZ21",
@@ -580,16 +590,6 @@
    "publisher": "The Sentinel - of this Land, for its People",
    "scope": "india",
    "ts": 1787288457000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVpsS0gtNUxDYk5hNWpnb3FPSm85VERoYkVhZWNhRDJndW9ZQnU1UTQzSUtlNVhubUZGaDZXSWtmaWIydUwwSFQ0VGRhaFNtOC1IbmFSR1ZjbV9WSkpLOS1nbTRVWWRna281Wm1yek1BVXJabnF",
-   "title": "SEBI Explainer: Stock Manipulation & New Closing Price Mechanism - Rediff MoneyWiz",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVpsS0gtNUxDYk5hNWpnb3FPSm85VERoYkVhZWNhRDJndW9ZQnU1UTQzSUtlNVhubUZGaDZXSWtmaWIydUwwSFQ0VGRhaFNtOC1IbmFSR1ZjbV9WSkpLOS1nbTRVWWRna281Wm1yek1BVXJabnFmVVM3Q1JtRmwwOEpvY1U2QzV2Rm9PeGhYOUMxMF9KMUJ1dFhsRXR6NnlJelRFX2oxRi16VEI1dlBydVhYMNIBuAFBVV95cUxQVkc0QXhWNkJJamI0Z0xjb1J1YXczU09aWEhjZnNoWlowWkRaN25RYlg2Y2FkdFlkT1ZEdS1HZVFZUlhqREVOTm5xOHJUZnNzSDY3dmFVN1laaFczQXJGNVFNVDJnZVdBUkJ1SGJaOWNqOHV0TmxULTVWWEJ1NDBYQnFUazZwYVJjRWxiQXZqRmFUb0RES1lJOFN2alNLQU5XbmdqRVZPUXV0NUJVcWN1Qk1GclBjbGZ4?oc=5",
-   "desc": "SEBI Explainer: Stock Manipulation & New Closing Price Mechanism  Rediff MoneyWiz",
-   "source": "SEBI",
-   "publisher": "Rediff MoneyWiz",
-   "scope": "india",
-   "ts": 1787287970000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLURaampYRUpZbjN0aDF2dnRKSkZLcm1TNGJDNFFGREgzRDJFS2xUMEdFQXBtTUFhVTBMTmhoRU1pSUhvTkFDUWlQX3FFdmo3NDdXcVBhdWZqY2lBcWlZdFBCQ1ZxQllwbGpJMHNFU3QwVzc2eER",
@@ -1003,11 +1003,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVTNlbjZuRHkwVTk3Y2h3V3B3MDFjUEpnUC1RRVBhbUd4VWZiWlVwRDVUdHB1U3l6UjBnTjllRzBlWE1wbERxZ3plamNhTVFtZ2Vqb1NyTU9mYS05QUl0aDY5YnZpNkF3Mjh1WnlDWTVOSXFsb3p",
-   "title": "RBI's rate-setting panel hints at future policy tightening if inflation persists - livemint.com",
+   "title": "RBI's rate-setting panel hints at future policy tightening if inflation persists - Livemint",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVTNlbjZuRHkwVTk3Y2h3V3B3MDFjUEpnUC1RRVBhbUd4VWZiWlVwRDVUdHB1U3l6UjBnTjllRzBlWE1wbERxZ3plamNhTVFtZ2Vqb1NyTU9mYS05QUl0aDY5YnZpNkF3Mjh1WnlDWTVOSXFsb3phQTYzZl9aU19tQ3dldmZwQmJQRzlDY0JMMFNhbWRkczVKV1ZvVUpibG9HOVpQZ29PeExLUEQtMTNXelJR0gG3AUFVX3lxTE9VT2owaktncFNVQXJDeEJRb21tRDE2LXR4UHlLbnhEajVfRk5HMDNib0ZDck41blh1VGppVDRRbzduWmRKTnl5QzdDWGk5MXVtZWZ0QUIzNjdZYVluZnA2M09QS3ZxT3JIRExOem04UWh1TXRZT3lpMEc3T2JPWnFldlJxNjdEWkdocGt3SXdKUlh0UUNCT1gxRzliRURhU3RsSDEtR1ZSWklWNko3OUdsU3d5ZThuTQ?oc=5",
-   "desc": "RBI's rate-setting panel hints at future policy tightening if inflation persists  livemint.com",
+   "desc": "RBI's rate-setting panel hints at future policy tightening if inflation persists  Livemint",
    "source": "RBI",
-   "publisher": "livemint.com",
+   "publisher": "Livemint",
    "scope": "india",
    "ts": 1787142333000
   },
