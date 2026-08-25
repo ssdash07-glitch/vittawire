@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T04:04:05.960178+00:00",
+ "updated": "2026-08-25T04:58:10.708804+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOTRYX19sd2R4T3VkdmVYdk9aY2RIRklYLTRFckZ2OGNtY0xLVUliUE5oRklqNjVlZ2JTR0ROWjVnOVlnRGtYYlhPN05uRnh2bnhkX19mRzVqZEdoSWJTM19KLUpSM0NVN1o3YkM0dkV6dGt2MGh",
@@ -312,6 +312,16 @@
    "ts": 1787547929000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nODFZdDFVaV94N3JzNVBDdHZmVlAtODg0MWxVQmdIYTlEbUZyRXV2MU9La3FmQUtLQmJrb2taY3c3YVp2T09nOXpaaW4yd1lVd0dEREN3LVAxdFdhUWI1Rk51eE5ZOEREUDJrZFNsdGs?oc=5",
+   "title": "Analysts’ views: forecasters continue to see Fed and Bank of England on hold this year - Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nODFZdDFVaV94N3JzNVBDdHZmVlAtODg0MWxVQmdIYTlEbUZyRXV2MU9La3FmQUtLQmJrb2taY3c3YVp2T09nOXpaaW4yd1lVd0dEREN3LVAxdFdhUWI1Rk51eE5ZOEREUDJrZFNsdGs?oc=5",
+   "desc": "Analysts’ views: forecasters continue to see Fed and Bank of England on hold this year  Financial Times",
+   "source": "ECB / Europe",
+   "publisher": "Financial Times",
+   "scope": "world",
+   "ts": 1787545912000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHJXS21aV0hpbzlIdFZQMnE3cUs3clNyQ0NvUUswS1RKRnhxTk1QalBrZzA4bG5odDJBaUU1VU5SbkNwd21wTGVzeUJ0dlhNREhSSWpobmM0VmdVVUpVbUJJQzQ0YlBfSVhzRHdUN3VLYWZGVDB",
    "title": "RBI monetary policy trapped in 'chalk and cheese' problem: SBI report - Economic Times BFSI",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHJXS21aV0hpbzlIdFZQMnE3cUs3clNyQ0NvUUswS1RKRnhxTk1QalBrZzA4bG5odDJBaUU1VU5SbkNwd21wTGVzeUJ0dlhNREhSSWpobmM0VmdVVUpVbUJJQzQ0YlBfSVhzRHdUN3VLYWZGVDBlbzFlcjl1SWdXYzBsU1YyczVoWnV4Zl9sWFpZR0lWVll2VGNONHlZckJmSHlVQnQ1cUc1Wi1yQlhqcE9VdGtQcEV1aGNOb2R5dEJWY2w0SGfSAcsBQVVfeXFMUERMOUMxWDFydWtIaU04TURHR21QWkh5Tnl0b3ZxNU90aGh0UEpQdlFTaWlZTjB3Y0g4b0hFSXFURXd6dkhobzBSb0M3UU5IMGZWTGJRQUQtY3NCYzhDeS1lZ2JWOEFxbGFDVTBqQjhzZHYtZ0NBNWgxUTlqMFFXb3ZndEZHd0xydUdMYmxFZmcxMWFnVGZNNjFpcEV3R0tpUENJTmFGZlVBWWVoS0tjajR1ZDVUUzdDRHBCV3liTnVqd2xKQk13dnZ1SkE?oc=5",
@@ -330,16 +340,6 @@
    "publisher": "Business Standard",
    "scope": "india",
    "ts": 1787545826000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nODFZdDFVaV94N3JzNVBDdHZmVlAtODg0MWxVQmdIYTlEbUZyRXV2MU9La3FmQUtLQmJrb2taY3c3YVp2T09nOXpaaW4yd1lVd0dEREN3LVAxdFdhUWI1Rk51eE5ZOEREUDJrZFNsdGs?oc=5",
-   "title": "Analysts’ views: forecasters continue to see Fed and Bank of England on hold this year - Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nODFZdDFVaV94N3JzNVBDdHZmVlAtODg0MWxVQmdIYTlEbUZyRXV2MU9La3FmQUtLQmJrb2taY3c3YVp2T09nOXpaaW4yd1lVd0dEREN3LVAxdFdhUWI1Rk51eE5ZOEREUDJrZFNsdGs?oc=5",
-   "desc": "Analysts’ views: forecasters continue to see Fed and Bank of England on hold this year  Financial Times",
-   "source": "ECB / Europe",
-   "publisher": "Financial Times",
-   "scope": "world",
-   "ts": 1787545743000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbWJhUkZ5ZERva0dPNDhXTEFTZ0gxb0VmbFhoQjVoekk1UlhrU3V4aUFwQW56Q0Z5MmhMYXNaYWVYQk93RHFnaEltR0tuYWhYNXZ4WXUzOFUtNWk5OVdfc1ZPMjQ0bm4tOHVpZkNIaEM5VUdka2t",
@@ -403,11 +403,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaUgyN2xzamZvVTJ1ZHJzX1dxd1MtWkNqM0RGYTdVeENjbl92WW83YVNDS243RkRfYmpEMEw4QkJjcnBLa0ZHZDN5em5EOGJMd3FINmpFYl9sYm5xYU11bngzSU5KX0REQnNYWFR5N2JBb1FQbzh",
-   "title": "PSBs, Recruitment, Employee Rights & RBI Policy Updates | Weekly Banking Roundup - Thekanal",
+   "title": "PSBs, Recruitment, Employee Rights & RBI Policy Updates | Weekly Banking Roundup - thekanal.in",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaUgyN2xzamZvVTJ1ZHJzX1dxd1MtWkNqM0RGYTdVeENjbl92WW83YVNDS243RkRfYmpEMEw4QkJjcnBLa0ZHZDN5em5EOGJMd3FINmpFYl9sYm5xYU11bngzSU5KX0REQnNYWFR5N2JBb1FQbzhUZENXd2k1NVlmWXNYQmNBYnhIQnVOWXYxY0g1MEwtcGJocTAyVzQteVVuR2tQNTc0X0lWOGFPVUJvZnZMenk?oc=5",
-   "desc": "PSBs, Recruitment, Employee Rights & RBI Policy Updates | Weekly Banking Roundup  Thekanal",
+   "desc": "PSBs, Recruitment, Employee Rights & RBI Policy Updates | Weekly Banking Roundup  thekanal.in",
    "source": "RBI",
-   "publisher": "Thekanal",
+   "publisher": "thekanal.in",
    "scope": "india",
    "ts": 1787411480000
   },
@@ -520,6 +520,16 @@
    "publisher": "36氪",
    "scope": "world",
    "ts": 1787356943000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0dVdGdUp3cHBTWVJrQlgwNDZ2anlXREdiVmFuUjFVQnNnaGJMelpYVHdfMlpSdDV2cC1DTnZnUXNNcUNGOFZ4VGFkZGFRQ0tRSmpJVG8wanRGMXFlMHpkeFp0U2VaLW0zMERhaFNUY2R3cm1SN1E",
+   "title": "Euro Steadies Against British Pound As Strong PMIs Support Both Currencies - Bitcoin World",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0dVdGdUp3cHBTWVJrQlgwNDZ2anlXREdiVmFuUjFVQnNnaGJMelpYVHdfMlpSdDV2cC1DTnZnUXNNcUNGOFZ4VGFkZGFRQ0tRSmpJVG8wanRGMXFlMHpkeFp0U2VaLW0zMERhaFNUY2R3cm1SN1E?oc=5",
+   "desc": "Euro Steadies Against British Pound As Strong PMIs Support Both Currencies  Bitcoin World",
+   "source": "ECB / Europe",
+   "publisher": "Bitcoin World",
+   "scope": "world",
+   "ts": 1787351710000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ySWlzYk5nYXJST2Q2aUZUVVNTVGZBd2xFT0VpMllnOWNUOEpLU3ZiMWREeWFwRlpqWnRYQTVjZk8yRjBHd0N6TS1hMnRId25ma004ZTJWNThHMUQ5b0NabmFReEZnQdIBa0FVX3lxTE1qZVlwN2J",
@@ -750,6 +760,16 @@
    "publisher": "Financial Times",
    "scope": "world",
    "ts": 1787230552000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzRJSHFFN2F4TEtIMFV5ZVctNEgtaTBFRlI1VkZ1VVhxVVk5TzRLM3gtLUJEWFdOcTBEazNSMzU2d1Z3NnpiYVVGbU15OE1ZNy1NV2FGMVhTam8xbXVHU3RDZE1MOGZ6YTNhSWI3cjM5eGYtTkI",
+   "title": "RBI’s Hawkish Minutes Rattle Bonds, Put Rate Hikes in Play - Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzRJSHFFN2F4TEtIMFV5ZVctNEgtaTBFRlI1VkZ1VVhxVVk5TzRLM3gtLUJEWFdOcTBEazNSMzU2d1Z3NnpiYVVGbU15OE1ZNy1NV2FGMVhTam8xbXVHU3RDZE1MOGZ6YTNhSWI3cjM5eGYtTkIyLTduZjNKYXVoTXM0MmlLeks3RElUN3AzOE90OEFzQ1dmR1lFNGJUaXlhX3dLRmM3ajRucWotT2o1MmZHM3k?oc=5",
+   "desc": "RBI’s Hawkish Minutes Rattle Bonds, Put Rate Hikes in Play  Bloomberg",
+   "source": "RBI",
+   "publisher": "Bloomberg",
+   "scope": "india",
+   "ts": 1787219956000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNVdSTlBBc0ppQnE1MjJRekdLenQwUHhxZmxQTFhOZm81Q2lrWFhzOFJPOUhWRXBHN2xBcGg5cFNVM0h0UHhoNHhYdHYtRGlZS2t6NzYtVUtDMTBCZUxtZldUNjBmWWtvbzhQTGxxMUlwU0VScEp",
@@ -1002,16 +1022,6 @@
    "ts": 1787147475000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45V1JheVN6eHBRVFBFNHNWdVBxdDBaSDZrVm0wOHJnWUFhM3hRWERQY0c5TWlqY0ZlQnNjbXVEbmY4QWYzMktwOUo5anZFQnI2OVJkeTVRTzVxQQ?oc=5",
-   "title": "What's happening to UK interest rates and what does it mean for mortgages? - BBC",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45V1JheVN6eHBRVFBFNHNWdVBxdDBaSDZrVm0wOHJnWUFhM3hRWERQY0c5TWlqY0ZlQnNjbXVEbmY4QWYzMktwOUo5anZFQnI2OVJkeTVRTzVxQQ?oc=5",
-   "desc": "What's happening to UK interest rates and what does it mean for mortgages?  BBC",
-   "source": "ECB / Europe",
-   "publisher": "BBC",
-   "scope": "world",
-   "ts": 1787133504000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2ZYeF81Uno4TGJKMFVuT0ZmUmd0eUppbzZsSWpDLVgxNE5VanFUaE5IRWxuMlhCVUNkaW1iT2Y5TTFrNWFDYmNZM2tja1ZFa1RzUUFZV1gta1lfeDFEN3NBNzN3b0o5QWxvaFhGQkswZEE5anh",
    "title": "India regulator reviewing small-company IPO, delisting rules, chief says - Yahoo News Singapore",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2ZYeF81Uno4TGJKMFVuT0ZmUmd0eUppbzZsSWpDLVgxNE5VanFUaE5IRWxuMlhCVUNkaW1iT2Y5TTFrNWFDYmNZM2tja1ZFa1RzUUFZV1gta1lfeDFEN3NBNzN3b0o5QWxvaFhGQkswZEE5anhuNnYybW95bnV6VEppQUFsUlE?oc=5",
@@ -1092,26 +1102,6 @@
    "ts": 1787016720000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZS1MeWowSjFWYXhRUjUzejA5N2JPWWVBU0Y2UEszUFNzVnM0b0xKZDZSbnlKTHNEYnZlUTRETDlUSnYzeWpVc3lhM19qN0Zzd2NwTmpIZjZlYUFUVkdicW01WF9rZjZ0eEVvTElYa2l4c0V1aHl",
-   "title": "Interest rate dilemma for central banks as inflation rises but growth slows - The Guardian",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZS1MeWowSjFWYXhRUjUzejA5N2JPWWVBU0Y2UEszUFNzVnM0b0xKZDZSbnlKTHNEYnZlUTRETDlUSnYzeWpVc3lhM19qN0Zzd2NwTmpIZjZlYUFUVkdicW01WF9rZjZ0eEVvTElYa2l4c0V1aHlxRG9uUkM4RElua2FURDRWTmVXcWVWeXZGTlZsVjF1OEEwRUVOVWtxU1Vuak1pa2VfWWJDMG9Mcm0zTGJjYWM3UHlEVHpCTzl0Vi1hZw?oc=5",
-   "desc": "Interest rate dilemma for central banks as inflation rises but growth slows  The Guardian",
-   "source": "ECB / Europe",
-   "publisher": "The Guardian",
-   "scope": "world",
-   "ts": 1786987440000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1p4M3NuMk00eldvUWVTdk1MbC10THR3QlJwdDRBTWVsaVQ2RDVkSzlmYm90d3dSYklBckJ0LUNUMWNGWXhXZF9ER3oxUzNIS01OUDMzcUhURklTNXQyVUp4NlpoUGtGQVlOMlJKV1VKMUhWRFJ",
-   "title": "Europe risks financial crisis if AI bubble bursts, warns ECB - The Telegraph",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1p4M3NuMk00eldvUWVTdk1MbC10THR3QlJwdDRBTWVsaVQ2RDVkSzlmYm90d3dSYklBckJ0LUNUMWNGWXhXZF9ER3oxUzNIS01OUDMzcUhURklTNXQyVUp4NlpoUGtGQVlOMlJKV1VKMUhWRFJ2b0lSYWpjQ2RxLUlXVnotcUR1NG1vbEZvcC0wdm9LRmZaNTZhYXhFak94S3R0TA?oc=5",
-   "desc": "Europe risks financial crisis if AI bubble bursts, warns ECB  The Telegraph",
-   "source": "ECB / Europe",
-   "publisher": "The Telegraph",
-   "scope": "world",
-   "ts": 1786985580000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR0lVNGJqekJYQTd5LXRHUmRvc0wxTTl0U0RoZDFNaU9rZ3lhdnhCUWo3dFREMkxJNkxrNWU4aUdrV2FPckdhcWg1WTljSFVCZ2lZMXJNNUkyR0pNaVkyTkVPSVY0d0lYSmhIOTJHMDBPNF9abzB",
    "title": "SEBI warns investors against live trading strategies on social media - BusinessLine",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR0lVNGJqekJYQTd5LXRHUmRvc0wxTTl0U0RoZDFNaU9rZ3lhdnhCUWo3dFREMkxJNkxrNWU4aUdrV2FPckdhcWg1WTljSFVCZ2lZMXJNNUkyR0pNaVkyTkVPSVY0d0lYSmhIOTJHMDBPNF9abzBZN3dGRmQ2eWFoOGk3a1RXaTJvdnNMNGVoU3ZDU0VGU1d3VUVwZFpfV0Fjb1VfNEpOMzNIQ21Ga3BRV01xR2liV1RYdHhiMlJnSERRTUUtS1d4V1A2N04wcW9VY1Jod0ZMRF_SAd8BQVVfeXFMT1NSTlE1bkJqUjhjVWFUdEt4VVJPSzg3UkEtekh6YUEyRzRLQjlxWXR4NGZMRHRSNGpOM1p4SEdHbXdiSjdDbXA5SVk3ZDFacURSWHBIazN5V0xHdzUzMFBOaHV1NWhpUzlVc2Y4QURpcHU0Ry1KT0o5T1lBbFZXNTlLeDBmeDRxelZKNnBmZmViX3Z4R0FlTUktUDBfMGh2Yk15MERjZEZPMy1FTGFxbzNPRDBXUV9JUWxIZGt2UlczVklIU2ZmUjRJSDBrcjNGUXJxdEtCOF9ZTVV3b1hPaw?oc=5",
@@ -1162,16 +1152,6 @@
    "ts": 1786777200000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc3AwSFpuUmlqNGl4NEY3UjZNWGx2d19FYkYxVXhwWXlQN1czcmNRb0xueFJLQVV5emM3V2JySzNDOFI3NWh3aVIxcGVOeW1KejFKMUlBV1YzWWhMSVdBRTBGZFF4aGtqMVo2UUgzNVpsT3dyaVZ",
-   "title": "RBI policy flexibility likely as GDP growth seen slowing to 6.6% in current fiscal: Crisil - ANI News",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc3AwSFpuUmlqNGl4NEY3UjZNWGx2d19FYkYxVXhwWXlQN1czcmNRb0xueFJLQVV5emM3V2JySzNDOFI3NWh3aVIxcGVOeW1KejFKMUlBV1YzWWhMSVdBRTBGZFF4aGtqMVo2UUgzNVpsT3dyaVZVMVRzQ2FpZi1lbkxmWC1wYkxEOHF1RUdIR0FhLWlOTHZFaTZWSzkyWFdLUnJlekZpOGFNbWJwVFB1ejFjek84ZHdJUklwWmxmQnByaDBpeVl1OUFMVlBWT1l0SVlmWA?oc=5",
-   "desc": "RBI policy flexibility likely as GDP growth seen slowing to 6.6% in current fiscal: Crisil  ANI News",
-   "source": "RBI",
-   "publisher": "ANI News",
-   "scope": "india",
-   "ts": 1786690800000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdnkySGc4T3V1UjVyWlJsWW9uX19NTktqbW9laUg5Yy1wR2pWU2NKNk80TW9NdXRPR0xpLWRQeU9DaXZneC1MZmVNdXlWYjd3S0czTWZDbERhTU5VYjR0UG9QTTc4MXVFb2hIZGNfOHZVTEpBdzc",
    "title": "Sebi mulls digital onboarding for individual foreign investors to boost participation in securities mkt - ETLegalWorld.com",
    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdnkySGc4T3V1UjVyWlJsWW9uX19NTktqbW9laUg5Yy1wR2pWU2NKNk80TW9NdXRPR0xpLWRQeU9DaXZneC1MZmVNdXlWYjd3S0czTWZDbERhTU5VYjR0UG9QTTc4MXVFb2hIZGNfOHZVTEpBdzc5MDdnd1Q1TjlIWmpjQW5QQmd0OTgzbmxaSk5UN2NDV3FtZkxXVUctaFZqZ1l6Uk1LZVJVTmZ1UkNZbzdZT0N3NnBSRkdKUlMzblFEMVRfUVlsVk5xMUZjb3VRWlJHREtFZ091b0xKLXhXQzhWYV9ZVVRGLXBNNFBLdXB4bXIyQUIxUlY1VEkzYUhsbHfSAYcCQVVfeXFMTjhFcHRaYlh1YnJvbnQtcVhkeUxTUXlUU3JrOWVYR05KLXNTYWFQVXpRMkIwNHZUTHNHNGs1SmVhTk9LMXNBdUhWZnZ5YUQ2SG94Nlk0b0diZTBXY295YUgwdlpxbjE4a0g1TldCRG9LVnhKTk90RG41eVowcm5udVhDcUQxTzBxaEhteUNoODJ0dV9sYk9pQWtEWHZTOWx6MmpidG1MUksyTXFISDBQa3c0RGVQRzFfdWJScWxDNk5lM2pPT1BWQWlIMGdUQ0U0MklDcmMtdUhRbERDUDgtaDNqYjdQNnE4c1RKUHNvb0lBdWlmNXNKOVZMNEx5NmtZVnV4cVgxUWM?oc=5",
@@ -1198,6 +1178,26 @@
    "desc": "SEBI weighs overhaul of SME IPO framework; consultation paper likely next week  Moneycontrol.com",
    "source": "SEBI",
    "publisher": "Moneycontrol.com",
+   "scope": "india",
+   "ts": 1786690800000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdS1uek1weGxGblhWN1p2VjludW9WSURIMVpjU2swVEk0X1ZFbWZqX0VQbzBXRERpUXI3YjlkTHBEY25RNXVQRnRBQkVCZmpqRTBHZzRFVXItcnJad3U0NUxsS2FoMFlrc3lMUzdjSE5tT3dId2Z",
+   "title": "Indian market regulator SEBI proposes fully digital KYC for NRIs, OCIs, foreign nationals - ANI News",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdS1uek1weGxGblhWN1p2VjludW9WSURIMVpjU2swVEk0X1ZFbWZqX0VQbzBXRERpUXI3YjlkTHBEY25RNXVQRnRBQkVCZmpqRTBHZzRFVXItcnJad3U0NUxsS2FoMFlrc3lMUzdjSE5tT3dId2ZrajVna0lUOXE5SHNLRkhaRG8zN2NMSUJGdDRaUTBYazV5bkVJU1BPcERDaDZBemJfQV9GRnVCQ3hYeTdzbERWelUyMGZsOFBxcE9KYTA1bnhueXl6WXlDYTZ3bXBfaA?oc=5",
+   "desc": "Indian market regulator SEBI proposes fully digital KYC for NRIs, OCIs, foreign nationals  ANI News",
+   "source": "SEBI",
+   "publisher": "ANI News",
+   "scope": "india",
+   "ts": 1786690800000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXZRWVFHM2cwdkpyT3FrRmpVWnlXeGlwTXFsZkltX0Q3YXdZVXEyWXlSQ0tMMVA5NWNmSDZrTDFpRExwejVRZl9jOFFERS1oQUlleDNyaVF0Z1lsSllHQjM4LW1rei1NM0JJZTN4b2pGUVhlaDB",
+   "title": "Indian markets regulator proposes digital onboarding for individual foreign investors - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXZRWVFHM2cwdkpyT3FrRmpVWnlXeGlwTXFsZkltX0Q3YXdZVXEyWXlSQ0tMMVA5NWNmSDZrTDFpRExwejVRZl9jOFFERS1oQUlleDNyaVF0Z1lsSllHQjM4LW1rei1NM0JJZTN4b2pGUVhlaDBvSVZSWndPcmFBLWwtblVrTkNUZm9kRUEybmNaQzNmSG42QjZOVWh0OG9IZnctY3JOdEhBX2xOYUN5WURleWpDWDNGZ2VkR0xfekM0Zw?oc=5",
+   "desc": "Indian markets regulator proposes digital onboarding for individual foreign investors  Reuters",
+   "source": "SEBI",
+   "publisher": "Reuters",
    "scope": "india",
    "ts": 1786690800000
   }
