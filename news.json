@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T19:03:53.164307+00:00",
+ "updated": "2026-08-25T19:49:21.290794+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVLUZBY3FnWTlXbjZaekMtUktSbUJ4bW1YVk1WeWY0YkFQaDZlTXg1R1lwMlBpa0xXcksydHdXZ3RYQ29zaUJPc2tkdDJpWHcxSWxzVg?oc=5",
@@ -29,7 +29,7 @@
    "source": "IMF / World Bank",
    "publisher": "Bangladesh Sangbad Sangstha (BSS)",
    "scope": "world",
-   "ts": 1787681902000
+   "ts": 1787681960000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTmpXVWJQSjFiTlV1Ynl3Rl9haW5PM0M1UjRHX0JWa19TNGRPODRaaC1VVVRDRl9SR0tCQVJGWFBsTHg3eElNQ254VUpLVXZjZy00OUR3amV3UXE2NTBwWFNodURHNFVaUVhObWE5QTFsdlRJNWV",
@@ -192,16 +192,6 @@
    "ts": 1787670300000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjdXTjRMdFdlUHMtSWYtU3oxYUxXUHdZYjRsYy1Nak94VGkzVFMyVXd2dDBNY05ORHNjU2JORFFsazdxVFI1TGJ3bUp5dW1SeDVLQmZaeWs3dUY1cDRFYXhEbU9nRVdHS3g5UGZaMWg0Ykkycmh",
-   "title": "Jackson Hole's big question: who pays the government's bill? - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjdXTjRMdFdlUHMtSWYtU3oxYUxXUHdZYjRsYy1Nak94VGkzVFMyVXd2dDBNY05ORHNjU2JORFFsazdxVFI1TGJ3bUp5dW1SeDVLQmZaeWs3dUY1cDRFYXhEbU9nRVdHS3g5UGZaMWg0YkkycmhSeU5uTnNIeHItQVlKbVRERVdVY0djV3RiRnhSM3V0VHRkMlJYTEdOLWRYWmpSeEtR?oc=5",
-   "desc": "Jackson Hole's big question: who pays the government's bill?  Reuters",
-   "source": "US Fed",
-   "publisher": "Reuters",
-   "scope": "world",
-   "ts": 1787668235000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGh2MEdwNVVfSW1rM2R6N1FhRnNPaEhYdnJPTkQ2U1RVc1RLLXdfUl9RU2ZselVKN0tPUkhkWC1yMGlNVDNfRmhkcEdIRnhWZFhVbXNSTDRoS3BNbTZiejBXeVRodjVjZTYwQ1BvTzNyV2l3cV9",
    "title": "India's central bank net absorbed $561 million in June as inflows picked up - Reuters",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGh2MEdwNVVfSW1rM2R6N1FhRnNPaEhYdnJPTkQ2U1RVc1RLLXdfUl9RU2ZselVKN0tPUkhkWC1yMGlNVDNfRmhkcEdIRnhWZFhVbXNSTDRoS3BNbTZiejBXeVRodjVjZTYwQ1BvTzNyV2l3cV9xLUhJU3pmeWx2Q0FZX3NFR0FRazhwV3ZnSk5zR0dtd29Pek91WGN0ZTExTjFVSGtvMzRsV2ZEdkNlR0NMTjgyZw?oc=5",
@@ -220,6 +210,26 @@
    "publisher": "Business Standard",
    "scope": "india",
    "ts": 1787665435000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNekpBMDhjbl9GWXJPWi1zTl8xYlBnVlF0c2o3VXN4dFVRN29EZEptVGFIdFF5VUx5dXBvaXRxdWh3MlA5NjhqLWRFeE9iZGFjaGlIeWNwZUZpN1NmN0djNmVMNnQxLXpyTnBwdkJFbzRQMl9xYnB",
+   "title": "Sebi bars Varanium Cloud, promoter from securities market for seven years - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNekpBMDhjbl9GWXJPWi1zTl8xYlBnVlF0c2o3VXN4dFVRN29EZEptVGFIdFF5VUx5dXBvaXRxdWh3MlA5NjhqLWRFeE9iZGFjaGlIeWNwZUZpN1NmN0djNmVMNnQxLXpyTnBwdkJFbzRQMl9xYnBVN3k3UmlFMTFZOFkyT0R4b1lrTE9wTjY1bUlsWGVLVmdDdHNodjFGYVViWlFWRUZ3V2JjMVpsdzlDRGJZc3haLWpTeDV2SWptSWNtX0VLaDVvZ1JjTGlPR2MtVEpzbWtpMHnSAd4BQVVfeXFMT3pCaTV0UXRIa0FjekIyc2V6Z2JiZ2thUHJ6a0VMUzlyUVJBeFh4SmdmSEcyQ09BczVJaHNJNHJqTXprM3VPOHpjNW54d2R5LXFRWlB1ZzZOcWRCZDVqdGpoT2xKZnpPN1ZsX2E2QWFaNVV4R2dxS2I3ZWllbFZIaHFucDZlVUZrR2QyZjVCY0dsdklhaFI5R0FDRlY4dkV6WVRXWk91bjc5dUZYWUJtMU85V2w5VTd0SFJQTU5rUU1Ha3E4Q3Q0c0JjeG9VUkxzQXpQX1Z1U29lNUxDSG5B?oc=5",
+   "desc": "Sebi bars Varanium Cloud, promoter from securities market for seven years  Business Standard",
+   "source": "SEBI",
+   "publisher": "Business Standard",
+   "scope": "india",
+   "ts": 1787663633000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeEtCYVJGWXZVMG1WcGJUUnZCaXd2ZEJqZWVhbzlrYm4yMzc2MndzUV8td2pRbHVmRGprZmFhVmNUaHNkR2o1SFVpb2RIaFZIUy0zek1qdGl6WkhaVFRLdXpLQnVxemxpSW5VX3dTYnlpbkRPWkp",
+   "title": "Why the bond market may be resetting expectations about the US - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeEtCYVJGWXZVMG1WcGJUUnZCaXd2ZEJqZWVhbzlrYm4yMzc2MndzUV8td2pRbHVmRGprZmFhVmNUaHNkR2o1SFVpb2RIaFZIUy0zek1qdGl6WkhaVFRLdXpLQnVxemxpSW5VX3dTYnlpbkRPWkpBSDc0MkQ0Um84QklpNzdqSVdqeXFIa2NpalhxQjIyTW42WUZHOW91WVE4dktseW1EYUY0LXBpVmZv?oc=5",
+   "desc": "Why the bond market may be resetting expectations about the US  Reuters",
+   "source": "US Fed",
+   "publisher": "Reuters",
+   "scope": "world",
+   "ts": 1787661403000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY0VLUjZiMDY5RkNNTWVidnRMWEJpSlJTR1lhMmx5NHZXakRLTW5ZZE1vUVctT3didnl0eDRqdFhNb1M1YjQycEh2eUpwVF9lY1JFXzVQaU5YVWNKeUkybnFFc04tT1BPQmtGOGppOTZsTXAzS1k",
@@ -260,16 +270,6 @@
    "publisher": "Devdiscourse",
    "scope": "india",
    "ts": 1787656095000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uU3hSZmtnRUFod2V5QU5QVl9wNGV1N0dZYkVuOW9INkxBLThwVDN1LWt4MzNwQTh5MlRpMzdmbEZxNG9kYkFOa0dtbnVOcE93Ri1Wb1VsbUg?oc=5",
-   "title": "Top CD rates today, Aug. 25, 2026: Lock in up to up to 4.50% - Fortune",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uU3hSZmtnRUFod2V5QU5QVl9wNGV1N0dZYkVuOW9INkxBLThwVDN1LWt4MzNwQTh5MlRpMzdmbEZxNG9kYkFOa0dtbnVOcE93Ri1Wb1VsbUg?oc=5",
-   "desc": "Top CD rates today, Aug. 25, 2026: Lock in up to up to 4.50%  Fortune",
-   "source": "US Fed",
-   "publisher": "Fortune",
-   "scope": "world",
-   "ts": 1787652060000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQTNpT21rdGpqNjlCbHNLNDRfaFIyNGhhRnBoNEJHeDl6SF9NZm9MVzFmTnZrcTJHZXJKcUpnY3BnVm9Bd0xXYWo4WE1YY0F1RkUxS0lubERpcTJsRzM1bVJKblF1WVJiZlJRenhjLWcyZnd5TGl",
@@ -482,16 +482,6 @@
    "ts": 1787584030000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzJ1cVl2Ny1WanlFSEpJczFRQ19DSnJoeUJQNmwxNFVvZm1OUXVodzRPVElZZXBNLW5Ndnp5REdRRjB5Z19fREtlX09qNXBtNll3WlBud3ptZnFtdWtwbzFLVkw2MHJId3FXMGFhZTF0d2x0ZnN",
-   "title": "New Fed chair faces critical test at Jackson Hole as inflation fears mount - The Guardian",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzJ1cVl2Ny1WanlFSEpJczFRQ19DSnJoeUJQNmwxNFVvZm1OUXVodzRPVElZZXBNLW5Ndnp5REdRRjB5Z19fREtlX09qNXBtNll3WlBud3ptZnFtdWtwbzFLVkw2MHJId3FXMGFhZTF0d2x0ZnNsdUthU1ZmaW1URmIzZ1kxR0JUU2lwTG41aE44YlotT3hIUjlDZ1VhSThxelVTNjRreWhnbWtqRjZEMjhLekJuWDZfZUFqcVJGcDJnZk0?oc=5",
-   "desc": "New Fed chair faces critical test at Jackson Hole as inflation fears mount  The Guardian",
-   "source": "US Fed",
-   "publisher": "The Guardian",
-   "scope": "world",
-   "ts": 1787581080000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhN2h3ZVVnYUZQRGpoOE1Zb0I3LUdEV0xIYW9WS0cwNGNYRDBQdUhfa21zcUtTeFFPbVQwYW5aNlJlWUtXekNnRFI1dEg3S3gxQ3ptOE1qTnFQMHpPbDVYN0FXUXJ1VVRNcU1nVzhrMjRsSll2STJ",
    "title": "Here’s exactly how a Fed rate change hits your wallet - 104.5 WOKV",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhN2h3ZVVnYUZQRGpoOE1Zb0I3LUdEV0xIYW9WS0cwNGNYRDBQdUhfa21zcUtTeFFPbVQwYW5aNlJlWUtXekNnRFI1dEg3S3gxQ3ptOE1qTnFQMHpPbDVYN0FXUXJ1VVRNcU1nVzhrMjRsSll2STJCZUExMNIBjwFBVV95cUxPdVNuZHVwR2YzWlJqS3RIZXJsZVZGaXNWMG9aZ1JlZEIyaklVdFl2c09rY3lEOGUwQ2R0UzFGT0VKaWxkMXF1WkRMTXJTZWp4ZGh6UzNWTy1NcjdBYk9Vc3lKVVdpWUwyU1k1VHIzWWtPMHRwZmR5U0w1c0wwWWxDbjZoZjZrX2lseHBUX1BrSQ?oc=5",
@@ -562,6 +552,16 @@
    "ts": 1787560989000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYnREQ1ltdWRDTkdnejNQTjI0cFJmM0FHNEN6VUZOODBiZmZ0dTlQblk3OWFZWHptZlNtYzIxQm1oVzllNTZBX1ZSSzdUa19NSmZTNk80MjE3LWt2UkxTemJ4SzNfWDFyYTJYaFpiczYzWjQzdWl",
+   "title": "JPMorgan’s Copthall Mauritius to argue SEBI violation was technical, not manipulative - BusinessLine",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYnREQ1ltdWRDTkdnejNQTjI0cFJmM0FHNEN6VUZOODBiZmZ0dTlQblk3OWFZWHptZlNtYzIxQm1oVzllNTZBX1ZSSzdUa19NSmZTNk80MjE3LWt2UkxTemJ4SzNfWDFyYTJYaFpiczYzWjQzdWlHWWFJcFhSdl9Fb2QzTkdxd3pObE9qcmV5RWQ0dVRoVHhac2kzZjlMMEFsdmNkcVNNNURXdFBUU2ZKNDkyX2FuaVgzVWJZWUhXeGRxbnNWMFhpanJxeUxsdl9Vek5XRlpFV3VpWFI0blgwbW530gHoAUFVX3lxTE1YXzdFbHlZQmRsczJpWVZHQ3BueXcxMnpoR3pVeEU3VG1Sb0pyZTF3Q0tqSHMyVHY5amZOTXYxYzNQWlhLd0psa2xKb3BzQ1M2LVBmb19XejVrLUlld29yRk1GaWVYWVltRldKel9pOVhMQXJZaHFCUWN1Yzl6d2tqNDA0d3o4b1BmSGt6QWVnNE15X2dGQXpmTFlBdGc0cEY1V2laeF82WUhkampkQzNfZWxJaEpDc19PckdaalNoMmd0WnU1dzFtdjU3VGxpeUhBVDBCR3BuVkVQRnRFb2djaTROMjdIMFk?oc=5",
+   "desc": "JPMorgan’s Copthall Mauritius to argue SEBI violation was technical, not manipulative  BusinessLine",
+   "source": "SEBI",
+   "publisher": "BusinessLine",
+   "scope": "india",
+   "ts": 1787556930000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbHZOSHQ4Z2pXem5aRUdKVHk0VDYwWWVqM2lMSkFhQjdlQ2NjbDdpUDJjNUlJaGZBNzZVdE9uekc3em5YeWh4aFpOc3hjbnRBd1dOYVE5bTRITUMxZ09UaDdxcFNUeU5vSkIyTkxNRnp0T25hci0",
    "title": "Rupee Steadies as RBI Buys Reserves, Oil Shifts - TradingPedia",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbHZOSHQ4Z2pXem5aRUdKVHk0VDYwWWVqM2lMSkFhQjdlQ2NjbDdpUDJjNUlJaGZBNzZVdE9uekc3em5YeWh4aFpOc3hjbnRBd1dOYVE5bTRITUMxZ09UaDdxcFNUeU5vSkIyTkxNRnp0T25hci00SW9uU2FlMzduZXZ1dTJYNVpDSTJ2NTJyYTA?oc=5",
@@ -570,16 +570,6 @@
    "publisher": "TradingPedia",
    "scope": "india",
    "ts": 1787555594000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaW5CTFV1dUZNTURHeXllRWZ1WmR2SnVMM3pCZnhlU2Y5bkRsOENwV0ZpUW5RNVJLSE9FaC1tcmkwN0VwTi1YRlh4ak5zd1NTNGlQc0VZVkFBd1lraUhtbnhNam5JdGdTWkp1NUlJSnVWYW01VE5",
-   "title": "JPMorgan's India unit to argue any regulatory breach was technical - Moneycontrol.com",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaW5CTFV1dUZNTURHeXllRWZ1WmR2SnVMM3pCZnhlU2Y5bkRsOENwV0ZpUW5RNVJLSE9FaC1tcmkwN0VwTi1YRlh4ak5zd1NTNGlQc0VZVkFBd1lraUhtbnhNam5JdGdTWkp1NUlJSnVWYW01VE5FMUxOeXhRaVFmVUQyRkE4cF9LY3BkSEIzbGhGWVNOT2UybXZ5dnRZWERvd0NVaVAzLUJMTk9rc1lIaVg5ZHRpOU5aQk9NRkRDTjVBb1ctRFBWV2I4MNIB0AFBVV95cUxQckRVZEZGNnNrcnhZWFlzZUtrS3d0ZHFhTjVQdmRlb29BVC1vbFdTVFB0Z3ZMOFFIcUtnaW4wTC1iOUhDazhkRUh2amhRS0tWREg0eWxoY0NwaV9SX1N2SzM5TndNVzhmOVJ0OXg5VmJIekNqamE4OWVkV2k5cnpaZXdwdUNULUpRYnBlYnRhM0FLWExOTHEtcUhKUU1xdVM2MzhueE0zNGxVdUZ3cTh3VjcxaDZ6OXoyV1FxRFAxeWx2aFJXY2JyVEVfRm5icGww?oc=5",
-   "desc": "JPMorgan's India unit to argue any regulatory breach was technical  Moneycontrol.com",
-   "source": "SEBI",
-   "publisher": "Moneycontrol.com",
-   "scope": "india",
-   "ts": 1787552609000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTUIwSjVOa2NFbHlJZ2VNUTJVLVJWaGh3ZnlabHFJR0pmZVhNSWIwSDFpQTRLS28tUTh2SVRUQnkxR3hRdllJX2FjNXdsd1plXzc1WHZaUGdfQlBTNFRQT3FkazFScXFYNWpDaHFEYUh4N0lWV1B",
@@ -1092,16 +1082,6 @@
    "ts": 1787124279000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2ZYeF81Uno4TGJKMFVuT0ZmUmd0eUppbzZsSWpDLVgxNE5VanFUaE5IRWxuMlhCVUNkaW1iT2Y5TTFrNWFDYmNZM2tja1ZFa1RzUUFZV1gta1lfeDFEN3NBNzN3b0o5QWxvaFhGQkswZEE5anh",
-   "title": "India regulator reviewing small-company IPO, delisting rules, chief says - Yahoo News Singapore",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2ZYeF81Uno4TGJKMFVuT0ZmUmd0eUppbzZsSWpDLVgxNE5VanFUaE5IRWxuMlhCVUNkaW1iT2Y5TTFrNWFDYmNZM2tja1ZFa1RzUUFZV1gta1lfeDFEN3NBNzN3b0o5QWxvaFhGQkswZEE5anhuNnYybW95bnV6VEppQUFsUlE?oc=5",
-   "desc": "India regulator reviewing small-company IPO, delisting rules, chief says  Yahoo News Singapore",
-   "source": "SEBI",
-   "publisher": "Yahoo News Singapore",
-   "scope": "india",
-   "ts": 1787123161000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tSmNrREI0bzJWclNqR29qNWpaUndDN1JJNU9VUExSNlQ4U05qR2x6YmR2eVR0UlBVOUVkWEptNGlxQS1fRktYald4Ymp6ZlJKQWt3V3FNVm9Gb3JVbGxqYjNmcjZmWENSa1JwWEZrUDZsNnZoamc",
    "title": "Who Regulates Commodity Trading in India? SEBI Explained - Sahi",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tSmNrREI0bzJWclNqR29qNWpaUndDN1JJNU9VUExSNlQ4U05qR2x6YmR2eVR0UlBVOUVkWEptNGlxQS1fRktYald4Ymp6ZlJKQWt3V3FNVm9Gb3JVbGxqYjNmcjZmWENSa1JwWEZrUDZsNnZoamc?oc=5",
@@ -1163,23 +1143,13 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUDJ4QUc0eW1sa3VCclZnV1JGWXREU3BTWnlFQk5PQi16aEY5NzN3X3EySndZaUw1Q1RlLUM2TTFlTVJQSGUwRkdFN3Q0bzZRSml1U3E5b0MteFNWc29MR2JCRmJ4V0J4OWdORFZCR0Y5bGhON2x",
-   "title": "CAS here to stay, it can be improved upon: Sebi - The Times of India",
+   "title": "CAS here to stay, it can be improved upon: Sebi - timesofindia.indiatimes.com",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUDJ4QUc0eW1sa3VCclZnV1JGWXREU3BTWnlFQk5PQi16aEY5NzN3X3EySndZaUw1Q1RlLUM2TTFlTVJQSGUwRkdFN3Q0bzZRSml1U3E5b0MteFNWc29MR2JCRmJ4V0J4OWdORFZCR0Y5bGhON2xtTHlFWFo5RHVRYmRfYkV6WmRIV2VHQmV2NjMteF85ZGtmRll1LTFQUXRmRlctSl8tXzJfYVZGZnZIMkpNS1gxMUlYY19Lb1FiOEt1aU1fUGRZNjFYc9IB0AFBVV95cUxOc1JVZ0Jzcl9rWHI2ZHhSX1FlRDVRNnRHMW5tb2ZuS1dpVDh0UjVzT0FuUnAwVjFGVXNlRTlKSHdBYlNiLUw1bURKYlo1cnpldlFqQmpzVnlHWFlldmQ2RzU2Y0Q2RWtxM0g3MVVCN1BlTHdPalpwSXlxUUsySkFGZkNCOWMtbGM3eWd4T1RyVkxDSmxGekRiTllsSUlsMHMwRkRlVjRGS2kzc3c5UWhWVkN0TjQwdnEyM2lzQ1BISzZCc0VmTkVLMXVRbk85WVM3?oc=5",
-   "desc": "CAS here to stay, it can be improved upon: Sebi  The Times of India",
+   "desc": "CAS here to stay, it can be improved upon: Sebi  timesofindia.indiatimes.com",
    "source": "SEBI",
-   "publisher": "The Times of India",
+   "publisher": "timesofindia.indiatimes.com",
    "scope": "india",
    "ts": 1787016720000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOejNTalpxRFR1TmcyaDVMdmhScjVJdDRaY0FKQzF4RkFwM1pldXY0NFQyRmIxbHlVZ1hWQTJtekJrVlZGZUtTWFVRTUVKWnNfQUMwVkxDazNRektWUnljQ0tjbW94MzJMc2Q4WjZfWnhEbUhyaXQ",
-   "title": "Do not trust claims: Sebi cautions against social media trading tips - Telangana Today",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOejNTalpxRFR1TmcyaDVMdmhScjVJdDRaY0FKQzF4RkFwM1pldXY0NFQyRmIxbHlVZ1hWQTJtekJrVlZGZUtTWFVRTUVKWnNfQUMwVkxDazNRektWUnljQ0tjbW94MzJMc2Q4WjZfWnhEbUhyaXQ3eU5TaHBYTUxPU200R3I0YVdFSjFGblo1TWZ1TGFXb0Mwc3lB?oc=5",
-   "desc": "Do not trust claims: Sebi cautions against social media trading tips  Telangana Today",
-   "source": "SEBI",
-   "publisher": "Telangana Today",
-   "scope": "india",
-   "ts": 1786985994000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQjBmQXJhLXpKMDNNdTA5T0pEaHRwOGtEamZ3UXV3UHJ2NGtpaHlQRy1TQTg2VE0xZ21WdEpfX25EMElhczZXREJWYlZCZVFTQi1mSlplZ0dEbkxHWXRUa1YzOGRuQzNSVVlfSnNYbzF0UF9jVFl",
@@ -1192,6 +1162,36 @@
    "ts": 1786979625000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeEFQNk9oSklfQ0dxekMxY3FuVTVVemxEZzRxSV9fQVlhLTZlNHFqcEVEbTZRUE4tRnJ5eEcxb1RmMGNucEdJVnpvN0RLTWJYRHRRcGV1eHRFNTVVYXVjTU8td2k1OG1HeWtMb3ZMVmQ5N1NONlY",
+   "title": "SIDBI backing is a ‘huge stamp of credibility’ for Cedar Hill Capital: Sahil Anand - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeEFQNk9oSklfQ0dxekMxY3FuVTVVemxEZzRxSV9fQVlhLTZlNHFqcEVEbTZRUE4tRnJ5eEcxb1RmMGNucEdJVnpvN0RLTWJYRHRRcGV1eHRFNTVVYXVjTU8td2k1OG1HeWtMb3ZMVmQ5N1NONlY5Ni1Lc0x3d3BrUVVycTVfdGZoTlE2S25WYlMwM3dsWDlSanN4WXF2V05HaEdwRGlYUWdjZmZqRkM4M2NyZVY3NFQtMk1RdjIzdVp0Q1JtV2ZuRVc4MGtJcTFCMEM5bmVTaXM0WDJtRndpLWoySVBTZE1CWEHSAe8BQVVfeXFMTngtNk9Lc1lFU3ByLV9ST2kyMUlxMEdMVm1KV01WUHJ6YVl6cERLaHh5b0NfOURjREpwc1drY3pXMlBSUjNFd3J5RWtDTUNHVnRiT2ttemRjZE0ycHdCeXJtc2NrMFdRd3NHOTQxMkpvVTlTajNCSlRZS0JySF9mMzh3TVh2Vks4bXV4Y0UwdnJXZkc5ekw2X1NnUUtuY2NES05tcHVUZkZiZTJSZW9RdjRSS1p3dnM5LXJXVGZnYld6d2ZEaWdaSk9ua08tdFpfbmNLbWR0Z0lCWjZ5ZmZ4aGNtbEV6cFpoZDNRdWRwNVE?oc=5",
+   "desc": "SIDBI backing is a ‘huge stamp of credibility’ for Cedar Hill Capital: Sahil Anand  The Economic Times",
+   "source": "SIDBI / MSME",
+   "publisher": "The Economic Times",
+   "scope": "india",
+   "ts": 1786950010000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR0lVNGJqekJYQTd5LXRHUmRvc0wxTTl0U0RoZDFNaU9rZ3lhdnhCUWo3dFREMkxJNkxrNWU4aUdrV2FPckdhcWg1WTljSFVCZ2lZMXJNNUkyR0pNaVkyTkVPSVY0d0lYSmhIOTJHMDBPNF9abzB",
+   "title": "SEBI warns investors against live trading strategies on social media - BusinessLine",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR0lVNGJqekJYQTd5LXRHUmRvc0wxTTl0U0RoZDFNaU9rZ3lhdnhCUWo3dFREMkxJNkxrNWU4aUdrV2FPckdhcWg1WTljSFVCZ2lZMXJNNUkyR0pNaVkyTkVPSVY0d0lYSmhIOTJHMDBPNF9abzBZN3dGRmQ2eWFoOGk3a1RXaTJvdnNMNGVoU3ZDU0VGU1d3VUVwZFpfV0Fjb1VfNEpOMzNIQ21Ga3BRV01xR2liV1RYdHhiMlJnSERRTUUtS1d4V1A2N04wcW9VY1Jod0ZMRF_SAd8BQVVfeXFMT1NSTlE1bkJqUjhjVWFUdEt4VVJPSzg3UkEtekh6YUEyRzRLQjlxWXR4NGZMRHRSNGpOM1p4SEdHbXdiSjdDbXA5SVk3ZDFacURSWHBIazN5V0xHdzUzMFBOaHV1NWhpUzlVc2Y4QURpcHU0Ry1KT0o5T1lBbFZXNTlLeDBmeDRxelZKNnBmZmViX3Z4R0FlTUktUDBfMGh2Yk15MERjZEZPMy1FTGFxbzNPRDBXUV9JUWxIZGt2UlczVklIU2ZmUjRJSDBrcjNGUXJxdEtCOF9ZTVV3b1hPaw?oc=5",
+   "desc": "SEBI warns investors against live trading strategies on social media  BusinessLine",
+   "source": "SEBI",
+   "publisher": "BusinessLine",
+   "scope": "india",
+   "ts": 1786950000000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObjB4RGVYdURLdWdUY2ViWUNfZXUwMkQtQWFOajIyLWc2VE9uLXdiZDdkVVZGekFHXzZrdzJtUFpsWnNSR2VUdTZDdGlWbm1xR3ROLXFscVc3VFhMTmJzV0VpRDRpMXJzdmJFOHEteVp4czJKaUl",
+   "title": "SEBI warns investors against real-time trading tips on social media - Upstox",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObjB4RGVYdURLdWdUY2ViWUNfZXUwMkQtQWFOajIyLWc2VE9uLXdiZDdkVVZGekFHXzZrdzJtUFpsWnNSR2VUdTZDdGlWbm1xR3ROLXFscVc3VFhMTmJzV0VpRDRpMXJzdmJFOHEteVp4czJKaUlPT3VYbVBVSGt4cUE0cVd1VDBVQWkyWEN1QVlNVWRwN1FUUFVGaU0yTnNzVE9qR2dHMnRBYXlTbTVhWDVMTVBrZXFUcHRwcklHT1ZxcHpCWUVGODF6bEI?oc=5",
+   "desc": "SEBI warns investors against real-time trading tips on social media  Upstox",
+   "source": "SEBI",
+   "publisher": "Upstox",
+   "scope": "india",
+   "ts": 1786950000000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0p0REVVbU5Jemw4S3l1Z1l6d1phN25HR3lMck44YjJlQld3bFh0M0l3ZEROT0o3cjdIbTVrNjVSS2xzMjhPTjE0VHA2eE9kUlREVUZpWTZwbUQ1dDVpa1VmRGQ4eVU1OHh4S1BtSnkyLUZkZ2V",
    "title": "Fed to hold interest rates this year, economists say, sticking to their view: Reuters poll - Reuters",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0p0REVVbU5Jemw4S3l1Z1l6d1phN25HR3lMck44YjJlQld3bFh0M0l3ZEROT0o3cjdIbTVrNjVSS2xzMjhPTjE0VHA2eE9kUlREVUZpWTZwbUQ1dDVpa1VmRGQ4eVU1OHh4S1BtSnkyLUZkZ2VTTU9IU0Fsc3VucUZNVm9zM1N3RUdpc0gzdk5zOGV3bzNROUlXaXdvZFdoR2tId0N6bHJyUTZlUmp0MzJXRQ?oc=5",
@@ -1199,7 +1199,7 @@
    "source": "US Fed",
    "publisher": "Reuters",
    "scope": "world",
-   "ts": 1786964889000
+   "ts": 1786950000000
   }
  ]
 }
