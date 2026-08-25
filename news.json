@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T08:02:59.921648+00:00",
+ "updated": "2026-08-25T09:03:34.034463+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYTQ3UllHSDB0NVFVS3BWTXJ1N0RkSFRrbGttWTJzRElXdTdxVHNCYUVpUE04UHByVDBiOHM0bGt5b0k2aG1EVW0yYUs5bGRQMThMTVFhR1A5TFMzc2hRR1M5LTJONS1vUjJfVGZlUm1rd2dqRTd",
@@ -12,14 +12,24 @@
    "ts": 1787643640000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOS3kzZjdhWGxBNEdjVkg1RW91OGpHUmhkREliVm9xdkdFTEZVX052bVBZMkpfSjh3N3g1LVUxbUVDUlB3ZGVOZTR5NlN2VzU4T2o1Z21iandNUlVoenRtdFpVSVFoMzdRVU1tVVU1MHZ6QnJPTWo",
-   "title": "Gold touches highest level since mid-May as buying momentum builds - ET Retail",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOS3kzZjdhWGxBNEdjVkg1RW91OGpHUmhkREliVm9xdkdFTEZVX052bVBZMkpfSjh3N3g1LVUxbUVDUlB3ZGVOZTR5NlN2VzU4T2o1Z21iandNUlVoenRtdFpVSVFoMzdRVU1tVVU1MHZ6QnJPTWo3MnlZc0dmVjdHODNXV01SaGI0czFiY2JxZTlHN3ZsS1U1bmtkUS1nQ1hIY2l2WE9mTnZMMlpTUk43TlpVQVRKR1ZwSWJzcTZUY3FWRXVYcmNROEVrRThka0QyamwzTjE3ODlzeU1DUzJiLWlSdXZVQQ?oc=5",
-   "desc": "Gold touches highest level since mid-May as buying momentum builds  ET Retail",
-   "source": "US Fed",
-   "publisher": "ET Retail",
-   "scope": "world",
-   "ts": 1787628367000
+   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
+   "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+   "desc": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News  News On AIR",
+   "source": "RBI",
+   "publisher": "News On AIR",
+   "scope": "india",
+   "ts": 1787641621000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDdpZW5ESjlDSllRenlRaVdPRVpQTXdwOWxwZXN5YXR0T0ZMUUVtT1JRR0hxWTRtdlJNbUpJTXNtRnVIcnRIaW1TYWdmYWliUXFKUUNoTEZYeE1mRjNlZjJOMmFmM3pBRlp1LWNlTG5EVjVNVUt",
+   "title": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News - News On AIR",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDdpZW5ESjlDSllRenlRaVdPRVpQTXdwOWxwZXN5YXR0T0ZMUUVtT1JRR0hxWTRtdlJNbUpJTXNtRnVIcnRIaW1TYWdmYWliUXFKUUNoTEZYeE1mRjNlZjJOMmFmM3pBRlp1LWNlTG5EVjVNVUtmRThkWGZxOHV2YXYxZU9uWVdGdDZ3NEQzM0NCbzBLY2xFWk40ZzQxTUk2YllTQ0p5TUlGQQ?oc=5",
+   "desc": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News  News On AIR",
+   "source": "RBI",
+   "publisher": "News On AIR",
+   "scope": "india",
+   "ts": 1787641541000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOTRYX19sd2R4T3VkdmVYdk9aY2RIRklYLTRFckZ2OGNtY0xLVUliUE5oRklqNjVlZ2JTR0ROWjVnOVlnRGtYYlhPN05uRnh2bnhkX19mRzVqZEdoSWJTM19KLUpSM0NVN1o3YkM0dkV6dGt2MGh",
@@ -102,16 +112,6 @@
    "ts": 1787594850000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWh",
-   "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
-   "desc": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News  News On AIR",
-   "source": "RBI",
-   "publisher": "News On AIR",
-   "scope": "india",
-   "ts": 1787594239000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR2hGTVlLRzdLcTIwNFExdTlzYXkxSVpCSWZmSWNjNjYxYVlWX1VWdHYwOXBHekxHVmREb2ctOXFqMVo2SWVIbjhTZjBKVmh2emhiNXB2MWNPSURnZTNHRkFQcTBmMVU1VGYtdEtWMk56aHg5S3d",
    "title": "From trades to balance sheets: Sebi to widen AI surveillance net - Business Standard",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR2hGTVlLRzdLcTIwNFExdTlzYXkxSVpCSWZmSWNjNjYxYVlWX1VWdHYwOXBHekxHVmREb2ctOXFqMVo2SWVIbjhTZjBKVmh2emhiNXB2MWNPSURnZTNHRkFQcTBmMVU1VGYtdEtWMk56aHg5S3dWbkpHRl9oX25PenB2VjlFc0Z3QVFSY2xBcDZraW5hY0NvbjlkU0tGWTBWbkVGSWFXZ25WOENvQkJKUnV4d09aVzZBTVNNN1hEcTVIUFlNWDZuZVk1V1JPZ2dVUFBwZ19MRdIB3AFBVV95cUxNS2lhNWJ2Mm9hNUVzNGMzODFPTzdUZlA3d2oyVENGRU9TcTBKelBMMFVMNG40WUc1b01qOExxOXBWSm96QVJvRERwdmwwWnc3RkhWOURhX1R2ZEFhN0owYUZqQkFCWDNGZGdLZ0dpS1hMNzQtdGtweTF2d0hKcVpUcUtDZm05cFFxX1R2Nkw3Q002dHM3UHNCRU9RMm11OWZmUE9qZk4xRy1QNHpiOWUxNGwxRUVuNWZvelpGTEg5QlhDZlZacEpPeHNCbXM2VEhjYU9yRXlWSVA4ZEZ6?oc=5",
@@ -120,16 +120,6 @@
    "publisher": "Business Standard",
    "scope": "india",
    "ts": 1787590353000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDdpZW5ESjlDSllRenlRaVdPRVpQTXdwOWxwZXN5YXR0T0ZMUUVtT1JRR0hxWTRtdlJNbUpJTXNtRnVIcnRIaW1TYWdmYWliUXFKUUNoTEZYeE1mRjNlZjJOMmFmM3pBRlp1LWNlTG5EVjVNVUt",
-   "title": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News - News On AIR",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDdpZW5ESjlDSllRenlRaVdPRVpQTXdwOWxwZXN5YXR0T0ZMUUVtT1JRR0hxWTRtdlJNbUpJTXNtRnVIcnRIaW1TYWdmYWliUXFKUUNoTEZYeE1mRjNlZjJOMmFmM3pBRlp1LWNlTG5EVjVNVUtmRThkWGZxOHV2YXYxZU9uWVdGdDZ3NEQzM0NCbzBLY2xFWk40ZzQxTUk2YllTQ0p5TUlGQQ?oc=5",
-   "desc": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News  News On AIR",
-   "source": "RBI",
-   "publisher": "News On AIR",
-   "scope": "india",
-   "ts": 1787590332000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa2ZodXNaNjViekM0Z0ZjQXVKNkt1ajI3Zkk3aXlGYXQ1ZUlwV0RYTWhUQmF6SVIxZDNvZXJ6RFIyZzdQXzhkMm9WM1VhcTg1VHFYOU90NThDVDViN0U5WnJITm9fQnRTZDhUYlNaTU5oYWp5Zml",
@@ -232,16 +222,6 @@
    "ts": 1787572801000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQNlBmelZvVjZuVHJOZ0FqREo1WnhuNDh2VXltaXdTUDBMa1Y1YVJMZnR6Yklmd0hac0tVR0xSUk5mdEtoOWwwd21FY2lhekdxbmNqakZXRVR3MWxpVUYyX21IYXdfX2dCeXZYUXVVdHp3MUZiV0h",
-   "title": "Mark Zandi Warns Iran War Is Fueling Inflation, Pushing Investors Toward Fed Rate Hike Bets: 'Lawmakers N - Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQNlBmelZvVjZuVHJOZ0FqREo1WnhuNDh2VXltaXdTUDBMa1Y1YVJMZnR6Yklmd0hac0tVR0xSUk5mdEtoOWwwd21FY2lhekdxbmNqakZXRVR3MWxpVUYyX21IYXdfX2dCeXZYUXVVdHp3MUZiV0hBVkd5YXExLVI3S0Myenk4VFRaa0dxSFhOSGhtVnBFN2l5TG9uVWMtRkpTc0VLZVFlNWNvRVBpUFg5TFd0MDlzMEZRRzZVcG01UTV4TWp5N0RKVzdaZURURmJMZUlZS1hqaFl2cUlsUlBfcnFwYm1oQlJlU0s3bUJJVHVIU0RNNDlnbmU4WHF2MldVSnduX3FXdTVQbFdHQ0VGMGZ2SXM3SnZDbGpaM2xfUG42azZ6SE1rWmhqMURQWnFZdmdPZHp3TlJ6WFk?oc=5",
-   "desc": "Mark Zandi Warns Iran War Is Fueling Inflation, Pushing Investors Toward Fed Rate Hike Bets: 'Lawmakers N  Benzinga",
-   "source": "US Fed",
-   "publisher": "Benzinga",
-   "scope": "world",
-   "ts": 1787570075000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbEtrT3hwZy1Pb2JNUkh5UGJ2MlRYWGRUQkJwZTJielVDS2pZa2Z4UXlMZ25JQ01saS1Fc3FDQjZpemVaY1JwMkJ5TFBlcTFmOUMtdEQxa3FjYTgzSW5JQ3VadkprZTFsTHR3RWtpX0VaSGpxejB",
    "title": "Five Questions Kevin Warsh Must Answer This Week - Newsweek",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbEtrT3hwZy1Pb2JNUkh5UGJ2MlRYWGRUQkJwZTJielVDS2pZa2Z4UXlMZ25JQ01saS1Fc3FDQjZpemVaY1JwMkJ5TFBlcTFmOUMtdEQxa3FjYTgzSW5JQ3VadkprZTFsTHR3RWtpX0VaSGpxejBlZ3VIa1dpRWlPUzlobklXYnNEU3c?oc=5",
@@ -292,16 +272,6 @@
    "ts": 1787562000000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYTNJeGxubVRicld6NUIyZ3VNTDNlSEJnaDFieEh3SklDbG53MlZpSXBUcHJsTlpadlZfbDFfbVVoWHEtV2xiaTlzUWl0aVlBcGg5ZlRmZGc5Q0RWZEZuaXZzRGdRenhLd293dlFfTk1BaVc0X2J",
-   "title": "Analyst Survey: The Federal Reserve and the Bank of England are highly likely to keep interest rates unchanged this year, while rate hikes are anticipated for the European Central Bank and the Bank of Japan. - 富途牛牛",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYTNJeGxubVRicld6NUIyZ3VNTDNlSEJnaDFieEh3SklDbG53MlZpSXBUcHJsTlpadlZfbDFfbVVoWHEtV2xiaTlzUWl0aVlBcGg5ZlRmZGc5Q0RWZEZuaXZzRGdRenhLd293dlFfTk1BaVc0X2JWQTJDc0RLUk0zSWJyTVZUT0xNQ242TmEyWHBib3pZQUZFS3hIcVNVaTkw?oc=5",
-   "desc": "Analyst Survey: The Federal Reserve and the Bank of England are highly likely to keep interest rates unchanged this year, while rate hikes are anticipated for the European Central Bank and the Bank of Japan.  富途牛牛",
-   "source": "ECB / Europe",
-   "publisher": "富途牛牛",
-   "scope": "world",
-   "ts": 1787560989000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYnREQ1ltdWRDTkdnejNQTjI0cFJmM0FHNEN6VUZOODBiZmZ0dTlQblk3OWFZWHptZlNtYzIxQm1oVzllNTZBX1ZSSzdUa19NSmZTNk80MjE3LWt2UkxTemJ4SzNfWDFyYTJYaFpiczYzWjQzdWl",
    "title": "JPMorgan’s Copthall Mauritius to argue SEBI violation was technical, not manipulative - BusinessLine",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYnREQ1ltdWRDTkdnejNQTjI0cFJmM0FHNEN6VUZOODBiZmZ0dTlQblk3OWFZWHptZlNtYzIxQm1oVzllNTZBX1ZSSzdUa19NSmZTNk80MjE3LWt2UkxTemJ4SzNfWDFyYTJYaFpiczYzWjQzdWlHWWFJcFhSdl9Fb2QzTkdxd3pObE9qcmV5RWQ0dVRoVHhac2kzZjlMMEFsdmNkcVNNNURXdFBUU2ZKNDkyX2FuaVgzVWJZWUhXeGRxbnNWMFhpanJxeUxsdl9Vek5XRlpFV3VpWFI0blgwbW530gHoAUFVX3lxTE1YXzdFbHlZQmRsczJpWVZHQ3BueXcxMnpoR3pVeEU3VG1Sb0pyZTF3Q0tqSHMyVHY5amZOTXYxYzNQWlhLd0psa2xKb3BzQ1M2LVBmb19XejVrLUlld29yRk1GaWVYWVltRldKel9pOVhMQXJZaHFCUWN1Yzl6d2tqNDA0d3o4b1BmSGt6QWVnNE15X2dGQXpmTFlBdGc0cEY1V2laeF82WUhkampkQzNfZWxJaEpDc19PckdaalNoMmd0WnU1dzFtdjU3VGxpeUhBVDBCR3BuVkVQRnRFb2djaTROMjdIMFk?oc=5",
@@ -320,16 +290,6 @@
    "publisher": "TradingPedia",
    "scope": "india",
    "ts": 1787555594000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUk5Ibi1HNkFvYmw5ZXIwV0JqaDhwYVZTX0ZkZC1jWWZFWFVVTC1YQXpwSGRSZS1aSElQTGI0TVV1MFEzYTV3LWFRTXh5aktaM2lfMVRLM0V0Sjh0TEZ4WkpFUUVlODFhd09kaFZqNTRGNXdQbjk",
-   "title": "Who is most resilient if a rate-hike cycle begins? Barclays: Historically, only energy stocks have risen against the trend. - Moomoo",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUk5Ibi1HNkFvYmw5ZXIwV0JqaDhwYVZTX0ZkZC1jWWZFWFVVTC1YQXpwSGRSZS1aSElQTGI0TVV1MFEzYTV3LWFRTXh5aktaM2lfMVRLM0V0Sjh0TEZ4WkpFUUVlODFhd09kaFZqNTRGNXdQbjkyaU1MRVFjOWFLUDU0ZmNuX0NDbkVyWF9HYmY0TFJJWVE?oc=5",
-   "desc": "Who is most resilient if a rate-hike cycle begins? Barclays: Historically, only energy stocks have risen against the trend.  Moomoo",
-   "source": "US Fed",
-   "publisher": "Moomoo",
-   "scope": "world",
-   "ts": 1787554500000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQXRNOWx0SFd1SExyLUMxWWxheXRxX0pmT1E0VTVRM1BKTlZmb0Fnalp2azJMdDdnUjlWOXVvS3QxMTJrb2ZoVDFVakVOX3RQZTJMdkszLVBLeTBZajBmaG9yUldsZWVJbjFiZnRMclAzUUhXYzQ",
@@ -792,16 +752,6 @@
    "ts": 1787203761000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb1BUeDdhdGNMaXBUZHJsZmlLTGNhV2pidlNaVWhMRG5aSnUtaGxBdmJ5dWpySmROdmJjVXJycWdBTmVJeGZPeEVUNDY1ZWtOa3hKVjNOeEtod1pHWnBiYnh2bmRacXQzQVNYX1VwYW1oeUZCUnM",
-   "title": "RBI's surprisingly hawkish tone in policy minutes weighs on Indian bonds - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb1BUeDdhdGNMaXBUZHJsZmlLTGNhV2pidlNaVWhMRG5aSnUtaGxBdmJ5dWpySmROdmJjVXJycWdBTmVJeGZPeEVUNDY1ZWtOa3hKVjNOeEtod1pHWnBiYnh2bmRacXQzQVNYX1VwYW1oeUZCUnM4UVRuS0hCNFltdnFreXpNVThDekZ6MnllUUYzblYxb2V2N3dPOFN4cFVYblplUEotUFdFdS1qVFhMV0xmdU9DU3NZZVpYUUg1Q1N6cnVwY1JzamwxaHBmLTVJVm40bUxkWF80QQ?oc=5",
-   "desc": "RBI's surprisingly hawkish tone in policy minutes weighs on Indian bonds  TradingView",
-   "source": "RBI",
-   "publisher": "TradingView",
-   "scope": "india",
-   "ts": 1787201940000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb3EwZG8tMl9jaFhRQ21vMnFjbXV4Qmc1bE83RFRLX1c0dFgwVkNMTFA3dmhlT0FEXzdLdWt4c0lGQ0V0b0phYmFWSlRBUWp6bzYwSy1ucVFjbE1WVHZteWZ2UkF2NlFxNXI1bmdNM1AyTnk5X2N",
    "title": "Indian Bonds Drop as RBI Policy Minutes Spur Tightening Fears - Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb3EwZG8tMl9jaFhRQ21vMnFjbXV4Qmc1bE83RFRLX1c0dFgwVkNMTFA3dmhlT0FEXzdLdWt4c0lGQ0V0b0phYmFWSlRBUWp6bzYwSy1ucVFjbE1WVHZteWZ2UkF2NlFxNXI1bmdNM1AyTnk5X2NZWTgxNndSZjJQOS1PWHJDMVhmQnNxcENxSzdwOG8yb1pmYXBZYzkyNm5LSEY1MHBPMS1rMjgwTHdtMnBB?oc=5",
@@ -879,7 +829,7 @@
    "source": "US Fed",
    "publisher": "WSJ",
    "scope": "world",
-   "ts": 1787166240000
+   "ts": 1787169071000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc1pOWFhZYUYyUk9LYlN5UDZwZ05vVHFIVGl2NFlWTjhHOVpJS3ZUWVBxeV9CUkxobjVOa1VxN3RtSWJJbXl5U1pGLU9XUGhOTGwyUzlreVhIR1g1Q2V5N25QdFFlV2JUb1VENkZFc1FnRVRNVWg",
@@ -1073,11 +1023,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQjBmQXJhLXpKMDNNdTA5T0pEaHRwOGtEamZ3UXV3UHJ2NGtpaHlQRy1TQTg2VE0xZ21WdEpfX25EMElhczZXREJWYlZCZVFTQi1mSlplZ0dEbkxHWXRUa1YzOGRuQzNSVVlfSnNYbzF0UF9jVFl",
-   "title": "‘CAS is here to stay,’ says SEBI Chairman: Regulator analysing market feedback for tweaks - India IPO",
+   "title": "‘CAS is here to stay,’ says SEBI Chairman: Regulator analysing market feedback for tweaks - IndiaIPO",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQjBmQXJhLXpKMDNNdTA5T0pEaHRwOGtEamZ3UXV3UHJ2NGtpaHlQRy1TQTg2VE0xZ21WdEpfX25EMElhczZXREJWYlZCZVFTQi1mSlplZ0dEbkxHWXRUa1YzOGRuQzNSVVlfSnNYbzF0UF9jVFlocV9VUmZNdUtqTmtjVlpsSFVHUWtDNjJGcFFTTHZKTmdaZk5uQXFQZUFjTC1MQTgwRzdpa1Btc3duRE41TTVOUUtWcUJUVERn?oc=5",
-   "desc": "‘CAS is here to stay,’ says SEBI Chairman: Regulator analysing market feedback for tweaks  India IPO",
+   "desc": "‘CAS is here to stay,’ says SEBI Chairman: Regulator analysing market feedback for tweaks  IndiaIPO",
    "source": "SEBI",
-   "publisher": "India IPO",
+   "publisher": "IndiaIPO",
    "scope": "india",
    "ts": 1786979625000
   },
@@ -1200,6 +1150,56 @@
    "publisher": "Kashmir News Observer",
    "scope": "india",
    "ts": 1786639499000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHBzY3NRd2NQNFlUZHg1Vl9PNmRrVEVqWmV3Nmo3WkMwYld4aUpnNjQ5Tk9jcVFSZHFfOWx6aWJPTFdqbjRHT1FKSHpUMzZnZGk2SzQ5NmNnOU1QZV9MMTlPNWY2OGpiamZEX1BSQS1RRWJtZjZ",
+   "title": "India markets regulator proposes easier access to riskier investment products for overseas investors - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHBzY3NRd2NQNFlUZHg1Vl9PNmRrVEVqWmV3Nmo3WkMwYld4aUpnNjQ5Tk9jcVFSZHFfOWx6aWJPTFdqbjRHT1FKSHpUMzZnZGk2SzQ5NmNnOU1QZV9MMTlPNWY2OGpiamZEX1BSQS1RRWJtZjZ0LUg3Z2xpUmRmdXZ2b0Y5THhwWkFSMTFvM1RqUVYyWjhidmU5djMyZkp0bV9jSjZVck5CcDZIR1VWTTBPU3dqR3YzX1JyOVNGMXY1Y3JBbVE?oc=5",
+   "desc": "India markets regulator proposes easier access to riskier investment products for overseas investors  Reuters",
+   "source": "SEBI",
+   "publisher": "Reuters",
+   "scope": "india",
+   "ts": 1786604400000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObGc0QW11c2JSdGxFZTlNN1hhbERoRXF2VHhxZTJpQmxpdjdSbUtfOFEwZ1VySWhkZ1JTcmJvZGhnYWdNMXVIdmZLSEhfcUdpbWtJWDBrVnpjZ01Pb3lWX2tjTkViZWFzZzhDOU5SejZTVV9RWl9",
+   "title": "No evidence of manipulation in new closing auction session: SEBI Chief - bfsi.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObGc0QW11c2JSdGxFZTlNN1hhbERoRXF2VHhxZTJpQmxpdjdSbUtfOFEwZ1VySWhkZ1JTcmJvZGhnYWdNMXVIdmZLSEhfcUdpbWtJWDBrVnpjZ01Pb3lWX2tjTkViZWFzZzhDOU5SejZTVV9RWl9WUGFSNmxGSFRFUUpMeEo2VFdyZU5rOE9qZjFTNndPSl9NQmR5RlZXYXZPb0RmdEVnd3VhZ1BMQlc0RFhqdU5PUk9ib3pDeU1yY2lwTEtxd0FTeXQ5QWdhQdIB0wFBVV95cUxQWHhjaEhhc0ZVVTA1cG5rZUVXZGtnYW4ySzlBRGRmaFN3M3F4aloyZlJrbnMxUTFrWnRrYXFvT09ZR3BjSHZFb3FNS0FUNHhNMUpYaGNwbGUwMGx4SDU1UU50MDFqSC1TRWdrWXh6cEhEOVNoeGVrelR3bk1zR2hMeG90cXgyRTVGSGxzbDFUaE52U0otUHV5ZEVZRkhVTXRPUE0tZnRHZHFiSHM1bTRpSF9lUXFDamk3THQ2Mmh5bkFkWWRlYUdGRlNOYU94d0tNRmVn?oc=5",
+   "desc": "No evidence of manipulation in new closing auction session: SEBI Chief  bfsi.economictimes.indiatimes.com",
+   "source": "SEBI",
+   "publisher": "bfsi.economictimes.indiatimes.com",
+   "scope": "india",
+   "ts": 1786536278000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUUJ3ejFoRHVSR25SbFUzYmZqeHgtMmxDUkNUQUJLQzhVWWtPVUFnRWhYbEJEOU9sUGtVdlFzSTNLVTI4S0R4a243M3Z4ZnBxa21BaEJVOHVkVUZWN20tV0FEV0tfUEQzUElwWTk0N1Njam5FZDN",
+   "title": "India's markets regulator sees no manipulation in stock closing auction, chief says - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUUJ3ejFoRHVSR25SbFUzYmZqeHgtMmxDUkNUQUJLQzhVWWtPVUFnRWhYbEJEOU9sUGtVdlFzSTNLVTI4S0R4a243M3Z4ZnBxa21BaEJVOHVkVUZWN20tV0FEV0tfUEQzUElwWTk0N1Njam5FZDNoN2NWTFVKdnpGVTVHbTh6RjJqRmo2dFBsRUItaWRSTWxTcDlKTVpsXzk2MVUwUjJzWDlZVkZSbVFQSTVrSlFwUWtGR1JqVDY4eHEzUDFPMmxv?oc=5",
+   "desc": "India's markets regulator sees no manipulation in stock closing auction, chief says  Reuters",
+   "source": "SEBI",
+   "publisher": "Reuters",
+   "scope": "india",
+   "ts": 1786518000000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa2IzRGpjUjRKV2hBZDJxazltY3RkWTNuLUkwSHBqQUZWeGpBVnVpaWx1aDhFcVl2bUZkeVFBVnktQ1czWGZnQm5veXQ1V3pXNjN0RTczVjQ0OFdnQ00xUEd3RTdiWF9sWTlOMmZ4Mld1LThqc21",
+   "title": "RBI sees a stronger India as Iran war fails to derail consumer demand- Moneycontrol.com - LinkedIn",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa2IzRGpjUjRKV2hBZDJxazltY3RkWTNuLUkwSHBqQUZWeGpBVnVpaWx1aDhFcVl2bUZkeVFBVnktQ1czWGZnQm5veXQ1V3pXNjN0RTczVjQ0OFdnQ00xUEd3RTdiWF9sWTlOMmZ4Mld1LThqc21Yd0VNSk5Qc3IzMklqR3B0ZlByOGpWbzVLTUV3QmwyNjlMSlBjVE1XNGlZcDBQYWlwQWdJUnd5cTZXZXFRTVlWaU5WZmI3azF3?oc=5",
+   "desc": "RBI sees a stronger India as Iran war fails to derail consumer demand- Moneycontrol.com  LinkedIn",
+   "source": "Indian Economy",
+   "publisher": "LinkedIn",
+   "scope": "india",
+   "ts": 1786518000000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbVdXQU9zdmwxdUFyZWNzczdWUDkzNDdJZFk5dTNRZFFlWnRNVDRmYjlsMGYwSmhiUHptYVZYMlBVeE1POENJejg4Wm9xbWxrNHNjR1UxQ2kwd09pRTFzNG9qNFJoMzNjRVdtNUlENFVud1dxa0F",
+   "title": "India's retail inflation breaches RBI's midpoint target for second successive month, rises to 4.45% in July - Livemint",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbVdXQU9zdmwxdUFyZWNzczdWUDkzNDdJZFk5dTNRZFFlWnRNVDRmYjlsMGYwSmhiUHptYVZYMlBVeE1POENJejg4Wm9xbWxrNHNjR1UxQ2kwd09pRTFzNG9qNFJoMzNjRVdtNUlENFVud1dxa0FldWRwTFhKWV81VHZYSWcyWmJlMy0xbDVfR0Fqb2JqNGd2REhXU2R2eVB2X0VVeVZhdFVWVER4TlgxcC1wYWVQbGdRY2RnbC1WcG9ERXpjZmFYcW1xV3pPZHpHSEQ5aHBpNTZ5SDUxdE5XTXUyb3FNbnBPQ2c2ekpIYUdtdTNEa2U5etIB_gFBVV95cUxNeFhUS2xpallNcmNMTUd2X1Y1N1E5TmZCeTczMk9xQXB4NHVRUS02X0JHaG1pbDJ6R1JvUkNNMU93X1lyNzlabk1uLXlEOWU5a2V1VnZQMm1HTGpfWnd5SGJvZ25aWk9tdmVKUjhqaUs1ZWN3Yk14QjQwMmNrMjUwZDZTWk4yZ21SQWNZYWY4M0VSY0tUMXVTc3hoUWVITUJCbGxiaHpxbi1qVTdONUY2SlhkeURWX3dfQ0lXMnkyVkRaWUNobmljbVpaV0JoOTZYVU9GejhKTXk5Q1BxUzJQbTQ3dkdtTXZVeVdGNk1MakY4Wk45ZV9vRFJ6RmV6QQ?oc=5",
+   "desc": "India's retail inflation breaches RBI's midpoint target for second successive month, rises to 4.45% in July  Livemint",
+   "source": "Indian Economy",
+   "publisher": "Livemint",
+   "scope": "india",
+   "ts": 1786518000000
   }
  ]
 }
