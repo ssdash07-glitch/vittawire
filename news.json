@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T16:42:52.664892+00:00",
+ "updated": "2026-08-25T17:35:53.178020+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbWtNSkFYUHd0djMxZXYzZlB5R2tUempmRTk5OFRPMHdsdlkxd2x0YWFiMnIyS2JFSzRaV0VTaGNSeTdTNDRFWFJ6Yzd5d1dVRGZ2WXpoQkxMZEpoRHBxOER0Q3BQY1E5M0RGLW1EUzBRQ3J1YTF",
@@ -19,7 +19,7 @@
    "source": "US Fed",
    "publisher": "Haver Analytics",
    "scope": "world",
-   "ts": 1787675818000
+   "ts": 1787675774000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SV3hfY25ZdHN0MjhtTTNpLTkyd3FCaFRReHRFMl94REdhcmxmSEdBMkp5ZTVXYjRjRTBqejBjT0VlcmU5R2MtSVcwOFI1bjh6OFJ1N3E3UmNMcS1GQ1RfaUNpRWgwSUxlTTh1ajB1ZUNkRTdSNWc",
@@ -60,6 +60,16 @@
    "publisher": "IndexBox",
    "scope": "world",
    "ts": 1787672520000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTUs0SmtKYWFwNXFqOTZGdFhSbVR3Q0tXNXRhcW85T1hadFFRQ0RmSmExN0NZaktLaG9nQWN0RGwyV0pkUEZyNlpONXYwNmwxNS1XNEVmbXpxUlNZeDhxSGhpOWNTZVpELVB3R0lRQjlueVNyS09",
+   "title": "SIDBI FY26 Profit Soars 14% to Rs 5,493 Cr; Supports MSMEs - Rediff MoneyWiz",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTUs0SmtKYWFwNXFqOTZGdFhSbVR3Q0tXNXRhcW85T1hadFFRQ0RmSmExN0NZaktLaG9nQWN0RGwyV0pkUEZyNlpONXYwNmwxNS1XNEVmbXpxUlNZeDhxSGhpOWNTZVpELVB3R0lRQjlueVNyS09KcWJmX3ZTcGJ6U2NtcGZzNU1VRFpENUVnQms5OWlGOUVmT2xUVnFpdkhqVER2bm03TWlTUFBvRWFHMS1n0gGyAUFVX3lxTE1NSzRKa0phYXA1cWo5NkZ0WFJtVHdDS1c1dGFxbzlPWFp0UVFDRGZKYTE3Q1lqS0tob2dBY3REbDJXSmRQRnI2Wk41djA2bDE1LVc0RWZtenFSU1l4OHFIaGk5Y1NlWkQtUHdHSVFCOW55U3JLT0pxYmZfdlNwYnpTY21wZnM1TVVEWkQ1RWdCazk5aUY5RWZPbFRWcWl2SGpURHZubTdNaVNQUG9FYUcxLWc?oc=5",
+   "desc": "SIDBI FY26 Profit Soars 14% to Rs 5,493 Cr; Supports MSMEs  Rediff MoneyWiz",
+   "source": "SIDBI / MSME",
+   "publisher": "Rediff MoneyWiz",
+   "scope": "india",
+   "ts": 1787671847000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNTVDMFZMTDZGMDAxNEtoSVNSU01oel8ybnRNblR5VXVWTUJNb0xBR2R2QVFCY3FkelBPSDdyUURZcEM0cl9SVV9jWVZSRjJVQWh1WExNanllMmM0U3ZqeGR0S2RFbUhaRTlMTFBWVlJGTl9XRWV",
@@ -132,9 +142,9 @@
    "ts": 1787660185000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNkx6SG8wT0VEcEtTckVER2FFRklRT1c5dlhDb0lINVBjeUtGV2JINFpUZW5zcjh0endQc0poa0ZLWjJTT3diVWJzdHQ5bkcyUm9ldVM3SkdPYXEyTUdhZVN0S3ZPRDYxeGdBYkZZdWx4T3pOcFZ",
+   "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbVMzeHFTSFBPWXVsWFQxTzRWQWktOUg1RFJHdjZNeWgzaFF4QklqSFFaeHJxckJKUnVaeTVwLVo5S0UzcnpqemZHQ0RxNE1EajlFR0dSa0JVTURqTC1Fa0Q5MzhkUEdCajhlUVJxaTlpZ2hhQTB",
    "title": "SIDBI posts Rs 5,493 cr net profit in FY26, up 14.2% YoY as asset base grew to Rs 6.32 lakh cr - The Tribune",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNkx6SG8wT0VEcEtTckVER2FFRklRT1c5dlhDb0lINVBjeUtGV2JINFpUZW5zcjh0endQc0poa0ZLWjJTT3diVWJzdHQ5bkcyUm9ldVM3SkdPYXEyTUdhZVN0S3ZPRDYxeGdBYkZZdWx4T3pOcFZiUm42R1VYVWJNQjZaclRqMEZham1uSmRDTXB0d3EzUHlMOG9fcHNSRGhQakI0cUlkZ0dfV1pEcWg1VDFJTWptM2Q4aVJlYVFOQVhtWG1PdHMxVVk2SkttMmR6OExsQVJuVFpEVHZOWGttdmRJa2thcVdCZHp2NDY3THPSAfABQVVfeXFMTTZMekhvME9FRHBLU3JFREdhRUZJUU9XOXZYQ29JSDVQY3lLRldiSDRaVGVuc3I4dHp3UHNKaGtGS1oyU093YlVic3R0OW5HMlJvZXVTN0pHT2FxMk1HYWVTdEt2T0Q2MXhnQWJGWXVseE96TnBWYlJuNkdVWFViTUI2WnJUajBGYWptbkpkQ01wdHdxM1B5TDhvX3BzUkRoUGpCNHFJZGdHX1daRHFoNVQxSU1qbTNkOGlSZWFRTkFYbVhtT3RzMVVZNkpLbTJkejhMbEFSblRaRFR2TlhrbXZkSWtrYXFXQmR6djQ2N0xz?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbVMzeHFTSFBPWXVsWFQxTzRWQWktOUg1RFJHdjZNeWgzaFF4QklqSFFaeHJxckJKUnVaeTVwLVo5S0UzcnpqemZHQ0RxNE1EajlFR0dSa0JVTURqTC1Fa0Q5MzhkUEdCajhlUVJxaTlpZ2hhQTBSX1pob1JLb2NpLTlhdE83Uk9DUjB1d3QzOWZldlBZYTRyOXRKZ1M1TGRfVU5kSHNCVkJ2dTB6Q1B1NHJIVm5iTHYwU3AtX1I0eV9ISmhvbFJpZlpYRkNTbjN6U2d2NtIB1AFBVV95cUxNbVMzeHFTSFBPWXVsWFQxTzRWQWktOUg1RFJHdjZNeWgzaFF4QklqSFFaeHJxckJKUnVaeTVwLVo5S0UzcnpqemZHQ0RxNE1EajlFR0dSa0JVTURqTC1Fa0Q5MzhkUEdCajhlUVJxaTlpZ2hhQTBSX1pob1JLb2NpLTlhdE83Uk9DUjB1d3QzOWZldlBZYTRyOXRKZ1M1TGRfVU5kSHNCVkJ2dTB6Q1B1NHJIVm5iTHYwU3AtX1I0eV9ISmhvbFJpZlpYRkNTbjN6U2d2Ng?oc=5",
    "desc": "SIDBI posts Rs 5,493 cr net profit in FY26, up 14.2% YoY as asset base grew to Rs 6.32 lakh cr  The Tribune",
    "source": "SIDBI / MSME",
    "publisher": "The Tribune",
@@ -532,6 +542,16 @@
    "ts": 1787510865000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYndnLWdBM2tUSEJ2bWJwUGhSRWUxWVBLX1hGbEpmUnQzeGh3VDVRdGdqOXFPWnFOVll1YldVRlVfbFVBRmFDN0FFRENVTGRDY1A4OHZCYURBYTRqeDlqV2drWmZadjFrWFFPMXRZbUdHX3JHZFB",
+   "title": "Akme Finttrade secures ₹20 crore term loan from SIDBI - scanx.trade",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYndnLWdBM2tUSEJ2bWJwUGhSRWUxWVBLX1hGbEpmUnQzeGh3VDVRdGdqOXFPWnFOVll1YldVRlVfbFVBRmFDN0FFRENVTGRDY1A4OHZCYURBYTRqeDlqV2drWmZadjFrWFFPMXRZbUdHX3JHZFBkdGdPQUpjREdiODF6bzhkSjlsTWRXdS14QkFkVlJxZE9GM09iSXJmODlKaVpQN0llRTZ3QjdwOEVFanBYdFJDQQ?oc=5",
+   "desc": "Akme Finttrade secures ₹20 crore term loan from SIDBI  scanx.trade",
+   "source": "SIDBI / MSME",
+   "publisher": "scanx.trade",
+   "scope": "india",
+   "ts": 1787494336000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQTVUUVdUUmVZYWF6eXA2M29oN2Q0Uk0tcEtucHh3MmVhVUlyVEhmYVc4V1hWbERGRGRPTnQzdTlnUE9FbFVMNXNjZDE3TlIyT1RpdlY1OU04UVZ5enNMbEV5MnNha1dUSzJJN1kwYWN6Y2pZLVp",
    "title": "SEBI To Examine 'Permitted-To-Trade' Framework For NSE - NDTV Profit",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQTVUUVdUUmVZYWF6eXA2M29oN2Q0Uk0tcEtucHh3MmVhVUlyVEhmYVc4V1hWbERGRGRPTnQzdTlnUE9FbFVMNXNjZDE3TlIyT1RpdlY1OU04UVZ5enNMbEV5MnNha1dUSzJJN1kwYWN6Y2pZLVpER0M2STRnUEE3SHRydF9tMEoyUkRqajhPWDJzZnVOYlY4OVY2YmbSAaQBQVVfeXFMTmRnRlF4T2pra254QW1vU0E1T2k2YWRUbUJEVkhKdHozY2dwMWVrWE5xSHgwSjZWLWVCTUtZMnpBWnZnTUJKbENNQm1lbEsyWFpyRkVHakd0STZBWTdDUmlVeE03eVJFSDBQZUtyWWFna1ktSEJ2cm1FaGhhUFdrREx1UTRRbGFVNGVHQU44TXdWZUhyZ2JIRjBkYmNmZHQwbzJucm8?oc=5",
@@ -662,6 +682,16 @@
    "ts": 1787312187000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSzhHbVROSV8tYVBlMkktRzZIRUp6ZG5uMEVhRjlSOXhpUEZ3TXZDS1lQc2phcklOTGpvbEhXZVNVUDRwVE1kcVZ0M2hKTzE5NUI3Z1VhVi1Ha0o1amhYMkhESVd5WFBEc09DR3N4MDMxeTRTVk0",
+   "title": "Manipulation of new stock closing price mechanism & Sebi action: An explainer - bfsi.economictimes.indiatimes.com",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSzhHbVROSV8tYVBlMkktRzZIRUp6ZG5uMEVhRjlSOXhpUEZ3TXZDS1lQc2phcklOTGpvbEhXZVNVUDRwVE1kcVZ0M2hKTzE5NUI3Z1VhVi1Ha0o1amhYMkhESVd5WFBEc09DR3N4MDMxeTRTVk03aktEYlZBQnkxRkdvODh2dlUxTVZkSDZCUW42LTJtbXRwYmhVT0RQVG1EZXRHekdHWnFtZFpYdnFQRWtueWdQc1BOdHFUbHJJUFRkZXJpLUN6UWNnUlB6VkdpQVhRaNIB2gFBVV95cUxNUnlqcEFlMFg0WDhXVlVqaGZsMndXTlk4dFNpNzJBODFERnM4TElQa1VLdXlrcTJERURKRnFRWEl3UEFnb2pISzdmVTZoNGpGZHd4bFZRd1dUNGZxVGFIWC1LRm1uWnk3U2Z2bGdMQVJKTFZJRXdWTWVMVGhKc3JsNG5xamZaTGs0SnV5SExBSENwczc4VUducTh3bWpIQkZncmhpWUNaSHdqWVpXQk5pZkg1OWxsMXUtZXNrLTVONWVEV2w2UXNQMVNIdXluODRtWEFmZ1hzM1ZOdw?oc=5",
+   "desc": "Manipulation of new stock closing price mechanism & Sebi action: An explainer  bfsi.economictimes.indiatimes.com",
+   "source": "SEBI",
+   "publisher": "bfsi.economictimes.indiatimes.com",
+   "scope": "india",
+   "ts": 1787306546000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDkyNXdUUDhSd3VEQzJZN2piWnFMbnA3WVJXcUlYTVAxcnlsZ2hVTkpyODBjdzd6VktvTlhCM2N0NzFSblh1bGZEaVJ3ZnN2aUpkX3JMOVROQmowV2UxTENVY3ItMFYtZW1wM0poNEUycTBvZ21",
    "title": "RBI deputy governor sees GDP growth exceeding 6.7% forecast - Firstpost",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDkyNXdUUDhSd3VEQzJZN2piWnFMbnA3WVJXcUlYTVAxcnlsZ2hVTkpyODBjdzd6VktvTlhCM2N0NzFSblh1bGZEaVJ3ZnN2aUpkX3JMOVROQmowV2UxTENVY3ItMFYtZW1wM0poNEUycTBvZ21HQ2tsanBLZnNUbl8zZWU0NVp2NGM5cTdOQjM4NzUzRG9kMC1zODU1R3pDX2pSTVlsTHRpRUXSAbABQVVfeXFMTnBlczBwZENZYlF6N21rUFkybmtpOTFxcHM0SHF2Y1BBYU96Z2U3N21Zc0JLTS1zaEprYkduNjFVSllqSENsbFBhODRJRkNCbXZTcWFYNVk1dkp2d2E1SEdkbDhqNW55U1gtekZrZi1CdGdmWlNHTWNaR0NXMzN1Vks3WkZMRGRpN1lUd2NXWFduVzVOQ1FIS3dyclVVX1BSSVZOMkFBZnpXU1hsQ1BIUE4?oc=5",
@@ -670,16 +700,6 @@
    "publisher": "Firstpost",
    "scope": "india",
    "ts": 1787297551000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObjB4RGVYdURLdWdUY2ViWUNfZXUwMkQtQWFOajIyLWc2VE9uLXdiZDdkVVZGekFHXzZrdzJtUFpsWnNSR2VUdTZDdGlWbm1xR3ROLXFscVc3VFhMTmJzV0VpRDRpMXJzdmJFOHEteVp4czJKaUl",
-   "title": "SEBI warns investors against real-time trading tips on social media - Upstox",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObjB4RGVYdURLdWdUY2ViWUNfZXUwMkQtQWFOajIyLWc2VE9uLXdiZDdkVVZGekFHXzZrdzJtUFpsWnNSR2VUdTZDdGlWbm1xR3ROLXFscVc3VFhMTmJzV0VpRDRpMXJzdmJFOHEteVp4czJKaUlPT3VYbVBVSGt4cUE0cVd1VDBVQWkyWEN1QVlNVWRwN1FUUFVGaU0yTnNzVE9qR2dHMnRBYXlTbTVhWDVMTVBrZXFUcHRwcklHT1ZxcHpCWUVGODF6bEI?oc=5",
-   "desc": "SEBI warns investors against real-time trading tips on social media  Upstox",
-   "source": "SEBI",
-   "publisher": "Upstox",
-   "scope": "india",
-   "ts": 1787295600000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWlFuOWdqdzVUc0ZnSWNrQmk3Slh1bVJnV2FHVHhvZVdNTnBESVNLQkUwZ1JZRE1HS0pMbEpHeGRnTU1xVTZKVVk3OXV2ZlRXc3Z6c3BrYkVDNFNFS2MxRUxYTzY3V0YwYV9wbmo3QUJ2LVgwREY",
@@ -702,16 +722,6 @@
    "ts": 1787288457000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVpsS0gtNUxDYk5hNWpnb3FPSm85VERoYkVhZWNhRDJndW9ZQnU1UTQzSUtlNVhubUZGaDZXSWtmaWIydUwwSFQ0VGRhaFNtOC1IbmFSR1ZjbV9WSkpLOS1nbTRVWWRna281Wm1yek1BVXJabnF",
-   "title": "SEBI Explainer: Stock Manipulation & New Closing Price Mechanism - Rediff MoneyWiz",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQVpsS0gtNUxDYk5hNWpnb3FPSm85VERoYkVhZWNhRDJndW9ZQnU1UTQzSUtlNVhubUZGaDZXSWtmaWIydUwwSFQ0VGRhaFNtOC1IbmFSR1ZjbV9WSkpLOS1nbTRVWWRna281Wm1yek1BVXJabnFmVVM3Q1JtRmwwOEpvY1U2QzV2Rm9PeGhYOUMxMF9KMUJ1dFhsRXR6NnlJelRFX2oxRi16VEI1dlBydVhYMNIBuAFBVV95cUxQVkc0QXhWNkJJamI0Z0xjb1J1YXczU09aWEhjZnNoWlowWkRaN25RYlg2Y2FkdFlkT1ZEdS1HZVFZUlhqREVOTm5xOHJUZnNzSDY3dmFVN1laaFczQXJGNVFNVDJnZVdBUkJ1SGJaOWNqOHV0TmxULTVWWEJ1NDBYQnFUazZwYVJjRWxiQXZqRmFUb0RES1lJOFN2alNLQU5XbmdqRVZPUXV0NUJVcWN1Qk1GclBjbGZ4?oc=5",
-   "desc": "SEBI Explainer: Stock Manipulation & New Closing Price Mechanism  Rediff MoneyWiz",
-   "source": "SEBI",
-   "publisher": "Rediff MoneyWiz",
-   "scope": "india",
-   "ts": 1787287970000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOGlsUURGTTNydm1NMXdzVTFzaThQZWlnTUJtblJCVEI0LWhnMkRHc1d1b2x3WTA2MHQ4SkZZdzRPM0VqWXZsUmh4WlRaMmV3N0NVWGtoQmlMNHhEV29hMkJHd0xHYzBoU1Nuc1RubHZ1bWxvV3V",
    "title": "Inflation Has Eased. Growth Is Rising. So Why Didn't The RBI Cut Rates? The Big Picture Behind India's Latest Monetary Policy - inventiva.co.in",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOGlsUURGTTNydm1NMXdzVTFzaThQZWlnTUJtblJCVEI0LWhnMkRHc1d1b2x3WTA2MHQ4SkZZdzRPM0VqWXZsUmh4WlRaMmV3N0NVWGtoQmlMNHhEV29hMkJHd0xHYzBoU1Nuc1RubHZ1bWxvV3VxcThLaUNFQnpHWGRuX3ZNY1ROOVBoaHhULXBSSWtNT2tpS2ctUjJ6WVUzRTRjNV82U19XckxuRkhMR2lNeFBtX1Z4b2d5NzZNMHZhZUxFWnlYVTliQUdDZnFjZEdDUGpleUtyRGc4NGFuSV9hdTVCUWJVVmhrbA?oc=5",
@@ -730,6 +740,16 @@
    "publisher": "Telegraph India",
    "scope": "india",
    "ts": 1787271284000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTlZoeTJUZXZOQTg4VGlyOEVEVkh0ZE5seFRKcVp0NWN1UzNSbDVISUF6cC05c0I1bGNFV3h6MGs5eGFCdWVieDlKay1rcmxQaERnQTNBQTJyVWd3TFpkRjRPdnZIV3NUbmI5UTBWN3hnaFNuakV",
+   "title": "Trump calls for lower interest rates as Fed officials watch inflation - USA Today",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTlZoeTJUZXZOQTg4VGlyOEVEVkh0ZE5seFRKcVp0NWN1UzNSbDVISUF6cC05c0I1bGNFV3h6MGs5eGFCdWVieDlKay1rcmxQaERnQTNBQTJyVWd3TFpkRjRPdnZIV3NUbmI5UTBWN3hnaFNuakVpRVpIT0dtRzEzbld0dHFpemZkQlZCSnBnSURQc0lSaVFOcHE3YmJwQlV2cFZVUm1RMGVZYjA5Z2FqU0pvZFc?oc=5",
+   "desc": "Trump calls for lower interest rates as Fed officials watch inflation  USA Today",
+   "source": "US Fed",
+   "publisher": "USA Today",
+   "scope": "world",
+   "ts": 1787260380000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWhlLUo5SzJWeS05N0hTbkcyWDZPanNENUpYMGdGQjlubmg1emk2dVpoV3ZEYUVweU9EMGNlUWY4Ym5CbTVvSV9rcWl4c3pWRHhBVzBUa19RZFVTbEN2WXJMSFBObktFZjlTX1ltVk1oNm5Fa3h",
@@ -784,7 +804,7 @@
   {
    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNmtBbjZyVHliUmktM1BhdVZ2NGhYaWZOelJ6NTNiQXFJZlJMWXkyTzJWZWtEcTNIWVdCU2Jfa0IxTVFtZ0FKdjRVaGhmaVFvbk04RjFzeVhJUnhRRXlVckdoOFdmb1VrbDJJaWpOS1hqYlJqLWo",
    "title": "Market Regulator Bans JPMorgan Unit From Trading Over Sensex Price Rigging - NDTV",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNmtBbjZyVHliUmktM1BhdVZ2NGhYaWZOelJ6NTNiQXFJZlJMWXkyTzJWZWtEcTNIWVdCU2Jfa0IxTVFtZ0FKdjRVaGhmaVFvbk04RjFzeVhJUnhRRXlVckdoOFdmb1VrbDJJaWpOS1hqYlJqLWo1SDYySlVpTUZxaDhRalNrcndmeVVRVEFRTnhNNmtuVERQR1lRQ0xFTVc5OVI3Y2JpRWQ2dFBWV2VfSFhkVQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNmtBbjZyVHliUmktM1BhdVZ2NGhYaWZOelJ6NTNiQXFJZlJMWXkyTzJWZWtEcTNIWVdCU2Jfa0IxTVFtZ0FKdjRVaGhmaVFvbk04RjFzeVhJUnhRRXlVckdoOFdmb1VrbDJJaWpOS1hqYlJqLWo1SDYySlVpTUZxaDhRalNrcndmeVVRVEFRTnhNNmtuVERQR1lRQ0xFTVc5OVI3Y2JpRWQ2dFBWV2VfSFhkVdIBuwFBVV95cUxQNVpSaTFKdjR5QV9zakxiM3VsZDlOZ0ZFTk1RVUJqUzFETDM3bVVNS2l6czNVX0EyNDk4LUVTU2w5TUs3UHhNaUxmUkwxWGFteVo4RndnbXRsOTFhdUVuQXRWandDek8zX2JvR1VpNVJPeE5TazluOU55YUJsOEdONmw3ZE96VTFuMzNfS00yYVFLcWZpZmNVOWFUSGk1VjdCM24zNEtyUXN0NU5JRkZ6TGVHblJGYm02QXdZ?oc=5",
    "desc": "Market Regulator Bans JPMorgan Unit From Trading Over Sensex Price Rigging  NDTV",
    "source": "SEBI",
    "publisher": "NDTV",
@@ -1052,6 +1072,16 @@
    "ts": 1787016720000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOejNTalpxRFR1TmcyaDVMdmhScjVJdDRaY0FKQzF4RkFwM1pldXY0NFQyRmIxbHlVZ1hWQTJtekJrVlZGZUtTWFVRTUVKWnNfQUMwVkxDazNRektWUnljQ0tjbW94MzJMc2Q4WjZfWnhEbUhyaXQ",
+   "title": "Do not trust claims: Sebi cautions against social media trading tips - Telangana Today",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOejNTalpxRFR1TmcyaDVMdmhScjVJdDRaY0FKQzF4RkFwM1pldXY0NFQyRmIxbHlVZ1hWQTJtekJrVlZGZUtTWFVRTUVKWnNfQUMwVkxDazNRektWUnljQ0tjbW94MzJMc2Q4WjZfWnhEbUhyaXQ3eU5TaHBYTUxPU200R3I0YVdFSjFGblo1TWZ1TGFXb0Mwc3lB?oc=5",
+   "desc": "Do not trust claims: Sebi cautions against social media trading tips  Telangana Today",
+   "source": "SEBI",
+   "publisher": "Telangana Today",
+   "scope": "india",
+   "ts": 1786985994000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1p4M3NuMk00eldvUWVTdk1MbC10THR3QlJwdDRBTWVsaVQ2RDVkSzlmYm90d3dSYklBckJ0LUNUMWNGWXhXZF9ER3oxUzNIS01OUDMzcUhURklTNXQyVUp4NlpoUGtGQVlOMlJKV1VKMUhWRFJ",
    "title": "Europe risks financial crisis if AI bubble bursts, warns ECB - The Telegraph",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1p4M3NuMk00eldvUWVTdk1MbC10THR3QlJwdDRBTWVsaVQ2RDVkSzlmYm90d3dSYklBckJ0LUNUMWNGWXhXZF9ER3oxUzNIS01OUDMzcUhURklTNXQyVUp4NlpoUGtGQVlOMlJKV1VKMUhWRFJ2b0lSYWpjQ2RxLUlXVnotcUR1NG1vbEZvcC0wdm9LRmZaNTZhYXhFak94S3R0TA?oc=5",
@@ -1072,16 +1102,6 @@
    "ts": 1786979625000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0p0REVVbU5Jemw4S3l1Z1l6d1phN25HR3lMck44YjJlQld3bFh0M0l3ZEROT0o3cjdIbTVrNjVSS2xzMjhPTjE0VHA2eE9kUlREVUZpWTZwbUQ1dDVpa1VmRGQ4eVU1OHh4S1BtSnkyLUZkZ2V",
-   "title": "Fed to hold interest rates this year, economists say, sticking to their view: Reuters poll - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0p0REVVbU5Jemw4S3l1Z1l6d1phN25HR3lMck44YjJlQld3bFh0M0l3ZEROT0o3cjdIbTVrNjVSS2xzMjhPTjE0VHA2eE9kUlREVUZpWTZwbUQ1dDVpa1VmRGQ4eVU1OHh4S1BtSnkyLUZkZ2VTTU9IU0Fsc3VucUZNVm9zM1N3RUdpc0gzdk5zOGV3bzNROUlXaXdvZFdoR2tId0N6bHJyUTZlUmp0MzJXRQ?oc=5",
-   "desc": "Fed to hold interest rates this year, economists say, sticking to their view: Reuters poll  Reuters",
-   "source": "US Fed",
-   "publisher": "Reuters",
-   "scope": "world",
-   "ts": 1786964889000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeEFQNk9oSklfQ0dxekMxY3FuVTVVemxEZzRxSV9fQVlhLTZlNHFqcEVEbTZRUE4tRnJ5eEcxb1RmMGNucEdJVnpvN0RLTWJYRHRRcGV1eHRFNTVVYXVjTU8td2k1OG1HeWtMb3ZMVmQ5N1NONlY",
    "title": "SIDBI backing is a ‘huge stamp of credibility’ for Cedar Hill Capital: Sahil Anand - The Economic Times",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeEFQNk9oSklfQ0dxekMxY3FuVTVVemxEZzRxSV9fQVlhLTZlNHFqcEVEbTZRUE4tRnJ5eEcxb1RmMGNucEdJVnpvN0RLTWJYRHRRcGV1eHRFNTVVYXVjTU8td2k1OG1HeWtMb3ZMVmQ5N1NONlY5Ni1Lc0x3d3BrUVVycTVfdGZoTlE2S25WYlMwM3dsWDlSanN4WXF2V05HaEdwRGlYUWdjZmZqRkM4M2NyZVY3NFQtMk1RdjIzdVp0Q1JtV2ZuRVc4MGtJcTFCMEM5bmVTaXM0WDJtRndpLWoySVBTZE1CWEHSAe8BQVVfeXFMTngtNk9Lc1lFU3ByLV9ST2kyMUlxMEdMVm1KV01WUHJ6YVl6cERLaHh5b0NfOURjREpwc1drY3pXMlBSUjNFd3J5RWtDTUNHVnRiT2ttemRjZE0ycHdCeXJtc2NrMFdRd3NHOTQxMkpvVTlTajNCSlRZS0JySF9mMzh3TVh2Vks4bXV4Y0UwdnJXZkc5ekw2X1NnUUtuY2NES05tcHVUZkZiZTJSZW9RdjRSS1p3dnM5LXJXVGZnYld6d2ZEaWdaSk9ua08tdFpfbmNLbWR0Z0lCWjZ5ZmZ4aGNtbEV6cFpoZDNRdWRwNVE?oc=5",
@@ -1099,6 +1119,26 @@
    "source": "SEBI",
    "publisher": "BusinessLine",
    "scope": "india",
+   "ts": 1786950000000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObjB4RGVYdURLdWdUY2ViWUNfZXUwMkQtQWFOajIyLWc2VE9uLXdiZDdkVVZGekFHXzZrdzJtUFpsWnNSR2VUdTZDdGlWbm1xR3ROLXFscVc3VFhMTmJzV0VpRDRpMXJzdmJFOHEteVp4czJKaUl",
+   "title": "SEBI warns investors against real-time trading tips on social media - Upstox",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObjB4RGVYdURLdWdUY2ViWUNfZXUwMkQtQWFOajIyLWc2VE9uLXdiZDdkVVZGekFHXzZrdzJtUFpsWnNSR2VUdTZDdGlWbm1xR3ROLXFscVc3VFhMTmJzV0VpRDRpMXJzdmJFOHEteVp4czJKaUlPT3VYbVBVSGt4cUE0cVd1VDBVQWkyWEN1QVlNVWRwN1FUUFVGaU0yTnNzVE9qR2dHMnRBYXlTbTVhWDVMTVBrZXFUcHRwcklHT1ZxcHpCWUVGODF6bEI?oc=5",
+   "desc": "SEBI warns investors against real-time trading tips on social media  Upstox",
+   "source": "SEBI",
+   "publisher": "Upstox",
+   "scope": "india",
+   "ts": 1786950000000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0p0REVVbU5Jemw4S3l1Z1l6d1phN25HR3lMck44YjJlQld3bFh0M0l3ZEROT0o3cjdIbTVrNjVSS2xzMjhPTjE0VHA2eE9kUlREVUZpWTZwbUQ1dDVpa1VmRGQ4eVU1OHh4S1BtSnkyLUZkZ2V",
+   "title": "Fed to hold interest rates this year, economists say, sticking to their view: Reuters poll - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0p0REVVbU5Jemw4S3l1Z1l6d1phN25HR3lMck44YjJlQld3bFh0M0l3ZEROT0o3cjdIbTVrNjVSS2xzMjhPTjE0VHA2eE9kUlREVUZpWTZwbUQ1dDVpa1VmRGQ4eVU1OHh4S1BtSnkyLUZkZ2VTTU9IU0Fsc3VucUZNVm9zM1N3RUdpc0gzdk5zOGV3bzNROUlXaXdvZFdoR2tId0N6bHJyUTZlUmp0MzJXRQ?oc=5",
+   "desc": "Fed to hold interest rates this year, economists say, sticking to their view: Reuters poll  Reuters",
+   "source": "US Fed",
+   "publisher": "Reuters",
+   "scope": "world",
    "ts": 1786950000000
   },
   {
@@ -1160,46 +1200,6 @@
    "publisher": "Moneycontrol.com",
    "scope": "india",
    "ts": 1786690800000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXZRWVFHM2cwdkpyT3FrRmpVWnlXeGlwTXFsZkltX0Q3YXdZVXEyWXlSQ0tMMVA5NWNmSDZrTDFpRExwejVRZl9jOFFERS1oQUlleDNyaVF0Z1lsSllHQjM4LW1rei1NM0JJZTN4b2pGUVhlaDB",
-   "title": "Indian markets regulator proposes digital onboarding for individual foreign investors - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXZRWVFHM2cwdkpyT3FrRmpVWnlXeGlwTXFsZkltX0Q3YXdZVXEyWXlSQ0tMMVA5NWNmSDZrTDFpRExwejVRZl9jOFFERS1oQUlleDNyaVF0Z1lsSllHQjM4LW1rei1NM0JJZTN4b2pGUVhlaDBvSVZSWndPcmFBLWwtblVrTkNUZm9kRUEybmNaQzNmSG42QjZOVWh0OG9IZnctY3JOdEhBX2xOYUN5WURleWpDWDNGZ2VkR0xfekM0Zw?oc=5",
-   "desc": "Indian markets regulator proposes digital onboarding for individual foreign investors  Reuters",
-   "source": "SEBI",
-   "publisher": "Reuters",
-   "scope": "india",
-   "ts": 1786690800000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdS1uek1weGxGblhWN1p2VjludW9WSURIMVpjU2swVEk0X1ZFbWZqX0VQbzBXRERpUXI3YjlkTHBEY25RNXVQRnRBQkVCZmpqRTBHZzRFVXItcnJad3U0NUxsS2FoMFlrc3lMUzdjSE5tT3dId2Z",
-   "title": "Indian market regulator SEBI proposes fully digital KYC for NRIs, OCIs, foreign nationals - ANI News",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdS1uek1weGxGblhWN1p2VjludW9WSURIMVpjU2swVEk0X1ZFbWZqX0VQbzBXRERpUXI3YjlkTHBEY25RNXVQRnRBQkVCZmpqRTBHZzRFVXItcnJad3U0NUxsS2FoMFlrc3lMUzdjSE5tT3dId2ZrajVna0lUOXE5SHNLRkhaRG8zN2NMSUJGdDRaUTBYazV5bkVJU1BPcERDaDZBemJfQV9GRnVCQ3hYeTdzbERWelUyMGZsOFBxcE9KYTA1bnhueXl6WXlDYTZ3bXBfaA?oc=5",
-   "desc": "Indian market regulator SEBI proposes fully digital KYC for NRIs, OCIs, foreign nationals  ANI News",
-   "source": "SEBI",
-   "publisher": "ANI News",
-   "scope": "india",
-   "ts": 1786690800000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZlBkSnI5T2VhTFlqMURkS25rdTBTQVlaLUZGaFZYVTB4ZndUeUlfYXVaNFVOQkN1ZnY1c3V5Vk1BOHVUa0VzYWU0Y2hMRmdBSUkydm5CYkd0cHRNMjNuQXNvdjg4em01cUswTGt1YXdkVzVVSHl",
-   "title": "India sees sharp expansion in retail, MSME credit access since 2021 - Business Standard",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZlBkSnI5T2VhTFlqMURkS25rdTBTQVlaLUZGaFZYVTB4ZndUeUlfYXVaNFVOQkN1ZnY1c3V5Vk1BOHVUa0VzYWU0Y2hMRmdBSUkydm5CYkd0cHRNMjNuQXNvdjg4em01cUswTGt1YXdkVzVVSHlyZ1h4WUhmd0IyUmlYaXpvWERBckQyZ2FqMmtLQWhodEZmNnVYVHlpbFI2dkh0WUYteWdwbzlfblJBSldfMl9vcUpFWWM1bEREb2VpQjE2elBnLW8tUHpLQdIB0wFBVV95cUxOYlNYTFNvWTJVTFpCYW1SSjBna1R5OFR4Vzk2SGF1ZDFaRjU0dUNXN05OU0xrVDU1Ym02ZGpjcTdaSEtQVzZzaENubkJ5WjlQOFRiMUF4LUVOb0V1X2RMVzhSSFg1YS12YnAyY0U3dFpkSlliN3lld1g4LVdrTUg4aWFhVWQ4Nmpva0lPUktVMklWU084N3dWSzJKaVRmYlY0RjFCRDlqZ2tPQ3hSYzZfNzktTnB2ZWtidmxOUmltX040WXpIcm9YVzhFRjczLVpFZGZr?oc=5",
-   "desc": "India sees sharp expansion in retail, MSME credit access since 2021  Business Standard",
-   "source": "SIDBI / MSME",
-   "publisher": "Business Standard",
-   "scope": "india",
-   "ts": 1786690800000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTXJDVnNrdjBPMU9GZk5HOWN2bUU0OWtqSnNYeUwxd2w3LTBOYks4Ym03cXhBbDhTNG8zaDd6Qy1RbEk4NG93bUd0eGRKaFp4TmFuTE16c241R1NhOEFUNXZEN2l1ZUw3bnJ2VVF1NHBIeFVsR3V",
-   "title": "SEBI Credit Risk-o-Meter: Regulator proposes colour-coded scale for debt securities - BusinessLine",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTXJDVnNrdjBPMU9GZk5HOWN2bUU0OWtqSnNYeUwxd2w3LTBOYks4Ym03cXhBbDhTNG8zaDd6Qy1RbEk4NG93bUd0eGRKaFp4TmFuTE16c241R1NhOEFUNXZEN2l1ZUw3bnJ2VVF1NHBIeFVsR3VXd045RkYxNkNiUExxUDAxNDNobzJUUTJ6ak1CakZiTGVBXzZWR3ZJWEIzWkREeF9rQzZFWkduZ09ZU0taMTVwU3B4bWFWSFpVa3E0d2xlaEtNc3U2RdIB0gFBVV95cUxQV19fekg4Zk9CNmE5WHJ2N1BPQVJBRFBPWHdjSzNGLXdBRVJwczhpd044QVVxQkhha1RMT2VvNFp5R1g2QzZPTFgxa1BveDJRVGpLbXFtYlFKX2ZRbHZoLVFiZUFqMTJsRl8zdGRhY1U5M1dTZjBiU291dXBLdjkxSTYwY2k4SWNnNFh0aUlzWVNQdzBRZGMyQUZXcHlFdmlUV3dQZVJ0bmUwNEdmeEhlZTlyYWJ1M2JHTktjOHVtZEdEbGk4TFc2c3gxN3RxNGtTZ2c?oc=5",
-   "desc": "SEBI Credit Risk-o-Meter: Regulator proposes colour-coded scale for debt securities  BusinessLine",
-   "source": "SEBI",
-   "publisher": "BusinessLine",
-   "scope": "india",
-   "ts": 1786670638000
   }
  ]
 }
