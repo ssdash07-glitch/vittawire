@@ -1,23 +1,53 @@
 {
- "updated": "2026-09-19T14:47:23.340303+00:00",
+ "updated": "2026-09-19T17:53:12.891242+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTDdYUWFyQm1zMDdjQzhORVIwUk1ZR3Z1dzY4YldVV2dwbHpFenVkYlpzZzdOM0VLZEdYaVluc2RWc1QzR0p5NHhINzY5MkxLakw2MHVsZ3dLR1Zpajd5cjMtdnQyTEVZY29TU3FVNEl4UThQcnF",
-   "title": "Column | What to do about your credit card debt as interest rates climb - The Washington Post",
+   "title": "Column | Here’s how to pay down your credit card debt - The Washington Post",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTDdYUWFyQm1zMDdjQzhORVIwUk1ZR3Z1dzY4YldVV2dwbHpFenVkYlpzZzdOM0VLZEdYaVluc2RWc1QzR0p5NHhINzY5MkxLakw2MHVsZ3dLR1Zpajd5cjMtdnQyTEVZY29TU3FVNEl4UThQcnFFZWVLQlpPQ0xpUktQWWJsQmlnd19WRU1CWlkzN3dLVVpoakNWMEx0dHFPR2d4bjNrS2NhRWRZOW5Rdm9RT0R4X3JHNUE?oc=5",
-   "desc": "Column | What to do about your credit card debt as interest rates climb  The Washington Post",
+   "desc": "Column | Here’s how to pay down your credit card debt  The Washington Post",
    "source": "US Fed",
    "publisher": "The Washington Post",
    "scope": "world",
-   "ts": 1789828348000
+   "ts": 1789837201000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWjBSa1RGdnVsN19uSjhxdUNWM2pOWGptYjJPdFlxQUpfTVYya3VYdW9OTmF4TDAweHpXOFJDblQtdU4tSS1RLTI5d2s2NDhyMWF4Q1JlbjI2VjJ3ZjBOTV83N0xRamZFcnp6QTQ3aUZQWkJtaTh",
+   "title": "Federal Reserve Inflation Outlook Signals a Critical Warning for Investors - The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWjBSa1RGdnVsN19uSjhxdUNWM2pOWGptYjJPdFlxQUpfTVYya3VYdW9OTmF4TDAweHpXOFJDblQtdU4tSS1RLTI5d2s2NDhyMWF4Q1JlbjI2VjJ3ZjBOTV83N0xRamZFcnp6QTQ3aUZQWkJtaThDVDJrNGJkOFkydGQxaHp3OTFjajNKUGUyMm9LNW8?oc=5",
+   "desc": "Federal Reserve Inflation Outlook Signals a Critical Warning for Investors  The Motley Fool",
+   "source": "US Fed",
+   "publisher": "The Motley Fool",
+   "scope": "world",
+   "ts": 1789834212000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZER3dGN0cmxoX1RqbnBKQnZRT2Y0TkV0N01ubkZGemVLM1FtY1c4SmVCTllxaWtMaTRVbW9rUXpHZmxPMjFsVHRBaFF4eGFKSGkwVk5hSDZaREgyRjZTTl93a2JaUjBtbWgzMHByYzRsY2tPcjZ",
+   "title": "Higher interest rates and AI safety fears put the stock market to the test last week - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZER3dGN0cmxoX1RqbnBKQnZRT2Y0TkV0N01ubkZGemVLM1FtY1c4SmVCTllxaWtMaTRVbW9rUXpHZmxPMjFsVHRBaFF4eGFKSGkwVk5hSDZaREgyRjZTTl93a2JaUjBtbWgzMHByYzRsY2tPcjZCR2JUVElkZGVndk56azh2MGV1NFMxSHdXUU9jX1FsU05NME95ME9iWjBXczZ0TGh4bGpzRzFSbDN2WmVYZWZRaXFQTXVDeHRB?oc=5",
+   "desc": "Higher interest rates and AI safety fears put the stock market to the test last week  CNBC",
+   "source": "US Fed",
+   "publisher": "CNBC",
+   "scope": "world",
+   "ts": 1789833789000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGRSdFdtQUR1dmJucmFyZGVUNjZLelp0eDYwVGQ1MHdOVmYwd3ZwMU9UZ2VQQjZmUHQ0bkZXTnFDQmJOMDlFV2l5b0xnWG05dUh4b2xTVzBWQ1ZNLUk1MTJvcVVsS1NmcC1LTmlEbzBhNVU1R1d",
+   "title": "Federal Reserve Inflation Outlook Signals a Critical Warning for Investors - Currently.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGRSdFdtQUR1dmJucmFyZGVUNjZLelp0eDYwVGQ1MHdOVmYwd3ZwMU9UZ2VQQjZmUHQ0bkZXTnFDQmJOMDlFV2l5b0xnWG05dUh4b2xTVzBWQ1ZNLUk1MTJvcVVsS1NmcC1LTmlEbzBhNVU1R1d2VklNVFA5R09mUXh5a0ZHZ0hRcklScHo1R2tPYUlMNTRpMA?oc=5",
+   "desc": "Federal Reserve Inflation Outlook Signals a Critical Warning for Investors  Currently.com",
+   "source": "US Fed",
+   "publisher": "Currently.com",
+   "scope": "world",
+   "ts": 1789833420000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVVNlVFUzSE4tQlg3RVk3a0t5cXRscU5OTnFVaWd0TGtJU2U4VmI3UDRUNWtETUZsQ1QwWWdRYnRwNXFIajVyY1lHM0pkX2R0QW1BVlhFWUdkemtYQmV0OG8yRy1ETUxEQTlCN2lPNFRnZVpJODY",
-   "title": "Fed Chair Kevin Warsh and the FOMC Just Hiked Interest Rates, and 36 Years of History Make Clear What Comes Next for Stocks - Yahoo Finance",
+   "title": "Fed Chair Kevin Warsh and the FOMC Just Hiked Interest Rates, and 36 Years of History Make Clear What Comes Next for Stocks - finance.yahoo.com",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVVNlVFUzSE4tQlg3RVk3a0t5cXRscU5OTnFVaWd0TGtJU2U4VmI3UDRUNWtETUZsQ1QwWWdRYnRwNXFIajVyY1lHM0pkX2R0QW1BVlhFWUdkemtYQmV0OG8yRy1ETUxEQTlCN2lPNFRnZVpJODYzNm9KVmE0N2dsVG9UVkI1OXpBaXNsNHpaRkdnZFdjYVE?oc=5",
-   "desc": "Fed Chair Kevin Warsh and the FOMC Just Hiked Interest Rates, and 36 Years of History Make Clear What Comes Next for Stocks  Yahoo Finance",
+   "desc": "Fed Chair Kevin Warsh and the FOMC Just Hiked Interest Rates, and 36 Years of History Make Clear What Comes Next for Stocks  finance.yahoo.com",
    "source": "US Fed",
-   "publisher": "Yahoo Finance",
+   "publisher": "finance.yahoo.com",
    "scope": "world",
    "ts": 1789824361000
   },
@@ -42,6 +72,16 @@
    "ts": 1789819205000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOHFGcTJZbTd5YUkxR24ycVBiaFhEcEVPNGh5Umt5aExwenEwNmRSZkpUdURWaW1DQVg4VHFuVUFDZEN3M3hJY09SNGEtWVd4SnpRVC1aM0hWU0ROMjNpZ1dNLWNVcnZJelpNYUxaTGpBZldyQVN",
+   "title": "IMF: AI May Boost EU Growth but Heighten Economic Risks, Warns Report - Global Banking & Finance Review",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOHFGcTJZbTd5YUkxR24ycVBiaFhEcEVPNGh5Umt5aExwenEwNmRSZkpUdURWaW1DQVg4VHFuVUFDZEN3M3hJY09SNGEtWVd4SnpRVC1aM0hWU0ROMjNpZ1dNLWNVcnZJelpNYUxaTGpBZldyQVNhclRwRnRnS2Q4XzUwVC15Y2VXSlEwdS1TVGM2QTEydFF0dm5VWnYtdw?oc=5",
+   "desc": "IMF: AI May Boost EU Growth but Heighten Economic Risks, Warns Report  Global Banking & Finance Review",
+   "source": "IMF / World Bank",
+   "publisher": "Global Banking & Finance Review",
+   "scope": "world",
+   "ts": 1789817905000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcktQMzNkSGJjMXZyanNJVmJkMUxLdWUwbHMwd2I3SXFmcGp6YnRTd1NsYjRwVWpNR3lRR3BfWExYQV96Vm9OUThwT2JFd0NtNzhLZktUaGtYWkJVTGpGZGF0N2Z4Y1JNeWhUVXl6cnotTUZEYy1",
    "title": "RBI Should Hike Rates Early To Anchor Inflation Expectations, Support Rupee: Report - BW Businessworld",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcktQMzNkSGJjMXZyanNJVmJkMUxLdWUwbHMwd2I3SXFmcGp6YnRTd1NsYjRwVWpNR3lRR3BfWExYQV96Vm9OUThwT2JFd0NtNzhLZktUaGtYWkJVTGpGZGF0N2Z4Y1JNeWhUVXl6cnotTUZEYy1DRjVweHhFYVlZV2xaTmJfSHd0NjRoZUZuclBnYjNDQXdkNjBnc24tbnZJUXBHTUxEY1pJSlpuNkF5QXBfWEtEZXI0MmlHREFYamtJMFU?oc=5",
@@ -50,16 +90,6 @@
    "publisher": "BW Businessworld",
    "scope": "india",
    "ts": 1789817405000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQWpVSkE4dHUzcm9hRzVUZTlsTC0zS2tlX0J6ZllmNVF1MkV1Y3daX1hqODZValJmQnFvMDJ5a2N0MlJJSEdzSnIzZTJXY2FPeUVqamdEX2czVTNUcG1vZ0VQR0hVTHpyNTVmU19yWV9EYnFucDB",
-   "title": "IMF tells EU ministers AI could boost growth but increase economic strains - Devdiscourse",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQWpVSkE4dHUzcm9hRzVUZTlsTC0zS2tlX0J6ZllmNVF1MkV1Y3daX1hqODZValJmQnFvMDJ5a2N0MlJJSEdzSnIzZTJXY2FPeUVqamdEX2czVTNUcG1vZ0VQR0hVTHpyNTVmU19yWV9EYnFucDBjWW1EM0VFN2N1Tndvc2w4TE9NVU5za010TTFFS2diOTJuQTNHaWNKUmpGSFg5SmxBODk0ZW1LTzQxN2V5Y3VmUTBwQWF0TWJnbldZRVFseWJ3YzU2c0hHUdIB0wFBVV95cUxPczJXbVkzellPc0VBSE9Uck4wNFFVQXZTMWx4VThiSmsxUlU1dGpSSGVlT2pzSG55ZEpRRWgybmZfcTd5X05xVkxJTXhZWnhYZHZtUkFvcXVQLXdjOXAtZlhBdXBiLVFfaFFPb1dNU19La1VBRUVTc1JnRHB0NU15US1JMURaekE3MVkyVjNyOW1IejdhbFpKYjlsajd2UkVIek1nbXZPN0lMMy1CTVNfLVdFNklCNEJleklBOU9sWS1GSG1mdElmcWtZaGFVMTU4WWhR?oc=5",
-   "desc": "IMF tells EU ministers AI could boost growth but increase economic strains  Devdiscourse",
-   "source": "IMF / World Bank",
-   "publisher": "Devdiscourse",
-   "scope": "world",
-   "ts": 1789817218000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9icEZxTFg3Ykw1alFFd1lPRHBCR3c4WVVEMDd5UWxTb21iLVhpOEZiR3ZsSUl1Sk5aVXRNT3BpeHNSZE5FR2IxS3RoMS16aXdvQVdETUlHYm4zVHlacXpV?oc=5",
@@ -73,11 +103,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNanRyTXM4ZE00RFhRWlRSYXlhNUx5cGxxRENEUTFSZmlyUU1rNmFGcmpQdVdleGtBNkRoRVZYVkY3ZEY1UU9McXZsQ0ZBNFllQWR2RXhSU0xsc0dCcDVIWUVOeUNZNU9xcTd3MHNJVE5fUE9KMHh",
-   "title": "Ever wonder how the Fed's interest rate actually works? We've got answers - npr.org",
+   "title": "Ever wonder how the Fed's interest rate actually works? We've got answers - NPR",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNanRyTXM4ZE00RFhRWlRSYXlhNUx5cGxxRENEUTFSZmlyUU1rNmFGcmpQdVdleGtBNkRoRVZYVkY3ZEY1UU9McXZsQ0ZBNFllQWR2RXhSU0xsc0dCcDVIWUVOeUNZNU9xcTd3MHNJVE5fUE9KMHhxM2tGQ3NDam1CVnJxT0M4MEp3ZllkNEZnRmxWS19JOVBj?oc=5",
-   "desc": "Ever wonder how the Fed's interest rate actually works? We've got answers  npr.org",
+   "desc": "Ever wonder how the Fed's interest rate actually works? We've got answers  NPR",
    "source": "US Fed",
-   "publisher": "npr.org",
+   "publisher": "NPR",
    "scope": "world",
    "ts": 1789808400000
   },
@@ -143,11 +173,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDdpZW5ESjlDSllRenlRaVdPRVpQTXdwOWxwZXN5YXR0T0ZMUUVtT1JRR0hxWTRtdlJNbUpJTXNtRnVIcnRIaW1TYWdmYWliUXFKUUNoTEZYeE1mRjNlZjJOMmFmM3pBRlp1LWNlTG5EVjVNVUt",
-   "title": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News - newsonair.gov.in",
+   "title": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News - News On AIR",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDdpZW5ESjlDSllRenlRaVdPRVpQTXdwOWxwZXN5YXR0T0ZMUUVtT1JRR0hxWTRtdlJNbUpJTXNtRnVIcnRIaW1TYWdmYWliUXFKUUNoTEZYeE1mRjNlZjJOMmFmM3pBRlp1LWNlTG5EVjVNVUtmRThkWGZxOHV2YXYxZU9uWVdGdDZ3NEQzM0NCbzBLY2xFWk40ZzQxTUk2YllTQ0p5TUlGQQ?oc=5",
-   "desc": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News  newsonair.gov.in",
+   "desc": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News  News On AIR",
    "source": "RBI",
-   "publisher": "newsonair.gov.in",
+   "publisher": "News On AIR",
    "scope": "india",
    "ts": 1789774798000
   },
@@ -192,22 +222,12 @@
    "ts": 1789765946000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQm9WZkRiU3FiZnhmMUNRSGJLcnBxa29XcVkyd1dwYmFNVlhlTktFTThyMTVfaDZWM1djakFjazI3MUFnNmVoZGZLLW5OTl95V0dMWWYwcDZJQ1NaTkJOTWNGeFpNY3Nkd05LMWpRM2twVEFLT0Z",
-   "title": "What to know about the Federal Reserve rate hike - kaaltv.com",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQm9WZkRiU3FiZnhmMUNRSGJLcnBxa29XcVkyd1dwYmFNVlhlTktFTThyMTVfaDZWM1djakFjazI3MUFnNmVoZGZLLW5OTl95V0dMWWYwcDZJQ1NaTkJOTWNGeFpNY3Nkd05LMWpRM2twVEFLT0ZXN0pTbXRNRzlla0NuU1pEOXBjZ05oLU94SXo?oc=5",
-   "desc": "What to know about the Federal Reserve rate hike  kaaltv.com",
-   "source": "US Fed",
-   "publisher": "kaaltv.com",
-   "scope": "world",
-   "ts": 1789759650000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaTJFdU1RczNyN0w2RjNKNHB0OWxqaEhHeDE5bDdXOS16QlV0eHNnbWNSbGVVQ2RaRTVJOWFHUXQ2Qy1qTy1aQ0lVVGFMNzRXV3lwUnBnaHh0VUFmeDNodzVZWWRwVk9iak5qZEZ2R0NSRzNrT2Z",
-   "title": "Global rate-hike cycle in view as central banks take on inflation - reuters.com",
+   "title": "Global rate-hike cycle in view as central banks take on inflation - Reuters",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaTJFdU1RczNyN0w2RjNKNHB0OWxqaEhHeDE5bDdXOS16QlV0eHNnbWNSbGVVQ2RaRTVJOWFHUXQ2Qy1qTy1aQ0lVVGFMNzRXV3lwUnBnaHh0VUFmeDNodzVZWWRwVk9iak5qZEZ2R0NSRzNrT2ZlYUxNaUZYTUY0VXdjYXhQakNOYmdqaUlrZ2JsazMtVHR2bkdMWkJ6Z2hyUzZmaG0wNmkxazg?oc=5",
-   "desc": "Global rate-hike cycle in view as central banks take on inflation  reuters.com",
+   "desc": "Global rate-hike cycle in view as central banks take on inflation  Reuters",
    "source": "ECB / Europe",
-   "publisher": "reuters.com",
+   "publisher": "Reuters",
    "scope": "world",
    "ts": 1789754034000
   },
@@ -272,16 +292,6 @@
    "ts": 1789741320000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQU92dXRnNjRoWmpsNzc2a2VtVTZpNXY5cEZYMi1VSmVhOWZ1YUNTQnpPMlRiS3pIdlAtejIyLWpoUGNnMUdsZkJ0OXgwZ0Nya3VMN0JnMVEyRlN4cnBtQl9oTlNsd24ydFFNMTFLemNZc1VOR1N",
-   "title": "The Federal Reserve Just Raised Interest Rates for the First Time Since 2023. Here's What History Says Happens in the Stock Market Next. - The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQU92dXRnNjRoWmpsNzc2a2VtVTZpNXY5cEZYMi1VSmVhOWZ1YUNTQnpPMlRiS3pIdlAtejIyLWpoUGNnMUdsZkJ0OXgwZ0Nya3VMN0JnMVEyRlN4cnBtQl9oTlNsd24ydFFNMTFLemNZc1VOR1Nhb2FOTVZWMWY4NUUzNzlwRzFNd1EyUFJ6Ukp6Y3ZwU0JVNA?oc=5",
-   "desc": "The Federal Reserve Just Raised Interest Rates for the First Time Since 2023. Here's What History Says Happens in the Stock Market Next.  The Motley Fool",
-   "source": "US Fed",
-   "publisher": "The Motley Fool",
-   "scope": "world",
-   "ts": 1789740240000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSU5RQ0FVa196SklqNmc1V3A2NFRjS0lSMmVPb1VMS0ZQWElIUDg2SjhjZ05sM0dQTTlBSXNsSXI1VkVrRi11TlBpVXloNEFrZU5pM1NfZnYyT0s1clkzblhHdV8tLU9VbzY3WkJZYUdEQTNIMnY",
    "title": "You Decide: Why Did the Fed Raise Its Interest Rate? - NC State University",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSU5RQ0FVa196SklqNmc1V3A2NFRjS0lSMmVPb1VMS0ZQWElIUDg2SjhjZ05sM0dQTTlBSXNsSXI1VkVrRi11TlBpVXloNEFrZU5pM1NfZnYyT0s1clkzblhHdV8tLU9VbzY3WkJZYUdEQTNIMnYwWFJrRTBuZFFMUTJKOTQ?oc=5",
@@ -293,11 +303,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQWtlaHBuZzFtWE53S2UwVkR1dVFKQS0wVXRuTFNnQWtpX21USzI2dVI0VVEyZDROem9FU3BrVElobktNX21Zb2kxM0l3N2pEWUQ4QVBGaEh1YmU5b2hKeFVsSGRLbWgwZV84bk1URS1VMkhIY3U",
-   "title": "The Federal Reserve Just Raised Interest Rates for the First Time Since 2023. Here's What History Says Happens in the Stock Market Next. - Yahoo Finance",
+   "title": "The Federal Reserve Just Raised Interest Rates for the First Time Since 2023. Here's What History Says Happens in the Stock Market Next. - finance.yahoo.com",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQWtlaHBuZzFtWE53S2UwVkR1dVFKQS0wVXRuTFNnQWtpX21USzI2dVI0VVEyZDROem9FU3BrVElobktNX21Zb2kxM0l3N2pEWUQ4QVBGaEh1YmU5b2hKeFVsSGRLbWgwZV84bk1URS1VMkhIY3U2VzZKWTRsbDFCeG1iWG5wdGZraHplTlpZZDVUQVFmR2g5WnpoYjF5Umh5?oc=5",
-   "desc": "The Federal Reserve Just Raised Interest Rates for the First Time Since 2023. Here's What History Says Happens in the Stock Market Next.  Yahoo Finance",
+   "desc": "The Federal Reserve Just Raised Interest Rates for the First Time Since 2023. Here's What History Says Happens in the Stock Market Next.  finance.yahoo.com",
    "source": "US Fed",
-   "publisher": "Yahoo Finance",
+   "publisher": "finance.yahoo.com",
    "scope": "world",
    "ts": 1789737840000
   },
@@ -342,16 +352,6 @@
    "ts": 1789720725000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUtVSDBnTFpEaUVCYXRtc3Uyb3g1Tjl4ZllBbGFaMUhTTUVaMVFuckZreTlZMGFtMXFRamRzaDhrMHAtVjFnRFpHSWxLeDROc1RZaGVfTWNpM01pN2JmdmFSQWROT0ExbkpQWDN3Nmg0NzBva21",
-   "title": "Why the Federal Reserve hiked rates this week - Axios",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVUtVSDBnTFpEaUVCYXRtc3Uyb3g1Tjl4ZllBbGFaMUhTTUVaMVFuckZreTlZMGFtMXFRamRzaDhrMHAtVjFnRFpHSWxLeDROc1RZaGVfTWNpM01pN2JmdmFSQWROT0ExbkpQWDN3Nmg0NzBva21zMDN3STdaNk5aanlyTlE?oc=5",
-   "desc": "Why the Federal Reserve hiked rates this week  Axios",
-   "source": "US Fed",
-   "publisher": "Axios",
-   "scope": "world",
-   "ts": 1789718257000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd1NPenRZUFctX0VlTXR4MDhFVDFOVXlKY1E0X2hyNVZiYTRSOWZibmdmNVh4cEx4cllHd0ZFMUhDbU9LMVlTUWx5aU0zaTJzYnpWTGM5dURsVXlMMzhUdThNMEJabzU5UlU1bW0xYzN6VFZpZlR",
    "title": "Will Tata Sons list? 4 key questions on RBI rules, board, and Trusts - Business Standard",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd1NPenRZUFctX0VlTXR4MDhFVDFOVXlKY1E0X2hyNVZiYTRSOWZibmdmNVh4cEx4cllHd0ZFMUhDbU9LMVlTUWx5aU0zaTJzYnpWTGM5dURsVXlMMzhUdThNMEJabzU5UlU1bW0xYzN6VFZpZlRhdHhCd1I5U2xUMGlpbWd1Q25lQXdxa2hpdWpRLWFMYjgybTVkempiWUNIM1NSNUV2ZktST2ZjSFotSDhHc3JFOTV2R0hMN0JxVm82QjBzZlVvaFpB0gHPAUFVX3lxTE5aZXkwaFhuSlhsdUVTZkhFUncya05jOVY5UklnLXBIZVRET0RYZUNYZE9Yc2hSZmZQanBzTWtDa0FjTUY1VE05QUdmM2xRM0Fsb1YxMnFqREpZZHBOaDRCN1prNkU2RjRjVTRtTmRSelVNaGNXbGRKZnhLX3JrcmlTamJxOWs4clk4SGNiblh5Z3Q0VjVrQ2Y2OXBfMzYzNS1TMG1lYkdfSWdIVV9TZktoS21wUTNTakJsY0psb3pIVVQ3MXNwdnZuTHM5M01YVQ?oc=5",
@@ -380,6 +380,16 @@
    "publisher": "This is Money",
    "scope": "world",
    "ts": 1789678852000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQlRva1ZtN1Z3YkdxSnFraUcxbmQtY0RiVFk2bGJ0OXFuUjBpbzdfRWNscEhVbldwQ0MwdnJJVWdGcXJoaHlsY0JDVVpsVDF4XzQxYmtDaVBSRnlhSFRpMEoxMTlxdVY1dm5TdHRyOGpfd0FSS2R",
+   "title": "Fed’s rate raise increases affordability strain for consumers and dealers - Automotive News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQlRva1ZtN1Z3YkdxSnFraUcxbmQtY0RiVFk2bGJ0OXFuUjBpbzdfRWNscEhVbldwQ0MwdnJJVWdGcXJoaHlsY0JDVVpsVDF4XzQxYmtDaVBSRnlhSFRpMEoxMTlxdVY1dm5TdHRyOGpfd0FSS2RFd09JOWpzZjRoRlpucGJJUTlrRFBUdTNzTjhDWVVlSGFkYW0yaGpIUQ?oc=5",
+   "desc": "Fed’s rate raise increases affordability strain for consumers and dealers  Automotive News",
+   "source": "US Fed",
+   "publisher": "Automotive News",
+   "scope": "world",
+   "ts": 1789678080000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbl9fVk96LV8tRTJqcXN0M2Y5NDQxWmU1SmNySndnYThHT0tzOUdaZHlUNmNaal81aHNqNmVsWVNLRWxIMnQ0b2U3R0ZhUDdtS3R3QmdyMUs2ZS1ZRUVtRTFPNHpyN0hhR2NXc3JiRnktQ2JrSlp",
@@ -492,16 +502,6 @@
    "ts": 1789662925000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUHFTTGwzMjhlWGxWVjNMWDhmTnhicmVwazdvSDgzRU00SjkxR3ZVLXJzc0hEd1dBOWVkOFJEX1hQVUl2VHdVZk5sdjF5Qnk2VVBjd3pqX1hlNDRxOEIyZG91VFVoT0l2bng0VFVfV0g5dXNmaTB",
-   "title": "Why the Bank of England Didn’t Follow the Fed in Raising Interest Rates - wsj.com",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUHFTTGwzMjhlWGxWVjNMWDhmTnhicmVwazdvSDgzRU00SjkxR3ZVLXJzc0hEd1dBOWVkOFJEX1hQVUl2VHdVZk5sdjF5Qnk2VVBjd3pqX1hlNDRxOEIyZG91VFVoT0l2bng0VFVfV0g5dXNmaTBVNGwzaGtiaXJIemNaYkZMTmc3aHJGbW9LVm9LNjRRZy05T0R4RDlqNE5DOG5fNEpGeEZ6eGpoNEQwbXV3OUJQN3dpSVpSRXdsc24?oc=5",
-   "desc": "Why the Bank of England Didn’t Follow the Fed in Raising Interest Rates  wsj.com",
-   "source": "ECB / Europe",
-   "publisher": "wsj.com",
-   "scope": "world",
-   "ts": 1789662540000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcnprVFd4NEktc1lkRE5MYmh6cG96bHl3al9WcmQ0THA1aVI5cWV5aHEwV2dEbGdlZEJuX1dHa25iZkIwWWZWbmVUQjQtb1hJZUdjX1pjdU1MbmtGMUFka2xYdV82VUxQVW4xYzQxakdQVEhEZG9",
    "title": "Sebi Bans Kore Digital, Officials Over Financial Misstatements - Rediff MoneyWiz",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcnprVFd4NEktc1lkRE5MYmh6cG96bHl3al9WcmQ0THA1aVI5cWV5aHEwV2dEbGdlZEJuX1dHa25iZkIwWWZWbmVUQjQtb1hJZUdjX1pjdU1MbmtGMUFka2xYdV82VUxQVW4xYzQxakdQVEhEZG9KYjZSMkFDbmZwbzlEWnpYU2ZScjNnSXU5TGdiamFpRGFnekNLMGFWSEtjS2NmQzVxSGVHYXdtSXJBZGVvRdIBuAFBVV95cUxOenBZRGlZNjMzbUJWNXBZcUU4Y3gtTTgzTnJHbjczLU5CanRzbkZwQ0dPZGdVYjZfU1RkLTl5YTVjWlNYcmw3ZzRqMTRrQVJGSFZxV0JxUzl4Y2hJN2dBU01CSVdpRDMyZDd0RUVTcTlCSzhrakN4aEhVamliemRzNWx1MFE4REZoOXEwOVZCWFhSY0ZOSTgtSzNWTVdVRS0zVVVIZGtjQnBmYjRYd2NuSWx5SlpvOS1a?oc=5",
@@ -510,6 +510,16 @@
    "publisher": "Rediff MoneyWiz",
    "scope": "india",
    "ts": 1789660655000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUHFTTGwzMjhlWGxWVjNMWDhmTnhicmVwazdvSDgzRU00SjkxR3ZVLXJzc0hEd1dBOWVkOFJEX1hQVUl2VHdVZk5sdjF5Qnk2VVBjd3pqX1hlNDRxOEIyZG91VFVoT0l2bng0VFVfV0g5dXNmaTB",
+   "title": "Why the Bank of England Didn’t Follow the Fed in Raising Interest Rates - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUHFTTGwzMjhlWGxWVjNMWDhmTnhicmVwazdvSDgzRU00SjkxR3ZVLXJzc0hEd1dBOWVkOFJEX1hQVUl2VHdVZk5sdjF5Qnk2VVBjd3pqX1hlNDRxOEIyZG91VFVoT0l2bng0VFVfV0g5dXNmaTBVNGwzaGtiaXJIemNaYkZMTmc3aHJGbW9LVm9LNjRRZy05T0R4RDlqNE5DOG5fNEpGeEZ6eGpoNEQwbXV3OUJQN3dpSVpSRXdsc24?oc=5",
+   "desc": "Why the Bank of England Didn’t Follow the Fed in Raising Interest Rates  WSJ",
+   "source": "ECB / Europe",
+   "publisher": "WSJ",
+   "scope": "world",
+   "ts": 1789659223000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSGE5Zl9tVEJwRUhxbWo1d2t4aENHdFd1Y2FINGs2Mm1BYWtZMjhMNHRHam5qX3Ztd3dHZUJBY2tRZEJwbTN2X050akZ3VjluUUlSWmtwNWN2UHJNdTk4Q0N6bUFtYUJxY0YtT2FNd0NxNzhJUnd",
@@ -522,16 +532,6 @@
    "ts": 1789659184000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVkprRmtOMndXdTFvdjU1NEJRR20yN3BLVE9FWW1wWEdlRC1iQXhvZEJLZVJ2eWh6THNrN2VpTkttWVdpR2hMVDJLTnFNeDByZ3Y4UUFHMURCRGtMSVUzQTNoWkxHOTRnOXBQbmoxRlRWWTgzbml",
-   "title": "Trump Wants Interest Rates at 1%: What It Would Mean for Americans - Newsweek",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVkprRmtOMndXdTFvdjU1NEJRR20yN3BLVE9FWW1wWEdlRC1iQXhvZEJLZVJ2eWh6THNrN2VpTkttWVdpR2hMVDJLTnFNeDByZ3Y4UUFHMURCRGtMSVUzQTNoWkxHOTRnOXBQbmoxRlRWWTgzbmlBcGphSy1ZZG1RTmpmVzVibUs5QjEtMQ?oc=5",
-   "desc": "Trump Wants Interest Rates at 1%: What It Would Mean for Americans  Newsweek",
-   "source": "US Fed",
-   "publisher": "Newsweek",
-   "scope": "world",
-   "ts": 1789659180000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTWppSVh4dzdDTVM1VHF6Vm44Tll5a3d2OUg1RGIyNjI4d3l2TkRpZEFwTTBkOFllNkZZOFQ4T05vX1NmOHRiNy1ocVAzVU9YS252ZUpLTy1FSXNaWlVEaVRvNURlUXB0aUl6aFFNcWFZTkdkakV",
    "title": "India markets regulator bars Kore Digital from fundraising, alleges financial manipulation - bfsi.economictimes.indiatimes.com",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTWppSVh4dzdDTVM1VHF6Vm44Tll5a3d2OUg1RGIyNjI4d3l2TkRpZEFwTTBkOFllNkZZOFQ4T05vX1NmOHRiNy1ocVAzVU9YS252ZUpLTy1FSXNaWlVEaVRvNURlUXB0aUl6aFFNcWFZTkdkakVDd3plcEJJWXZDeEFwQUhUUnM4N2tzSEduX1BrZm9tRXdXVlFSbGxqMy1jNmlGLW9JekFiS1NGUEItdlNLTjc1RmxRRThfc1ZvaC1Bajl1a3lNekQ3LXNhQ3pXeDBMWmpYdTJMZEVyUGo2ZlVrcC03LUNJRVVMQnhLY0pweXRNZzllbdIB_gFBVV95cUxOa0NnaEpuaTJGWFQ0bkN3MVExY2ljaGx6TFdMaDNOdmNpVGt3Y3Z6ZnlGdGFQaGwyTXpEUkhYQ0JHdVJ1Y1IzNjAzRU5VUWlqWVgtT2M4WWFrV1BDUnBVTGRQaElxVkFnNFYtNV9HYzVTRy1jN2c4NWdLcW1NNHV0dWNqa1ZEWWxDSGZGcDIxMUNZRHA4MjhyR0xVWjZPRXRUeGg3U1BWZHdieGVfd0NzRTViVG9qdC1uTzVUZk1sdWpQWElEV0JyMGdDekNQVC14aU5fbjBLdUhnN3Q0WnlTLVhKRG0zVDAxeGFpREF3d2FYNnFKV0x3TlM0QUU0dw?oc=5",
@@ -542,22 +542,32 @@
    "ts": 1789658687000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaGhVam5pTHF5b21oeEFaOVJ3ZWlUeS0tR25IRzQyM2piN0xOY0xhUnRBcVNIVEJjX1pUMmxMWVQ5UWFZNUVSVEc3a2FmUm5mOXpha1MydURxZ3NRVEI1b3VVZ0JKcktzWV91ZVVxMjN3dFkzZmw",
+   "title": "Britain is now a global outlier on interest rates - The Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaGhVam5pTHF5b21oeEFaOVJ3ZWlUeS0tR25IRzQyM2piN0xOY0xhUnRBcVNIVEJjX1pUMmxMWVQ5UWFZNUVSVEc3a2FmUm5mOXpha1MydURxZ3NRVEI1b3VVZ0JKcktzWV91ZVVxMjN3dFkzZmw1UzZ4TXNXNHVlM3RWLWYxNExfUEVva0pPY3JzLWlZMHpRY0Vfd1kyS2M?oc=5",
+   "desc": "Britain is now a global outlier on interest rates  The Telegraph",
+   "source": "ECB / Europe",
+   "publisher": "The Telegraph",
+   "scope": "world",
+   "ts": 1789657920000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbUUxcGtmMVNwRlBwamZkOXBKTUQ1MDVxeC1rY1I5REFMeFVQN1hQMFo1Q0lfajhqcGMtWkFKS1ZzdkdwVGp5R19pa3Q2bmpFUldhWGJMdV9UWmpadGtOSUFqOTMtRng2U0p2U3NHQm1TU0lkeUh",
-   "title": "What the Fed Rate Hike Means for Borrowers and Investors - Darden Report Online",
+   "title": "What the Fed Rate Hike Means for Borrowers and Investors - news.darden.virginia.edu",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbUUxcGtmMVNwRlBwamZkOXBKTUQ1MDVxeC1rY1I5REFMeFVQN1hQMFo1Q0lfajhqcGMtWkFKS1ZzdkdwVGp5R19pa3Q2bmpFUldhWGJMdV9UWmpadGtOSUFqOTMtRng2U0p2U3NHQm1TU0lkeUhXa3llUlBnY3lkTG9VMFpBNk11Y19EUldEOTc3Qms?oc=5",
-   "desc": "What the Fed Rate Hike Means for Borrowers and Investors  Darden Report Online",
+   "desc": "What the Fed Rate Hike Means for Borrowers and Investors  news.darden.virginia.edu",
    "source": "US Fed",
-   "publisher": "Darden Report Online",
+   "publisher": "news.darden.virginia.edu",
    "scope": "world",
    "ts": 1789654356000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT3hMN1pyYUhMVWtFYzdmeFIzSzFXUGg0aHFuYV9acF9hR1lCcDhQbmkwRGhzWkhZdGQyVTlrYzE0azkxWHhrZEZaQmotNXdhQkxXYk1RT1B5RVNsRFo5eHE4LTh2SzE2SGVfV0tmeFV3c2Faakx",
-   "title": "Bank of England keeps rates on hold as peers hike - St. James’s Place",
+   "title": "Bank of England keeps rates on hold as peers hike - sjp.co.uk",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT3hMN1pyYUhMVWtFYzdmeFIzSzFXUGg0aHFuYV9acF9hR1lCcDhQbmkwRGhzWkhZdGQyVTlrYzE0azkxWHhrZEZaQmotNXdhQkxXYk1RT1B5RVNsRFo5eHE4LTh2SzE2SGVfV0tmeFV3c2FaakxnMjdUWUhiUVpmbkhqdFVSTGk5UDM1MXpBZUR1UQ?oc=5",
-   "desc": "Bank of England keeps rates on hold as peers hike  St. James’s Place",
+   "desc": "Bank of England keeps rates on hold as peers hike  sjp.co.uk",
    "source": "ECB / Europe",
-   "publisher": "St. James’s Place",
+   "publisher": "sjp.co.uk",
    "scope": "world",
    "ts": 1789654288000
   },
@@ -603,11 +613,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcFdNZ0szNUo2SWhTT2VoazZRTGJSbUQtLTZZZEpINElxTlJMS2ROYlhRRUdZVFBoMks4Z3N1MkNKeFlsMFNMQmNNeGVETWh4Q1hOM1A5LVF0eXVSWnlXem04eVpJeFl6V2RGSW82alQ0TmM4MUl",
-   "title": "Bank of England holds rate, warns of hike if Iran war persists - Free Malaysia Today",
+   "title": "Bank of England holds rate, warns of hike if Iran war persists - freemalaysiatoday.com",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcFdNZ0szNUo2SWhTT2VoazZRTGJSbUQtLTZZZEpINElxTlJMS2ROYlhRRUdZVFBoMks4Z3N1MkNKeFlsMFNMQmNNeGVETWh4Q1hOM1A5LVF0eXVSWnlXem04eVpJeFl6V2RGSW82alQ0TmM4MUliQk9tM0g0c1FSSV9PR3R3RElZLUVmMnpxb0pjWWZJcmNZeDhUOXp6djNybGhoSFBCcVd6ekRRMzdMT3hoYTBTUjdkQUprS3dCQlBUdw?oc=5",
-   "desc": "Bank of England holds rate, warns of hike if Iran war persists  Free Malaysia Today",
+   "desc": "Bank of England holds rate, warns of hike if Iran war persists  freemalaysiatoday.com",
    "source": "ECB / Europe",
-   "publisher": "Free Malaysia Today",
+   "publisher": "freemalaysiatoday.com",
    "scope": "world",
    "ts": 1789646935000
   },
@@ -673,21 +683,21 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd19NTHRCcDhsUVEzSWxfZXZTUFVQMVppQnNybjA4OGhxMTduN21mZkRHdkc5TFZtUUMwRzVBNk5IYUh1U3hqc2hzX2hpZ1ZJUU1sdFZOcFFsUTN1YUYxNzRGc3d0SEdWY1dHSkdFRTJOU0ZwLTh",
-   "title": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member' - npr.org",
+   "title": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member' - NPR",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd19NTHRCcDhsUVEzSWxfZXZTUFVQMVppQnNybjA4OGhxMTduN21mZkRHdkc5TFZtUUMwRzVBNk5IYUh1U3hqc2hzX2hpZ1ZJUU1sdFZOcFFsUTN1YUYxNzRGc3d0SEdWY1dHSkdFRTJOU0ZwLThvVVFIV0NiRGh3cm9tcFJhdUdEVXhKQnpnVlpFc1V4WTZQaHJ0ZXhTNDEzWE1ZcUhCY2xXU0JXd3VrOVY5OXNvRGkyMzgybUxJS3E5blM3TzhnM3dB?oc=5",
-   "desc": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'  npr.org",
+   "desc": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'  NPR",
    "source": "US Fed",
-   "publisher": "npr.org",
+   "publisher": "NPR",
    "scope": "world",
    "ts": 1789642458000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeGpxdUhRODdYczk1WVRUZXZtSUhMRnlvQllUbGt1RW9iMXlTQWFwUWQ5LUtNNWRFLUl5YlhISmt0T053dUxjTXNaQmN3UzBrNXBFdlFUY2w1M1B2VnlrVnNoS2wxNm92SERCdkp4Q2lRQ0IzclJ",
-   "title": "Federal Reserve interest rate hike may trigger another brutal move for US Treasury yields - Yahoo Finance",
+   "title": "Federal Reserve interest rate hike may trigger another brutal move for US Treasury yields - finance.yahoo.com",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeGpxdUhRODdYczk1WVRUZXZtSUhMRnlvQllUbGt1RW9iMXlTQWFwUWQ5LUtNNWRFLUl5YlhISmt0T053dUxjTXNaQmN3UzBrNXBFdlFUY2w1M1B2VnlrVnNoS2wxNm92SERCdkp4Q2lRQ0IzclJLay1jSTZPM0I0Vy1YUm1LcE5uekxFSnBkaEhEcTRkbjZhSHVZbTl4Z0g5ZjkxcmVVaFdJZzlHSDF1b3pzc1Mza1lPT21CZDFpcC1QaldjbDJMRkJHanRtVm1NUkkzT1BVbklreWQxRUNv?oc=5",
-   "desc": "Federal Reserve interest rate hike may trigger another brutal move for US Treasury yields  Yahoo Finance",
+   "desc": "Federal Reserve interest rate hike may trigger another brutal move for US Treasury yields  finance.yahoo.com",
    "source": "US Fed",
-   "publisher": "Yahoo Finance",
+   "publisher": "finance.yahoo.com",
    "scope": "world",
    "ts": 1789641095000
   },
@@ -732,16 +742,6 @@
    "ts": 1789637526000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORU9GUEludGs4dXhIYWFJbkxQRWxPTDZ0dWM5TGg1bVd0LTdPM21Fa0hPT0VuOXlXTGw5Z3JtZFpMenZfSWtEblVBY1hBUlBnVFl6MWNNaUVYT09wZ3Z3bDVTU1VTZzlDM2FDLXB5aTNkZ2tmSE9",
-   "title": "Business - US Federal Reserve hikes interest rates for the first time in three years - France 24",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORU9GUEludGs4dXhIYWFJbkxQRWxPTDZ0dWM5TGg1bVd0LTdPM21Fa0hPT0VuOXlXTGw5Z3JtZFpMenZfSWtEblVBY1hBUlBnVFl6MWNNaUVYT09wZ3Z3bDVTU1VTZzlDM2FDLXB5aTNkZ2tmSE9GX2IxZHJlTnIzckt5SXNFYy0zQkp0WWJrUnd6LWNsQjhDNnJrWVRXUHhvRjhqU29BWG8zVE96MTlFQmhZVjJ1NllWV3QzY2xNSXBVekt0LVJB?oc=5",
-   "desc": "Business - US Federal Reserve hikes interest rates for the first time in three years  France 24",
-   "source": "US Fed",
-   "publisher": "France 24",
-   "scope": "world",
-   "ts": 1789636103000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXY4aEFyY0cwMGhueGFaVVRwb0ctRmRlNVJWMVdlMnM5S0tOSjNwalZCaDlaUFJ3azVaMVRIUUMxX1lmQ25iMkJDZDVJQ0QwcXFhODgxZUtfTlotU256RmNvZlEtak9FMjhXSUo1bllmWU4zdlY",
    "title": "The Fed, After Raising Rates, Grapples With What Comes Next - The New York Times",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXY4aEFyY0cwMGhueGFaVVRwb0ctRmRlNVJWMVdlMnM5S0tOSjNwalZCaDlaUFJ3azVaMVRIUUMxX1lmQ25iMkJDZDVJQ0QwcXFhODgxZUtfTlotU256RmNvZlEtak9FMjhXSUo1bllmWU4zdlYzQkhOMEREY2I2MzBEOXhOelpv?oc=5",
@@ -773,11 +773,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYktxZlJxRVNrdUZFRWViQjVMLUh3OGJwNGhrVFpJY2E5QTAyajNfcnFSb09rZUVkSnVMUHd4WkpsYktvZGczX05nRzVhSTdKNWtfU2hWb09IYnNQQ01tTlMwMV95YzJkbWVDMklwZ19XMC1RNmV",
-   "title": "Federal Reserve raises interest rates for the 1st time since 2023 - abcnews.com",
+   "title": "Federal Reserve raises interest rates for the 1st time since 2023 - ABC News - Breaking News, Latest News and Videos",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYktxZlJxRVNrdUZFRWViQjVMLUh3OGJwNGhrVFpJY2E5QTAyajNfcnFSb09rZUVkSnVMUHd4WkpsYktvZGczX05nRzVhSTdKNWtfU2hWb09IYnNQQ01tTlMwMV95YzJkbWVDMklwZ19XMC1RNmVsckpGS3FpNUpiRlUxZkVtNXk5NE5YRnpBSTI4eEhVOWxaUlBzZDlxb3p1ZVBFeHFR0gGrAUFVX3lxTFBrZzU3UXhjRlBBblFYNzJZZ3dINVFwMnpIOFQwRlJ1NmRTa3JNUGlkamJyS08wRjM5UlFuMkRJcHAtUEQxYjF3b2Yyc2E2V1hOOEhQRHRPckpidllEOHpLRG9VUTFxSUwyaE95SzNNZ0pkemQwQkNBYkZPbTBpN0ZMYTBWU25nT3FrUVNNal9Eb0lCNnJwZTVFUVVhM0dDRlMzQ1pQTF8xRTV6bw?oc=5",
-   "desc": "Federal Reserve raises interest rates for the 1st time since 2023  abcnews.com",
+   "desc": "Federal Reserve raises interest rates for the 1st time since 2023  ABC News - Breaking News, Latest News and Videos",
    "source": "US Fed",
-   "publisher": "abcnews.com",
+   "publisher": "ABC News - Breaking News, Latest News and Videos",
    "scope": "world",
    "ts": 1789632654000
   },
@@ -903,11 +903,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDJGc1ZDOVZNNVhHbHZPNUhSM1lHczJ6b3R0NzRVQ0t1Ykc0UVhtX2FvQUhDYjVOeXNVTEZJTXJ3cXJtTnh2Rk1WM20xV3pTTkhuaGE3c3Fuemc4enRnaS1iRzdjQlpYRHRvNm8tNU44Sk1US2F",
-   "title": "How the first Federal Reserve interest rate hike in years impacts you - Atlanta News First",
+   "title": "How the first Federal Reserve interest rate hike in years impacts you - atlantanewsfirst.com",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDJGc1ZDOVZNNVhHbHZPNUhSM1lHczJ6b3R0NzRVQ0t1Ykc0UVhtX2FvQUhDYjVOeXNVTEZJTXJ3cXJtTnh2Rk1WM20xV3pTTkhuaGE3c3Fuemc4enRnaS1iRzdjQlpYRHRvNm8tNU44Sk1US2F5U0lDSjNhZmRUeWNIemc2dnBPZXdJdTVKLTdpM3dkS2VJQ0kyczJWOEdUeDlrdmlud000SknSAb8BQVVfeXFMUE5oU0Z3YUxKN3hucXNBWTd6OFBnMEhoT2UxVmpDVGJFOUtOTEZaM21nRVhfNmJPTnZjVVRoX2FBdDBsa2VacWUxanNKSmk0c1pXV3YtZkVCbUEzLUdMeHluU2VhTWVhYlU0TEtNdzMxQnlkTXFGVjUzbG9zcmdhdXpNdTdtSkQydWRTUmk2SXhEcHptRG1nT2VQWTBsQ003bkdvVXZ0ZGF2NlZSODlsMWZESE9TUmZsRkxzTGhOUlk?oc=5",
-   "desc": "How the first Federal Reserve interest rate hike in years impacts you  Atlanta News First",
+   "desc": "How the first Federal Reserve interest rate hike in years impacts you  atlantanewsfirst.com",
    "source": "US Fed",
-   "publisher": "Atlanta News First",
+   "publisher": "atlantanewsfirst.com",
    "scope": "world",
    "ts": 1789614840000
   },
@@ -933,11 +933,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUnBManB6Nl9tbnMzaXhPbHh4RmJVX0xWNmdaeENoNW50NGxxanVfMHFMaWVENklmQ09OSzdDVnFtSFhiXzJ0YTE5RVgzSHYtekRVZHU2QXE0LVNWeS1nalgyNldtV3l1X3FUc3NudktmOWZJVVZ",
-   "title": "World stocks rebound, Treasury yields retreat after Fed, BoE decisions - reuters.com",
+   "title": "World stocks rebound, Treasury yields retreat after Fed, BoE decisions - Reuters",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUnBManB6Nl9tbnMzaXhPbHh4RmJVX0xWNmdaeENoNW50NGxxanVfMHFMaWVENklmQ09OSzdDVnFtSFhiXzJ0YTE5RVgzSHYtekRVZHU2QXE0LVNWeS1nalgyNldtV3l1X3FUc3NudktmOWZJVVZORXFNbWloZzlOZkdRWQ?oc=5",
-   "desc": "World stocks rebound, Treasury yields retreat after Fed, BoE decisions  reuters.com",
+   "desc": "World stocks rebound, Treasury yields retreat after Fed, BoE decisions  Reuters",
    "source": "US Fed",
-   "publisher": "reuters.com",
+   "publisher": "Reuters",
    "scope": "world",
    "ts": 1789610700000
   },
@@ -1092,16 +1092,6 @@
    "ts": 1789597321000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWRULUMzYVZjaG5PSzlBd0Zhekw1Mi1aVGlKZ2Nlend2VHNNR0R5aDRHX2h6MkM0LVZTcWFmRldubnVzeHNVNXo2V2JWNGRCWlR0MjRtQ1FvN3ZtektPNDRMd0pHX005RlhxZEM1dHhacmREejc",
-   "title": "How will new interest rates by Federal Reserve impact your financial goals? - CBS News",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWRULUMzYVZjaG5PSzlBd0Zhekw1Mi1aVGlKZ2Nlend2VHNNR0R5aDRHX2h6MkM0LVZTcWFmRldubnVzeHNVNXo2V2JWNGRCWlR0MjRtQ1FvN3ZtektPNDRMd0pHX005RlhxZEM1dHhacmREejcxNWNoT1FCaVZqM2hWMEZoMU9WQ2l1b0tONTE0NFpv?oc=5",
-   "desc": "How will new interest rates by Federal Reserve impact your financial goals?  CBS News",
-   "source": "US Fed",
-   "publisher": "CBS News",
-   "scope": "world",
-   "ts": 1789596780000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQempPZGN1VXRqODlPb3Z1RGhIZDZYeDdpNmd0S2JNbW5kalBfUjhZTVl5R3J0VW9qcmlGRzMzNjlZNjViUE5jVjF2S3lzc0dSQk12dE10Ym9mY2liOVItU2laWFd1c1pJM1M0VFZxOVZvUjdtb3B",
    "title": "Federal Reserve raises interest rates for the 1st time since 2023 - ABC11 News",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQempPZGN1VXRqODlPb3Z1RGhIZDZYeDdpNmd0S2JNbW5kalBfUjhZTVl5R3J0VW9qcmlGRzMzNjlZNjViUE5jVjF2S3lzc0dSQk12dE10Ym9mY2liOVItU2laWFd1c1pJM1M0VFZxOVZvUjdtb3BqYkpsRnlNN2pzWkxPN01nNXhJRHdtaVBrbUZVQWhFdGpBTldnZw?oc=5",
@@ -1163,11 +1153,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzlDTWMtUEI0WmthSXloUDV3emx6WThIXzg1M2lCMEI0ektFSmZMR0VZNk9FZmIyVUc4MHJDX1o2NDBDbUo0NXBlRVplRUJ0UUVtcndzOWNRaXpLd3RwY3VmM0RXdTRMUDlJbzFUZ1ozWFE2MVV",
-   "title": "U.S. Stocks Fall After Fed Rate Increase - wsj.com",
+   "title": "U.S. Stocks Fall After Fed Rate Increase - WSJ",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzlDTWMtUEI0WmthSXloUDV3emx6WThIXzg1M2lCMEI0ektFSmZMR0VZNk9FZmIyVUc4MHJDX1o2NDBDbUo0NXBlRVplRUJ0UUVtcndzOWNRaXpLd3RwY3VmM0RXdTRMUDlJbzFUZ1ozWFE2MVVnc21hOHFqc1RXZE4xTUl5V09SSFlV?oc=5",
-   "desc": "U.S. Stocks Fall After Fed Rate Increase  wsj.com",
+   "desc": "U.S. Stocks Fall After Fed Rate Increase  WSJ",
    "source": "US Fed",
-   "publisher": "wsj.com",
+   "publisher": "WSJ",
    "scope": "world",
    "ts": 1789591560000
   },
@@ -1183,11 +1173,11 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ09wMmRRbG83OVR3anZpSGk2VGxLdFRXVFpiMHRDcVZTSldiNTNBNUZlckZlR2k2dEY0Q2F4TFVEdzJ1aC12Z3hacGoyWWkwZjlDNWE4ZGpPejU0V1hVazhVRktwampUZTlkdEpRZWhySlFMZnV",
-   "title": "Trump lashes out at Fed after Warsh backs rate hike - reuters.com",
+   "title": "Trump lashes out at Fed after Warsh backs rate hike - Reuters",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ09wMmRRbG83OVR3anZpSGk2VGxLdFRXVFpiMHRDcVZTSldiNTNBNUZlckZlR2k2dEY0Q2F4TFVEdzJ1aC12Z3hacGoyWWkwZjlDNWE4ZGpPejU0V1hVazhVRktwampUZTlkdEpRZWhySlFMZnVTUEtlbVU3T3RUS1hjaFJGcHdMSXMwRERiazVqbTBxOXJlMkVR?oc=5",
-   "desc": "Trump lashes out at Fed after Warsh backs rate hike  reuters.com",
+   "desc": "Trump lashes out at Fed after Warsh backs rate hike  Reuters",
    "source": "US Fed",
-   "publisher": "reuters.com",
+   "publisher": "Reuters",
    "scope": "world",
    "ts": 1789591440000
   },
@@ -1195,11 +1185,21 @@
    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTkNGQWZwRUllRWhwM29vZGhCd0Z1TjVzSGtnUXZibzlBNnNNX0hobXRaempWb1k1bndFR0xaTk5yTllrRWFWQk00b3NDYVhQTDI2bUZWQW0xV3lCeUNuOFhEaVVQdnJGc3ZCQUY3MzN3ZWpqb3A",
    "title": "Federal Reserve hikes interest rates for first time since 2023 amid stubborn inflation - Fox Business",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTkNGQWZwRUllRWhwM29vZGhCd0Z1TjVzSGtnUXZibzlBNnNNX0hobXRaempWb1k1bndFR0xaTk5yTllrRWFWQk00b3NDYVhQTDI2bUZWQW0xV3lCeUNuOFhEaVVQdnJGc3ZCQUY3MzN3ZWpqb3A1ZG1HT2dMNGdieEw0R0ZsZ2pYTlJMOVdMeVhkVFFWQ2o40gGcAUFVX3lxTE5zT2pObGszWGx6dXo3VjdyQnlDN0U2N1ROcFp1NW81amlLVGJ2b3Nmb19Ca2RxcVpISHdhdTdfdXppX1JJV2RUTEwyYm9MdDRucDdMNEY5Y1M5d1IweWZSbUVseGYydldTNm91OWVVdDFvT1BJQUVXa0lpLTY4OUwtVTUwUHZBWlNQaDN2VW9kSzFmSGQ1bWtzT001bA?oc=5",
-   "desc": "Federal Reserve hikes interest rates for first time since 2023 amid stubborn inflation  Fox Business",
+   "desc": "Federal Reserve hikes interest rates for first time since 2023 amid stubborn inflation  Fox BusinessLive Updates: Warsh and Fed Officials Raise Interest Rates to Fight Inflation  The New York TimesWhat the Fed rate hike ",
    "source": "US Fed",
    "publisher": "Fox Business",
    "scope": "world",
    "ts": 1789588860000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ3FVMXEyMVlGaGRSWXd6T3Q0OUVIU05RNWtRYlNzcFl3WnBfOXpQMEhoa25qejlGYWVjNkZTZlhCejFGR1JwWUVzUUgtcnZtYmNhd05ZZG9sTkRBMjkwTUdXZnlidGFKU3ZaWnVBZHlfTzF1bFV",
+   "title": "Fed raises interest rates by a quarter point in unanimous decision, marking first hike in 3 years - finance.yahoo.com",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ3FVMXEyMVlGaGRSWXd6T3Q0OUVIU05RNWtRYlNzcFl3WnBfOXpQMEhoa25qejlGYWVjNkZTZlhCejFGR1JwWUVzUUgtcnZtYmNhd05ZZG9sTkRBMjkwTUdXZnlidGFKU3ZaWnVBZHlfTzF1bFVPX0VtNDFvOXl4UmNDa0lBbzUwLVVHeElJelhuSHJoaTlsbFNFZkZxZDg0dGFCblFJdk54Uk9xM3hFV3ZkbzhKR0lOMUNJZnZYWXlfYU1vUHV2ejlpajNEcUowNVh1eTlLUmxOamVVZGY3cHFzNjBEeWFHbDNobV9MS1V2UQ?oc=5",
+   "desc": "Fed raises interest rates by a quarter point in unanimous decision, marking first hike in 3 years  finance.yahoo.com",
+   "source": "US Fed",
+   "publisher": "finance.yahoo.com",
+   "scope": "world",
+   "ts": 1789588706000
   }
  ]
 }
