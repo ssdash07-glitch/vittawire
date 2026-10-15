@@ -1,10 +1,370 @@
 {
- "updated": "2026-10-15T06:26:12.484174+00:00",
+ "updated": "2026-10-15T12:06:43.254760+00:00",
  "items": [
   {
-   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZnlOVVZwUHlValByMndnZjFnVTladmxLX1M0WWVETks1MURPN3dDa0RVLUJoUFEtSWpWSEctV3Y4ZGg0bDAxV2dxVTFQbXVPSVBWLVN6RVlUQ0tQUERzT3FEQzg2ZndYWWIxUFl3bTI5UmtONG5",
+   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLUZ3c21sRHFUU1JvLWJWX3ItSHQtS0dFVVpBR0FpaDhLR2dNdmY3bThoNTd2NzRkXzMzd2NpaEU5MDU4M1dCNkZ0Szk5akpiaWU2R1lYdlprZENtVnJVRFM0M1JHc241dk1ERlpOR0xzRFhfejl",
+   "title": "Factbox-Major brokerages expect next Fed rate hike in December - Fort Worth Star-Telegram",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLUZ3c21sRHFUU1JvLWJWX3ItSHQtS0dFVVpBR0FpaDhLR2dNdmY3bThoNTd2NzRkXzMzd2NpaEU5MDU4M1dCNkZ0Szk5akpiaWU2R1lYdlprZENtVnJVRFM0M1JHc241dk1ERlpOR0xzRFhfejl3ejFUUU1wdldXSDdKQWs?oc=5",
+   "desc": "Factbox-Major brokerages expect next Fed rate hike in December  Fort Worth Star-Telegram",
+   "source": "US Fed",
+   "publisher": "Fort Worth Star-Telegram",
+   "scope": "world",
+   "ts": 1792065548000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNmZVczZQeWJIUVZKSi1FckF6R2g4UzduaV9pcHdUVktfbzlaamg2UmFEcWNOMjhfMF9kRzNFQ1NIWUZHY0R0MVI1M1N0SXVSRkV5SGd1Y3hDdEhtYzlqTXF5Zy1aZWJ1ZWFHUXJfa1RGSEZ6dUV",
+   "title": "IMF scenario puts US equities 20% lower if AI gains stall - Wealth Professional",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNmZVczZQeWJIUVZKSi1FckF6R2g4UzduaV9pcHdUVktfbzlaamg2UmFEcWNOMjhfMF9kRzNFQ1NIWUZHY0R0MVI1M1N0SXVSRkV5SGd1Y3hDdEhtYzlqTXF5Zy1aZWJ1ZWFHUXJfa1RGSEZ6dUVPaDc5VGZiU2dtV291X1RBQm9OX01WRkZBSFJOcURIOXhKU1pDam9WSUpkT1NpdFdCLThoRUpDMDl1N2ZMX2pXcmgzWTVZd29sNEJndw?oc=5",
+   "desc": "IMF scenario puts US equities 20% lower if AI gains stall  Wealth Professional",
+   "source": "IMF / World Bank",
+   "publisher": "Wealth Professional",
+   "scope": "world",
+   "ts": 1792064766000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJSlRPR0ZUaHRCamQ5R2E4NTVSTTVkTGREVEpCbGhhSDRRNWx2MjBpMS1QWFpzbW43MkhFUU5BR24zSUtBQnhPUUNmNGNPSzFoOFRWZDQxVnpDSllPUnRCbFZqeWpjbW8?oc=5",
+   "title": "IMF warns of widening economic gaps amid an AI investment boom - Nation Thailand",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJSlRPR0ZUaHRCamQ5R2E4NTVSTTVkTGREVEpCbGhhSDRRNWx2MjBpMS1QWFpzbW43MkhFUU5BR24zSUtBQnhPUUNmNGNPSzFoOFRWZDQxVnpDSllPUnRCbFZqeWpjbW8?oc=5",
+   "desc": "IMF warns of widening economic gaps amid an AI investment boom  Nation Thailand",
+   "source": "IMF / World Bank",
+   "publisher": "Nation Thailand",
+   "scope": "world",
+   "ts": 1792063380000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVVN2ZFdaQjRUY0Y1cWZCYUdjek5VcUNhVUNEVWk5R0dNQUVFcVFWNlZsVXJvaHNWVU5BcHVBWHBJQlJHbXk5WlhWYmtXRmhIc2pMQ3Nvakp3SDZiR3A5bXlSaVZEYVVwMzRnTzdnVEhKY2hUS1p",
+   "title": "US 10-year Treasury yields fall to three-week low as Fed remarks ease rate hike bets - Economies.com",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVVN2ZFdaQjRUY0Y1cWZCYUdjek5VcUNhVUNEVWk5R0dNQUVFcVFWNlZsVXJvaHNWVU5BcHVBWHBJQlJHbXk5WlhWYmtXRmhIc2pMQ3Nvakp3SDZiR3A5bXlSaVZEYVVwMzRnTzdnVEhKY2hUS1pPY2JzR1Y1cUctcDA2ZWJLeG50SU1NYmpEd19SUV8ybjRaVGgtTFdHYnFwSnpOS04zSlJKRy1mQVozNzIyUy1pVVN2YjFKSXZpN2xpQzJlQU5JM0hYb2FMUHFkaDNIUQ?oc=5",
+   "desc": "US 10-year Treasury yields fall to three-week low as Fed remarks ease rate hike bets  Economies.com",
+   "source": "US Fed",
+   "publisher": "Economies.com",
+   "scope": "world",
+   "ts": 1792063080000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQemhtUkFfUGRveHg0aVhhRmd6aTlEY0MwRU9yVGxjQ0QtZ0NVYnB1UERJZmpXYi1tYl9RbmF5YzB2NzAzRWR1TGxIWTJHQzZJckhtYkhUdUREWlQyZGQ0OE4yZGJObklPVkMzb29jZWJKekE5c0U",
+   "title": "IMF warns global economy is under strain as SA growth slows - https://explain.co.za/",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQemhtUkFfUGRveHg0aVhhRmd6aTlEY0MwRU9yVGxjQ0QtZ0NVYnB1UERJZmpXYi1tYl9RbmF5YzB2NzAzRWR1TGxIWTJHQzZJckhtYkhUdUREWlQyZGQ0OE4yZGJObklPVkMzb29jZWJKekE5c0UtbzNlUGkwZ0VFM1d4UnlNZXpYSWdhcWRraWdLbVRwUlBialRVTXNCX2FldFZJ?oc=5",
+   "desc": "IMF warns global economy is under strain as SA growth slows  https://explain.co.za/",
+   "source": "IMF / World Bank",
+   "publisher": "https://explain.co.za/",
+   "scope": "world",
+   "ts": 1792062826000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2tibGExS2cwa3NYNGNaV0U0M2NBZmcyYlV0aDgwUHVKUzNzLTVFRk1zaHZKXzAxall3YUxlUkZuZjdTWmd6TWFfRHRRaC1NNmNTeXVUMFktZVpHdG50S24xWmhVVEstMFRUamtKa0c3cDZuM29",
+   "title": "India expected to overtake Japan as world's 4th largest economy in 2027: IMF - Dawn",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2tibGExS2cwa3NYNGNaV0U0M2NBZmcyYlV0aDgwUHVKUzNzLTVFRk1zaHZKXzAxall3YUxlUkZuZjdTWmd6TWFfRHRRaC1NNmNTeXVUMFktZVpHdG50S24xWmhVVEstMFRUamtKa0c3cDZuM29OWlkyR1FVMGR3UDdEMXlTMkVwMzc4WGRDNDBCVDhFX0RKLWpRdW13aUdNeTZiSUNfZHFQazFz?oc=5",
+   "desc": "India expected to overtake Japan as world's 4th largest economy in 2027: IMF  Dawn",
+   "source": "IMF / World Bank",
+   "publisher": "Dawn",
+   "scope": "world",
+   "ts": 1792062397000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLXZmaDdDbUNlOEpoMEZ0YUtNMWQ0ZnUzVXdXZmtyZXBXUUFUY1YxTmdxWGdEdlliUHNjX2lTT1VTelZIUUtYcF9SMUk3ZlZDazdBRU1FeG9aUmhvclRaTl93empmQ0daSXFNd01FUC1Zc0R0SDZ",
+   "title": "Stock market: CAS linked formula on hold? SEBI backs 30 minute VWAP for expiry settlement, says report - IndiaIPO",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLXZmaDdDbUNlOEpoMEZ0YUtNMWQ0ZnUzVXdXZmtyZXBXUUFUY1YxTmdxWGdEdlliUHNjX2lTT1VTelZIUUtYcF9SMUk3ZlZDazdBRU1FeG9aUmhvclRaTl93empmQ0daSXFNd01FUC1Zc0R0SDZzRlhGcXducXhZYXQzeVdiNm90YkFUc2FKMFNxZmd0ZnYzT1pPSWl1cDFmUkFuclVEaVptTnJpcExQSGlySXU5WHNQYmN2YWlYRjVmQ05KTVQ1a1V4bEVrUWUt?oc=5",
+   "desc": "Stock market: CAS linked formula on hold? SEBI backs 30 minute VWAP for expiry settlement, says report  IndiaIPO",
+   "source": "SEBI",
+   "publisher": "IndiaIPO",
+   "scope": "india",
+   "ts": 1792061476000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORDdvM0QyZVZETXVlWFBxNWhfUkpuRDF5eVQ3YnpCRlFYM3dybkJyVkx5MFJDOWhQdkVmWENQR0FyYkt0aDNrcHUtMlhCNEs0c0pRSnp3NURqWm1ET2RydG1aWTVQLUxSVmNEQWhpRkRlWHJXVHV",
+   "title": "IMF urges action to avert fiscal crisis - Bangkok Post",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORDdvM0QyZVZETXVlWFBxNWhfUkpuRDF5eVQ3YnpCRlFYM3dybkJyVkx5MFJDOWhQdkVmWENQR0FyYkt0aDNrcHUtMlhCNEs0c0pRSnp3NURqWm1ET2RydG1aWTVQLUxSVmNEQWhpRkRlWHJXVHVoaGdjTExqc1QxSnk2ZUZ2bGJZdTlwcTlJX3FieF9JSGhv?oc=5",
+   "desc": "IMF urges action to avert fiscal crisis  Bangkok Post",
+   "source": "IMF / World Bank",
+   "publisher": "Bangkok Post",
+   "scope": "world",
+   "ts": 1792061280000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04ZlRRa19CdEV0UFhuOE54MC1EWWxUaWUyTWVweHUzcFdLb28yZFcxZlVXRldEOE5OOG96dEhsX0V5aWdSYS14cERVSWw?oc=5",
+   "title": "IMF warns prolonged war threatens regional economic recovery - سانا",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04ZlRRa19CdEV0UFhuOE54MC1EWWxUaWUyTWVweHUzcFdLb28yZFcxZlVXRldEOE5OOG96dEhsX0V5aWdSYS14cERVSWw?oc=5",
+   "desc": "IMF warns prolonged war threatens regional economic recovery  سانا",
+   "source": "IMF / World Bank",
+   "publisher": "سانا",
+   "scope": "world",
+   "ts": 1792059949000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSlUxamU1a0lzdGluNWNKWHBnYW1DVVQxaHdTUHJxQ3JycTdrQ2V0MnJ1RFJxbjVCbUhpb0R2RXdhcmxPTjVSVmMxemwyMERUQUlncExNeDdhcVR0Wi11NmpzVUVpc3NXTmUyNWtoZ1pjelcyVEx",
+   "title": "UBS extends Fed tightening cycle forecast with March rate hike after inflation surprise - The Mighty 790 KFGO",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSlUxamU1a0lzdGluNWNKWHBnYW1DVVQxaHdTUHJxQ3JycTdrQ2V0MnJ1RFJxbjVCbUhpb0R2RXdhcmxPTjVSVmMxemwyMERUQUlncExNeDdhcVR0Wi11NmpzVUVpc3NXTmUyNWtoZ1pjelcyVExQMTJzOXVDWnlyX0xKQzRsWHZDaUQ5NGFBZFdwWWxsbC1IUUktbFJoMDFGMHlsLTFyUi1INFBGUFhveGtiTnVBVUk?oc=5",
+   "desc": "UBS extends Fed tightening cycle forecast with March rate hike after inflation surprise  The Mighty 790 KFGO",
+   "source": "US Fed",
+   "publisher": "The Mighty 790 KFGO",
+   "scope": "world",
+   "ts": 1792058487000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWVpRMG1mWk5ROEpORkZEb0ZmcjZsdFVkbENtNEE3YmlIMHhyNXZWQ016WVVkSWRUbmkxbnhRWVVvZnNUcTc4dkJ2YUpuZU5uQk5OSDJTS3dnZU9FYTlzWjE0N01abDF5enNWS0dVS3dkNHliTEp",
+   "title": "IMF Warns Gulf Economies May Take Years to Recover from Iran War - The Diplomatic Insight",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWVpRMG1mWk5ROEpORkZEb0ZmcjZsdFVkbENtNEE3YmlIMHhyNXZWQ016WVVkSWRUbmkxbnhRWVVvZnNUcTc4dkJ2YUpuZU5uQk5OSDJTS3dnZU9FYTlzWjE0N01abDF5enNWS0dVS3dkNHliTEptMXRyRkRxS04wbXNnTEtuUVFoQW1Gd3Zkaw?oc=5",
+   "desc": "IMF Warns Gulf Economies May Take Years to Recover from Iran War  The Diplomatic Insight",
+   "source": "IMF / World Bank",
+   "publisher": "The Diplomatic Insight",
+   "scope": "world",
+   "ts": 1792058137000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUnlrT2l0LW1MdVhWQk1rZTFlaHZiaVViZXFjeG1UMzY5Nnp0SlZPT3lDVFU4eEN4WUZDbGdvRGc0REs4b3J1c19od1NyRkwtcDFobjluc0RlUGM2ZkdiUlZpNFZMZFZfUmpCTzllYUFUUkpzTWd",
+   "title": "IMF Projects Indonesia's Economic Growth at 5.1 Percent - Tempo.co English",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUnlrT2l0LW1MdVhWQk1rZTFlaHZiaVViZXFjeG1UMzY5Nnp0SlZPT3lDVFU4eEN4WUZDbGdvRGc0REs4b3J1c19od1NyRkwtcDFobjluc0RlUGM2ZkdiUlZpNFZMZFZfUmpCTzllYUFUUkpzTWdmNnFxRXFzU0FuTDVOc1VfSTgzbklFMndwUHg?oc=5",
+   "desc": "IMF Projects Indonesia's Economic Growth at 5.1 Percent  Tempo.co English",
+   "source": "IMF / World Bank",
+   "publisher": "Tempo.co English",
+   "scope": "world",
+   "ts": 1792057796000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQURabHB0bUdJM1AzOW9yVXJXZWJZcTJFVm5tYVY0NGxPaVRHcy1NbmtVRmpKbTAwYVNkSC12Z1M5TXB4UFdPTVQ1QXdKME9WOGJyMGhUVkVHUnlkV2FUVV9EZDBFWC1ydXBxcnFpV1h0WWF6QVF",
+   "title": "IMF warns attacks on Saudi Arabia could hurt economies worldwide - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQURabHB0bUdJM1AzOW9yVXJXZWJZcTJFVm5tYVY0NGxPaVRHcy1NbmtVRmpKbTAwYVNkSC12Z1M5TXB4UFdPTVQ1QXdKME9WOGJyMGhUVkVHUnlkV2FUVV9EZDBFWC1ydXBxcnFpV1h0WWF6QVFFZ191MjhCal9mQjl5dTdDWkk5eGNBRU9XR1JLMzM0UXRFeG80aVVWSWFHTDlDeXNscExmdXp4WktiZVVFN2hiQ2hPTnFyU3JlaGxubnBB?oc=5",
+   "desc": "IMF warns attacks on Saudi Arabia could hurt economies worldwide  Euronews.com",
+   "source": "IMF / World Bank",
+   "publisher": "Euronews.com",
+   "scope": "world",
+   "ts": 1792057680000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSFVaWno3TG10cU9rNzktMkhhWnY4VmpVZE9PQzlmY0l0Z0xoTDN3UTJUVk9BRUM2R3JiRTM5VlVMMTcwT1kxRVZTZVNSYkVDYTc4UW5XdkF3RnB2OVFzQzZQYWd5Y0hud1M0dUp6U0tjWW1kX0d",
+   "title": "Gold Prices Recover as Weaker Dollar and Falling Bond Yields Offset US Inflation Concerns - Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSFVaWno3TG10cU9rNzktMkhhWnY4VmpVZE9PQzlmY0l0Z0xoTDN3UTJUVk9BRUM2R3JiRTM5VlVMMTcwT1kxRVZTZVNSYkVDYTc4UW5XdkF3RnB2OVFzQzZQYWd5Y0hud1M0dUp6U0tjWW1kX0dpRjFTZ2hyN2h6ODNmTkFDS1RFd1E?oc=5",
+   "desc": "Gold Prices Recover as Weaker Dollar and Falling Bond Yields Offset US Inflation Concerns  Yahoo Finance UK",
+   "source": "US Fed",
+   "publisher": "Yahoo Finance UK",
+   "scope": "world",
+   "ts": 1792057594000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2JHV0pDRTJoQXh5Ri1EMnU1aTBhS1JTc3M1bV85b3dscjBmdkx5aGU1X25IZkpkSjgtVlZGLUI3OE9GVmNxRFc4R2xGa21BWG50LUR2NlhBZy0zQy04S0YzWnp5eF9ITjg5WnlrR3U0d2RsbWN",
+   "title": "Nigerians still suffer high cost of living, despite economic growth — IMF - Asaase Radio",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2JHV0pDRTJoQXh5Ri1EMnU1aTBhS1JTc3M1bV85b3dscjBmdkx5aGU1X25IZkpkSjgtVlZGLUI3OE9GVmNxRFc4R2xGa21BWG50LUR2NlhBZy0zQy04S0YzWnp5eF9ITjg5WnlrR3U0d2RsbWNaMGFXSXpsREt3NEpGYXVKVUtjX2JXWWl0M1JxQklxUlpweUJOMA?oc=5",
+   "desc": "Nigerians still suffer high cost of living, despite economic growth — IMF  Asaase Radio",
+   "source": "IMF / World Bank",
+   "publisher": "Asaase Radio",
+   "scope": "world",
+   "ts": 1792057384000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjBhUWlvTzJqWmlFMlRmbzFjUXlYRmFBbUVtLWdBYUlMV3B2NFRSLVRyYThmcnI1WVd2T1dfYS1haHo0Q2dYWVpxaks4YU1UUmxJV3FHcG5DTEpDVDJhaEtRV29faFV6YXBWMkp1S2NNVkpvTDl",
+   "title": "Africa's economic resilience masks rising inflation threat and fragile buffers, IMF warns - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjBhUWlvTzJqWmlFMlRmbzFjUXlYRmFBbUVtLWdBYUlMV3B2NFRSLVRyYThmcnI1WVd2T1dfYS1haHo0Q2dYWVpxaks4YU1UUmxJV3FHcG5DTEpDVDJhaEtRV29faFV6YXBWMkp1S2NNVkpvTDlNTmtYdUVTcm51ZUhtUEdMeHBBYkhjSkx5Q3pwbTg1dmtjOUZ3SnFYdFk?oc=5",
+   "desc": "Africa's economic resilience masks rising inflation threat and fragile buffers, IMF warns  Yahoo Finance",
+   "source": "IMF / World Bank",
+   "publisher": "Yahoo Finance",
+   "scope": "world",
+   "ts": 1792056734000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb3ZlYnVhajFra2JiSVYyeDVCUlk2YVVWcTVlUGhiMkdWMmIzWUU0R2llN1R1ZWQxdVdpS0xNREN2TzJ4UlJ4RjNoR2FnZTIxcXd3djc1N09BQTd2Qk1xUlVBVENRd1I0LWRYX2E3MjNoSkpMdmt",
+   "title": "India expected to overtake Japan as 4th largest economy in 2027: IMF - Firstpost",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb3ZlYnVhajFra2JiSVYyeDVCUlk2YVVWcTVlUGhiMkdWMmIzWUU0R2llN1R1ZWQxdVdpS0xNREN2TzJ4UlJ4RjNoR2FnZTIxcXd3djc1N09BQTd2Qk1xUlVBVENRd1I0LWRYX2E3MjNoSkpMdmtHOUZOVkZGczdyQnZlSkJKTEpGRldBaXdDRzh4OUc1Q09YUm1RcWRocHQtalRpSl9xVG9XM1QwdnhzOHdJeFVJc0XSAbwBQVVfeXFMT2ZNWWI4S0FTb3RXazhWZzU1OFUzXzIwMXhocFY3TXd3Si1wSmt1ckJ0azMxeTgwQUYwOWNFRGIxUGEtZHdqNl8zTzdlblNOUVV1TlZyOTV1cGFSTENUZ0JqOWYxS3F0N0tlRzVVS3p6UXJtT0dwcnpPbV9xOFUwZHpJR2JKZzdmQmtISWRDTWtsdFZUMWJGSEtTU2o0T2pyaDVrU04tVE1IUlp4aURqREMxR3hNd3R6N2RkRkI?oc=5",
+   "desc": "India expected to overtake Japan as 4th largest economy in 2027: IMF  Firstpost",
+   "source": "IMF / World Bank",
+   "publisher": "Firstpost",
+   "scope": "world",
+   "ts": 1792056070000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeGhoMkN2RDhwTDFnX0QyQ1FxNE83YWdwZUs3VjdYejExenhHQWswN0dZYk1zQ3NSRFUwcUc4TG1KX0lVVUNqMXFZSFhuTkt4aFRlUVBaS2hxNW4zTTBpMXhlNXY3NlZGcmhCVi1PaDJnODFJZ1d",
+   "title": "UAE showcases economic, financial experience at IMF, World Bank Group annual meetings in Bangkok - Gulf Today",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeGhoMkN2RDhwTDFnX0QyQ1FxNE83YWdwZUs3VjdYejExenhHQWswN0dZYk1zQ3NSRFUwcUc4TG1KX0lVVUNqMXFZSFhuTkt4aFRlUVBaS2hxNW4zTTBpMXhlNXY3NlZGcmhCVi1PaDJnODFJZ1dZVHFjdkc1Z1N3bWhHM2JIX09FdzZ5R2VLMDZ4WXpoajdpc3NxeFgxS3VYWnVYWXBPaDdoWTdWSjdUX1dzWnVxRU13QlZUWW9vSHVVR28tWXRGMVpEcE5SSllLQTNLdkVB?oc=5",
+   "desc": "UAE showcases economic, financial experience at IMF, World Bank Group annual meetings in Bangkok  Gulf Today",
+   "source": "IMF / World Bank",
+   "publisher": "Gulf Today",
+   "scope": "world",
+   "ts": 1792055771000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUFFtbXRXX3dIWlhwLVVQY1NRZUR6NzNmYmVTVHh3Ukh2X1RYUHVjM09vQkZPS2V5V3J4R2lhUmdyeWpSZWF5YUcyQnQ4N001LVd4QmhWU01ROFAxUHhtcDFlMEJLd2pjRmV4ZGpwRXRJUFZNOTF",
+   "title": "RBI may announce unscheduled rate hike amid inflation, rupee pressures: Union Bank report - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUFFtbXRXX3dIWlhwLVVQY1NRZUR6NzNmYmVTVHh3Ukh2X1RYUHVjM09vQkZPS2V5V3J4R2lhUmdyeWpSZWF5YUcyQnQ4N001LVd4QmhWU01ROFAxUHhtcDFlMEJLd2pjRmV4ZGpwRXRJUFZNOTFZZ25pcmNMWEVqM182emU1R0otMG5MUGNzZUVfMDItREZnWGFsdm9SYkJINm5FLU9sRmtEeEJhYVJRZ1pGVFJYeWRvOHo5REZEQmhnRDNwMXZWaDB2YTVBZmJBVFhGMklCMnNzUXJR?oc=5",
+   "desc": "RBI may announce unscheduled rate hike amid inflation, rupee pressures: Union Bank report  TradingView",
+   "source": "RBI",
+   "publisher": "TradingView",
+   "scope": "india",
+   "ts": 1792055521000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNXdnc3lTdXI2T0g2YlMtZTQxOTVMNUo5ZmctT25HblBhc1VEUUVPNVZxTjhNX3pRemNiNEVqVEVQZHFLTlRlWG5rMEcxWUxxV1AzZ0RDZ3E2Y2Jud1g2bWxrd0VmMnA5WXRaOHhSNThnTVNfdW0",
+   "title": "Nasdaq futures dive 1% as AI rout deepens on debt concerns - The Mighty 790 KFGO",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNXdnc3lTdXI2T0g2YlMtZTQxOTVMNUo5ZmctT25HblBhc1VEUUVPNVZxTjhNX3pRemNiNEVqVEVQZHFLTlRlWG5rMEcxWUxxV1AzZ0RDZ3E2Y2Jud1g2bWxrd0VmMnA5WXRaOHhSNThnTVNfdW05ZERTWXNDMEJSQV8tX3BGdTNjN2ZlWUtyUQ?oc=5",
+   "desc": "Nasdaq futures dive 1% as AI rout deepens on debt concerns  The Mighty 790 KFGO",
+   "source": "US Fed",
+   "publisher": "The Mighty 790 KFGO",
+   "scope": "world",
+   "ts": 1792054583000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2FvcTA2VHh1a1hLUEktNkNGajl4WU5PLVdEb09OdmpLaTFJNklDVUUwUXBidUNJODB5dVl4QzZJTDlwNkdCYWxPdVBGbko1aEloLXBzVGR2dnB4SVFkTWtmb1RpaDl3Y2tla1ZJRS1JYVFZT0J",
+   "title": "Thailand IMF Global Economy - GazetteXtra",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2FvcTA2VHh1a1hLUEktNkNGajl4WU5PLVdEb09OdmpLaTFJNklDVUUwUXBidUNJODB5dVl4QzZJTDlwNkdCYWxPdVBGbko1aEloLXBzVGR2dnB4SVFkTWtmb1RpaDl3Y2tla1ZJRS1JYVFZT0Jkd1JZbzlQSDJHYVJyMzZ2eEJMS2pIa0k3ZndsOTVDd1dZMmhBNmI1UG5vRVRSOWVhcEZYdUpaTDhydXZ3VzloQS10M3JTeU9R?oc=5",
+   "desc": "Thailand IMF Global Economy  GazetteXtra",
+   "source": "IMF / World Bank",
+   "publisher": "GazetteXtra",
+   "scope": "world",
+   "ts": 1792054484000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWklpeDRsTXdGZVhzT3pzREVmblRlOVlXVDdYQzZCY09IcWRnaThBc3M1QWxhVE5UR2ZoQVZNeGZHRWI4eGVsd2JfSWRMdndicDUzMkpCMW50UUhpSjYxTXNhcWZkdjBjQ0tuT3dOV0VEOTFGTGp",
+   "title": "No more CAS swings? BSE shares rise 3% as SEBI panel likely backs 30-minute VWAP for F&O expiry - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWklpeDRsTXdGZVhzT3pzREVmblRlOVlXVDdYQzZCY09IcWRnaThBc3M1QWxhVE5UR2ZoQVZNeGZHRWI4eGVsd2JfSWRMdndicDUzMkpCMW50UUhpSjYxTXNhcWZkdjBjQ0tuT3dOV0VEOTFGTGpzY3c2QU4zamZtbHg1MlVPd05KcHlRczhOU0FoVWJOOHM3S1lIbzhLSGVJVXVKdUpnR1JHUzE2YnBfeHM1TlVHQ0lXWFBpd2RLczlfV3N4QzhkS0lNUnhlTVFZOEV1czdYMTcyZ2FYbHBqUUwwNzFpbVJDS0ZIeWRLMNIB9AFBVV95cUxQbTFrRFNJaU5JQ0VqdHU3T3Y5Zk1PZFVjWVB1d2VmaGpENWJIQUpiX3B0N3FvZFEwZVdCRGFuQVh3bWxtQ3p5ZkhlQjFiVDR3VmlTeUpXT3RfRHk4LXVNTHNRRklQYV9MdGIxbHI3TXVwYXVYRklRck5UYXFfcV9faHFNZzlDWUxPYjBrWGNLcTRXTW9XWVdTY2I5cGE5bU14QTluTHpLTXhKMFlXV0ZwX1VkMUxIT3JnSGFRTXZOUk8yTE8zOGtLNjB1bWd3SUVKWk0zeUJ2cnAwSHRPR1dwa0Q5OTNXQ1NxQ005a2w3RF9lM25V?oc=5",
+   "desc": "No more CAS swings? BSE shares rise 3% as SEBI panel likely backs 30-minute VWAP for F&O expiry  Moneycontrol.com",
+   "source": "SEBI",
+   "publisher": "Moneycontrol.com",
+   "scope": "india",
+   "ts": 1792053841000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWndvaVZHV25TMlNibHdzTTFjSkYxdHF2dE5lbTJtZElWZ2VZU3M3VWZaSXNDSmdBVTVqRUlkNlFzZm5TVWhCb3FaUlNBWEwxUS1uRHJUNzN1aXNtbUJmd0I0SG1lRTFYTUktN1huR2dfdkg1TzN",
+   "title": "Sebi preparing fresh round of reforms in IPO market, short-selling rules: Chairman - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWndvaVZHV25TMlNibHdzTTFjSkYxdHF2dE5lbTJtZElWZ2VZU3M3VWZaSXNDSmdBVTVqRUlkNlFzZm5TVWhCb3FaUlNBWEwxUS1uRHJUNzN1aXNtbUJmd0I0SG1lRTFYTUktN1huR2dfdkg1TzN0dUcycXFveFhwU1FMaDRrbXdaTEtnamRQXzlxdUdCSmphcmtPQmJzQ3Z1MnVMYkdxajA3amFzVDV1OFVyRlBnbDBodlQ0YlpNMjM1b19LYUlxLUltQ1FDMGZXLTZMQWtVNEx2cEhWTUxjajJvOHp3MHfSAewBQVVfeXFMUHVMZHB0QTJYVFhybVI1c1RET3ZhWl9wdi03Q3g2NGdiQlo5MXJRWW5qUHBWQWNSV1JnTHFJOGRLM2RGYklWMVJMZHV2NXZldEJJTm1waUw5YjBfMUZEVkk3V05SdFJ4cFM2MldMa0U0bWRZa29IUlJramxVSTB0Tm9XMHdQZV9uYlJidXdsY19YV2I3dmFJNVNMbEI3WGl0QVBZemVjVGZ5aTM5VWFRZ3F2dGtjQVNnUlk3eFIyU2pZREVuUjd0ZzlCRHFUdHgyTkxfMEdIRWRZaUlZSjFNa1k0RkQ0YnJYV2hWcWY?oc=5",
+   "desc": "Sebi preparing fresh round of reforms in IPO market, short-selling rules: Chairman  The Economic Times",
+   "source": "SEBI",
+   "publisher": "The Economic Times",
+   "scope": "india",
+   "ts": 1792052994000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPT3JkN3RZdWhDRndjRy1tTjkxRTc3d2xnbl9TR0hYTkxNdmxINW9DNVpUbnZfejBsMVM0aTBBMU9La05sdGNvWDRjTkVEYU5xeWhKankyWXAyZDlJTlVPUEpXaHFHLWxVOUxsTFBvR1AyZ21fdG0",
+   "title": "Stock market: CAS-linked formula on hold? SEBI backs 30-minute VWAP for expiry settlement, says report - Business Today",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPT3JkN3RZdWhDRndjRy1tTjkxRTc3d2xnbl9TR0hYTkxNdmxINW9DNVpUbnZfejBsMVM0aTBBMU9La05sdGNvWDRjTkVEYU5xeWhKankyWXAyZDlJTlVPUEpXaHFHLWxVOUxsTFBvR1AyZ21fdG02N1pnMVI0UTFXdjkyVnUyY2tzem9fOVpMOEZFRzRpUkpOX0hGVFYxbWpKNVJFUkpEMXprZm9mVkx3SmtvQzZjRm9mMko0OGI1RXpqaEVzTW9oa2hmMk1QRXpyTXdydnNobVpBMUx3RmpUVm1Kc1lRMDk3VDlQUGUteGxLekQtYXY0b2lBNNIBgAJBVV95cUxOZkxlQlg5aGtTWW8tMXFVeWx5VGEtNmp5UXJ5NEhGbDV2a1NaRzRKLThEWjNSZHp1VG5ka3FqYk9ZVFo0N0oydFlGczhHTzlQQzVJX2pUblNEMXh2UXRDNFdfU0kzdHg0WHByYlZTa1EzNVo1dzUxcl9jLVhlVXZBSDR0UWZnVE5EMlRyaDE5NEFzdzUxTHgyTFl2UTVoZkwtZU12bkJRTUVNanV3ZFZVSklMN2JVcldTRll1dkw0ak5FWlRkR1c3aE5pOU9LV2xyM1kwQ2N0QV9vSzFyV2lBOTJZVHFJWEx1eEJBbkVMUTRGQ1d4TGxLVXdaOXg1cHdO?oc=5",
+   "desc": "Stock market: CAS-linked formula on hold? SEBI backs 30-minute VWAP for expiry settlement, says report  Business Today",
+   "source": "SEBI",
+   "publisher": "Business Today",
+   "scope": "india",
+   "ts": 1792052857000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RZWlJa3lzVEV1aDlvWmRYdGZybmtaNHRkZGUxSVpFOXVqX2JLOTNJT1ozWm1ObGtTN1pIajA3YnJHWVNQRXlvNkVveUhGeGFPVjhoNjJleFJjVXlFLVRicXFOXzdGM2c?oc=5",
+   "title": "Don’t Wait for the Next Crisis: IMF Urges Developing Nations to Overhaul Tax Systems and Rebuild Fiscal Buffers Now - Nation Thailand",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RZWlJa3lzVEV1aDlvWmRYdGZybmtaNHRkZGUxSVpFOXVqX2JLOTNJT1ozWm1ObGtTN1pIajA3YnJHWVNQRXlvNkVveUhGeGFPVjhoNjJleFJjVXlFLVRicXFOXzdGM2c?oc=5",
+   "desc": "Don’t Wait for the Next Crisis: IMF Urges Developing Nations to Overhaul Tax Systems and Rebuild Fiscal Buffers Now  Nation Thailand",
+   "source": "IMF / World Bank",
+   "publisher": "Nation Thailand",
+   "scope": "world",
+   "ts": 1792051620000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR0Z4ZjBGVkEyYzhDQlEweXpNWDVMbFl6cUQtWVJNY2lBanZPcXFacDN3LW4wVVVaV2ttUFhkYXdqbEJpbklXSS11QUJxY0xrekFraTFTZHN0U0dRRGFGOXhSNWplbUtmTzltbXNJd2dhNGRvbGF",
+   "title": "SEBI panel backs 30-minute VWAP for expiry settlement, puts CAS-linked formula on hold - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR0Z4ZjBGVkEyYzhDQlEweXpNWDVMbFl6cUQtWVJNY2lBanZPcXFacDN3LW4wVVVaV2ttUFhkYXdqbEJpbklXSS11QUJxY0xrekFraTFTZHN0U0dRRGFGOXhSNWplbUtmTzltbXNJd2dhNGRvbGFaeTlIWWpfOG45YU5DYWdid0tSb2Rqd2xGNVFpVFJmbDVDamVjSTBQLXdrNTQ3RENNWl9kTEhLZktwVWMwTjhQMkFRQTl5ejRDS1RSWGNiaUIzelZsZHJJVUxqc1ZDR2NNWU5hWXB2V3JLZVRHSHjSAeoBQVVfeXFMUDY5UTAzalNzRUF2SWhnbzd1VFJnaTBtQUxEZEVLUVkzLVdvMHpBcHNITHNWaUp5dlhJcXdOdGp2SGhELWowWnczazBOYWdlZmd3MGZkVDNpSGxnUGY2YzFzTkxIY3lJdWt2bTQxa0VqSTFueFZBS3NQT0Rqd0V1UVkwU0hoQnBESFpoZnlsNXV0Z0RqWlFicFl0cnI0a1d5VGExREduLUNaNU5pTkNZd0ZPNUE1dUg2RjdQYVZNd1lOcDNINHJFdDRxNmpDY0w0UUkzRFQ2SkppbzdjeF82V3BaR212bnhvOTdB?oc=5",
+   "desc": "SEBI panel backs 30-minute VWAP for expiry settlement, puts CAS-linked formula on hold  Moneycontrol.com",
+   "source": "SEBI",
+   "publisher": "Moneycontrol.com",
+   "scope": "india",
+   "ts": 1792051214000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORE4zT2dsbTdjUnJzZFJxZ2Rtd0tzcWFScURWaWRRbTdFRWlQM1Q1RjhSa0M4T0ZiZHVPbkFIZFljcVQ3YXlULXdnM3RYWWN4dzhaY0VOV0hGdzlIQWUtdklZR05teWtSeUc3b0lfUUZ5RnZ3cUs",
+   "title": "IMF Warns of Worldwide Fallout as Attacks on Saudi Arabia Escalate - Crude Oil Prices Today | OilPrice.com",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORE4zT2dsbTdjUnJzZFJxZ2Rtd0tzcWFScURWaWRRbTdFRWlQM1Q1RjhSa0M4T0ZiZHVPbkFIZFljcVQ3YXlULXdnM3RYWWN4dzhaY0VOV0hGdzlIQWUtdklZR05teWtSeUc3b0lfUUZ5RnZ3cUs3OUZFSXZORzZpTGNsaTRGdlhGWkpNdndzdHVBeWtnc2lkOEhzd2FnczBzNjl4NHZqdzRIbFFpMGRVeDJ0bm5YNFgtRlNBbTN4UdIBxAFBVV95cUxOX29EZmdWYWl4Z3gwVkdZbDBsUFpKV0tEOGt1NkF0OWVWYzNIMFg5OWZLdjNITFFUSEdLSlZraTQtVHIwZTJnZkZibzJWVTBVVGpLbUhKcXZGTmRpZnFna3pDUFh0ZGJHa0U1cnV5MUVick95dTB2Vk1UaVBlU3NHNXYzVUNwcUYzQWtZX2x3azNtN25PREkyRWFKaVVzTFgwV1FHNUszbGVHZFAwWjdYMU10TFdyZGpfNkdmU0xUWmNxeFhC?oc=5",
+   "desc": "IMF Warns of Worldwide Fallout as Attacks on Saudi Arabia Escalate  Crude Oil Prices Today | OilPrice.com",
+   "source": "IMF / World Bank",
+   "publisher": "Crude Oil Prices Today | OilPrice.com",
+   "scope": "world",
+   "ts": 1792051200000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMG9UTWd3N3hESi1ORWtmTjJacVg2NGNRQ0tJQXVXV3RtOVQ5Z2ExMVMzV3hwSUo5Snc0V3MtZFFwMERxVjB0Nm9ZYUxzTGViZ3NBTGdnekpsbG5pb29sZXRTcnFMdElKVkM1UUFHUVpxU2dCRFd",
+   "title": "IMF warns: \"China needs to spend more; the United States, save more; and Europe, invest more\" - The Corner .eu",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMG9UTWd3N3hESi1ORWtmTjJacVg2NGNRQ0tJQXVXV3RtOVQ5Z2ExMVMzV3hwSUo5Snc0V3MtZFFwMERxVjB0Nm9ZYUxzTGViZ3NBTGdnekpsbG5pb29sZXRTcnFMdElKVkM1UUFHUVpxU2dCRFduUzlLekYwTDZKaHBfNXp5RWVscUw1WGhvb0lDdDlscThvZTZGRGRUaTJiWWh1TE50UnpkR2lUQmVQN3VsNFI0M09GdE03NnZUaS13QXBHbmxlbkRRcHFfck5QR0I1VWUtMkgyRVlQ?oc=5",
+   "desc": "IMF warns: \"China needs to spend more; the United States, save more; and Europe, invest more\"  The Corner .eu",
+   "source": "IMF / World Bank",
+   "publisher": "The Corner .eu",
+   "scope": "world",
+   "ts": 1792050350000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeFZXODEteHRHM005c1JaYXo4TUtLNmNHRHJuUjdKVmwyWW1IX0Q2V3BKWWhTLXA0WDd4NHk2QWhFUEJGM0gxa1U5VUdvejdRVDd4eUpMMFVmUnVUYnZHYWJDSlNTS01GcW5UMThrcEctN3JHRl9",
+   "title": "IDBI Bank-Fairfax deal: What RBI rules say on foreign ownership and control - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeFZXODEteHRHM005c1JaYXo4TUtLNmNHRHJuUjdKVmwyWW1IX0Q2V3BKWWhTLXA0WDd4NHk2QWhFUEJGM0gxa1U5VUdvejdRVDd4eUpMMFVmUnVUYnZHYWJDSlNTS01GcW5UMThrcEctN3JHRl9mdVVselFOS3lTSXFxZmJmTlFmSnRpbEZuR0xaZGhUb29scHZCVXN3ZzBNSzZyVlEyRnFoT25IaTdvMm1HeHRwZ1l3Q1pyTXVvWnVuN3lWa0tuQ0c1OWJpR2lNQlMza3JBRFZjb2vSAeABQVVfeXFMTVQ2dC1PbFRfcWRzVkFEXy1qbmhxbDFrM1J5aTN2cm9ERXo0NVpOOUNUTndsdXRIRG4yc2J5Yzc1MEN6QzFfUy00bFJtY05oVGIwTVZFdl80OXczMFVQcFBmWVZZYlF4ekpMMmVPVDNDMGVnMmRtU1lOXzZZcVQwU3BBWlZVTEE5c1VIMUNFNm80XzdDbVdXdU9hWEoyeEloOU5DckNpTUppTTRUQXUxR3RSZExUc1VCa1kwUE83Y2dwVDNRUXJJb0Q4bU5DM3pQRUJMdWtrY25MbGpjbHFPbmo?oc=5",
+   "desc": "IDBI Bank-Fairfax deal: What RBI rules say on foreign ownership and control  Business Standard",
+   "source": "RBI",
+   "publisher": "Business Standard",
+   "scope": "india",
+   "ts": 1792050153000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZkRoVW1CcHhrLUpsT25paWFTeFh0cnlVbklsajVjdm9kQk96cThocS1aN050U1FTWWx2dTRqTVZsaDJBVlpHSEk5Um44YVhTM3c4Zk9UemtEVjdhdDNGc1FtYk50VU1Nd0Q2dUN0ZzE2UlJFTjV",
+   "title": "IMF-World Bank meetings draw modest protests in Bangkok over growing inequality - Bozeman Daily Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZkRoVW1CcHhrLUpsT25paWFTeFh0cnlVbklsajVjdm9kQk96cThocS1aN050U1FTWWx2dTRqTVZsaDJBVlpHSEk5Um44YVhTM3c4Zk9UemtEVjdhdDNGc1FtYk50VU1Nd0Q2dUN0ZzE2UlJFTjVhUmhJcEVWSkEteEl5UlR5Q3pHVjJqM25zRFgyaG9BeUZ6elFiZVJfWEg1Y2tuR3dFS0NxOUF6SS1uME1GTDQ3WWYzZkM1akppSEZtSVI0d0JobVZDb2xwZ3hPSjJPd29Lb3Jaa1JyQ3NLNW9JdjRkUTBLWkdXbTZQNV9RM1gwaUJJZkdzOHl1dldpTGZEaDJVV2pFcXljQWc?oc=5",
+   "desc": "IMF-World Bank meetings draw modest protests in Bangkok over growing inequality  Bozeman Daily Chronicle",
+   "source": "IMF / World Bank",
+   "publisher": "Bozeman Daily Chronicle",
+   "scope": "world",
+   "ts": 1792049241000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZzhXSTJBUzVEZV9rVW9EVk9oemhFN2FMSTllLXhUU0sta0lRYlpnb2VfMjh4Yy1fRVRWRWpyZFo1UF9ZdDliUkNYQm5GWlhRT1dQTVE2U3h1SmNhYkY2TmgzMHJTSFFQSzhPSnFqV1VJNWRXcnV",
+   "title": "Dozens protest growing inequality during IMF-World Bank meetings in Bangkok - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZzhXSTJBUzVEZV9rVW9EVk9oemhFN2FMSTllLXhUU0sta0lRYlpnb2VfMjh4Yy1fRVRWRWpyZFo1UF9ZdDliUkNYQm5GWlhRT1dQTVE2U3h1SmNhYkY2TmgzMHJTSFFQSzhPSnFqV1VJNWRXcnVla3ZVeHQ5ZWlHZG1Iek95TFFydGRUOXV5MDE?oc=5",
+   "desc": "Dozens protest growing inequality during IMF-World Bank meetings in Bangkok  AP News",
+   "source": "IMF / World Bank",
+   "publisher": "AP News",
+   "scope": "world",
+   "ts": 1792049220000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSVdCUXZjR2l2SWtndGxNd21FbDVZXzVjUk9pa2xDbnJvRUJrT0ZQNmp2ckFjTFFuX3NtaXNDSlprZ0NrbkhBdXVYWE5xcDZMY3dDMjFwODlIU3RVd2wtTFdXOUg4N2FWaWdwcFhKS2p5U1JvbGJ",
+   "title": "IMF warns Gulf economies will not return to pre-war growth trajectory soon - OnlineKhabar English News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSVdCUXZjR2l2SWtndGxNd21FbDVZXzVjUk9pa2xDbnJvRUJrT0ZQNmp2ckFjTFFuX3NtaXNDSlprZ0NrbkhBdXVYWE5xcDZMY3dDMjFwODlIU3RVd2wtTFdXOUg4N2FWaWdwcFhKS2p5U1JvbGJYam9zSUtkQWR3UmF1U3hCdy1GYXVXakpKUFFqTndpTGZGWjVBaTVvVTVGN3VMLVlZVVRhb3ctd2NjVl9B?oc=5",
+   "desc": "IMF warns Gulf economies will not return to pre-war growth trajectory soon  OnlineKhabar English News",
+   "source": "IMF / World Bank",
+   "publisher": "OnlineKhabar English News",
+   "scope": "world",
+   "ts": 1792048852000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb280cktQVXBMYmdQaE9IRFhiOVltMEdtaEJXUHJuaDkxU2ZOSEFQYTR5Z2lJaFU2VEhBMURqNkV1OUc2akFMRk5ET2dKY3Vub1VWcGZCejdnemdFZGVmbnp3MkFmYkhNdEZseGs5V21XbUhTRVp",
+   "title": "The global economy is muddling through against the odds. But a storm is coming | Larry Elliott - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb280cktQVXBMYmdQaE9IRFhiOVltMEdtaEJXUHJuaDkxU2ZOSEFQYTR5Z2lJaFU2VEhBMURqNkV1OUc2akFMRk5ET2dKY3Vub1VWcGZCejdnemdFZGVmbnp3MkFmYkhNdEZseGs5V21XbUhTRVppYkNQSXRVaW9DQnc4bnlWRWRGVXR0QkNoOGJSWWJfQ3VPMkw1eWNURlhfLU1rY1BuVQ?oc=5",
+   "desc": "The global economy is muddling through against the odds. But a storm is coming | Larry Elliott  The Guardian",
+   "source": "IMF / World Bank",
+   "publisher": "The Guardian",
+   "scope": "world",
+   "ts": 1792048620000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZlZnODNYQVFrd2p1RUNMMDZZa0tVS1ZrSWEyZlpvOXVQOUFBQ3Vid0hTdUFlOUpna013X1l5b1Qwc01fQW9NTlJ2cWx2ZVpWYjVpMEFsUjQ5WGFHUnpLQTdrT2YySldYa2duTlFLMkZtZVF0MGF",
+   "title": "Core inflation has not cooled as expected; does the Federal Reserve still have reasons to hold off on raising interest rates? - 富途牛牛",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZlZnODNYQVFrd2p1RUNMMDZZa0tVS1ZrSWEyZlpvOXVQOUFBQ3Vid0hTdUFlOUpna013X1l5b1Qwc01fQW9NTlJ2cWx2ZVpWYjVpMEFsUjQ5WGFHUnpLQTdrT2YySldYa2duTlFLMkZtZVF0MGFwVE5LTmdaM2JkbFRIcWNrdlgzelNHa1NqMzctUGRFcUxzQ003WVN5RlBRNXVB?oc=5",
+   "desc": "Core inflation has not cooled as expected; does the Federal Reserve still have reasons to hold off on raising interest rates?  富途牛牛",
+   "source": "US Fed",
+   "publisher": "富途牛牛",
+   "scope": "world",
+   "ts": 1792047360000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV0NJdVFBZlAyWXJpVFlVaDNJQTQ1Ym1tXzhpLVdjYUtMTGloWkNCMWRacVYzNlFMOWVRRTZoTDVvSXRyTmZ6enRrQkZ1Wm5GMGxzMmdzZ3RvLVFNT3VpUHB5ZGtEaE83bzg4bl9TUXZYN2NmcC0",
+   "title": "Viet Nam strengthens financial cooperation at IMF-World Bank annual meetings - Nhan Dan Online",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV0NJdVFBZlAyWXJpVFlVaDNJQTQ1Ym1tXzhpLVdjYUtMTGloWkNCMWRacVYzNlFMOWVRRTZoTDVvSXRyTmZ6enRrQkZ1Wm5GMGxzMmdzZ3RvLVFNT3VpUHB5ZGtEaE83bzg4bl9TUXZYN2NmcC05NnFualI3RjlmODZycktDWXVIajFtZEwyaUNJa3lFRVdFNWxLMUJsdlgzOHlFNDk4QnRfWGNCSHBha2IwWWE?oc=5",
+   "desc": "Viet Nam strengthens financial cooperation at IMF-World Bank annual meetings  Nhan Dan Online",
+   "source": "IMF / World Bank",
+   "publisher": "Nhan Dan Online",
+   "scope": "world",
+   "ts": 1792046750000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN2tJbHdKV2VRTktjNDFpdGZBVVVybVZhU2ZyVWZCTFhmR1FkTi1kNm16T1g3b19VVk9NVmMyMnNIcEhwaG9Ta3Q5S0VNeEo5S3Fka3k0TWpab1RxblpVcE53cU55UlNobzE1QmFwRDlsdkpZc3Z",
+   "title": "G20 finance ministers, central bankers gather amid fallout from Iran war - Al Jazeera",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN2tJbHdKV2VRTktjNDFpdGZBVVVybVZhU2ZyVWZCTFhmR1FkTi1kNm16T1g3b19VVk9NVmMyMnNIcEhwaG9Ta3Q5S0VNeEo5S3Fka3k0TWpab1RxblpVcE53cU55UlNobzE1QmFwRDlsdkpZc3ZsRk0tR09VMmk1M3diUWxvbUZOWW9qb1hzcGNUdDU3ZG4wUmRZZXh5Vzh0LVRGQURoM3dqZG9TaUdtajdLUloxcmPSAbwBQVVfeXFMTURMUE40ZDBZS0xsS1NWLTgyWTl0bmhESWxYRHJPbVd5MHVIOVpkX3FGcFJGN0U3bHdkQTRmdHFxLS1RYlVOeFpYXzZfbDNnU1huSExMcDM1bkl4OVM4YldGRkpQNlJfSDIxcGtiYVFJaDNiaFZBWDhDOHlORkczbjNHanZFaGZXZHh3c3FwTmdLQm1pMlNWMFJUYlFDdUFCcU1sS1Z1aUpwamFJNWozWkFpWmMwZnVOTVpsR00?oc=5",
+   "desc": "G20 finance ministers, central bankers gather amid fallout from Iran war  Al Jazeera",
+   "source": "IMF / World Bank",
+   "publisher": "Al Jazeera",
+   "scope": "world",
+   "ts": 1792046312000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QSndKbFVlRmFvWnIzNUdqTGdYM1FfZjlnYzBOekUtQS13LXhrRWc4TTZQdEZURTNlWTdlaXdteGFnekpxSklmUQ?oc=5",
    "title": "IMF warns Gulf economies will not return to pre-war growth soon - Dawn",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZnlOVVZwUHlValByMndnZjFnVTladmxLX1M0WWVETks1MURPN3dDa0RVLUJoUFEtSWpWSEctV3Y4ZGg0bDAxV2dxVTFQbXVPSVBWLVN6RVlUQ0tQUERzT3FEQzg2ZndYWWIxUFl3bTI5UmtONG5yZTB6elVsS2ppU3lPOVdhbHNzSENIYkhaaHZuc1VJU2ZvWThyaUpFZw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QSndKbFVlRmFvWnIzNUdqTGdYM1FfZjlnYzBOekUtQS13LXhrRWc4TTZQdEZURTNlWTdlaXdteGFnekpxSklmUQ?oc=5",
    "desc": "IMF warns Gulf economies will not return to pre-war growth soon  Dawn",
    "source": "IMF / World Bank",
    "publisher": "Dawn",
@@ -32,10 +392,20 @@
    "ts": 1792043580000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdnRnNlpZenV3VTVMaWY4N0ktc19UTE90ejlyUzZvczVlbVMyMGdDTjg2c0J4a1FSXzdEaHdqbng1eDh3SWFRQ1RqMWxpLXgtVHZjME9nd2lONVVBaE0xVWlLUGMyQjRYYllhQXFBTGctclF2Vmd",
+   "title": "IMF raises Tajikistan’s 2026 economic growth forecast to 7.3% - Азия-Плюс",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdnRnNlpZenV3VTVMaWY4N0ktc19UTE90ejlyUzZvczVlbVMyMGdDTjg2c0J4a1FSXzdEaHdqbng1eDh3SWFRQ1RqMWxpLXgtVHZjME9nd2lONVVBaE0xVWlLUGMyQjRYYllhQXFBTGctclF2VmdYYzdONjFmNWdjRk16RV82eGgzTmhBSnpOVUkzT3hiRG0w?oc=5",
+   "desc": "IMF raises Tajikistan’s 2026 economic growth forecast to 7.3%  Азия-Плюс",
+   "source": "IMF / World Bank",
+   "publisher": "Азия-Плюс",
+   "scope": "world",
+   "ts": 1792043579000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMjZ5SGdvWmFydVg3S3h2X3c0aGNhZlpoc0JaenIwaWk5b1pvendKWldGLXhCdEpEN1ByOVJpNEhiN01hbDZGZDdNN0tWQ0ZFckJOYUpMMDNZR21kMFYzZ3ppclNtQ1YyUUM5WFVlQjhBOE9kVVY",
-   "title": "Sensex soars 1,100 pts ahead of likely SEBI meeting on CAS framework: What to expect? - Moneycontrol.com",
+   "title": "Sensex soars 1,400 pts ahead of likely SEBI meeting on CAS framework: What to expect? - Moneycontrol.com",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMjZ5SGdvWmFydVg3S3h2X3c0aGNhZlpoc0JaenIwaWk5b1pvendKWldGLXhCdEpEN1ByOVJpNEhiN01hbDZGZDdNN0tWQ0ZFckJOYUpMMDNZR21kMFYzZ3ppclNtQ1YyUUM5WFVlQjhBOE9kVVY0dVB0UkVlcmhIUG5PekdzMU1Jcy1SblNHMmJRbUNUYUtRVGJYLVdORTZObjg3VnlIRll6Qlo2OEExUEJ1dFFaemFZSjg0MTBpRFdaUGtJMHBLR2xkdkJ0MlpNNTMtTFlaY2E3d1FhLTNsbl9R0gHnAUFVX3lxTE5GRlgwOHhjR1F2b0ZjNFhFeWpWcUlCeDhVazZNdnZYWm1ZdE1HcmZObnpTMVZaa3h5ZE92dkN1OGZValllaGltV1p5WjlCbGxwUmlUM3BkRFJ6cUZLRWlaMzFlUGxORUNmdmJMbnZNMnV1bHFtVjBXYXRZb2NpRDFqNEo2cUxRR015YXdYSmlOb0dURkpqbVlDcHY1SXpPWFRnZlpFZ3RwSnh6WmRqQ0JGZ3pGRjF5Rkxwa1RrRXEwWE45azFnOFdOeFpxN0ZJQ3ZnV09ORlVTdEN2ZlNmOHQzSWJzd3BJUQ?oc=5",
-   "desc": "Sensex soars 1,100 pts ahead of likely SEBI meeting on CAS framework: What to expect?  Moneycontrol.com",
+   "desc": "Sensex soars 1,400 pts ahead of likely SEBI meeting on CAS framework: What to expect?  Moneycontrol.com",
    "source": "SEBI",
    "publisher": "Moneycontrol.com",
    "scope": "india",
@@ -49,7 +419,7 @@
    "source": "IMF / World Bank",
    "publisher": "Latest news from Azerbaijan",
    "scope": "world",
-   "ts": 1792041953000
+   "ts": 1792042123000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kcEZpRmhIQkxfM1JCMXNMS3doZGlQMXBVNWlfZFluNGM2LXJjMzdqYUFBdXRNNzRJUUFlYmRjV2tTR0R0NlY3d3lMZGo5X2Zxd0xmSlh0dTNSR0VxT25fRUVheHk3Wnc?oc=5",
@@ -69,17 +439,7 @@
    "source": "IMF / World Bank",
    "publisher": "Trend News Agency",
    "scope": "world",
-   "ts": 1792041302000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcEx1cmpIUlZoZDQ1OWRWSzJNcW9RbHhKcmlfM3JRcE5yQzZDay05YlRVNlBQZldKR2FpY1NxU25sb0FvR2pGV2d2TmN0WnVkUTZld09zYVVtalowbkFlckpHd0R6U3liSWlwZEg4RTN5dU5RTHp",
-   "title": "U.S. Inflation Accelerates in September on Energy Shock, Complicating Fed Rate Decision - IndexBox",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcEx1cmpIUlZoZDQ1OWRWSzJNcW9RbHhKcmlfM3JRcE5yQzZDay05YlRVNlBQZldKR2FpY1NxU25sb0FvR2pGV2d2TmN0WnVkUTZld09zYVVtalowbkFlckpHd0R6U3liSWlwZEg4RTN5dU5RTHpsS004cms1Q21BZnBwNnlBVDJLUlllNE12eGJCM0ZGWFVmdndsb1A5azZtME5MVjBpZ1VvaTNmQ1NkUjF4VzE?oc=5",
-   "desc": "U.S. Inflation Accelerates in September on Energy Shock, Complicating Fed Rate Decision  IndexBox",
-   "source": "US Fed",
-   "publisher": "IndexBox",
-   "scope": "world",
-   "ts": 1792041027000
+   "ts": 1792041300000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSVNid2U5RktKcThFODhKaTFCcHJfaXpKMTh3cWJnOVRhQ0QtMTlfT1Y1clNjSmhEMEU1X21Ma2VDY18zQ2daVzl2b1FUYkl5MVJTaElTSzlfSVUyczVFaDcwTnhSZWtELVY5cFp2UTliMkNKenZ",
@@ -90,26 +450,6 @@
    "publisher": "IndexBox",
    "scope": "world",
    "ts": 1792041026000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb280cktQVXBMYmdQaE9IRFhiOVltMEdtaEJXUHJuaDkxU2ZOSEFQYTR5Z2lJaFU2VEhBMURqNkV1OUc2akFMRk5ET2dKY3Vub1VWcGZCejdnemdFZGVmbnp3MkFmYkhNdEZseGs5V21XbUhTRVp",
-   "title": "The global economy is muddling through against the odds. But a storm is coming | Larry Elliott - The Guardian",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb280cktQVXBMYmdQaE9IRFhiOVltMEdtaEJXUHJuaDkxU2ZOSEFQYTR5Z2lJaFU2VEhBMURqNkV1OUc2akFMRk5ET2dKY3Vub1VWcGZCejdnemdFZGVmbnp3MkFmYkhNdEZseGs5V21XbUhTRVppYkNQSXRVaW9DQnc4bnlWRWRGVXR0QkNoOGJSWWJfQ3VPMkw1eWNURlhfLU1rY1BuVQ?oc=5",
-   "desc": "The global economy is muddling through against the odds. But a storm is coming | Larry Elliott  The Guardian",
-   "source": "IMF / World Bank",
-   "publisher": "The Guardian",
-   "scope": "world",
-   "ts": 1792040400000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQelN2azJvNVJ5ODBRU3U5UXdSU1I2ZkFheW9peDk4TU5vSGhFWFl6ZzBfOGJVX3VxbHJjY01KVkNaSkFtMVZmVUFoUTNpWXV2bkQwcTgzLXRpUUtUTndYaUdtUEtIN2pjV2RrWmZJQ3FtdHZVM2F",
-   "title": "IMF: Middle East Faces Economic Risks from Prolonged War, Disruptions - Global Banking & Finance Review",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQelN2azJvNVJ5ODBRU3U5UXdSU1I2ZkFheW9peDk4TU5vSGhFWFl6ZzBfOGJVX3VxbHJjY01KVkNaSkFtMVZmVUFoUTNpWXV2bkQwcTgzLXRpUUtUTndYaUdtUEtIN2pjV2RrWmZJQ3FtdHZVM2FNUmYyV21MOE9BWkhsRlhhWTYxeHFWbVkza2dQNnF4Q0R2RDVoY3lsOGFV?oc=5",
-   "desc": "IMF: Middle East Faces Economic Risks from Prolonged War, Disruptions  Global Banking & Finance Review",
-   "source": "IMF / World Bank",
-   "publisher": "Global Banking & Finance Review",
-   "scope": "world",
-   "ts": 1792039334000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT2NuZW1SdHoxRUZFd24yQ2RkVnJWR2FZY1c0VUwxZ3RTUkZzVk9uUUpEeGVJWUw2NlcxR1ZZbFN1TmxxakUyaHBENDJGd0pzODBrUUFzTWRVNVJCOUdUUzFzaHFiS2RFME1adXI0S1Fad0dwU0t",
@@ -123,63 +463,33 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQck9OREpKeHNSTVE5NW5GMkp0SjV5WGd4bUFMYlpEVS1LY3hSbk9CMUZCWmM3ejlpNEVOc29XRFA1ZWV5cGswdnUzbzlUdm5uaVBfakExMk8xcDVoenQ1NE9BZWJYaC0yOHFNR2EtYVl0MDRFaWx",
-   "title": "Gold rebounds from one-week low as dollar slips - CNBC",
+   "title": "Gold climbs over 1% on softer dollar, yields ahead of U.S. inflation data - CNBC",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQck9OREpKeHNSTVE5NW5GMkp0SjV5WGd4bUFMYlpEVS1LY3hSbk9CMUZCWmM3ejlpNEVOc29XRFA1ZWV5cGswdnUzbzlUdm5uaVBfakExMk8xcDVoenQ1NE9BZWJYaC0yOHFNR2EtYVl0MDRFaWxOU0lkSzNXV1BqVTFVVnpFQkFZOTFabNIBkgFBVV95cUxQbmF3SnpuSTBJbnFKU2daXzhNNlFrc1VHWW1zbkdQSkFEMVI1VTRERkY1ellTaUhlS0haRDE4bE1tY3h0Rmc4akZNWWstUEIwU0l2RGU4SFB5RlZPd04wQTM4SXIyYTNTMzExTjgtR3hkemtveWNnekxSUUhTREdiUmVJUHdZTzFPRGJvbm5Rd0M0QQ?oc=5",
-   "desc": "Gold rebounds from one-week low as dollar slips  CNBC",
+   "desc": "Gold climbs over 1% on softer dollar, yields ahead of U.S. inflation data  CNBC",
    "source": "US Fed",
    "publisher": "CNBC",
    "scope": "world",
    "ts": 1792038815000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBycVpyb3RkTF9xRXY1OFVsQ0I0MnZ5UDM1bUVqV1dyZ1FsOGhaUEhfcUs0R0RmcUJvSW1XeUlOSHlLeWNJZU0zaVE1RVNxbjBEREpiaFoyUjVyU1ZzNS1yRWtza2N6Nk0?oc=5",
-   "title": "IMF to Thailand: Shield Indebted Households, Not Fuel Prices, as ASEAN Peers Pull Ahead - Nation Thailand",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBycVpyb3RkTF9xRXY1OFVsQ0I0MnZ5UDM1bUVqV1dyZ1FsOGhaUEhfcUs0R0RmcUJvSW1XeUlOSHlLeWNJZU0zaVE1RVNxbjBEREpiaFoyUjVyU1ZzNS1yRWtza2N6Nk0?oc=5",
-   "desc": "IMF to Thailand: Shield Indebted Households, Not Fuel Prices, as ASEAN Peers Pull Ahead  Nation Thailand",
+   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcjhoZlh5eFJOblQ3MG1ZUkZEcllvSGFNRTk2VHhjbWZKN1BwWm9uV3VLbk5KTnFlV1Bfa0owekhqSkZYSWJQUFA5UG9Ec3NndHVvcm1Mc0xDSHp4dHhpWWUxd2hPclhoSEprd3FoVW1ydmV2Vm5",
+   "title": "IMF upgrades growth forecasts, but economic inequality fears remain - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcjhoZlh5eFJOblQ3MG1ZUkZEcllvSGFNRTk2VHhjbWZKN1BwWm9uV3VLbk5KTnFlV1Bfa0owekhqSkZYSWJQUFA5UG9Ec3NndHVvcm1Mc0xDSHp4dHhpWWUxd2hPclhoSEprd3FoVW1ydmV2Vm5XX2tKcUdUSFViSHRoN0VPNnFqa1lma3FBdm5GWU5SUVN3VGFMR0VsanRleF9OZi1R?oc=5",
+   "desc": "IMF upgrades growth forecasts, but economic inequality fears remain  DW.com",
    "source": "IMF / World Bank",
-   "publisher": "Nation Thailand",
+   "publisher": "DW.com",
    "scope": "world",
-   "ts": 1792038360000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcXAtdVJObWI3bjZIUmdKZ1ZyUGVob1FGMWUzanR1Z0o5OUlXRWJLdFZ5SHlIZ2FQZWpKNG1JbE5HcU9LUFh6STB5RmFMY1JRYUlkYVdHNFhnM2Vqck9SRDlDSTMtUGhYaXZhYzVYazVPVWlXTGt",
-   "title": "Thailand IMF Global Economy - WV News",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcXAtdVJObWI3bjZIUmdKZ1ZyUGVob1FGMWUzanR1Z0o5OUlXRWJLdFZ5SHlIZ2FQZWpKNG1JbE5HcU9LUFh6STB5RmFMY1JRYUlkYVdHNFhnM2Vqck9SRDlDSTMtUGhYaXZhYzVYazVPVWlXTGtXbVdZMmV0SmRGZDJHRml3SGRBOE9zclcxRzBtX2xRQ3IyR2pmNGtIeWhSU1NFRUd1Mjl3QVZ1NWtPZkhqbw?oc=5",
-   "desc": "Thailand IMF Global Economy  WV News",
-   "source": "IMF / World Bank",
-   "publisher": "WV News",
-   "scope": "world",
-   "ts": 1792037482000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ000SzlaWkQwcFdCS215cDBEN194TkExVVpzbU1fR1RRNjlXTmRPeS12b1FDWFM3T0JhUktkX1VxNHkzVXFkUXJIN3NXc1dxT3RDdmo2aHdmbWw2eVFNY21NdUFzMWhrNFROZlhzM3BzT3d2RjF",
-   "title": "Thailand IMF Global Economy - dailyrecordnews.com",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ000SzlaWkQwcFdCS215cDBEN194TkExVVpzbU1fR1RRNjlXTmRPeS12b1FDWFM3T0JhUktkX1VxNHkzVXFkUXJIN3NXc1dxT3RDdmo2aHdmbWw2eVFNY21NdUFzMWhrNFROZlhzM3BzT3d2RjFmUWpjeU5la1FjZ3pQaVh0NWR2a2hXMnByRXY3dXlsUl90a3h0Z051MFRyVEpGZ3drYm9UVFV1U2hObnlPZExxWlF2ZmhkNGpYczBCZnFQcFNuUg?oc=5",
-   "desc": "Thailand IMF Global Economy  dailyrecordnews.com",
-   "source": "IMF / World Bank",
-   "publisher": "dailyrecordnews.com",
-   "scope": "world",
-   "ts": 1792037397000
+   "ts": 1792038784000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVmJWaFJDaHVaNkd2US1NWGYzeEpPdWJ0NEdXSmhSQUliZEVfT2dVbWJhaE50S0w2d1ExZlZ2TjZjM2VWcVpIeXEwR1ZuR3R2cm53Njc4TWlOS0lOeF9pVFUyd0JjZFM0SFNvQklYTk4tNGpNckx",
-   "title": "Bitcoin is back below $81,000 as Fed rate uncertainty weighs. Kospi plunges 8% - CoinDesk",
+   "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8% - CoinDesk",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVmJWaFJDaHVaNkd2US1NWGYzeEpPdWJ0NEdXSmhSQUliZEVfT2dVbWJhaE50S0w2d1ExZlZ2TjZjM2VWcVpIeXEwR1ZuR3R2cm53Njc4TWlOS0lOeF9pVFUyd0JjZFM0SFNvQklYTk4tNGpNckxjdmt5SVdMUTcwRXVGaEhCLTZjTURMbUJralRQRWZEMk1ocnpwRWNTRHFkYWdTYW1obXFFUQ?oc=5",
-   "desc": "Bitcoin is back below $81,000 as Fed rate uncertainty weighs. Kospi plunges 8%  CoinDesk",
+   "desc": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%  CoinDesk",
    "source": "US Fed",
    "publisher": "CoinDesk",
    "scope": "world",
-   "ts": 1792037342000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbHU3bjc3SnFualhuR2VhM3ExOWU0Ul9saDRMaktJM0N4ZU1EdF8xekpvTjNJdzN3VDUtd2ZqSkxxOGZRUDZZOGJzQkM2NXJxRDB0ZlZpVTNOMk95WkgyblpwTTVDT1pxMVBaN1NuR2c4aXFtY1E",
-   "title": "IMF applauds India’s GDP data revamp, says currency pain is no sign of failure as country entered energy s - The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbHU3bjc3SnFualhuR2VhM3ExOWU0Ul9saDRMaktJM0N4ZU1EdF8xekpvTjNJdzN3VDUtd2ZqSkxxOGZRUDZZOGJzQkM2NXJxRDB0ZlZpVTNOMk95WkgyblpwTTVDT1pxMVBaN1NuR2c4aXFtY1E0czJSVmdWOW45Nm81azhDa1djaTBab29fU0ZDdUpJejI0Wk80eVo4M1NPNVl1VlJrWm9GWHpwUk81ZF9sX2NRVW1WZWJuTS14dTZyNE5yMnQ5eld3XzhKaGtieG1TbU83LXB2dlBlel9QRldCZHpfRm5yX09uMmhqTDlyb0dzTXo5Y3ZBcTBnOFZ4S0HSAYcCQVVfeXFMUG1vZXp5cTVDVFh5THZRSjdBajVZb1ZKS1FQQlc3TVlvNy1xb01QTnBfOXFDWWlJZWxHVXhKTXI3U2MwaGV4WGtPbF9tbm0yUkp5ak5ORUQwWHpKYWx1NGFOblNkdjZ6WkQ1VVo3SjBwbEFQUElhLUhvNzBhaHpFNEVIek5GZE85WG50WHIteVBURFlHNWJHTzM5SUJfSWdEckdhaHkteGF4N1NXdnFIaGwzT3pKTVN2LW82OG5ZSXU0U1pZQkluVWRmRWxkNTVIcWtucmE4Snk3Wk15YXEzNmVuYkJMWDV1cU9RT1B4UzBkWFJkd3Z4aGFNUldVRi1mNHV1VUJKcGs?oc=5",
-   "desc": "IMF applauds India’s GDP data revamp, says currency pain is no sign of failure as country entered energy s  The Economic Times",
-   "source": "IMF / World Bank",
-   "publisher": "The Economic Times",
-   "scope": "world",
-   "ts": 1792036847000
+   "ts": 1792038160000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVXRrRmpmSC1sM1BwYWdHVzBVbzZRemV3N04yeEdCUV85anBMemFQSXFyMUotV3FLNzdUazB3aWF4ck9fZXlYbTlfUUJUVlhJUkNyTHkyTWZ1R3JIWnJBMFlEMUxCX0VYV2x5R2w1cGF1SVpEc2p",
@@ -189,7 +499,7 @@
    "source": "US Fed",
    "publisher": "The New York Times",
    "scope": "world",
-   "ts": 1792036800000
+   "ts": 1792038000000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUVk3Tk5qRC1rS0NxcVU2N280MWE1bk4wZFJMdS11aXJ2SmxlcWhRbzluOHV2djk3aHNxam9oRzFOSjBqbzd1THEwVjBiWkIzcHpFUXpqQkR0X29ycWpmZkFyWVg1MG9QdnZTSnVuMDQ0QVZOcXk",
@@ -232,24 +542,14 @@
    "ts": 1792034941000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUjhPamJYX0tSRVB2TVl1Qzh0TkRCUEcyNEFzdUdCR2xKczRmay1oT1VJXzlyZ2ItdXVyT28wNnFxbDUtd3hicEJzWHVWLVJnUWM3ellydXVkZHJLV0hOZWRIVFFUVUlUbk43YlFKcW9GTHpKYUo",
-   "title": "Build stronger policy buffers against global shocks - IMF - Business & Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUjhPamJYX0tSRVB2TVl1Qzh0TkRCUEcyNEFzdUdCR2xKczRmay1oT1VJXzlyZ2ItdXVyT28wNnFxbDUtd3hicEJzWHVWLVJnUWM3ellydXVkZHJLV0hOZWRIVFFUVUlUbk43YlFKcW9GTHpKYUozcWJ1WEk0LVcxck5Za3UwME5WblkzRzNoaFdCQQ?oc=5",
-   "desc": "Build stronger policy buffers against global shocks - IMF  Business & Financial Times",
-   "source": "IMF / World Bank",
-   "publisher": "Business & Financial Times",
-   "scope": "world",
-   "ts": 1792033178000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01b0NaZDZIdjJ3RkVEelFpYjVEdUJIaFVydlpKOFhrcDY5MUlzNkRQbTlFbmI5ZXZyVHRpeWZIa0w1YnR3UnZMQy1kTXltVmJZOXNWSUZhOEROTkRGODhiaXE2Nm1pdEcyd0c2emJLWTAyRFlQS21",
-   "title": "Tech stock lead rout after US inflation fuels rate hike bets - Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01b0NaZDZIdjJ3RkVEelFpYjVEdUJIaFVydlpKOFhrcDY5MUlzNkRQbTlFbmI5ZXZyVHRpeWZIa0w1YnR3UnZMQy1kTXltVmJZOXNWSUZhOEROTkRGODhiaXE2Nm1pdEcyd0c2emJLWTAyRFlQS21WbjBjMDY?oc=5",
-   "desc": "Tech stock lead rout after US inflation fuels rate hike bets  Yahoo Finance Singapore",
+   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ1Q3b0ZyMDNnUHg1aXBwaW9NSERTVFRaUmF6R1RvMEQ2aUNTTjhxSFRVR1h3UkRzNnFjNklDWmhlRDUyeDg2WTR2QTRhRHRrSl83QWdZLUtrZlY0V3RLdFAyU21sdS1pdURTeTVqT09lcjZmZUZ",
+   "title": "Tech stocks lead rout after US inflation fuels rate hike bets - France 24",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ1Q3b0ZyMDNnUHg1aXBwaW9NSERTVFRaUmF6R1RvMEQ2aUNTTjhxSFRVR1h3UkRzNnFjNklDWmhlRDUyeDg2WTR2QTRhRHRrSl83QWdZLUtrZlY0V3RLdFAyU21sdS1pdURTeTVqT09lcjZmZUZLSkZMZFBJWG9UMm9qV1RSZGJBZl81SUJWUGZBVjBvUDBmMnJCby0tcXdZNk9zOHF6S3dtNUk?oc=5",
+   "desc": "Tech stocks lead rout after US inflation fuels rate hike bets  France 24",
    "source": "US Fed",
-   "publisher": "Yahoo Finance Singapore",
+   "publisher": "France 24",
    "scope": "world",
-   "ts": 1792032780000
+   "ts": 1792032921000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMnl6bG1LVm12OG5sN0gyQU5JTHc3UUFTVE9FSjlfVnJvVVRoUVZEY0ZibTQ2dTFxeWoyM1JRMUszcGpnM3VxLTlNMUo4aVRROHJtMFlqRHV5b2tydzM2M3laQ3J2QllNMC1vT0VndEM4RGZhOXF",
@@ -272,6 +572,16 @@
    "ts": 1792032213000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbHU3bjc3SnFualhuR2VhM3ExOWU0Ul9saDRMaktJM0N4ZU1EdF8xekpvTjNJdzN3VDUtd2ZqSkxxOGZRUDZZOGJzQkM2NXJxRDB0ZlZpVTNOMk95WkgyblpwTTVDT1pxMVBaN1NuR2c4aXFtY1E",
+   "title": "IMF applauds India’s GDP data revamp, says currency pain is no sign of failure as country entered energy s - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbHU3bjc3SnFualhuR2VhM3ExOWU0Ul9saDRMaktJM0N4ZU1EdF8xekpvTjNJdzN3VDUtd2ZqSkxxOGZRUDZZOGJzQkM2NXJxRDB0ZlZpVTNOMk95WkgyblpwTTVDT1pxMVBaN1NuR2c4aXFtY1E0czJSVmdWOW45Nm81azhDa1djaTBab29fU0ZDdUpJejI0Wk80eVo4M1NPNVl1VlJrWm9GWHpwUk81ZF9sX2NRVW1WZWJuTS14dTZyNE5yMnQ5eld3XzhKaGtieG1TbU83LXB2dlBlel9QRldCZHpfRm5yX09uMmhqTDlyb0dzTXo5Y3ZBcTBnOFZ4S0HSAYcCQVVfeXFMUG1vZXp5cTVDVFh5THZRSjdBajVZb1ZKS1FQQlc3TVlvNy1xb01QTnBfOXFDWWlJZWxHVXhKTXI3U2MwaGV4WGtPbF9tbm0yUkp5ak5ORUQwWHpKYWx1NGFOblNkdjZ6WkQ1VVo3SjBwbEFQUElhLUhvNzBhaHpFNEVIek5GZE85WG50WHIteVBURFlHNWJHTzM5SUJfSWdEckdhaHkteGF4N1NXdnFIaGwzT3pKTVN2LW82OG5ZSXU0U1pZQkluVWRmRWxkNTVIcWtucmE4Snk3Wk15YXEzNmVuYkJMWDV1cU9RT1B4UzBkWFJkd3Z4aGFNUldVRi1mNHV1VUJKcGs?oc=5",
+   "desc": "IMF applauds India’s GDP data revamp, says currency pain is no sign of failure as country entered energy s  The Economic Times",
+   "source": "IMF / World Bank",
+   "publisher": "The Economic Times",
+   "scope": "world",
+   "ts": 1792031930000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxNenk1d2NZZ2JPbU9mS20xTHZ3ZFFnTW9YLUh5Ynk4NlZ5X1FJMFZrM2VaemVQUUxuUlNyRjZWVFRzb2hfb1lBV1d3SzQtQnJjbS00ZHo4MWlYOENsTDJDODhDclJRS0J3SEF5aTNDc2NRaWdpQUY",
    "title": "Asia’s Uneven Economic Resilience Faces Stress Tests, IMF Says - WSJ",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNenk1d2NZZ2JPbU9mS20xTHZ3ZFFnTW9YLUh5Ynk4NlZ5X1FJMFZrM2VaemVQUUxuUlNyRjZWVFRzb2hfb1lBV1d3SzQtQnJjbS00ZHo4MWlYOENsTDJDODhDclJRS0J3SEF5aTNDc2NRaWdpQUYwczlEU2NpYXI4dDhJNm9ldmtFamNWN3prdW9kMVdWbk1Ud3U4NWFEZw?oc=5",
@@ -283,21 +593,21 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2RUFiSWc0SHprNUJaN29QZXl0SDdjdUlTamk0dmZzV2lPRDZuNlV5QXR4TjEtclREcS02SS1hUGpDWkl5Nlo1UWlVZVBMU21RcUVF?oc=5",
-   "title": "IMF Reports: Middle East Economies Face a Collective \"Waterloo\" in 2024 – Key Economic Challenges & Outlook - 36Kr",
+   "title": "IMF Reports: Middle East Economies Face a Collective \"Waterloo\" in 2024 – Key Economic Challenges & Outlook - 36 Kr",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2RUFiSWc0SHprNUJaN29QZXl0SDdjdUlTamk0dmZzV2lPRDZuNlV5QXR4TjEtclREcS02SS1hUGpDWkl5Nlo1UWlVZVBMU21RcUVF?oc=5",
-   "desc": "IMF Reports: Middle East Economies Face a Collective \"Waterloo\" in 2024 – Key Economic Challenges & Outlook  36Kr",
+   "desc": "IMF Reports: Middle East Economies Face a Collective \"Waterloo\" in 2024 – Key Economic Challenges & Outlook  36 Kr",
    "source": "IMF / World Bank",
-   "publisher": "36Kr",
+   "publisher": "36 Kr",
    "scope": "world",
    "ts": 1792031502000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUjNxOU9ESWY3am1XUi1VQjF4WkM3bXlwNTBNbHNEaDZBWUtydXFhTWRNd3VlN1hIa3NISkpSMFVrQ3NDUEl4dGR1ZE93MUg3MHFKTXJRTGctQzlsTG1RaXZ0M3I0blhDSVhQQXczWVI0T09uV2R",
-   "title": "IMF warns of slowing Asian growth, spillover from rising yields - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUjNxOU9ESWY3am1XUi1VQjF4WkM3bXlwNTBNbHNEaDZBWUtydXFhTWRNd3VlN1hIa3NISkpSMFVrQ3NDUEl4dGR1ZE93MUg3MHFKTXJRTGctQzlsTG1RaXZ0M3I0blhDSVhQQXczWVI0T09uV2RSREdLd0pGb0tCYkdNelhocjJ0bkxPSlRQQl9PQQ?oc=5",
-   "desc": "IMF warns of slowing Asian growth, spillover from rising yields  Yahoo Finance",
+   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzQtNy1yR0xkemd2ellCSWZBS1ZmVjBuZHAxTXZwZXFIb1preWk1d0hLNVN6V3REbUh1TkpNbFJqRzZvTXh5eGo4TkNsQzFkNzZDNzJsNWYtZ0pIZHR6NWFfX0hzY2ZkdldJTUFRLVRTcVAwV0h",
+   "title": "IMF warns of slowing Asian growth, spillover from rising yields - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzQtNy1yR0xkemd2ellCSWZBS1ZmVjBuZHAxTXZwZXFIb1preWk1d0hLNVN6V3REbUh1TkpNbFJqRzZvTXh5eGo4TkNsQzFkNzZDNzJsNWYtZ0pIZHR6NWFfX0hzY2ZkdldJTUFRLVRTcVAwV0hjVklONGVfOVMwZ2dQM1pFUURuSlhwV0JSYzVESVpEYkpIZmJ0VE9sNUhJdE9tUQ?oc=5",
+   "desc": "IMF warns of slowing Asian growth, spillover from rising yields  Reuters",
    "source": "IMF / World Bank",
-   "publisher": "Yahoo Finance",
+   "publisher": "Reuters",
    "scope": "world",
    "ts": 1792029840000
   },
@@ -310,16 +620,6 @@
    "publisher": "Global Data Center Hub",
    "scope": "world",
    "ts": 1792029655000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XdkE4bmxSOU1IVFJuZEJjR0Z3a3M1WWlPTXhjWGhGSFZvc29kb0pxNklSdHhZazRpVktNeTlJT2lQSHN2SjQ3a1pBYklGSWQ3T1AwenBNaFh1anJxOTI5OEhHSFVZRHVVOTd1MWpqS2Rfdw?oc=5",
-   "title": "IMF–World Bank 2026 livestream schedule for October 15 with global economy debate at 3.30pm - Nation Thailand",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XdkE4bmxSOU1IVFJuZEJjR0Z3a3M1WWlPTXhjWGhGSFZvc29kb0pxNklSdHhZazRpVktNeTlJT2lQSHN2SjQ3a1pBYklGSWQ3T1AwenBNaFh1anJxOTI5OEhHSFVZRHVVOTd1MWpqS2Rfdw?oc=5",
-   "desc": "IMF–World Bank 2026 livestream schedule for October 15 with global economy debate at 3.30pm  Nation Thailand",
-   "source": "IMF / World Bank",
-   "publisher": "Nation Thailand",
-   "scope": "world",
-   "ts": 1792029241000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GQkRnUFRzSlRPN0pOWDhzTmQtUlk1VjN6RG1FTG1IUUZBUmJKZXU5ZVd6dlVfWnVQTU9tcTZXWWVTZTBpV1N0eGhJeWJ5eFhKQm80MHJoTDdJeERUd1hLUVFGcG5LZVBsM0VjZkMyLUtXeEM5Qmc",
@@ -349,7 +649,27 @@
    "source": "US Fed",
    "publisher": "WWD",
    "scope": "world",
-   "ts": 1792026450000
+   "ts": 1792026561000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XdkE4bmxSOU1IVFJuZEJjR0Z3a3M1WWlPTXhjWGhGSFZvc29kb0pxNklSdHhZazRpVktNeTlJT2lQSHN2SjQ3a1pBYklGSWQ3T1AwenBNaFh1anJxOTI5OEhHSFVZRHVVOTd1MWpqS2Rfdw?oc=5",
+   "title": "IMF–World Bank 2026 livestream schedule for October 15 with global economy debate at 3.30pm - Nation Thailand",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XdkE4bmxSOU1IVFJuZEJjR0Z3a3M1WWlPTXhjWGhGSFZvc29kb0pxNklSdHhZazRpVktNeTlJT2lQSHN2SjQ3a1pBYklGSWQ3T1AwenBNaFh1anJxOTI5OEhHSFVZRHVVOTd1MWpqS2Rfdw?oc=5",
+   "desc": "IMF–World Bank 2026 livestream schedule for October 15 with global economy debate at 3.30pm  Nation Thailand",
+   "source": "IMF / World Bank",
+   "publisher": "Nation Thailand",
+   "scope": "world",
+   "ts": 1792025580000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1td204RjZjVnBuOEZkbFpwc1BRZ1lwQXVNdF9wR0QxRlZxbjBWZFNraHRGREJYNWxLNURpTzItVmloMi1MR1NkNkgzNFo3Q3Etemh5TzFCclN0U0F2UmsxMXFTRQ?oc=5",
+   "title": "IMF: Japan to fall to 6th in 2027 global GDP rankings | NHK WORLD-JAPAN News - NHKニュース",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1td204RjZjVnBuOEZkbFpwc1BRZ1lwQXVNdF9wR0QxRlZxbjBWZFNraHRGREJYNWxLNURpTzItVmloMi1MR1NkNkgzNFo3Q3Etemh5TzFCclN0U0F2UmsxMXFTRQ?oc=5",
+   "desc": "IMF: Japan to fall to 6th in 2027 global GDP rankings | NHK WORLD-JAPAN News  NHKニュース",
+   "source": "IMF / World Bank",
+   "publisher": "NHKニュース",
+   "scope": "world",
+   "ts": 1792025091000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3VyWGk2ODJqREhKMkljQ01vOHhWaTExNGY5UzByY3JkUWFIQjJnMWxya0tLRnRyNDdReWFibTkyZG1pbVNBcFh3cFlwbmZTUU1ybHd5NDVwd3lCV0xjZGh4M0hCYkxUVGJKMktjb3N2TEw1eVZ",
@@ -372,26 +692,6 @@
    "ts": 1792023000000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNc1ZOb3F1SmFIZVY2S2pWWGVXZkRMXy1RYjg1RWlUWGVrNmNfSm1EUk1HVFFNY3NjNEZ5NXhyVVM1UFdqYno0OG1iQVdBVldJTWdhMjhvWkpiWjl5MElPZUo0NkdWX2xoNk9DVVpjbXFwZnFYTm9",
-   "title": "IMF Sees Resilient Global Growth As AI Investment Booms, But Warns Of Rising Risks - The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNc1ZOb3F1SmFIZVY2S2pWWGVXZkRMXy1RYjg1RWlUWGVrNmNfSm1EUk1HVFFNY3NjNEZ5NXhyVVM1UFdqYno0OG1iQVdBVldJTWdhMjhvWkpiWjl5MElPZUo0NkdWX2xoNk9DVVpjbXFwZnFYTm9vNjJER2s4QVBiWEY5NkpWdFlKNmt0MUc2eWE0NHFVTVA3cTVSNlZQZVB0UVRQbGdtSVhrU2tBNlo5bkN1WTF6OHkyQzBSV1N2ODNVTUlkLUFmX2t6V0ZzXzdmTmhoSGVjXzQxakVmVmRQM3Y0NEVlQjh5NzhLenNiMEJMVFN40gH6AUFVX3lxTE1mdGJ6SEluWTBuaW9TbnIyNGxtSFdCZkN6S0FvMmFBaG1LYjRzSzEzcGdPcndjMkJZclVva2VUTE5maGtCU1ZKZVFzWG9sWGhXOGpseFJlV3owSFNvMDVkOHNPVVJSeUloX1oyTUhJYkY0VXRNa3ZqR2FhQWl4MXhfQjNRTGtKQ1EzcWEtdlBwdWU3eEkzVkM5QUwwQ1ViZmtvN2dDUW8tZEhxU2p6bjVjc0ltcEk0ZnFkNTZjN0NGTnNTbXBPcTZ0NzBoQktVYzhwNmZFRW9EM0VkeUhZU0VvUnZDTFRvMUtLUGlDa2ZWRUV2SC1ES1pqckE?oc=5",
-   "desc": "IMF Sees Resilient Global Growth As AI Investment Booms, But Warns Of Rising Risks  The Times of India",
-   "source": "IMF / World Bank",
-   "publisher": "The Times of India",
-   "scope": "world",
-   "ts": 1792022820000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XMTlkNFFjeTN0em5YYWtTaWlocmJLY0pLYXBlODJyWXBHaHBqLTFCd3BCeEdCNG9WWFdramFLVVp3RnNfdkFKb0RLREVoRm1XOW1KZGFXQUZxTk1GVWE4Z9IBXEFVX3lxTFBiMDJlRUVBY0lDTWx",
-   "title": "IMF warns of global economic risks as debt, energy costs and AI bubble fears grow - Modern Ghana",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XMTlkNFFjeTN0em5YYWtTaWlocmJLY0pLYXBlODJyWXBHaHBqLTFCd3BCeEdCNG9WWFdramFLVVp3RnNfdkFKb0RLREVoRm1XOW1KZGFXQUZxTk1GVWE4Z9IBXEFVX3lxTFBiMDJlRUVBY0lDTWx4akJKQVFybUh1X0ptWGYtREh3VmhzSFNUU2JyMWFic3kyY21rSmRkcTB2TExVYkhrNUcxMFBJR2ZLRHlFaUVKRE4zYWJVZnFO?oc=5",
-   "desc": "IMF warns of global economic risks as debt, energy costs and AI bubble fears grow  Modern Ghana",
-   "source": "IMF / World Bank",
-   "publisher": "Modern Ghana",
-   "scope": "world",
-   "ts": 1792020479000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp",
    "title": "US inflation heats up in September; Fed rate hike this month back on table - Reuters",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5",
@@ -412,16 +712,6 @@
    "ts": 1792014000000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdk9jbmZDRzUxSjRpZVQ4TS0yZnlzZHV2c2tHQ3psRmpQc0ROWElIX2I0cW1xRzJ3NjAzYUJWQ1pyOEZBVXBLcjJ4WlMxVnVRTkJhQkZFS2JVelNJRUlxeko5QTFKMkZOS3J0MEZUdS1WWnNIemZ",
-   "title": "Thailand IMF Global Economy - TelegraphHerald.com",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdk9jbmZDRzUxSjRpZVQ4TS0yZnlzZHV2c2tHQ3psRmpQc0ROWElIX2I0cW1xRzJ3NjAzYUJWQ1pyOEZBVXBLcjJ4WlMxVnVRTkJhQkZFS2JVelNJRUlxeko5QTFKMkZOS3J0MEZUdS1WWnNIemZPOE0wakdrNGsxU0pXNm5WTUVwXzZYWFhwUXVrTXM1VzBaTQ?oc=5",
-   "desc": "Thailand IMF Global Economy  TelegraphHerald.com",
-   "source": "IMF / World Bank",
-   "publisher": "TelegraphHerald.com",
-   "scope": "world",
-   "ts": 1792011701000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03N0JPOGNhMEFKWFVlZUItY3hsNWZlMkdSbEQ4dTF1cEJvNTN2MUtJcFZzM1duYlE2aU5FRnR0Nm5iZXpCNzJNV1VLTzJId09IZDc2N1M1bWpiU25DVUY0Yk1VakM1RGd6SmRiQThlUE5EVDRuYzB",
    "title": "Hot inflation data puts Fed in complicated spot - The Hill",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03N0JPOGNhMEFKWFVlZUItY3hsNWZlMkdSbEQ4dTF1cEJvNTN2MUtJcFZzM1duYlE2aU5FRnR0Nm5iZXpCNzJNV1VLTzJId09IZDc2N1M1bWpiU25DVUY0Yk1VakM1RGd6SmRiQThlUE5EVDRuYzBTZEdxcDlTUkk?oc=5",
@@ -430,26 +720,6 @@
    "publisher": "The Hill",
    "scope": "world",
    "ts": 1792010940000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQazViUHl2SmRiSUdDb0dNelo2Y2JjdkNLOG40Q0FpMnFBZ1JPNUNBc3pMeGlWbE5CQlUwcEVJWE93WmlJRkZTbzllQ1pfNV9HYXVHLUV2YVdkWW1TMWVJTElsNklvSzVYdTZPXzhIV0JHdHBCQzh",
-   "title": "Gold Steady as Fed Official’s Remarks Temper Rate-Hike Bets - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQazViUHl2SmRiSUdDb0dNelo2Y2JjdkNLOG40Q0FpMnFBZ1JPNUNBc3pMeGlWbE5CQlUwcEVJWE93WmlJRkZTbzllQ1pfNV9HYXVHLUV2YVdkWW1TMWVJTElsNklvSzVYdTZPXzhIV0JHdHBCQzhhcklUSHhQaTFXUUNjNVlZTVZQNWd0UHM5LTlwRmpobUdiR1RiWDhTYUNTUGloY256S1l2blk0M0JZ?oc=5",
-   "desc": "Gold Steady as Fed Official’s Remarks Temper Rate-Hike Bets  Bloomberg.com",
-   "source": "US Fed",
-   "publisher": "Bloomberg.com",
-   "scope": "world",
-   "ts": 1792010701000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaklPWDdXYVVKMTJsRDI1YWxJRGNjdjVxVFhSSW5LOU5vOWNiVWtLcmI0M05Pa1ozeVAyRjZtenZSQmV3WTI5WUtqM1JHbTREcWJlTndoNXNsTGhyU2dBRmoyMWphbXM4cGdvUkRJakdCYWY1dXd",
-   "title": "IMF upgrades growth forecasts, but economic inequality fears remain - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaklPWDdXYVVKMTJsRDI1YWxJRGNjdjVxVFhSSW5LOU5vOWNiVWtLcmI0M05Pa1ozeVAyRjZtenZSQmV3WTI5WUtqM1JHbTREcWJlTndoNXNsTGhyU2dBRmoyMWphbXM4cGdvUkRJakdCYWY1dXdoSElxZFhoNE9ILTZEb21zMzBONkFkNTNLWm4yYkZ2eHI2QWc5cXpuQUpwUHAydlFDYw?oc=5",
-   "desc": "IMF upgrades growth forecasts, but economic inequality fears remain  DW.com",
-   "source": "IMF / World Bank",
-   "publisher": "DW.com",
-   "scope": "world",
-   "ts": 1792009984000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdzduZDZNUFg0a2Q2YXFzaFpxVktGZUZZQk45WEthSlEyTzF2TGtheUd2bm14bXJmZmU2YnVuYnNsTU9GUHo1UEVaWF9SZ044MWNyUjVJa2dnRU9HbjltSVB1YUZaa1pzREF4LXNxal9EMVJDV2Z",
@@ -472,6 +742,16 @@
    "ts": 1792009339000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNejVfWDhyUzB6dGFvbG1VcnRQRk5oSmgzWDdkYm9lMWJzRVdaMHlDUDVRNzQ2T0ZiUjhzZy0zTzZ1NlVyZlJmeTd0eGZ1anduUURnU25oT3R4U3pHSXVDbS1nY3UzUUctNU9pelB3aDJmeVo1WmV",
+   "title": "Steve Moore warns stubborn inflation could complicate Fed rate decision - KOKI FOX 23",
+   "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNejVfWDhyUzB6dGFvbG1VcnRQRk5oSmgzWDdkYm9lMWJzRVdaMHlDUDVRNzQ2T0ZiUjhzZy0zTzZ1NlVyZlJmeTd0eGZ1anduUURnU25oT3R4U3pHSXVDbS1nY3UzUUctNU9pelB3aDJmeVo1WmVzNUVvd25KQXZ2T3pQUUNxTWl1R0xqemY1WmV5aDNhZlBuTUE1cF9OZXhySEVJaGFiYmRYU05VcXVUUUVWN0pLcG1hMmw3S3pjRkp2SEJneUQ3WmZrSFpDd0M3Zndjb1hDT0NmZHoxWkNuc18zNnNIWFRCckd0T1VEaFd3eks5cjVpMnpUWnV2M1hCTFIzZjF6WUtjYXRyeTlRbW5uY3NrUWRCZ0w4UGQtZHM3bWR2c2xNTUhqdm16WFRHeHEyZ0Y4ZjM3bDFGVm56U2ppd1R0Q214NkViQQ?oc=5",
+   "desc": "Steve Moore warns stubborn inflation could complicate Fed rate decision  KOKI FOX 23",
+   "source": "US Fed",
+   "publisher": "KOKI FOX 23",
+   "scope": "world",
+   "ts": 1792009278000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUthTlFGa3puMUJPVElxQmhOOXE1VVpyZDQ3QVE5UG5WUE5VczJSR0lzX2hHN2lveU84ZzJwb21VeGVHNUZTZWJtVDl4OExGV0RMOTljN3M5VnFlTG8tTWE4X3p6cVNHbnc4bEw2ajh6RlJoblR",
    "title": "Global economy weathers shocks, but risks mount: IMF - The Daily Star",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUthTlFGa3puMUJPVElxQmhOOXE1VVpyZDQ3QVE5UG5WUE5VczJSR0lzX2hHN2lveU84ZzJwb21VeGVHNUZTZWJtVDl4OExGV0RMOTljN3M5VnFlTG8tTWE4X3p6cVNHbnc4bEw2ajh6RlJoblRLOWF6QjhhV2F0aDM3NXdiWFV5OGgxUHZ1OHQ1VGhRT3k5d0R4X0FrZnRCM2dNQWpBdjYzMU9xU01wNDFR?oc=5",
@@ -482,12 +762,12 @@
    "ts": 1792008478000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHBEY1Q4ZWNUb0QtWHo3bmJEN1BtVjdmZDA2dkxQeFJYSDN3dEtDRmxSSHp1VVAxdHYyVnh5T3dtNlNWTWFBaEVQMGRkWGlRUUtDdnU1dGpvaWt6X0NFYzJUamlqbGVYeUZ6WHhUZy1icTI2RUQ",
-   "title": "Inflation report raises Fed rate-hike odds - Semafor",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHBEY1Q4ZWNUb0QtWHo3bmJEN1BtVjdmZDA2dkxQeFJYSDN3dEtDRmxSSHp1VVAxdHYyVnh5T3dtNlNWTWFBaEVQMGRkWGlRUUtDdnU1dGpvaWt6X0NFYzJUamlqbGVYeUZ6WHhUZy1icTI2RUQzUDhkM2UyY3R3Vk1DMnhFdU1MSWZldEl3?oc=5",
-   "desc": "Inflation report raises Fed rate-hike odds  Semafor",
-   "source": "US Fed",
-   "publisher": "Semafor",
+   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2ZQM2RRaEctaVBHSUlMQTdYNVZSdjlJUUp3bUdLa0ZySHZFQnB4UmlhWC16d2FqcWJBTjFYY2FKUHdXdDEwVy0yRGh3ck5nb3NQS09fN2NRanhyMDBCRkdGeHVldVotZmJNSERwOEZCMHR1dkt",
+   "title": "IMF chief urges US and wealthy nations to rein in debt to ease global economic pressure - AP News",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2ZQM2RRaEctaVBHSUlMQTdYNVZSdjlJUUp3bUdLa0ZySHZFQnB4UmlhWC16d2FqcWJBTjFYY2FKUHdXdDEwVy0yRGh3ck5nb3NQS09fN2NRanhyMDBCRkdGeHVldVotZmJNSERwOEZCMHR1dktLWE9UbUtyS1BudEdfX1hYTzNCOEloUG1BX0JQTW13RGdDYw?oc=5",
+   "desc": "IMF chief urges US and wealthy nations to rein in debt to ease global economic pressure  AP News",
+   "source": "IMF / World Bank",
+   "publisher": "AP News",
    "scope": "world",
    "ts": 1792007640000
   },
@@ -500,16 +780,6 @@
    "publisher": "Realtor.com",
    "scope": "world",
    "ts": 1792007452000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHg5U0hrWHJWQ3JqZGUxRG1neGxiQVNHRUV6dDkyWENIZzBkUHN2dzI4QTdOV05mdTVjYVI0ZFRuWGdIYmFPa1N5YjRMLUFpZzl3YlcxQXptY200VmFvTXUzdlgxRlhCbXVaSktLRkJXLXJkeWR",
-   "title": "African caucus, IMF reaffirm partnership to boost economic resilience - Realnews Magazine",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHg5U0hrWHJWQ3JqZGUxRG1neGxiQVNHRUV6dDkyWENIZzBkUHN2dzI4QTdOV05mdTVjYVI0ZFRuWGdIYmFPa1N5YjRMLUFpZzl3YlcxQXptY200VmFvTXUzdlgxRlhCbXVaSktLRkJXLXJkeWR5MFhaOTBkeUtZUk9XVzQ2UjZyVENBOUFZZHNaVGQ3TkJwenQ4cWdjMEk?oc=5",
-   "desc": "African caucus, IMF reaffirm partnership to boost economic resilience  Realnews Magazine",
-   "source": "IMF / World Bank",
-   "publisher": "Realnews Magazine",
-   "scope": "world",
-   "ts": 1792006910000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWxJSEhuNDNGcTkxc0d2Q1dmOHRtM0pFOW9jTmR5VXNEQWpuN1BRQzhUdl82V1VLS0t2Tm1mT1NVdEZjakd1ZzExeFVxVjFGZHZtSlNDUHZ1VnVQMWVxS0xBcWVWSU5uU1c4WFV5VGJTeUZPeWw",
@@ -533,23 +803,13 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRDQtanRhdFhUc19hcFZhNS1hdk1MNTRMTmd6OXVxV2dmNTE5R0hPUDdMV0Q3cTBURWdyQU9qYThGZWhudEEzOEFlQ1NRdmtMdU92Nk93R2k0VzRPZDFIX0JBRDJmRE9DdmtrWE9RVTNxUS1pTi1",
-   "title": "Inflation heats up in September; Fed rate hike this month back on table - KSL News",
+   "title": "Inflation heats up in September; Fed rate hike this month back on table - KSL.com",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRDQtanRhdFhUc19hcFZhNS1hdk1MNTRMTmd6OXVxV2dmNTE5R0hPUDdMV0Q3cTBURWdyQU9qYThGZWhudEEzOEFlQ1NRdmtMdU92Nk93R2k0VzRPZDFIX0JBRDJmRE9DdmtrWE9RVTNxUS1pTi1OQXVvSkNKcmNaWFotVW4xVGVLci1zdWRHcXBUWWdQUkJfUmxmeENxR1NjeW0tTmpoRnl6TFJTenFtOUJNZw?oc=5",
-   "desc": "Inflation heats up in September; Fed rate hike this month back on table  KSL News",
+   "desc": "Inflation heats up in September; Fed rate hike this month back on table  KSL.com",
    "source": "US Fed",
-   "publisher": "KSL News",
+   "publisher": "KSL.com",
    "scope": "world",
    "ts": 1792003967000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOFNneG1DSDhXQ0k5a0IwNi1PMGhmTzZKQnp1NmUwQ1FwU1pqU3JGaml6Q0N4V0J0Y3g0d0FxX2hwTXhpYUR6TXd3UzZVWWJtN01GMmlCek8tZ05jNERDeEtZRk45ZzlQNFUwWTBQc3BRSVNXQ0t",
-   "title": "Can gold hold $4,000 with an October rate hike still in play? - Kitco",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOFNneG1DSDhXQ0k5a0IwNi1PMGhmTzZKQnp1NmUwQ1FwU1pqU3JGaml6Q0N4V0J0Y3g0d0FxX2hwTXhpYUR6TXd3UzZVWWJtN01GMmlCek8tZ05jNERDeEtZRk45ZzlQNFUwWTBQc3BRSVNXQ0tGWTdKVWlSWlppTGV5aURJWkFxemE4ZFV5aWZvYXpEY2NJbw?oc=5",
-   "desc": "Can gold hold $4,000 with an October rate hike still in play?  Kitco",
-   "source": "US Fed",
-   "publisher": "Kitco",
-   "scope": "world",
-   "ts": 1792003486000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWDVjeEo3dHVPMWtkM05LMEpNVWlCTGdJT0pQU2tlTGoxOEdpWkZRMW1zNVFNTVpaZkpFbTZBRm1IWWhtN0k4d1RPWlo3TEdyZDJnbFVPWmNyWDJ4eVlCVXlheWJ0NWMxblZqYUpFdFUzblhvRTl",
@@ -572,26 +832,6 @@
    "ts": 1792002628000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeVlMX0E1b0JmOXNVRGEzRF90MktCWEdkbGd1LTdQdXhUdXVkZDFaa1VfNVZmdFpOYVp5dHI1MndFTThYd240dGt6RjVfNTRkcjdEVXJBWk44eTNZRXp2R0txZkVGS2FEY05FeWlWR29GQTJjQVV",
-   "title": "Fed Beige Book flags intensifying price pressures - FXStreet",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeVlMX0E1b0JmOXNVRGEzRF90MktCWEdkbGd1LTdQdXhUdXVkZDFaa1VfNVZmdFpOYVp5dHI1MndFTThYd240dGt6RjVfNTRkcjdEVXJBWk44eTNZRXp2R0txZkVGS2FEY05FeWlWR29GQTJjQVVid1k5a0RWWG9PNmxMaDh2WXMtcjlhMGtjR01uUnRIYVZZ?oc=5",
-   "desc": "Fed Beige Book flags intensifying price pressures  FXStreet",
-   "source": "US Fed",
-   "publisher": "FXStreet",
-   "scope": "world",
-   "ts": 1792001930000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ01XQnYwV255V3RndkxWT1d3S1ZwOHpqdTNGMHF5Ym5MQVRaUzB4OGx3a01RZFNGOUNXR0JOVW80WUxfTU9LZXM4ZW5GRFl0U3ZIUDFZSEN4ZVE5TFl3TmkydlBIS1hURlhVQWZWYlJnaXZTd2V",
-   "title": "IMF Warns Rising Debt Costs Could Deepen Economic Pressure on Developing Countries - www.nationpathindia.com",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ01XQnYwV255V3RndkxWT1d3S1ZwOHpqdTNGMHF5Ym5MQVRaUzB4OGx3a01RZFNGOUNXR0JOVW80WUxfTU9LZXM4ZW5GRFl0U3ZIUDFZSEN4ZVE5TFl3TmkydlBIS1hURlhVQWZWYlJnaXZTd2VxU0ZZS3k2Y1ZtbDkzWGp6NmdLQ3lXWkhXTGtCT3FOeS1xWngyUQ?oc=5",
-   "desc": "IMF Warns Rising Debt Costs Could Deepen Economic Pressure on Developing Countries  www.nationpathindia.com",
-   "source": "IMF / World Bank",
-   "publisher": "www.nationpathindia.com",
-   "scope": "world",
-   "ts": 1792001238000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaEV6cEFQNGhXY0hZTFQwejZfcXpDMEh3Y05TSW50Z2UzV2k4ZVJoYi1rajEwcVUxcjJycHBsR2NvdFV4UmsxOTZYMFo5bFdneC1Qd0FSUldyRGJaZW1uLVYwV3JoakR6b3pXdldSTVBpWm9RTUR",
    "title": "RBI Opens Special Dollar Window for State-Run Oil Companies - Construction World",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaEV6cEFQNGhXY0hZTFQwejZfcXpDMEh3Y05TSW50Z2UzV2k4ZVJoYi1rajEwcVUxcjJycHBsR2NvdFV4UmsxOTZYMFo5bFdneC1Qd0FSUldyRGJaZW1uLVYwV3JoakR6b3pXdldSTVBpWm9RTUR2R2tBRHhMT3RzTUNQU3k4b3J6NGQ2MUNHaGlYZFFFdkhUQWdyNVNLYzRjYXM4ZWtrMnUySUp0XzdSX0ItR0lEc0JGZDE5T0pYRDBxNVJwd0pkY2hRRQ?oc=5",
@@ -612,36 +852,6 @@
    "ts": 1792000905000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdmhadHZpU0NhY1RBT1BuYnkzX1k3TTFPVHpRaTR4bUV4WE5SZUZmLXFTb19TR1o0UHlHYi16ejBKb2lvQUJiVWNIeENORXlSc1FJbXlfcXl4YVpPSXBQZktVa3ZDdG5DRFktY0dfajFCczVCdzR",
-   "title": "US inflation heats up in September; Fed rate hike this month back on table - CNA",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdmhadHZpU0NhY1RBT1BuYnkzX1k3TTFPVHpRaTR4bUV4WE5SZUZmLXFTb19TR1o0UHlHYi16ejBKb2lvQUJiVWNIeENORXlSc1FJbXlfcXl4YVpPSXBQZktVa3ZDdG5DRFktY0dfajFCczVCdzRwSkE0THFUQlNHS3FyTTRHMkdaeVE?oc=5",
-   "desc": "US inflation heats up in September; Fed rate hike this month back on table  CNA",
-   "source": "US Fed",
-   "publisher": "CNA",
-   "scope": "world",
-   "ts": 1792000380000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQUGRuS2htUEluWGw2OWM5dzRpMDVpYkdOTUJIRE9HVkp2R2hxN1Z2MWlxMmxrYjlLS2NYVmVCZWVuR0FORUQ1U0Zoc1Q1S0cyM3ZvbXk4MWpHd3c1X2NkT3NaeWtzclBmSVhoaU5HeG1qZzN3cXo",
-   "title": "Steve Moore warns stubborn inflation could complicate Fed rate decision - WPEC",
-   "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQUGRuS2htUEluWGw2OWM5dzRpMDVpYkdOTUJIRE9HVkp2R2hxN1Z2MWlxMmxrYjlLS2NYVmVCZWVuR0FORUQ1U0Zoc1Q1S0cyM3ZvbXk4MWpHd3c1X2NkT3NaeWtzclBmSVhoaU5HeG1qZzN3cXo3TkNIdjZHS2lIZzNCaTN6SEEzSGtDdVdJZ2J0RzczeVVGZzBoYm05U0F0azdkcGtqRUJUUnRMbW5uUVVRblV1YmFEZ3ZqZENCc1ZiWGFZOS15QnNoTzF0NU1BUy16WDJhSUJkYjlILW9fMWRtNkNhcXprelR3TFRVUnd0NlNWUHlJWFFJd1pFYm9UR1ExT3Q1ZGVlUTBTbUU3MTJGUVVlbjVhQkVnX0drNjgzSEgzZXN4ZkVicmlUMGNFZWNyN1I2MkdueUxTdHNCMHFBajlHTHcyTS1rSw?oc=5",
-   "desc": "Steve Moore warns stubborn inflation could complicate Fed rate decision  WPEC",
-   "source": "US Fed",
-   "publisher": "WPEC",
-   "scope": "world",
-   "ts": 1792000271000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOelc5VXNDd2YxUTJ3azNadDQxU0I0aWdmTEN5WlZpeG0yRmF6NFZHTWRLNUgxbElYYklxOVV3NkZUaFlCUURMcTlUUzFtY2M1d1lWMTdMMmt6UWpSdGpLaElHVjR0ckVCb0c0NDBmcUo0cFkyQXZ",
-   "title": "Vietnam ramps up financial cooperation, policy dialogue at IMF-WB 2026 - VOV.VN",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOelc5VXNDd2YxUTJ3azNadDQxU0I0aWdmTEN5WlZpeG0yRmF6NFZHTWRLNUgxbElYYklxOVV3NkZUaFlCUURMcTlUUzFtY2M1d1lWMTdMMmt6UWpSdGpLaElHVjR0ckVCb0c0NDBmcUo0cFkyQXZHYzNIYzdsMEdMMG1yRUFxR3dyYjlqNlVySnMzVkI3OWRxZlE4bnRWZGEwb1ZZU2d3cWRYRW0ySmpKYWtMcWNoZ1VRV3Fz?oc=5",
-   "desc": "Vietnam ramps up financial cooperation, policy dialogue at IMF-WB 2026  VOV.VN",
-   "source": "IMF / World Bank",
-   "publisher": "VOV.VN",
-   "scope": "world",
-   "ts": 1791997320000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMnpQMkN5Z0RLWHVRUjA0RnV6bmVPQ3U1S0tJTkl2MTg1U0RFOC1uVzMwdnVhNTY2NXJWNUFtb0pHSU9MMWpDTWpTTzZnSHY3YnllR3VsRVh4TFhOM1RhUW0zeVh5bFdoMDdjd0t1RG1nbDdSZmJ",
    "title": "Inflation rises in the latest report. Will that move mortgage rates even higher? - Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMnpQMkN5Z0RLWHVRUjA0RnV6bmVPQ3U1S0tJTkl2MTg1U0RFOC1uVzMwdnVhNTY2NXJWNUFtb0pHSU9MMWpDTWpTTzZnSHY3YnllR3VsRVh4TFhOM1RhUW0zeVh5bFdoMDdjd0t1RG1nbDdSZmJEenUydEgtZm5GQU1Ba1FUMnlHdnduTTk3cGFxNUFFemRybVpqMGw4NnEwRHNwdHNIV2tvb0g4U2hnSDVrZVI2XzFEYmlLUl9seXZWdk1iX1ZwdU5KT3plSFBIZ0x6QVh1enR6Z2lHR0RwQ3lIVndMVVBLaFE?oc=5",
@@ -660,16 +870,6 @@
    "publisher": "Yahoo Finance",
    "scope": "world",
    "ts": 1791996296000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWF9jWFZKN0FTRXhfTk9vSWlNaXdwSmxvTVhoUDhoQUhrNERCWVRCRkY5OThpNjJESldRZ2xTbUpnOThTcHN5TzBjZUlib0VnVUxGUnA3OV9JQnJFYTZtYmxmajAwRk5mQTF5RHVITWQ3cnpvSHF",
-   "title": "IMF, World Bank launch 'Bangkok Blueprint' to fight cyber fraud - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWF9jWFZKN0FTRXhfTk9vSWlNaXdwSmxvTVhoUDhoQUhrNERCWVRCRkY5OThpNjJESldRZ2xTbUpnOThTcHN5TzBjZUlib0VnVUxGUnA3OV9JQnJFYTZtYmxmajAwRk5mQTF5RHVITWQ3cnpvSHFhVmRsZmFucGZCcDAtT1dvMkFzU3J4TEw4aVBwX3JYRDdRbVVn?oc=5",
-   "desc": "IMF, World Bank launch 'Bangkok Blueprint' to fight cyber fraud  Yahoo Finance",
-   "source": "IMF / World Bank",
-   "publisher": "Yahoo Finance",
-   "scope": "world",
-   "ts": 1791995297000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZVNuUHRLb1NmYVVxY3FtZmJEcDQ0R0dDR01lSkFBak9LNXF1eEUtMU1KbU96emhEZlhGbkEyRVNBUGRPX0l2YktramVIcXRhVFg2Nmp0VnE1MTJUclZpQndDbWdVRnliQ2psYnZYMWZFMjIwLWR",
@@ -752,24 +952,14 @@
    "ts": 1791987746000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMF9EZ2pSdUZBbU5udWJsS2pQdkUzN2JEYXZoZWppTFQwXzMwZGNqTUlQOExuNnl2NXlZS3RnRDFrUE1tRXJfZFlPS0lVZjNpakNjX3FFRUxaczYzSHZ0Tzg3NURoYk80NHlzdThJZW9aXzVjUDN",
-   "title": "Vietnam strengthens financial cooperation at IMF-World Bank annual meetings - Vietnam+ (VietnamPlus)",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMF9EZ2pSdUZBbU5udWJsS2pQdkUzN2JEYXZoZWppTFQwXzMwZGNqTUlQOExuNnl2NXlZS3RnRDFrUE1tRXJfZFlPS0lVZjNpakNjX3FFRUxaczYzSHZ0Tzg3NURoYk80NHlzdThJZW9aXzVjUDN0Uy1YQmV1S25kU3ZPeWkzM213aFNDZmtlTW9uTW5ZZjBOZUN1WHBXVkhwbDRXczBvd1owY0NuMTBJQm5hOWFBbHc?oc=5",
-   "desc": "Vietnam strengthens financial cooperation at IMF-World Bank annual meetings  Vietnam+ (VietnamPlus)",
-   "source": "IMF / World Bank",
-   "publisher": "Vietnam+ (VietnamPlus)",
-   "scope": "world",
-   "ts": 1791987518000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FZG5ja19PajNwd0ZuN0hfc0t4cUR4bkk1aThKcFVKXzc1aWs3SGFITUNYRTNtcVRtTjhNSEVubG15eUxDR2doQnZDT05Gc3RYUWFoam16RWlHVjZUcU5CdGtPQ0FVNDlOTU9OZg?oc=5",
-   "title": "Hotter inflation could force Fed to move rate hike plans to October - HousingWire",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FZG5ja19PajNwd0ZuN0hfc0t4cUR4bkk1aThKcFVKXzc1aWs3SGFITUNYRTNtcVRtTjhNSEVubG15eUxDR2doQnZDT05Gc3RYUWFoam16RWlHVjZUcU5CdGtPQ0FVNDlOTU9OZg?oc=5",
-   "desc": "Hotter inflation could force Fed to move rate hike plans to October  HousingWire",
+   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOFNneG1DSDhXQ0k5a0IwNi1PMGhmTzZKQnp1NmUwQ1FwU1pqU3JGaml6Q0N4V0J0Y3g0d0FxX2hwTXhpYUR6TXd3UzZVWWJtN01GMmlCek8tZ05jNERDeEtZRk45ZzlQNFUwWTBQc3BRSVNXQ0t",
+   "title": "Can gold hold $4,000 with an October rate hike still in play? - Kitco",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOFNneG1DSDhXQ0k5a0IwNi1PMGhmTzZKQnp1NmUwQ1FwU1pqU3JGaml6Q0N4V0J0Y3g0d0FxX2hwTXhpYUR6TXd3UzZVWWJtN01GMmlCek8tZ05jNERDeEtZRk45ZzlQNFUwWTBQc3BRSVNXQ0tGWTdKVWlSWlppTGV5aURJWkFxemE4ZFV5aWZvYXpEY2NJbw?oc=5",
+   "desc": "Can gold hold $4,000 with an October rate hike still in play?  Kitco",
    "source": "US Fed",
-   "publisher": "HousingWire",
+   "publisher": "Kitco",
    "scope": "world",
-   "ts": 1791986727000
+   "ts": 1791986880000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjFBS2VCcVdzTVR4T3ItamNwSWJLRlpWRmtMOENhVmc0RkZNbllQRlRqQjVaY2FieW1LTUVhWXJnaHNocTRJMTdTbFN6WWZPbTQySHp6LTVyLVBkSnl4QVU0eXJLMXJuOEc1T3Y3Q1lIZUs5RUJ",
@@ -822,6 +1012,16 @@
    "ts": 1791985560000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4bHNNV2RDVHVrUTJTbDVCVzVDU2NSc0lxN0tNdEVFaUl2WEpTQzUzSDk0OFdpQ0pBXzBEeXREZXBPUHhYZUNQQjFWOWhkM1UtdTBzMjR5azdmeXRUVE1KdzQ2WG9lZ2NySkRkdlBYSQ?oc=5",
+   "title": "Inflation heats up as gas prices surge - Axios",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4bHNNV2RDVHVrUTJTbDVCVzVDU2NSc0lxN0tNdEVFaUl2WEpTQzUzSDk0OFdpQ0pBXzBEeXREZXBPUHhYZUNQQjFWOWhkM1UtdTBzMjR5azdmeXRUVE1KdzQ2WG9lZ2NySkRkdlBYSQ?oc=5",
+   "desc": "Inflation heats up as gas prices surge  Axios",
+   "source": "US Fed",
+   "publisher": "Axios",
+   "scope": "world",
+   "ts": 1791985530000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVzNzT3F6RjJZVUtoZ0Npa0I4Z3ZLN0h4cDFUT3c5N28yOXdpMThMc3RnNGN4ZThBZkgtaXdmR0twX3pGS2plUTVJSEtObEQ1R29UUktWWkV3c0pqN0N6Wk5aaTdVRTZ6OTJ2SnNQVU5hWFRBSUx",
    "title": "Inflation worsened last month to 3.7% as midterm elections near - PBS",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVzNzT3F6RjJZVUtoZ0Npa0I4Z3ZLN0h4cDFUT3c5N28yOXdpMThMc3RnNGN4ZThBZkgtaXdmR0twX3pGS2plUTVJSEtObEQ1R29UUktWWkV3c0pqN0N6Wk5aaTdVRTZ6OTJ2SnNQVU5hWFRBSUxwTGxCN1Y4dFNwNVh4eDh0WHJxSjUweU1uMmw5cDJFb1pCZUkwTzg2MGcx0gGmAUFVX3lxTFBOSzJhUVluSm9IX0IxVTdFM0hiTzBONU1NMTNaV0Etdno0d2RKOC1VTVB5VGluak9VMkR5aDNPWjJ2MlN1MWlFQTRCX3NzNlMya0V5WVU5T0s3ZTM4UHo2ZHBZei1wbGVIY1E1U1RZWFZteGNqYnBBSjRWb0dyNGh5VTQzcDIycDZFNHhlcWVWeUdpNHA0Q2JzMkZMSXNtWmRFOWMwbGc?oc=5",
@@ -842,54 +1042,14 @@
    "ts": 1791984840000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYXpFWllUc1VtYnVlbm5BaVV5VHdhaURaVVRKTHF6bVR5RzE4M0huaGNwRkRqZjFUaGRnNHd5YmsySDNIeEVPcUFsaDNZZE81VzZzT2Y5WHBkOVlrWUdoZjNJZ0pxV1dvUFIwSTVoUlV3OUhoNWt",
-   "title": "September CPI: Inflation Shrugs Off Fed's Rate Increase - Seeking Alpha",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYXpFWllUc1VtYnVlbm5BaVV5VHdhaURaVVRKTHF6bVR5RzE4M0huaGNwRkRqZjFUaGRnNHd5YmsySDNIeEVPcUFsaDNZZE81VzZzT2Y5WHBkOVlrWUdoZjNJZ0pxV1dvUFIwSTVoUlV3OUhoNWtJWVhGV0pibUJJTW9NQzJ1U09yZXZ2d3RJZHM0bzg5RGkyNThn?oc=5",
-   "desc": "September CPI: Inflation Shrugs Off Fed's Rate Increase  Seeking Alpha",
+   "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FMXpUcl93NDJoWTh1Ml9wUkFPcnVWUFhYSy1QZ2sxc2I2c1VSTFdQbjdDNlQteVBJdzVMVEVJbDNMQk10cFRoazd1bV9oOGxpQ2taLTJ6NGxQbmVfQTd0VVU3eF82aEtHWURpRFJ3TU1iNFc0d3R",
+   "title": "Inflation rose to 3.7 percent in September: BLS - The Hill",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FMXpUcl93NDJoWTh1Ml9wUkFPcnVWUFhYSy1QZ2sxc2I2c1VSTFdQbjdDNlQteVBJdzVMVEVJbDNMQk10cFRoazd1bV9oOGxpQ2taLTJ6NGxQbmVfQTd0VVU3eF82aEtHWURpRFJ3TU1iNFc0d3RqWlNn0gF_QVVfeXFMTm5qRm10YllWRGdDcmpnMHBuVGZpdFprVW1XSGdBVEpjcGdVeWxrQlpvcnFyd0F1Ti0yM0NPXzRkYU9tdURpLXR2RGtaUlN6ZVJsYWJneXJwYUxPUFJLZThSNm5zX0FRb0JVbGZrNDJCRS1fYnZOSEE2M2w4ckh6WQ?oc=5",
+   "desc": "Inflation rose to 3.7 percent in September: BLS  The Hill",
    "source": "US Fed",
-   "publisher": "Seeking Alpha",
+   "publisher": "The Hill",
    "scope": "world",
-   "ts": 1791984001000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4bHNNV2RDVHVrUTJTbDVCVzVDU2NSc0lxN0tNdEVFaUl2WEpTQzUzSDk0OFdpQ0pBXzBEeXREZXBPUHhYZUNQQjFWOWhkM1UtdTBzMjR5azdmeXRUVE1KdzQ2WG9lZ2NySkRkdlBYSQ?oc=5",
-   "title": "Inflation heats up as gas prices surge - Axios",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4bHNNV2RDVHVrUTJTbDVCVzVDU2NSc0lxN0tNdEVFaUl2WEpTQzUzSDk0OFdpQ0pBXzBEeXREZXBPUHhYZUNQQjFWOWhkM1UtdTBzMjR5azdmeXRUVE1KdzQ2WG9lZ2NySkRkdlBYSQ?oc=5",
-   "desc": "Inflation heats up as gas prices surge  Axios",
-   "source": "US Fed",
-   "publisher": "Axios",
-   "scope": "world",
-   "ts": 1791983971000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTExxZWNmaXM5ODlJS0l1V1htN3AtaGRvX0FMUkNjT3M4U2RrZkRxQS0wNXFtUnRNTlVIdjhjMG1Pb0hTN2dWMGtGRHBuZzFFLUhKTEE2R0dTWWZSaERjSFhYOC1wSkxNZzRveVg2VEdSTmVRaXh",
-   "title": "Inflation rose to 3.7 percent in September: BLS - WJHL",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTExxZWNmaXM5ODlJS0l1V1htN3AtaGRvX0FMUkNjT3M4U2RrZkRxQS0wNXFtUnRNTlVIdjhjMG1Pb0hTN2dWMGtGRHBuZzFFLUhKTEE2R0dTWWZSaERjSFhYOC1wSkxNZzRveVg2VEdSTmVRaXhfRi1qZzcwSjZSMEJ5MUtGcTNDVHfSAY8BQVVfeXFMTi1HbjlsNDBSOXkxdGVuOHJfaGhmN2hXLW5RdHB1RHJGWjQ3aVV3NW9OMV9qMXlSa0NVeGFKQnZXUEQwbmFLY3lORGdNVWlTbFFYaGV2bVJLQVloSjFSSDZIdE8wa0xDY2pHa0c5b2FwREgxbUEwYkNFb05kaEhLR2NlM3hHX0hBQkk1emlib2s?oc=5",
-   "desc": "Inflation rose to 3.7 percent in September: BLS  WJHL",
-   "source": "US Fed",
-   "publisher": "WJHL",
-   "scope": "world",
-   "ts": 1791983495000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdFhIUUFudm9NdEZkQWNIQl9XMThCbml3bzBDb3MzdjU4aU5XSFJjQ0pVNE5wVXdXVW5BMUwwc2F4QmNZTjg3czloY3g1S3NvVUduTUlTamtpWGRjVEVGMFFWZzcxSVVmRFlWT3B6VGJGV2N2cTV",
-   "title": "IMF chief urges US and wealthy nations to rein in debt to ease global economic pressure - ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdFhIUUFudm9NdEZkQWNIQl9XMThCbml3bzBDb3MzdjU4aU5XSFJjQ0pVNE5wVXdXVW5BMUwwc2F4QmNZTjg3czloY3g1S3NvVUduTUlTamtpWGRjVEVGMFFWZzcxSVVmRFlWT3B6VGJGV2N2cTVvMVZMSTdPYmd2eS1uS1lDOG1SQWgxV0hGVl9vc3htbFBuV9IBngFBVV95cUxOTk5ETDltdUtxN0lfWVhBem0zRnZ4Z1Zkall5ZDlqMTRkWEpkX1dabXRScV85VnZxM29fSUxGVFp4ek5lNlEyQkp2U0F6eW5RSjNFYmoteW9wVFU3VFl0bG9qS21ucWxkZE1oa3cxdkJzd25wUVBoYzJYYzQ3RDI0cmp4VVo5MDEyR19vQ2ota1ZMVW1BeVdZQzk5R2ZQQQ?oc=5",
-   "desc": "IMF chief urges US and wealthy nations to rein in debt to ease global economic pressure  ABC News - Breaking News, Latest News and Videos",
-   "source": "IMF / World Bank",
-   "publisher": "ABC News - Breaking News, Latest News and Videos",
-   "scope": "world",
-   "ts": 1791983174000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnZvWTVxLUxhRUljaVcxSmQ2QnZ1dHJVTlRvb1ZySXhmX0Y4ZGNMUnBiVHhDRUIyaW5tV2FObWxjSC01ZXFvMFlGUkNnMFpyWExNbTM5dEhNS3djdlpNVmFLeG5CbUhxREdzTTBXdmF5T0ZwbUF",
-   "title": "UK calls for fundamental reset of global financial system for developing countries - GOV.UK",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnZvWTVxLUxhRUljaVcxSmQ2QnZ1dHJVTlRvb1ZySXhmX0Y4ZGNMUnBiVHhDRUIyaW5tV2FObWxjSC01ZXFvMFlGUkNnMFpyWExNbTM5dEhNS3djdlpNVmFLeG5CbUhxREdzTTBXdmF5T0ZwbUFXMXJUenhEU0ZzV2FlbUwzcFR6eEJrRmFDUzZfYy1hbkNMNmdrWHFjaU9rLXo1REN1RElrc3JFcHh0blNFZ25KZXp4?oc=5",
-   "desc": "UK calls for fundamental reset of global financial system for developing countries  GOV.UK",
-   "source": "IMF / World Bank",
-   "publisher": "GOV.UK",
-   "scope": "world",
-   "ts": 1791982185000
+   "ts": 1791981480000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdWZtS0xqaFZ6VVJLclNhOWJUMmdheTl3TmhrTzhIb2lxOXltX2JyTTNvUDVxczVqTV9DdXRmeTBDdVlKcWFJbF82VkFrbUFKZjloUEhsTHY4WWhaTVlYMmlKekNPMEliZDBRZUxjSXIyYl9kQWV",
@@ -942,6 +1102,26 @@
    "ts": 1791977700000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbml2dk1zdzdvcFFqd09yb3dPc0Z2TGdza1N6cFV2c3RwVzQzUlBNMHpkOElJRFV5NzJFaE5BeGNMQnFzQ2J3R3lxbnBhejNVeE1Ec1ZkR2ExbXRUS2Z2N1RkMmhIeGVEdUdSMGhFRmlEOVIwYVd",
+   "title": "IMF urges members to stock up funds for low-income, vulnerable states - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbml2dk1zdzdvcFFqd09yb3dPc0Z2TGdza1N6cFV2c3RwVzQzUlBNMHpkOElJRFV5NzJFaE5BeGNMQnFzQ2J3R3lxbnBhejNVeE1Ec1ZkR2ExbXRUS2Z2N1RkMmhIeGVEdUdSMGhFRmlEOVIwYVd6Wm40MmZYTF9zOEcwWk44YVlJMG5WUzhsNEJZb1dzVko2RHZB?oc=5",
+   "desc": "IMF urges members to stock up funds for low-income, vulnerable states  Yahoo Finance",
+   "source": "IMF / World Bank",
+   "publisher": "Yahoo Finance",
+   "scope": "world",
+   "ts": 1791976213000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUWMwRjVOM2NIcWx0WlFHQ3ZISGhaV1dwaG1Zajl4UFBfdVVDQjZJclhQVVFWandvNGpVdC1QOWNtTURkSjVHOGhNNmU3U3lKLVFqNXlJVEk2NEFQQndaNVhHOWJrcVlPcWFrcGtZS2RJdmJWaGc",
+   "title": "Global financial system is failing developing countries, says Ed Miliband - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUWMwRjVOM2NIcWx0WlFHQ3ZISGhaV1dwaG1Zajl4UFBfdVVDQjZJclhQVVFWandvNGpVdC1QOWNtTURkSjVHOGhNNmU3U3lKLVFqNXlJVEk2NEFQQndaNVhHOWJrcVlPcWFrcGtZS2RJdmJWaGc2MjhsR0F1SkJHSHZ4QzhGblNrUGY3UElXX216Q2txbk45UTI5ZmpEU3JJSUVhZk9mQWd0Sk5DT3pZU2JoUTBCVm9rU3VzZnJqdF9ocFlwYU1seFNxcUY?oc=5",
+   "desc": "Global financial system is failing developing countries, says Ed Miliband  The Guardian",
+   "source": "IMF / World Bank",
+   "publisher": "The Guardian",
+   "scope": "world",
+   "ts": 1791975960000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWEyT2NsSHZWbmZlZzNLaHp3WFpnenpCaUVDWTRYZEprVXJobWVGS2lNd3Y1VEN1bDFJUUlVZGtIWGlDb1B4YW9UdlY1RHRXS09ZazFpTjFkYTZJWTVaRVhvMUxvbkxXWEFTVEFNc1pORUVRaEp",
    "title": "NBFC Stocks Slide up to 5% as RBI's New CRR Rules Spark Borrowing Concerns - India Infoline",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWEyT2NsSHZWbmZlZzNLaHp3WFpnenpCaUVDWTRYZEprVXJobWVGS2lNd3Y1VEN1bDFJUUlVZGtIWGlDb1B4YW9UdlY1RHRXS09ZazFpTjFkYTZJWTVaRVhvMUxvbkxXWEFTVEFNc1pORUVRaEppbng4OTFsX0RVVGNPNkxyRl9LYldLOUNwaFBaZ3hwQjhtdWR1TTFINkg5UWMybHo1QVNSeWFHWU9CZFVmbVhSNlly?oc=5",
@@ -970,26 +1150,6 @@
    "publisher": "The Economic Times",
    "scope": "india",
    "ts": 1791972666000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TX01HcjJ5SG1tRTVwd1NoRTRoalQxMHMzb1RDNlBobERvMUZ6MGtMdEJaQzFjOXU0X2diWl9DTUZtVVBRZUhKb3E3cXg0Q1VJLWJGekRZVTh3dw?oc=5",
-   "title": "Top CD rates today, Oct. 14, 2026: Lock in up to up to 5.20% - Fortune",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TX01HcjJ5SG1tRTVwd1NoRTRoalQxMHMzb1RDNlBobERvMUZ6MGtMdEJaQzFjOXU0X2diWl9DTUZtVVBRZUhKb3E3cXg0Q1VJLWJGekRZVTh3dw?oc=5",
-   "desc": "Top CD rates today, Oct. 14, 2026: Lock in up to up to 5.20%  Fortune",
-   "source": "US Fed",
-   "publisher": "Fortune",
-   "scope": "world",
-   "ts": 1791972060000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPREFLLUd3cmVoaVBiQ0FhZGRELUNTRm9WQTFIMkZrcU1xUkJWV2Z6cUt1R01DZHNLVzNETXExSlJoajFzVFlhREpCMVhHek0wOVh3THM3VXNfb2xkdlZJV25kZVdqMDZpRjQ4b0RaMms2NENualF",
-   "title": "Thailand IMF Global Economy - WV News",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPREFLLUd3cmVoaVBiQ0FhZGRELUNTRm9WQTFIMkZrcU1xUkJWV2Z6cUt1R01DZHNLVzNETXExSlJoajFzVFlhREpCMVhHek0wOVh3THM3VXNfb2xkdlZJV25kZVdqMDZpRjQ4b0RaMms2NENualFZQkxoZThBM2Nxdmt3a3I0NWRzclBXdlNGZ0xFVE41R1JaWTh6R2lHeXhuRGFqYzhieTBIUms1Smo5ZHBXUQ?oc=5",
-   "desc": "Thailand IMF Global Economy  WV News",
-   "source": "IMF / World Bank",
-   "publisher": "WV News",
-   "scope": "world",
-   "ts": 1791971739000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYURYZEFKTVRvS1czSHBJOVZvOHk2Y3JzUnF5d0RRUDVBbVZydi1lU2NmMjhsVGZiNE8wYU5GdHBCS01MbF81eHh2ZzRsVUwzdmgtbFUzOTJOckV2WmR4NVF3ZjJ1ZEFoRFNfaU10SlpYeURfN2J",
@@ -1022,16 +1182,6 @@
    "ts": 1791970217000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yTzdFNXhSSVVORTNuNmRPRHFKcGhkVTJ5ZzJLTUdKWE5fY3ppSFBSLU5HQ1VaZjEtYmVUT3phV2FveVRDdXdxRm5vSWJtN1dwUGswS2xlYlN4dXo2RGswYmlYQTBvNE5YZWE3ak1zd1ZZN3E5Rkp",
-   "title": "IMF calls for US to cut deficits amid bond woes, China to shift away from exports - Yahoo! Finance Canada",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yTzdFNXhSSVVORTNuNmRPRHFKcGhkVTJ5ZzJLTUdKWE5fY3ppSFBSLU5HQ1VaZjEtYmVUT3phV2FveVRDdXdxRm5vSWJtN1dwUGswS2xlYlN4dXo2RGswYmlYQTBvNE5YZWE3ak1zd1ZZN3E5RkpLSDV6ZDJpYVU?oc=5",
-   "desc": "IMF calls for US to cut deficits amid bond woes, China to shift away from exports  Yahoo! Finance Canada",
-   "source": "IMF / World Bank",
-   "publisher": "Yahoo! Finance Canada",
-   "scope": "world",
-   "ts": 1791969785000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQW1yb2FtWmpPNjh3ZEZVSnBmblJFYjFCUHF2eTF3R3dTV1lOZlQzVFFKakdVWndUU1BIbkhxcGJYWE5yeWp2SEZrQUR2WGtsMklRbUdDUVJ0QWlkd0plbFpuckFHd2Yycmo3ZGhXd3E2WFBwcDN",
    "title": "IMF chief urges urgent fiscal action as global economic resilience reaches limits - Anadolu Ajansı",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQW1yb2FtWmpPNjh3ZEZVSnBmblJFYjFCUHF2eTF3R3dTV1lOZlQzVFFKakdVWndUU1BIbkhxcGJYWE5yeWp2SEZrQUR2WGtsMklRbUdDUVJ0QWlkd0plbFpuckFHd2Yycmo3ZGhXd3E2WFBwcDN2UmNZNXhyaHZhTjAyQWNuWlRrX21WdFMtdl93dlBsN3hWeURtU0VSeTBra3BuR3ZQdnhWQ1dFelU1NGdmSEhaaHNsOGE0WQ?oc=5",
@@ -1050,156 +1200,6 @@
    "publisher": "سانا",
    "scope": "world",
    "ts": 1791968851000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN3Q1QzJWYlRTRUZaeEZIMmZ0SWgxbTdCQVNoSVdjR0RmVE1EaEZPLTNpS2ZzMGpqQUZiN3BPdVkwWFVRaHp5dThIM1g0RGJsZEpLVEJvcmtZc0NJMjh5QVdjSWxVaDU1MWozQ2R3QTR4RjJ2RlN",
-   "title": "Trump’s Latest Effort to Fire Fed Governor Lisa Cook Underscores Political Motives - The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN3Q1QzJWYlRTRUZaeEZIMmZ0SWgxbTdCQVNoSVdjR0RmVE1EaEZPLTNpS2ZzMGpqQUZiN3BPdVkwWFVRaHp5dThIM1g0RGJsZEpLVEJvcmtZc0NJMjh5QVdjSWxVaDU1MWozQ2R3QTR4RjJ2RlNzVExxOFQxTVpvOFNpYk84Z21RZ3FBRk8yNW8tQQ?oc=5",
-   "desc": "Trump’s Latest Effort to Fire Fed Governor Lisa Cook Underscores Political Motives  The New York Times",
-   "source": "US Fed",
-   "publisher": "The New York Times",
-   "scope": "world",
-   "ts": 1791968547000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQUzNLSHB6WjFwQ3hkNjVwN256N0FOYWVaMGdlREQwOTRWWk1PR085WUhUTm9XSkt2Vm5nbXhNeG1ZMjJ6VVViWm1tVnNuN3BqY0JQMWZsRjZLSTRoc2V6LUtpMkNoSVRmem5XTXVqV25xZy11R0t",
-   "title": "IMF chief urges US and wealthy nations to rein in debt to ease global economic pressure - Toronto Star",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQUzNLSHB6WjFwQ3hkNjVwN256N0FOYWVaMGdlREQwOTRWWk1PR085WUhUTm9XSkt2Vm5nbXhNeG1ZMjJ6VVViWm1tVnNuN3BqY0JQMWZsRjZLSTRoc2V6LUtpMkNoSVRmem5XTXVqV25xZy11R0tyb3RaUFRaXzhjUHNaZW1DdGQ2cmM4azI3MENtSmJtdTNmXy1QQl91QmtmQk9uR0JRYUxmUlc3NEtrckRQcW0yQU9ETTUtTVVYSG1aYVVUVjBLV0s0aU5Oc25RUnQwa3dpX1czcjJVem5zTm04Z0RTYXBhN19oS0oxVVkwZ25uQUkwOVJrV0t1VE9XWVRwWVdPR1hUX2lIM2tj?oc=5",
-   "desc": "IMF chief urges US and wealthy nations to rein in debt to ease global economic pressure  Toronto Star",
-   "source": "IMF / World Bank",
-   "publisher": "Toronto Star",
-   "scope": "world",
-   "ts": 1791967810000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYnFEWDZYZWM1OHI3NXljT2ZZX3FVSS1EYzF5Z2w2REkxNU5kX3ZjbjM4LWhkWHBzZGVLT0RGdEdKaWowOHFuNy1ySEpvTFI2LTl4V0tFd3lSVXozOHFtOGNDUDVPYW91QjVtSllvUEtxU25Od29",
-   "title": "IMF chief urges the US and other wealthy nations to rein in debt to ease global economic pressure - Bozeman Daily Chronicle",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYnFEWDZYZWM1OHI3NXljT2ZZX3FVSS1EYzF5Z2w2REkxNU5kX3ZjbjM4LWhkWHBzZGVLT0RGdEdKaWowOHFuNy1ySEpvTFI2LTl4V0tFd3lSVXozOHFtOGNDUDVPYW91QjVtSllvUEtxU25Od29CcUdZU3liM1g2aUhCbFFKMHVrckxvY21ITERJd3FndzAyU1hxeEVWamh3cE11ZDJKdEc0QnMwNkU4aVpua25QX2FIUUVxTS1ocXpPN0J1REY3Tk9OTTdvWXdySE0tcFQ5QVhHMU0tNDFKSzBjektLQlVCeGhVLTNiazZ2NUVzZ1lzdHVGb19VdHNWSFNaUA?oc=5",
-   "desc": "IMF chief urges the US and other wealthy nations to rein in debt to ease global economic pressure  Bozeman Daily Chronicle",
-   "source": "IMF / World Bank",
-   "publisher": "Bozeman Daily Chronicle",
-   "scope": "world",
-   "ts": 1791967558000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ3ZGZC1vd251elJQckNnb0YwdzFXRVpaWWc5aVc0Wml0eEdCM2hxcXlOb1JzTldHTmRkSXN6WEJUbkpWZHRpMG5xdUF2YkxZeEdRWHdJaVpoVkJ4SlNtNWdZOXBZNEhrc3QyNE5EZEdLQVRDMUp",
-   "title": "IMF chief urges the US and other wealthy nations to rein in debt to ease global economic pressure - The Independent",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ3ZGZC1vd251elJQckNnb0YwdzFXRVpaWWc5aVc0Wml0eEdCM2hxcXlOb1JzTldHTmRkSXN6WEJUbkpWZHRpMG5xdUF2YkxZeEdRWHdJaVpoVkJ4SlNtNWdZOXBZNEhrc3QyNE5EZEdLQVRDMUpKUkpVMC1uUURFNVpxMnFFeHVRdlU3TGF1eExDQ1FoakJuWEJFZ0VLQUVkaExqZGQyRzJiQQ?oc=5",
-   "desc": "IMF chief urges the US and other wealthy nations to rein in debt to ease global economic pressure  The Independent",
-   "source": "IMF / World Bank",
-   "publisher": "The Independent",
-   "scope": "world",
-   "ts": 1791967500000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNS2dxRFByZ1U5Y01oLV8wOVR1dVdHMWtXQjhPWVVaakUtS1VtNXJ0amZYWC1aLWRlUnNQX19iREpIRzhxT3hGSnVIZjI5d1FibTNoaGpFMEpFd1YxTkZhSU90UFVGVGN2QlZYbEZEeWl6amhlSk5",
-   "title": "IMF chief urges the US and other wealthy countries to rein in debt to ease global economic pressure - AP News",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNS2dxRFByZ1U5Y01oLV8wOVR1dVdHMWtXQjhPWVVaakUtS1VtNXJ0amZYWC1aLWRlUnNQX19iREpIRzhxT3hGSnVIZjI5d1FibTNoaGpFMEpFd1YxTkZhSU90UFVGVGN2QlZYbEZEeWl6amhlSk5xZk1zaEJIUmhXNWVtRXBRNTVmT2tYVDlDLTg1M3ZuVlZIX0UxcU9vUUtBVkZSZzNraVhYa2wtS21ZMlRFTzZjWEV6RGgtSC1hN1NVUVBMZGZDUWYxR1g0X3loN0RMRUxnY1RlbVdjLWd1WkIxNkhVTnlFdEtKWE9B?oc=5",
-   "desc": "IMF chief urges the US and other wealthy countries to rein in debt to ease global economic pressure  AP News",
-   "source": "IMF / World Bank",
-   "publisher": "AP News",
-   "scope": "world",
-   "ts": 1791967440000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGpvUDdIdTNfdGktXzF0VnBRTEZFXzRKUU9qU2VTZXp4S19fZTJKcnFSRVg1V0p2SGNyMkZLckdhTVF4RXNaOU5OOGl1aUFmRTV3U1c0ZEwtaEhzTHU2VWxQbkp3Wmw4eUdVb19EMGYwdFBqb3R",
-   "title": "The global economy and the art of living dangerously - Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGpvUDdIdTNfdGktXzF0VnBRTEZFXzRKUU9qU2VTZXp4S19fZTJKcnFSRVg1V0p2SGNyMkZLckdhTVF4RXNaOU5OOGl1aUFmRTV3U1c0ZEwtaEhzTHU2VWxQbkp3Wmw4eUdVb19EMGYwdFBqb3RTalpjSnBaMXlfTzdQdFE?oc=5",
-   "desc": "The global economy and the art of living dangerously  Financial Times",
-   "source": "IMF / World Bank",
-   "publisher": "Financial Times",
-   "scope": "world",
-   "ts": 1791966618000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSSEViUU5wRlJZS18ycGZHeHFwT2VCV2VZMWFKUDlYdHZScktmenlHMDBQWXUyNHdESTB1TlY4WGNMemJfa2FEVm4zZzBBbEhrbE5xcVhuM2Nob3NDWWhXc3BfWGk2cDQ4MXZoYWtyaU9JR3Zpenc",
-   "title": "South Korea Earns Top Grade in Basel Committee's Bank Capital Regulation Assessment - BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSSEViUU5wRlJZS18ycGZHeHFwT2VCV2VZMWFKUDlYdHZScktmenlHMDBQWXUyNHdESTB1TlY4WGNMemJfa2FEVm4zZzBBbEhrbE5xcVhuM2Nob3NDWWhXc3BfWGk2cDQ4MXZoYWtyaU9JR3Zpenc?oc=5",
-   "desc": "South Korea Earns Top Grade in Basel Committee's Bank Capital Regulation Assessment  BigGo Finance",
-   "source": "Global Banking",
-   "publisher": "BigGo Finance",
-   "scope": "world",
-   "ts": 1791966300000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRnlzaU4xWFNQM2VJRlliUURrOEdsR2VCaW1mQkNDcFF1VjhMS1dRMmdSOFBnMnZiYXBGTUV2dG81OU5oVEN5UVpab2FJMktKemthVS1wbldMZ1VNRnhfcnVXbG9jTkE3ZllncWdwcTNXMkVuQkt",
-   "title": "Declining oil reserves and rising debt threaten global economy: IMF - Egypt Independent",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRnlzaU4xWFNQM2VJRlliUURrOEdsR2VCaW1mQkNDcFF1VjhMS1dRMmdSOFBnMnZiYXBGTUV2dG81OU5oVEN5UVpab2FJMktKemthVS1wbldMZ1VNRnhfcnVXbG9jTkE3ZllncWdwcTNXMkVuQktLdE1VWV9YX2hUQ0dLb2JERnVTRncxbWlCalBiMkk5dlBVNUY2MjVTR2hMRWc?oc=5",
-   "desc": "Declining oil reserves and rising debt threaten global economy: IMF  Egypt Independent",
-   "source": "IMF / World Bank",
-   "publisher": "Egypt Independent",
-   "scope": "world",
-   "ts": 1791965779000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeWlOMVZkTXFneS11NU5JRmVDeTdWSE9mZk1HbWozc2R2d3RiRUwwMTN3MkNOYmQ0cVpIZ3JSbmlfZjVzQmxhV0ctMFdEZzlZcFdwTHBHZm5iM0Y0NXlZQWNMMHlxT2lEOHkxR1FIeWl0ZE0taHZ",
-   "title": "Press Briefing Transcript: Global Policy Agenda, Annual Meetings 2026 - International Monetary Fund | IMF",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeWlOMVZkTXFneS11NU5JRmVDeTdWSE9mZk1HbWozc2R2d3RiRUwwMTN3MkNOYmQ0cVpIZ3JSbmlfZjVzQmxhV0ctMFdEZzlZcFdwTHBHZm5iM0Y0NXlZQWNMMHlxT2lEOHkxR1FIeWl0ZE0taHZKc2FHYmNWd0l6ZldWR0ZQdlJxemFCLW4ybUNTUWxmVHpVcUpOdWpfMjVPZXhPbUpsUFkzbTkwb2tJSkNyZ0g0Yi0zei1ZZjVSZl9TUQ?oc=5",
-   "desc": "Press Briefing Transcript: Global Policy Agenda, Annual Meetings 2026  International Monetary Fund | IMF",
-   "source": "IMF / World Bank",
-   "publisher": "International Monetary Fund | IMF",
-   "scope": "world",
-   "ts": 1791965412000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDhDbzVWMkttSkd6WDhLekkySGdjdVlzQ0hlamlhQUh5QzI3WldUWUhCUlB2UWw2MTZ0cS1QS0VTNkVlNzJkLUdvZ0VubVAtbDdKVHVSUk05R2RseEt1NmRIaTdOOGhiWUZ2VG5aY21EVzRCMjV",
-   "title": "PIMCO stays neutral on Indian assets, sees RBI hiking rates by 75 basis points - Traders Union",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDhDbzVWMkttSkd6WDhLekkySGdjdVlzQ0hlamlhQUh5QzI3WldUWUhCUlB2UWw2MTZ0cS1QS0VTNkVlNzJkLUdvZ0VubVAtbDdKVHVSUk05R2RseEt1NmRIaTdOOGhiWUZ2VG5aY21EVzRCMjVGOS1ONUxGWXlpdjBYYy12cU5ueDNRM2plMHZDSlFRLTV3dVh1eFp4QnJK?oc=5",
-   "desc": "PIMCO stays neutral on Indian assets, sees RBI hiking rates by 75 basis points  Traders Union",
-   "source": "RBI",
-   "publisher": "Traders Union",
-   "scope": "india",
-   "ts": 1791963685000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNHpETFFRMjFxcV90SW84V25wTGRBWmVGeDlOeFhJM01FTEZsbHBBTW9DcENkQ1BjakpkcTd4RkZaS2NqeUljY1ExS0VYcnpYaTRpa1czZF9nRTVHc1JueEsxZEVzM1Y0WHVnV1Fjc2szXzB5YXB",
-   "title": "KBank and Techsauce host a side event at the IMF–World Bank Group Annual Meetings 2026, bringing together global leaders to advance Thailand’s sustainable economic growth through capital, technology, and people - Techsauce",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNHpETFFRMjFxcV90SW84V25wTGRBWmVGeDlOeFhJM01FTEZsbHBBTW9DcENkQ1BjakpkcTd4RkZaS2NqeUljY1ExS0VYcnpYaTRpa1czZF9nRTVHc1JueEsxZEVzM1Y0WHVnV1Fjc2szXzB5YXBMcF8xM1ZaRjl0VXR3SlZOenBkZ2c?oc=5",
-   "desc": "KBank and Techsauce host a side event at the IMF–World Bank Group Annual Meetings 2026, bringing together global leaders to advance Thailand’s sustainable economic growth through capital, technology, and people  Techsauc",
-   "source": "IMF / World Bank",
-   "publisher": "Techsauce",
-   "scope": "world",
-   "ts": 1791963469000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcHc0eEFTOENtaXltWDJMdE1Dd0lJdHNRNkJyU2llNHFEMFgxa0FLeC1mWjg3OWJ0Nms0Z3ZFakxRb2R0dk1CSlRvYVZDRG8xeF95SjdtSzNEbkp4dmVIb2pGUkU2cEhMZGJUWEk4ejZ4LVp0QWJ",
-   "title": "PIMCO neutral on Indian assets, eyes 75 bps in interest rate hikes, exec says - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcHc0eEFTOENtaXltWDJMdE1Dd0lJdHNRNkJyU2llNHFEMFgxa0FLeC1mWjg3OWJ0Nms0Z3ZFakxRb2R0dk1CSlRvYVZDRG8xeF95SjdtSzNEbkp4dmVIb2pGUkU2cEhMZGJUWEk4ejZ4LVp0QWJoclhybGF5empSQUtSOTBTWWpiSWY1OUZZb2JBbG9RQ0lHMGxvbEVpR3UyMnpIRHprcVozWXhGcXZVTlF0XzVNVUV2?oc=5",
-   "desc": "PIMCO neutral on Indian assets, eyes 75 bps in interest rate hikes, exec says  Reuters",
-   "source": "RBI",
-   "publisher": "Reuters",
-   "scope": "india",
-   "ts": 1791963224000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONXVBTVhMOFhCQ2ZzeFJFWWlUa2lGYjJ6ZjhNd01oeno2VXBJaDM5d1l2WG9mVVI5UWZvaWhDdmhkcmcyRTFoOVFQVG5zZEhfS3FJeUpRWklvV0lPbEJDT1QwVE9UYU4ydUZxZkoxTGRxMThwMEx",
-   "title": "India new issue-SIDBI accepts bids for over 3-year bonds, bankers say - marketscreener.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONXVBTVhMOFhCQ2ZzeFJFWWlUa2lGYjJ6ZjhNd01oeno2VXBJaDM5d1l2WG9mVVI5UWZvaWhDdmhkcmcyRTFoOVFQVG5zZEhfS3FJeUpRWklvV0lPbEJDT1QwVE9UYU4ydUZxZkoxTGRxMThwMExvOHEtRE5XZXAwNmNaT21NTHRYX1VFeHhjc0szS2ZUOWtwUDByaHRCdkdkaEVscFpKMEQyVTRlYnVLWFZ2d3lSR24wY0hhZklB?oc=5",
-   "desc": "India new issue-SIDBI accepts bids for over 3-year bonds, bankers say  marketscreener.com",
-   "source": "SIDBI / MSME",
-   "publisher": "marketscreener.com",
-   "scope": "india",
-   "ts": 1791963135000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaGJtN2ZmaFc3SHhOaDFWM05vaFN5Z2ZVTUdnTTFaMmw1QTFKelJUT3ZkeXVqVkRFbGlxNGtzRUJFODZhc3BVR3kwdDltU0t0eF9hQ3dQdUdlUno2aEVCQmVSRG1ReHVNZDhXRjNnVnl2VVBDTW5",
-   "title": "RBI Opens Special Dollar Window for Three State-Run OMCs - Construction World",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaGJtN2ZmaFc3SHhOaDFWM05vaFN5Z2ZVTUdnTTFaMmw1QTFKelJUT3ZkeXVqVkRFbGlxNGtzRUJFODZhc3BVR3kwdDltU0t0eF9hQ3dQdUdlUno2aEVCQmVSRG1ReHVNZDhXRjNnVnl2VVBDTW5SOE44QURCM0V5alhGalhUYlpTb0o4ZjJ0Wm55dXNYbnFqdWlaWnJJQ2ZsNnU2VWpNQUdkdmRrdWR0SFNGdXdnM1kzcUtqUjdWWU9tRjg4REkw?oc=5",
-   "desc": "RBI Opens Special Dollar Window for Three State-Run OMCs  Construction World",
-   "source": "RBI",
-   "publisher": "Construction World",
-   "scope": "india",
-   "ts": 1791960843000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdmJQQkQzR1ltai1xWThYcmJGMW12VEFVb0JOUEh6NDkzYkFlVjRMYzVqTktNQUVmbFpmYUd0S1l2SHdaT1VFV3lVSEpJQkhkTmxUVWJkckJqbEtYWEZVWVFjck83T2NLa25uazRvXzAtQ3JoYkJ",
-   "title": "IMF urges members to stock up funds for low-income, vulnerable states - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdmJQQkQzR1ltai1xWThYcmJGMW12VEFVb0JOUEh6NDkzYkFlVjRMYzVqTktNQUVmbFpmYUd0S1l2SHdaT1VFV3lVSEpJQkhkTmxUVWJkckJqbEtYWEZVWVFjck83T2NLa25uazRvXzAtQ3JoYkJsSnB5ZFdYRkdiQVZIaWdtT0VLUkE0OXZJcFJoaldkRV9jZVdPM2VOdmkxbDRUUkw4QVFMVW5XdGU1clJLcGhjbWs?oc=5",
-   "desc": "IMF urges members to stock up funds for low-income, vulnerable states  Reuters",
-   "source": "IMF / World Bank",
-   "publisher": "Reuters",
-   "scope": "world",
-   "ts": 1791958380000
   }
  ]
 }
