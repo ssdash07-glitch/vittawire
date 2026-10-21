@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-21T20:14:15.892186+00:00",
+ "updated": "2026-10-21T23:26:52.660128+00:00",
  "items": [
+  {
+   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNDFRcjVGR1dFZll1N2lZRU1QNVhHOTZsQjRfck1RSkdBeWRfaERCaHI4ZFAzZUdEWHdPZl9DRDNkVENGN3l5MkZ6NjNaQUhXZkQyTHh2WXpQSUlVOWNZSkRnWUc3eDJoX1VVbmg1S3RBaTNEWm8",
+   "title": "RBI MPC Minutes Signal More Policy Tightening - Deccan Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNDFRcjVGR1dFZll1N2lZRU1QNVhHOTZsQjRfck1RSkdBeWRfaERCaHI4ZFAzZUdEWHdPZl9DRDNkVENGN3l5MkZ6NjNaQUhXZkQyTHh2WXpQSUlVOWNZSkRnWUc3eDJoX1VVbmg1S3RBaTNEWm84SnhDU1dteUt2ekVhUzRLYkRnQ3JuNHZPSFFrcjNMdnotZm9n0gGfAUFVX3lxTE8zekVYY0prUjk2cjZNZS1TdlA4SVZHQktocDlPYWctRXhBbW91M3BBcDhZWGZRc20yMDByXzl4LUFnSGJ5a0VEWGxXWGk4Y3FTY3VhRTc1NWMzbkFVUmZqdnNvQ2RhWm1FUVpjM1BENHdpemdJUktIcTdyTnY5SzZjMzVTS3JyN3h2eFE1ZXdSRXFVNU1rdkliTU84blhORQ?oc=5",
+   "desc": "RBI MPC Minutes Signal More Policy Tightening  Deccan Chronicle",
+   "source": "RBI",
+   "publisher": "Deccan Chronicle",
+   "scope": "india",
+   "ts": 1792614981000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjd0MnBra0dYZ0NDUy1vb0p1enhvNUtYM3J2V3FmMTBXbVhyZ3FfWFVzdFhnMGlhbkxWbTBtMXI0eEViT0lja2EtNE5WNEI3V1lwX1Q3UTRVSHgwQUtzckF6SWpsMmR4MlFoNFZDV0d2d0hNa2p",
+   "title": "Questioning Past Debt: When Refinancing Costs Erode Fiscal Space – Analysis - Eurasia Review",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbjd0MnBra0dYZ0NDUy1vb0p1enhvNUtYM3J2V3FmMTBXbVhyZ3FfWFVzdFhnMGlhbkxWbTBtMXI0eEViT0lja2EtNE5WNEI3V1lwX1Q3UTRVSHgwQUtzckF6SWpsMmR4MlFoNFZDV0d2d0hNa2p3aVNHT3hxU3EwU1B0V01MbHJfcFlMaENDckJ2dlJUcUpKZkZuRWliak10SjZtX09jOXB0MzNfWmVpcjBB?oc=5",
+   "desc": "Questioning Past Debt: When Refinancing Costs Erode Fiscal Space – Analysis  Eurasia Review",
+   "source": "IMF / World Bank",
+   "publisher": "Eurasia Review",
+   "scope": "world",
+   "ts": 1792614128000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVVhiNnNvSzlrcTh1Sk53QWlQU0tVZXk0TjItdnNEa2hKMVNKSTdmUVhNWnAtcUE2YTFpRVhCV2VzaFQ0ZVJHOHA5ZWdvb1ZvcGFvSk1zZ3BnMl9OSnpNLUVhUWM0amw4anNNcWx1ZF9WZVBaLVN",
+   "title": "Gold Steadies as Conflicting Iran Signals Cloud Path for Rates - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVVhiNnNvSzlrcTh1Sk53QWlQU0tVZXk0TjItdnNEa2hKMVNKSTdmUVhNWnAtcUE2YTFpRVhCV2VzaFQ0ZVJHOHA5ZWdvb1ZvcGFvSk1zZ3BnMl9OSnpNLUVhUWM0amw4anNNcWx1ZF9WZVBaLVNneDVxYUQ5ZW5BM2phZjNaVkxNS1Y5T21aNlhJT19SQ3VWR0NKbW9FQmZGTTk3UmRvNlZQSm93eFZiUVpKSQ?oc=5",
+   "desc": "Gold Steadies as Conflicting Iran Signals Cloud Path for Rates  Bloomberg.com",
+   "source": "US Fed",
+   "publisher": "Bloomberg.com",
+   "scope": "world",
+   "ts": 1792613491000
+  },
   {
    "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVktxVXJXOERmOHpPRzRKNXN1VUk0N214UlRpVkl0YldRNlVLTDRZTk0tdTZGMjZpbkR5cUE2T0xRcVVVNGlnMGdBR3g3X1oxenUzbkwzeTZFQmx6YUM3c184YXJpNUdxbGVYX0dkbW1jNTZQcmx",
    "title": "RBI flags widening inflation risks, puts rate cuts on ice - The Economic Times",
@@ -20,16 +50,6 @@
    "publisher": "MillenniumPost",
    "scope": "india",
    "ts": 1792605471000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTlhiQWJQZmozWDJudk5PRHp0MmY5Q2kwdVZVZkdDa0ZJY0ZmbTdKYXF4N1lIeF92Rjd2TWlLTjRWUFJRVVR0UnRhOVhFME9mZ1NLQUl3QUtENzJ6NFVMZ3VCQU5UX1hIemR2OTg5SzlTWjQ1Z2U",
-   "title": "October MPC minutes: Rate cuts off table as members flag rising inflation - Business Standard",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTlhiQWJQZmozWDJudk5PRHp0MmY5Q2kwdVZVZkdDa0ZJY0ZmbTdKYXF4N1lIeF92Rjd2TWlLTjRWUFJRVVR0UnRhOVhFME9mZ1NLQUl3QUtENzJ6NFVMZ3VCQU5UX1hIemR2OTg5SzlTWjQ1Z2U3SUgzVWdsVkYyUjVSTEZMUV9pazBOcHUtNmMzeHI3Wmh5QXVuaFhaM1FxZGM2cVg5U1pQYWFWMWVoM3M1WG9XUXd3eGE5WWJRQWxOamx5Z1NCSFBRdVlWb1Qyc2RVVzh6aGVXckpYaUHSAeMBQVVfeXFMTzJveTdOb0xKMnZnei1XcTRuRHZfZnBkYTVZS3lFYjFKaElFZ2J4X2Q3VzB4UC1Pa2VKWGk0N1o2UElweGw4YlVXS295djU5ektZU2Q2ZzI4OGxYZjAyWXBiUW11UXN6ckxJNmFQUTZXZ0dlOVJIenRsOFNpN2lvc1VTYm1VelVYZE4wN1V3Vy1nSmcyTkc4VVdqd1dEeloyM1BETXFjUl9TanFwcXREbHQwelBwc2hPbzFEYmFTRE80X3pyaktoZ25PYlNCTmQ1WFpidTNibGZsTkZ2S01FT1NwNUU?oc=5",
-   "desc": "October MPC minutes: Rate cuts off table as members flag rising inflation  Business Standard",
-   "source": "RBI",
-   "publisher": "Business Standard",
-   "scope": "india",
-   "ts": 1792604371000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMGFGeGdEb1ZobVdYZVpNSld0bDRBUVphZGhYaGRTQldDUWlTSFZrcFpoZlIyd2tHVFNtUkZUdl80M0tnZ0RoOHRhcXA5ZTc0ZVcweUZGM3lyV0N5WFpMQW1uZVpWaHNzUDg2ME5XbU9wRDhHUml",
@@ -62,6 +82,16 @@
    "ts": 1792603192000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiVXF2eDlTX0MwUXhDbjJUX2FpTXF0d3A1ZTc4WGFWUEdHS21pdFJ4NGVpZmtxcUkyTmV3bkI4LXc4TTdMUUZqby1SNkVFcmJyMFowaVV4enU1RUFEMEZyanczci1yTGh2X3BnZTllbzE4NUJfemd",
+   "title": "SpaceX lifts mood but hot inflation limits gains - inkl",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiVXF2eDlTX0MwUXhDbjJUX2FpTXF0d3A1ZTc4WGFWUEdHS21pdFJ4NGVpZmtxcUkyTmV3bkI4LXc4TTdMUUZqby1SNkVFcmJyMFowaVV4enU1RUFEMEZyanczci1yTGh2X3BnZTllbzE4NUJfemdLUXR1eFBEaUE?oc=5",
+   "desc": "SpaceX lifts mood but hot inflation limits gains  inkl",
+   "source": "ECB / Europe",
+   "publisher": "inkl",
+   "scope": "world",
+   "ts": 1792600354000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaWtiTnl5aXRyc1VjZ2JRNzRHdlh2VUFLNlNVdXVCQWNHcjF0WnBTaTgwdWoxRjkwOGc0Ql9IcG83U1hsY0ttcEE0bjdLSW5wUXFKNmU1WUlYNTFVOU1mS0ZvS0MtQlNQaDFianp4VFExUFVNYUN",
    "title": "RBI MPC flags widening inflationary pressures; two members oppose hawkish stance - The Hindu",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaWtiTnl5aXRyc1VjZ2JRNzRHdlh2VUFLNlNVdXVCQWNHcjF0WnBTaTgwdWoxRjkwOGc0Ql9IcG83U1hsY0ttcEE0bjdLSW5wUXFKNmU1WUlYNTFVOU1mS0ZvS0MtQlNQaDFianp4VFExUFVNYUNFanRoeFBIcmNfNkhsYUZVTDV2VWVvV0gwSTFpOFdqd2dVVVRwS0FEOHpJRzhLY0N4WHpFOGl2NzJJRml0T01leEJjNmFCMUU5MXhDNzRObjRfMWt6ZjhOQdIB1AFBVV95cUxNUFo1d25GS2sycENRUnFraE40OGNzel9OazhYaFJsXzRuZFR2dkpoYVRZSDlZSG5MRUh5VU8tMklUU09TbDVtV3lSLWQxSzdaRkFaSXN0NkdiSk5FV1VkYlpkd0M0NGI2bk1UV1p2ejdETDhkV20xbjJrOGNkUFFwcVNpR3A2b1czdVpTenVqaUNrcm1haFA2S0xXM19yM2k0Ymp4VXZ5YnJrNk5oNXBIMTIwdGR0MFBENVhoYjdkdWktUExwNFZObGl3WGF5RjNsYS02bQ?oc=5",
@@ -73,9 +103,9 @@
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWtIUi04U3c4eEZ2Wm9BQTBkUElYNWdNVGk2WmZEZE16ZHlaN1B5V0hYbm5lZXVLR3NPZmxES25admZ3WkF2XzUtUUVyTlNISVRJdmdBeXM2MU1KejhLdUdVNWN2ZDJPWnVHcFVDX0szalcwWkl",
-   "title": "Translating the Costs of AI to the World, with the IMF and Arundhati Roy - Policy Magazine",
+   "title": "Translating the Costs of AI to the World, with the IMF, the World Bank, and Arundhati Roy - Policy Magazine",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWtIUi04U3c4eEZ2Wm9BQTBkUElYNWdNVGk2WmZEZE16ZHlaN1B5V0hYbm5lZXVLR3NPZmxES25admZ3WkF2XzUtUUVyTlNISVRJdmdBeXM2MU1KejhLdUdVNWN2ZDJPWnVHcFVDX0szalcwWklTenB4VlR1TEtEZjBCQ183WDJwX2FyOTNfVjhqaUFnRnQzQ2FBT2pNWUpOYVFOSg?oc=5",
-   "desc": "Translating the Costs of AI to the World, with the IMF and Arundhati Roy  Policy Magazine",
+   "desc": "Translating the Costs of AI to the World, with the IMF, the World Bank, and Arundhati Roy  Policy Magazine",
    "source": "IMF / World Bank",
    "publisher": "Policy Magazine",
    "scope": "world",
@@ -122,6 +152,16 @@
    "ts": 1792591720000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTlhiQWJQZmozWDJudk5PRHp0MmY5Q2kwdVZVZkdDa0ZJY0ZmbTdKYXF4N1lIeF92Rjd2TWlLTjRWUFJRVVR0UnRhOVhFME9mZ1NLQUl3QUtENzJ6NFVMZ3VCQU5UX1hIemR2OTg5SzlTWjQ1Z2U",
+   "title": "October MPC minutes: Rate cuts off table as members flag rising inflation - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTlhiQWJQZmozWDJudk5PRHp0MmY5Q2kwdVZVZkdDa0ZJY0ZmbTdKYXF4N1lIeF92Rjd2TWlLTjRWUFJRVVR0UnRhOVhFME9mZ1NLQUl3QUtENzJ6NFVMZ3VCQU5UX1hIemR2OTg5SzlTWjQ1Z2U3SUgzVWdsVkYyUjVSTEZMUV9pazBOcHUtNmMzeHI3Wmh5QXVuaFhaM1FxZGM2cVg5U1pQYWFWMWVoM3M1WG9XUXd3eGE5WWJRQWxOamx5Z1NCSFBRdVlWb1Qyc2RVVzh6aGVXckpYaUHSAeMBQVVfeXFMTzJveTdOb0xKMnZnei1XcTRuRHZfZnBkYTVZS3lFYjFKaElFZ2J4X2Q3VzB4UC1Pa2VKWGk0N1o2UElweGw4YlVXS295djU5ektZU2Q2ZzI4OGxYZjAyWXBiUW11UXN6ckxJNmFQUTZXZ0dlOVJIenRsOFNpN2lvc1VTYm1VelVYZE4wN1V3Vy1nSmcyTkc4VVdqd1dEeloyM1BETXFjUl9TanFwcXREbHQwelBwc2hPbzFEYmFTRE80X3pyaktoZ25PYlNCTmQ1WFpidTNibGZsTkZ2S01FT1NwNUU?oc=5",
+   "desc": "October MPC minutes: Rate cuts off table as members flag rising inflation  Business Standard",
+   "source": "RBI",
+   "publisher": "Business Standard",
+   "scope": "india",
+   "ts": 1792591051000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORDBTUHpXdWpXM3JUXzJxcnRmNXJDcmJMT2tGbWszc3lQRkg1a1MyRk9XOU1LdDc3aEJ6T3ViaG9OQmRTUXNZQ2xiN2lJdTNqdldxR1dOdE8zVmg4cjRDa3Bva2thWEJEb3ZGeURsQ05TVWVTUXl",
    "title": "RBI rejects all bids at Treasury bill auction as short-term yields surge - Business Standard",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORDBTUHpXdWpXM3JUXzJxcnRmNXJDcmJMT2tGbWszc3lQRkg1a1MyRk9XOU1LdDc3aEJ6T3ViaG9OQmRTUXNZQ2xiN2lJdTNqdldxR1dOdE8zVmg4cjRDa3Bva2thWEJEb3ZGeURsQ05TVWVTUXlkekFQenVhWXFqM1hRbTJoWEZWaE5NVHJRSEJ1SUJoU1g5U2xWVEF3V3NDdDU1czRKd1MyTVBubGszVlIyVGNremxXaDRpTWZTQmMtQllTN2g2ajdJemJvMGVPdE9nblp30gHbAUFVX3lxTE54TkhEckEyRUVEYjVyaTdDLUZ6Q05PMVIybnA3MUhfYTB5TFhWRGtIYjdLeXY0OURjblI5UEl6Yjc3RjZqTE92SXlqeVEtVFBLNDUzZzJJTUdfRVh0MVF0aFY0NlJCRHJsbkZiYlFkcGxGR0xhNS1ocUZsdWZRakF0S1Y0eVh6WWpuTm5OX0dqSnhIdTBLLW95OFk0cy1VMG9LVWVTT0xYME42YUJNeGRwQmkxUl9KdWR1ZWNpSWM1LVFBdlFDN3VoVnJPLXRHb2ZWN0ZJb0JEQ05haw?oc=5",
@@ -160,16 +200,6 @@
    "publisher": "Zee Business",
    "scope": "india",
    "ts": 1792590317000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWXMxTEU4RFN5czZoT1BHVGhOY255S3lRQkgtUWNkem15Sy00ODFwdC1peGJrNW9tQU1WeXNOampUdDRac1NYYmJqVWFLNlc2LWw0U2NoYnBZZFlkV3dONTI3bmEwRlF2R2JVdnR5dDBfb3ZQNlh",
-   "title": "Future Rate Hikes to Depend on Growth and Inflation Trends, Says RBI Governor Sanjay Malhotra - Revoi.in",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWXMxTEU4RFN5czZoT1BHVGhOY255S3lRQkgtUWNkem15Sy00ODFwdC1peGJrNW9tQU1WeXNOampUdDRac1NYYmJqVWFLNlc2LWw0U2NoYnBZZFlkV3dONTI3bmEwRlF2R2JVdnR5dDBfb3ZQNlhuaDlnU2dGYXEtRGpVU2Q1dEJjMG1GNmU4cC1uaUo5S1JFeE1uM1Q4djU0VEhjZHJ3YWxsbmxOMDZwTU0xWTRTenV0cVE?oc=5",
-   "desc": "Future Rate Hikes to Depend on Growth and Inflation Trends, Says RBI Governor Sanjay Malhotra  Revoi.in",
-   "source": "Indian Economy",
-   "publisher": "Revoi.in",
-   "scope": "india",
-   "ts": 1792588915000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX1B4M3ZJSnJrY00zdXhBTzlIcXAwbHhYNVFsRnd2MVZhcy00M2RhUjFsVFVMVlY0NjNLUUFaYmRTUUpvdzNxRkNrbUY5ZVJXVEFoQmxJUjFCTjBsQmVSdm1CVThZSVhfdDFyM3JSU3BtU2N5OVc",
@@ -220,6 +250,16 @@
    "publisher": "ANI News",
    "scope": "india",
    "ts": 1792586880000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMW5ZQ2drOU9mdFd1bE5NRGNWVFhHMVJORVpUMjlxVUUzcnlYckZlLUY4SnJTSnRGVFJlVHo5NEl5NWE1ZlJVQmxBZ2JOcHVpdHh4N3JGWWN3VzNxWTNLZ0ZiXzNrQllkcjRERFFJZFlfcDdnaEl",
+   "title": "Gold gains, silver slips as oil prices rise, Fed rate hike expectations persist - Kitco AM Report - Kitco",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMW5ZQ2drOU9mdFd1bE5NRGNWVFhHMVJORVpUMjlxVUUzcnlYckZlLUY4SnJTSnRGVFJlVHo5NEl5NWE1ZlJVQmxBZ2JOcHVpdHh4N3JGWWN3VzNxWTNLZ0ZiXzNrQllkcjRERFFJZFlfcDdnaElZSFRpT3JzOFdUZnNHM0x2VllSR0VQYzJqeTJ5NW5DYlpFTVh1eVVHMVNXcHlUbVh1cWJaMzBWTEJwcVltUzg5cVBhSWNySw?oc=5",
+   "desc": "Gold gains, silver slips as oil prices rise, Fed rate hike expectations persist - Kitco AM Report  Kitco",
+   "source": "US Fed",
+   "publisher": "Kitco",
+   "scope": "world",
+   "ts": 1792586704000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ0NFWHRIbzBiSDdEQ0s0V0tnbGpDamw0TlhpWjhRbmxVZlRKaGZjXzVtYlRYZ2VqZlI2UWpIbktBMTAyeUpxN05nMzdqb2hMQjg4SV9RSGdLSGViUUlrZGNiMTVyWXRJYU9jSEdxRzRGd3pqV3F",
@@ -292,6 +332,16 @@
    "ts": 1792584788000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSkhkN3dNd2F6ZEE0YUxWTGJIdXNZdlhISDFHNUpES1hHSVZkNGlRNFJxNHVrTHYtTkhnQUxEOWFkNWVyVTJXbXhUX1VUaktWbmZ2QXhTZHpySjJkQjVpbnQzV2QzVURTLThYWXRXTkc4dFJwTHo",
+   "title": "COMMENTARY: Why is capital leaving money market funds as rates rise?: Deborah Cunningham - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSkhkN3dNd2F6ZEE0YUxWTGJIdXNZdlhISDFHNUpES1hHSVZkNGlRNFJxNHVrTHYtTkhnQUxEOWFkNWVyVTJXbXhUX1VUaktWbmZ2QXhTZHpySjJkQjVpbnQzV2QzVURTLThYWXRXTkc4dFJwTHo5MGNFaGQ1N3BIZFdqX1JrU2E2OHYtVktfZURoWVJZcVF3N3BnaVc4WjZicFhYN0RUR2hHeHBITXZ5OTV0NHM5MXBKUXhTZ1RlY3FweEZjbklmWEJUcWlCdzZ1djdScUlsVQ?oc=5",
+   "desc": "COMMENTARY: Why is capital leaving money market funds as rates rise?: Deborah Cunningham  Reuters",
+   "source": "US Fed",
+   "publisher": "Reuters",
+   "scope": "world",
+   "ts": 1792584046000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTnhoNXZaT1h6S2t5azRMNzVBd01uQTdoX1pub1dyd1dzTVA2VGFKT3BvWGZkWm1lSUtudFBCMjBTcl9KbDI0SDZLWVF1UEdIdG1XQWs1NDV3UlBlTVBXR21sTzU5WE1fQlk2WDRmT0NOMWpWZ1Z",
    "title": "Jane Street appeal: SAT reserves order on plea for additional Sebi records - Business Standard",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTnhoNXZaT1h6S2t5azRMNzVBd01uQTdoX1pub1dyd1dzTVA2VGFKT3BvWGZkWm1lSUtudFBCMjBTcl9KbDI0SDZLWVF1UEdIdG1XQWs1NDV3UlBlTVBXR21sTzU5WE1fQlk2WDRmT0NOMWpWZ1ZXSmJFNUt1Yi15Yk5yNXQ1T2NBc0Fpa25RV2xVQktXU3EzWEI4Rm1yM1ZWVF8xRjJNLXAwV3hlU2lfQ3FheVhMUWY3c0lmTTFjczVjRWR3ekI1LVJoa3pFaERmS3ZtQ3NRUdIB3AFBVV95cUxNRTNFQ0RqNlF3cG9YaElpajNjc3VIbHdRb3N2MnNyNjJGcm0wVWhVa1Zkd1Z1UzMycnpOQ2MzYlpfZWVEaWxtSDhnSjBOaTZEZ1VWaDUwSUI3MUJjVXVzNVJRV2lENHMyZUxORnI3aE54Tm9ENFJTamhzMG50MFZZM2tPTUUwUEpKc25Mc0E5TVZuYzRsalJjU3YwbEtuM2dxUkYtVTlxWUhsaVFfTGdQS1I5U195SC1XOE55djdpVlNCWVBTREhSejBfU01WODdoekgwQkNVbDNuVUJY?oc=5",
@@ -330,16 +380,6 @@
    "publisher": "Reuters",
    "scope": "india",
    "ts": 1792577268000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VampROHVQZmhBSlo3QjVYRXE4N1dPSUlNM051UDJDZTJiTERSTjhTckhMd0lnSHJqeDVHU0pMUDBsWXg5bmFaNDFfc0drRUhDWElTUldkVlRBZw?oc=5",
-   "title": "Top CD rates today, Oct. 21, 2026: Lock in up to up to 5.25% - Fortune",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VampROHVQZmhBSlo3QjVYRXE4N1dPSUlNM051UDJDZTJiTERSTjhTckhMd0lnSHJqeDVHU0pMUDBsWXg5bmFaNDFfc0drRUhDWElTUldkVlRBZw?oc=5",
-   "desc": "Top CD rates today, Oct. 21, 2026: Lock in up to up to 5.25%  Fortune",
-   "source": "US Fed",
-   "publisher": "Fortune",
-   "scope": "world",
-   "ts": 1792576860000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORFo0b0o3aGxxNW1PRUlnbm1GN3pGTEhwVE9FaEVYMzBsTXpQaFZkZUk1Y05Ic2pIWEozUEVzLXRXY21FYnlFTjdqdC0wYWxtelBVa1NLMTVIemhKd1ZZTzhNME9BdVRobmtsOVlBOHpCb1N4czV",
@@ -392,10 +432,20 @@
    "ts": 1792575294000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZFA4YVlOa1pZTjVpZmR5RHBja0F3WDVjV09VQkN5b25Jbk5USVpmb1NadXByaTJQUEV0QVVQYVNvN2hHRkYyelljMjdkMEhmOVlxbEF0bTdHb2hpMjV5TkZiaUVFS05HeHVrRjRyd29ZYVlzRG5",
+   "title": "RBI Injects ₹1 Lakh Crore as Liquidity Tightens Ahead of Festive Season - Thekanal",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZFA4YVlOa1pZTjVpZmR5RHBja0F3WDVjV09VQkN5b25Jbk5USVpmb1NadXByaTJQUEV0QVVQYVNvN2hHRkYyelljMjdkMEhmOVlxbEF0bTdHb2hpMjV5TkZiaUVFS05HeHVrRjRyd29ZYVlzRG5XZTFHYXk0QXY5UlRTUGpHSHFDd0Y2NDBYWFRPWjEydVY4Q294TmUyUS1XVktyQ2dvenMwbnRBelE?oc=5",
+   "desc": "RBI Injects ₹1 Lakh Crore as Liquidity Tightens Ahead of Festive Season  Thekanal",
+   "source": "RBI",
+   "publisher": "Thekanal",
+   "scope": "india",
+   "ts": 1792574849000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ELWVaZUY4dlY2R29keXVKQURiRkhEajBGeDhnZlc0cVA2b2lkeDIyTGc0cXRQMFExeDhDVWZ1RHZmNTNOT0R3Q2t1NHExLVR0QndhYmNCTWRubEdpaDlLb2JxTzdzaGNzWWxhUWtWb9IBdEFVX3l",
-   "title": "Treasury yields steady as investors await jobless claims, mortgage data - CNBC",
+   "title": "Treasury yields steady as investors await jobless claims - CNBC",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ELWVaZUY4dlY2R29keXVKQURiRkhEajBGeDhnZlc0cVA2b2lkeDIyTGc0cXRQMFExeDhDVWZ1RHZmNTNOT0R3Q2t1NHExLVR0QndhYmNCTWRubEdpaDlLb2JxTzdzaGNzWWxhUWtWb9IBdEFVX3lxTE83MEdDTnFFbnpkaHRNQ0w3cGNNLVFGd1drb0dvcnpUNmVCdmNuNEUxaThGX1I0cGNKMmtfZnVKUDJyY3RfcVJ0QWpHLWxNbHBySmV2RkdSZ0tyaG1pNGpUdzNOd2F3WTJmbVE0SF9LejN2TkR0?oc=5",
-   "desc": "Treasury yields steady as investors await jobless claims, mortgage data  CNBC",
+   "desc": "Treasury yields steady as investors await jobless claims  CNBC",
    "source": "US Fed",
    "publisher": "CNBC",
    "scope": "world",
@@ -452,6 +502,16 @@
    "ts": 1792566450000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5odEhIQmJIX0gwdlotc1ZVNlhOSEVleUhySXlnRG1EN3BrS3l0eWVRMWJOa0swMnFCVU5sdTQ5d242ZWNVZkdIWmFmV2xPdnhqRGZVLTFRQXBlQUhnTExqX3B2TlBPdw?oc=5",
+   "title": "RBI Samvad Conference: CBSL Chief shares price stability lessons - The Morning",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5odEhIQmJIX0gwdlotc1ZVNlhOSEVleUhySXlnRG1EN3BrS3l0eWVRMWJOa0swMnFCVU5sdTQ5d242ZWNVZkdIWmFmV2xPdnhqRGZVLTFRQXBlQUhnTExqX3B2TlBPdw?oc=5",
+   "desc": "RBI Samvad Conference: CBSL Chief shares price stability lessons  The Morning",
+   "source": "RBI",
+   "publisher": "The Morning",
+   "scope": "india",
+   "ts": 1792565671000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fRzlJR0dodWdhb3NFc2xNN0Z3OXU2SnVGSVMtVFJSeUpnd1kyVTRjeWlnLVVqUUdmbXlIOEtJTU4zdjdZQlRqcHZLVmVPM1pGQzBRa0FyM2IxQ0d5all6bW1NRFd5QXlyellCdE5Nb1RCcDFvMkF",
    "title": "RBI has No Case for Listing Tata Sons - TheWire.in",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fRzlJR0dodWdhb3NFc2xNN0Z3OXU2SnVGSVMtVFJSeUpnd1kyVTRjeWlnLVVqUUdmbXlIOEtJTU4zdjdZQlRqcHZLVmVPM1pGQzBRa0FyM2IxQ0d5all6bW1NRFd5QXlyellCdE5Nb1RCcDFvMkFDV0R1MXdGTXPSAYQBQVVfeXFMUE1kMDE4U2Y4TXV6VG9Pem9mbXIwVXg1OTJOd1J2WTlPYmxLZ0hrT0V2Yk03MF9PN0tfdmlnbGFLUTNWNGs0SjVuRVdxZ0RuOWRoTEhEeTJzNm1IaXZXOW5QRG9naVNuTkdpMmtvQUt2V0J4cTl5enBsMFFlV1JnOFZ2Y3JM?oc=5",
@@ -462,19 +522,9 @@
    "ts": 1792564712000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVN1ZHR0cnNhYzVhSjFfX1F0MW5MSkhiemc0N0U3SHFoWkFSRHI5b2lLYnQ0NTVaSWVDd3NwdjE5ZVNJY1JTMmEtYXdrS05qSlVhU2RSTUhrSHFFVHd6SEt1TmVHeVlURWFxYWxMZDdtMGJjRzV",
-   "title": "Govt bonds sell off on oil shock ahead of RBI policy minutes - BusinessLine",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVN1ZHR0cnNhYzVhSjFfX1F0MW5MSkhiemc0N0U3SHFoWkFSRHI5b2lLYnQ0NTVaSWVDd3NwdjE5ZVNJY1JTMmEtYXdrS05qSlVhU2RSTUhrSHFFVHd6SEt1TmVHeVlURWFxYWxMZDdtMGJjRzVFUno4NDJVUUxFcDlyWDZUM1FCUmtibkZIWDRlcWtIcWc1aGphNEhZMGtIcHRyc3gzUjZuR1d0Snp3ckg1ZndLbTJpUG5JNjVpRTd4Y1nSAcoBQVVfeXFMTUtMTmpzdnF4cnBGa0E1UWtERF9XblFpM21YZzlQNm5qOG1TcnNIbHA3YXBSMHNPZmhpMTBORmN3MzJ6bWlZRUZ6eTl3Y3IzZ0RwTHNqVVdpTDZ5eXNnT0dyREZMYlE5Rlp3M0tVMnRubGV2X25sRnBLNVkzc1lseVljcF9DVGxVTVY1ZlNmUlFHcHdYV0wxd3hXNDZJTENVckxlSHNCYUk2bUdrSERsOTNxLXlZUlRQZWl5eDl6REFicm5aZGlDUEhPZw?oc=5",
-   "desc": "Govt bonds sell off on oil shock ahead of RBI policy minutes  BusinessLine",
-   "source": "RBI",
-   "publisher": "BusinessLine",
-   "scope": "india",
-   "ts": 1792558222000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWjRvWlVpX0pqWVhwYTAtTm9jMmdYN1hZaTVubVNMWTFlNkdWQ2t4QWgyVGpNNTFRLW9Uak1BVUp5bEpueTRiTGtYOWpMaURiLXNoWDFadGxNNk93Q1pLOEszWTZKTzNvR3ZoTTVGeUUwUkN4MDV",
+   "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRk9VWTNKbkJpNzhPOHY0eGJTaWN1ZTVldWU1bWdUQ3NZSHNIUlFhUWtRRjY1MHNqaVByYXFURDNFU3htOWNVZEdLOTBMT1hmUWkyTTdZdTlTZG9weEdPbGdkSGo2Mm9Na21ub0E2RHBhR0EyZXF",
    "title": "Indian bonds sell off on oil shock ahead of RBI policy minutes - The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWjRvWlVpX0pqWVhwYTAtTm9jMmdYN1hZaTVubVNMWTFlNkdWQ2t4QWgyVGpNNTFRLW9Uak1BVUp5bEpueTRiTGtYOWpMaURiLXNoWDFadGxNNk93Q1pLOEszWTZKTzNvR3ZoTTVGeUUwUkN4MDVCV0N6RHZ4SU92RGJzZDVENkIzMUgySENIclFHY3BwejNoZVp5VThNNjZVTzBiemUtRkczanZzcFlPeWF4a2k3SmNSNHUzSFRrdGFmVlRuaHYzSnNhUDZpS0pjaFJDbVp30gHPAUFVX3lxTE51NHlNa3BTOHRtZTdnV1hQalZnZjlsekpaRWVORlQwVENpVkt6S19XdEVfdEhOOWVkSnNfWmlEeEZicGhDRzg1V19EZjMzN3FiRG5oS1NEdlpxa0VZOERrZzBFdXBYMkQtWE00bFJOTU9URFVkSmZKZ0RZTGdEMzhFWDBQWVhEX01uRlptVVB1SzZRVE1CUU4tb0htdTZfdTJOZm1RbEJiNXN6SkRQYXBCblBRMGNrQXpJY0N2WG42ckF6VDBYXzQxeUIwVlVMaw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRk9VWTNKbkJpNzhPOHY0eGJTaWN1ZTVldWU1bWdUQ3NZSHNIUlFhUWtRRjY1MHNqaVByYXFURDNFU3htOWNVZEdLOTBMT1hmUWkyTTdZdTlTZG9weEdPbGdkSGo2Mm9Na21ub0E2RHBhR0EyZXFoRGo2RzZKNGhEZXpPZnl3dFFSeHZJYURNZmtSX2xTWWhvUnJ5dWN0QkJqTHJ0SlJjVVl0QzlOeXk2cm5feURNdGoxSVRoUmtrelRqVVNhR0tWSjZB0gHPAUFVX3lxTE51NHlNa3BTOHRtZTdnV1hQalZnZjlsekpaRWVORlQwVENpVkt6S19XdEVfdEhOOWVkSnNfWmlEeEZicGhDRzg1V19EZjMzN3FiRG5oS1NEdlpxa0VZOERrZzBFdXBYMkQtWE00bFJOTU9URFVkSmZKZ0RZTGdEMzhFWDBQWVhEX01uRlptVVB1SzZRVE1CUU4tb0htdTZfdTJOZm1RbEJiNXN6SkRQYXBCblBRMGNrQXpJY0N2WG42ckF6VDBYXzQxeUIwVlVMaw?oc=5",
    "desc": "Indian bonds sell off on oil shock ahead of RBI policy minutes  The Economic Times",
    "source": "RBI",
    "publisher": "The Economic Times",
@@ -492,24 +542,24 @@
    "ts": 1792557120000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUVNlYnQyb2VvNHdsYTBGRXVVTFE4ZTBTcWRjMkNjdk1qelFLZlNlaUx3S0NlTi13Uk51TVc0emtEaXJLVGg3YTFzZ3F4QUlQcUR1UXNmaTMyMUdLMndWcnFQdk1YRk91YnllN09zenJXWlY2N1F",
-   "title": "IMF Lending Capacity Flat for 14 Years as Global GDP Grows 56% - News and Statistics - IndexBox",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUVNlYnQyb2VvNHdsYTBGRXVVTFE4ZTBTcWRjMkNjdk1qelFLZlNlaUx3S0NlTi13Uk51TVc0emtEaXJLVGg3YTFzZ3F4QUlQcUR1UXNmaTMyMUdLMndWcnFQdk1YRk91YnllN09zenJXWlY2N1F3bDdrSGJpSW03TXBPeVR2eXRxZ05TSldxLVpOUkVHNkE5RFk1OGJrbmo3TVlOS05pUW01c2M?oc=5",
-   "desc": "IMF Lending Capacity Flat for 14 Years as Global GDP Grows 56% - News and Statistics  IndexBox",
-   "source": "IMF / World Bank",
-   "publisher": "IndexBox",
-   "scope": "world",
-   "ts": 1792557046000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2JnT3FMZnJMV0tnSk5uelg1LV80ZmVnMUlxZlY5UnRzXzFDa3V4M01KM2dXTzhXNXFDQ1ZueHRKeF81eF9JQlNJeWhXLWwwWGxHSGNFYVVETE9vUUVwVUVENHN3aEt5NFVHcWkzamxUbEVvRXV",
-   "title": "Gold hits near one-week low on elevated oil prices - CNBC",
+   "title": "Gold steadies near one-week low as oil-driven inflation fears grow - CNBC",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2JnT3FMZnJMV0tnSk5uelg1LV80ZmVnMUlxZlY5UnRzXzFDa3V4M01KM2dXTzhXNXFDQ1ZueHRKeF81eF9JQlNJeWhXLWwwWGxHSGNFYVVETE9vUUVwVUVENHN3aEt5NFVHcWkzamxUbEVvRXVTOWRpSUJkaHZNT0xlTEZxS0pRek04SWlRT3RpMDZLUDRNaVhNMFhtaDI5b3B5eNIBqgFBVV95cUxPUkhsQlNkclM5NUFNcXJWd1paMmpwNFJKTEFEWlN4TTZ6X0JaS3RhMFRwWU01TjB6bzN2STh2azh2OHI5bHJ1Zk1qS1U3VTZkZXRZdGN0SUlyQkFvbEFPNURvbUlTcVBOVjdKQi01NGtFbVdTeFdSWS04MlR4Qm1fTDdMSjFjejdzR0xSeXExM2d2MUtCWm4yUDFnSUEtN2N5Y251OWJCb0xJUQ?oc=5",
-   "desc": "Gold hits near one-week low on elevated oil prices  CNBC",
+   "desc": "Gold steadies near one-week low as oil-driven inflation fears grow  CNBC",
    "source": "US Fed",
    "publisher": "CNBC",
    "scope": "world",
    "ts": 1792554840000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZlcxNS1tWGllQWtudWNfeWNsbGFWV2Jkbk54eWNzbXAtcXhUX2RhYnVudmZQV2Q4akJCM1VLeEFSY1pLeFFYdGVmdU1jWU5LWkdialpXNXpwMlFHdE85S0hjTm9nU3JnZlcwclJaakpScUxkRFd",
+   "title": "A survey of 100 economists unanimously predicts another rate hike by the Federal Reserve in December. With action paused in October, persistent inflation and economic resilience have placed policymakers in a dilemma. - 富途牛牛",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZlcxNS1tWGllQWtudWNfeWNsbGFWV2Jkbk54eWNzbXAtcXhUX2RhYnVudmZQV2Q4akJCM1VLeEFSY1pLeFFYdGVmdU1jWU5LWkdialpXNXpwMlFHdE85S0hjTm9nU3JnZlcwclJaakpScUxkRFdjdFIwVmVoZDdIdGRHWElscUFfVlAtZEJ0NmlPeUFlNl93QnZZRHJfUTJ3MER1cGJMMlN1YS1T?oc=5",
+   "desc": "A survey of 100 economists unanimously predicts another rate hike by the Federal Reserve in December. With action paused in October, persistent inflation and economic resilience have placed policymakers in a dilemma.  富途",
+   "source": "US Fed",
+   "publisher": "富途牛牛",
+   "scope": "world",
+   "ts": 1792553287000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTW50dk9NZE9aaGFzX24yNmxGN19HMlRSd29NajBxMFVXdDQ5RUVHYUVGTVBFX21jZDM4bnNVVXVFVE1jOHowcUpVWHJnNUZkSEVxaS1samY5ems0MEtqUUJGWm9OS0dmZGp1bmVkcEp3cTVMbmR",
@@ -522,26 +572,6 @@
    "ts": 1792552020000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMFJzUm9KTHNGZURyZlpkSmFaM0x2Z0RrREpndGtnbVN1eGRrNVZEZjA4TDNPNHA0Q2gwOG9hR1ZfVWluZ1RzdjNySHRVT0F4ZFdzanRpdHlqM0xwZ2VmamV3T040SnFzSGJjZUZLOGxSbDA3OHd",
-   "title": "Gold turns higher as oil prices dip, investors eye Fed rate outlook By Investing.com - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMFJzUm9KTHNGZURyZlpkSmFaM0x2Z0RrREpndGtnbVN1eGRrNVZEZjA4TDNPNHA0Q2gwOG9hR1ZfVWluZ1RzdjNySHRVT0F4ZFdzanRpdHlqM0xwZ2VmamV3T040SnFzSGJjZUZLOGxSbDA3OHd6VG1wMlBXdFUtNHVPU3FHdno1MW0tS1k2LTB3THpXd29UUjN1Q3l1ZTV2SGlraHZRN3pHNm9CTkY2d0NjdnEyY1VPWENVdktYa0dCTlpNeHgzbjJ1X2c?oc=5",
-   "desc": "Gold turns higher as oil prices dip, investors eye Fed rate outlook By Investing.com  Investing.com",
-   "source": "US Fed",
-   "publisher": "Investing.com",
-   "scope": "world",
-   "ts": 1792546247000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14eDlhUGJyUmhLaE1FX1lLWVYyOTI2WjVYOGNRUnNCWVFXYzNuTUljZmRwLTc1Q1B1ekU5NVNpUkt5ZzF3eF9CVGRKQm9fM0ttbTQ2VlhxREczd3JYTXpCVnd5Y2tKaWtmX19wbTVBOVJGRmxsNHc",
-   "title": "Every 1% Fed Hike Adds $95 Billion a Year to U.S. Debt Interest, BofA Says - BigGo Finance",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14eDlhUGJyUmhLaE1FX1lLWVYyOTI2WjVYOGNRUnNCWVFXYzNuTUljZmRwLTc1Q1B1ekU5NVNpUkt5ZzF3eF9CVGRKQm9fM0ttbTQ2VlhxREczd3JYTXpCVnd5Y2tKaWtmX19wbTVBOVJGRmxsNHc?oc=5",
-   "desc": "Every 1% Fed Hike Adds $95 Billion a Year to U.S. Debt Interest, BofA Says  BigGo Finance",
-   "source": "US Fed",
-   "publisher": "BigGo Finance",
-   "scope": "world",
-   "ts": 1792537500000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYzRiY2RiU2FWbXp6U0U3ZDBUUkhEUTJtWnhxbUJmZU5rV0dHYnJTaFNxbzFsWHRNQmc3VTFWQkxHdTBWU1B4RHVOc1huTVNlTDZ4TjExQ1RXamdCdzdzMnFNNUphaDFfMW1WVzBkVEoySGJZbXh",
    "title": "Rupee Forward Premiums Jump 7.62% as RBI Tightens Forex Rules - BW Businessworld",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYzRiY2RiU2FWbXp6U0U3ZDBUUkhEUTJtWnhxbUJmZU5rV0dHYnJTaFNxbzFsWHRNQmc3VTFWQkxHdTBWU1B4RHVOc1huTVNlTDZ4TjExQ1RXamdCdzdzMnFNNUphaDFfMW1WVzBkVEoySGJZbXhoTk5zWVFsazEwQjhyMWVVUDFDRUJ5VWw1T2tfTHlYSGtlOTNsZjdZLUtoaDdXMGJlOA?oc=5",
@@ -550,6 +580,16 @@
    "publisher": "BW Businessworld",
    "scope": "india",
    "ts": 1792529007000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vXzJXWG1vZENiUXkzRC1rdXJZOUdoZmpaR2VOTHNfRm42SHFkbm10QUpfbldpRFpNbzdpV01NTUdQLUlNbXN6OWdEdzRTdEpZZVA2cW9RNnhHQWhSS0dQZ0kxajJSamsyRDFNSkt6OE43WHVVckE",
+   "title": "European Stocks Fall Again as AI Investment Concerns Hit Industrials; French Political Turmoil Keeps Bond Yields Elevated - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vXzJXWG1vZENiUXkzRC1rdXJZOUdoZmpaR2VOTHNfRm42SHFkbm10QUpfbldpRFpNbzdpV01NTUdQLUlNbXN6OWdEdzRTdEpZZVA2cW9RNnhHQWhSS0dQZ0kxajJSamsyRDFNSkt6OE43WHVVckE?oc=5",
+   "desc": "European Stocks Fall Again as AI Investment Concerns Hit Industrials; French Political Turmoil Keeps Bond Yields Elevated  BigGo Finance",
+   "source": "ECB / Europe",
+   "publisher": "BigGo Finance",
+   "scope": "world",
+   "ts": 1792528500000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR2tjbjdSUEFzMWZZXzVWM2ZCT2ZvUFl2elNqc25kZTVHLWliNGZkWjFSMFp4dnNNdHJ5T0xiYXFQeTh6Vi13dmlWTnU3eFZzeXB6VkdHeEtYNGpIU01ESDJCamFLTmJ2MW1VRkFpbWR5NFRGYUo",
@@ -582,14 +622,14 @@
    "ts": 1792518586000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaUhYQjRubUF3VUpLMW9sQVZRNUhqMi1mT3BpSm9fQXBfV3dRSVRITVN1alNPd19nNDNFQ2c0czFvdElCRjhkUWltaXFCNU1WM0h0a3lXc0J4UXAxOHVSYjdKYVpQYUJYSzliNUFTeUZfN1JQNFF",
-   "title": "The World Is Rewriting The Rules Of Economic Power – OpEd - Eurasia Review",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaUhYQjRubUF3VUpLMW9sQVZRNUhqMi1mT3BpSm9fQXBfV3dRSVRITVN1alNPd19nNDNFQ2c0czFvdElCRjhkUWltaXFCNU1WM0h0a3lXc0J4UXAxOHVSYjdKYVpQYUJYSzliNUFTeUZfN1JQNFF1bGEwc05HUktfeWt5UlRZZXZMZkU0V0lzZFRNSENfNldybVZubw?oc=5",
-   "desc": "The World Is Rewriting The Rules Of Economic Power – OpEd  Eurasia Review",
+   "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMlJKX0pTWVZiZHRTakd2MXEyT3lsSnR6REFqb0lrZnBhRW1OSUh2S2ZkMUpwdlBhVk9NR1JNLVdybW85Y0ExemNabzZqVUQ2ejlGcjFJaHJtZVZOV2tyOGR0SEVLZkh1SzVCZC0yLTZDaGRhbXJ",
+   "title": "NBK concludes its participation in 2026 IMF and World Bank Annual Meetings - Kuwait Times",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMlJKX0pTWVZiZHRTakd2MXEyT3lsSnR6REFqb0lrZnBhRW1OSUh2S2ZkMUpwdlBhVk9NR1JNLVdybW85Y0ExemNabzZqVUQ2ejlGcjFJaHJtZVZOV2tyOGR0SEVLZkh1SzVCZC0yLTZDaGRhbXJkRmxiQUxtTDZpbXR5bHV1bEJrRlVtSjJyQzRWbHJjU0FaZEJPQUEyZ0h0NUt0eENfUWpGekZPSUNsUmdEMU1jTFVwOEdwZ2swRdIBwwFBVV95cUxNeExyOTgxQ0YyWXF5dnFGb2lhcURwU0lqYklMbFdGdER5T2FIYUlXRl9lQnNOOGszeDFVNkNsaWdMV0NoUkRGUVlPOE9kSWdmckhzbndtRHlIR2Y1Rmh1cV9ubDBSUnJSOFFVdmhDb2tmZEU3bjlHemZFcWJNdDR6czRkNGt0eHk0VHlBYk8xTllHclRTYkc1S3I2d1M2WWtacmR3ZEVsMG9VOW5MV1J5RFU1anp6d0s1c0dpZzRjVGhhSlE?oc=5",
+   "desc": "NBK concludes its participation in 2026 IMF and World Bank Annual Meetings  Kuwait Times",
    "source": "IMF / World Bank",
-   "publisher": "Eurasia Review",
+   "publisher": "Kuwait Times",
    "scope": "world",
-   "ts": 1792516457000
+   "ts": 1792517175000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRzk3M09ZaWlrdnVVWF9teTM3ZThRcl9tMU9Ta2w5ZTZfTXFyc29hRWxSdm85YXU5VE1WTXhGSUlnd3ZLM0Q2cTVWZDMxMmRrRDltWTNRNmlrTE94ZHFOT294Q1ZmZGU0NDR5eXFncU9yTzBTLXp",
@@ -702,14 +742,14 @@
    "ts": 1792498150000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS1VOQU14Qk00T3dObF9CRk1sM01qQnhiTlpmZjc0NGhJdmxNcW02bms3WDQwV1AtT1hBaFJITndnTWY3N0g1cFhaU1VoTHFfT2dkVTZRZHNtZ185MEYtRF9NNmMwTVFPZENjbEh6QnhRM0F4Q0h",
-   "title": "Explained: What the U.S. Federal Reserve does, and why it matters to Australia - Ticker News",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS1VOQU14Qk00T3dObF9CRk1sM01qQnhiTlpmZjc0NGhJdmxNcW02bms3WDQwV1AtT1hBaFJITndnTWY3N0g1cFhaU1VoTHFfT2dkVTZRZHNtZ185MEYtRF9NNmMwTVFPZENjbEh6QnhRM0F4Q0hKVUdjUlZLZ29PNXVBYmhsUXdIWWttX2M3akdKQ2taY3lhQUxWNHI1bGs?oc=5",
-   "desc": "Explained: What the U.S. Federal Reserve does, and why it matters to Australia  Ticker News",
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQelhHcGY2Xy11bnNQZGc0T1RSTkpVNFZUWWZoZVh4LU1SM0IyallKOWhUeUJvSmtJcGNBdnNhejRFVHdaSjNSSTcwdTYwaFVNNkZMU1RTbGtUekFtSVJXVzVnN2FYN1REaWY5WW15WTQyMU9RNTZ",
+   "title": "Federal Reserve raises interest rates for first time since 2023 - AgUpdate",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQelhHcGY2Xy11bnNQZGc0T1RSTkpVNFZUWWZoZVh4LU1SM0IyallKOWhUeUJvSmtJcGNBdnNhejRFVHdaSjNSSTcwdTYwaFVNNkZMU1RTbGtUekFtSVJXVzVnN2FYN1REaWY5WW15WTQyMU9RNTZBRlpBQWt6WFV4TEpkTVhxaGE0MF9NbVVrb2pYcGVRVWpwZi1uU0lpNWVISzhqcTBqWXllZlZ2czJ1R2x3?oc=5",
+   "desc": "Federal Reserve raises interest rates for first time since 2023  AgUpdate",
    "source": "US Fed",
-   "publisher": "Ticker News",
+   "publisher": "AgUpdate",
    "scope": "world",
-   "ts": 1792495828000
+   "ts": 1792496700000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLTZTSUdaMURJRTdQUjFOeTFSNGpIenNnODdDMWp6RU5FUVZqUmhmTUZ1WENUZnNraGVkUzV1amRXdG5RTDNfWEhaLUJhcjhCdDlVeEdsY2xmX0YzdU13dGRkUjI3Nzl4X3Zud0hoMGlackk1cnB",
@@ -832,16 +872,6 @@
    "ts": 1792469520000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2lGczdXRXQwMUVKbGNvOEpPOS1aVlhoQ1F5VHBCMWpscm9HNmpTdkRjZ1FDTHZ6QUZTWTFCVlpuQUpINl9LM19GamViV096RnZISEUxU0gtSzlOQVQxRGtKc1BKMmwzNWpscmZ4SndkMHF1WUx",
-   "title": "UBS explains how looming Fed rate hike could impact your investments - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2lGczdXRXQwMUVKbGNvOEpPOS1aVlhoQ1F5VHBCMWpscm9HNmpTdkRjZ1FDTHZ6QUZTWTFCVlpuQUpINl9LM19GamViV096RnZISEUxU0gtSzlOQVQxRGtKc1BKMmwzNWpscmZ4SndkMHF1WUxMSnl0WEpONUR6TVc2a1dhOTlLVk9kRTA2dThNR1dWTGpEN1l3?oc=5",
-   "desc": "UBS explains how looming Fed rate hike could impact your investments  Yahoo Finance",
-   "source": "US Fed",
-   "publisher": "Yahoo Finance",
-   "scope": "world",
-   "ts": 1792460220000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVJCYm9CRFhWY01aUkRqYnVXb0RzRC1RUnhfOEFicHItalFBMnRMc0ZjcWRVcGNnZVg3ZXQ3WXNXeUZLN183enN0NFAtdmxuUHJhRU5jOHlQbTg1TldhNVdtbF9IWU1GZ1BfOEZvTnJpUEhGTE5",
    "title": "Gold edges lower as investors weigh Fed rate signals - Reuters",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVJCYm9CRFhWY01aUkRqYnVXb0RzRC1RUnhfOEFicHItalFBMnRMc0ZjcWRVcGNnZVg3ZXQ3WXNXeUZLN183enN0NFAtdmxuUHJhRU5jOHlQbTg1TldhNVdtbF9IWU1GZ1BfOEZvTnJpUEhGTE5xUkRSbl9FZVR4NlFJMEE2V1VYZ1hVRzk3SmpJMi1qelE?oc=5",
@@ -922,6 +952,16 @@
    "ts": 1792435176000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeU5Jb0xZUTV2b1Yxd0dsSHBTNFZHX2IwT2hzSlZhRUlZRjk1aGxaLXdZUnhVaHNjWFp3Uk1JbnhGRFdMTFZkWkV6cDZTcHJMTGdIRDdWd3JRSjVxNUhFa1RXT2NSanNqLXlSblBBRFRBSnU4Zkc",
+   "title": "Paycheck-to-Paycheck Consumers Continue to Struggle With High Interest Rates - PYMNTS.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeU5Jb0xZUTV2b1Yxd0dsSHBTNFZHX2IwT2hzSlZhRUlZRjk1aGxaLXdZUnhVaHNjWFp3Uk1JbnhGRFdMTFZkWkV6cDZTcHJMTGdIRDdWd3JRSjVxNUhFa1RXT2NSanNqLXlSblBBRFRBSnU4Zkc3QzhSajBxcHFFZDR6cHV3aXlsMDZIVmNhMWpPVnFPTThKZnV2UGlsOTZtaHFEZmszMTlmWnpMY3J0TkNNWQ?oc=5",
+   "desc": "Paycheck-to-Paycheck Consumers Continue to Struggle With High Interest Rates  PYMNTS.com",
+   "source": "US Fed",
+   "publisher": "PYMNTS.com",
+   "scope": "world",
+   "ts": 1792432571000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUk85bEJ6Y00wcjQ1bWd3bXhFVWwzREJzYm9FT2NmWFpFblZuUERtQUhRaE1yMzZMYzk4REkxdUtiakp4bTdKUEphWmdob1NpLUI4elp4R05YWDBRaXZuT2Z6aGIxZkdGbG16TmMtbjJqcGpvTVB",
    "title": "RBI Resumes Liquidity Injection With Rs 1 Lakh Cr VRR Auction As Surplus Narrows - BW Businessworld",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUk85bEJ6Y00wcjQ1bWd3bXhFVWwzREJzYm9FT2NmWFpFblZuUERtQUhRaE1yMzZMYzk4REkxdUtiakp4bTdKUEphWmdob1NpLUI4elp4R05YWDBRaXZuT2Z6aGIxZkdGbG16TmMtbjJqcGpvTVBfS2RSaHBqOGxTeDBFTTlidHk4M2ZWMno1QlUxS256QzdaWG5pYzdzREotNUZaQ2hJdVg?oc=5",
@@ -942,16 +982,6 @@
    "ts": 1792428828000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTBGbFFFZGdTVlJiazY4ajN4M1p3dXl5dGhGQXpSS2tFcXl6TXl3c1pIZjNNMEh0Qy1MMmVvZHNfdWhqdjhuMHZDWklOTnA4N0dJQmFQcXZQOFRMOC1yUS1qOGJPTm4zcFF5NGw4TndKTWxNQ2o",
-   "title": "The IMF’s resources are falling behind the global economy - OMFIF",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTBGbFFFZGdTVlJiazY4ajN4M1p3dXl5dGhGQXpSS2tFcXl6TXl3c1pIZjNNMEh0Qy1MMmVvZHNfdWhqdjhuMHZDWklOTnA4N0dJQmFQcXZQOFRMOC1yUS1qOGJPTm4zcFF5NGw4TndKTWxNQ2o5b1lsMWZDRHoyajMyVkNTLXFUSkRhWGtSNXo?oc=5",
-   "desc": "The IMF’s resources are falling behind the global economy  OMFIF",
-   "source": "IMF / World Bank",
-   "publisher": "OMFIF",
-   "scope": "world",
-   "ts": 1792426119000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHBoaXFtRmhELVpxR3BOYzNDX3IzS1Y1UHZaZUlWRnBiY0Y3WWxwa19vSlVRUENyTGtpZVJFSEFSLW9hVWhEaktYRTVhVWpObTFOYThBVXNRX19VY0phaUJjSkdSMjFZQ19FUFZGMm44UnNpZkZ",
    "title": "Gold edges lower as firm dollar, elevated yields weigh - Reuters",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHBoaXFtRmhELVpxR3BOYzNDX3IzS1Y1UHZaZUlWRnBiY0Y3WWxwa19vSlVRUENyTGtpZVJFSEFSLW9hVWhEaktYRTVhVWpObTFOYThBVXNRX19VY0phaUJjSkdSMjFZQ19FUFZGMm44UnNpZkZGSnNCeUc2SFZ4c1ZZUU9lV2tiUk1odm44Wmc2WGVjSG5pYUU3QnE2NGYx?oc=5",
@@ -960,6 +990,16 @@
    "publisher": "Reuters",
    "scope": "world",
    "ts": 1792422140000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbmRwUEM4bkNZLUYtTzF2a3c1TjhkRDROOExONFN4ZXU3QVRPZjhoTHRDT1NBMnBkZlV3TEp2dlpTQk96WnZqLU1IUTNnLUxoZEo0bUFyQ3U3bEdCZWJIaFhTY0NtSkJiRUw4Q0l3aUlCc1RSTFU",
+   "title": "RBI’s ‘Samvad 2026’ kicks off, focuses on monetary policy, AI and financial stability - Social News XYZ",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbmRwUEM4bkNZLUYtTzF2a3c1TjhkRDROOExONFN4ZXU3QVRPZjhoTHRDT1NBMnBkZlV3TEp2dlpTQk96WnZqLU1IUTNnLUxoZEo0bUFyQ3U3bEdCZWJIaFhTY0NtSkJiRUw4Q0l3aUlCc1RSTFU2WFVMUXNNLXR4VFRuUm9MdlFaMDZVcWUyNFpDNmJsSzJHQ1B0OG5SYU1uRjRjUTRabW5JVHQzV2tMOWdZQ2swbWxCSFpB0gG7AUFVX3lxTE9uZHBQQzhuQ1ktRi1PMXZrdzVOOGRENE44TE40U3hldTdBVE9mOGhMdENPU0EycGRmVXdMSnZ2WlNCT3padmotTUhRM2ctTGhkSjRtQXJDdTdsR0JlYkhoWFNjQ21KQmJFTDhDSXdpSUJzVFJMVTZYVUxRc00tdHhUVG5Sb0x2UVowNlVxZTI0WkM2YmxLMkdDUHQ4blJhTW5GNGNRNFptbklUdDNXa0w5Z1lDazBtbEJIWkE?oc=5",
+   "desc": "RBI’s ‘Samvad 2026’ kicks off, focuses on monetary policy, AI and financial stability  Social News XYZ",
+   "source": "RBI",
+   "publisher": "Social News XYZ",
+   "scope": "india",
+   "ts": 1792420463000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQUQwVkR0YXRvbUZxTm9ZS2xKUnFQS295MG1FSTExYzdRdFNPVmdjVzk4dnRjdGdhaDd0enVKMWtOUWxkWlZFUjhIY0ZGY0IxVGJmNl9TaEV2S1NvMHlmWTVrYkJlMjVVNmxibktxNUhfcU9JLVd",
@@ -1102,6 +1142,16 @@
    "ts": 1792392250000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YemQ2ZGRPcXdDWGNxTUxnb2Q1Z0lSM3czY3EwOTM1bTVCSVhmY2dhZHBYRWp6NkVCcm1WODNkMUxCQTB5eDYtSlRuRFNKNy1LQUQ5RDQxOXR4a0tWUlVLcUU3aXF1cWJ3ZG9Zd0l4Z0toZUVDYmh",
+   "title": "Edinburgh to host global AI talks - The Edinburgh Inquirer",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YemQ2ZGRPcXdDWGNxTUxnb2Q1Z0lSM3czY3EwOTM1bTVCSVhmY2dhZHBYRWp6NkVCcm1WODNkMUxCQTB5eDYtSlRuRFNKNy1LQUQ5RDQxOXR4a0tWUlVLcUU3aXF1cWJ3ZG9Zd0l4Z0toZUVDYmhvUzRaNA?oc=5",
+   "desc": "Edinburgh to host global AI talks  The Edinburgh Inquirer",
+   "source": "ECB / Europe",
+   "publisher": "The Edinburgh Inquirer",
+   "scope": "world",
+   "ts": 1792391485000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWROX2ZxNkgxTVpVdTlFSmdaT1paOVpfN1RxY0x1Y2djX2ZqSXB3b2wzUVZaakpEd1FvZTQxejl3ck9IVjBNaXdJVVN2ZFdsUTJWQy1yTDJzUnVhcTZxMl9seDBrUm83TThTTHBxM3hpaGVjaXU",
    "title": "Why Is the Gold Price Falling Even as Investors and Central Banks Pile In? - Morningstar",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWROX2ZxNkgxTVpVdTlFSmdaT1paOVpfN1RxY0x1Y2djX2ZqSXB3b2wzUVZaakpEd1FvZTQxejl3ck9IVjBNaXdJVVN2ZFdsUTJWQy1yTDJzUnVhcTZxMl9seDBrUm83TThTTHBxM3hpaGVjaXU3N01qODFicnZSeWZpcWhvbk1NYTdDa2pZYUNWc00yRkc0Ng?oc=5",
@@ -1150,56 +1200,6 @@
    "publisher": "Firstpost",
    "scope": "world",
    "ts": 1792370531000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRFd4TkdKN0F6Z1lJVGZoTWtKeEJseEI3WVdYaFlTTmtCMG1kaERsT2QyX2lSeG5vbkFmUFZZUlFlNThTSU1kWkhKRFYzcm5uLXNBd2NHbl9iOV9JMnlHOVBlRWhacF9LcDZJRUsxMDRFNEZZMjZ",
-   "title": "What does RBI's repo rate hike to 5.50% mean for India's economy and future inflation? - ET Government",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRFd4TkdKN0F6Z1lJVGZoTWtKeEJseEI3WVdYaFlTTmtCMG1kaERsT2QyX2lSeG5vbkFmUFZZUlFlNThTSU1kWkhKRFYzcm5uLXNBd2NHbl9iOV9JMnlHOVBlRWhacF9LcDZJRUsxMDRFNEZZMjZheE9BcHhsTHQwaXFheDFXaUllSGFybkhlRktNb0t5YVoyVkRXT3hvUm1lY09aMWoxWFRLcHNCejRna0pCM1NnOC1RYlhwVG9LcE9ZakZqTllqTnJtemMtT2lYSy16ZWhLd2pULVJO?oc=5",
-   "desc": "What does RBI's repo rate hike to 5.50% mean for India's economy and future inflation?  ET Government",
-   "source": "RBI",
-   "publisher": "ET Government",
-   "scope": "india",
-   "ts": 1792357531000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdVgzVXQ3cFVsbldnVHMtcUxoUDI2cUhaeUFJck51RlFMRkFQTFZWN2dzRzRpanpqaWZMNHBmYi1GWWU5LTJ2TGpReGtMZTdCMjBoUVAzanVtWDdvSjJ1T0dOVkVPOTRybGdlakZDMWJzeEZTVlF",
-   "title": "RBI supplements financial muscle with regulatory heft - Business Standard",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdVgzVXQ3cFVsbldnVHMtcUxoUDI2cUhaeUFJck51RlFMRkFQTFZWN2dzRzRpanpqaWZMNHBmYi1GWWU5LTJ2TGpReGtMZTdCMjBoUVAzanVtWDdvSjJ1T0dOVkVPOTRybGdlakZDMWJzeEZTVlFTSUJycXVRcU85N2I5XzlHTmVMR0lrZUdGcVRYVjZFeVFzeWlMV3k0dG5JdVIwMGpKTnRHaHV2Z1g5NUtvNzRtLXhNNVVVemxNNHTSAcYBQVVfeXFMTTRiZ0RRY19KUnp1UE9JcWhIc3dZalhnV25MSS1HREFtMkMtQ0tBbzNQZDBmZGxfd1l5RHA5dVo5OXY2VWdtQTJjelUtd3VHaGk4em9tMHNlUm81T25jTF9oeGNfamtiNnBGbk1KWjlxNGd5UEVyWTVQSUlfWUUwcUFuQkt0aWRuZnpfVmpmcU95WXlqVENjQ09BWlZzZW9QcEF4cGQ4LUVSVTVYWjBtUVdaMkV6TkdRbFFLb09mRktYd0daLXNR?oc=5",
-   "desc": "RBI supplements financial muscle with regulatory heft  Business Standard",
-   "source": "RBI",
-   "publisher": "Business Standard",
-   "scope": "india",
-   "ts": 1792345714000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnVKbGw1aGtLeVdmckQwRmNxMVVfbTRhNGxGWS1jV0xzZUttVXlrQTZvdEJaaVJUWGY4cDZKLXBpeGl0eHhnMGYtSWx1aDNwMlVsYVhGVEpRSWoxS2pibFBlUkF0MzM1Ylc5bENJd2lheHBtQnJ",
-   "title": "The IMF Annual Meetings: A Resilient Global Economy, with Large Asterisks - Policy Magazine",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnVKbGw1aGtLeVdmckQwRmNxMVVfbTRhNGxGWS1jV0xzZUttVXlrQTZvdEJaaVJUWGY4cDZKLXBpeGl0eHhnMGYtSWx1aDNwMlVsYVhGVEpRSWoxS2pibFBlUkF0MzM1Ylc5bENJd2lheHBtQnJkUm9EM0Ftd1B2Ymo0dGcwY0I4RU43YW5OLTZQRUVjc2JhWWEtUHBiTS1NeWlIWg?oc=5",
-   "desc": "The IMF Annual Meetings: A Resilient Global Economy, with Large Asterisks  Policy Magazine",
-   "source": "IMF / World Bank",
-   "publisher": "Policy Magazine",
-   "scope": "world",
-   "ts": 1792334817000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFByYjQxTXZ6RzhuM0xoZ2VwekxicmR3aVdlUnowOXhid1JVaW82a296REFjYXZteFprVXBwSEhnUFdYbWhnbXBXSWtR?oc=5",
-   "title": "Saudi Arabia Concludes Participation at 2026 World Bank-IMF Annual Meetings - وكالة الأنباء السعودية",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFByYjQxTXZ6RzhuM0xoZ2VwekxicmR3aVdlUnowOXhid1JVaW82a296REFjYXZteFprVXBwSEhnUFdYbWhnbXBXSWtR?oc=5",
-   "desc": "Saudi Arabia Concludes Participation at 2026 World Bank-IMF Annual Meetings  وكالة الأنباء السعودية",
-   "source": "IMF / World Bank",
-   "publisher": "وكالة الأنباء السعودية",
-   "scope": "world",
-   "ts": 1792333394000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTkhWd3FnOTBpQmxyNGZoWFVJUGhVa18ySFZ5Wm1ibS03YkU1YTljS18tclBYbjJMb3dCa0tKMDQ3eTh2Zkxrb1NTU1FEbzBXM0hxTFQtMkhob0I2OWxzd1NubGotUEJ3Y2FPeENzMDZva0JNaDZ",
-   "title": "Rajasthan officers, RBI and SIDBI conduct manthan on future of MSME financing with focus on green issues - ET Government",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTkhWd3FnOTBpQmxyNGZoWFVJUGhVa18ySFZ5Wm1ibS03YkU1YTljS18tclBYbjJMb3dCa0tKMDQ3eTh2Zkxrb1NTU1FEbzBXM0hxTFQtMkhob0I2OWxzd1NubGotUEJ3Y2FPeENzMDZva0JNaDZNcVVmdXpDSUNHd2UxZm1UbWhFYnpJaS1PMGFLWGR0S19iLVdIUU54TDR2V0xwa3E4OV83amhpcmU2N0Vzazl5NGRTZVc1TUMzNTYwand3aEc5dFV4d2dPYWNmakdycEdUQkJOR0tYb3lhSnE5SlltTXMyNkc2SnVxWGZGY2lHSl9wQnZ5Uzd5d1JXa0hfbjBOb3gyV1BtcmlHMjRR0gGMAkFVX3lxTE02ajVfa1RVMVZsd0g1OTVfOE5CY0x3NmFHbzI5MHNtNzE3cTRKWXk0RHJ3NmV2a1gwZ3FfcUxfSWtfS0ZmQ0o0OGIxc2ZRdjEzdmJnWXJ2dEdvMnRGOUFVeTNQcUlrdUdfaGFGakxFYUdUR3RQaDBrc0o1T1dsaGxvWE9maXN5bzJCVzRiQmpVQ1hPM1pweFlhLTZQVHdtcmc0ZTlDeUdtVTlRR00xQWxyZ2diQWNNeWlSY2xlanBybWVXSXhCNkQ3bzdGdEN1YkJBY2dKUGNpdy14RGVwT2JjUVJzOXBtdTFRdDdjeU9QUFBKMG9Ob05mTlI2MzNvcjRfdnU3MTY1aE5NWDk?oc=5",
-   "desc": "Rajasthan officers, RBI and SIDBI conduct manthan on future of MSME financing with focus on green issues  ET Government",
-   "source": "SIDBI / MSME",
-   "publisher": "ET Government",
-   "scope": "india",
-   "ts": 1792325935000
   }
  ]
 }
