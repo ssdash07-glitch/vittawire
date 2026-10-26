@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T22:48:55.497366+00:00",
+ "updated": "2026-10-26T01:04:03.832155+00:00",
  "items": [
   {
    "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRmNuRGNna3E1QVlPNDRRZjZhMDdpMUJVeXRfVHVyVXk3Z0xDc0M2b25hSVVkTjVwbWIwdG5xdlEybDRqdjBUMnhURnFTc2ZFdkQ4RWZFMG5OV3VOOVJOTDZnSmZZR3dUVVY2N3NRSnkyTkRHT1R",
@@ -9,7 +9,17 @@
    "source": "US Fed",
    "publisher": "USA Today",
    "scope": "world",
-   "ts": 1792965088000
+   "ts": 1792975888000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUpDZXNBYUVfN1paZGJuNHd4RkMtVW0zdHpXQ2ZTaU0tc3dVbTRHSnlHMmk5UXM1cHZmbzUtamNjdDQ3aW1rZFlsQjhaMXdDNm1VZDk3VHlnMXRuOGJkazNXREx3anVtZnk4RUpVSEhteXJ0d09",
+   "title": "Federal Reserve Interest Rate Predictions Next Week: October 27–28, 2026 - Norada Real Estate Investments",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUpDZXNBYUVfN1paZGJuNHd4RkMtVW0zdHpXQ2ZTaU0tc3dVbTRHSnlHMmk5UXM1cHZmbzUtamNjdDQ3aW1rZFlsQjhaMXdDNm1VZDk3VHlnMXRuOGJkazNXREx3anVtZnk4RUpVSEhteXJ0d09HYmloUndES3luWnF5UDJBaWhZVzI3MWxnNGFVanBULU41dXhYVTZRRXl3T296YjJuZTgyTHh2Wmc?oc=5",
+   "desc": "Federal Reserve Interest Rate Predictions Next Week: October 27–28, 2026  Norada Real Estate Investments",
+   "source": "US Fed",
+   "publisher": "Norada Real Estate Investments",
+   "scope": "world",
+   "ts": 1792963014000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRXM1NTN0QXA4dHVBMDJiNXgyREl1SzdYd2VwdmlLVUwxbDhBR05JbHZGUEdGbTVPTXl6YlNSQTllZ085SmhQaDBJV1RMMVoyMHAxT1lvT012blFqZkVvRFVhWVJSSmNDS3pvNGd0d2pYaHFqQkx",
@@ -20,16 +30,6 @@
    "publisher": "Seoul Economic Daily",
    "scope": "world",
    "ts": 1792958405000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05YkhUU19EQXhyY1AtRWFoMDRrMVRNdXh0N2tQY3g1UW00WXlWWFVibV9QcmlsTzlaYTJlS3FoMzIwNzhoSkRncVU2TnpBOE1GYTlfS2dPN3otUklqbHg5MFlMbkdGWnhPY28zYnJ1Zw?oc=5",
-   "title": "Fed Week Puts Stocks, Bitcoin, and DXY on Collision Course Before $11 Billion Expiry - BeInCrypto",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05YkhUU19EQXhyY1AtRWFoMDRrMVRNdXh0N2tQY3g1UW00WXlWWFVibV9QcmlsTzlaYTJlS3FoMzIwNzhoSkRncVU2TnpBOE1GYTlfS2dPN3otUklqbHg5MFlMbkdGWnhPY28zYnJ1Zw?oc=5",
-   "desc": "Fed Week Puts Stocks, Bitcoin, and DXY on Collision Course Before $11 Billion Expiry  BeInCrypto",
-   "source": "US Fed",
-   "publisher": "BeInCrypto",
-   "scope": "world",
-   "ts": 1792950840000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fNGVaY1Joanl2RW51OVlON1E5UmhKVFh1Zl9scjJjdTM5R09WMEM2RVh5RVNqWTZPQkxBeGdnUDNJR25pVE90N09ubWF6VmFxTG5XZ1hlaU45elJCY3lfanI4MTJrcjE5VlBfb0dpeGJ3c0nSAYc",
@@ -62,14 +62,14 @@
    "ts": 1792944000000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUpDZXNBYUVfN1paZGJuNHd4RkMtVW0zdHpXQ2ZTaU0tc3dVbTRHSnlHMmk5UXM1cHZmbzUtamNjdDQ3aW1rZFlsQjhaMXdDNm1VZDk3VHlnMXRuOGJkazNXREx3anVtZnk4RUpVSEhteXJ0d09",
-   "title": "Federal Reserve Interest Rate Predictions Next Week: October 27–28, 2026 - Norada Real Estate Investments",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUpDZXNBYUVfN1paZGJuNHd4RkMtVW0zdHpXQ2ZTaU0tc3dVbTRHSnlHMmk5UXM1cHZmbzUtamNjdDQ3aW1rZFlsQjhaMXdDNm1VZDk3VHlnMXRuOGJkazNXREx3anVtZnk4RUpVSEhteXJ0d09HYmloUndES3luWnF5UDJBaWhZVzI3MWxnNGFVanBULU41dXhYVTZRRXl3T296YjJuZTgyTHh2Wmc?oc=5",
-   "desc": "Federal Reserve Interest Rate Predictions Next Week: October 27–28, 2026  Norada Real Estate Investments",
-   "source": "US Fed",
-   "publisher": "Norada Real Estate Investments",
+   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRUFIbWlGcC0zbVlObi1PMW91dWljN3VvazJpV2pRNkd2RVNfTF81Z1hSdUJXNjJBeXNsSTZ5bEJvSTJDQ1JOc28tMGRtLXM3UHA0LW5ndzd2U055cXd5ODRaWjk3b1c5Y0NHcndaMTVGU1JGMFZ",
+   "title": "Nepal ranks 103rd in global economy with $45.59 billion GDP - Nepalnews.com",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRUFIbWlGcC0zbVlObi1PMW91dWljN3VvazJpV2pRNkd2RVNfTF81Z1hSdUJXNjJBeXNsSTZ5bEJvSTJDQ1JOc28tMGRtLXM3UHA0LW5ndzd2U055cXd5ODRaWjk3b1c5Y0NHcndaMTVGU1JGMFZXT0FBYjZzV3ZvVkdzRmVBcjJLXzVnQmlGd2xKTU8ybmdnYmNoZVR4YVp0Qnc?oc=5",
+   "desc": "Nepal ranks 103rd in global economy with $45.59 billion GDP  Nepalnews.com",
+   "source": "IMF / World Bank",
+   "publisher": "Nepalnews.com",
    "scope": "world",
-   "ts": 1792942281000
+   "ts": 1792942305000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcG1oYmtBUGg5eDZJanJfRHhZQmswR2QxY3JYVVhJMi1JMHA4YnZHWVd1OUpfczR0MjNEdFBaenV4YTg5OS1oNGw5RXMwZzlzV0pTc3UtU0pLVjdhZmRhd0RoelZ5SjRlcjdpZWppZ2FMNTZ4aVF",
@@ -132,16 +132,6 @@
    "ts": 1792916761000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2dlWE1LWUxKdmJDa2xQSGcyWUJVaVlFLTlzT09Dcm5sNVNzbGZ3Y09kcDJ4WDkzS2x6ankwQ1VmTkV2Y0JCbjloV2VKVklmVlFITHh5VlVuVVp6UnRYaFpxTFltWlp5MDdCaWR0N0xKQWY3MjZ",
-   "title": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week - WRAL",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2dlWE1LWUxKdmJDa2xQSGcyWUJVaVlFLTlzT09Dcm5sNVNzbGZ3Y09kcDJ4WDkzS2x6ankwQ1VmTkV2Y0JCbjloV2VKVklmVlFITHh5VlVuVVp6UnRYaFpxTFltWlp5MDdCaWR0N0xKQWY3MjZWa2VESk1hRjVuMHVBVmpMU3JaTG5IWmR6cXVRYW9JYnVrRmM1Zjg2dzh0eGE0LTlkREY2emQ5QXZQdnJsTWtiRVJmRFNGYm1Bbml2ckhsQkQ5M1A2T05XUQ?oc=5",
-   "desc": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week  WRAL",
-   "source": "US Fed",
-   "publisher": "WRAL",
-   "scope": "world",
-   "ts": 1792915608000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWd1V0paMFZGUjVyeHNPNG40dW5CaHlrRzBib0tYbXRkQmdMWThZbXlvdHAxbWk0QzJpMlVWZ3gxQTg1UWNNZWFBWmQxMWJCREhjNjllWGRUSS1NOWFTakctcXZWY0ZmZ0thUmpXbGpsM19ZMkV",
    "title": "RBI does not target any price or level for rupee, says Governor Sanjay Malhotra - ANI News",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWd1V0paMFZGUjVyeHNPNG40dW5CaHlrRzBib0tYbXRkQmdMWThZbXlvdHAxbWk0QzJpMlVWZ3gxQTg1UWNNZWFBWmQxMWJCREhjNjllWGRUSS1NOWFTakctcXZWY0ZmZ0thUmpXbGpsM19ZMkVjS0NvZkQ0OVZBZDNyMzZhN0ZRbXRVUW8zS2hFaVc5dV9qY2JhdWE1eFIzNHNDZkE3RmNJVEM2TUs1blhZa1o1MFhEaHk5Z0wxZ1dhUEpNbXFyXw?oc=5",
@@ -150,16 +140,6 @@
    "publisher": "ANI News",
    "scope": "india",
    "ts": 1792908720000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzkzdWt1dE9XQWRvZVdyRmJENW15NjNkYks2V0Rab1pNOE9QZFBXVWZHR0NVNURIQmYwc0dtcjZvXzVKZVhZWFQ4dFJVZ2lrTmhmVER3N0V4MXVWX2psZTB5eUR2SVVtWG5VbWpvajZGVVhMMEl",
-   "title": "The Week Ahead: Fed Rate Decision Looming as Microsoft, Alphabet, and Amazon Report Earnings - TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzkzdWt1dE9XQWRvZVdyRmJENW15NjNkYks2V0Rab1pNOE9QZFBXVWZHR0NVNURIQmYwc0dtcjZvXzVKZVhZWFQ4dFJVZ2lrTmhmVER3N0V4MXVWX2psZTB5eUR2SVVtWG5VbWpvajZGVVhMMEltSUVwQmFJY1ZlR0JLUVpsU2ZBaVJxeGJUbjBJU1JralRiZndDNGY5aVJtSWJhbG9ocmNGaVVyZ1Q5bllINTBIQjlBUTdz?oc=5",
-   "desc": "The Week Ahead: Fed Rate Decision Looming as Microsoft, Alphabet, and Amazon Report Earnings  TradingKey",
-   "source": "US Fed",
-   "publisher": "TradingKey",
-   "scope": "world",
-   "ts": 1792908254000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTVdJNk5fVXJpVVpGdnVnVGtOOFJPTUFyVHpibGdTc2Q1OGZGTnJoS0NDR2lubmlURHpzNGtsNzFNalpVam1IM2tqWVZOS0h1T25aeEhQeHRvT3FyaU5RdVo0NlBKb3JLRzdBUE54WkNLc3psYUl",
@@ -372,14 +352,14 @@
    "ts": 1792829983000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNREJ4TE5xbTQwcDVJaUI0WW5WN3lNVTZZS2pfSkRDZlVIa1NBczFIU1RHd0U0SlFiTFdPSmZyNU1aZ0hvVks0ZGlXU0dOTTBVRjE4d2dfQk5kMEdtMmEtNkVkWHR6X29jRzRkaS1UYXNDN25Za2J",
-   "title": "India’s 7.8% growth faces fresh test as inflation hits 23-month high of 5.54%: RBI Bulletin - Fortune India",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNREJ4TE5xbTQwcDVJaUI0WW5WN3lNVTZZS2pfSkRDZlVIa1NBczFIU1RHd0U0SlFiTFdPSmZyNU1aZ0hvVks0ZGlXU0dOTTBVRjE4d2dfQk5kMEdtMmEtNkVkWHR6X29jRzRkaS1UYXNDN25Za2J4a2FOd1dUTUdZbmhHRjAybWZFTV9vQWVndk90MVphTEdMRTFoUzJ0a3R3a2liQmFWRTlPOXRxa1dPbEpqR3RrdURqalhiTHpXbjRURzluODhvStIB1gFBVV95cUxPNkJzX3MtcWszTkhYbWNOTEV1OXBrMTJ0dnRiWWI3Y1dORnFWX0Rjekc3ajdLWjNXWU02UjFqRXdXU0xoUktXeXlfR2VNbGlYR0lNZUFycGZZT3ZvOGFCX2pWSXhWWEkxcXBKUjUwYkFsVmdsdGs2eXRNZHI1Rm9EMHBWTldYaEF3OU53WHJFY2dIVGQ2OHpoTkVmb1F2OUFKNl9FRC1yeTZLLVZhMEc1eGpHS1hkOFFmM0xGNm1mQVhUaHhzUHZZV0Ytd3Z1N0MzdE1wdHJn?oc=5",
-   "desc": "India’s 7.8% growth faces fresh test as inflation hits 23-month high of 5.54%: RBI Bulletin  Fortune India",
-   "source": "Indian Economy",
-   "publisher": "Fortune India",
-   "scope": "india",
-   "ts": 1792823308000
+   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2dlWE1LWUxKdmJDa2xQSGcyWUJVaVlFLTlzT09Dcm5sNVNzbGZ3Y09kcDJ4WDkzS2x6ankwQ1VmTkV2Y0JCbjloV2VKVklmVlFITHh5VlVuVVp6UnRYaFpxTFltWlp5MDdCaWR0N0xKQWY3MjZ",
+   "title": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week - WRAL",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU2dlWE1LWUxKdmJDa2xQSGcyWUJVaVlFLTlzT09Dcm5sNVNzbGZ3Y09kcDJ4WDkzS2x6ankwQ1VmTkV2Y0JCbjloV2VKVklmVlFITHh5VlVuVVp6UnRYaFpxTFltWlp5MDdCaWR0N0xKQWY3MjZWa2VESk1hRjVuMHVBVmpMU3JaTG5IWmR6cXVRYW9JYnVrRmM1Zjg2dzh0eGE0LTlkREY2emQ5QXZQdnJsTWtiRVJmRFNGYm1Bbml2ckhsQkQ5M1A2T05XUQ?oc=5",
+   "desc": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week  WRAL",
+   "source": "US Fed",
+   "publisher": "WRAL",
+   "scope": "world",
+   "ts": 1792829121000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ29WOHI3b0l5dnVSYU9vQjUtNms0LUpZM2JOYktoSWZOODQtMlluU3Brcjd3c28xcWpBeDJvVU5YX0plcHBqS29pMF9DZE5RdzJTNG82aDRrdDUtT0tDVmlOYnZpbUtDM1NxRU1RVF8tN1dZNlh",
@@ -762,14 +742,14 @@
    "ts": 1792752332000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPME5NWVBudWFfMmMtc3VFVTIzZmRfLWcwT2cxNUs3RXhRdThTWVM2R1YwaTRGTXM0dHYtMmVsWUViT0ZpOFRFMlhjVDg5REJCbDA3UC1hbEFsdk92RmFsMVptNDRJTXd3eFVnbDloNnkxQnBVeVZ",
-   "title": "DCB Bank Announces Q2 Revenue Update Following Board Review - Sahi",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPME5NWVBudWFfMmMtc3VFVTIzZmRfLWcwT2cxNUs3RXhRdThTWVM2R1YwaTRGTXM0dHYtMmVsWUViT0ZpOFRFMlhjVDg5REJCbDA3UC1hbEFsdk92RmFsMVptNDRJTXd3eFVnbDloNnkxQnBVeVZocDdtbGc0bFNuMG1HZkIwMDExY3FKc2tn?oc=5",
-   "desc": "DCB Bank Announces Q2 Revenue Update Following Board Review  Sahi",
-   "source": "Indian Banking",
-   "publisher": "Sahi",
-   "scope": "india",
-   "ts": 1792751121000
+   "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVU5jQUg0ZjVwdUhDdXFYVzRxUHBwMjRIa2VtZE5IUHJhSG5RSmNDVXRzeG1QZjBGbGhmTklqTWZGWU1HMkJhUjlyQmd1Qmc1ZXlNV0hldjJLbUt5cERqUW5hLXlpcjlvNVAzN2JGRXVIYVNyZ29",
+   "title": "Global development financing gains momentum as World Bank mobilises $112bn - The Nation (Pakistan )",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVU5jQUg0ZjVwdUhDdXFYVzRxUHBwMjRIa2VtZE5IUHJhSG5RSmNDVXRzeG1QZjBGbGhmTklqTWZGWU1HMkJhUjlyQmd1Qmc1ZXlNV0hldjJLbUt5cERqUW5hLXlpcjlvNVAzN2JGRXVIYVNyZ29SV195V3hFaEdXb1hUdWhfcEdZclJ6YmZBQ1hYNWxEQzJjMmY4amRudGRoWFJwbzVtN3dpLTJqWkNyejEwdWNGUQ?oc=5",
+   "desc": "Global development financing gains momentum as World Bank mobilises $112bn  The Nation (Pakistan )",
+   "source": "IMF / World Bank",
+   "publisher": "The Nation (Pakistan )",
+   "scope": "world",
+   "ts": 1792749967000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeVk0Ul80UmVvcVJkbzYzckZ4SEdIWk9JMDU0dzNjWHZFMjJaVDVZaklRaldYdmdBU1BvSTZTbkN4N2J4NFZ3cEJYMk1BVlZWZzlwdk1IT0xfc2RubnVyLVVpb0dnb3ZiQWc5M19oRE01WGJ4eGZ",
@@ -822,26 +802,6 @@
    "ts": 1792738800000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWWZWTk9QMExzdFF2VFlJSlNKVk1EYXFkRmJIMHpxNWdTQlY0TEgtNFJyd2xpX0VoQXdzWnpvU3hFU25UVXZaMXpCTlNidG9TMFR1Z0VzX2F6UEFRVEZtR3U3dm0xOEJsZG9HSnB4dzBIMDFhd2R",
-   "title": "RBI MPC Meet 2026 Minutes: More Repo Rate Hikes Coming? Governor Malhotra Reveals Next Moves, Future Outlook Amid Inflation - Jagran Josh",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWWZWTk9QMExzdFF2VFlJSlNKVk1EYXFkRmJIMHpxNWdTQlY0TEgtNFJyd2xpX0VoQXdzWnpvU3hFU25UVXZaMXpCTlNidG9TMFR1Z0VzX2F6UEFRVEZtR3U3dm0xOEJsZG9HSnB4dzBIMDFhd2R1TGZtSnVWd1ZnbUR0YmNBT0tXUmJ1VnRUemp0YTh2S2V1NE9veGREMFVtYjZzMlM1emtMeDB3X3JpVFVtbnJHNFlSeWZWUjBMa19vbWRRVlJ2U1o4QjVNWGVNeDJ6eWljd0hzb2RNMGVJaWlIWW5OOWhPVHBRTndEbDVaSG5zQzI2REU3S2hyRmJ4X0J0QlRZUdIBjgJBVV95cUxQaEVmRUdoa0VYODRRSk92R19NX3NUaGhXcjBud1dCNmZZNTFxRnJqWW9HNkY1a252NDlsYVZGeXV5Y0tBRUQ3aFVRakZRMXVtNjlPSmVxTVFMOWVQeVM4MVZTU3FFaFZYVVl2VEJKWmdTbHEwd1p2QVpIZDJPamhoUnUxdkNYMmNpZFpNSExVVzM3cTVWMkg5R2VNODZmeVpYZUJLODBCRTFacXpwQlJqVFV1WEdmaU9xQUx1cGk4VU1kbnNoWkdKdy1UbHNXNXd5OVJNejhjLUNPREFXSjU4eF9tQkhJSm9MWXVrVmNIX3hhbzJ4cDdFV1cxV1hNXzZOT0E5VDFCTEw2Z2xWQWc?oc=5",
-   "desc": "RBI MPC Meet 2026 Minutes: More Repo Rate Hikes Coming? Governor Malhotra Reveals Next Moves, Future Outlook Amid Inflation  Jagran Josh",
-   "source": "RBI",
-   "publisher": "Jagran Josh",
-   "scope": "india",
-   "ts": 1792737839000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSVJPX3FKWHJkMnpSZmc3SlpFVG9rVHp0Tm5ORXZZc2tWM2Y5MXoxQUJTSXFULWVXcXFpdWctR1ZIRjFiZElLSXZXYVBGTV9JZ3d0SG5vZU1qbk1fV3YwdTY5MkNCSlNpTDBtUG9mYTFUY0RlVWl",
-   "title": "5 Bank Stocks That Improved Their Net Interest Margins in Q2 FY27 - Trade Brains",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSVJPX3FKWHJkMnpSZmc3SlpFVG9rVHp0Tm5ORXZZc2tWM2Y5MXoxQUJTSXFULWVXcXFpdWctR1ZIRjFiZElLSXZXYVBGTV9JZ3d0SG5vZU1qbk1fV3YwdTY5MkNCSlNpTDBtUG9mYTFUY0RlVWlGckpDczE3VFU0UEEyZVJQa3NvcFRmc055MzhuZ25OclM5THY0bEptY0RxamlMaVlKQ0RESk4tQnVPUjlR?oc=5",
-   "desc": "5 Bank Stocks That Improved Their Net Interest Margins in Q2 FY27  Trade Brains",
-   "source": "Indian Banking",
-   "publisher": "Trade Brains",
-   "scope": "india",
-   "ts": 1792730296000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS0x2VHNBWkt6RWNETndlR0p1eDd4UnhlZFFFbWpaYWdocUl2MnRCQm16RFpYbHQ3dF9jOEtLMENKOHUySjNmaW03YkhFRmR3WXRnbWtIaGZwbVVQNHJMMC11aklCdlBNcjMySDZsOU16WVBaZl8",
    "title": "Gold set for steep weekly loss as rising oil prices bolster Fed rate hike bets - CNBC",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS0x2VHNBWkt6RWNETndlR0p1eDd4UnhlZFFFbWpaYWdocUl2MnRCQm16RFpYbHQ3dF9jOEtLMENKOHUySjNmaW03YkhFRmR3WXRnbWtIaGZwbVVQNHJMMC11aklCdlBNcjMySDZsOU16WVBaZl8zR2ttZkgxMXVVWldnY25RRjJzbks3WFJwZWpnUE9maFdseVAwcmlmRHFJYUxCTEJ4RmN5QdIBrwFBVV95cUxNUEhSek0wcnlJbXhsZ0NkYmVoNEJmSUF5NEdCRElnZUVtNEcyY1hJSUloNEVtV3RRcDNXazdBUzc5a0V5OS1JXzFZMkROWVU2VHE3dUZmUExCMzdiRkNXZ0ZTY3pwUEJXR2RGaWY2QXVJOEtxV3lCWmV6OGdkZEE2NmJxcGZpSUYzZUhFNnRCVkotekVpY3BrWEVudnJkckF6dmVVZl9qNUtwN193MVV3?oc=5",
@@ -870,6 +830,16 @@
    "publisher": "The Japan Times",
    "scope": "world",
    "ts": 1792726020000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnN1M0ZKRGxrV0RSQXk2b2RGRlNHUUFKSlpJY05hZnN0V3ROUmZ2TW5fdTQ3NkNaOHgtZVdtWDN5V3hRaHdEWjcxVFFPYk0zSE5LdnhOVXlRdnhlQ3ZmRURwY3hHQmNid3k1NnZZM0ZQM2Z4aUF",
+   "title": "Why the minutes of RBI's rate-setting committee meeting hint at a course correction - Livemint",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnN1M0ZKRGxrV0RSQXk2b2RGRlNHUUFKSlpJY05hZnN0V3ROUmZ2TW5fdTQ3NkNaOHgtZVdtWDN5V3hRaHdEWjcxVFFPYk0zSE5LdnhOVXlRdnhlQ3ZmRURwY3hHQmNid3k1NnZZM0ZQM2Z4aUF6cVI4ZXhiVW8zRzVYX2daWkd6SjBfZ0FVOG5oMFlRWVdJX2stX3Fld2ZaTS1IZVNYMXdCRmt0NUEyVVVDVFRreGg2dWfSAb8BQVVfeXFMT1lIb0kxTkdmaXhpdmRZT2Q5MXNRQ05wTEFhYXloYldnSlhxb0podmVMUDlEanhnSktya3piSHVib1owRU03amFodVFxYUJBaWxYZE9vN3F4cDZ5LWZueEJtNHdOWnR2VmtOcDBZWm5BQ0wtd2I2bDdXdUtyWWxFTHh5cWtPbUJwWERTVzU5ZzVBZDBRS3loNVRnemtEd2k2SWtmalJ2OGdCT3NTQ0hFaTdvY2NQT1ljYVlmMWl2WFU?oc=5",
+   "desc": "Why the minutes of RBI's rate-setting committee meeting hint at a course correction  Livemint",
+   "source": "RBI",
+   "publisher": "Livemint",
+   "scope": "india",
+   "ts": 1792722649000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUHpCd0dyVnhLMmhYRHBNbEZ2Zi1mdHNoRjhLLVlqb3E3Q0xqcmhVY0ktb1dNUzBGVGp5NHVLU3NHYlkwN3c5VWNqOFFabU1IekxFODVTQ0staUpLUGxic0FHSjBGZ09RNjlPVXh4ZS1qRWpWR2d",
@@ -1000,26 +970,6 @@
    "publisher": "www.tmgm.com",
    "scope": "world",
    "ts": 1792681257000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVjc3UHBsdnFKZmlqYU9ISzNiUjRoY2p4VUpBcFFDa0s1WFctV2kzUTN0clNCeE9wSDJoWUs3dDMxX1JrTUI4d2s2eU5Yb0c2R1E2QUdtTHZVT3JhM1NmUW5JaXNETU5NZEdLSlFZSDNQb2l1VnN",
-   "title": "European Central Bank: Rising bond yields favor an October hold – ING - www.tmgm.com",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVjc3UHBsdnFKZmlqYU9ISzNiUjRoY2p4VUpBcFFDa0s1WFctV2kzUTN0clNCeE9wSDJoWUs3dDMxX1JrTUI4d2s2eU5Yb0c2R1E2QUdtTHZVT3JhM1NmUW5JaXNETU5NZEdLSlFZSDNQb2l1VnNGbHFHS0JlTHpXWldoYVNCbGh1QnBjSjdBTmxOd1pVbDdDUUNNNUFnMkZBeUU5dm0tVFcyN1N1X2d0Z3hxRkpHNE9rdmlGV29Id0lWTVVJTDVRVURkUVY?oc=5",
-   "desc": "European Central Bank: Rising bond yields favor an October hold – ING  www.tmgm.com",
-   "source": "ECB / Europe",
-   "publisher": "www.tmgm.com",
-   "scope": "world",
-   "ts": 1792680343000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNd05kRV9udEljSVJvalpheE5TOENfUTM3QjkxaE5MbTRwbTdPZHp2ZXB4WjE4ZVhHcnE5Qm45d0VQUWNvOWVMRnk1em56Vl9nZnN4d1E5c3I1Vm9YdVpEeXFiV3FTUFVCNGFKdW8wSlVzX1NwNWp",
-   "title": "Gulf economies to contract 4.8% this year with sharp recovery in 2027, IMF says - The National",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNd05kRV9udEljSVJvalpheE5TOENfUTM3QjkxaE5MbTRwbTdPZHp2ZXB4WjE4ZVhHcnE5Qm45d0VQUWNvOWVMRnk1em56Vl9nZnN4d1E5c3I1Vm9YdVpEeXFiV3FTUFVCNGFKdW8wSlVzX1NwNWp0R3hzNFpCcWpnbkxEaFZJbG91d1o1OWYzU1VZeF83RXE3OWFJb1M0NmdiclgtVGFPa0Jla01lbm9EVTZFckxLVWM2RHZwSnZ0RDlkNVRCVFczX3g5QlNUQTRGOFdQU0FHWFREOWM?oc=5",
-   "desc": "Gulf economies to contract 4.8% this year with sharp recovery in 2027, IMF says  The National",
-   "source": "IMF / World Bank",
-   "publisher": "The National",
-   "scope": "world",
-   "ts": 1792677701000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbC1mMFkzeHdMUUtacUFIMnJLT2QtajlPOUc0OFRhUjV0RFhoS2dQTmloU01fR0FqUDRZUFV2ekRVNVVaZWF3VDJPYTJKSkZIMHhSWFU3Xy14bHY1VDg0NTF4XzQ2VlRxNmcyWlpqSS1EX3I4QVJ",
@@ -1172,16 +1122,6 @@
    "ts": 1792661529000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPSXF4Zi10LXAzaVVVOW5JcVVCZ1JXYjJvNE5iQXpyNXowTzhvcm9GRE5JOGdLMDRMeUNMalR4eTJhTUszc0FYNEpuaWVraXVucEI4VTZYVzhMLWstd0NPREZRTzdlWnZiQWZBaHpKLTZDd1ZWSkN",
-   "title": "Online frauds: You were alert but lost money due to bank's error? Key RBI rules on bank liability, customer compensation - Livemint",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPSXF4Zi10LXAzaVVVOW5JcVVCZ1JXYjJvNE5iQXpyNXowTzhvcm9GRE5JOGdLMDRMeUNMalR4eTJhTUszc0FYNEpuaWVraXVucEI4VTZYVzhMLWstd0NPREZRTzdlWnZiQWZBaHpKLTZDd1ZWSkNvWUR3MFNXeE1PQWlPdUozQkFNS3JsR2JXTkc5VEtzdG5UYkpzQ3hNeFVib2JYTHUtTDUtRWVzb2YzV012ckhtMUM0MEpRdDB2RHBjNUNJWVFiczRVZ0NpV0FrYmZGd2Vma0hyaU9nRW04UXJmMlN0aXFNZE9jVk1YeGd4YkVOdVpWR3dpQk80R2JDalhhQWwzQXh6RG9ZTDczck5B0gGXAkFVX3lxTFBvdWxMQzJDQURWeVo4bk5ycmM4VUNQUnRONy1WdmVTSjNmci01clU5elhKTlZFZ3ljRjVVV0pnbUZ2T1VfZ1kwNl9RQnlCVXNtSllMMmoyMTg3WlFpNWFDNmhJbkQ0aW5HbFJBTWoxRzY0a1VlaUxEMXlKQ2tYck5kUUhLUTZ3TUpKUVRWUk1VYkJDcTdNNG8yR0Q3ZVRWT0dGOHZlMVpjNklGaUFwVlhTeHdzWGpETEdZeEI2TjFiQkNEY2c3YlRVVHR1V1dybS1sZjlDeG5JdUFMbWtTNUxKM1RKOHdmSVRIV2NydHJFTVQ4MnpweElyVl83ZjlpTm56RGNPUEVMc2lHM3BsdG42MXZkUWlidw?oc=5",
-   "desc": "Online frauds: You were alert but lost money due to bank's error? Key RBI rules on bank liability, customer compensation  Livemint",
-   "source": "RBI",
-   "publisher": "Livemint",
-   "scope": "india",
-   "ts": 1792661154000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc1FUMzlQdDlRdWVfa2FiX3hmV1Y1Z2hnOUVwRmFkV0tmTVNvc29Kd2RhbTdJYzlVQUx1Y0xiczd6UGR3emJvWW0wRkVJT0dDUV94bWo0LXplWHdlcklHNWhnUzVNMHhNZGxtVHJVS3Z6QmVaa0d",
    "title": "Is inflation becoming more widespread? RBI’s rate-setters are divided, and that’s a worry - The Indian Express",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc1FUMzlQdDlRdWVfa2FiX3hmV1Y1Z2hnOUVwRmFkV0tmTVNvc29Kd2RhbTdJYzlVQUx1Y0xiczd6UGR3emJvWW0wRkVJT0dDUV94bWo0LXplWHdlcklHNWhnUzVNMHhNZGxtVHJVS3Z6QmVaa0dzdjNRemdHSFlkcmdVWmNzZlFRU1BodlhYb1ZXMnczeWVGMVh5N1lFVUxpSGd5WFZCd01LbzJoNmhzTGFVTFVCZk9ibDdIYXFKN1UyQWN6RjN6NmtTVzVmYVXSAdYBQVVfeXFMTjNCU2tDV2cybHdRaDFDZ3JKRHloQXMzUVpNcFhxVDdRWjE0REgyU1c4QmlGX3czTDZFbDZzVWNxTlQ5bXF5c2dpd01xdWM2a1EzZUtLblpyRlNjM2JtcFUxUmJxNDRFcjZqS1k1NTR2UDA5a0VKVjZGNXlsZ3hGT09vcm5GSTJ6ZEtOby1rNlMzb3M2T0NNSnhGY3RsQzZjaXJGZ1VGYVR1X3VYTTZiUmg2amVxT0tIQkZyYlIzSXRCUWNRZ2lvRWl3MVRvVGtNemd2V0MxZw?oc=5",
@@ -1200,6 +1140,66 @@
    "publisher": "The Economic Times",
    "scope": "india",
    "ts": 1792658940000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMzBTQVdNS0xacWVJRFpGRjkwX2hISG9tcHU2TXQ5OGZvZlkxUl93RncyVE1yZlJXREo4dV9GWDJPUnl5akYwYWNQSGdNbF9TcU4xaTZ1NDdJcFJXRnJRaE5hYzA1QndLYnlhMWJmM29ZUV9YQ2Z",
+   "title": "IMF: The global economy remains resilient, but the resilience is becoming more fragile and more uneven - 3News",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMzBTQVdNS0xacWVJRFpGRjkwX2hISG9tcHU2TXQ5OGZvZlkxUl93RncyVE1yZlJXREo4dV9GWDJPUnl5akYwYWNQSGdNbF9TcU4xaTZ1NDdJcFJXRnJRaE5hYzA1QndLYnlhMWJmM29ZUV9YQ2Z6YXJKNTlyRHNDNjVRRXZlRjlaQWtpbnZobTVFV0pCbmVjRm02YzNrVFRLUHFUM3RRYjBYT1pIR2JnU1B6RlRGR19obnRFQy1GYlA?oc=5",
+   "desc": "IMF: The global economy remains resilient, but the resilience is becoming more fragile and more uneven  3News",
+   "source": "IMF / World Bank",
+   "publisher": "3News",
+   "scope": "world",
+   "ts": 1792657995000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTFo4V0JtM3pDbWZiOXM1YVdPbi04Nkc0SjZwdzE5ZnhDYjMwSXVHTV9YU2xScDJydm5oQVFuYmlfTXhIdjhGb1NMbldjcmdqVXdBLTF2czN2M1ZoZllCdEE3aHhVZDRGWGhtZzVWOWgxY0Z2eDA",
+   "title": "RBI MPC: Rate cuts off the table as inflation concerns mount - Rediff",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTFo4V0JtM3pDbWZiOXM1YVdPbi04Nkc0SjZwdzE5ZnhDYjMwSXVHTV9YU2xScDJydm5oQVFuYmlfTXhIdjhGb1NMbldjcmdqVXdBLTF2czN2M1ZoZllCdEE3aHhVZDRGWGhtZzVWOWgxY0Z2eDAxUlc3VlFpUEZUUHkzekwyNmxlNmdrWnhwT3dZY3ZNQ0ZlVWRydDNwZEN6M1MxMmcxcWYyNjRuVC1KVjU0Yk7SAbcBQVVfeXFMTVBSa3pjV1hDY3pLMmpxX3lxSkprV3lFU0hyeUJZcTNhaGxWUTRXbGFyZHcwMElBdWFKcmM5UXpwcFpYWTdqTjB3RzlyZWg1STNiRG1KOUNmcENQbGdJVE1SbjRocmNla2lIT0FUYm0xU19CVWxFVWxYUjhsTmkwd0kzcmlfdUdpclF5LXlBSlVqSEMyMi1ZaDhjc0xxZzlodksxcVNfTlQtUUtGU1pyTFhGc1ZDN284?oc=5",
+   "desc": "RBI MPC: Rate cuts off the table as inflation concerns mount  Rediff",
+   "source": "RBI",
+   "publisher": "Rediff",
+   "scope": "india",
+   "ts": 1792657094000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMFdzSFN0Uk9wTnBhVVRHZWNRRHQ5QURwZHprajNyRmRZbnY2QzduQUlxM3NTUlM2aC1KbnJkNVB3ai0xT0p4Q3RoU3hTZDcwN2V1bm1sb0JQNHRaaVlkWDRiMUZ2UnptYURNcDFKdDRUdlQxREo",
+   "title": "Middle East economy set for 6.6% rebound in 2027 after war-driven contraction, IMF says - Arabian Business",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMFdzSFN0Uk9wTnBhVVRHZWNRRHQ5QURwZHprajNyRmRZbnY2QzduQUlxM3NTUlM2aC1KbnJkNVB3ai0xT0p4Q3RoU3hTZDcwN2V1bm1sb0JQNHRaaVlkWDRiMUZ2UnptYURNcDFKdDRUdlQxREotV3NOcGVNb0U5ZTNB?oc=5",
+   "desc": "Middle East economy set for 6.6% rebound in 2027 after war-driven contraction, IMF says  Arabian Business",
+   "source": "IMF / World Bank",
+   "publisher": "Arabian Business",
+   "scope": "world",
+   "ts": 1792655461000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYl8tTkVVZmlUX0U3YWs1dU5HZVRBc1QwT2cxUUZxN0ZvZDI2dDlIZW9FY3JtZmY2OXBRNVhjVy0wbGd4SDVBNTRnTENzaEpDLVNIRkN5Smw5NFJrUk9Hd01mMXM2SDkyczhVNHhzaUd4ZzIzemV",
+   "title": "Which G7 economy is the profligacy poster child? - Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYl8tTkVVZmlUX0U3YWs1dU5HZVRBc1QwT2cxUUZxN0ZvZDI2dDlIZW9FY3JtZmY2OXBRNVhjVy0wbGd4SDVBNTRnTENzaEpDLVNIRkN5Smw5NFJrUk9Hd01mMXM2SDkyczhVNHhzaUd4ZzIzemV3SnBWLVBjY3oxNnJSaFE?oc=5",
+   "desc": "Which G7 economy is the profligacy poster child?  Financial Times",
+   "source": "IMF / World Bank",
+   "publisher": "Financial Times",
+   "scope": "world",
+   "ts": 1792655198000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41aXRxWVRDZDV4d1BXbnlIakJ1SUdiSjVQaDREbGxlUmJmTV80OFdPLU5LYVFnMjQtaVJiY3NqNFdPRTZ2QzFtbWVpNnROeE94a2VfU1VB?oc=5",
+   "title": "NABARD Grade A 2026 Notification, Vacancy, Eligibility & Selection Process - Bankersadda",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41aXRxWVRDZDV4d1BXbnlIakJ1SUdiSjVQaDREbGxlUmJmTV80OFdPLU5LYVFnMjQtaVJiY3NqNFdPRTZ2QzFtbWVpNnROeE94a2VfU1VB?oc=5",
+   "desc": "NABARD Grade A 2026 Notification, Vacancy, Eligibility & Selection Process  Bankersadda",
+   "source": "NABARD",
+   "publisher": "Bankersadda",
+   "scope": "india",
+   "ts": 1792652400000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM0FnLVBhTU9kLVVQNjlqOXlQcHFhdXVtbl9abkNWb1NNRjRCdG1PMWlBaVlTbHgybGhqWE1TMkV3NHk4OTVPekVpQkhsQzJGOTJrbGJpSmxyRlFscEl3dFNVYk9FalBLN2FXSGstZ0JmemxnVU9",
+   "title": "ECB June hike a done deal, another likely in September, economists say - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM0FnLVBhTU9kLVVQNjlqOXlQcHFhdXVtbl9abkNWb1NNRjRCdG1PMWlBaVlTbHgybGhqWE1TMkV3NHk4OTVPekVpQkhsQzJGOTJrbGJpSmxyRlFscEl3dFNVYk9FalBLN2FXSGstZ0JmemxnVU9HbW1SZzVpT2ZSVHlSc0JpYkkzN0hIV2V0VnBEQk1mdENNSEFLY1VQTXlSampQX2pmRGo2ZTNV?oc=5",
+   "desc": "ECB June hike a done deal, another likely in September, economists say  Reuters",
+   "source": "ECB / Europe",
+   "publisher": "Reuters",
+   "scope": "world",
+   "ts": 1792652400000
   }
  ]
 }
