@@ -1,45 +1,875 @@
 {
- "updated": "2026-10-28T17:22:47.474899+00:00",
+ "updated": "2026-10-28T21:53:44.535498+00:00",
  "items": [
   {
-   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWjdOaHZoX3J6U1JBZU92Q1VkV2F0OFI0WUo5b2l0UHh5WXVNWDZHVElxNktfMUh0WEh6REdiVXZxWlNHdm1hV2RBMHE1TnZjamY4dDA5VWZlMjhDV3I0Z1I4MDh4WDJnbG9fRVBZZW1FZHZCaHV",
-   "title": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates - AP News",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWjdOaHZoX3J6U1JBZU92Q1VkV2F0OFI0WUo5b2l0UHh5WXVNWDZHVElxNktfMUh0WEh6REdiVXZxWlNHdm1hV2RBMHE1TnZjamY4dDA5VWZlMjhDV3I0Z1I4MDh4WDJnbG9fRVBZZW1FZHZCaHVPRUhMc29Fa0ZDNVJ5X3NYVFUteDhlVXNtVzN0cHc?oc=5",
-   "desc": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates  AP News",
+   "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY1hDVXFVeDRGUEUzbTZZRlFBUGlwUFNKRFR2d0hOU3NXRUhGejZXZW5FSWphQWxMRHNETWJDWHlSQzktSVBtSTdLNG5KSWhNdmJuR0hhRll6YVZMYlFIRkZRS1dWNkJBV21GUVpuNllfb2J1dnd",
+   "title": "How the Iran war is raising mortgage costs for US homebuyers - WESH",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY1hDVXFVeDRGUEUzbTZZRlFBUGlwUFNKRFR2d0hOU3NXRUhGejZXZW5FSWphQWxMRHNETWJDWHlSQzktSVBtSTdLNG5KSWhNdmJuR0hhRll6YVZMYlFIRkZRS1dWNkJBV21GUVpuNllfb2J1dndzT3lsZG5HVmtwYg?oc=5",
+   "desc": "How the Iran war is raising mortgage costs for US homebuyers  WESH",
    "source": "US Fed",
-   "publisher": "AP News",
+   "publisher": "WESH",
    "scope": "world",
-   "ts": 1793206680000
+   "ts": 1793223960000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcUJVN2QwZGtTaW1kaW1YenZOLVpfZDdLTHFMSUxaZFBPeUFoUEQ5S2d3b3N6dE5DREtLMmZnWDFFSVhqQzFVS2tnR3JrSndRUlZxVmQ2RmtPdTRJNkdjM0IyTjVJek1RUVk1cEg1N3FqbUI1YzF",
-   "title": "The Federal Reserve Will Release Its Interest Rate Decision Today. Here’s What to Watch. - The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcUJVN2QwZGtTaW1kaW1YenZOLVpfZDdLTHFMSUxaZFBPeUFoUEQ5S2d3b3N6dE5DREtLMmZnWDFFSVhqQzFVS2tnR3JrSndRUlZxVmQ2RmtPdTRJNkdjM0IyTjVJek1RUVk1cEg1N3FqbUI1YzFwb3VmYjhQUUtPMDJTZkVqZw?oc=5",
-   "desc": "The Federal Reserve Will Release Its Interest Rate Decision Today. Here’s What to Watch.  The New York TimesFederal Reserve to announce its latest interest rate today. Here's what economists expect.  CBS NewsFed set to h",
+   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlFOcHdOMkc2WHl2bTUtZUplakJ2ZWM4ckNYdWNMakhVSjdkUmRjYTNnV1hIMVl4YlRpY24yRUdMcHJod3ZaTW9pdW1vVTlmamtSUUtLRktYS2MtZ1JOOFd6R3pDZ2JuNFA0U0NScnpfdkVoWnV",
+   "title": "Federal Reserve leaves interest rates unchanged - Santa Clarita Valley Signal",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSlFOcHdOMkc2WHl2bTUtZUplakJ2ZWM4ckNYdWNMakhVSjdkUmRjYTNnV1hIMVl4YlRpY24yRUdMcHJod3ZaTW9pdW1vVTlmamtSUUtLRktYS2MtZ1JOOFd6R3pDZ2JuNFA0U0NScnpfdkVoWnVFRGUyR3RwQlQxTXFfak4?oc=5",
+   "desc": "Federal Reserve leaves interest rates unchanged  Santa Clarita Valley Signal",
+   "source": "US Fed",
+   "publisher": "Santa Clarita Valley Signal",
+   "scope": "world",
+   "ts": 1793223895000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmVEdllBSnpBekFncHVBd2pmUmpTS2ZsTlo5bHFST3lCaE1Uei11NUgyVEdfMTQ2RnZBUUEwTHB4UTdVUGlEZnQ0VlJzRlBJallwN3M0ZS1EbTFEMWFydmZTRnEyRkJwYWlBcWt0X1IxVjYyREE",
+   "title": "Federal reserve holds interest rates steady despite high inflation - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmVEdllBSnpBekFncHVBd2pmUmpTS2ZsTlo5bHFST3lCaE1Uei11NUgyVEdfMTQ2RnZBUUEwTHB4UTdVUGlEZnQ0VlJzRlBJallwN3M0ZS1EbTFEMWFydmZTRnEyRkJwYWlBcWt0X1IxVjYyREEzYXVrZ0Rkd1lhSmhISVo5dmdlTEVoaA?oc=5",
+   "desc": "Federal reserve holds interest rates steady despite high inflation  Yahoo",
+   "source": "US Fed",
+   "publisher": "Yahoo",
+   "scope": "world",
+   "ts": 1793223364000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQempyZ1I4MFlrRjBnVzZma19IcnlkNFUyM1R0aGx0eVU5REpVZTJoUmNiLWpSSlVXMGYtVkl6TV9tU1NoNnpCSk9oYm5mUzA1a2g5WEhpUUtpcDF6ZTJaQXNENmRWWmdNZGRNbjVtcmRaUWluN2R",
+   "title": "Tracking Trump: Fed keeps interest rates steady; Iran war cost update; RFK Jr.’s peptide plan; and more - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQempyZ1I4MFlrRjBnVzZma19IcnlkNFUyM1R0aGx0eVU5REpVZTJoUmNiLWpSSlVXMGYtVkl6TV9tU1NoNnpCSk9oYm5mUzA1a2g5WEhpUUtpcDF6ZTJaQXNENmRWWmdNZGRNbjVtcmRaUWluN2Rka1RVNGlGTXA4dnQ5ODY5aXZVVzlGU1AyTEJNWGFLa1hEQ0lGd284UlB0VVBfdS14bjZYWUpvQVNOa1RibGwtMzlnMlRwdEVGOS0tVGFLdkRDZVhmTU1XYl9ianc4MmtZV0w0Ny1aMDE4MG1URXhvLUU?oc=5",
+   "desc": "Tracking Trump: Fed keeps interest rates steady; Iran war cost update; RFK Jr.’s peptide plan; and more  The Washington Post",
+   "source": "US Fed",
+   "publisher": "The Washington Post",
+   "scope": "world",
+   "ts": 1793223237000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb01WZnNoVWtvSG5SMU1hTzNBQkF4V2JVTWY1ZVV2bFdiYjlMM3FXakV1UXJyU2l3a290U2VZU1hQMHZ4dHZrSlV4Z0x4c01Gc0pBZ3BHMzl2MUJGd0ZEdTNPUWJqUi13T2V5YVJURWNFa19GTS0",
+   "title": "Federal Reserve holds fire on interest rates despite intensifying inflation - Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb01WZnNoVWtvSG5SMU1hTzNBQkF4V2JVTWY1ZVV2bFdiYjlMM3FXakV1UXJyU2l3a290U2VZU1hQMHZ4dHZrSlV4Z0x4c01Gc0pBZ3BHMzl2MUJGd0ZEdTNPUWJqUi13T2V5YVJURWNFa19GTS05dkJFVUJIUUZJTElreWQ?oc=5",
+   "desc": "Federal Reserve holds fire on interest rates despite intensifying inflation  Financial Times",
+   "source": "US Fed",
+   "publisher": "Financial Times",
+   "scope": "world",
+   "ts": 1793223128000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTE1BdGtmWVdsaDdsWktpYlk1d2lzWGN2OGdvc3VSNFZxcC1EZ0lWVHhuT1ZpOWphTHoxMzlVY2U2cWxKZDNIZVBhTkR4OXNzbW5fVG41SFZ1b0U1cHFtempLQzVQQmRuQmhpWVJXdy1mV2NxSER",
+   "title": "Fed Meeting Live Updates: Interest Rates Hold Steady Despite 'Elevated' Inflation - The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTE1BdGtmWVdsaDdsWktpYlk1d2lzWGN2OGdvc3VSNFZxcC1EZ0lWVHhuT1ZpOWphTHoxMzlVY2U2cWxKZDNIZVBhTkR4OXNzbW5fVG41SFZ1b0U1cHFtempLQzVQQmRuQmhpWVJXdy1mV2NxSERSZjZqVnJRZkRJR1diMFY1dkxT?oc=5",
+   "desc": "Fed Meeting Live Updates: Interest Rates Hold Steady Despite 'Elevated' Inflation  The New York Times",
    "source": "US Fed",
    "publisher": "The New York Times",
    "scope": "world",
-   "ts": 1793205367000
+   "ts": 1793222869000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcjlBb1pTVWVOWnZqZEVNcEVDQk1JelVZUU1CYWhMT3loaW5UTlRIMk1FTFU3aWFKRWM3bENIcHlKRTB1aFRNbFp1cUQxSTNaTTRlM1VUV2ViR3FQR1dCQzZHV3B3TUFJeW1xeV9pUW5RQzNGMkw",
-   "title": "ECB authorises Intesa Sanpaolo to acquire Monte dei Paschi - FStech",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcjlBb1pTVWVOWnZqZEVNcEVDQk1JelVZUU1CYWhMT3loaW5UTlRIMk1FTFU3aWFKRWM3bENIcHlKRTB1aFRNbFp1cUQxSTNaTTRlM1VUV2ViR3FQR1dCQzZHV3B3TUFJeW1xeV9pUW5RQzNGMkw1Y20xcG0wWng4TzY0R1BhdEF6bW5FUWJvU2xLS3k1SkE?oc=5",
-   "desc": "ECB authorises Intesa Sanpaolo to acquire Monte dei Paschi  FStech",
-   "source": "ECB / Europe",
-   "publisher": "FStech",
+   "id": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeU5HMzA2MkNZb2VTbnlRUDhOR0ZNRHdrQy0yQTRTVG5fSWh4VWlUakdUT091eWVjVGpURmxkNVdVV0hRRWdjeEpxYm01VjRLcXFnR0Z3M1F6emM2V0NkSWg0bXRJMklNS2pfMl9mUVlMUDN2S29",
+   "title": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information-rich’ period is coming. - MarketWatch",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeU5HMzA2MkNZb2VTbnlRUDhOR0ZNRHdrQy0yQTRTVG5fSWh4VWlUakdUT091eWVjVGpURmxkNVdVV0hRRWdjeEpxYm01VjRLcXFnR0Z3M1F6emM2V0NkSWg0bXRJMklNS2pfMl9mUVlMUDN2S29FckZnSkRoM0ZDTFdkSnBzR3NwcVphMDZhOE9fX2FhOFo0OVBEZk1zS0tnemNnZGFHbkd1TUFGWFRCQkt3aEhsT1BGcGozQ1V3OEpTU3hOeHlwTWh3WXUzMzlKRXVrS0pSU1AxbnRUaWJKcm1CX01oVmR2?oc=5",
+   "desc": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information-rich’ period is coming.  MarketWatch",
+   "source": "US Fed",
+   "publisher": "MarketWatch",
    "scope": "world",
-   "ts": 1793205285000
+   "ts": 1793222820000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY3BhOTg5ckNoeENQbUU0NTI4Rmp1VkxuRHVuY0xOdjlyNHNoaXk1a09RLVh2QnMzVEVxV2djdjE0elUwVEpOMFB0WFhCNEs2UnEwZV9mclhJYndGRU0zeUxnNVZSZjVOVXpscnpHZWNDQlowZ1M",
+   "title": "The bond market swings, but US stocks remain steady after the Fed says it won't raise interest rates - Nonstop Local News",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY3BhOTg5ckNoeENQbUU0NTI4Rmp1VkxuRHVuY0xOdjlyNHNoaXk1a09RLVh2QnMzVEVxV2djdjE0elUwVEpOMFB0WFhCNEs2UnEwZV9mclhJYndGRU0zeUxnNVZSZjVOVXpscnpHZWNDQlowZ1MzbzNwdTlZSTllN25NOE5OcVZHMTR0THNRN0wzVHVGdzZocWpkUERzUTRLN0lOUElicHN4Q2dYcUI4by04eS1sNlhpa3g2b19yd1ZxUTZHUl9zcUlJd0d2OE5EYTBocXFKMUZFU3d1UHZJY1Zqd1gxeHhKUjE2YU9FbEZaUThz?oc=5",
+   "desc": "The bond market swings, but US stocks remain steady after the Fed says it won't raise interest rates  Nonstop Local News",
+   "source": "US Fed",
+   "publisher": "Nonstop Local News",
+   "scope": "world",
+   "ts": 1793222580000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcFVkNXozVXFDZmYzRUlaajVOYzF5RnZNaHZ3d2QxWkRhbXJKeVY5a3k2cV9jRWd2YU5UcEpuODg1T3JxaDFsRFhHdzIwZ3hpNmd3elJ2alBFb3J1NU1MT3FodWhfcHpkV1dkXzlLNmVUaXFyT1B",
+   "title": "Federal Reserve holds interest rates steady - The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcFVkNXozVXFDZmYzRUlaajVOYzF5RnZNaHZ3d2QxWkRhbXJKeVY5a3k2cV9jRWd2YU5UcEpuODg1T3JxaDFsRFhHdzIwZ3hpNmd3elJ2alBFb3J1NU1MT3FodWhfcHpkV1dkXzlLNmVUaXFyT1BTNVdJbHhwOHhqWGVKZWFlZmduejd3YURDa2FOZDdaYlptNkVn?oc=5",
+   "desc": "Federal Reserve holds interest rates steady  The Washington PostThe Federal Reserve Will Release Its Interest Rate Decision Today. Here’s What to Watch.  The New York TimesFed keeps interest rates unchanged, but two offi",
+   "source": "US Fed",
+   "publisher": "The Washington Post",
+   "scope": "world",
+   "ts": 1793222182000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOThGdlNNWkNweEJ0WnRJb0dZTjZvNVcyY0g4VmVhRnVNNTYwUlBLWTdTOHBrMDV4TE5Hc0V5LTFqdTIwVEd3NlhNcHVheVU0SS1vMDlpemcwNUpkQ1htRk1sQzg2TExwak1la28yTEpOMzFQMGF",
+   "title": "News | Fed leaves interest rates unchanged with two dissents - CoStar",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOThGdlNNWkNweEJ0WnRJb0dZTjZvNVcyY0g4VmVhRnVNNTYwUlBLWTdTOHBrMDV4TE5Hc0V5LTFqdTIwVEd3NlhNcHVheVU0SS1vMDlpemcwNUpkQ1htRk1sQzg2TExwak1la28yTEpOMzFQMGFtRHVhNUpSamI2UktaejNYMl9tWHg3OWZsQ3BFNXVLODVsRzluUQ?oc=5",
+   "desc": "News | Fed leaves interest rates unchanged with two dissents  CoStar",
+   "source": "US Fed",
+   "publisher": "CoStar",
+   "scope": "world",
+   "ts": 1793222149000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pN2czN2dBNV9YSWpWY0xIaG1kTnloSFdFOEJ3OXRONlZFNWNvQ05NNlYxM2VBeFV2YTgwS3o0eE80V1hOS2ViWVk1OGxTVG9aMFVVOThyVjB0M0E?oc=5",
+   "title": "Federal Reserve holds interest rates steady ahead of midterm elections - Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pN2czN2dBNV9YSWpWY0xIaG1kTnloSFdFOEJ3OXRONlZFNWNvQ05NNlYxM2VBeFV2YTgwS3o0eE80V1hOS2ViWVk1OGxTVG9aMFVVOThyVjB0M0E?oc=5",
+   "desc": "Federal Reserve holds interest rates steady ahead of midterm elections  Fox Business",
+   "source": "US Fed",
+   "publisher": "Fox Business",
+   "scope": "world",
+   "ts": 1793221823000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMG5sbDJYY2Y0YUo1bXItVXdRTkk5RlJHSVBDS0NVUk9wOVI2c2hZUXlIaWpRM09vOHVPazV2SHJKSGlxMmdnVUQ2SExVZVNJMUs4VWczZ0pWWHZtQ0dycGtlVUxURkF6cUp2NmQzUm5WS3MtT09",
+   "title": "The bond market swings, but U.S. stocks remain steady after the Fed says it won't raise interest rates - Pittsburgh Post-Gazette",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMG5sbDJYY2Y0YUo1bXItVXdRTkk5RlJHSVBDS0NVUk9wOVI2c2hZUXlIaWpRM09vOHVPazV2SHJKSGlxMmdnVUQ2SExVZVNJMUs4VWczZ0pWWHZtQ0dycGtlVUxURkF6cUp2NmQzUm5WS3MtT09NbmEyQVR3cDYzamlkaC14VTVHekNLRHNRUzdPdFE5X2lzeWR0d1VhUkVsb3JUTDJ2M2Y2OFUtVndR?oc=5",
+   "desc": "The bond market swings, but U.S. stocks remain steady after the Fed says it won't raise interest rates  Pittsburgh Post-Gazette",
+   "source": "US Fed",
+   "publisher": "Pittsburgh Post-Gazette",
+   "scope": "world",
+   "ts": 1793221753000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnFhanJlSTBaSW8wOWU5d09zRHRmV0lZbDUwSk8yNE04S2drRXN2N2NJVkxSdHFUOEhwR0tjVjNyYm9rSTR3UlBIUmtWUzhXOTREcXJSeUFRZ3BHc0ZvNXVuUW9NeUpIQWJPNUZSZjlRWnUyM2l",
+   "title": "Thailand IMF Global Economy - timesdaily.com",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnFhanJlSTBaSW8wOWU5d09zRHRmV0lZbDUwSk8yNE04S2drRXN2N2NJVkxSdHFUOEhwR0tjVjNyYm9rSTR3UlBIUmtWUzhXOTREcXJSeUFRZ3BHc0ZvNXVuUW9NeUpIQWJPNUZSZjlRWnUyM2lKYk9aMnotcjdwek5RcTgwbTZaRnZDZHBJWXZjZ254aXFWMEIxWm5Ya1hTMXB3UA?oc=5",
+   "desc": "Thailand IMF Global Economy  timesdaily.com",
+   "source": "IMF / World Bank",
+   "publisher": "timesdaily.com",
+   "scope": "world",
+   "ts": 1793221752000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdTlNcHVHYlNfbkVRS0JsOVFqOEI5VnM5dzZsWVFfSHZWbkxQRXEyd1NZY0xPOXB6aTdVVGNCdFZNWUphM19oYXJaOHBoZ0gwYmdneENsQWpVRTNNOUhSWDBnV2R3Z283d0lScmwxR3NNS2tLYlM",
+   "title": "Federal Reserve holds interest rates steady - WUSA9",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdTlNcHVHYlNfbkVRS0JsOVFqOEI5VnM5dzZsWVFfSHZWbkxQRXEyd1NZY0xPOXB6aTdVVGNCdFZNWUphM19oYXJaOHBoZ0gwYmdneENsQWpVRTNNOUhSWDBnV2R3Z283d0lScmwxR3NNS2tLYlMzamE5TGd5dUZ1c3ltX0MzTXFZRVNfNXNIR1ZjdnBUSVlpdmZjMkhFZmtIWjMzSURDY0xqVVVlY2FYNnBRYkFKcWw5?oc=5",
+   "desc": "Federal Reserve holds interest rates steady  WUSA9",
+   "source": "US Fed",
+   "publisher": "WUSA9",
+   "scope": "world",
+   "ts": 1793220840000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93R3RyT0tld2NkVk5maHV6a3pKeTVDNWpSZVlFeEdINDZZbkJZRGRyYzFMLUs1dTJodmNXUUhwVWs5cHJab21pandxTTdDaVFnMlpSVUp0dEpfNXFfc2NaYlBKR2hhUkx1NXc?oc=5",
+   "title": "Fed holds interest rates steady as auto loan costs stay high - CBT News",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93R3RyT0tld2NkVk5maHV6a3pKeTVDNWpSZVlFeEdINDZZbkJZRGRyYzFMLUs1dTJodmNXUUhwVWs5cHJab21pandxTTdDaVFnMlpSVUp0dEpfNXFfc2NaYlBKR2hhUkx1NXc?oc=5",
+   "desc": "Fed holds interest rates steady as auto loan costs stay high  CBT News",
+   "source": "US Fed",
+   "publisher": "CBT News",
+   "scope": "world",
+   "ts": 1793220702000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzRscGl4MTZtRkVfMC1VeXBaMS1fU3I5S2VJN0tOUmhXdXRzTTNIMmQ2b0NBalpoVWJNdjhERWxPeFdCNi1BWFpZVllQVVp6TVZsTDJKRFBuLUxBZzRHRGJHQkgzb01nRWhWcmRQNDVtYjRoM0J",
+   "title": "Does Anyone Know Why the Fed Didn’t Raise Rates? - National Review",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzRscGl4MTZtRkVfMC1VeXBaMS1fU3I5S2VJN0tOUmhXdXRzTTNIMmQ2b0NBalpoVWJNdjhERWxPeFdCNi1BWFpZVllQVVp6TVZsTDJKRFBuLUxBZzRHRGJHQkgzb01nRWhWcmRQNDVtYjRoM0JuWDJRUktONlR0bGNXTlhfcXFNTmtqTzh30gGTAUFVX3lxTE4zUHdOcWhKOGNDSk1jLWFhODdPMXdsWndEUjZScWhYMTUteVdYVHpkbjVYZi04cU9tLU5XaDY0Z1FybnE4MDJfT2RvaWtSU2VHMG1uYTVTWU1IZmZwVVowZzBYeGRscXU0YnNpRHpNNWNTaEllUXNRemswS3gzcFZLbk8wc2IxMkxFWGQyaTVPUnVFTQ?oc=5",
+   "desc": "Does Anyone Know Why the Fed Didn’t Raise Rates?  National Review",
+   "source": "US Fed",
+   "publisher": "National Review",
+   "scope": "world",
+   "ts": 1793219965000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRjZFUXVJZ181VzJPT0JkVzRhZ3BqREk3OE9tSDJXazlIUHR0dWZTalZYMHA0V2gzM1FlN3hjcmdWSm53SzV1OXhTczV2VV9pWWh4UlVSOVU3bllqWjJ4SVdxNDhKTUJTMW5sVVNmaDYtSEJEcHR",
+   "title": "Fed holds interest rates steady, leaving December increase in play - The Lane Report",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRjZFUXVJZ181VzJPT0JkVzRhZ3BqREk3OE9tSDJXazlIUHR0dWZTalZYMHA0V2gzM1FlN3hjcmdWSm53SzV1OXhTczV2VV9pWWh4UlVSOVU3bllqWjJ4SVdxNDhKTUJTMW5sVVNmaDYtSEJEcHRsdWdMMWlrQ19Tam05Sk5uQy0xM2tEOHZRYw?oc=5",
+   "desc": "Fed holds interest rates steady, leaving December increase in play  The Lane Report",
+   "source": "US Fed",
+   "publisher": "The Lane Report",
+   "scope": "world",
+   "ts": 1793219722000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeklodEdteFRJenJGSFZESjhKMVlkNVNMcFFYYVpSMDZSU0lpVDYzMUpEalhwQWROX2ljWEExdDJPWkF1MG5YcmE1TkU2ZXRRT2NMdXVHRTlUVXc5UVgtRFBDUnVRTFBiQ21ERkpjamc1OEh2MGl",
+   "title": "Federal Reserve leaves interest rates unchanged - 11Alive.com",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeklodEdteFRJenJGSFZESjhKMVlkNVNMcFFYYVpSMDZSU0lpVDYzMUpEalhwQWROX2ljWEExdDJPWkF1MG5YcmE1TkU2ZXRRT2NMdXVHRTlUVXc5UVgtRFBDUnVRTFBiQ21ERkpjamc1OEh2MGlqN2lOQWYwOGpSdE5PX0UtVEZyMHg3RUx0SHoyZmxTTjExM2F1VkpvcUt3MUFtZ1I5VllZSlVjZXZrbUc0YkxLUElpaGhKaElDbjl0MDZYT0ZPSDJSSQ?oc=5",
+   "desc": "Federal Reserve leaves interest rates unchanged  11Alive.com",
+   "source": "US Fed",
+   "publisher": "11Alive.com",
+   "scope": "world",
+   "ts": 1793219520000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUFZ2MjFnVU95VWFxa0NJWTNTTlpZQzJBZlZLeXdLSmotZ3lnbnN6dFVBM3V2SjcyZVhPUzNtUGhkS1dMU3I0OTd6VXpKNTBGNkt0STc4MDEwVzM3cm9zUlNmWDNubDBCRi1aUkc2dnZ5Vmd6bW1",
+   "title": "Federal Reserve holds interest rates steady as midterm elections loom - WEIS | Local & Area News, Sports, & Weather - weisradio.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUFZ2MjFnVU95VWFxa0NJWTNTTlpZQzJBZlZLeXdLSmotZ3lnbnN6dFVBM3V2SjcyZVhPUzNtUGhkS1dMU3I0OTd6VXpKNTBGNkt0STc4MDEwVzM3cm9zUlNmWDNubDBCRi1aUkc2dnZ5Vmd6bW1LUGI0UnNpdkR2US1BekNncVduamx5aXNNYXByXy1Pc2hPUzJuWkRuLUVBQmJSV2pB?oc=5",
+   "desc": "Federal Reserve holds interest rates steady as midterm elections loom - WEIS | Local & Area News, Sports, & Weather  weisradio.com",
+   "source": "US Fed",
+   "publisher": "weisradio.com",
+   "scope": "world",
+   "ts": 1793219175000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMS15TGh0RC00ZWcyMUhwdTJVVU5DcFNyWTlzcXpkVEhiWXJaT2Qwc2VXVERFM29kcGJtallidHBJU2ZYSnd1cVg2aUkxbk5WYkhpYlFhR2hnU2hBb2RmV2tUTFNjM09Hd1BhRmRWbkwtamNDMmg",
+   "title": "The bond market swings, but stocks remain steady after the Fed says it won't raise interest rates - Los Angeles Times",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMS15TGh0RC00ZWcyMUhwdTJVVU5DcFNyWTlzcXpkVEhiWXJaT2Qwc2VXVERFM29kcGJtallidHBJU2ZYSnd1cVg2aUkxbk5WYkhpYlFhR2hnU2hBb2RmV2tUTFNjM09Hd1BhRmRWbkwtamNDMmgtRldTRnVzNVNfNl9XeDVJLXFrbjEwclVHNUp5V3dhb2x2RzdnaFFRdnJMSHhTczhfa2FyU1VIWHNTQUlGZElsYXA1X2NFY1drNmhWcDEtUFFoWVJYeVhpSlRyakdF?oc=5",
+   "desc": "The bond market swings, but stocks remain steady after the Fed says it won't raise interest rates  Los Angeles Times",
+   "source": "US Fed",
+   "publisher": "Los Angeles Times",
+   "scope": "world",
+   "ts": 1793219100000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTE",
-   "title": "Federal Reserve likely to skip rate hike despite elevated inflation - AP News",
+   "title": "Federal Reserve keeps rates unchanged despite elevated inflation - AP News",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpNR3hXT3B1c2RacHY4TFZnNjlfaTY2c0tXMXZjSWE5Z2JCZlNDZTE0dGRQYjNEejl5ZXFILTNPQ05pX0NyRWpwNW1YVzdpREhYblpHWTZMZkkzNFZnVTZ1NWV4M3FtR0VMUmRNTjczY1NGaTEtSFptWEY0NF9RZ1otWWdjMTZDYXE3SHRWM0NhdEtyczFDeXFYT3RWVF9DTmdGTHdGWHR1QQ?oc=5",
-   "desc": "Federal Reserve likely to skip rate hike despite elevated inflation  AP News",
+   "desc": "Federal Reserve keeps rates unchanged despite elevated inflation  AP News",
    "source": "US Fed",
    "publisher": "AP News",
    "scope": "world",
-   "ts": 1793205240000
+   "ts": 1793218500000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc19CVThCZUk5WHRMaC1NMTh2eWJwaXBZTG1MZzY0VWpoQzRzeGVpUm43QXNxbGFLR2VmVklEYzVodndMSVVtVDBzMjlPbFBLSGEwZUFlX2JaYS0tNW1kZG9UamxrYnVUVDc4WHRTMHFQRXJvam1",
+   "title": "Federal reserve holds interest rates steady despite high inflation - CBS News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc19CVThCZUk5WHRMaC1NMTh2eWJwaXBZTG1MZzY0VWpoQzRzeGVpUm43QXNxbGFLR2VmVklEYzVodndMSVVtVDBzMjlPbFBLSGEwZUFlX2JaYS0tNW1kZG9UamxrYnVUVDc4WHRTMHFQRXJvam1yZ2ZOdnkwcUtITnJNU0JWbkhHQjB2OFB6VHY4elBLU1BQamdGRkRTQQ?oc=5",
+   "desc": "Federal reserve holds interest rates steady despite high inflation  CBS News",
+   "source": "US Fed",
+   "publisher": "CBS News",
+   "scope": "world",
+   "ts": 1793218140000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWjdOaHZoX3J6U1JBZU92Q1VkV2F0OFI0WUo5b2l0UHh5WXVNWDZHVElxNktfMUh0WEh6REdiVXZxWlNHdm1hV2RBMHE1TnZjamY4dDA5VWZlMjhDV3I0Z1I4MDh4WDJnbG9fRVBZZW1FZHZCaHV",
+   "title": "The bond market swings, but US stocks remain steady after the Fed says it won't raise interest rates - AP News",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWjdOaHZoX3J6U1JBZU92Q1VkV2F0OFI0WUo5b2l0UHh5WXVNWDZHVElxNktfMUh0WEh6REdiVXZxWlNHdm1hV2RBMHE1TnZjamY4dDA5VWZlMjhDV3I0Z1I4MDh4WDJnbG9fRVBZZW1FZHZCaHVPRUhMc29Fa0ZDNVJ5X3NYVFUteDhlVXNtVzN0cHc?oc=5",
+   "desc": "The bond market swings, but US stocks remain steady after the Fed says it won't raise interest rates  AP News",
+   "source": "US Fed",
+   "publisher": "AP News",
+   "scope": "world",
+   "ts": 1793217960000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzh",
+   "title": "Fed’s Rate Hold Sends Bond Yields in Different Directions - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzhGN0RDSl9wZ0hDWi1fcGFTRnJHUTAzeEhUY1BZeVFJU1ZyaVFPdDkzNm9sVTVmcm9pSkxRWjlTOHRpSjlPNmxUb0pPaHBN?oc=5",
+   "desc": "Fed’s Rate Hold Sends Bond Yields in Different Directions  WSJ",
+   "source": "US Fed",
+   "publisher": "WSJ",
+   "scope": "world",
+   "ts": 1793217825000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1",
+   "title": "Fed leaves rates unchanged as it awaits 'accumulation of more information' - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5",
+   "desc": "Fed leaves rates unchanged as it awaits 'accumulation of more information'  Reuters",
+   "source": "US Fed",
+   "publisher": "Reuters",
+   "scope": "world",
+   "ts": 1793217823000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPazBCeUZ1clQ5WktEdzg0Y0daaUdFLWEtRk9FSklTSnd6ajZUa0hRTzdYREpJZHJ2NlBrWlhGdUkxbjlOUHVYbk9KX1pORklGRzdYMFlHUnB4bjA1X2lndHVHdEVCZGxuN3pYOVIwY1NMMlh2ZlF",
+   "title": "Fed Holds Rates Steady but Two Officials Sought Another Increase - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPazBCeUZ1clQ5WktEdzg0Y0daaUdFLWEtRk9FSklTSnd6ajZUa0hRTzdYREpJZHJ2NlBrWlhGdUkxbjlOUHVYbk9KX1pORklGRzdYMFlHUnB4bjA1X2lndHVHdEVCZGxuN3pYOVIwY1NMMlh2ZlF5YkQtS3lsZ0xpRGZtaUphcThQbllYMVd2RkZkakVrLVE?oc=5",
+   "desc": "Fed Holds Rates Steady but Two Officials Sought Another Increase  WSJ",
+   "source": "US Fed",
+   "publisher": "WSJ",
+   "scope": "world",
+   "ts": 1793217000000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rdGU2cGNZb2J4eHd3bEc1NWpDNFZZaExMWFZ0M2E1WWlOUjctOUl4b0YtWThXVUlwOUxIWWM1cFVjbTEzOEIzcDBtWTRRNDZmb21kXzdqY0MwcXVkeFIw0gFcQVVfeXFMT1dIZGdiaXV4SXRmMlF",
+   "title": "Federal Reserve keeps interest rates unchanged - Modern Ghana",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rdGU2cGNZb2J4eHd3bEc1NWpDNFZZaExMWFZ0M2E1WWlOUjctOUl4b0YtWThXVUlwOUxIWWM1cFVjbTEzOEIzcDBtWTRRNDZmb21kXzdqY0MwcXVkeFIw0gFcQVVfeXFMT1dIZGdiaXV4SXRmMlFFVDJ0NmxXZWJEdktGcDd0c19yNGlJOHlqdVdsdTRUclRuMmlwNjgyeC04TFRlMjdyZFBZNFlKdUFrREJIbmRDd3VJY2ZOazE?oc=5",
+   "desc": "Federal Reserve keeps interest rates unchanged  Modern Ghana",
+   "source": "US Fed",
+   "publisher": "Modern Ghana",
+   "scope": "world",
+   "ts": 1793217000000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mNjlHeGlfUldnbEgzaTlGdjhqNGR2d2lBWlFmNTFVcnJLYktrZ1lmZEpTYnRTQUxGT2Y3VVdFc3dJZERvUjhXM2VaaEFya3RHM3BpSHUzdHQzYW9aMUNZ0gFcQVVfeXFMTkVuREduXzJremZ0YWo",
+   "title": "Federal Reserve will hold fewer interest rate meetings in coming years - Modern Ghana",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mNjlHeGlfUldnbEgzaTlGdjhqNGR2d2lBWlFmNTFVcnJLYktrZ1lmZEpTYnRTQUxGT2Y3VVdFc3dJZERvUjhXM2VaaEFya3RHM3BpSHUzdHQzYW9aMUNZ0gFcQVVfeXFMTkVuREduXzJremZ0YWoza2Z3b2JzVy1Kd3lsZUdwMUpJMFJiM2lCeFNvMnQ5eEpHU0RlYnhRb2RoVVBabXRHcnJfQm1jeHQ3V1lqMzNWNVM0clFpeTk?oc=5",
+   "desc": "Federal Reserve will hold fewer interest rate meetings in coming years  Modern Ghana",
+   "source": "US Fed",
+   "publisher": "Modern Ghana",
+   "scope": "world",
+   "ts": 1793217000000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZGxuV1FNejRPOFFSMEh0d0VJUjVSTmFpT0lyNTBjQy1HYXRmbFp1aERHdUllS2VvNmRaTldtOXlmUXpwMDhZQnl0aHFrMmkxaWk1TTZCWVRkMGN4eWw2Nm5fcmN1c3MxTExWU3gyYkRyN1ctRTB",
+   "title": "Federal Reserve holds interest rates, despite higher inflation - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZGxuV1FNejRPOFFSMEh0d0VJUjVSTmFpT0lyNTBjQy1HYXRmbFp1aERHdUllS2VvNmRaTldtOXlmUXpwMDhZQnl0aHFrMmkxaWk1TTZCWVRkMGN4eWw2Nm5fcmN1c3MxTExWU3gyYkRyN1ctRTBkZm9obTRMNFZwS0taWUhxdC1MWDcwTEZR?oc=5",
+   "desc": "Federal Reserve holds interest rates, despite higher inflation  Yahoo",
+   "source": "US Fed",
+   "publisher": "Yahoo",
+   "scope": "world",
+   "ts": 1793216877000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeVhVQUlnMEgzbUVFbGR2NV9vWV9tM3hNeVVpbG5DajNFNFd6cFdnQ193eFBLS3JFdDFkY3dSSXVuR0FVUzVab2dpNm9FTXo1SGZCd1RvMDlKcnNCdFVqRnBlQWY5bnBlXzRfQi1qeVVhenFqRlR",
+   "title": "Federal Reserve keeps rates unchanged despite elevated inflation - The Journal Gazette",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeVhVQUlnMEgzbUVFbGR2NV9vWV9tM3hNeVVpbG5DajNFNFd6cFdnQ193eFBLS3JFdDFkY3dSSXVuR0FVUzVab2dpNm9FTXo1SGZCd1RvMDlKcnNCdFVqRnBlQWY5bnBlXzRfQi1qeVVhenFqRlRISThVZm1zS1NxSmNXZ3VoUVRLMXF4RGxHQTAzM0VrZ3Nucm5yVUR6MkxGRWU4TXMwVy1Zdjl5cldpRTlSMXlzcS1vZExtZFR4MnJsa0hVakxoMGxEMHp2ZEhNeVdEbXJjRC15QkVsQk04dkR1RGZJV2x2UTM4VkZR?oc=5",
+   "desc": "Federal Reserve keeps rates unchanged despite elevated inflation  The Journal Gazette",
+   "source": "US Fed",
+   "publisher": "The Journal Gazette",
+   "scope": "world",
+   "ts": 1793216820000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjMzX1lkVW5TaU1rWGJ0Yy1VT3pDb2dsNjNCZDVWRkdhMzUzbjFEek1aZzhQelJkbEVBVWRiT19jVWFoSHhuczJDZ0dUTGNUR1JaU3hJS0tOS0Y0WkpScnp0Zm9TUWt2d1RMM0hTbHlTc2xHQkF",
+   "title": "Fed keeps interest rates unchanged, but two officials dissented in favor of a rate hike - ABC17NEWS",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORjMzX1lkVW5TaU1rWGJ0Yy1VT3pDb2dsNjNCZDVWRkdhMzUzbjFEek1aZzhQelJkbEVBVWRiT19jVWFoSHhuczJDZ0dUTGNUR1JaU3hJS0tOS0Y0WkpScnp0Zm9TUWt2d1RMM0hTbHlTc2xHQkFyWWxTaVk0bldseUU0ZE1aREpRMTBMZk5kNUFjdlRTblVNWVFmR1Rzam8zemFOMHNkQjlvQ2U5aWktVko2akpWdWhqd08xcWpUMGxWa2Y3SHdHUnREVWJpZE94Vm9mcGJCVDJOYW9ZZ1h6TWln?oc=5",
+   "desc": "Fed keeps interest rates unchanged, but two officials dissented in favor of a rate hike  ABC17NEWS",
+   "source": "US Fed",
+   "publisher": "ABC17NEWS",
+   "scope": "world",
+   "ts": 1793216711000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wSnZBWVpLV3lueUc5bmN2VEZPVzZ2WlN1LWxFaFg3LTV6M3pLTHozaVcxRTAxS3lFak82MHB1R0VoYmY4cUk3cnFzbWJuSHllTk9zcFZwQVlKeXRSbFBXQk54M3Q2Wk9abkg0WkdSMA?oc=5",
+   "title": "Fed leaves rates steady as governor Lisa Cook dissents - Axios",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wSnZBWVpLV3lueUc5bmN2VEZPVzZ2WlN1LWxFaFg3LTV6M3pLTHozaVcxRTAxS3lFak82MHB1R0VoYmY4cUk3cnFzbWJuSHllTk9zcFZwQVlKeXRSbFBXQk54M3Q2Wk9abkg0WkdSMA?oc=5",
+   "desc": "Fed leaves rates steady as governor Lisa Cook dissents  Axios",
+   "source": "US Fed",
+   "publisher": "Axios",
+   "scope": "world",
+   "ts": 1793216518000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2Vka0JocEw3T011U2lwZDd5RjJWbVZRYXdvU25PWjhvUXFNbThDUXJrN3hVbUNNWnhvVHF3VmliS2ZVSXR3YXQyV1BObURDdkxxNnFxejc0ZFNVa1FBQUczM2VYNVRoaDFmLXJRa19UR3pHckV",
+   "title": "FOMC holds rates steady, markets rise modestly - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2Vka0JocEw3T011U2lwZDd5RjJWbVZRYXdvU25PWjhvUXFNbThDUXJrN3hVbUNNWnhvVHF3VmliS2ZVSXR3YXQyV1BObURDdkxxNnFxejc0ZFNVa1FBQUczM2VYNVRoaDFmLXJRa19UR3pHckViSmhUSWROTTJvSTNqLXlGaWVwd0QxdUQ0a0Q1NFZJbWRILXFRSHY?oc=5",
+   "desc": "FOMC holds rates steady, markets rise modestly  Yahoo Finance",
+   "source": "US Fed",
+   "publisher": "Yahoo Finance",
+   "scope": "world",
+   "ts": 1793216414000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTFNHanJ3MTBjVnBzMDd2NTFYRTR1azVJNmdJbXpiYm8wd0phUHZfcVNBWE1ySUwtSnJsVldzdGxoMXZTd09FR1pPV1EwV2N2YkROMVcxUENTRTNVd2NfQUdiM3JReWNhTTdDVjNMZ1diU0NxSEN",
+   "title": "Fed votes in split decision to hold interest rates steady despite sticky inflation - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTFNHanJ3MTBjVnBzMDd2NTFYRTR1azVJNmdJbXpiYm8wd0phUHZfcVNBWE1ySUwtSnJsVldzdGxoMXZTd09FR1pPV1EwV2N2YkROMVcxUENTRTNVd2NfQUdiM3JReWNhTTdDVjNMZ1diU0NxSEN2M1l1THVaNUo3emVBU0pSRHFZWE1JcHY1VkliTU9SRjB2VDdlTUJVSHZod1ZnZW1SeW53MWIyNDNDSWk5WW5IczBETFdjakhzdVNXNVdzNFFQTEtmQzNBek5wWmZjLWRxSmI2N09DZTJn?oc=5",
+   "desc": "Fed votes in split decision to hold interest rates steady despite sticky inflation  Yahoo Finance",
+   "source": "US Fed",
+   "publisher": "Yahoo Finance",
+   "scope": "world",
+   "ts": 1793216367000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNHN1OWpYMGxjUjdaaTc0eVhMcTk5X1RCTXdUdksxNDhjamVndnYySVNUaWFvMGVMRkRSdkdyMmpPdUJzZEpzdjFjYWIyOEdYOVJPeDh4SGM1Yi11b0V2VjQtOVBUcnBQU3dHbG5XOEU2M21YT3d",
+   "title": "Federal Reserve keeps rates unchanged despite elevated inflation | National News | 2news.com - KTVN",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNHN1OWpYMGxjUjdaaTc0eVhMcTk5X1RCTXdUdksxNDhjamVndnYySVNUaWFvMGVMRkRSdkdyMmpPdUJzZEpzdjFjYWIyOEdYOVJPeDh4SGM1Yi11b0V2VjQtOVBUcnBQU3dHbG5XOEU2M21YT3dVdUNpTDdpRGhXWExaVWlrUDNwOHdiSTJLMXZ3V0xIemJiNXB5WTI0c1Z1UXJEdkZkM2pwZHhMN1lYeGdLXzUtdW5URW4wTUthcUVjdTh2OF9maHlxOTg5enFjc0pucVVfLUdOc3pDSDRBLUl3?oc=5",
+   "desc": "Federal Reserve keeps rates unchanged despite elevated inflation | National News | 2news.com  KTVN",
+   "source": "US Fed",
+   "publisher": "KTVN",
+   "scope": "world",
+   "ts": 1793216228000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tMUlxMlhyZGowTmtxUW9oU1NrQjU1UzBWd0pobmpmdG83UHBURXhSSkgydEdTZnFJY2J2VFpJOGZGOWJlMGc5VEhxaW5EVmRYZ2NHZHJPZXhhV3NSazdDb0NpSWZMc3hBMnBYS210Nm5PNzRJTWf",
+   "title": "Fed meeting recap: Warsh says central bank will host fewer rate-setting meetings in future years - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tMUlxMlhyZGowTmtxUW9oU1NrQjU1UzBWd0pobmpmdG83UHBURXhSSkgydEdTZnFJY2J2VFpJOGZGOWJlMGc5VEhxaW5EVmRYZ2NHZHJPZXhhV3NSazdDb0NpSWZMc3hBMnBYS210Nm5PNzRJTWfSAXtBVV95cUxPRWNadTVHenE4RU90Q0FxX0lOWjJWamVmRm4xUnk1cVJlZkFaeDRjX21iX1FKZEhYRmZVWFBPWDhUQks0elVQbjU5U2NVbTdGNWdsS1Y0Slo2SE9zTFhjc2EwQU9EaHRoR3pWN3Y2UmM2TmswVUxTODJObXc?oc=5",
+   "desc": "Fed meeting recap: Warsh says central bank will host fewer rate-setting meetings in future years  CNBC",
+   "source": "US Fed",
+   "publisher": "CNBC",
+   "scope": "world",
+   "ts": 1793215971000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmJkV2lUbklBWGZ4SWxMeTI5bnBTRnI2bWV2dmpqR2dGajFoeHM4cWRTSmxhMnV4YUZaMnI4TnAzQmJ0Y1RTUFhiaEoxWW9ZQWNjWlIycnZfWGpSZVF5ZU83MS1ZSW9tN1pyWHdIY1p1NjRCVFl",
+   "title": "Fed Holds Rates Amid Treasury Yield Surge - Bisnow",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmJkV2lUbklBWGZ4SWxMeTI5bnBTRnI2bWV2dmpqR2dGajFoeHM4cWRTSmxhMnV4YUZaMnI4TnAzQmJ0Y1RTUFhiaEoxWW9ZQWNjWlIycnZfWGpSZVF5ZU83MS1ZSW9tN1pyWHdIY1p1NjRCVFlaR0FaVlZoZWtMb0ZoSEFrX1NGbGtvNG9VbE9GY3NQakdrRTFJYjlyeG0zTWc?oc=5",
+   "desc": "Fed Holds Rates Amid Treasury Yield Surge  Bisnow",
+   "source": "US Fed",
+   "publisher": "Bisnow",
+   "scope": "world",
+   "ts": 1793215940000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR1NGdENpZ1VCZVFzQjJZQVNma3NIWnJ1UGxuVG5zTGZWTmE2TDVxbW1sRE8tS2NrczNpRkFpV0ZfdUN4eExlT2lkbEV6T1kxREN3UlY4VldkZzYtME5IQ2l1UWczMzlJNUFlSV9ObnNnenl0UTd",
+   "title": "Federal Reserve keeps interest rates unchanged - NBC News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR1NGdENpZ1VCZVFzQjJZQVNma3NIWnJ1UGxuVG5zTGZWTmE2TDVxbW1sRE8tS2NrczNpRkFpV0ZfdUN4eExlT2lkbEV6T1kxREN3UlY4VldkZzYtME5IQ2l1UWczMzlJNUFlSV9ObnNnenl0UTd0NDliaXEwVkhycWFKRUxLazhMdG96V1ZnSUxOZTlpTnlINXdkWTY?oc=5",
+   "desc": "Federal Reserve keeps interest rates unchanged  NBC News",
+   "source": "US Fed",
+   "publisher": "NBC News",
+   "scope": "world",
+   "ts": 1793215692000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckZQR19uZVlJMVlpTTV3Nk5BZzFFdUFIOERyZ0lYdy0tQVJiWkVFLUhpajRIbWd4M0t4S29YYWtPMTdUY3FYNVdMdjhpdThsTkI4WXlKLVAzUHFmdXZfaUtuTkc3YUJhNlNqZ2xLWWt4V0hUSVZ",
+   "title": "Federal Reserve holds interest rates steady in face of persistent inflation - WFLA",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckZQR19uZVlJMVlpTTV3Nk5BZzFFdUFIOERyZ0lYdy0tQVJiWkVFLUhpajRIbWd4M0t4S29YYWtPMTdUY3FYNVdMdjhpdThsTkI4WXlKLVAzUHFmdXZfaUtuTkc3YUJhNlNqZ2xLWWt4V0hUSVZNUUpCWDlGUXpaLU0yWWVzR2h2d29MY2VQNGk1cjJoTzBlbkZscjd2TnhLejI5Y2J5QUp3YVlHQWdLX1F3?oc=5",
+   "desc": "Federal Reserve holds interest rates steady in face of persistent inflation  WFLA",
+   "source": "US Fed",
+   "publisher": "WFLA",
+   "scope": "world",
+   "ts": 1793215440000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV3V4TERSUEhPZUFUVTdrMUhPenEwMUFnMlc2R2NjcHRvWEFHajRkcXNLQjJUX0lsR2NxRjJpVHh2R0dfdVdlMmVGS3NjZ1hYQ0xHX05pMWdkZEhnUThhTVlvWEhGSXNBOFZsR1Jkc3labXNqb05",
+   "title": "Federal Reserve holds interest rates steady in face of persistent inflation - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV3V4TERSUEhPZUFUVTdrMUhPenEwMUFnMlc2R2NjcHRvWEFHajRkcXNLQjJUX0lsR2NxRjJpVHh2R0dfdVdlMmVGS3NjZ1hYQ0xHX05pMWdkZEhnUThhTVlvWEhGSXNBOFZsR1Jkc3labXNqb05McW53NEl4cjhpUnlCRWMtck1xWF93Mw?oc=5",
+   "desc": "Federal Reserve holds interest rates steady in face of persistent inflation  Yahoo",
+   "source": "US Fed",
+   "publisher": "Yahoo",
+   "scope": "world",
+   "ts": 1793215440000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSWRweGRCU2VUY3RzRjRaeXpXb1BEY0xxM1Y3aVVLYnQ1eUZ1Tl9xMmNaOG85d2hBU0ZVZmZ5RHYzamdldllkOFpPNEdYR2FqZ0tKVThCdHE2M0hxX09GanZCOWNURjkzRF92LUdEWmJOYTlPbEQ",
+   "title": "Fed plans to eliminate some rate-setting meetings, chairman says - NBC News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSWRweGRCU2VUY3RzRjRaeXpXb1BEY0xxM1Y3aVVLYnQ1eUZ1Tl9xMmNaOG85d2hBU0ZVZmZ5RHYzamdldllkOFpPNEdYR2FqZ0tKVThCdHE2M0hxX09GanZCOWNURjkzRF92LUdEWmJOYTlPbEQ1N2lTRWc0ZmxpMzNDS0ZIblBSSFpsNDRETVFpZGZKQmlj?oc=5",
+   "desc": "Fed plans to eliminate some rate-setting meetings, chairman says  NBC News",
+   "source": "US Fed",
+   "publisher": "NBC News",
+   "scope": "world",
+   "ts": 1793215211000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkZ4MjgyNUxNMy1YdDNIZU9zVkg5YW4wZGFnWXlJaXpFN21CWmt1NUtwZ1NFem5WbmlabmZidHluTmhOdnhTSDN4VUhGZGpYb0ljcHpfOG90cXFWTWdWVkZ1VkVQY2VPWWU5OHA3TEpTa0V4ZXN",
+   "title": "Fed leaves interest rates unchanged despite inflation in the US - Al Jazeera",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkZ4MjgyNUxNMy1YdDNIZU9zVkg5YW4wZGFnWXlJaXpFN21CWmt1NUtwZ1NFem5WbmlabmZidHluTmhOdnhTSDN4VUhGZGpYb0ljcHpfOG90cXFWTWdWVkZ1VkVQY2VPWWU5OHA3TEpTa0V4ZXN3SUJTQU9zQ0x4c2xUcmt1U2ZNN1l2X3BqZ2pUZ2xyemVlU201ckZ2Q2RpQ1NsVUpXalRlSV9C0gGyAUFVX3lxTE5STllLXzlnRG9TMzhlUXZZUl91SEhzbnZ3ZTRzel9FcElGemJVWXFXc3g0S0x3VUthZmUtdW8zNnVfbkQxS1QwTnp1bjdxb2dYdHREUDE0WjJtVDVUUTB2N1V3ekNBcTNJZm1uWEpURlRQOTFsMGhWaVAzUFlEVzdSaW9BYmpXbjRpNmh3ckRCcTNOVVZWZDZzRUNQa3p4RWQzZ1dXYXV2ZlJpWXVFWlBoU2c?oc=5",
+   "desc": "Fed leaves interest rates unchanged despite inflation in the US  Al Jazeera",
+   "source": "US Fed",
+   "publisher": "Al Jazeera",
+   "scope": "world",
+   "ts": 1793215150000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2xzS2M4a2hyV2RDRllWdE5XNDFabG5jMU1aZjVUbTBUOUwwYWdHc2QxdkNJWDhIZmliRG5DZXROOG5xZU1EbE0yQjMwTE4tXy1FTzFmbDhldEJ4LXBZY2VTeFE2QnZQMlJGb1F4b0ZoOVBxSmF",
+   "title": "Watch live: Warsh speaks after Fed votes to keep interest rates steady - The Hill",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2xzS2M4a2hyV2RDRllWdE5XNDFabG5jMU1aZjVUbTBUOUwwYWdHc2QxdkNJWDhIZmliRG5DZXROOG5xZU1EbE0yQjMwTE4tXy1FTzFmbDhldEJ4LXBZY2VTeFE2QnZQMlJGb1F4b0ZoOVBxSmFmUzROVURXVENVVVNZNmFiU2J5aEhGUEVMWmQ0YlIwOWpKVUpHblNqdFgzM0tBR9IBqgFBVV95cUxPTVZHUkFpeXR2Qlg3OGxTXzdwb01zVTdCdWRXRWZmS1REMTdXZnJTdFo3NGc0X1NKV2NzQ3pNNUI3eGxvaFFHeDUzOV9iN0JpTWRuVURfaG9GcHNZYi1wZkJBTDczV3NabXNxb2RUclB1Q21QNU9RalE3YzBrVnY4bFctQWhQbi1PQ2NfOFFFdmwtbTVOSUt0aUlRajJOaXBSYTdBUkcwWHRXUQ?oc=5",
+   "desc": "Watch live: Warsh speaks after Fed votes to keep interest rates steady  The Hill",
+   "source": "US Fed",
+   "publisher": "The Hill",
+   "scope": "world",
+   "ts": 1793214660000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQk9NaVhpU1pBcnZrM1dqb1JHeWNZUjNMWmx2U254TC1WZG1CX3gtR09Ca0lJWF9FdnhZbVBNMWJ2cUd5OHp5dzBwYXhLa2h4ZEljTTR3WjFmMENoTktaX0pRT3FfMFRSZXcwZjlETmYxeVp3Z2J",
+   "title": "US Federal Reserve holds interest rates steady as inflation remains elevated - Latest news from Azerbaijan",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQk9NaVhpU1pBcnZrM1dqb1JHeWNZUjNMWmx2U254TC1WZG1CX3gtR09Ca0lJWF9FdnhZbVBNMWJ2cUd5OHp5dzBwYXhLa2h4ZEljTTR3WjFmMENoTktaX0pRT3FfMFRSZXcwZjlETmYxeVp3Z2JGano4UEd6QzUtRmY3b2JKVDRVZWVXdlFfZzdYcGRBVC1rdlFTN1BnZw?oc=5",
+   "desc": "US Federal Reserve holds interest rates steady as inflation remains elevated  Latest news from Azerbaijan",
+   "source": "US Fed",
+   "publisher": "Latest news from Azerbaijan",
+   "scope": "world",
+   "ts": 1793214543000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTDJSdUxNV185NFJEdGFFNTdnWmRieDBhc29KUXFRbnMtaXZFT203N1gxbC1XbTZucDZ4bWZQTjN0VlExaGpDbzBMVlI5ZWlpVVpIbnhabFNkSHNQQjVKTnRZX3RCUDBGdTdCUGl3RTA5cHByUkp",
+   "title": "Federal Reserve holds interest rates steady in face of persistent inflation - The Hill",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTDJSdUxNV185NFJEdGFFNTdnWmRieDBhc29KUXFRbnMtaXZFT203N1gxbC1XbTZucDZ4bWZQTjN0VlExaGpDbzBMVlI5ZWlpVVpIbnhabFNkSHNQQjVKTnRZX3RCUDBGdTdCUGl3RTA5cHByUkpraVlheWVsZVpUUtIBhgFBVV95cUxPYUdpX0tZbFdRc0lGTy1zRktaUXpiV19YVGhZU0pkN2Iya0JlTlp4WXJTTGw1aF9kc21NYjk3bi05ZG8yUEtLWHpOU3E4dnFFcGs0YXRwYTVabFhTVFIwb1NrX0NnT2ZQWVB6U3E1UVhZSGgzVU5TWWM1NFlMbGZFeUtwS0kxUQ?oc=5",
+   "desc": "Federal Reserve holds interest rates steady in face of persistent inflation  The Hill",
+   "source": "US Fed",
+   "publisher": "The Hill",
+   "scope": "world",
+   "ts": 1793214300000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUlVTkNGMXVMcWFaVWNYZXRyd1RaMEpPYjVKY1c2SUxidU5BQVVMcW5Ec0d4YnpyQ3NIbThFTEsxcU9rVWlBUWdVOFNOcVRCZC1XWUxDLUFlV3IyMzM1b1JrbFJTTGNFWUdUQ3JkQ3RLZEpNaEN",
+   "title": "Fed holds US interest rates steady despite inflation fears - The Times",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUlVTkNGMXVMcWFaVWNYZXRyd1RaMEpPYjVKY1c2SUxidU5BQVVMcW5Ec0d4YnpyQ3NIbThFTEsxcU9rVWlBUWdVOFNOcVRCZC1XWUxDLUFlV3IyMzM1b1JrbFJTTGNFWUdUQ3JkQ3RLZEpNaENXaC1IX3FzbUZfVE04SnhHT0wwMzFGeElYVVNXTVREOGVEamM5SjJwM1R6OHc?oc=5",
+   "desc": "Fed holds US interest rates steady despite inflation fears  The Times",
+   "source": "US Fed",
+   "publisher": "The Times",
+   "scope": "world",
+   "ts": 1793214300000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0E5SWVsSUpNLTJQbjhLVTFya3NEU0NtOGVERzFhTzg2Zl90TDJRVnJpcTM2dWRURy1QbUkxUWJXam01TGo3Q2EtRUdrU2w0ZzlfTElPbkJKRW9rV0VoYXRQWV8tSUZHalhWUEF6S1A2VV9rTFN",
+   "title": "Fed holds interest rates steady – but investors bet on December rate hike - New York Post",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0E5SWVsSUpNLTJQbjhLVTFya3NEU0NtOGVERzFhTzg2Zl90TDJRVnJpcTM2dWRURy1QbUkxUWJXam01TGo3Q2EtRUdrU2w0ZzlfTElPbkJKRW9rV0VoYXRQWV8tSUZHalhWUEF6S1A2VV9rTFNhY3o0aUxtYzhWOTl6MUo1UUVCcE9EWnV3blV0OHM4TFRXUTRzdUFwNS1iWmJJVkhPWk96N05GRmUwWg?oc=5",
+   "desc": "Fed holds interest rates steady – but investors bet on December rate hike  New York Post",
+   "source": "US Fed",
+   "publisher": "New York Post",
+   "scope": "world",
+   "ts": 1793214180000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY01DRklZUnlicXJwamJidXZ2SV95SkZobi1kVFF4R0JTQUdJSW9RRFREUDFjblB5dTk4Zk5FZHJGaTcxZTd0Wmc1dDA5UjdLdVdtdXp5SkI0MDRvbDloNFRVRmkwRmFpNmRWUjg3anA3eFU5dUY",
+   "title": "Federal Reserve keeps interest rates unchanged in final vote before midterms - NBC News",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY01DRklZUnlicXJwamJidXZ2SV95SkZobi1kVFF4R0JTQUdJSW9RRFREUDFjblB5dTk4Zk5FZHJGaTcxZTd0Wmc1dDA5UjdLdVdtdXp5SkI0MDRvbDloNFRVRmkwRmFpNmRWUjg3anA3eFU5dUYwVzdjS0JxY2c2ZEtaa2t2T2IxSVh6YTBpQ2N5OTRmdnM2M0FsWHkzOGJFZDNRNkJPeV9Jekt5V2c2d2dvdktIMFhVc1NmaVAyZVA?oc=5",
+   "desc": "Federal Reserve keeps interest rates unchanged in final vote before midterms  NBC News",
+   "source": "US Fed",
+   "publisher": "NBC News",
+   "scope": "world",
+   "ts": 1793214136000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaEtDanE3akhyU3ZnZXgyWTNMcXQ1cEk2S3JuTXo5bHhkT0tNVWVxRFdtdWVCSVZOa1A3NTY0b0w3R083S3BtNW8xcGM0N1RyYmZaVzhKWnQxREp2c1FNTjFXa3VNcWctWXJkeFFFbTdqQ2FsSmt",
+   "title": "Fed holds rates; mortgage relief unlikely, economists say - Inman Real Estate News",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaEtDanE3akhyU3ZnZXgyWTNMcXQ1cEk2S3JuTXo5bHhkT0tNVWVxRFdtdWVCSVZOa1A3NTY0b0w3R083S3BtNW8xcGM0N1RyYmZaVzhKWnQxREp2c1FNTjFXa3VNcWctWXJkeFFFbTdqQ2FsSmthX0Nkc3UzQ0R5T29R?oc=5",
+   "desc": "Fed holds rates; mortgage relief unlikely, economists say  Inman Real Estate News",
+   "source": "US Fed",
+   "publisher": "Inman Real Estate News",
+   "scope": "world",
+   "ts": 1793213898000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVGVGdzBsTG1IV1NGYlNtYUdfVXB2eHVrNVhDMkZaZzRuMUFyV3FBcXRQaWxpTVhFOWo0ejN3Zk1lNjVMcGFlSV90UVlUTmdGSEtfdWFGSldTVmoxeUltMHpPdTFkOFdtMDZtRlRJVHhIQUNobHl",
+   "title": "Federal Reserve keeps rates unchanged despite elevated inflation, gives little signal of next move - Scripps News",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVGVGdzBsTG1IV1NGYlNtYUdfVXB2eHVrNVhDMkZaZzRuMUFyV3FBcXRQaWxpTVhFOWo0ejN3Zk1lNjVMcGFlSV90UVlUTmdGSEtfdWFGSldTVmoxeUltMHpPdTFkOFdtMDZtRlRJVHhIQUNobHlzMnJha3ZjY0NSSWk2ZnhpYlh6QVREaFhGVDBHSmhYaWtjUXdQWllDcV9jZkVnRkcyUE9tZUU0d21HdEZMRS00TW5JcDQxT1Q1R1hkR3VPbGV6ZTdWdDBqNXZLN29yMXJabXkwZw?oc=5",
+   "desc": "Federal Reserve keeps rates unchanged despite elevated inflation, gives little signal of next move  Scripps News",
+   "source": "US Fed",
+   "publisher": "Scripps News",
+   "scope": "world",
+   "ts": 1793213640000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbGVRM0xZT1pUakFRT1lpT1JIOEo2cUhKb2JJeTFOdXBRQXRmdGt2VW5kLXpHVXhVOWRwcmt1UldxU3hhc3BoZUwya0xyYzZiNFI3dHBsVkZYX1VXYmM0TFhPNVpnSEFCUGkySUhBNzVFdWlqYVZ",
+   "title": "Federal Reserve leaves interest rates unchanged amid inflation concerns - USA Today",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbGVRM0xZT1pUakFRT1lpT1JIOEo2cUhKb2JJeTFOdXBRQXRmdGt2VW5kLXpHVXhVOWRwcmt1UldxU3hhc3BoZUwya0xyYzZiNFI3dHBsVkZYX1VXYmM0TFhPNVpnSEFCUGkySUhBNzVFdWlqYVZBUi1WTENLQldtanp2TkNzMG1NMWJQTmxObmJHdDJkX09ubWpBYVpSSXBINHFzU01vUk1GZFoxNGFsZFJBWEVkWHFVZDlsZDR4TV9kMnZxa0JJZw?oc=5",
+   "desc": "Federal Reserve leaves interest rates unchanged amid inflation concerns  USA Today",
+   "source": "US Fed",
+   "publisher": "USA Today",
+   "scope": "world",
+   "ts": 1793213429000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83c1dNSW44NGxSVkxfbnRRX2dUZmZDLUNic2dic2tObjkzS1JZa1BkVHNPRWZ4VHlWWmpOVUtJcDltUFpCNUVwNzh3SVREdVMxWEdlakwxR2VIXzg?oc=5",
+   "title": "Federal Reserve interest rate decision looms as inflation and gas prices impact consumers - Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83c1dNSW44NGxSVkxfbnRRX2dUZmZDLUNic2dic2tObjkzS1JZa1BkVHNPRWZ4VHlWWmpOVUtJcDltUFpCNUVwNzh3SVREdVMxWEdlakwxR2VIXzg?oc=5",
+   "desc": "Federal Reserve interest rate decision looms as inflation and gas prices impact consumers  Fox Business",
+   "source": "US Fed",
+   "publisher": "Fox Business",
+   "scope": "world",
+   "ts": 1793213339000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc1BWaEhJTENtZVh4TWR1ZUFaNjl5dTk1U1dmcm51R19KaEVNQlNoMURRMnhVX1ZJM0xqQnROLUQtaXBWLUtIYmhna0xveDBSS2tUSUpZVHNrSkREMnhGcWh3azRUTENELVhZN05wNkJjdjBITUV",
+   "title": "US stocks remain steady after the Federal Reserve says it won't raise interest rates - WRAL",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc1BWaEhJTENtZVh4TWR1ZUFaNjl5dTk1U1dmcm51R19KaEVNQlNoMURRMnhVX1ZJM0xqQnROLUQtaXBWLUtIYmhna0xveDBSS2tUSUpZVHNrSkREMnhGcWh3azRUTENELVhZN05wNkJjdjBITUVSX25UR2kzWGctQ1RRNkZXMkpucWJQZGZXRDlmU2xYMTV5ei0wNUh5MmlqUHV4eHBfcFNIRW5jcG5hQg?oc=5",
+   "desc": "US stocks remain steady after the Federal Reserve says it won't raise interest rates  WRAL",
+   "source": "US Fed",
+   "publisher": "WRAL",
+   "scope": "world",
+   "ts": 1793213100000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHhyOWk0NW9KMUxVdWU1d015dG1YZmdWV2JsbGFRbTV5UFUxZUdENy10ZHl4M3FQakxWNW53enE3Um9IT3NCUUtDaDlkLWpXX0lpUWZPV214WURKVVdLcWtTczUzdjZiVm9HUFNzRmVSeUd2TzF",
+   "title": "Federal Reserve leaves interest rates unchanged despite rising inflation - NBC News",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHhyOWk0NW9KMUxVdWU1d015dG1YZmdWV2JsbGFRbTV5UFUxZUdENy10ZHl4M3FQakxWNW53enE3Um9IT3NCUUtDaDlkLWpXX0lpUWZPV214WURKVVdLcWtTczUzdjZiVm9HUFNzRmVSeUd2TzF2VDBpWlFvbzdyeWotdl9zOVAzaDhCZW9MQQ?oc=5",
+   "desc": "Federal Reserve leaves interest rates unchanged despite rising inflation  NBC News",
+   "source": "US Fed",
+   "publisher": "NBC News",
+   "scope": "world",
+   "ts": 1793213063000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMjBLMnhJWWU5Z1hPTzM0bVFzbEVzQ1FHTnlMNlBZdkN6ZjFNbjdUTXVYRm9RcmFoZDZ5QnhjREYtOVhfSVdvT3k4ZFVYWUI4WUtfSGFOcXJzc3NkMUU1YnJ5ald3SUFzN09pSzBpTkRMNmpMVVN",
+   "title": "BFSI Insight Summit: Sebi explores domestic AI model for securities market - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMjBLMnhJWWU5Z1hPTzM0bVFzbEVzQ1FHTnlMNlBZdkN6ZjFNbjdUTXVYRm9RcmFoZDZ5QnhjREYtOVhfSVdvT3k4ZFVYWUI4WUtfSGFOcXJzc3NkMUU1YnJ5ald3SUFzN09pSzBpTkRMNmpMVVNjbHRhLUxQYnVQUW02NExuTV84TmlxSko4TFNWUVZSRlhPT1VNcWYxMGp3c2xqc2l5RFhVbnB4cmprYTBpVWtCWGFpM29RcWlqRVZCdHVtX3V2aWlJalVwTFN0QTkzRWk1VGtPb05ITVRj0gHkAUFVX3lxTFBXc19lWWVUbXR1ZzBtV2ZmaDRTZmRlMkEyZndJcS1HOThuaW4wSWlPZW9ScjQ5dnp2UVBWdGtLYXZRSUlMTDdtbkpYSlhhUUpOV2NEUW1iWkJlQXByekU2TWNMRXVtMEhpeGN3UThqWS1hWFZBbEVPQ2E5REhBT3ZvdEFIaTNwZ3pueDlIZjRXRXlldlhzb3k5bDBKNjRIcHZTSmhwVlVJcG5nTzhXR2FjQWdfWnNkR2JmUHU3N0pibl93Ym52NG9Seks1WFJBWFk3VlhoSUNNeElFNFNwcW1OYUE4Rg?oc=5",
+   "desc": "BFSI Insight Summit: Sebi explores domestic AI model for securities market  Business Standard",
+   "source": "SEBI",
+   "publisher": "Business Standard",
+   "scope": "india",
+   "ts": 1793212999000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnpHaUFjemNqZTd5MmczNFRmUTUxbERzZE96YURYNkNfUmE1NGh5OFVXckwwaURERGxwZ0xNaXZmUkRvaGdocXNIQjhoWWlVdllCTURZMW1SZUJvMVhJOEI4UDBLTGVWYUc0ZzFvYlN2UGRXVS1",
+   "title": "Federal Reserve keeps rates unchanged despite elevated inflation, gives little signal of next move - WHDH",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnpHaUFjemNqZTd5MmczNFRmUTUxbERzZE96YURYNkNfUmE1NGh5OFVXckwwaURERGxwZ0xNaXZmUkRvaGdocXNIQjhoWWlVdllCTURZMW1SZUJvMVhJOEI4UDBLTGVWYUc0ZzFvYlN2UGRXVS1PSVVYZy1QTWdVbTk0aDRONXB2QWNzTjJSREdsS1QzVnlEaTVsY2RKNDk1VkNkRmhXY3AwUlVNaFpfbjJrOXN0a2VMNU1IbA?oc=5",
+   "desc": "Federal Reserve keeps rates unchanged despite elevated inflation, gives little signal of next move  WHDH",
+   "source": "US Fed",
+   "publisher": "WHDH",
+   "scope": "world",
+   "ts": 1793212944000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2JaMTdvVVY5WWFSQXNmRERHeVp1Q1FBZ1lXT3FtMVNuVC04b0d2VU1GTVNYN21XaG1BcnBiaGU5M0ZxUHRNV3pxQmdKczBfVUdMU2ZJVGpUZ0s3dXY3LWUzWjFpaWNLNHQtZGNJNGcxek5OWmF",
+   "title": "US Fed holds interest rates steady despite surging inflation - South China Morning Post",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2JaMTdvVVY5WWFSQXNmRERHeVp1Q1FBZ1lXT3FtMVNuVC04b0d2VU1GTVNYN21XaG1BcnBiaGU5M0ZxUHRNV3pxQmdKczBfVUdMU2ZJVGpUZ0s3dXY3LWUzWjFpaWNLNHQtZGNJNGcxek5OWmFJLUdWV2JpS3RWWWtHWUtpSTUtWjNob2xfZkJPQm5kN3ktQzBzUm0wb0VSRzNGRDVuZXlSOFJYQlR3dG1Sak1KYktSMmVzNWNnbVEtNENOMEVaTtIByAFBVV95cUxPcFJCQktsTVlteFhyY0c3VmwyWW9IVVRJZFMxdzlDNldLRWVpSExsYk1xQlFvdVIxa3lHaEktTFhzYXNQUmoxeW5MR3JXbEh4djZ4ZU5TWjZhTDhjcjk2ZDBMenBWbGs2VHlCRXBTZm5Nd0x3ZWFvZndqU1RjN1Ita2IxRU9JTHlILXlxUGFlUDAwLXBYQkhhdURnd3JJTXRrR2RpVnVtdnpSamRBUEhuS3laYUFMc1pnU0V0ZjhtaTRETjl3ZWRJLQ?oc=5",
+   "desc": "US Fed holds interest rates steady despite surging inflation  South China Morning Post",
+   "source": "US Fed",
+   "publisher": "South China Morning Post",
+   "scope": "world",
+   "ts": 1793212626000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYThVbEtOSGhFcUV4VnJULVVyU0JwejFGVjBIamY0YnZkMl9TcmdiY0ViOG5RSmdKdTc5YVFnZ1UtNlRLdHVMTjdHOGwycWNNM0I2eEhUSUxHRXFORnRYa1BWQldJN1dwZmxLdnh1cV9ZNXF2cDN",
+   "title": "US Federal Reserve leaves interest rates unchanged - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYThVbEtOSGhFcUV4VnJULVVyU0JwejFGVjBIamY0YnZkMl9TcmdiY0ViOG5RSmdKdTc5YVFnZ1UtNlRLdHVMTjdHOGwycWNNM0I2eEhUSUxHRXFORnRYa1BWQldJN1dwZmxLdnh1cV9ZNXF2cDNnZm1adFF4QU15RGdNYkYteTJRQS1GeS14VGltbTFnNXNJMUY0QUdqdw?oc=5",
+   "desc": "US Federal Reserve leaves interest rates unchanged  Yahoo Finance",
+   "source": "US Fed",
+   "publisher": "Yahoo Finance",
+   "scope": "world",
+   "ts": 1793212415000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNODl4a2lXVnR2ZXpLc0tVdEZPOVktakJEbzFNVlhpdi1OWFVOOFJKLXJnVlF0VC1EdDFYVVcxWFctblEyeEVXTXpDZGN0Q2I4blEzLU1KOG5tUGpDUVhhZ29hVXd4YkxXVXk4bHZOeGNzTjBKQ1B",
+   "title": "Federal Reserve holds interest rates steady as midterm elections loom - Central Oregon Daily",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNODl4a2lXVnR2ZXpLc0tVdEZPOVktakJEbzFNVlhpdi1OWFVOOFJKLXJnVlF0VC1EdDFYVVcxWFctblEyeEVXTXpDZGN0Q2I4blEzLU1KOG5tUGpDUVhhZ29hVXd4YkxXVXk4bHZOeGNzTjBKQ1BscDRDNmtESlhkSUpRZUppc2EzR2EwZWRTVFIyZ2dHX2tDaThZMlpzMjRmeV95VmhQRjRBX1h5eXllR0V6NVBfZWVrR09BaThrZGtqZ2lSS2ZZTHJ3OHRUS2tEQmU2cnptVGhWX2RwTzhKc3ZMZS1GYlhfckRBSHQtSFh1dkRMeGs1MjU2alNVZW8?oc=5",
+   "desc": "Federal Reserve holds interest rates steady as midterm elections loom  Central Oregon Daily",
+   "source": "US Fed",
+   "publisher": "Central Oregon Daily",
+   "scope": "world",
+   "ts": 1793212333000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGV3ODlvQ3ZUaFhVNVNzUktmR3BYdUUxX1NqRExMTkx2RUdHYXA0RVVFLVRaeTd1RWplSzhDaHNrME5ubXhvTGlhb3Q4cTNScThidWhCcE5zVGtpaFQ3MFl5aWFYMXgtYndRNEtvRE1GNXdOTmt",
+   "title": "Thailand IMF Global Economy - timesdaily.com",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGV3ODlvQ3ZUaFhVNVNzUktmR3BYdUUxX1NqRExMTkx2RUdHYXA0RVVFLVRaeTd1RWplSzhDaHNrME5ubXhvTGlhb3Q4cTNScThidWhCcE5zVGtpaFQ3MFl5aWFYMXgtYndRNEtvRE1GNXdOTmtXT1JzOUs4S1Awa1ZLU1R4LVhURF9aUFpKek5mWHU4S1hFN2F2N1EtQXc2Ynk1Mg?oc=5",
+   "desc": "Thailand IMF Global Economy  timesdaily.com",
+   "source": "IMF / World Bank",
+   "publisher": "timesdaily.com",
+   "scope": "world",
+   "ts": 1793212320000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRC1FMHVsTDRJcmRSaG9yOFBvcGw5bXVMMUU0Tkp5TzRnTkZVU1NEc3loOG1adzN1dzRNRjJsbXhjdkxVZTRtc3lzc214R21sWmxOVFRCYTRocVVnTFBYVFV3dXRYTnVjVW0yUk1QdUpDMlU3bE4",
+   "title": "FOMC votes to leave interest rates unchanged - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRC1FMHVsTDRJcmRSaG9yOFBvcGw5bXVMMUU0Tkp5TzRnTkZVU1NEc3loOG1adzN1dzRNRjJsbXhjdkxVZTRtc3lzc214R21sWmxOVFRCYTRocVVnTFBYVFV3dXRYTnVjVW0yUk1QdUpDMlU3bE44N3ZJVXl2SDRFcEFWNC1ieTJkb3dXZUhFZzc?oc=5",
+   "desc": "FOMC votes to leave interest rates unchanged  CNBC",
+   "source": "US Fed",
+   "publisher": "CNBC",
+   "scope": "world",
+   "ts": 1793212304000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1IxWi1heGhVNDJlMnljUktPQllPeHNOaFFIV2lYaUhzVDRuajAwa0dMRmRPcWtLbHk0TVFsQWI1V1JSYWlFTnFnY2NHQ25sLUFLZTR4LUFqMnRib3YzS2N3V2sybzdSN2p0X2FFdVdNd2NkcVZ",
+   "title": "Fed is ‘modestly hawkish,’ will hike interest rates in December – RSM US’s Brusuelas - Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1IxWi1heGhVNDJlMnljUktPQllPeHNOaFFIV2lYaUhzVDRuajAwa0dMRmRPcWtLbHk0TVFsQWI1V1JSYWlFTnFnY2NHQ25sLUFLZTR4LUFqMnRib3YzS2N3V2sybzdSN2p0X2FFdVdNd2NkcVZBZVVIR0hPNXdRWXdVdV9xNk1CYWhKVlRoUXF3dzFQNmF0WkFzMzdzcGpBYnBia0FvcmctNHVGeUxNSjdZT3BJZ1lQ?oc=5",
+   "desc": "Fed is ‘modestly hawkish,’ will hike interest rates in December – RSM US’s Brusuelas  Seeking Alpha",
+   "source": "US Fed",
+   "publisher": "Seeking Alpha",
+   "scope": "world",
+   "ts": 1793211999000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUnhlWUd4Zjc2MUVVVnEtNDlWcWsxSy1ZcDNXY3BvdDJXSWkzdThIdjlOdjBsbk0wU1Z1dEplTUxTS3h2ZmdSWjRYV2owLWFUV1ZyUEhiMEprNWZWWDBwRDQ1dkNOdzBaSlVpWkJrWkRoVUdkRVY",
+   "title": "US stocks remain steady after the Federal Reserve says it won't raise interest rates | National News | 2news.com - KTVN",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUnhlWUd4Zjc2MUVVVnEtNDlWcWsxSy1ZcDNXY3BvdDJXSWkzdThIdjlOdjBsbk0wU1Z1dEplTUxTS3h2ZmdSWjRYV2owLWFUV1ZyUEhiMEprNWZWWDBwRDQ1dkNOdzBaSlVpWkJrWkRoVUdkRVY0ejl5R0xNVWQxQ2lqWmthLWJlOWFmT20tN3FEdVNoYjIxQXUxYWotZnI1TDNhbEM5TnBQbmhNQUs2TDJPMmFhVVJGcDM0c3RqR1Q0U2NsUjBmQVdxV2wxZmgtckRJMHU2OGlDd1VROWJQZWVlNnpQYlpnYXNjT3ZRUzhIR1hCdTAwTUlBaw?oc=5",
+   "desc": "US stocks remain steady after the Federal Reserve says it won't raise interest rates | National News | 2news.com  KTVN",
+   "source": "US Fed",
+   "publisher": "KTVN",
+   "scope": "world",
+   "ts": 1793211961000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGplRmZSNk00TzhROG9NbnBnZ2o1WlJvUHdBemg2U1NTNmZESWFMNEwyT0hRS1VYUUN1Tm1OQklLa0t2Wkowa3FvSHk0ZWpCcTdSRE5lMFEtNHdXWDNfSFNtWGh3TGlkSUdaSExRcGsxSm5LejY",
+   "title": "World Bank Warns Global Commodity Prices Could Surge 23% In 2026 - tippinsights",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGplRmZSNk00TzhROG9NbnBnZ2o1WlJvUHdBemg2U1NTNmZESWFMNEwyT0hRS1VYUUN1Tm1OQklLa0t2Wkowa3FvSHk0ZWpCcTdSRE5lMFEtNHdXWDNfSFNtWGh3TGlkSUdaSExRcGsxSm5LejY0ZTB0WWFPVnVzck5xVXFpb1FMS2JrVnBoS2EzMkE?oc=5",
+   "desc": "World Bank Warns Global Commodity Prices Could Surge 23% In 2026  tippinsights",
+   "source": "IMF / World Bank",
+   "publisher": "tippinsights",
+   "scope": "world",
+   "ts": 1793211879000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZDJZYlFfNDlPRW9hdW54TlN6d2UtampPaGJqNmJVV05CdjQ3eUI3djFFekY5Zy04d05QWXNnNjFKakxvY1VjUDhCcURleTRfY1ByekFMY1NLYWl0dmhUR2JUTFl6RFlhdk1JdzljY3NUUFFaVHd",
+   "title": "The Federal Reserve leaves interest rates unchanged less than a week before the midterms - EL PAÍS English",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZDJZYlFfNDlPRW9hdW54TlN6d2UtampPaGJqNmJVV05CdjQ3eUI3djFFekY5Zy04d05QWXNnNjFKakxvY1VjUDhCcURleTRfY1ByekFMY1NLYWl0dmhUR2JUTFl6RFlhdk1JdzljY3NUUFFaVHdraXU2ZVBaSzE1YllBd1ZpaTdRVldaMmJXV2Z6SWI3cW5FYnMwemFNSENxUloxLTlNZmRieWM2TmM1WkxQTS10TzNEYTM3TjBzMGdpNl9ZamdoNnJySXg2TzhwZmJIWl84a0FsejF4bElwYXRFTFFfTUXSAfsBQVVfeXFMTWgzaEtuNVVxMGpUUkFkblFNeWRCTHg4bTNpNWJ3THlVUFJYV1FtTTM3Z3JMYmVIdDJFenBIWDdFaDJsQ1AxVWdPV3J0OE5WY0trRDdBdTFUX0IzS01aaUU5UFdLWWRZQzJUVnJHdC1ldzIxWWRsUmx3V0dYYmxGUlpyS0NYMFpSTEpVMFJLSTd4aUZlMWIzWlROTmY4SHlHQnZfMElVWDl6YVVKWWhadkdDQUVld0VhSkxBT2pqX3JkNTNCcEZILVBkTFdLLWMyRWt4UFpxZ05DUzhPQldrbmhTeEFfY01UMThmT3JvaVFfVDl4YmxUOTg5VDg?oc=5",
+   "desc": "The Federal Reserve leaves interest rates unchanged less than a week before the midterms  EL PAÍS English",
+   "source": "US Fed",
+   "publisher": "EL PAÍS English",
+   "scope": "world",
+   "ts": 1793211857000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVGt6b0xNVVVVZGQyNXhqWFRhdWpXQkdmSktvMDdLX2ZMUHFfcVNLMm5iVnE5aklaZmlzbi1rcm1ydHFmZk51RU5fTmNUR21VVDItV1BsUk13bkdlVS1zVHpnVVhQOUtxSlViU2ZwdTE5aWd5UDB",
+   "title": "Fed holds rates steady as rising auto loan costs complicate dealers’ year-end sales push - Automotive News",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVGt6b0xNVVVVZGQyNXhqWFRhdWpXQkdmSktvMDdLX2ZMUHFfcVNLMm5iVnE5aklaZmlzbi1rcm1ydHFmZk51RU5fTmNUR21VVDItV1BsUk13bkdlVS1zVHpnVVhQOUtxSlViU2ZwdTE5aWd5UDBRc09yZTcxQ3UxdHBPTjVhMFBhXzRKQk9QaUc?oc=5",
+   "desc": "Fed holds rates steady as rising auto loan costs complicate dealers’ year-end sales push  Automotive News",
+   "source": "US Fed",
+   "publisher": "Automotive News",
+   "scope": "world",
+   "ts": 1793211660000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV3liYUlYTGwyUEhKSnNqdWJqX0hZQ0JTeWlVWE15d05DdnZyMFdtMmNxNlpCTk0wc1JTNVVPdVJIWjNieHc2SEhoT0NnaUdFSS1zdi1jTl9kS0ZGMnRlbTlWaUo2cFkxbWJNZW5OQ09idXJwSTN",
+   "title": "Fed holds key interest rate at 3.9% as inflation remains elevated - FOX 2 Detroit",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV3liYUlYTGwyUEhKSnNqdWJqX0hZQ0JTeWlVWE15d05DdnZyMFdtMmNxNlpCTk0wc1JTNVVPdVJIWjNieHc2SEhoT0NnaUdFSS1zdi1jTl9kS0ZGMnRlbTlWaUo2cFkxbWJNZW5OQ09idXJwSTNOajZ3dDU5S0RmNzd1NUFLb1AyLTBhOXdCaVdvWURvZUI5OVZRbFJRQ3V2d1JvTXdjczlFVjR1STFoUS1XaGRLM0Jid3l0TEF0WjVpY241ZU15YlFmNnk4aVd4NHgxMldnOTNHS3NhTWdtbE8yWV9TQ2xlT3hieGJFc25XMGtWUVpR?oc=5",
+   "desc": "Fed holds key interest rate at 3.9% as inflation remains elevated  FOX 2 Detroit",
+   "source": "US Fed",
+   "publisher": "FOX 2 Detroit",
+   "scope": "world",
+   "ts": 1793211621000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BVTloVEJXOGt6WDQ0dFVMV3JFS2VvNm5oMW1VM1lmeUw3NlRiWWYtSkt0Y0pJYmpfUTRiWFNtS0xDVW9HbGNCRnpaMDlSOXlLNnExSU5lN2lHeWZuNDZaUG1ueVIzdG1rRTBxMXk2Tm8?oc=5",
+   "title": "Fed holds interest rates as expected and upgrades view on economy - Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BVTloVEJXOGt6WDQ0dFVMV3JFS2VvNm5oMW1VM1lmeUw3NlRiWWYtSkt0Y0pJYmpfUTRiWFNtS0xDVW9HbGNCRnpaMDlSOXlLNnExSU5lN2lHeWZuNDZaUG1ueVIzdG1rRTBxMXk2Tm8?oc=5",
+   "desc": "Fed holds interest rates as expected and upgrades view on economy  Financial Times",
+   "source": "US Fed",
+   "publisher": "Financial Times",
+   "scope": "world",
+   "ts": 1793211615000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSjBBSDRPQWFlYi04bERvTnh0VFpPS19EZzBSbUItY0xPa1o0aEVIQXlrMVdBYVhBYy1CMC0zeHUyWHdvMkFBNkZyYUdyUXUxSXVlaUdoNEFpdl9yYXlKaTVhTUJ3WW5LUWJwLWZTUWU0cmR4cWh",
+   "title": "Federal Reserve keeps interest rates unchanged ahead of midterms despite elevated inflation - WEAU",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSjBBSDRPQWFlYi04bERvTnh0VFpPS19EZzBSbUItY0xPa1o0aEVIQXlrMVdBYVhBYy1CMC0zeHUyWHdvMkFBNkZyYUdyUXUxSXVlaUdoNEFpdl9yYXlKaTVhTUJ3WW5LUWJwLWZTUWU0cmR4cWh2YjQ3cnFfUGdoUllEVE16WndpemhWUmppSHZZR2JBUmdFaVp4R2s3QTk3Ukh6aWdsWVNabVhjVGlmd2ZVZGhzZTlnSlZTUFh30gHSAUFVX3lxTFBVOGdXTDAwMklSLTdhVW5qSXZKZC04OHdQVW91UWFlRXNYVEw5VmRkSVhqRHJKYWgwa3hhN2JhYURVUkNaSTBncTVCdGl1R2tpanh3cHRybDhJc2JNTUtXSDNHU2t4SFhCR3BjNkJ3dXV4Rk5rMXdQLTRtTlVKc2NfbFNsSEZuQ3J6NmthRUx2TjBiNjdBSTJoZU1iZ0lpWUhCM2hGZVk3SmQzNkt5QXl3WU9mYlMxbFplUHBEWVpfbE90SF81c0NNNlNsMWFSMmktdw?oc=5",
+   "desc": "Federal Reserve keeps interest rates unchanged ahead of midterms despite elevated inflation  WEAU",
+   "source": "US Fed",
+   "publisher": "WEAU",
+   "scope": "world",
+   "ts": 1793211600000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbktjRy0xaGsyempWQkJ2LTVXNzhwb0pJNzVNQ2JYR2dIZTZLalhkTlVOd2pXdjd4dFhtQ1I2UE53R1I5QUNyRGd3bmVhaFloSGY1NGxrV0lLM1lXVHZYamtRNXRTd2tzajJOdi03YXdCUDNJU3l",
+   "title": "Federal Reserve Holds Interest Rates Steady Ahead Of Elections - Q101.9",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbktjRy0xaGsyempWQkJ2LTVXNzhwb0pJNzVNQ2JYR2dIZTZLalhkTlVOd2pXdjd4dFhtQ1I2UE53R1I5QUNyRGd3bmVhaFloSGY1NGxrV0lLM1lXVHZYamtRNXRTd2tzajJOdi03YXdCUDNJU3lQeXFtV0t6TDB0cWJTUUVRYjdwRVU2X25tM3BwZmI3Z291elNVSEdNcTFnNmw1Vl9CX29MMFE?oc=5",
+   "desc": "Federal Reserve Holds Interest Rates Steady Ahead Of Elections  Q101.9",
+   "source": "US Fed",
+   "publisher": "Q101.9",
+   "scope": "world",
+   "ts": 1793211600000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORDVxcllaYkdrNHhwY0xTQ0hpelVxTTFRS1F5c2JmMHhIOVJlSk5ISS1NdFBiRmE2cmV0b1NUclc1RHdLdUNCVHNxR1dER3BJblJnd1c2WDVVQlZlZEw1VXM2dU9XbDdBWTFwT0VCMnNIck8xVlJ",
+   "title": "Federal Reserve skips rate hike despite elevated inflation - Spectrum News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORDVxcllaYkdrNHhwY0xTQ0hpelVxTTFRS1F5c2JmMHhIOVJlSk5ISS1NdFBiRmE2cmV0b1NUclc1RHdLdUNCVHNxR1dER3BJblJnd1c2WDVVQlZlZEw1VXM2dU9XbDdBWTFwT0VCMnNIck8xVlJ0Y0VlSzMwTDg1MlFvODdSTVlKeEJJUGRTdzNyZTBFOXJIQU9Ba0o?oc=5",
+   "desc": "Federal Reserve skips rate hike despite elevated inflation  Spectrum News",
+   "source": "US Fed",
+   "publisher": "Spectrum News",
+   "scope": "world",
+   "ts": 1793211420000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YQVZGVjVOZGRiYWw5QlVETC1FXzJTMWFJQzhaMGhsVTBTNFdRaTN3RVgxeTN0by1paXBPQ2kwZi1OenBNd25NMENtNERjZ0VyZDVZMHdhZ0p6dzdtSnNBVUFxOVJxVFhyQjBnd2Nla3BiQlhteks",
+   "title": "Federal Reserve Maintains Interest Rates Ahead of the Midterms - notus.org",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YQVZGVjVOZGRiYWw5QlVETC1FXzJTMWFJQzhaMGhsVTBTNFdRaTN3RVgxeTN0by1paXBPQ2kwZi1OenBNd25NMENtNERjZ0VyZDVZMHdhZ0p6dzdtSnNBVUFxOVJxVFhyQjBnd2Nla3BiQlhteksxdWZR?oc=5",
+   "desc": "Federal Reserve Maintains Interest Rates Ahead of the Midterms  notus.org",
+   "source": "US Fed",
+   "publisher": "notus.org",
+   "scope": "world",
+   "ts": 1793211349000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaTl5c0pRYVpDdlBPRER5Nmp5ZnZWb3NqOUhGQjJfTHFwajVOWE5Pa3V5RHVKX0hIM3BoOFdkX2JmVUNXNlVWMDFrc1pHQ3o4WlA4cGo2ZlBZWl90NFcyQ3lUUzlwT0ZWV1B4aS02MFppbGU4UFA",
+   "title": "Fed Holds Interest Rates Steady Ahead Of Midterms - Forbes",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaTl5c0pRYVpDdlBPRER5Nmp5ZnZWb3NqOUhGQjJfTHFwajVOWE5Pa3V5RHVKX0hIM3BoOFdkX2JmVUNXNlVWMDFrc1pHQ3o4WlA4cGo2ZlBZWl90NFcyQ3lUUzlwT0ZWV1B4aS02MFppbGU4UFAyc2wxM3RSNVRjbVJUR2RzSW9kVDl5QjgzemFFd0psam04QTZ3N2tsZjVSTHp0OGtfU1Y3TDhmbFRHSFFIUkdLeUV1NzdUaGZn?oc=5",
+   "desc": "Fed Holds Interest Rates Steady Ahead Of Midterms  Forbes",
+   "source": "US Fed",
+   "publisher": "Forbes",
+   "scope": "world",
+   "ts": 1793211094000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVW9RWTZXNDQ2TFpldS1JSFRQX01mTFRDZmtURE04dEJiMHhZb2Z2ZUpEdGZBZGRKVmdEempyWGVfZkZqRVM3YThmV2U3NWJGT21HeVVjQjFwbU96eDVCem1PZFlKQlBZR1FHQW5jb1AwcFNkdEY",
+   "title": "Fed leaves rates unchanged as it awaits 'accumulation of more information' - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVW9RWTZXNDQ2TFpldS1JSFRQX01mTFRDZmtURE04dEJiMHhZb2Z2ZUpEdGZBZGRKVmdEempyWGVfZkZqRVM3YThmV2U3NWJGT21HeVVjQjFwbU96eDVCem1PZFlKQlBZR1FHQW5jb1AwcFNkdEY1UklXekZMb3pvUUxwVzVobUFJMmh3SUdtSWZtdzRQLUtUNlNR?oc=5",
+   "desc": "Fed leaves rates unchanged as it awaits 'accumulation of more information'  Yahoo Finance",
+   "source": "US Fed",
+   "publisher": "Yahoo Finance",
+   "scope": "world",
+   "ts": 1793210975000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOdXNSMWNSWjhmQ3p2amFoTElHeUw4c1JmZVFlanMzak13cWNsaDY2V3lxbHZSTTR5SEhvMzU3TmFXQTVwa2ZVZ0dIUjZRT1pJX3YzWlRHY25tdlZKT1RzMDVFVDZFX0FhY214NnN4X05QUXQxR2x",
+   "title": "Federal Reserve keeps rates unchanged despite elevated inflation, gives little signal of next move - KTVN",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOdXNSMWNSWjhmQ3p2amFoTElHeUw4c1JmZVFlanMzak13cWNsaDY2V3lxbHZSTTR5SEhvMzU3TmFXQTVwa2ZVZ0dIUjZRT1pJX3YzWlRHY25tdlZKT1RzMDVFVDZFX0FhY214NnN4X05QUXQxR2xZU3JneU8yUTBiZmxzb01zdTBPMzRjcVUxR3dpeHJJU1I5TWRoOFBtb2N3WFRfYWJVMTJRUTRIVEJSWmlkZnZkWUtLc29pU2hoTjI1bk51dUllRW11M2VaYzVYNFBOMm5vR25OTWlUdlczQVc5ajFidzR2WktPLUdYRjJZS0JBTDZoRzdqaFlUZEFFVGlwNTM5ZGZRV2JnOWc?oc=5",
+   "desc": "Federal Reserve keeps rates unchanged despite elevated inflation, gives little signal of next move  KTVN",
+   "source": "US Fed",
+   "publisher": "KTVN",
+   "scope": "world",
+   "ts": 1793210852000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZDl2SDVDeVJWdkRaMlFJaU5acURtWDBSU0RhV3c3NnRuLW1YdVVpNUdyTWtaMG9nMmR1ZlVtR0d5SHRDLTg4MC04X1VNazREc0hUdXp5Z3RjNWJYbGpocTZSNnBfLXlaYTJ6NU1fbVdsbDhHYUJ",
+   "title": "Federal Reserve keeps rates unchanged despite elevated inflation, gives little signal of next move - The Killeen Daily Herald",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZDl2SDVDeVJWdkRaMlFJaU5acURtWDBSU0RhV3c3NnRuLW1YdVVpNUdyTWtaMG9nMmR1ZlVtR0d5SHRDLTg4MC04X1VNazREc0hUdXp5Z3RjNWJYbGpocTZSNnBfLXlaYTJ6NU1fbVdsbDhHYUJvSmduUk1PQkxuVVJlUjViTlZrUllrTGt4MGdmWlo3S28yUDlCYlR0ektJUUg1R3BOdzVjQWkzR2xmS1haeDB2Y0lDSFZVeEhtbVVDc1NZVEM2NE5YeVY1djR5dEp0UnlwOGNjNlpmdEE0V01ST1JIZjN2RVY1VW04SW5hcUtONmNPUVByLXE3M3l6bTV0RGNadw?oc=5",
+   "desc": "Federal Reserve keeps rates unchanged despite elevated inflation, gives little signal of next move  The Killeen Daily Herald",
+   "source": "IMF / World Bank",
+   "publisher": "The Killeen Daily Herald",
+   "scope": "world",
+   "ts": 1793210852000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdHk2MXZTM0ZvZ3R6NWhnQllGQnJubkRkZXlrbXBjSUU4VktpSWppRGJIUnVBcmN6aVZkWFRINnVVZF84VlRsTWxmQ3BTeHFDZjR2RUJ1YjZ1dEVZOERVV1Y5V2dyR2UtZGdLcmhFbDBSY0I2QnV",
+   "title": "Federal Reserve holds interest rates steady in face of persistent inflation - WGN-TV",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdHk2MXZTM0ZvZ3R6NWhnQllGQnJubkRkZXlrbXBjSUU4VktpSWppRGJIUnVBcmN6aVZkWFRINnVVZF84VlRsTWxmQ3BTeHFDZjR2RUJ1YjZ1dEVZOERVV1Y5V2dyR2UtZGdLcmhFbDBSY0I2QnVRdTByRU9qNmF6TFhLOTlkaVBmX3RuV2tIdTjSAZYBQVVfeXFMT2xvbVU3MFVUQzB4UTZuQ01hdDRPY010YzlIWFdkTS1yNXZSQTdySUhDRG1fYzNFc2dJREpIaVNLYi00bU0xVTU2RzhLNTYxLV9MZnNLbDZKVjVNeUl6ei1seEtJVHcxZlBBanl3TmV5cVJra0xMSDFpNGluR1VDREV4cWJnbzRTNVFOaFpHU0ZrcE9LYVF3?oc=5",
+   "desc": "Federal Reserve holds interest rates steady in face of persistent inflation  WGN-TV",
+   "source": "US Fed",
+   "publisher": "WGN-TV",
+   "scope": "world",
+   "ts": 1793210781000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11Y1hqZ0pTS3pLYzQyYjI5Q2F3cV8xck1BclZTTURLc3FVSl9IUG5CLVpjTlJJSE5QXzJWYUpoZnRCazc2UHIzaExkZHRLUlB5cTI3OXFxTjB5UGJvc0hremE5cjh2YUJEUHFTOUpvUFBxRGtiREJ",
+   "title": "What is happening with US interest rates? - AOL.com",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11Y1hqZ0pTS3pLYzQyYjI5Q2F3cV8xck1BclZTTURLc3FVSl9IUG5CLVpjTlJJSE5QXzJWYUpoZnRCazc2UHIzaExkZHRLUlB5cTI3OXFxTjB5UGJvc0hremE5cjh2YUJEUHFTOUpvUFBxRGtiREJHcU1ZUQ?oc=5",
+   "desc": "What is happening with US interest rates?  AOL.com",
+   "source": "US Fed",
+   "publisher": "AOL.com",
+   "scope": "world",
+   "ts": 1793210699000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONGlIQ19wM2oxdDZvTmVUSVFmSDNFVTY2ZGUzSlVMZFU2NHJ3alhfODMzYUFKYmE4M21aSG5zd2k1MVI2akpidHhGUXRwck43WFNZYU5mZmpRRzl2dDZES3VWTkxURW43UkZteGUxODZsMEcyREN",
+   "title": "Fed holds interest rates steady even as inflation remains stubborn - NPR",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONGlIQ19wM2oxdDZvTmVUSVFmSDNFVTY2ZGUzSlVMZFU2NHJ3alhfODMzYUFKYmE4M21aSG5zd2k1MVI2akpidHhGUXRwck43WFNZYU5mZmpRRzl2dDZES3VWTkxURW43UkZteGUxODZsMEcyRENWX2VJQVU4dVNPdFhRWGt1eUpBamtPcFhn?oc=5",
+   "desc": "Fed holds interest rates steady even as inflation remains stubborn  NPR",
+   "source": "US Fed",
+   "publisher": "NPR",
+   "scope": "world",
+   "ts": 1793210682000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOaDlWS0VRSklaemMzd3V4dllmTlZRbTQtOVV6WlA2SjlkcTI2LTl4RU1PTk93OHpIelZWUWczX1RfS0xCRHVnN0FlWUZBOFUtc2dWdjE1OXFaekxLWjR0b243b1VWRENCeko4OVFnSXBEVFhCeUh",
+   "title": "What the Fed's interest rate decision means for your bank accounts, loans, credit cards, and investments - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOaDlWS0VRSklaemMzd3V4dllmTlZRbTQtOVV6WlA2SjlkcTI2LTl4RU1PTk93OHpIelZWUWczX1RfS0xCRHVnN0FlWUZBOFUtc2dWdjE1OXFaekxLWjR0b243b1VWRENCeko4OVFnSXBEVFhCeUhGVFQxMFZVby1CY3dNMG1ZR3JEd0dRWGgyblV2UjIxQkwxZXNjakpHV0dBWUtoeXJlUUpJR2pkaVFlRGEtMEZqd1M2UXlwT1RfRWlxbzhYQU1WdUxXWkh0MHZNa1J6QVl2SFliSVIzVmgwSjBoZ1V1RlZjUGloa2xIWmVBeURVSHNLcFNtM21LMXY2RHNTOQ?oc=5",
+   "desc": "What the Fed's interest rate decision means for your bank accounts, loans, credit cards, and investments  Yahoo Finance",
+   "source": "US Fed",
+   "publisher": "Yahoo Finance",
+   "scope": "world",
+   "ts": 1793210640000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSk1RMm9QTGg5a0ZmU1d1OXRGZlFMZjJwZ0pHczhCR3ZHNjdNT0R6ZnhPRjJfMlY3SFB0RzFUcjJQMWQzM01TREpIRlNaaXRYVTVQRXI3S0tTVUJSWkZuMnRHY3JaeVB0cEQ1RmJUSnZZT2prSFk",
+   "title": "Federal Reserve holds interest rates steady even as inflation remains high - CBS News",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSk1RMm9QTGg5a0ZmU1d1OXRGZlFMZjJwZ0pHczhCR3ZHNjdNT0R6ZnhPRjJfMlY3SFB0RzFUcjJQMWQzM01TREpIRlNaaXRYVTVQRXI3S0tTVUJSWkZuMnRHY3JaeVB0cEQ1RmJUSnZZT2prSFk0Z0Z0eFNvREs4Ti1FcWtjNjZSUEJF?oc=5",
+   "desc": "Federal Reserve holds interest rates steady even as inflation remains high  CBS News",
+   "source": "US Fed",
+   "publisher": "CBS News",
+   "scope": "world",
+   "ts": 1793210520000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3RpM3pUa0JfRzhNeVF2eXVJal9yZUV0MDFNRXhXd3VGUkZoQmE3ZlNBX25XbXBsdk81QVVFRjZ0Nzd1a0pkQVQ0WXZQVEFheTBwTnVjQ3p1a2plUHB5LUlTSFFTYmEzcFRBTHg5THo5dG90Q3l",
+   "title": "Federal Reserve leaves interest rates unchanged despite rising inflation - AOL.com",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3RpM3pUa0JfRzhNeVF2eXVJal9yZUV0MDFNRXhXd3VGUkZoQmE3ZlNBX25XbXBsdk81QVVFRjZ0Nzd1a0pkQVQ0WXZQVEFheTBwTnVjQ3p1a2plUHB5LUlTSFFTYmEzcFRBTHg5THo5dG90Q3lSdnpXNXNabG1EcVVwZTBDRFFJazlv?oc=5",
+   "desc": "Federal Reserve leaves interest rates unchanged despite rising inflation  AOL.com",
+   "source": "US Fed",
+   "publisher": "AOL.com",
+   "scope": "world",
+   "ts": 1793210496000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNazA1c1dQMFJxcHlvOVpqYk1iUTk0ejhkRlVYc09KVm4yR1NqVjBvTU04MlE2U095QzBNTWZsbVlCcVpNRHNfb3pUSGJYM3QwZ3ZyeUlMS2V6UU1VUUtkdlVEcFI5aVAtSjNhWUhMTVE3UWg5dnR",
+   "title": "Key Takeaways From Fed Decision to Hold Rates Steady - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNazA1c1dQMFJxcHlvOVpqYk1iUTk0ejhkRlVYc09KVm4yR1NqVjBvTU04MlE2U095QzBNTWZsbVlCcVpNRHNfb3pUSGJYM3QwZ3ZyeUlMS2V6UU1VUUtkdlVEcFI5aVAtSjNhWUhMTVE3UWg5dnRpXzNoZGt6S0trcXZnOW5NaDZkSVNob0N6WmczeUFEeEFWbjFfLWxxbi1janRWQ2ln?oc=5",
+   "desc": "Key Takeaways From Fed Decision to Hold Rates Steady  Bloomberg.com",
+   "source": "US Fed",
+   "publisher": "Bloomberg.com",
+   "scope": "world",
+   "ts": 1793210401000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT2t5RW1WaDNWeldzdk9sYUktY00zOXdNeTBWaFlOUTc2QURCb2RFeVRNcmNTVUZNdzNPNU1MTjBhY0lMU2ZJY1Z6YW5OSGZ3MWw5ZWxBRTRvZXFtdTNWd3RLUGl2TURRYlpjd2tDdXQ5RXgwS0F",
+   "title": "World Bank: 2026 Global Commodity Prices To Rise 23% - Marine News Magazine",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT2t5RW1WaDNWeldzdk9sYUktY00zOXdNeTBWaFlOUTc2QURCb2RFeVRNcmNTVUZNdzNPNU1MTjBhY0lMU2ZJY1Z6YW5OSGZ3MWw5ZWxBRTRvZXFtdTNWd3RLUGl2TURRYlpjd2tDdXQ5RXgwS0FFT3cyM3hXOWJnTDlDei0?oc=5",
+   "desc": "World Bank: 2026 Global Commodity Prices To Rise 23%  Marine News Magazine",
+   "source": "IMF / World Bank",
+   "publisher": "Marine News Magazine",
+   "scope": "world",
+   "ts": 1793208793000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmsxV1ZwMTdvenJGa0l3MWQ1ejJaaWYza3BRanpMZ2pTNkEyanJ2WlQtQzhvNVdGblhpcFYwSldMWG8yTy1kMzBMYzgtbE9vV3NJNm5LSzBqalJKRjZad09VVHowbjVCbVBJd0NMSkFvVG9FN0F",
+   "title": "Federal Reserve likely to skip rate hike despite elevated inflation - Daily Herald",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmsxV1ZwMTdvenJGa0l3MWQ1ejJaaWYza3BRanpMZ2pTNkEyanJ2WlQtQzhvNVdGblhpcFYwSldMWG8yTy1kMzBMYzgtbE9vV3NJNm5LSzBqalJKRjZad09VVHowbjVCbVBJd0NMSkFvVG9FN0F4Qks4MWUyMDJtYlM4WXFLMXhhalJjb1pIUlVvZjVpdjkzWURuQWVidm1jcWk2dW9PZFhoWEdmT1BpZUFMN0U?oc=5",
+   "desc": "Federal Reserve likely to skip rate hike despite elevated inflation  Daily Herald",
+   "source": "US Fed",
+   "publisher": "Daily Herald",
+   "scope": "world",
+   "ts": 1793208168000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcG1weW44YlE2Rm55MklBWW4xdVJjbGJkZV9EQUJ6dmhpRThaYl9maHlBTlNfTHRFcC1TQ2Y2YmpIaUZKa1pPN25MWkdHZGRhM0FXNktNbVV0bWJHaE1BdTItanFOOTY2R0NWblZEYnlsV295Snd",
+   "title": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates - FOX21 News Colorado",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcG1weW44YlE2Rm55MklBWW4xdVJjbGJkZV9EQUJ6dmhpRThaYl9maHlBTlNfTHRFcC1TQ2Y2YmpIaUZKa1pPN25MWkdHZGRhM0FXNktNbVV0bWJHaE1BdTItanFOOTY2R0NWblZEYnlsV295SndCdWZ6SkRXQ3JyRlhsNENsOWhtaHd5aFRuZHRHdzBLQzdEbTFzalVkUmd4WmptWVA2OWg0Sm5helI2TnJkOG8xaHVPM1BUQmxJd3NhQdIBxwFBVV95cUxNQmhDYzQ0azBzclFuUkpnazd0LTNoRUZsNTlXc3pQTFltaDNCNWlmckFvc2Z2OXZCY2Y4d19LNDFyLUszcVRkU1I5d0xUUlBLVWJaN0dXUnY4WnczQnludmpYWnRTbU11d19MT1o0d0dmWmVHQ25CUzg0Nk9UeWZtUldZYlgtU19nblpwTmxZRHVHZmpYZVZ1MWtFNHFPR1l2eFdFNVhrUTFSM0VXbzZDX1lvYm1nS0FIeVlDRkw2S1h5Q1diVjVz?oc=5",
+   "desc": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates  FOX21 News Colorado",
+   "source": "US Fed",
+   "publisher": "FOX21 News Colorado",
+   "scope": "world",
+   "ts": 1793204705000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeXZ5eDY4d1U2WWVRVDFIbHJhc1ROWjVzVHZqSGZLZlg0RjJ4NTNCVTAyVHJBSFkwbXE1OHlqV2dhR2QtTTZULTF5SmFZd00waDhjTTFENTZldjhWYTE2ai1XNXpSeWJGdG5SQUdJdGFITk1aZWZ",
+   "title": "India markets regulator weighs domestic AI model for securities trading, chairman says - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeXZ5eDY4d1U2WWVRVDFIbHJhc1ROWjVzVHZqSGZLZlg0RjJ4NTNCVTAyVHJBSFkwbXE1OHlqV2dhR2QtTTZULTF5SmFZd00waDhjTTFENTZldjhWYTE2ai1XNXpSeWJGdG5SQUdJdGFITk1aZWZabUcyUU1lUE5iNzQwcE1QMl81c1lqZ3czaWlUWkhaU3d2THBUbExjTmxxZlFvRkwyYldZX1N2eTdwUFVEQ0RCeDJKY3hIb082d0s5Zw?oc=5",
+   "desc": "India markets regulator weighs domestic AI model for securities trading, chairman says  Reuters",
+   "source": "SEBI",
+   "publisher": "Reuters",
+   "scope": "india",
+   "ts": 1793204528000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY2ppZ0xsLUtDa2gzYjcxcHV6UjlxZklRNXF1eU1WTjNTUFhEOVRTOVBSOTF1UE95bDhPUmtnR2dZT3ZnV25CM3NVV0J4a0NJbEFOcGwzbVl0dExUaGRVTHZMbjRQZlUyY2VTLVZ1N1FWcGpscnR",
@@ -52,16 +882,6 @@
    "ts": 1793203290000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeGh3bmFfR0cyYXRJUVFwNFhkS0t6Nkt5cThqNmpwdG4wY25LSWwzbC1wa3lZWFY1OWdHc0dPekVDUkhoTjlBRDZFTm1BcnJTR1JCNVlHSXdpZC1fbFY2Y0VqMUpoMjZsQUtfRFdKa3VCSnBWRGV",
-   "title": "Briefs: Federal Reserve likely to skip rate hike despite elevated inflation - Tri City Record",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeGh3bmFfR0cyYXRJUVFwNFhkS0t6Nkt5cThqNmpwdG4wY25LSWwzbC1wa3lZWFY1OWdHc0dPekVDUkhoTjlBRDZFTm1BcnJTR1JCNVlHSXdpZC1fbFY2Y0VqMUpoMjZsQUtfRFdKa3VCSnBWRGVJTi1BUmRnbTk1QzZmQUhDLWhJS1FiYzE4b0FFbnZYM2QyQzJ6S3YwWmF4d1A1VDFZcHFuYjdNQ3BFYUVkQVhRbDFKUV95Mktra055S18xZ1Y4WTBuUFg3UQ?oc=5",
-   "desc": "Briefs: Federal Reserve likely to skip rate hike despite elevated inflation  Tri City Record",
-   "source": "US Fed",
-   "publisher": "Tri City Record",
-   "scope": "world",
-   "ts": 1793203227000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc3lSajREd3FoVzNOclpjS1NzMkdoSXhaQ3RyWFp4TW5sWTFEVDZqbm1Fa3doOU5JYVhwY19KeXVSTVVsUWNkMEdNclJjX01yZmxPbXBpOWJXT2hnX2JVSVgwY2k1ZlJlbUdpMEJpRGZBTzZwV2l",
    "title": "Energy prices to climb 32% this year as global shocks mount, World Bank says - The National",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc3lSajREd3FoVzNOclpjS1NzMkdoSXhaQ3RyWFp4TW5sWTFEVDZqbm1Fa3doOU5JYVhwY19KeXVSTVVsUWNkMEdNclJjX01yZmxPbXBpOWJXT2hnX2JVSVgwY2k1ZlJlbUdpMEJpRGZBTzZwV2lxSGFyaTZJVjYzQnJXQ21xS2VoY21zTEpwRE1nTG90V2c?oc=5",
@@ -69,7 +889,7 @@
    "source": "IMF / World Bank",
    "publisher": "The National",
    "scope": "world",
-   "ts": 1793203054000
+   "ts": 1793203058000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMFBUejVILUdxanhsc2R2OUJHdkZZZjlzajR6NUg4a3hYZDNJZE90dUNlU1RHTXZJN2RmZU1GZE5jTkV4X2hkTm9JWlp4Qk5QTERkZVNjd2pkQkt1OXFLUlVoVk05WE5qUl9ITlNwVFg1RkdtNjN",
@@ -82,24 +902,14 @@
    "ts": 1793202836000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BR0tIVjdKUW1WUGdBZ1VVYUkwQWt1Zms4aWZDSHYzZU9JT3FkRlIyQnNMOFhZaEVicXBLSjU3Q1FoTWY4SmEtd1pwRmNCUC1Z?oc=5",
-   "title": "World Bank sees commodity prices up 23% in 2026 due to West Asia war, other shocks - bdnews24.com",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BR0tIVjdKUW1WUGdBZ1VVYUkwQWt1Zms4aWZDSHYzZU9JT3FkRlIyQnNMOFhZaEVicXBLSjU3Q1FoTWY4SmEtd1pwRmNCUC1Z?oc=5",
-   "desc": "World Bank sees commodity prices up 23% in 2026 due to West Asia war, other shocks  bdnews24.com",
+   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcERfNmt1b3Ftb3A0aXg0MW5IY2gyTkt0TGpseEVTZnBabkIxSU1aSEVDclJUa195b2FuLXJGNTMyYWhYUUZtQV9hVmdXeEkzclNUOFhYcGozZ2lEWEVIZDV3UlBwMDRPWTNzVXI5ZkJ6TzNmSEY",
+   "title": "Federal Reserve keeps rates unchanged despite elevated inflation, gives little signal of next move - ABC Columbia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcERfNmt1b3Ftb3A0aXg0MW5IY2gyTkt0TGpseEVTZnBabkIxSU1aSEVDclJUa195b2FuLXJGNTMyYWhYUUZtQV9hVmdXeEkzclNUOFhYcGozZ2lEWEVIZDV3UlBwMDRPWTNzVXI5ZkJ6TzNmSEYwZ2JRRUNYNE4tQjkxaXc1R0M0QldDaWhmVzkxd2lnWUZjSFd6VVpoYXNicFZXNmRaLUdNWXc?oc=5",
+   "desc": "Federal Reserve keeps rates unchanged despite elevated inflation, gives little signal of next move  ABC Columbia",
    "source": "IMF / World Bank",
-   "publisher": "bdnews24.com",
+   "publisher": "ABC Columbia",
    "scope": "world",
-   "ts": 1793202540000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR1liaEw3bWxBRHk4dFhMcGs3QnNPQzRxX2lYVjJpb1c4XzRBbGtuWERYY2lCQlY2dXoyUWFwdzc4Mk5Ba2J1a245b0t3cEJxREg5NThyZERKdkZ3YWJGZ3RPUFB6dXZ1dFduNEdxbTJWQVVLdDN",
-   "title": "Bank of Canada raises interest rate to 2.5%—with more hikes to come - The Real Economy Blog",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR1liaEw3bWxBRHk4dFhMcGs3QnNPQzRxX2lYVjJpb1c4XzRBbGtuWERYY2lCQlY2dXoyUWFwdzc4Mk5Ba2J1a245b0t3cEJxREg5NThyZERKdkZ3YWJGZ3RPUFB6dXZ1dFduNEdxbTJWQVVLdDNMR09DS080RXYwWGY1MHV4bldORWNENklKSU9tc0FoeUFTd0pLRml1Zw?oc=5",
-   "desc": "Bank of Canada raises interest rate to 2.5%—with more hikes to come  The Real Economy Blog",
-   "source": "ECB / Europe",
-   "publisher": "The Real Economy Blog",
-   "scope": "world",
-   "ts": 1793202334000
+   "ts": 1793202456000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTERxTDhqLXFZb1BpTm56SUVGYlNIeml2bDhMSUtaekxleWZGQy1CdnljcDE3VzNqWjdjN2xiNTNwQ0pXUWgyUU43RUFPX3k1bHVORFFUNTU1Vlk0V3BUR2tKYUx6bmVkajkzdWhhNkdzZDN1eC0",
@@ -112,6 +922,16 @@
    "ts": 1793202088000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmtTeWVXTFVBTFprWWpjZVBfd1VPWmNQTWZlSE5uc3JsWGJMOHBpb0ZIeFhiX2lmdlhmUy05MjNtUHRpd3NuZEs5NGVEVUQ4RF94d2UzYU1Yc0JTN2VXMUVKLXhkQUlLY1FOeVJ1NmFWOU1MS1E",
+   "title": "World Bank Forecasts 23 Percent Rise in Commodity Prices for 2026 - Head Topics",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmtTeWVXTFVBTFprWWpjZVBfd1VPWmNQTWZlSE5uc3JsWGJMOHBpb0ZIeFhiX2lmdlhmUy05MjNtUHRpd3NuZEs5NGVEVUQ4RF94d2UzYU1Yc0JTN2VXMUVKLXhkQUlLY1FOeVJ1NmFWOU1MS1E3YnhCaGFKU1VYZldJR0Ztc0N1d2dGbm81R2tTWDAwYVhrUjQtMThfejQ?oc=5",
+   "desc": "World Bank Forecasts 23 Percent Rise in Commodity Prices for 2026  Head Topics",
+   "source": "IMF / World Bank",
+   "publisher": "Head Topics",
+   "scope": "world",
+   "ts": 1793201700000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbEJtWGt4UlV4RllJd2xFdGlGajJDWUw5aHA1eDlrcVZTVWdUMnVlbVMwNDRzRVBKWnZmWUF0WVdXdHlGLXFCZmZPOU9LQnBpenVpUXN2WGJCWVFWV05KbzJyRUJEZXZiVm1NOERlQ0NSclg4VWJ",
    "title": "SEBI to make Direct Plans default on AMC digital platforms from November 1, says Tuhin Kanta Pandey - Moneycontrol.com",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbEJtWGt4UlV4RllJd2xFdGlGajJDWUw5aHA1eDlrcVZTVWdUMnVlbVMwNDRzRVBKWnZmWUF0WVdXdHlGLXFCZmZPOU9LQnBpenVpUXN2WGJCWVFWV05KbzJyRUJEZXZiVm1NOERlQ0NSclg4VWJtMDdSUUpBeVdDYUZISU9OUFJaazlIalJSSGxmYlR4SllFc1VVNG5uQ3RmYzdxWXUzUGhjS2RlWnRKeDdsY2VLWjV6aEJ0T0g3SEFtTlRJTzJ5Z01iODFpS01kOURIQjZuYVM4X01wdENtX2hJNWxhNkh1cHZwekxwTGJ1bFZVR0HSAfsBQVVfeXFMTmcyYWdkc1JHWUNaN0tZb1lVaUVrTU9Ha012aUYyQ2N3MVVEeGFYZEZjZ2pMbHRqbWg1RGFLaklFcTg5YkUxelYtcVRnNDl5X2NxaUJnSjRadkxiTllUaWRIaUJDUTE0M21wYURZZEYxY3RQMk9yUmJOS09yVk9vZkpRUUVyTHBUanpnMHVwREJKZDRkemtjWXVlQ2dIMzJvWTdLUExMNWRYQTVZX21rM09nTVk3MVk1TV9DS2pPY1JFMzM2T01mSktWRFQ4aVNhdm54emExMXVPVDFYQm0wTng0QWJra3FzS3Z1VjA5U2Q3WjFybk5UY3pleUE?oc=5",
@@ -122,6 +942,16 @@
    "ts": 1793201475000
   },
   {
+   "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTjc3SWhXX3BBd29iUjJQRC1HZ1k2M1ZzU3RORWEySTQ4TGdaSjdaMjIwNTVUWFJpZW5OZmU4X2JPYlNSOWEzRW1BNHJVRTk3azhSRExhRTRlNG8tNzhsMHhIcUpIZGdScG5jWnNGR1A1VVdpWTV",
+   "title": "Federal Reserve to announce its latest interest rate today. Here's what economists expect. - CBS News",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTjc3SWhXX3BBd29iUjJQRC1HZ1k2M1ZzU3RORWEySTQ4TGdaSjdaMjIwNTVUWFJpZW5OZmU4X2JPYlNSOWEzRW1BNHJVRTk3azhSRExhRTRlNG8tNzhsMHhIcUpIZGdScG5jWnNGR1A1VVdpWTVNcDhMYm5kZjFWSzJn?oc=5",
+   "desc": "Federal Reserve to announce its latest interest rate today. Here's what economists expect.  CBS News",
+   "source": "US Fed",
+   "publisher": "CBS News",
+   "scope": "world",
+   "ts": 1793201344000
+  },
+  {
    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGtOSkVoWFNRdkVDNWQ0SWNVdmRyaUhOeEFpblQxQjFKWTJ5R1gxVEgyVmdPSnZ0dmdBRDVVcG9kdmxBbDItb2RXYVJMR0FmejdEb3M2SU1LRnFiZ1RIeXpUby1FUExpeXFrOXhFTlp0WlhydFZ",
    "title": "How the World Bank supports projects with global benefits - Oxford Economics",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGtOSkVoWFNRdkVDNWQ0SWNVdmRyaUhOeEFpblQxQjFKWTJ5R1gxVEgyVmdPSnZ0dmdBRDVVcG9kdmxBbDItb2RXYVJMR0FmejdEb3M2SU1LRnFiZ1RIeXpUby1FUExpeXFrOXhFTlp0WlhydFZNREJQa19URmQzckh2Z3ZkRWFlRzFUcHZuVTJpaFRoSVdxcTdnUFducHU5?oc=5",
@@ -130,26 +960,6 @@
    "publisher": "Oxford Economics",
    "scope": "world",
    "ts": 1793200621000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOaDlWS0VRSklaemMzd3V4dllmTlZRbTQtOVV6WlA2SjlkcTI2LTl4RU1PTk93OHpIelZWUWczX1RfS0xCRHVnN0FlWUZBOFUtc2dWdjE1OXFaekxLWjR0b243b1VWRENCeko4OVFnSXBEVFhCeUh",
-   "title": "What the Fed's interest rate decision means for your bank accounts, loans, credit cards, and investments - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOaDlWS0VRSklaemMzd3V4dllmTlZRbTQtOVV6WlA2SjlkcTI2LTl4RU1PTk93OHpIelZWUWczX1RfS0xCRHVnN0FlWUZBOFUtc2dWdjE1OXFaekxLWjR0b243b1VWRENCeko4OVFnSXBEVFhCeUhGVFQxMFZVby1CY3dNMG1ZR3JEd0dRWGgyblV2UjIxQkwxZXNjakpHV0dBWUtoeXJlUUpJR2pkaVFlRGEtMEZqd1M2UXlwT1RfRWlxbzhYQU1WdUxXWkh0MHZNa1J6QVl2SFliSVIzVmgwSjBoZ1V1RlZjUGloa2xIWmVBeURVSHNLcFNtM21LMXY2RHNTOQ?oc=5",
-   "desc": "What the Fed's interest rate decision means for your bank accounts, loans, credit cards, and investments  Yahoo Finance",
-   "source": "US Fed",
-   "publisher": "Yahoo Finance",
-   "scope": "world",
-   "ts": 1793200464000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTmcyaUdHRGw5c0F0MFJVSWR6bmE2M3N2dzFLM2xOU1FQQTFtVHdGOUFaMFNTam5RMlNnMlV6WlhUbTRiUVJEcWQ2b2F2VF9LVDgtR1UzV1pGOHhiSlZ2QXkyNzJTTjI4SXhGcm1CSWJQX1lxM3Z",
-   "title": "Bond yields rise slightly ahead of Fed rates decision - The Hill",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTmcyaUdHRGw5c0F0MFJVSWR6bmE2M3N2dzFLM2xOU1FQQTFtVHdGOUFaMFNTam5RMlNnMlV6WlhUbTRiUVJEcWQ2b2F2VF9LVDgtR1UzV1pGOHhiSlZ2QXkyNzJTTjI4SXhGcm1CSWJQX1lxM3ZlMWFVMXJ6NjNUMHU3ONIBiAFBVV95cUxNVGZmRmFtMlk1LUJtMnNWWVlCaGxHNXM0clJuVEFKaVJxem5Gb1dNazlWb1U0Q0dUYXE2V0YzMWc0T2RWVE5JUU9sME85dDBPU2QwSkJEYUwwb3AtX3JXTjFWRGg2RW1hMWNibjdBM2pVMlVweFpjVWhXT3l6dTBpUlAzOU1HUzZz?oc=5",
-   "desc": "Bond yields rise slightly ahead of Fed rates decision  The Hill",
-   "source": "US Fed",
-   "publisher": "The Hill",
-   "scope": "world",
-   "ts": 1793200170000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWT0l6a0xMdGxiWG5XWER0R1BlOGloTFNIVmZuZkt1XzJfSXpWbElnd0lxRVJIY1QyMGdXZnlLYzFOYklEeHRCYlRSUkpSSEly?oc=5",
@@ -172,74 +982,14 @@
    "ts": 1793199330000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaXFBQ09ibnBUaHYwUWdxcjAwckM1TFd4MGpoSnY1LVFNSldub1BUZ2EwNi1NY1lLT1J5M2FDeXM1a2g2ZzZYZXdhSS10dzRSUjJraENDWHhVZVhJcGFscExDdnQ3ZV93OHZPVW1nQjBXNkNBMld",
-   "title": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates - The Killeen Daily Herald",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaXFBQ09ibnBUaHYwUWdxcjAwckM1TFd4MGpoSnY1LVFNSldub1BUZ2EwNi1NY1lLT1J5M2FDeXM1a2g2ZzZYZXdhSS10dzRSUjJraENDWHhVZVhJcGFscExDdnQ3ZV93OHZPVW1nQjBXNkNBMldQQmllZGthNWVPQmF6ZlZmM2o2Z2gzYlpOTDlWam0tSVpkRWE3Q2owVFJFdDlqX1d1M2JoZE0wdm05YWNobzNLXzY3MHctSkFmX25ESVBMSkZOdnpIZmNGNFk1NGFRbVJpMjk2LU9UMHo5Uk93eG5lc2Z6VVhqc0o3anRpOUFYbVBkRDRNajE?oc=5",
-   "desc": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates  The Killeen Daily Herald",
-   "source": "US Fed",
-   "publisher": "The Killeen Daily Herald",
-   "scope": "world",
-   "ts": 1793197658000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83c1dNSW44NGxSVkxfbnRRX2dUZmZDLUNic2dic2tObjkzS1JZa1BkVHNPRWZ4VHlWWmpOVUtJcDltUFpCNUVwNzh3SVREdVMxWEdlakwxR2VIXzg?oc=5",
-   "title": "Federal Reserve interest rate decision looms as inflation and gas prices impact consumers - Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83c1dNSW44NGxSVkxfbnRRX2dUZmZDLUNic2dic2tObjkzS1JZa1BkVHNPRWZ4VHlWWmpOVUtJcDltUFpCNUVwNzh3SVREdVMxWEdlakwxR2VIXzg?oc=5",
-   "desc": "Federal Reserve interest rate decision looms as inflation and gas prices impact consumers  Fox Business",
-   "source": "US Fed",
-   "publisher": "Fox Business",
-   "scope": "world",
-   "ts": 1793197569000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRUlxcEN2V0ZwclJ3Tm16dV9WTURHbjI2Z2E1T1MxY0xTZkIzWEJwM0RwanZMeUg0czh4UDJkbWhxUnJGd1NtaUZudnMxZFlQa1hQRUc3NjhhdUVYNVdIWGVVUV9GcTUyZWhVZHhSNko2eVhiUzV",
-   "title": "Federal Reserve: October hold likely, December hike expected - ABN AMRO - FXStreet",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRUlxcEN2V0ZwclJ3Tm16dV9WTURHbjI2Z2E1T1MxY0xTZkIzWEJwM0RwanZMeUg0czh4UDJkbWhxUnJGd1NtaUZudnMxZFlQa1hQRUc3NjhhdUVYNVdIWGVVUV9GcTUyZWhVZHhSNko2eVhiUzVIaDBoeVkyT1EzTG1JUmFfb1ZmamZCREpncmY4dk52UjdQS2R6UmdNOElLN0pSSmc0SE9BWDNTdFR3?oc=5",
-   "desc": "Federal Reserve: October hold likely, December hike expected - ABN AMRO  FXStreet",
-   "source": "US Fed",
-   "publisher": "FXStreet",
-   "scope": "world",
-   "ts": 1793197558000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaDdZYUlNbXpWWVVnRUdqZTJkRUMyamtPbEFobWJDeDdlMDdLNnFCdUF6NG5OZkV4NFhMQndaaUt1NmNCclRpZ3EyXzJjaTBNMlpXNDBLZ0I5Z2tOVlVjZTR2RFpPTW1ueXUwbTU0N3ByZXoyekJ",
-   "title": "World Bank sees commodity prices up 23% in 2026 due to Middle East war, other shocks - WTVB",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaDdZYUlNbXpWWVVnRUdqZTJkRUMyamtPbEFobWJDeDdlMDdLNnFCdUF6NG5OZkV4NFhMQndaaUt1NmNCclRpZ3EyXzJjaTBNMlpXNDBLZ0I5Z2tOVlVjZTR2RFpPTW1ueXUwbTU0N3ByZXoyekJtTFFGSk51NVdtVzg1dC1HUDMwNmVpd1RGamFncGlMaGVQYUZSMENjU3hvYV9fdTM5RjM4MUZvMWZuMWJPNA?oc=5",
-   "desc": "World Bank sees commodity prices up 23% in 2026 due to Middle East war, other shocks  WTVB",
+   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWTg0cUdJN2tYSl9LRHpLaWtqanBISXItTFV3SF9Da21JSG9tdTJ1d3N0bFdqS0U4Vmw3U1dLWTJVTTRjNGtTX1dTMnEwS0xfQ0YtSVR0RDlIUnBQNi05QnNmdG1MSzlKRUt0Skw1UVpkY0ZRa0d",
+   "title": "IMF reviews boost Zimbabwe’s economic credibility: RBZ - Herald.co.zw",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWTg0cUdJN2tYSl9LRHpLaWtqanBISXItTFV3SF9Da21JSG9tdTJ1d3N0bFdqS0U4Vmw3U1dLWTJVTTRjNGtTX1dTMnEwS0xfQ0YtSVR0RDlIUnBQNi05QnNmdG1MSzlKRUt0Skw1UVpkY0ZRa0dzMFduOWNFc1hDcHV2RExtb0xfLWI2MA?oc=5",
+   "desc": "IMF reviews boost Zimbabwe’s economic credibility: RBZ  Herald.co.zw",
    "source": "IMF / World Bank",
-   "publisher": "WTVB",
+   "publisher": "Herald.co.zw",
    "scope": "world",
-   "ts": 1793196506000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMm52Z09NVnY5Ukt4Q1VuZWtiSWk3UkNFTTFzSmRQblEwNlpTV256bExXR1BNel9nREtKZFdGZklsX1RNZjVDM05nYmtuaEJPd3ZYSUZjNHhXWXJpWjdQQUJ4eUNsb3JqSGF4VTc3anp4M3F0cXh",
-   "title": "U.S. Federal Reserve Expected To Hold Interest Rates Steady - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMm52Z09NVnY5Ukt4Q1VuZWtiSWk3UkNFTTFzSmRQblEwNlpTV256bExXR1BNel9nREtKZFdGZklsX1RNZjVDM05nYmtuaEJPd3ZYSUZjNHhXWXJpWjdQQUJ4eUNsb3JqSGF4VTc3anp4M3F0cXhLR2Qwc20xdzljUWxobmtCYWNENFoyUmxIV3pNRll4WlFxNXRuSDBZWFpfTlNkMzM4RlYwaDBBeDRUY3pqRTlsMFNNV2c?oc=5",
-   "desc": "U.S. Federal Reserve Expected To Hold Interest Rates Steady  TradingView",
-   "source": "US Fed",
-   "publisher": "TradingView",
-   "scope": "world",
-   "ts": 1793196480000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeWZYR3Vjakp1SUxsRVNKUDdzbndmdUVRV2hDdTRPMzNhWGVpY1hzdTcxa2hVYXBkbFdKbE9mRzZqem1Oc1V0UUhYQm40dXZ3emJPVnlralNwRXF1SDc4ajhPRHVVLUxiX3A4ZzF1aUJIQlhBU0d",
-   "title": "Federal Reserve expected to pass on interest rate hike, for now - upi",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeWZYR3Vjakp1SUxsRVNKUDdzbndmdUVRV2hDdTRPMzNhWGVpY1hzdTcxa2hVYXBkbFdKbE9mRzZqem1Oc1V0UUhYQm40dXZ3emJPVnlralNwRXF1SDc4ajhPRHVVLUxiX3A4ZzF1aUJIQlhBU0d6cnBpUFA4alRaQnpZYlVnUVZORGpObThHcTJtdi1FRWVpNzloM2RpeWVCMm1PUl9OSVRSdnhS0gGyAUFVX3lxTE40X3hBWTlweUxqWVl5Y1lBWFBYZXZNRWR0NzBOS25FX1Z0UTNKdGFJQWxnY2h4R0MzQ2lzd3ZHRmsxaC1za08wN1c4Q043TGlUa0FaYVc3LUxheUNpWGFuWVZjWGRDRGlLazRQMUF3bEVQYzhCQjZaYUp6bGpuNnM0T2h1X1ZGeldaTkR4VmxkR1FIelBWbEJjeHBPdFpva3REMm1OUjVRZDNaNWJiV1hmQmc?oc=5",
-   "desc": "Federal Reserve expected to pass on interest rate hike, for now  upi",
-   "source": "US Fed",
-   "publisher": "upi",
-   "scope": "world",
-   "ts": 1793196189000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1RkNsYmFleEg2amVTMUtGRjBiZTBJNnQ3OHRSTHNUOVhlVF9GNU1PQXJ0RU9aLV9NY2QxbWpySXN0NzhRSHJlRzlZNmM5dkxmNWY0aW9YLTFqekhXSjBQdXRB?oc=5",
-   "title": "Turkmenistan, IMF discuss expanding economic policy consultations - Trend News Agency",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1RkNsYmFleEg2amVTMUtGRjBiZTBJNnQ3OHRSTHNUOVhlVF9GNU1PQXJ0RU9aLV9NY2QxbWpySXN0NzhRSHJlRzlZNmM5dkxmNWY0aW9YLTFqekhXSjBQdXRB?oc=5",
-   "desc": "Turkmenistan, IMF discuss expanding economic policy consultations  Trend News Agency",
-   "source": "IMF / World Bank",
-   "publisher": "Trend News Agency",
-   "scope": "world",
-   "ts": 1793196179000
+   "ts": 1793198710000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObkEtWUV6Vks0YlByQndFTV9acW9nbkdpa3dDdEs5Z0FET19yR1o0T2dwYldIMTk4TkQ5M0JXODhheDFiQzVXU0F2bTNDcDc0NEY4T0V1YnBxRGhFd25TLXJWNUFfVXVCY0h0Mjd6d0dsM1hnYzB",
@@ -252,64 +1002,14 @@
    "ts": 1793196121000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdmhKVUllVDVRbjAwVHdiejBYQmxjVEM4dzIxbGdqOEYxcXA4V2NxLTFaSkIwWkV3ZHNmRmJxTzN0eFNPcmh0Ri1qU0VHODV0SUNzR0VIZ09jREZwNTBEeFBfNFFEb2duX1JfUHFoamdrU0RvNHl",
-   "title": "Fed expected to leave interest rates unchanged in October - FXStreet",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdmhKVUllVDVRbjAwVHdiejBYQmxjVEM4dzIxbGdqOEYxcXA4V2NxLTFaSkIwWkV3ZHNmRmJxTzN0eFNPcmh0Ri1qU0VHODV0SUNzR0VIZ09jREZwNTBEeFBfNFFEb2duX1JfUHFoamdrU0RvNHlrTlcwWTc2ODJCZEZKZEhFYjlkV0RTdE5lUjBYOU1mU3htTmN3MlhreHR6UTVuQnVZXzFLZkdlMklQS0RlZlpWZnhOTnMzbDN3?oc=5",
-   "desc": "Fed expected to leave interest rates unchanged in October  FXStreet",
-   "source": "US Fed",
-   "publisher": "FXStreet",
+   "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1RkNsYmFleEg2amVTMUtGRjBiZTBJNnQ3OHRSTHNUOVhlVF9GNU1PQXJ0RU9aLV9NY2QxbWpySXN0NzhRSHJlRzlZNmM5dkxmNWY0aW9YLTFqekhXSjBQdXRB?oc=5",
+   "title": "Turkmenistan, IMF discuss expanding economic policy consultations - Trend News Agency",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1RkNsYmFleEg2amVTMUtGRjBiZTBJNnQ3OHRSTHNUOVhlVF9GNU1PQXJ0RU9aLV9NY2QxbWpySXN0NzhRSHJlRzlZNmM5dkxmNWY0aW9YLTFqekhXSjBQdXRB?oc=5",
+   "desc": "Turkmenistan, IMF discuss expanding economic policy consultations  Trend News Agency",
+   "source": "IMF / World Bank",
+   "publisher": "Trend News Agency",
    "scope": "world",
-   "ts": 1793196000000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPam1KYXBaRnJ6a2RqTzVkMHMxZkNEQndCbUpyTFc4LThpZjJQcVo2MEtjU3BZRkRoYUo4cEZPODZTX3BrY1BUN2tpUU16RUx6NW8yU2dxcWZfYjJXbGJ6TG8teFBJUlA1UHZGdGM5TGgzNXVuT0o",
-   "title": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates - goSkagit",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPam1KYXBaRnJ6a2RqTzVkMHMxZkNEQndCbUpyTFc4LThpZjJQcVo2MEtjU3BZRkRoYUo4cEZPODZTX3BrY1BUN2tpUU16RUx6NW8yU2dxcWZfYjJXbGJ6TG8teFBJUlA1UHZGdGM5TGgzNXVuT0oyOV93bi1kLUUtcDh1Q29mS1VjNkRobzZWeFdOcXBUMnVULU9qNW1IUUFCMDBoNmJybW5Ob2hQZ3ZReXpOcjZKMWFHTzBvRHRld2N0VElJZnlhbjRaWmhSSUFZeURZRG95emdJd2ZjLU4yS2ZkSkxmZllWM2FhWVJQVEUzSlB6RnBOSzhPTDgwNmhjUFE?oc=5",
-   "desc": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates  goSkagit",
-   "source": "US Fed",
-   "publisher": "goSkagit",
-   "scope": "world",
-   "ts": 1793195148000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOM3JWZFlaeFIweWp0MXFETHk1T1dKRFNObjc2Tk9Ecm4tYzBmYVBteDgxVGRMQ1FGR1N1X3hQY0JYRkx6U21aVjFiLWo4TTZIUV9DN1l1a1FOYXE5SzNGTnpVMWFacmNMMnlfUEZDMHJScEYtNDF",
-   "title": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates - Bakersfield.com",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOM3JWZFlaeFIweWp0MXFETHk1T1dKRFNObjc2Tk9Ecm4tYzBmYVBteDgxVGRMQ1FGR1N1X3hQY0JYRkx6U21aVjFiLWo4TTZIUV9DN1l1a1FOYXE5SzNGTnpVMWFacmNMMnlfUEZDMHJScEYtNDFjMDdIb1FWR1BQTGRKc2Y2OWhMNVR5TS1LckZCRnVpQ2lzMWpkTWlwNzNENWUzbjJKWE1SNjVrNjczQnZZbEFhLW5FYTJhS0NrdTFJV29LZlBTdUVtd25ScnZZNGNSYTk2a0NLNlM3UkZNNGx4ZnZjMGZEYWJXYkxnNXlFbzRQWjJfcEdTaGZlSFdqTENhWU00dw?oc=5",
-   "desc": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates  Bakersfield.com",
-   "source": "US Fed",
-   "publisher": "Bakersfield.com",
-   "scope": "world",
-   "ts": 1793195148000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ0xYLUhnaHF5Nk9ueFM5akFfLUd2cllzdEdQQ2dwbml1emRjaTBEVU1tZG13clplMkNrXzJjeGhIR2RPY00teW1JdjBMa2ZVYjJpOWhObUNYUk9iVm0yYzViQVhqUU1FOVg0WWE4R01LQ3I4U3V",
-   "title": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates - Oskaloosa Herald",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ0xYLUhnaHF5Nk9ueFM5akFfLUd2cllzdEdQQ2dwbml1emRjaTBEVU1tZG13clplMkNrXzJjeGhIR2RPY00teW1JdjBMa2ZVYjJpOWhObUNYUk9iVm0yYzViQVhqUU1FOVg0WWE4R01LQ3I4U3Vuc3NRajFka2picGJ3eUpFOGwtTmtsYmNSR0cycUhJZnZHTlo1eVJ0MldkVlpCdldzb1FJd3VSd3k5aWNLNEVMOUpFWGVUQVRpWGJhSHlPTFlkNDBvTE8xd1BJMUdwT1VmdUpYaWJhMkN4anJoV0pmU3pWSmxCd2M1cEJwY3BmUkQ4NF91RVE?oc=5",
-   "desc": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates  Oskaloosa Herald",
-   "source": "US Fed",
-   "publisher": "Oskaloosa Herald",
-   "scope": "world",
-   "ts": 1793195148000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMkE0NERCV1JTYlBDSzJCbEgwZVNYR1ZrMnlnckpOSFRJUUpfNzd4TVdjdDNJWWpsSWNjX0pOQ0Z6MDZtQUNLVWNUTUNnR2FybUNubWwxY0d2SEJrTXNxYmFkS0xHSjNsemhSdnNzZmFnRzE1VWp",
-   "title": "Fed Set to Announce Interest Rate Decision Today: Will Rates Go Up? - Norada Real Estate Investments",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMkE0NERCV1JTYlBDSzJCbEgwZVNYR1ZrMnlnckpOSFRJUUpfNzd4TVdjdDNJWWpsSWNjX0pOQ0Z6MDZtQUNLVWNUTUNnR2FybUNubWwxY0d2SEJrTXNxYmFkS0xHSjNsemhSdnNzZmFnRzE1VWpYVFBzdXM5cEx1VGdYcXBqVlFQakRzdXVCZk16MVFBQWVIa3BZWmlFX096Wl84?oc=5",
-   "desc": "Fed Set to Announce Interest Rate Decision Today: Will Rates Go Up?  Norada Real Estate Investments",
-   "source": "US Fed",
-   "publisher": "Norada Real Estate Investments",
-   "scope": "world",
-   "ts": 1793194939000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdmcyN2daNmt3Q0NHUVdaVEFFeUp3eXhKUlJqUzBjRExCWHVIRmozc2I2X3lZZlFzbVlBWWpuRGtMNlFLaFNGWklkYlZPV0NvVlpOZTdWZ2RVcWlnTXJoMVJTU2FzSDFMaVZaRkxheXpWa05ybG0",
-   "title": "US stocks edge higher ahead of Federal Reserve decision on interest rates - Castanet",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdmcyN2daNmt3Q0NHUVdaVEFFeUp3eXhKUlJqUzBjRExCWHVIRmozc2I2X3lZZlFzbVlBWWpuRGtMNlFLaFNGWklkYlZPV0NvVlpOZTdWZ2RVcWlnTXJoMVJTU2FzSDFMaVZaRkxheXpWa05ybG02M3JXU3hQUGU3NkdTNlZpdklwVDZuMGZnQ3FXR2QzMHZsZTBvRVdUNG0xSnpLdXo4TGpyc2dwYng5Q3poMHlZUS1veDNR?oc=5",
-   "desc": "US stocks edge higher ahead of Federal Reserve decision on interest rates  Castanet",
-   "source": "US Fed",
-   "publisher": "Castanet",
-   "scope": "world",
-   "ts": 1793194560000
+   "ts": 1793196120000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRzc3Nml0WU5JLWhfeHRHTmtIZlNXWTZxTkozQ0dtc2YyZlJQXzliVW9LS1UwYlVPYWRGaFhzTGRKV00wekhlUml6Sld2TE5xQXExQ3pGVUtubGc2cXUyWWNVLTdEUzZxX0E5Tlg3ZFZEYkgxTkJ",
@@ -322,34 +1022,24 @@
    "ts": 1793194479000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcDBNUDZ5OFR2ZklBZWh5ekhVT2ItMllGWkc1T2tDNjRMSkVCWEljZnpQcEgtc2dCT2JkQl9ocm1FWmgxd2dFMXpITHhxREhRcWQxbDJNYm1zMzZWa3BtcFFpMGVuRHd1TEZXUGVWaldvQlhwa2J",
-   "title": "US stocks edge higher ahead of Federal Reserve decision on interest rates - thedailystar.com",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcDBNUDZ5OFR2ZklBZWh5ekhVT2ItMllGWkc1T2tDNjRMSkVCWEljZnpQcEgtc2dCT2JkQl9ocm1FWmgxd2dFMXpITHhxREhRcWQxbDJNYm1zMzZWa3BtcFFpMGVuRHd1TEZXUGVWaldvQlhwa2JwQkNaWkRCNUE5Y2dBdS1wSFR6R2NNY3BCOERJdmpPYmMzbkE0TnMwdjJGQXhULVdBSW9xYjFrUXdiQ0xCd3U0RjVvemluUTlBTGxJY012X1RnTC0yQnFyRm5vajRPc05fUFJ5VUVjR2dXV3YzMHNmbHZMZjFxUGo4cExYUEJQQnhpMTZB?oc=5",
-   "desc": "US stocks edge higher ahead of Federal Reserve decision on interest rates  thedailystar.com",
+   "id": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTHVLSzBlZzM1M3hzVzhlOXdRb2JjTDJpdklSSEItRkgxTGpkeThlNlJPMTE2RXdhclNUNUFma3FacVFvY01CcWllUnVySG5SRkZiS1hwcDlKMVpiSnJNVUZEdldOclBHcHcxWmdyekJleDNrODg",
+   "title": "US stocks edge higher ahead of Federal Reserve decision on interest rates - NewsChannel20",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTHVLSzBlZzM1M3hzVzhlOXdRb2JjTDJpdklSSEItRkgxTGpkeThlNlJPMTE2RXdhclNUNUFma3FacVFvY01CcWllUnVySG5SRkZiS1hwcDlKMVpiSnJNVUZEdldOclBHcHcxWmdyekJleDNrODgxdnpuQzFVSUE0RlVtWEE4VWlub01RWFNqQVRUb0ZoeFZic0pfUlBMSXVVak1RQWt4bExZX1NIYnhGTTZCNXlwLTNsUE11V1U4OFRrTklHc1hlS1podXUyTVlJVmdkaExjMjN1aVE4bW1LUnZNSmxaWXVXOGlSMmFCbGtpTWVINEhSc3h1T2dEVmNO?oc=5",
+   "desc": "US stocks edge higher ahead of Federal Reserve decision on interest rates  NewsChannel20",
    "source": "US Fed",
-   "publisher": "thedailystar.com",
+   "publisher": "NewsChannel20",
    "scope": "world",
    "ts": 1793194438000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaFM1Yjl5Zl9fMHZZcXN2bEdBYjFuaUtSakxacDBuSmVHNFFJSEVFczVHZ09uSnZDX0pkRUJhVVpPaEh1dXZZSjRYNG1lbVp2S2RnQ1ZKYVdlTFdhaDROY3l0Z3VmNlNCZXZETHpaVEdSeXJqT2x",
-   "title": "US stocks edge higher ahead of Federal Reserve decision on interest rates - couriernews.com",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaFM1Yjl5Zl9fMHZZcXN2bEdBYjFuaUtSakxacDBuSmVHNFFJSEVFczVHZ09uSnZDX0pkRUJhVVpPaEh1dXZZSjRYNG1lbVp2S2RnQ1ZKYVdlTFdhaDROY3l0Z3VmNlNCZXZETHpaVEdSeXJqT2xGajM1aWhyVnZYSzM4RDh3Qnl5VGJXcjV3YWhWc0cxNzEwaThfOFZiclV4Y3hFQUNCbVdJa2QxQzJBaFA5TFU1OUxrZGRzc2x3MXVRal9DR0ZWSTI2QzlpOG5zU0lQVFFtNmxVVURaUFB2NmFvQ1poWWFoaXhtNlFDbjFrWTlWdnNsUw?oc=5",
-   "desc": "US stocks edge higher ahead of Federal Reserve decision on interest rates  couriernews.com",
-   "source": "US Fed",
-   "publisher": "couriernews.com",
+   "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3hsYnlxZ3ZQS3FvLXJNcGE1RTRtV3NhUWFBVVZOVjgxSkJmUy1raXlGcXh6Qk9kRXRweEhDaHRxUU9iYmgzNTI0T3RfOXFsaV9wNnpKSXJJRm9FWG5WOE1PTEw4Mmw4SWNCQnZJcklEdlZ3VkR",
+   "title": "African countries face rising economic risks: six ways they can navigate global uncertainty - The Conversation",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3hsYnlxZ3ZQS3FvLXJNcGE1RTRtV3NhUWFBVVZOVjgxSkJmUy1raXlGcXh6Qk9kRXRweEhDaHRxUU9iYmgzNTI0T3RfOXFsaV9wNnpKSXJJRm9FWG5WOE1PTEw4Mmw4SWNCQnZJcklEdlZ3VkRzM1RNTV9BM3FrQWZ2dWVtOGhZeDltM3dnVHRTTXpEUnFadC1fNFdPanZiY3ItRkZiXzY5SURhZkdHTVAxZFVuaWJZZk81Wm9YbHlPdEk?oc=5",
+   "desc": "African countries face rising economic risks: six ways they can navigate global uncertainty  The Conversation",
+   "source": "IMF / World Bank",
+   "publisher": "The Conversation",
    "scope": "world",
-   "ts": 1793194438000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxObzlLZ3JwOFE0bnMzTGtLRjBPQTZ5Wm1ha2twTmgwWmlieldYdlNuc2hRSVozcGcwcGE3Q1lZQ2ZKcHdXM2hxSUR2M2VPVFRtWEw1Vk9TUERIRGM1NEhiWXV0UjZxY1pmZ1l0Y0dxNkJDeDBGOHM",
-   "title": "US stocks edge higher ahead of Federal Reserve decision on interest rates - Black Hills Pioneer",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxObzlLZ3JwOFE0bnMzTGtLRjBPQTZ5Wm1ha2twTmgwWmlieldYdlNuc2hRSVozcGcwcGE3Q1lZQ2ZKcHdXM2hxSUR2M2VPVFRtWEw1Vk9TUERIRGM1NEhiWXV0UjZxY1pmZ1l0Y0dxNkJDeDBGOHM4Sl9SazQ2WUR5R3paejlSdVpUUnJTY2ZwdTVaazBza2dlejFnVEx0ODRuU2N2OHVwQUtVTlE4U05CMl81ejVHRUVnUHhia3ZKSTU3NVRQTndGSk1vdmxyRDE1Y084ckVhemZPNWJJbjZZWFUyOUM3R0VybVh6ejlUV3ROZGZVclE?oc=5",
-   "desc": "US stocks edge higher ahead of Federal Reserve decision on interest rates  Black Hills Pioneer",
-   "source": "US Fed",
-   "publisher": "Black Hills Pioneer",
-   "scope": "world",
-   "ts": 1793194438000
+   "ts": 1793194404000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81NFJrZU5UcmduQjZMRW5sMUN6c0xfcTNPQ2d0RnhIaWxoaUJfSzlWcTNMemNqV0R1UjVhUTZBM1pWTU9nV0k3NnY1aFlyY2NSNklMTUN4M0k2ejVOTXAwU0Z3?oc=5",
@@ -370,16 +1060,6 @@
    "publisher": "The Economic Times",
    "scope": "india",
    "ts": 1793193356000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQVlQQVcyQ0hDUjZJcm9EV2FIcHFwVnhhM0pJRTI3NGczUW5tSHV6Uy05LURKSG5Ubll6am1Mb0NKd2dqeF9ieXlfLUJzazRJZ3JXRHk3MC14SU1qMGpMZEE3QXh2d1JRaW82SjRKenlHS0pIY2R",
-   "title": "Tech stocks rebounding ahead of U.S. interest rate announcement - Global News",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQVlQQVcyQ0hDUjZJcm9EV2FIcHFwVnhhM0pJRTI3NGczUW5tSHV6Uy05LURKSG5Ubll6am1Mb0NKd2dqeF9ieXlfLUJzazRJZ3JXRHk3MC14SU1qMGpMZEE3QXh2d1JRaW82SjRKenlHS0pIY2RBd3daSlJKUDRWUEZHelZPQlE?oc=5",
-   "desc": "Tech stocks rebounding ahead of U.S. interest rate announcement  Global News",
-   "source": "US Fed",
-   "publisher": "Global News",
-   "scope": "world",
-   "ts": 1793192235000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQRFdRQ1FlUi1fNkhwMm54M3lnRk95Zko4LXBTS1VzYTBRcGVHV0lLYkdSWEZLYTlSNHZrTGVtRDIxN0tycnZsMWlGNzVjdUx3U2VHd0QtczVSNzkwaVdwbEhpYXJCRjRoakt4RDZ6RUhxNFVncS0",
@@ -412,36 +1092,6 @@
    "ts": 1793190782000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSlJyRlhGOUVzRkVPOUpUbVp0M2JWdm80Zk5kalVzQ3J0OEtaanhwaElKemZqTE1GR09ad3M1WVRMMVp6b3ZYR0R1bFJiOVFRb2FzUHhuamVFR2NmR2xuLVExT2dSRDlmMFpfRGE5RWhoWHZBNm9",
-   "title": "US stocks edge higher ahead of Federal Reserve decision on interest rates - Jacksonville Journal-Courier",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSlJyRlhGOUVzRkVPOUpUbVp0M2JWdm80Zk5kalVzQ3J0OEtaanhwaElKemZqTE1GR09ad3M1WVRMMVp6b3ZYR0R1bFJiOVFRb2FzUHhuamVFR2NmR2xuLVExT2dSRDlmMFpfRGE5RWhoWHZBNm9HMGNpelV1TUxwVTR3R2JLMjRZcU42VUpXWldxYV85cExla0RrbU9TNVZSR2pDRXZuTVdabWJiMEp6Zg?oc=5",
-   "desc": "US stocks edge higher ahead of Federal Reserve decision on interest rates  Jacksonville Journal-Courier",
-   "source": "US Fed",
-   "publisher": "Jacksonville Journal-Courier",
-   "scope": "world",
-   "ts": 1793190612000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDVJc3BaeUw5dnlFa2JrcmJQcFBnclc2alpNZTdST3BGSThJOFkyYmFUNGdTVFlWc2xheVdoZ0JJTzlISEVUQjdqVVZTQThuYTUxWXU3UGUyOVpjQm9CdTZHdXNNSUVfdlJ0TldocXJWQkdxVUh",
-   "title": "Fed officials not aligned on weight of financial conditions - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDVJc3BaeUw5dnlFa2JrcmJQcFBnclc2alpNZTdST3BGSThJOFkyYmFUNGdTVFlWc2xheVdoZ0JJTzlISEVUQjdqVVZTQThuYTUxWXU3UGUyOVpjQm9CdTZHdXNNSUVfdlJ0TldocXJWQkdxVUhOX3JxNFV4dGZhM3Jsa0pTeWRvM3owdUgtZ2lJcTYwZjQzOEFQWjdhSlc0Rmt2UFVCRGlvQQ?oc=5",
-   "desc": "Fed officials not aligned on weight of financial conditions  Reuters",
-   "source": "US Fed",
-   "publisher": "Reuters",
-   "scope": "world",
-   "ts": 1793190543000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1",
-   "title": "Fed likely to go into wait-and-see mode on rates - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5",
-   "desc": "Fed likely to go into wait-and-see mode on rates  Reuters",
-   "source": "US Fed",
-   "publisher": "Reuters",
-   "scope": "world",
-   "ts": 1793190505000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU2t0MXM0NUpjbnFpUFY0Z2g5ZGdaN2dtX3VySkV4M2tKT1hMOVEzeF91NEtpdFRlWWszZkFVQmxCanNsbTBtNFdINzFBWFRzRTZsUjVnX2R2Q3pfX1NYWGh1QTB4cW1ndkRUVHFVd2Y0RHZiSWx",
    "title": "Global development financing gains momentum as World Bank mobilises $112bn-INP - Independent News Pakistan",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU2t0MXM0NUpjbnFpUFY0Z2g5ZGdaN2dtX3VySkV4M2tKT1hMOVEzeF91NEtpdFRlWWszZkFVQmxCanNsbTBtNFdINzFBWFRzRTZsUjVnX2R2Q3pfX1NYWGh1QTB4cW1ndkRUVHFVd2Y0RHZiSWxSRnc2UXpETklfNTZqYjNIb2pTRlFhZFZOYmJieXp0eTExbkRRVGxrY1RUMmJoYmVYSFJhTS01VG55V2hGUEc4VE9jWWFiVkRHaUR2Zw?oc=5",
@@ -450,26 +1100,6 @@
    "publisher": "Independent News Pakistan",
    "scope": "world",
    "ts": 1793189633000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT1B4NjBDRkxPTmc5ZGh4RVY0MDRDYURQZTN6RVltRkF2UDh6VVI0SGpoUjJoa3M5dDJWajA1UTVGeXJVZk94RFl2Z04tVGR4bmY4MGlYaFJPbDdrXzFnQnJFRlZCMFhKSVA4WXhRV0w5ODBNbW9",
-   "title": "Dollar steady ahead of Fed decision; focus on UK budget - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT1B4NjBDRkxPTmc5ZGh4RVY0MDRDYURQZTN6RVltRkF2UDh6VVI0SGpoUjJoa3M5dDJWajA1UTVGeXJVZk94RFl2Z04tVGR4bmY4MGlYaFJPbDdrXzFnQnJFRlZCMFhKSVA4WXhRV0w5ODBNbW9kbV81NGdkVkRreHljdVVCeEJvTUttQnY2Yzg4UmpManNNYVFiZWtrQk1wOFBJ?oc=5",
-   "desc": "Dollar steady ahead of Fed decision; focus on UK budget  Yahoo Finance",
-   "source": "US Fed",
-   "publisher": "Yahoo Finance",
-   "scope": "world",
-   "ts": 1793189625000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTFdJQXk5cE9kSWlldkRoRE9JN29UWlN4SEJxdldQTEZmSVJ6ZV8zOGNZT0FFRklLT3V2X2tqeUpzZ0ZyU2F5Zl9nREpOTWlRRk5PbGtuUlRCblpMRW9ma25IOU1vaWUtTUlwdl9WUVhvRzNJOTB",
-   "title": "Factbox-Major brokerages expect Fed to hold rates ahead of policy meeting - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTFdJQXk5cE9kSWlldkRoRE9JN29UWlN4SEJxdldQTEZmSVJ6ZV8zOGNZT0FFRklLT3V2X2tqeUpzZ0ZyU2F5Zl9nREpOTWlRRk5PbGtuUlRCblpMRW9ma25IOU1vaWUtTUlwdl9WUVhvRzNJOTB4XzNaR2ZLT21qX1gzQ2hSMEhuOHVUWUdjX3lnVW85dWtZWnB2REp4UkRoVDdz?oc=5",
-   "desc": "Factbox-Major brokerages expect Fed to hold rates ahead of policy meeting  Yahoo Finance",
-   "source": "US Fed",
-   "publisher": "Yahoo Finance",
-   "scope": "world",
-   "ts": 1793188874000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTDFfUWVtRXhpYUpMSWR1U201NEE5TUx1eWk2R1A2SHZDd2YySlNXcjNyLU1rMzVwcHdac1VwZ1Y4ZFhFWjg2Qmp0VWpvOFpsY3JZbFp1Tko0ZmZtRE5GMVJfZTBaODlPSmdFekxPRDNoVHhYTzV",
@@ -482,36 +1112,6 @@
    "ts": 1793187609000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2FtbkZTZ2g3cXJpYk9UZHduWVFFMHFyYmgxeXE3UTlyWXVsel9lSm9pVFhrSXJMVzVneDlDZG8yYjJnLWhwdmZnOFVqZEpmdEpKcm0zNktoeGt4U3k2d0xobGFiR2dZRmdCd1k1ZF85cHd3Rjh",
-   "title": "Central Banks Week: Fed Decision Today, Then ECB and BoJ - Admirals",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2FtbkZTZ2g3cXJpYk9UZHduWVFFMHFyYmgxeXE3UTlyWXVsel9lSm9pVFhrSXJMVzVneDlDZG8yYjJnLWhwdmZnOFVqZEpmdEpKcm0zNktoeGt4U3k2d0xobGFiR2dZRmdCd1k1ZF85cHd3RjhISmw0U3VBVmNHWURKS2hGTE8xa19GR2UxaFdCTnR4Y3RxSQ?oc=5",
-   "desc": "Central Banks Week: Fed Decision Today, Then ECB and BoJ  Admirals",
-   "source": "ECB / Europe",
-   "publisher": "Admirals",
-   "scope": "world",
-   "ts": 1793186999000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa3k1THoyZjdoNnBucFVOU3laYzVoX2RLeHJFWHRtN0VIUXhuTGVxdzhLSHdwX09zaTF0U3pxWWFnT0JWbXJ4WS0wTmdnTmJ3cWF4d1BrZlJLQ1BWNTVWMUVPd1h0NDNVWHRXTnJPSVl1TWswYy1",
-   "title": "Federal Reserve set to issue interest rate decision as midterm elections loom - ABC23",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa3k1THoyZjdoNnBucFVOU3laYzVoX2RLeHJFWHRtN0VIUXhuTGVxdzhLSHdwX09zaTF0U3pxWWFnT0JWbXJ4WS0wTmdnTmJ3cWF4d1BrZlJLQ1BWNTVWMUVPd1h0NDNVWHRXTnJPSVl1TWswYy10bXlvZGpHZndfMXVTcGNaQWp4V09mbElKWWhPQUtvc1ctSjIwclowUzh2clE?oc=5",
-   "desc": "Federal Reserve set to issue interest rate decision as midterm elections loom  ABC23",
-   "source": "US Fed",
-   "publisher": "ABC23",
-   "scope": "world",
-   "ts": 1793186395000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVHFtNzVsaHUxbXo4RGtSdE1NeXhYcXA0VUhVUzY2U3pybEs1WWExTzIwaUlwbTlHQmFjbVpJTHhHTHRfY3VDVGhFSjNCU3FXb2NRQ25EN3NtcUNnNEs0NENlVHBTRi05Sjl4ZlZWSmFYNTZjUHd",
-   "title": "US Treasury yields rise ahead of Fed interest rate decision; 10-year yield tops 5% | Hindustan Times - Hindustan Times",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVHFtNzVsaHUxbXo4RGtSdE1NeXhYcXA0VUhVUzY2U3pybEs1WWExTzIwaUlwbTlHQmFjbVpJTHhHTHRfY3VDVGhFSjNCU3FXb2NRQ25EN3NtcUNnNEs0NENlVHBTRi05Sjl4ZlZWSmFYNTZjUHdjaFJfSHAtdWVtREpWNTVnVDBZT29RQUpkY19LMlBXeVM1ZGtBTEx1SlhTaUdtQklZa0x3YUFNcDF3YjhVRldfT2xlQnRJQXp0bGtNSkRVSU5GT0tQeFhfOS1lQlpvOU5Ed1BFWVZwcjZSRE10Qm1Qd9IB6wFBVV95cUxQaVVuQzB4bkxyamtsejM4WmtRUlY3R19Dd1pOa2xkVnJiY3U1YlFVN1UxaHBIUW5EeGczcXp5akZJQVRBMmZHeExlamdUel9xY1prT2JFbnRCWUhHU3FUMmR0Y2p4ekVGTkRuSXhyNDJnamRyT1UxS0lvb0hIRjlPWDZRUlB3aG1rejN5SHRRbnpPd0ZyeXFlR29aU1BadnlIbERkck1hb2VObEVrRVNjSGRfSDBUM2l1MTVpeGI4MXM2N004aE1yUlk1bW41aVZybU9ZMnVKbmxXN1hHdmVaa09HTGx3RS02QW5N?oc=5",
-   "desc": "US Treasury yields rise ahead of Fed interest rate decision; 10-year yield tops 5% | Hindustan Times  Hindustan Times",
-   "source": "US Fed",
-   "publisher": "Hindustan Times",
-   "scope": "world",
-   "ts": 1793185846000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2pPeHlGNkV2VUoyUlVodUxxdnV5Q0pRc2VUNDRINmYyN2lxdlRnMVBfc281cksycXVhYWVXTnR0ZHBMeVFJclVWTWV5Q3VOSzlQUFQwTkMwNkpxRDFaVXZocWxYc2tSTDY3dHR3MUJYZUV4a0N",
    "title": "Fed likely to hold rates steady ahead of midterms - The Hill",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2pPeHlGNkV2VUoyUlVodUxxdnV5Q0pRc2VUNDRINmYyN2lxdlRnMVBfc281cksycXVhYWVXTnR0ZHBMeVFJclVWTWV5Q3VOSzlQUFQwTkMwNkpxRDFaVXZocWxYc2tSTDY3dHR3MUJYZUV4a0N6RDB1YXMyRlhWetIBhgFBVV95cUxORmNwQXRxNnQ0bHpMV2JKUEJPdmdUcHBFdTJVTU9uS1N3dUhqNDlsR0tXTGxnTVV1MEZnVjFBM3pEODdydHBpWXJOY09leTdBdFBvWWhpak5ZT2FycVliZkNIekFuRTktUWdxczVqemE2VjdtLWFORDczenFzUjQzdGhoaGVodw?oc=5",
@@ -522,24 +1122,14 @@
    "ts": 1793185200000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV241MEpCNTlLNk5kMkloSEc0SHl4YXo2bTFHc2YxV3RqeXVjUzI2bDV6S3V6MHZQVW1hbFU5TmMyb3RUWnV6LUtYdHdjeENfa1BhamdBNTY2dXBqX2ZIb1pRV0dEc3hnLWtkWDhXOFdZMjFJMTl",
-   "title": "The AI Fed Votes to Hold Interest Rates Steady - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV241MEpCNTlLNk5kMkloSEc0SHl4YXo2bTFHc2YxV3RqeXVjUzI2bDV6S3V6MHZQVW1hbFU5TmMyb3RUWnV6LUtYdHdjeENfa1BhamdBNTY2dXBqX2ZIb1pRV0dEc3hnLWtkWDhXOFdZMjFJMTlKOUlCUURWY3AzS1hud3lRZHVSdzFBNTE0OHM2UUJyakNXU0lkR0FMM0RmTVo4dmpIdXk0RUNnaGpiY0dR?oc=5",
-   "desc": "The AI Fed Votes to Hold Interest Rates Steady  Bloomberg.com",
+   "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXpNWFREek1pS2Etd19yTGZPODI1YktUbHdXRVBub0lWS1NLZ0xGRGRMNzZDV3lzUVdvVWU5cVEzWERhcUJielk5OERUYzFXVGpJTUk1WWxMaG9wUU9qeF9HdkhfQ2EtYkN1RE9lbmo1US1tWW5",
+   "title": "Fed holds interest rates steady in last decision before midterms - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXpNWFREek1pS2Etd19yTGZPODI1YktUbHdXRVBub0lWS1NLZ0xGRGRMNzZDV3lzUVdvVWU5cVEzWERhcUJielk5OERUYzFXVGpJTUk1WWxMaG9wUU9qeF9HdkhfQ2EtYkN1RE9lbmo1US1tWW50T3FLdjJhZVB5a0F3?oc=5",
+   "desc": "Fed holds interest rates steady in last decision before midterms  The Guardian",
    "source": "US Fed",
-   "publisher": "Bloomberg.com",
+   "publisher": "The Guardian",
    "scope": "world",
-   "ts": 1793181606000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzh",
-   "title": "Global Government Bond Yields Rise Ahead of Fed Decision, U.K. Budget - WSJ",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEkwMGl6T29kQlFSbU9EanZNX3VMdG5PcG9tWXh3cUQ0U0R5ZTFuUU1QRl9PWl9nd2l4bFpwWl9OOFFTS0VfSV9UcFR0VEtsRW9ld25admRIbkFQa292VTNWVV9xb2g3ZlQwZ2ZuNlVSQkNTQzhGN0RDSl9wZ0hDWi1fcGFTRnJHUTAzeEhUY1BZeVFJU1ZyaVFPdDkzNm9sVTVmcm9pSkxRWjlTOHRpSjlPNmxUb0pPaHBN?oc=5",
-   "desc": "Global Government Bond Yields Rise Ahead of Fed Decision, U.K. Budget  WSJ",
-   "source": "US Fed",
-   "publisher": "WSJ",
-   "scope": "world",
-   "ts": 1793181420000
+   "ts": 1793181600000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdWEzZlhxbmxYRnpUOFRLcmxpVHJUc2gwVHJJNDE4OGhJbVhEQWhOU3NNSXdHRDFTMF9WS1ZJLW56eVlXamhWUXBDQWZfQ0JuNk1TNy1fSlVEbjRVald0ZXF4WkR1dk9Bcmg2bkN3ZVZWZjAzLVZ",
@@ -572,64 +1162,34 @@
    "ts": 1793181180000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeXZ5eDY4d1U2WWVRVDFIbHJhc1ROWjVzVHZqSGZLZlg0RjJ4NTNCVTAyVHJBSFkwbXE1OHlqV2dhR2QtTTZULTF5SmFZd00waDhjTTFENTZldjhWYTE2ai1XNXpSeWJGdG5SQUdJdGFITk1aZWZ",
-   "title": "India markets regulator weighs domestic AI model for securities trading, chairman says - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeXZ5eDY4d1U2WWVRVDFIbHJhc1ROWjVzVHZqSGZLZlg0RjJ4NTNCVTAyVHJBSFkwbXE1OHlqV2dhR2QtTTZULTF5SmFZd00waDhjTTFENTZldjhWYTE2ai1XNXpSeWJGdG5SQUdJdGFITk1aZWZabUcyUU1lUE5iNzQwcE1QMl81c1lqZ3czaWlUWkhaU3d2THBUbExjTmxxZlFvRkwyYldZX1N2eTdwUFVEQ0RCeDJKY3hIb082d0s5Zw?oc=5",
-   "desc": "India markets regulator weighs domestic AI model for securities trading, chairman says  Reuters",
-   "source": "SEBI",
-   "publisher": "Reuters",
+   "id": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPTG5abnhyVkpRdHItY05nemlUbEJMeTdjR0FiZFNCSHNEWDNRLWNkcXQ1TDBlT09XZTVldll6WnI5bm9BNUdBY1pEb1gxWFJQV3BxV3RZM29qVEVmUUJ6M2pwVV9kTlNWZ2YtQy1XLUFfOEdnNV9",
+   "title": "RBI proposes ₹50 lakh LRS sub-limit explained: What does remittance scheme mean for your overseas investments, travel - Livemint",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPTG5abnhyVkpRdHItY05nemlUbEJMeTdjR0FiZFNCSHNEWDNRLWNkcXQ1TDBlT09XZTVldll6WnI5bm9BNUdBY1pEb1gxWFJQV3BxV3RZM29qVEVmUUJ6M2pwVV9kTlNWZ2YtQy1XLUFfOEdnNV9rSmFhXzMwUmZzTndtTlI4NTA2anFVeThHNHFXN0JNaS1CV0NPNzJncllITHZuZm5uekc2MmhpUFhtb3BwdWtRSmczVGp6UnMtNF85UGxVWHdnTldsT2pkaHVjVEZrTVNmNF95elZ1RzlLUkxHUW4wOGFRTmRsRmUzeFp2WHV0aTdBQmZ5SGRad1RDbDBoeWd2WDlMLVZ1NHM00gGUAkFVX3lxTE5xeFJRNlBfQ1pTa1VqaDRSTDhTekZldnFzX1FzS29jcGowTEE4NlFYVlk1UFppaTExQUVUZm5fUlJwa0l5SVJOOEoxVTgtTXFPc3hvWjBPOUg1S0lHb25IR1hOMGhkOVJCOGtfTjU2S1NJNDFIeHdnMnJWc2llSnF2Skp3SkE3LXlIWGEwUXFFdTNXZGJYRVBKaFVkdks0WnNxeDJUZnZwRkpLeWxIcy1kUEJYa3ZMbDFXTEJDQWRyN3NpWEloT3JncVhIYUZQa2Mxd2ttU0gtSlBDaVh1UFUtRC1mQ3lNV0thM004UnlGOUd6N2o4dFV1WXpCbUJvbTJLUERuOE5FVnJtQkMtemlYNE1FUw?oc=5",
+   "desc": "RBI proposes ₹50 lakh LRS sub-limit explained: What does remittance scheme mean for your overseas investments, travel  Livemint",
+   "source": "RBI",
+   "publisher": "Livemint",
    "scope": "india",
-   "ts": 1793180856000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUXZRb0xhbERhVHByXzJ1LWJUQ2pEaWRPTF9iVVZiY1hwQ0JnWTllX1RJYzZ3Z214bkhmV3pWelRMQTlsV1JORmpRYWxXWlZUcjQ2alh6MUx5LWFpR1VBaEZoS3Y2cDFsSmxxaEwydjk4S290X3p",
-   "title": "Singapore's Shares Edge Up Over Federal Reserve Interest Rate Prospects; Wee Hur Surges 7% - Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUXZRb0xhbERhVHByXzJ1LWJUQ2pEaWRPTF9iVVZiY1hwQ0JnWTllX1RJYzZ3Z214bkhmV3pWelRMQTlsV1JORmpRYWxXWlZUcjQ2alh6MUx5LWFpR1VBaEZoS3Y2cDFsSmxxaEwydjk4S290X3pocGs2c284TGhVNTRVTUd2NHM?oc=5",
-   "desc": "Singapore's Shares Edge Up Over Federal Reserve Interest Rate Prospects; Wee Hur Surges 7%  Yahoo Finance Singapore",
-   "source": "US Fed",
-   "publisher": "Yahoo Finance Singapore",
-   "scope": "world",
-   "ts": 1793180615000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56UzVQU1hZdXd6b012aG1ld1hsSC1vQXlIdnVfZXJmX0hYa05IazNGekw0Vm5xNlhhME1EOTVRMjFYWHBFUGdpOUFhWUlvRHAxM3BqZzVhZGtvcHdBal9CUTF1SdIBaEFVX3lxTE5xQzNyVlI5aWd",
-   "title": "Federal Reserve expected to keep interest rates steady - LiveNOW from FOX",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56UzVQU1hZdXd6b012aG1ld1hsSC1vQXlIdnVfZXJmX0hYa05IazNGekw0Vm5xNlhhME1EOTVRMjFYWHBFUGdpOUFhWUlvRHAxM3BqZzVhZGtvcHdBal9CUTF1SdIBaEFVX3lxTE5xQzNyVlI5aWdKYmtaOVhrc1p5aTZ2RjZ0LVVGdmtSaWlJRmpZT2t4UXpJOXItYUdERC1tZTVyYUZ5YnNpWmltbjhYR3ZGaXF6a0VfS1dLUkJnRTNueEUxMzFNazNlbGN4?oc=5",
-   "desc": "Federal Reserve expected to keep interest rates steady  LiveNOW from FOX",
-   "source": "US Fed",
-   "publisher": "LiveNOW from FOX",
-   "scope": "world",
-   "ts": 1793179646000
+   "ts": 1793179954000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNblEzWWhhd29Pcm51emZVLUtkQ0FHb3FFYTBBRTlsTU9MN1lKQVl5eDVGUjJPYnpfTm8tV2JteFlEbVkxbV9WNHhvbHdUQ0JYOWk4YkVObXhrUlRDQ0ZLTHhNcUtCRVdRLVU5TXYyN2RLUVFRMHR",
-   "title": "Treasury yields tick higher ahead of Federal Reserve interest rate decision - CNBC",
+   "title": "10-year Treasury yield creeps higher even as Fed keeps rates the same - CNBC",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNblEzWWhhd29Pcm51emZVLUtkQ0FHb3FFYTBBRTlsTU9MN1lKQVl5eDVGUjJPYnpfTm8tV2JteFlEbVkxbV9WNHhvbHdUQ0JYOWk4YkVObXhrUlRDQ0ZLTHhNcUtCRVdRLVU5TXYyN2RLUVFRMHR5SklNMXB5eUt4RnNaZknSAYoBQVVfeXFMT19ETGtYNWFfbnVCbTdXTkoxYVBJN25Vd0xUeE1zVmxVVXlHbFhMUHZOX2Q1VGNKTmx4aTNUd0R2WVloQXF1Y2JLUHRzc0ZRaXRKRjY2UGo2R29ucndXc05LczJQQU9pekw1TmhfT0YzTm9pbEhuRUl1WHRrRThBSWJWTmxISEd3WHJB?oc=5",
-   "desc": "Treasury yields tick higher ahead of Federal Reserve interest rate decision  CNBC",
+   "desc": "10-year Treasury yield creeps higher even as Fed keeps rates the same  CNBC",
    "source": "US Fed",
    "publisher": "CNBC",
    "scope": "world",
    "ts": 1793179346000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcWV3U05EZ3BBLVNkT0dMTS03cVNFYWZjZkdmTkJFS00teW1RZVBIUk4yV0NURmNQcEJsT1dZcUhHQVIzSGZjelR2SU55OXJRZEdDU3hqWkI4YnpfOG0ycEs3QTBYcUxFN0RlcXIxMHd5SXJSd2l",
-   "title": "Fed expected to hold interest rates steady but a hike is anticipated by year's end - NPR",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcWV3U05EZ3BBLVNkT0dMTS03cVNFYWZjZkdmTkJFS00teW1RZVBIUk4yV0NURmNQcEJsT1dZcUhHQVIzSGZjelR2SU55OXJRZEdDU3hqWkI4YnpfOG0ycEs3QTBYcUxFN0RlcXIxMHd5SXJSd2lEUEtjUmlfLXh2WGxUaDFmSWhvVGJ5QjBkcWVyNERMbDYtUkU1NktZSUNlMHNUc0htVFVzUTZWN3pzcjNTZk0yWkhmRlRlbHlMWDNEY2hQ?oc=5",
-   "desc": "Fed expected to hold interest rates steady but a hike is anticipated by year's end  NPR",
+   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdlRyNUl6MDFVMGc4UGV5M3I0WkNjRVpBQ2ZCRVhyTkthTm9HbGdZblRhNU1HemFFRVJiX0lZNW5yeG5adElmb0x6QkxjVmRjZFdpcWk1NElROGZYcVJpV0ZURFAwMEFIaW1CcXdNaDRtUHFHbFV",
+   "title": "Interest Rates Should Remain Unchanged Today, but at Least 3 Federal Reserve Rate Hikes Are Expected by September 2027 - The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdlRyNUl6MDFVMGc4UGV5M3I0WkNjRVpBQ2ZCRVhyTkthTm9HbGdZblRhNU1HemFFRVJiX0lZNW5yeG5adElmb0x6QkxjVmRjZFdpcWk1NElROGZYcVJpV0ZURFAwMEFIaW1CcXdNaDRtUHFHbFVJM3pGWFdTN3FkQURSbEtCM2NGWk5WTERUTDgyU1BxcXRKWkpuVHpZU05LVVh4a2t5WXhhT014NWhKN21FR3hYOE9jY3JPb1U0Rm0xMzF4WUhzUVhiV2JIUQ?oc=5",
+   "desc": "Interest Rates Should Remain Unchanged Today, but at Least 3 Federal Reserve Rate Hikes Are Expected by September 2027  The Motley Fool",
    "source": "US Fed",
-   "publisher": "NPR",
+   "publisher": "The Motley Fool",
    "scope": "world",
-   "ts": 1793177131000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWmZCWmdCeVZobzloM3hXMnRReDVncFJGeEFrY2pJMUNVWk82RFdmMnk2NTlQMGNTXzVRN1JrbmpMSTQ0T19GRHlobl93WmtwWkRiZGhvQXVDQkZoWjNxNXVzT2ZlOFZya3BnclF2YUFMSko0Y0t",
-   "title": "Interest Rates Should Remain Unchanged Today, but at Least 3 Federal Reserve Rate Hikes Are Expected by September 2027 - The Globe and Mail",
-   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWmZCWmdCeVZobzloM3hXMnRReDVncFJGeEFrY2pJMUNVWk82RFdmMnk2NTlQMGNTXzVRN1JrbmpMSTQ0T19GRHlobl93WmtwWkRiZGhvQXVDQkZoWjNxNXVzT2ZlOFZya3BnclF2YUFMSko0Y0tOY2NUelR5akJlSENEWWM0Qmw0ZzAtRUY1NG9YRmhnYk0xUXBwWkRJWjhNb3AxYWdUY0VFVWlHZlBxWF81ZFVLZlF2TWNLOFREemVNUmQ2Y1lXS3AtUGJNY0JCU29DbnVSVEhxY1V2d0FiZVA2LTB3YWhrSmF3Ulk3RWxjWWx0dTF5ZlVZeFZ4bTJKVU1pZW1IejZ6VXlJdmtNbkFRWDVoNFBEdktqTW1BbGFCdDJZLWpXWl9R?oc=5",
-   "desc": "Interest Rates Should Remain Unchanged Today, but at Least 3 Federal Reserve Rate Hikes Are Expected by September 2027  The Globe and Mail",
-   "source": "US Fed",
-   "publisher": "The Globe and Mail",
-   "scope": "world",
-   "ts": 1793175990000
+   "ts": 1793178360000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEVKTnhJTU8zaEhpVmNBZkRxYVdNakpHWk04bHc4Z1p3dnVfYnhVM2lyLTg2UGVaR2szV19ZanhoSmpOYm93ZWp3cHFaTlB0RVQyYXJwb1lSb2lOMjB1RFl6UjlEYmV3VE5iZmxxN0w2SldxWEl",
@@ -640,566 +1200,6 @@
    "publisher": "Yahoo Finance",
    "scope": "world",
    "ts": 1793175961000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mZ0NXS1JjQ1RyajNkYm9SX3F1Z2hLNlA1aXZDLXRQTm9MUmN2SGh1S3RmcUhZUldOQU9jNDV2R1JqM2FjLWRtMmxCNmhHR0E0U1RhcTg4cUM4ZTk2VUFsLVdkQmlHaGs?oc=5",
-   "title": "Shekel reverses sharply as Israel’s election results unsettle markets - CTech",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mZ0NXS1JjQ1RyajNkYm9SX3F1Z2hLNlA1aXZDLXRQTm9MUmN2SGh1S3RmcUhZUldOQU9jNDV2R1JqM2FjLWRtMmxCNmhHR0E0U1RhcTg4cUM4ZTk2VUFsLVdkQmlHaGs?oc=5",
-   "desc": "Shekel reverses sharply as Israel’s election results unsettle markets  CTech",
-   "source": "US Fed",
-   "publisher": "CTech",
-   "scope": "world",
-   "ts": 1793172480000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS1BLTG9xWmJDemQzc0JtRWlZYUI1a2Fvakk4OTNfY1lrRTBUVVZQVDJyN0hIZUc2d2VVVkYyMnNlOWIwYWlhQkhNanU1X1JZdnZKa0x3N0ZXUHlFTVFkOXdBMUR2aHBJZjRZcWU2VlM1RTFiaXd",
-   "title": "U.S. Treasury Yields Rise Ahead of Federal Reserve Interest-Rate Decision - marketscreener.com",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS1BLTG9xWmJDemQzc0JtRWlZYUI1a2Fvakk4OTNfY1lrRTBUVVZQVDJyN0hIZUc2d2VVVkYyMnNlOWIwYWlhQkhNanU1X1JZdnZKa0x3N0ZXUHlFTVFkOXdBMUR2aHBJZjRZcWU2VlM1RTFiaXduTG1mWXF0ZjVOLWpLVlJDTTZoYjliNVlyN2VCeFZfVDhMT2NNZDZjc0J4bTFjMlQyb1pSTkxhcW9TVllzaG5ZTm00cnBMUjRaUjdxaUk?oc=5",
-   "desc": "U.S. Treasury Yields Rise Ahead of Federal Reserve Interest-Rate Decision  marketscreener.com",
-   "source": "US Fed",
-   "publisher": "marketscreener.com",
-   "scope": "world",
-   "ts": 1793172279000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMEU3YXN1UWhKSGkzcl9Yb2pPdlh1Y1VGVzJRc3NrU2xNYXRTeklkZzhTZi04WXVDSjVHaGxxVU12LUx3a3JWeTlYcnJfNnFnSDJsQU5hNVNNaEdWaDh4d2dDc2ExWlZ6SXNvdWJSYWtDZnNjc0x",
-   "title": "Federal Reserve likely to skip rate hike despite elevated inflation - Bozeman Daily Chronicle",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMEU3YXN1UWhKSGkzcl9Yb2pPdlh1Y1VGVzJRc3NrU2xNYXRTeklkZzhTZi04WXVDSjVHaGxxVU12LUx3a3JWeTlYcnJfNnFnSDJsQU5hNVNNaEdWaDh4d2dDc2ExWlZ6SXNvdWJSYWtDZnNjc0x2OUJ4X1NiaFU1VHYwUmx6THNfaEIzUks2M3BqNU5LNzlRX1ZFZ241bXgzdm5YNnR0ejlZVTdtRFgzN0tqT2ZPS3Rvdm9wT1J4c3BmZ1poVllKenFFcmNCeTBsUHl6YUtoWEticlpVcHVLaHlxci1hUjY4U3lucTJPSE5mR24yQ2U4Qmd5b19XUQ?oc=5",
-   "desc": "Federal Reserve likely to skip rate hike despite elevated inflation  Bozeman Daily Chronicle",
-   "source": "IMF / World Bank",
-   "publisher": "Bozeman Daily Chronicle",
-   "scope": "world",
-   "ts": 1793160066000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QUU5mZy1UZ1ZaaHh0bFk0ZVl3czhEUWZvdFgwUGxmZnNZbHFIUFhrMk14VHpla1RZaE9xTDN3WnUzQm9uT1FGR3FGLWFoTVdYVEFjTzJSV3FhdmNLYVVV0gFsQVVfeXFMTVlMN3dRMmR1OTlhUDd",
-   "title": "Can Bangladesh escape growth trap? - Prothom Alo English",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QUU5mZy1UZ1ZaaHh0bFk0ZVl3czhEUWZvdFgwUGxmZnNZbHFIUFhrMk14VHpla1RZaE9xTDN3WnUzQm9uT1FGR3FGLWFoTVdYVEFjTzJSV3FhdmNLYVVV0gFsQVVfeXFMTVlMN3dRMmR1OTlhUDdiU01JVnc5WDFaNWxuanRFVmRGRVRadGlicGtqVUZPcXlKSTluZVgzd21Mdk9palotdjBCRm13U2VzNFd0V3FUVUJCVnRFZmlYWDlpVm5TUlJPRG45eHl4?oc=5",
-   "desc": "Can Bangladesh escape growth trap?  Prothom Alo English",
-   "source": "IMF / World Bank",
-   "publisher": "Prothom Alo English",
-   "scope": "world",
-   "ts": 1793153802000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEFveEFfVkVTTGZldmRHSmlRS1JTaERrOERsMnA2aUdubXZHSW1ULXhxM2xQRVVyR0d2b3hEcU9aS1hxUWc0aHFERVpFbnBlTXhmUU1IOXA5UUZfblZZZHE2WktjSjRJZVh2TlNqMzdMWG5veFV",
-   "title": "India’s Record Bank Cash Surplus Fades as RBI Curbs Rupee Bets - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEFveEFfVkVTTGZldmRHSmlRS1JTaERrOERsMnA2aUdubXZHSW1ULXhxM2xQRVVyR0d2b3hEcU9aS1hxUWc0aHFERVpFbnBlTXhmUU1IOXA5UUZfblZZZHE2WktjSjRJZVh2TlNqMzdMWG5veFV0OUtCdHVyak5TdXR0Z1hlT3JRYTU4WDBFYW9ySXhra2pwM0cySjVZMHRiZm9LbHpDVDFlOUdYblA0dXdrZw?oc=5",
-   "desc": "India’s Record Bank Cash Surplus Fades as RBI Curbs Rupee Bets  Bloomberg.com",
-   "source": "RBI",
-   "publisher": "Bloomberg.com",
-   "scope": "india",
-   "ts": 1793152260000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRE96SkVILWZEWGsxdTRORUJsWlJ4YmNlclNadUxmdGpHRlNONHllVDY5eTBiZHBsbndwSEtBeDI0STFqdDhsNUxLVVhhVmZrWFdGUVFCaDNGd25VVENDcDdmT1ZUMHFFRWN2enRXeXk1ZUNfNHp",
-   "title": "Dollar holds steady ahead of Fed rate decision - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRE96SkVILWZEWGsxdTRORUJsWlJ4YmNlclNadUxmdGpHRlNONHllVDY5eTBiZHBsbndwSEtBeDI0STFqdDhsNUxLVVhhVmZrWFdGUVFCaDNGd25VVENDcDdmT1ZUMHFFRWN2enRXeXk1ZUNfNHp5OE8wam94MktvQlNzazVNRG1Ed2lXYTFMVjNCY2JPckJRWlIyQ2ZvVzVqOEsw?oc=5",
-   "desc": "Dollar holds steady ahead of Fed rate decision  Reuters",
-   "source": "US Fed",
-   "publisher": "Reuters",
-   "scope": "world",
-   "ts": 1793146920000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWm4yOVZGMXIxaEwwVEItU1BSR0tpMTV6djh1VktKaThSbk1JMG92dFVBd2FkT0c0VVVuRHZvaC1tRFJzSldtWnpGWUxJS1M4a3J5cXBnTi1wMFRyNlBXTWd0YTF4dVNtODRSLWI2aF9ZdWc4dHM",
-   "title": "Revolut Product Approvals Review Ordered by BoE - East & Partners",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWm4yOVZGMXIxaEwwVEItU1BSR0tpMTV6djh1VktKaThSbk1JMG92dFVBd2FkT0c0VVVuRHZvaC1tRFJzSldtWnpGWUxJS1M4a3J5cXBnTi1wMFRyNlBXTWd0YTF4dVNtODRSLWI2aF9ZdWc4dHM1QjFXejlzdDAyNTFBNW14cEVK?oc=5",
-   "desc": "Revolut Product Approvals Review Ordered by BoE  East & Partners",
-   "source": "ECB / Europe",
-   "publisher": "East & Partners",
-   "scope": "world",
-   "ts": 1793138563000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM3JCckVUNEljYldIZWxtdkZmR0NGZm41MEs0TzdSdVdkZUd1WWc0clBTbXNXUnJSeUF5U0dWZjlabnhLbGlxMDh3YTQ2cFE4enNXckNHdGJmY1FNdjJ1QVpGOWJ4YXhHZUczb2dwa0VDNnFkUzd",
-   "title": "The IMF and the World Bank are not meeting the moment: GDP Center at the 2026 Annual Meetings - Boston University",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM3JCckVUNEljYldIZWxtdkZmR0NGZm41MEs0TzdSdVdkZUd1WWc0clBTbXNXUnJSeUF5U0dWZjlabnhLbGlxMDh3YTQ2cFE4enNXckNHdGJmY1FNdjJ1QVpGOWJ4YXhHZUczb2dwa0VDNnFkUzd4VDJaSWM3TnNCS1RtTTgwaU95Z0Y0aXRfU0FhbWpvbHlYSHd3bFZOQkNZR1JvV3V1QTFFSzJINWtUUmRRMzN6MEYxd2ZLRE5icFh0Wl9fc2c?oc=5",
-   "desc": "The IMF and the World Bank are not meeting the moment: GDP Center at the 2026 Annual Meetings  Boston University",
-   "source": "IMF / World Bank",
-   "publisher": "Boston University",
-   "scope": "world",
-   "ts": 1793137386000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON0pKb01aYTZtd2lMZGRUbWx6WTM1TkRYaVdTR2xVYmJWSnUxUy0zU2VfRk1qV1Rqc2dycDM2MHFyOUNWb3VuVUlRVzd5bnNVQTk1bUQ5aDJnMHhGc2xGRlpHV1dYMUJvWHRmZW84YU0yb2hNRm1",
-   "title": "IMF backs Milei’s reforms in third review of Argentina deal - Buenos Aires Times",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON0pKb01aYTZtd2lMZGRUbWx6WTM1TkRYaVdTR2xVYmJWSnUxUy0zU2VfRk1qV1Rqc2dycDM2MHFyOUNWb3VuVUlRVzd5bnNVQTk1bUQ5aDJnMHhGc2xGRlpHV1dYMUJvWHRmZW84YU0yb2hNRm12VXNHanNQTGtYdHBwX3JfdGtFeWxwUGNPNVBQcTNzQkE?oc=5",
-   "desc": "IMF backs Milei’s reforms in third review of Argentina deal  Buenos Aires Times",
-   "source": "IMF / World Bank",
-   "publisher": "Buenos Aires Times",
-   "scope": "world",
-   "ts": 1793136723000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX05xUjhfaWRXdGJUbUZTT2tLeGw2aTJnWEliVlFScmQ1cU95R25OYTNDbWxySHBNU3EwdWl4WUxIWVdEUlRQNUFiRXJkZzh2RmxyQ2tBcFpUQVZ2UHNDR0ZPUkZMOXJSSFJiRmhnSTNFMUFzVlh",
-   "title": "The Fed says it ignores politics. Its rate moves tell a more complicated story - CNN",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX05xUjhfaWRXdGJUbUZTT2tLeGw2aTJnWEliVlFScmQ1cU95R25OYTNDbWxySHBNU3EwdWl4WUxIWVdEUlRQNUFiRXJkZzh2RmxyQ2tBcFpUQVZ2UHNDR0ZPUkZMOXJSSFJiRmhnSTNFMUFzVlhqUksxOXNKUXRickRtSGZ2cXJ2eWcw?oc=5",
-   "desc": "The Fed says it ignores politics. Its rate moves tell a more complicated story  CNN",
-   "source": "US Fed",
-   "publisher": "CNN",
-   "scope": "world",
-   "ts": 1793136372000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3B4clMyOXVRY2NGYllIcWZMdzNkaVRLMTJtai1BUGhPMUlvM2tmbGpLMWtaZEoxandRWEVnSkgzNjQ5UHYtN25iMUJaR3V4aWh0R2IwRFFPVy04Qi1icUVsYWVybUN3TVVZV1VWcjZGdl9aZTZ",
-   "title": "Federal Reserve to announce decision on interest rates ahead of midterms - Spectrum News",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3B4clMyOXVRY2NGYllIcWZMdzNkaVRLMTJtai1BUGhPMUlvM2tmbGpLMWtaZEoxandRWEVnSkgzNjQ5UHYtN25iMUJaR3V4aWh0R2IwRFFPVy04Qi1icUVsYWVybUN3TVVZV1VWcjZGdl9aZTZHZ1QwWnpjUHRET0tYNDFkNDRTT1pLNXNLZWdsWmdoV3pBNDMyS3UtNnJqeFZxVWE3MFJTQQ?oc=5",
-   "desc": "Federal Reserve to announce decision on interest rates ahead of midterms  Spectrum News",
-   "source": "US Fed",
-   "publisher": "Spectrum News",
-   "scope": "world",
-   "ts": 1793132940000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMGxtUi0xUjV3N253bVg2cnV4VDZOeU1uUXFlbVRQUU50MmJzcXFPY0tiR01wbzBlMWV5YThKWnRIWjg4Y0VZM2laeF9oOXpQdjhGX1c1SXo1VW1sb2F3S2h5SG5Vd3YwbmFFdDczMDR0dzZfU25",
-   "title": "No standardised CAS template worldwide: Sebi Whole-time Member K V R Murty - Business Standard",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMGxtUi0xUjV3N253bVg2cnV4VDZOeU1uUXFlbVRQUU50MmJzcXFPY0tiR01wbzBlMWV5YThKWnRIWjg4Y0VZM2laeF9oOXpQdjhGX1c1SXo1VW1sb2F3S2h5SG5Vd3YwbmFFdDczMDR0dzZfU253Q2UwRkhqdm1WUURheUlTc2V5Uks2TVhvVHhMY0pVZ3lNZWhoRHRIY0JwVUVXamwtMHIza0FIVjlXeGlPcDc5NzhQRjVjRG9WS3VvQnF3cXcwZV9TZ2VFMWdFYm56eVgwR05lV2lmNlhj0gHkAUFVX3lxTE5JaDFDZmtmU0NVQ2kyWFpjTmZMMzFGbExRNEtpVWtBOEJjZFEtRlpoaGtmV3BHWXRGaG9FSk9NdVhja0R4MG9JRGFlNFRCbnB0WWpxalVOTnQxLVN4VVlDREhLTkFMUFlNQjQzNjRNQW5zUnpDdHZuM3VEdVVvN2ZEZ3ZpcWo2MGdHNkZjWjFkLXpIOTNrcktjcWNPSmV3OXpFSXdWWTlGaWQyWW1WdzBfSUlxLUVCbm1tRWtKa204NWJmd0tFUERwRGcxYTlYTGtBeUtrX3NiNzBtR0d2Z0djTm5fbw?oc=5",
-   "desc": "No standardised CAS template worldwide: Sebi Whole-time Member K V R Murty  Business Standard",
-   "source": "SEBI",
-   "publisher": "Business Standard",
-   "scope": "india",
-   "ts": 1793125529000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS1doaXk0OER4YVZXMm1FWTZNOE1QaE0wd21ZSHhLM2JnUG00MHR0WW5kVExrM3dmNnRmaHkzVmtTVVZLRVdfWnpXTklMZGVvMF85RnlXSDBMbzRFUnE4aU1XUU5GalpTYXFzTmtQRV9TbWZTWjV",
-   "title": "SEBI imposes Rs 18 lakh penalty on Taurian MPS, directors and merchant banker over IPO disclosures - Moneycontrol.com",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS1doaXk0OER4YVZXMm1FWTZNOE1QaE0wd21ZSHhLM2JnUG00MHR0WW5kVExrM3dmNnRmaHkzVmtTVVZLRVdfWnpXTklMZGVvMF85RnlXSDBMbzRFUnE4aU1XUU5GalpTYXFzTmtQRV9TbWZTWjV1Y05PWEFiUjVLc1Z6cUNvcjQteXFpSXpWVnc4aVBENGJGTVdTT3NpUHhwd1lYTkcxMUtpSFduRW50TThOUWpnUy1qWlU3VzJXNVAtSHVqSzBVRkFJcmxrYjB5a2U2ckNUYlJJdjBvdV9DUEotQWQ0UnF5eDBjZ3hBdUpJMmM30gH6AUFVX3lxTE83TGVKUE1Mb2QzUnI1T2lrQUFIQU1rME5fTXN2NkFDWE5Mb0NpU2xROWNzMUNpUEhqck1iNnI4UEFubjJGVkVtSFU5MS1ER3ZZTTNWdDhqbmNVd1FsSXlrQ3E2T1FYZ19ra2Z2Wm9KdW1KemRSREl5RW1wcWJ4d2lTUWp2amxsN1MtbnRzWi05ZjBzbDllc0dnUXpkQUVnOGtRTzJRYW1LSHA0VzZIYm02RFRVOGVpQzc0SWtPMTg1ZXdQdlhKQTBsYjR4MTBxX2hhMGYwOWliUTI0TUNKMkpDdFNmQm1aTHk2S0V3eDI5YWxYUUZBTUJJREE?oc=5",
-   "desc": "SEBI imposes Rs 18 lakh penalty on Taurian MPS, directors and merchant banker over IPO disclosures  Moneycontrol.com",
-   "source": "SEBI",
-   "publisher": "Moneycontrol.com",
-   "scope": "india",
-   "ts": 1793123702000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVIydWFYR0ZrclVBdXVnc1J0MkhqNHl1Z29oMkFPVkF4T2tzUndiR0UxX3hqblBsRFdQQkdGdUJkcnFncTFTanBIbThDM19DdGdSWDltQW9McFprYU1MYVhxM20wU1lDRG9QdURQcm44UU9DOXh",
-   "title": "Federal Reserve expected to hold interest rates steady in last decision before midterm elections - Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVIydWFYR0ZrclVBdXVnc1J0MkhqNHl1Z29oMkFPVkF4T2tzUndiR0UxX3hqblBsRFdQQkdGdUJkcnFncTFTanBIbThDM19DdGdSWDltQW9McFprYU1MYVhxM20wU1lDRG9QdURQcm44UU9DOXhOdF91b3pVNGphOHduaVFXWl9ESzlGaHRNQ3QtS2o4VW5hS1lNVEpEUmFSTl9XTWotU043QUt0VmR3NHFRZ2VPQdIBuwFBVV95cUxONHJ0LWVOekZ2amM5T1E5bTBYZDdvSGFJUHRHR3JjT0x5YUN1b19SMjFtYW1SZmJZOFpKTlJJYkdTMVNaNEVqRE9yYmQ1RF9Sckt1eXBJN1dpeDlxT2phZ21zY09BRktfbzZqY3h6T1FYU3NwemZEQm5MSDQySWpmbDJyM21nY05OanlTeEVLWEFHOEZsWjBMa3FMVEl2c0dQT3BTemFpOXllUnpVVEhyMXJxcVU5RjY2YlVN?oc=5",
-   "desc": "Federal Reserve expected to hold interest rates steady in last decision before midterm elections  Fox Business",
-   "source": "US Fed",
-   "publisher": "Fox Business",
-   "scope": "world",
-   "ts": 1793123198000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdktyRXBXcG5Hc01NNGo3bTZRbXlqUjg2T3YxWlNvaDFqbHlkMFBZZXpSS2hSNl8xa2lNV2FEQVBfa05VY2dEY0ZHWUZpZzZBLUFGcjI2Z1kzWTZpamYwMFgyWTBSRS1XRFlhNHd3c0VnVl9mUlk",
-   "title": "5 things to watch for in this week's Federal Reserve meeting - PBS",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdktyRXBXcG5Hc01NNGo3bTZRbXlqUjg2T3YxWlNvaDFqbHlkMFBZZXpSS2hSNl8xa2lNV2FEQVBfa05VY2dEY0ZHWUZpZzZBLUFGcjI2Z1kzWTZpamYwMFgyWTBSRS1XRFlhNHd3c0VnVl9mUlk5c3NRbDlYajRVVnk2UWZtRzMwOUxlNjZ2Q3A2Zjc5eEFuMm00c07SAaIBQVVfeXFMUHJfYU9ZeklNTDZyZGZpUC1oWlY5SVhjeDN4TzRCY3dEYXNWMTNyOTZiZndZMHZmalo5ck9nXzhBbXF1Zm95QWlqMjFUVkFSWTlIWEV1aEVtcWIzYXhQa2NmSmFrWFVlNGgweVdJdmhTbWk4UW9kU2FyZHFHM09SUEc3T2dfbEhhV2FlM3JxOTNuNE9EVzhBWFZJSEFGSWlXMUln?oc=5",
-   "desc": "5 things to watch for in this week's Federal Reserve meeting  PBS",
-   "source": "US Fed",
-   "publisher": "PBS",
-   "scope": "world",
-   "ts": 1793123145000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNck1uQ1FHYW9mZEplTEZLbmJzWGxwV0p0el9BV3RMQkRQdEFIdHdaZVN2Ri0ySlFwQ3RNSWp6Y0JPSTRYeXhaUm9scWFSZDJlSXZVMTJabllsVW9XOUthOWtMUkUtV0ZXOTEtWFFJeFRoYk5yMFQ",
-   "title": "India's growth momentum stays resilient despite global headwinds: RBI Deputy Governor Poonam Gupta - The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNck1uQ1FHYW9mZEplTEZLbmJzWGxwV0p0el9BV3RMQkRQdEFIdHdaZVN2Ri0ySlFwQ3RNSWp6Y0JPSTRYeXhaUm9scWFSZDJlSXZVMTJabllsVW9XOUthOWtMUkUtV0ZXOTEtWFFJeFRoYk5yMFQxak5qRlo0M3UtWV9ablhLbExMNEY2OXpkOHphX3pZQTRUUkpqdjh2RWxBdTg5T19Yak9JSHpfb2lwdVNsWjUzM2tiV1Y2RFVNTV9lWUh1M1BkRG9pQm9tVGdSanFTVTg3T0JoYnVERVFQcjR4cERfNHYyU2M4azRUQkk2NGRKTFVXQ1NEa3V6eVdFMmZoTWZOWDFjT0JKdHlDTdIBlgJBVV95cUxNVnN5dHp0Rml2SGNsLXFCTEZ1MHlIRENUaFY0RV9oalBNd2NtOUowTWVraTdaRWhGMldmUTJ2R2RFYlI2V0xQQnZudXNDNksyUFh6cW5MbUtFMlRXaGYzVEhMM1VTajcwVndJSlFJcW5KWXJ1U3FEQXF1SmVib2ZCNHVIV2FURUpkVThOSjdrT3lyNHpmRVVHU1NiU0EtMDZ6bHgxQjlsYmJMenpsQ0p1eElZcV8xNXIxdGNPbU5IYk84RVBzZzI2cjU0dnBqbUUxRS1YdnVqRWpPOThFdFVXd2RPYWxNZW9ZcEFkRzdiV3piUjE4TmFiTTR5UVV5dzV6cENDczhhWFp3Q2l0a1QxOEtNMko2UQ?oc=5",
-   "desc": "India's growth momentum stays resilient despite global headwinds: RBI Deputy Governor Poonam Gupta  The Economic Times",
-   "source": "Indian Economy",
-   "publisher": "The Economic Times",
-   "scope": "india",
-   "ts": 1793120622000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT3JFbnF5NFBJelpmY1BRNDk0Q2Vvenh4bms5NTVpdlFCc2RIMHBUMGh2T0dMVEpCcnFmZXVZSXA3cHoyR1MxNk5Cd2pOcC05ak9lWWtsRmVkdTFaejRJcUJpa1pGWTJqZzBBRDVNR0VjTzVBYVV",
-   "title": "October 2026 Global Regulatory Brief: Bank stress tests, Basel III and insurance supervision - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT3JFbnF5NFBJelpmY1BRNDk0Q2Vvenh4bms5NTVpdlFCc2RIMHBUMGh2T0dMVEpCcnFmZXVZSXA3cHoyR1MxNk5Cd2pOcC05ak9lWWtsRmVkdTFaejRJcUJpa1pGWTJqZzBBRDVNR0VjTzVBYVVLNjJyNjlocHVHOUc4X05nemFJenRPYWVCREE1R0FaMFoyOVhmWkhsbWVUWERtSTFlWkVUTzVNS1Y4bjh6cTFpZUFaeGxVa0lwdHpPZXpwTTQ0WXNTU2U1ZUsxWFhPVk5NcWd4ZGRUbUNVMmRoYXc?oc=5",
-   "desc": "October 2026 Global Regulatory Brief: Bank stress tests, Basel III and insurance supervision  Bloomberg.com",
-   "source": "Global Banking",
-   "publisher": "Bloomberg.com",
-   "scope": "world",
-   "ts": 1793120404000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd1JORW14QWVKU1FRV2ZVclpoM3pwdGFzaF93TGZBbXl4Q2JNbnZEd21BUC1HNkdBLVgxSXNJOUZoM0s4Qnpkd1VpaDBvVFhuaDljQWdyNkhwVFVVOG0ydGtXVVdkX1ZDQkk3VDA2Tmo4VTZWMXJ",
-   "title": "October 2026 Global Regulatory Brief: AI risk management, tokenized securities and cryptoasset regulation - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd1JORW14QWVKU1FRV2ZVclpoM3pwdGFzaF93TGZBbXl4Q2JNbnZEd21BUC1HNkdBLVgxSXNJOUZoM0s4Qnpkd1VpaDBvVFhuaDljQWdyNkhwVFVVOG0ydGtXVVdkX1ZDQkk3VDA2Tmo4VTZWMXJ6dXJneWR6ZEhFZTRqTFZzc3VXT2ZZUUdTTEtFakhoZ1ducDFJeWJrVmlDanl5Z0t2T2UyZGZYRUM3RDFR?oc=5",
-   "desc": "October 2026 Global Regulatory Brief: AI risk management, tokenized securities and cryptoasset regulation  Bloomberg.com",
-   "source": "Global Banking",
-   "publisher": "Bloomberg.com",
-   "scope": "world",
-   "ts": 1793120404000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbW53aU9jXzQtcWNpT2JNVXRuQzN5cjB2UmdxdTBULW9IOFlxTDkwWGxBQmc2T0dlU09lRldqSzI1eWRyR1F2aF83d0c4MENQMnVGZjh1a3Q4VVVPdWo5Sm1Eak9rMkdzWTR4UDZhMWplcDhkOTl",
-   "title": "Interest on central bank reserves is neither a tax nor a market price - OMFIF",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbW53aU9jXzQtcWNpT2JNVXRuQzN5cjB2UmdxdTBULW9IOFlxTDkwWGxBQmc2T0dlU09lRldqSzI1eWRyR1F2aF83d0c4MENQMnVGZjh1a3Q4VVVPdWo5Sm1Eak9rMkdzWTR4UDZhMWplcDhkOTlOSFBLZmFoUTFCRGl1aEowLWZ0b1NyR3NOWjZxYzExUnZvQmhaaWdPLWNqYmc?oc=5",
-   "desc": "Interest on central bank reserves is neither a tax nor a market price  OMFIF",
-   "source": "ECB / Europe",
-   "publisher": "OMFIF",
-   "scope": "world",
-   "ts": 1793120266000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWExnQlVSTXpvblR3U242QVJUTDlaQUpyNFlzMVhNeWtOQ0pSQmRxbUVPN3NGY1ZVTXFJaDU0djR3UFdyQkp4MzE4NVZUbk9OeFdYZjRZN1ZHMmxuc3BVdFQxOTZHOC1qZzl4MHF0eDNyUnZpVXh",
-   "title": "Sebi Hints at New Rules for Retail Derivatives Trading - Rediff",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWExnQlVSTXpvblR3U242QVJUTDlaQUpyNFlzMVhNeWtOQ0pSQmRxbUVPN3NGY1ZVTXFJaDU0djR3UFdyQkp4MzE4NVZUbk9OeFdYZjRZN1ZHMmxuc3BVdFQxOTZHOC1qZzl4MHF0eDNyUnZpVXhtS2s4X1Bvd2dCb21LcXBkcUNpazBVNm41XzJNVTFjMlBmTEpKZXYxcXEtNGNkQWpBSlI3Z9IBrwFBVV95cUxQcUd1UFNpamdMTXJ0Y1RCZk1UM3Zib2V3ZnlxbGdVVFNNcFJxTndRN2hrWkprLWstTDJSSWtvLUd6R3phbWwzbGtxWE9mcW1kT3M1ZVhXTzR2eHJad3F4cFVHRGtyQS16RmZLd1RKRzJ6SThHR3N4X1B0MTNxaVNld0VSUExfMjBFZEhRb1FtNVIzVUtVSTI0akw4SEI5N1hBQUJnZjFzbUF1U3VVSldR?oc=5",
-   "desc": "Sebi Hints at New Rules for Retail Derivatives Trading  Rediff",
-   "source": "SEBI",
-   "publisher": "Rediff",
-   "scope": "india",
-   "ts": 1793119532000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzVYNmRSbHA3M0pBTmNkYmcxLVl0ci1ETFZhM0N3UHhvNnFLNVJUTUI2a0FWUFZLOWxRdHByMnJ1YTdXNnlyM2c1LUFFQjQ1dURWdF9Ecjk0ZmNOWWlPQUI3ZS1LeGxZT0VZU1VkOU5rbG94NXB",
-   "title": "IMF, Bruegel urge countries in debt to act before the markets do - eKathimerini.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzVYNmRSbHA3M0pBTmNkYmcxLVl0ci1ETFZhM0N3UHhvNnFLNVJUTUI2a0FWUFZLOWxRdHByMnJ1YTdXNnlyM2c1LUFFQjQ1dURWdF9Ecjk0ZmNOWWlPQUI3ZS1LeGxZT0VZU1VkOU5rbG94NXBUOTl1eTRiQmxBWjFkanVua284Qk8tMEdZS0VBYmYta2w0WnVZWHRGYXhwLWtyM1hiVXFzbGZManc?oc=5",
-   "desc": "IMF, Bruegel urge countries in debt to act before the markets do  eKathimerini.com",
-   "source": "IMF / World Bank",
-   "publisher": "eKathimerini.com",
-   "scope": "world",
-   "ts": 1793118514000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSjZGc0ZuZndha3JoUUlvNUdDUWZfTHlJeXpHNUk2cENqaU5ra0Y0V3k2Vld5cUw3Mk5JYjl5LWtyNVBGVThtM3hzbWVWcjFMWENFS3N6TlJ0N01TdzV0S1FlaS13c2xVSmpMNGh2dFd6QlBkZ0Q",
-   "title": "Government finalises 15 funds for Startup India scheme, earmarks ₹270 crore for SIDBI - CNBC TV18",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSjZGc0ZuZndha3JoUUlvNUdDUWZfTHlJeXpHNUk2cENqaU5ra0Y0V3k2Vld5cUw3Mk5JYjl5LWtyNVBGVThtM3hzbWVWcjFMWENFS3N6TlJ0N01TdzV0S1FlaS13c2xVSmpMNGh2dFd6QlBkZ0Q5T3dJM0dqa0Z0UmlMNmNjeWVvMnJXRnZoV19lVGRWb3B4Y1c4X0hLSUk0UWNfVm9qVW5RN0RqX1lmSjdxTWpnMk5vVTFJWTdQMVZHd0FCWldtc0k4Sk9SRE5lVGZBQ9IB2gFBVV95cUxNTTM2ZnlfLWpGMWZhcTdTcDkxN09WM0xFRmNSd0JHRk5FZnA2YTlOOFdha05VOWtKRjVXYldmVGF3Q3RfMVFKQ3c0aUFnaWRMVFVKWllzN1ZRVTMyMTNIN3R6VjBsYkRZb3YwYl95RDJuS0JZZU1HWDJJMlN5RUhabzlMU2I0X2NYNl9GczJRRHdocjZQQUI1dEdZMTB2eTFHbV9NZENISVRveG55SFdKc3BXdHg1M3prTzZkdlNRRENfNEpDZmFqSnZnT0pmQ1pNN3poSHpJZ3lsZw?oc=5",
-   "desc": "Government finalises 15 funds for Startup India scheme, earmarks ₹270 crore for SIDBI  CNBC TV18",
-   "source": "SIDBI / MSME",
-   "publisher": "CNBC TV18",
-   "scope": "india",
-   "ts": 1793115954000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT0djVXI2a1ozd1RVMFVNckNXdHBQaERVeWpkQm1hdG8teXJwMUpEcVNsNU9EUE0xVHRpLVVPZ1p1UG02Ynp6WDM3OFpQMDN2dU42SDBYV0VFRVowV3Z3UlhCVEJhaExEbHIzVTJET2VWYjU0UlM",
-   "title": "Expenditure quality key to states' long-term fiscal health: RBI Governor - Business Standard",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT0djVXI2a1ozd1RVMFVNckNXdHBQaERVeWpkQm1hdG8teXJwMUpEcVNsNU9EUE0xVHRpLVVPZ1p1UG02Ynp6WDM3OFpQMDN2dU42SDBYV0VFRVowV3Z3UlhCVEJhaExEbHIzVTJET2VWYjU0UlMtb2haaFJ0NlpzTzBWeUM0T1BzMUFqc1lKLXUwUUU1dzFreWpBRHhreW1EWDF0Tkt5VXh3VXhZUjRGMlphLVJheF9MTDhEY1pkV0l3SUpaclhTSGNjV2w4RmxfaHJj0gHYAUFVX3lxTE5JTVJtUk5OZS1OZ1c1WlJMSWo1ZHRxN3c1MXkxTlA4NXBfVzM1U3BteEw3V19LSDNpTG5ReVB2MHVPU254NjNqbENVb2RqTnNpZnVpczV2TTVScnQ2bGNmYjlyaEU3dmgyZTF0TzE1UXVWZWpNNEJYaE45cTdraFctcXhMTDVMdU1ZMFYwY3ZUODhOM1NoV05nZkVfQWpQRHVDUWtJSGZuRFlDZUJmci0zT2pZVlBld0JrVE5yQVhuSXQyRmZMVFNLbjBQbl9jMlRjbVVnMlFqNA?oc=5",
-   "desc": "Expenditure quality key to states' long-term fiscal health: RBI Governor  Business Standard",
-   "source": "RBI",
-   "publisher": "Business Standard",
-   "scope": "india",
-   "ts": 1793114968000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOGd1Y2VHak1fdHNDOG5XaXlGXy12aUFRSDRXSDlKbTVzMS1CY0RBRkp4Z1hZSU82U1ZQd3hpR3dsWHYtYWxUSXk1eVk3WEpNM1VkdzhrZU5QYUpUUFZwMkhqOFFZSkUyT3pPNUJyRmV2RjV6YXN",
-   "title": "RBI Urges States to Improve Spending Quality and Debt Management - The Policy Edge",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOGd1Y2VHak1fdHNDOG5XaXlGXy12aUFRSDRXSDlKbTVzMS1CY0RBRkp4Z1hZSU82U1ZQd3hpR3dsWHYtYWxUSXk1eVk3WEpNM1VkdzhrZU5QYUpUUFZwMkhqOFFZSkUyT3pPNUJyRmV2RjV6YXNNOVZSQmkxT29SWkxFbUFHR2hMRXdWLWVNMExmcWpqU3ZF?oc=5",
-   "desc": "RBI Urges States to Improve Spending Quality and Debt Management  The Policy Edge",
-   "source": "RBI",
-   "publisher": "The Policy Edge",
-   "scope": "india",
-   "ts": 1793113199000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMTMwcG9OemlDX3VEcm1hMWZncGM2MHRmdzlLZ3BPUkVueFUyWnhabkUzQS0xNTlIckJhMGw3WTlhbmUwYkUyc1V6U2ZsS0RFbk9uYU9CNEo2OUV6R3hqUDN1NDR3NWxTRjRpRVpjQlhRdXRiQTR",
-   "title": "Bank of England orders review of Revolut product approvals - FT - Finextra Research",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMTMwcG9OemlDX3VEcm1hMWZncGM2MHRmdzlLZ3BPUkVueFUyWnhabkUzQS0xNTlIckJhMGw3WTlhbmUwYkUyc1V6U2ZsS0RFbk9uYU9CNEo2OUV6R3hqUDN1NDR3NWxTRjRpRVpjQlhRdXRiQTROVHVRdXpsaGNTeDNHVTZVZE5DR2NRVGNMYzVVWDlSdmRBdzA0VjVBN0pzeE1ici1jaWRydw?oc=5",
-   "desc": "Bank of England orders review of Revolut product approvals - FT  Finextra Research",
-   "source": "ECB / Europe",
-   "publisher": "Finextra Research",
-   "scope": "world",
-   "ts": 1793108640000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ0Zyaks3VTdTWVdsRnM2X203V21fUHNwNmdHTjgwQ0lNMzl0NXdBNmFCbndRX1RtcEI5NnlUQ0dkR2ZXbWtsT1JnSDJHaUpKSGdMVExSUzJ2amNwOEJveHhvbFY5ZGlKWFcwNTFFTVhnQVVjdld",
-   "title": "Sebi extends deadline for debenture trustees to comply with norms till April 2027 - The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQ0Zyaks3VTdTWVdsRnM2X203V21fUHNwNmdHTjgwQ0lNMzl0NXdBNmFCbndRX1RtcEI5NnlUQ0dkR2ZXbWtsT1JnSDJHaUpKSGdMVExSUzJ2amNwOEJveHhvbFY5ZGlKWFcwNTFFTVhnQVVjdld6c0E1Y3B5NFN1UERQam1qd2tMWUR0VVFGNDRBTHh5eWNyeHM5enMwcTVJM3NMa2F6alpLR1BwUmMxSktSSnE4VXdpX3h2dk85T3Y0eG1oOXJWeDBHMndvNTl5MW9QVHBJRGdfaF9nRUhUYkM2eVVIZWhuSmEw0gHwAUFVX3lxTE9mNU1YaUMwZGFJTTJBYVNYQWZpMkVsUGQxeFRoNTd4WWtjdXN3aTRjVE9oeE5uOHhRcmRqREJHMHgzeTlIT0dzeEJVekd2VDRpaVR5X3JHNDhET0ttNjhORzdiNWhrWnNvMFJkdFFTN212c0ZrZ2NwQlZsTEloWUxoSk5CUnpqcmJCdjlPa2tXbWVHRkpORlBjR2N1LXc4Z21WSWVqQk1DS2dSbmYteUxpa3BSclJtT25kc1F3WEdXQWtER1RvbW04cFRYV0VpT3J5ZXdJUEhMYWNNdnBfc0lDUEhmZEE4dzVtX2hNdms5bw?oc=5",
-   "desc": "Sebi extends deadline for debenture trustees to comply with norms till April 2027  The Economic Times",
-   "source": "SEBI",
-   "publisher": "The Economic Times",
-   "scope": "india",
-   "ts": 1793107424000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOXJRTTU1SVEtTHJLX3dSRWFhWWJtenZiNE5DdlJUdXZ0UGVJRWxRTG5mN19YR2NhOGMxMkVRZHJZUEQ2aTNZM1JQZ3BnaC0wZlhlblY2T25lSTVjaVBwSUIwSXpTenZWWkh4R1psbHphWWVCQy1",
-   "title": "British Pound strengthens against Euro ahead of UK Autumn Budget - FXStreet",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOXJRTTU1SVEtTHJLX3dSRWFhWWJtenZiNE5DdlJUdXZ0UGVJRWxRTG5mN19YR2NhOGMxMkVRZHJZUEQ2aTNZM1JQZ3BnaC0wZlhlblY2T25lSTVjaVBwSUIwSXpTenZWWkh4R1psbHphWWVCQy1Uc3ZEZXF5NlUzN18yaFdjajBEc0hZX2xhMno2Y2pxQUlsakhiZWlqZWUtTzVydnBhM1huY2c?oc=5",
-   "desc": "British Pound strengthens against Euro ahead of UK Autumn Budget  FXStreet",
-   "source": "ECB / Europe",
-   "publisher": "FXStreet",
-   "scope": "world",
-   "ts": 1793103835000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRlc4UllRVjVUN1FKc3ZsX195YVN6MGZYYVBCbHctQmpWOURnMG5aSmRqaFNWeG9vWm9rN1BtbDl6TlZvZ3c3ZnlGb2psNldLT25jREEzQU12aDBMMGNNWVk2eDZVRy03Rl9GVF80bEhfUzJMOHd",
-   "title": "Revolut hits $6B revenue as Bank of England probes its product controls - Dealroom",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRlc4UllRVjVUN1FKc3ZsX195YVN6MGZYYVBCbHctQmpWOURnMG5aSmRqaFNWeG9vWm9rN1BtbDl6TlZvZ3c3ZnlGb2psNldLT25jREEzQU12aDBMMGNNWVk2eDZVRy03Rl9GVF80bEhfUzJMOHdXWkpqY1E4R3VtZmcyMFdnaVhXZlRmQW1vV3E5YWt5Rmw2czJyNHVjQ3lxV2FPTjhNQQ?oc=5",
-   "desc": "Revolut hits $6B revenue as Bank of England probes its product controls  Dealroom",
-   "source": "ECB / Europe",
-   "publisher": "Dealroom",
-   "scope": "world",
-   "ts": 1793102694000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUFNvVV9ZcVdISk1qdm8tOWMyWWJwUFB1eVpfVEd4czFrSTlaS0h6TUQtX0d0S1BoY3hEUlAxM3Atb3JxXzVBTnBJdzBrb0pQOHBXY2k2M2NFaTN4UE5HVldBVEd4VDBlaGRFX0FXVF9ZTjBwMnh",
-   "title": "RBI may hike repo rate to 6.25% by H1 2027, warns Deutsche Bank as inflation risks persist - Livemint",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUFNvVV9ZcVdISk1qdm8tOWMyWWJwUFB1eVpfVEd4czFrSTlaS0h6TUQtX0d0S1BoY3hEUlAxM3Atb3JxXzVBTnBJdzBrb0pQOHBXY2k2M2NFaTN4UE5HVldBVEd4VDBlaGRFX0FXVF9ZTjBwMnhrcEpmeUV0N3EzdVpjNGI4LXhIdmkwV3NlbkJNeWliOHpIYnh4SjZvNHFWU1RteGpfSWxHYzRjYTNxdWRlVm9SREswVnZUYjd4ZFhpVUtLVDVDb1JsSGxxQ3l0RE0xOHZZNXnSAd4BQVVfeXFMTXlaV1hRTWJ4MjBfTWFqelFyOWpNNlNkOEloem5DenFuSEY0bHE2MGlScGw5bmE0Vlh6VG1HX19vQ0ZlNVF6elkyYTYtNlpFWFFiVG1hd0VpT0Q1MkVtb3NDZEl4SnZzV2xrNUY0VmJuZlNnd1dCTXpxTEt6T3Flc0FkbmswTVlQLU5Xc01ac01DVFQ5UGd4NHZuYmQyeXNOVGhqUlJueVIwNUcxQmVkSGstcEs4QlZTd181ZTBhV3BzVXl4aGxXUVZfX3hnWnRNWHhVbHFndlpOaV8xQ1Rn?oc=5",
-   "desc": "RBI may hike repo rate to 6.25% by H1 2027, warns Deutsche Bank as inflation risks persist  Livemint",
-   "source": "RBI",
-   "publisher": "Livemint",
-   "scope": "india",
-   "ts": 1793102503000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWFVkT0hFRzZZU2V6VHBudkRIaVVtT3FsRFRvRkJBUUJmeS10ZmVjWFZXT1lsWFpuZlJnMU5GeWVEN3hqd1RoSXc2RU1WcEM0SkJrT0ZaN04wajFPU1pOMmtvbFlSSHZOMndZZmV1WFZQTnFyX19",
-   "title": "RBI Repo Rate Forecast: Deutsche Bank Sees Rate Rising to 6.25% by Mid-2027; What Borrowers Should Know - The Sunday Guardian",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWFVkT0hFRzZZU2V6VHBudkRIaVVtT3FsRFRvRkJBUUJmeS10ZmVjWFZXT1lsWFpuZlJnMU5GeWVEN3hqd1RoSXc2RU1WcEM0SkJrT0ZaN04wajFPU1pOMmtvbFlSSHZOMndZZmV1WFZQTnFyX19Va2ZVTXhzSFp2d2ItNzM5Q2lWVXpNaUZHRXRmY2pjbXdKSkphcE1JbXpGMlBUTXBXZm4yeW4zUXh4SDlxb0U1NF9adU5mZ3BxN1F3YzF6cUYtVkc4Y0hXVzJtVHdjWWtNSmVaY2FrNUhMedIB5gFBVV95cUxNU0Uya2tvQUlacGEzc0k0WlNGNWFzOVJNQ1Y3V3NxSktaMFphVlJLUURhQVBQaWpfcGMwTGowZmZRZ1V5QjRtUXRzSXhjR3BpRFlrV2dQdktjQ0Z5bmJEQnNrRU1sZ1BDWWU5dEtsTVZSbjkwSGthXzA2TS1oQ21abG9Ma1dNZElRMUhQa29RZ3hxZWVxU1JRNnJBOVJkaE9mWm14M2d2NTZjekV1SjdhazhWUkFKNzluUk5mZ1RBd0tVVVNRLW5fcXNwNFlHMGh2ZG1HVHUyS2MwcGdoeFRTcjV6YlVmdw?oc=5",
-   "desc": "RBI Repo Rate Forecast: Deutsche Bank Sees Rate Rising to 6.25% by Mid-2027; What Borrowers Should Know  The Sunday Guardian",
-   "source": "Indian Economy",
-   "publisher": "The Sunday Guardian",
-   "scope": "india",
-   "ts": 1793101951000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVGNiS09yRHZfeDV2N0dFckJDNkN4YUM5VG42VEhYY2Ixb1hCZWJnOENIRzBDSUdDQkJWUFlvQ3haVzJvaElUUTNjWThOYjYxTFYtbGstbU5jYnB0SFJ3MklxY1dOeTdOdmRBTVZlN3E1dDhROWx",
-   "title": "Fast money is leaving, patient money is arriving—and RBI quietly rewrites the rules - ThePrint",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVGNiS09yRHZfeDV2N0dFckJDNkN4YUM5VG42VEhYY2Ixb1hCZWJnOENIRzBDSUdDQkJWUFlvQ3haVzJvaElUUTNjWThOYjYxTFYtbGstbU5jYnB0SFJ3MklxY1dOeTdOdmRBTVZlN3E1dDhROWxYUFBraXpFZnRHNHhvbUppb3ZPWnfSAY8BQVVfeXFMTmpXbTdKOXlwRTVLajFkVzkwRnpDY0s4dEN1UEZfZnZKMHBZT0FsZVNxQkl5RUFLd3RlRS1tOTdlZTBQQlJycTBybFFnUFVFbmhzSXZDV1RkUi0xQ21SbUV5S2pISF9NUkVSbUpwcnRWUm5ZeGE2SzNyajQxRml5bXBDRTZTdFF2STJJV3Q2RWM?oc=5",
-   "desc": "Fast money is leaving, patient money is arriving—and RBI quietly rewrites the rules  ThePrint",
-   "source": "RBI",
-   "publisher": "ThePrint",
-   "scope": "india",
-   "ts": 1793099859000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX2YyWGlJYnhVQXVJZklYVkZPc0MweVd4Vi11UUxMYmdDN0p4UDJ4SXJPVFluaXhDdFQ2WmMzcE9naXotVXdXVTNtaGZZa21IbTNWekdqUW1FNWxNdjZYV2w1dElhVWhfMFROQmhrMzBKa1l4Xzl",
-   "title": "Analysis-Hold or sell? High Treasury yields spur US banks to rethink bond portfolios - WKZO",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX2YyWGlJYnhVQXVJZklYVkZPc0MweVd4Vi11UUxMYmdDN0p4UDJ4SXJPVFluaXhDdFQ2WmMzcE9naXotVXdXVTNtaGZZa21IbTNWekdqUW1FNWxNdjZYV2w1dElhVWhfMFROQmhrMzBKa1l4Xzl4YzhLeDB2Y1pxal9VU0h5TW1VN2FpTWpCUE1xcjNqNnBhWGJTSm4tc3l5amk1aE83NHk1ZUcwYXdscUpB?oc=5",
-   "desc": "Analysis-Hold or sell? High Treasury yields spur US banks to rethink bond portfolios  WKZO",
-   "source": "Global Banking",
-   "publisher": "WKZO",
-   "scope": "world",
-   "ts": 1793099824000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPemFCemhRSnI2LTdtSk9nOGRqR3IyQVotVHh4YzEwZzJld3dqNTM4TmRpbHJZSlVRZWZlX0JJYzAtODd1a0lyVlVETlRkbmtWOHpZbzc0eXo2VUFBTzdZZ1ZrWFhKaklMN1JQcmNhaEpEVEpNa0J",
-   "title": "Fed rate hikes are coming, but not this week: CNBC survey - CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPemFCemhRSnI2LTdtSk9nOGRqR3IyQVotVHh4YzEwZzJld3dqNTM4TmRpbHJZSlVRZWZlX0JJYzAtODd1a0lyVlVETlRkbmtWOHpZbzc0eXo2VUFBTzdZZ1ZrWFhKaklMN1JQcmNhaEpEVEpNa0JPRllsdUN0cU9kc1NLM3J0eHpLWHfSAY8BQVVfeXFMTml6aGtHdzhmakJjT00ya2VsRkpBbFpXNDU0YUFmQU96TFRvSFhMWDJhS1RkWG1yNjdWOW1zQTFEV1M3eEg3VEx6ZTM4Z1lSWEZxcnJ6ckQ5Skt2V1hLYUNkX1lZM2R0dklVaHd6dGdSR2lhZEhXVlA4MEphQ0lSTjBSeHp3M0IwMnc5eFhTelk?oc=5",
-   "desc": "Fed rate hikes are coming, but not this week: CNBC survey  CNBC",
-   "source": "US Fed",
-   "publisher": "CNBC",
-   "scope": "world",
-   "ts": 1793099401000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYktxZlJxRVNrdUZFRWViQjVMLUh3OGJwNGhrVFpJY2E5QTAyajNfcnFSb09rZUVkSnVMUHd4WkpsYktvZGczX05nRzVhSTdKNWtfU2hWb09IYnNQQ01tTlMwMV95YzJkbWVDMklwZ19XMC1RNmV",
-   "title": "Federal Reserve raises interest rates for the 1st time since 2023 - ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYktxZlJxRVNrdUZFRWViQjVMLUh3OGJwNGhrVFpJY2E5QTAyajNfcnFSb09rZUVkSnVMUHd4WkpsYktvZGczX05nRzVhSTdKNWtfU2hWb09IYnNQQ01tTlMwMV95YzJkbWVDMklwZ19XMC1RNmVsckpGS3FpNUpiRlUxZkVtNXk5NE5YRnpBSTI4eEhVOWxaUlBzZDlxb3p1ZVBFeHFR0gGrAUFVX3lxTFBrZzU3UXhjRlBBblFYNzJZZ3dINVFwMnpIOFQwRlJ1NmRTa3JNUGlkamJyS08wRjM5UlFuMkRJcHAtUEQxYjF3b2Yyc2E2V1hOOEhQRHRPckpidllEOHpLRG9VUTFxSUwyaE95SzNNZ0pkemQwQkNBYkZPbTBpN0ZMYTBWU25nT3FrUVNNal9Eb0lCNnJwZTVFUVVhM0dDRlMzQ1pQTF8xRTV6bw?oc=5",
-   "desc": "Federal Reserve raises interest rates for the 1st time since 2023  ABC News - Breaking News, Latest News and Videos",
-   "source": "US Fed",
-   "publisher": "ABC News - Breaking News, Latest News and Videos",
-   "scope": "world",
-   "ts": 1793099247000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DeEN1Q0lOYXdvZ1RhMGVYWm5Fcm1jU3ZEWTR4M3lCdXBQdkJ3WkJRS0VKbGFOVkpfUG8tbHFNb05yenRtRnJfMUZLV3hQdFVxZGxmdUI1OWt2d2xfSWRXYWd2OGEzUFIxelJDRnliOVJ6MHNXTk5",
-   "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes - CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DeEN1Q0lOYXdvZ1RhMGVYWm5Fcm1jU3ZEWTR4M3lCdXBQdkJ3WkJRS0VKbGFOVkpfUG8tbHFNb05yenRtRnJfMUZLV3hQdFVxZGxmdUI1OWt2d2xfSWRXYWd2OGEzUFIxelJDRnliOVJ6MHNXTk50VDh30gF_QVVfeXFMUFhDd2V2SDNUb0F3OWpneFhXVk90eDlFY2dyNVVLVEVhU2c4Z3d5d211RFBiMWZrUk5ZXzdRc0w3MGEzVTFCV0tKYjFuTWN1aklNRkZJTmJFc0l2VHFMaklvTUFRQWlqUGp2RFhLVklrRGl5NjJGLVVuM0lfTDlaNA?oc=5",
-   "desc": "Fed expected to hold rates steady, but Warsh may point way to more hikes  CNBC",
-   "source": "US Fed",
-   "publisher": "CNBC",
-   "scope": "world",
-   "ts": 1793099182000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQV9SQ1EyNi1lUTVyLVJDM1FJanpfODUyZ2JPQWRxNnJOVWl4a25TSGZLUi1wQnBCX19faTloRERocGFoWkx4aDVEYzZlVzB6VTRjbmFib0RCdklxdVNlWTluSmNMVDYtT21jem8tMG5FcVBQV2J",
-   "title": "RBI's New Forex Rules Leave Individual Service Exporters Uncertain Over EDF Compliance - KNN India",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQV9SQ1EyNi1lUTVyLVJDM1FJanpfODUyZ2JPQWRxNnJOVWl4a25TSGZLUi1wQnBCX19faTloRERocGFoWkx4aDVEYzZlVzB6VTRjbmFib0RCdklxdVNlWTluSmNMVDYtT21jem8tMG5FcVBQV2JGRGd4a052Q09BcjM5cmw0alktTUQ1UEJSSzhpVG9wWDlrNk1oblYyUFRLWTZvUXRmRERmOFBfZmRzSDNtVVE3SXZVZkhoR1o3dy1PRURXRFBCZWplVVpxdw?oc=5",
-   "desc": "RBI's New Forex Rules Leave Individual Service Exporters Uncertain Over EDF Compliance  KNN India",
-   "source": "RBI",
-   "publisher": "KNN India",
-   "scope": "india",
-   "ts": 1793098688000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2NKTkN1dU1MTmhveFduOVRBM2d4bzdjVVdXWEZ2WlZZQ25NalNUY1Q0X2RHVDNGMGR0YmtmSmlWQzI1YVlOZ1BfalRZN19vRmZQWXpkY2ctX2RWTHFhSGNjeEdlMmtlUFJPMU43Ny1oMUp6LTd",
-   "title": "Canara Bank receives RBI approval to exercise call option on ₹1,500 crore Basel III AT1 bonds - Business Upturn",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2NKTkN1dU1MTmhveFduOVRBM2d4bzdjVVdXWEZ2WlZZQ25NalNUY1Q0X2RHVDNGMGR0YmtmSmlWQzI1YVlOZ1BfalRZN19vRmZQWXpkY2ctX2RWTHFhSGNjeEdlMmtlUFJPMU43Ny1oMUp6LTduOERjNE9oYVNSd00ySWozV0NaM0ZOSEZjTW5vT2hyVjBjM04xSVV0aWM2cER3UW1BNHU0Uzg1QXozREExZ191WF8tSElkck1oTl9BUWlGYXE4d28wMA?oc=5",
-   "desc": "Canara Bank receives RBI approval to exercise call option on ₹1,500 crore Basel III AT1 bonds  Business Upturn",
-   "source": "Global Banking",
-   "publisher": "Business Upturn",
-   "scope": "world",
-   "ts": 1793098572000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeF9YR3BIajZ1TWdUd0VmcFJJelY3QlU4ZWhBU0ExeERUTExkdWdfYzdOeFloZEdwajB2OWZGUlhnNHd3OHlZYmEyVDJBQ21STlM0SXFQVUNBTVFLQ3Exd2JuSGhaM1doN1JtNmJ1T3FyZVR5MHQ",
-   "title": "Explainer: Has the RBI quietly delivered another 25 bps rate hike through liquidity tightening? - CNBC TV18",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeF9YR3BIajZ1TWdUd0VmcFJJelY3QlU4ZWhBU0ExeERUTExkdWdfYzdOeFloZEdwajB2OWZGUlhnNHd3OHlZYmEyVDJBQ21STlM0SXFQVUNBTVFLQ3Exd2JuSGhaM1doN1JtNmJ1T3FyZVR5MHQ4Q2EzZk52ckpwYTNwWGFleF8wLWYzV3huNFpPMDY1NWxWX3JPakVvT0Q5YjV1TXRFSVZTNlJYQ3JTTkFVSlBqZG5mWE9ac3RWSdIBxAFBVV95cUxNUFVKQ2ItbE8zYmRHcFAwRDI3cmIxOUlvWFBjN1VTOW5Ec0Jsd09zWTA2akNhSWdDWnYtdXRtS1RrdjlPYzd6eXl3b1JJczBkaHFHck5GUmVwRS1MSWdXb2E5Q3JrSHhjS2FFY0tjWHJmbjFNOFNuMjlqc2VYU2FTcFVzMS1ENV9HRG5rdUhLMFNWRlV2WHZRSVNCV01tdGNIMzJCZDFQekdlejMwQnd2NGxhYzktSm5wdmhTZGYxVU5KWEZo?oc=5",
-   "desc": "Explainer: Has the RBI quietly delivered another 25 bps rate hike through liquidity tightening?  CNBC TV18",
-   "source": "RBI",
-   "publisher": "CNBC TV18",
-   "scope": "india",
-   "ts": 1793098254000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOGNMOXVHWEk3Rkp3eHdwcnBlWmdTZVNXR1dNN2FwcndycjJpZlJ2cTB5OEpmLW1pOHg3SWZYV0tpdEkwUmo0SXZ5RFZHaGVMSnFMTzdwTWpiaXlxTE9kOW5IbmMtbkthSXRTUTdQcGJaUW1sWVB",
-   "title": "Kazakhstan enters world’s top 50 largest economies - El.kz",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOGNMOXVHWEk3Rkp3eHdwcnBlWmdTZVNXR1dNN2FwcndycjJpZlJ2cTB5OEpmLW1pOHg3SWZYV0tpdEkwUmo0SXZ5RFZHaGVMSnFMTzdwTWpiaXlxTE9kOW5IbmMtbkthSXRTUTdQcGJaUW1sWVBZaHZXcHJPd0JreGFVNNIBiAFBVV95cUxQUjhHaC1HNFlyd2VUZ3Y3dzJMMnRuQ2I2VlVCT1FqMl90RE1WM01FZk1lWVU4c2xIRlRseFFEQVZyZF9qMHU1eWt0Z3VFMmMtY01vM2ZURXRaaTBaa0d2NDlibkI1N0ZaV0VXZDZjR05OdmxMRjdITl9EM1BPSEJMMTZRQzJBUHRi?oc=5",
-   "desc": "Kazakhstan enters world’s top 50 largest economies  El.kz",
-   "source": "IMF / World Bank",
-   "publisher": "El.kz",
-   "scope": "world",
-   "ts": 1793096220000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdHdvVGk3czVucV8wcmFKY0NiVXNaU2lsX0tDaVRyRFpDdHJKWkgxNnc0RXpLS3VUdEUwU25mU2RUS0lndnNkVFVsdXVsS1ZUOHo0a1FNVUJfMVRSakV6QmRwbFNkMkhHV1phQmZDbFBPeHVVeE5",
-   "title": "Big Bang at 40: Herald Investment Trust's Katie Potts on the City she joined versus the City of today - Investment Week",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdHdvVGk3czVucV8wcmFKY0NiVXNaU2lsX0tDaVRyRFpDdHJKWkgxNnc0RXpLS3VUdEUwU25mU2RUS0lndnNkVFVsdXVsS1ZUOHo0a1FNVUJfMVRSakV6QmRwbFNkMkhHV1phQmZDbFBPeHVVeE5LM2ptbjVkSnE4eHdrTzRLODdENUw4aEhQRGhHR2lfdGNqN01za1F0dkozM1NkcEN2RVF5YThUTHR4NUl6aDlZS1da?oc=5",
-   "desc": "Big Bang at 40: Herald Investment Trust's Katie Potts on the City she joined versus the City of today  Investment Week",
-   "source": "Global Banking",
-   "publisher": "Investment Week",
-   "scope": "world",
-   "ts": 1793095704000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDTGdhTFQ0ZlhMbDE3aXZzQzZrQmxfRVNEYzcxejRVRlFsZXE1M2trVENqZTE0U3hJenJCd2V3dGFJZGZmbVhJSUhiZkhrcFByaHlkMU9mN1RZcEdNaFNaanlSRkRhRk1iUVVhNy1seDFVX1lDSjJ",
-   "title": "SEBI Closing Auction Rules: New Changes From December 7 - Business Outreach Magazine",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDTGdhTFQ0ZlhMbDE3aXZzQzZrQmxfRVNEYzcxejRVRlFsZXE1M2trVENqZTE0U3hJenJCd2V3dGFJZGZmbVhJSUhiZkhrcFByaHlkMU9mN1RZcEdNaFNaanlSRkRhRk1iUVVhNy1seDFVX1lDSjJjQTVweHJQQQ?oc=5",
-   "desc": "SEBI Closing Auction Rules: New Changes From December 7  Business Outreach Magazine",
-   "source": "SEBI",
-   "publisher": "Business Outreach Magazine",
-   "scope": "india",
-   "ts": 1793094860000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPdFVmdWlEN19VRXRqckxLcGk2a2JhZWFpUFZQbTExYzhycmlWblF4NHZubUhYRk9HQnhIVnM1YjcxRkRna1A4WkxaQjFlTU9naXNTb1ZaRzZZQkZUdi1tSFFZandrdzhYUGtyWXVSQ3c3VzlGWE5",
-   "title": "RBI EDF form: Is export declaration mandatory for all service exporters, freelancers, YouTubers? Expert explains - Livemint",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPdFVmdWlEN19VRXRqckxLcGk2a2JhZWFpUFZQbTExYzhycmlWblF4NHZubUhYRk9HQnhIVnM1YjcxRkRna1A4WkxaQjFlTU9naXNTb1ZaRzZZQkZUdi1tSFFZandrdzhYUGtyWXVSQ3c3VzlGWE5FaWFvQ0I2TzVfT0hwbVVEZldrLVdYV3pnMWhrZnRCOXFfXzhneUhRTlREU3pFdl9pVHZ5VC1wM3Uta1BiX1lFcVhGOGo3c3ZoUEpRQzFaVGlCMURjSXNXMWxPdWpCQlF2VjJGTlM4VTE4LXM0dWZoaWw3Uk8xWnBpcHlFaFNsLXhvSmV4c2NsSmRFT1JBUXBDNNIBjAJBVV95cUxQbS1ZQVhkS2thZ3dfRzZISFIxb3VPMlR5TUN2ZmRBeG5HU2hGNVpVOHpLLUlCQVNFQWFlSTMwYTJ2N0p5Mi1QRS1wNy11dTVuellrYUxhV216bXNJX1NOWDVFS3ZPMURyVXFQU1JlZ1ZiY2t4b3ZCQ1Q5ci1XMHExVGozR2lEaF9GeUFoMXdjTU5pdnpXbHAyOGtZdUlVdFdCTnNoT0YteF9mSGxQV1NlNXR1ekpaRlNrU3BxaFpqQW9EZW9keTBLdWhod2JRRHJFaXJFSlNDMG1RSFRXUkh2dm1yMFl2MWpxeUNpNTcwSHhLVzF6WUpGSk5pbGttZ1p4T2tOcUFfakNhcGdY?oc=5",
-   "desc": "RBI EDF form: Is export declaration mandatory for all service exporters, freelancers, YouTubers? Expert explains  Livemint",
-   "source": "RBI",
-   "publisher": "Livemint",
-   "scope": "india",
-   "ts": 1793093517000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb2t2QS00Vy1HRnBsNEU3T05Oa0JyTElCUGtCNVA2cm1jMEpKalltWDhzNTF6QlBHNUkxX19PLW8za2xYa1dFNGJnenVoWUIxUXY3bzVKcTNMaXdmNU9vVTd2TU8tWTM3djVkai1ETTZsNTBLUjV",
-   "title": "RBI May Raise Repo Rate To 6.25% By H1 2027 As Inflation Risks Persist - Times Now",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb2t2QS00Vy1HRnBsNEU3T05Oa0JyTElCUGtCNVA2cm1jMEpKalltWDhzNTF6QlBHNUkxX19PLW8za2xYa1dFNGJnenVoWUIxUXY3bzVKcTNMaXdmNU9vVTd2TU8tWTM3djVkai1ETTZsNTBLUjVJRU11c0ZadXptMHBlVC1qXzV6NlNhQTBtcWNFZklVOWlESmJPQzJoZ18wTDlLcXdfMlNHVkxDMXpqRlFWQ2dsdjVVeTY3RXNmeU16dkpyWmFWZllpVWdIeDFlRmUzQXR0V1TSAd4BQVVfeXFMTjFCOXppOHk1YXdxRUM5ZnNhTzhEeElyMWxERVdueGc0TXlHb3FqMTRBQ1p2V0xzRkk3TGp1RkRPdzZTZi1ydHo5czZZY1pDU004eWFkZ21VQmIxV2RGNlUxb2ZLb0J5X2ZkZGpieENUSE90STNrckhjaVN0U0l6d25rSV9ieW9wbDE1YzJMdDVKTWJ1QjI1UjlaV3NHV0RRcGtNU1pYMjlxcUhVbElYQm9ja3o1TVdsWF9wV01ocE1VSVhmMVpEWU5vbktBWXhfTC1SNUJjSmZZQjg3ZmZ3?oc=5",
-   "desc": "RBI May Raise Repo Rate To 6.25% By H1 2027 As Inflation Risks Persist  Times Now",
-   "source": "Indian Economy",
-   "publisher": "Times Now",
-   "scope": "india",
-   "ts": 1793093018000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdGw3eF8yRlJtcG5iem5MeW5BQ1Njd0x4dWkxMXBQZ2hRTEJfY2NtRTdLTm5xX3JfVjNVUXBXWTBUazg3cFl4UloxSExScUhjWjY4NEVDSUlrREVrUlpFYVE5b2RXREd5Nkx0a3RMUEhvNFdhQnR",
-   "title": "Kazakhstan’s economy ranks 47th globally with GDP near $400 billion - Qazinform",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdGw3eF8yRlJtcG5iem5MeW5BQ1Njd0x4dWkxMXBQZ2hRTEJfY2NtRTdLTm5xX3JfVjNVUXBXWTBUazg3cFl4UloxSExScUhjWjY4NEVDSUlrREVrUlpFYVE5b2RXREd5Nkx0a3RMUEhvNFdhQnRrb2FCWDViZEZWVzh2X0syWGp6U2prQmZ6YjNIajl5eno0d0RwYmFxNThS0gGgAUFVX3lxTE42MVZLaWNBV2tRTmFMMHBUNEp6Q05sOW5kVEk2bHZaVjY5MzB4S213ZjBMQjg0aDBfUHFfNURVbDVGUTk1cXcxUGlfbGNLRzNsRmN3UkFSdlRSa0x4T0NSbVpGLXo3anFFWkMta0hnMzNPUThDYjNuTlNCT0tLOWhGM3dmNm5jUEs1ZXh0ZEgzZlE4MW1Xd2lpUENDbGw0ODY?oc=5",
-   "desc": "Kazakhstan’s economy ranks 47th globally with GDP near $400 billion  Qazinform",
-   "source": "IMF / World Bank",
-   "publisher": "Qazinform",
-   "scope": "world",
-   "ts": 1793092380000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVjk0U2VfYl9FeTc4bGhIUHIwR0c4ZkpoMDNnRnhtSGJsdDdYVER5UHBoU1ZVYkx1NWdoTE8yUV9rdm5NakYzQ3dJVU43aUFwTmo1T2ROd1NoRHlNVml5WTJ5c2xTU0tDN0c0bjd0RHMxUWVqZTJ",
-   "title": "RBI may raise repo rate to 6.25% by 2027 amid inflation risks: Deutsche Bank - The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVjk0U2VfYl9FeTc4bGhIUHIwR0c4ZkpoMDNnRnhtSGJsdDdYVER5UHBoU1ZVYkx1NWdoTE8yUV9rdm5NakYzQ3dJVU43aUFwTmo1T2ROd1NoRHlNVml5WTJ5c2xTU0tDN0c0bjd0RHMxUWVqZTJ1dVoxLUdJa3BXM29OVzQtNmdqNmZ5eVNQMmRQTDlncFZRRzNZZE83RTU5UmQ5aUZJYWxFYXJKRjlCMXZleXVOVExNR3pXWHFNUzZvRDNTMVdleTB5ZUtrak8zVUNhTmZVd3d1NjRWZ3hTU0hn0gHnAUFVX3lxTE5xN25EajRXZTAxSVUzaGs0LUVCQ2J6ajBKMnpKZjBuMEZpOTVJeWZXczJXVldka0FWaDB0S3g4LTNTWVFVblVRdDM3RzFxY2UxcGZjTUsxd1pjMXNzVU90UE9MRVh1dmtCWE53dV9rWkpzQy0tQzZYSTJkVU5VVDJBVHUydmwyVXRrWFFhMHlNUVN5UlFZN3d6RjFWMWJqUkQ4REcxSXlXSWY4UVBaS0NtU0F6QS1OYVR6WERvY210SFZJZkhyb2FXVmkzTUhSeGg2SThmZTV5cHhFcGNqdzZ5TTBiOUZ6Zw?oc=5",
-   "desc": "RBI may raise repo rate to 6.25% by 2027 amid inflation risks: Deutsche Bank  The Economic Times",
-   "source": "RBI",
-   "publisher": "The Economic Times",
-   "scope": "india",
-   "ts": 1793091503000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUmdCdTVsMXNZNzNqTmpzczl0V1lhNGZTOWZhQXM3LTlXaFVEeDR1dTZXSVdBaHhDbE0yYjI4TkFzNHFMcXNkWjgtWFlsdXM3TmxVTWVra29WSHV1RWxaN2pyTE5BaXdPSXY4bGdFcDhFanRocm9",
-   "title": "RBI may raise repo rate to 6.25% by 2027 amid inflation risks: Deutsche Bank - bfsi.economictimes.indiatimes.com",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUmdCdTVsMXNZNzNqTmpzczl0V1lhNGZTOWZhQXM3LTlXaFVEeDR1dTZXSVdBaHhDbE0yYjI4TkFzNHFMcXNkWjgtWFlsdXM3TmxVTWVra29WSHV1RWxaN2pyTE5BaXdPSXY4bGdFcDhFanRocm9OZHU4cmJrbE4tRzRVTlF3cmJMdTRrWnV2ZW5DZGhvcXkyMEw0YVNrczBWdGRoOEoxNWpteEttc3JBZW1TNHY2Q3ZtRjFXZmFySm82bVpXZkhub0YyLThWc3lUaGd5NtIB2gFBVV95cUxQN3FmaDRWTTBEaFZPVGF6U19ZSUQxU21vdWhQUlhtS2pESXZ5MkRiYlA2WDdGS3lMMS1leE9UR1BReGM0ZTlwM2kxNC01c0NUakd6VFJxY2RDYU1MSlZ1QUV3bUxHb280d1pjZ3ZhZHN2TEtyaElmcjlNVEw2QW51UkxjY3V6SlYzZXVEVWhRRUNEVGZ5U0NOdVVsdnBiNmxkQkRDNlRReG4tMzJVSi1JX2NTSjhUZFlhNHlOZWgzWVJRdEFpYmJnUmMwV3FPOVlKdHRzR0VGb2JkZw?oc=5",
-   "desc": "RBI may raise repo rate to 6.25% by 2027 amid inflation risks: Deutsche Bank  bfsi.economictimes.indiatimes.com",
-   "source": "RBI",
-   "publisher": "bfsi.economictimes.indiatimes.com",
-   "scope": "india",
-   "ts": 1793089595000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRVlrUXRJR2JNQmxJSTNzbGxxcXZZSnFfU1VvMGx5dEo5Q204UnpWMU5PZE1JVlhfa3drak5aWmdMc09sZmdvR2FpTFJJOVNNbmlVcUQzNHBJZnV2SFhjN21GTzNDS2JIb2xkNGJ6bldhNTFWRUR",
-   "title": "RBI quietly effects another rate hike via tighter liquidity to counter crude surge and rupee fall - Moneycontrol.com",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRVlrUXRJR2JNQmxJSTNzbGxxcXZZSnFfU1VvMGx5dEo5Q204UnpWMU5PZE1JVlhfa3drak5aWmdMc09sZmdvR2FpTFJJOVNNbmlVcUQzNHBJZnV2SFhjN21GTzNDS2JIb2xkNGJ6bldhNTFWRURTakxOLWJNUkJJSkthcWU2OHRiazNWVV9yZVZSSU55dmVaenA2NEcwYlB6UGV6Ni1KZkJYaHF0UTUtWFUxd3Q4MFNuQm5Cc1o1NmNzRUpPaUxXeUlEbGt2SFFXT2hERktETUEzRXl0dG9RMHRaRm5ORjhY0gHuAUFVX3lxTFBjSlBtMk9DVW82cVpmRVk3UExiNmU5aExnbzM5ZHJmTWlUV05veWJzZUxyclFZVjMtM1l1dGl5SnMtR2FvVGZtNl9scm5TeWh4bnlnMnN5WU5vaTh3c2ozX3YzRUNNeHlpVnZGSzdUR1lTTzZfNVRQUm1tVjJjZmZSdFVzSXpLcHVxLXZSUEtGa1VZRTZ0cTZ3bmNPRVRLdGphNzRGVEpESDVWUEM5LU5sQUZMOWRGd251Tm8zSGcwaTNSN3J6OXJ2R01OMXVJMndaeG9LalVTM1pxUzd3MUVvaF9qR1U4cHlDUzIzclE?oc=5",
-   "desc": "RBI quietly effects another rate hike via tighter liquidity to counter crude surge and rupee fall  Moneycontrol.com",
-   "source": "RBI",
-   "publisher": "Moneycontrol.com",
-   "scope": "india",
-   "ts": 1793085024000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVM1R1hmMEl5YWZ6d2ZwU296M2U4WngzT2g3dm5GQ2ZTckx0bXdFd25iNXVPelpuVjhzX09xSjhlbVE5M21MSjdMaElkR29feDZzcWdydmxTVUNYa1R3OFZvOUpRTW5tUXJ2c1hrVTVNeUlCeTR",
-   "title": "Tech sector rally continues with Fed expected to leave benchmark interest rate alone - ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVM1R1hmMEl5YWZ6d2ZwU296M2U4WngzT2g3dm5GQ2ZTckx0bXdFd25iNXVPelpuVjhzX09xSjhlbVE5M21MSjdMaElkR29feDZzcWdydmxTVUNYa1R3OFZvOUpRTW5tUXJ2c1hrVTVNeUlCeTRYbko0M2c1WllrazJTZnczN05TMFh1S1JqeEIwZl82bUtLRy1SWjVzZUxPWkZnbTZ1WGHSAa4BQVVfeXFMTThGYlVQUEtiMnZ4MUN6Q1FidGNmbHhJN044Uy16SXd1d2hSTGxJS2lJVDJJbk9xUWZOZlRWR3FDUV9ObXl5ZHlWQnlQc2tUNGh0dU0wRGt6UVJ2d0laXzBQbnc4dzZYODNnTDZvckF2b2xESzQ4djF1azRBeFB3Um1XWUl6XzBiVWZfTE15R3ZBT0t1VWphX2JZM09CdDhsMGRUNW5fZVpHZ3VEYmtn?oc=5",
-   "desc": "Tech sector rally continues with Fed expected to leave benchmark interest rate alone  ABC News - Breaking News, Latest News and Videos",
-   "source": "US Fed",
-   "publisher": "ABC News - Breaking News, Latest News and Videos",
-   "scope": "world",
-   "ts": 1793084400000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa3Z6Z2VGTklKZk5YRlFLOUkyaThXRUNaSmJ1WFZJV2pfV2d2RllUVVNZWE01Y3Zob1ZEblVnaldhUWxqd05XSkJkX0ltNHIzYW5XSUxPcExOTXRxWkFWUWdsY2staE1FRkE2Snhic1B2b1dWck5",
-   "title": "Climate concerns take back seat at IMF-World Bank meetings - The Financial Express",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa3Z6Z2VGTklKZk5YRlFLOUkyaThXRUNaSmJ1WFZJV2pfV2d2RllUVVNZWE01Y3Zob1ZEblVnaldhUWxqd05XSkJkX0ltNHIzYW5XSUxPcExOTXRxWkFWUWdsY2staE1FRkE2Snhic1B2b1dWck51Z0xqblprVGlkNVhUdnJrTG1iemM5TVFNbVFnQS0ydUVQUTNMOWxEUUx0ZnNrOXJkdi0?oc=5",
-   "desc": "Climate concerns take back seat at IMF-World Bank meetings  The Financial Express",
-   "source": "IMF / World Bank",
-   "publisher": "The Financial Express",
-   "scope": "world",
-   "ts": 1793082351000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21",
-   "title": "Will the Fed raise interest rates this year? Divided economists weigh in - ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
-   "desc": "Will the Fed raise interest rates this year? Divided economists weigh in  ABC News - Breaking News, Latest News and Videos",
-   "source": "US Fed",
-   "publisher": "ABC News - Breaking News, Latest News and Videos",
-   "scope": "world",
-   "ts": 1793080547000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeldVbU5YR0FUa0o4c2NVVlR0SkpScTBmaEdxbGhYai1RMzFudTVWck5yY0VHaHRhMW1WUUNOYlFOUjA1cjUtQnRkWW84ZDZZZW9MNm96ckR3Z0ZlZzFTR3dmSmhVTG9rU3BSR3ZtZHBPcWRwM3J",
-   "title": "5 things to watch from the Federal Reserve’s next meeting - myMotherLode.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeldVbU5YR0FUa0o4c2NVVlR0SkpScTBmaEdxbGhYai1RMzFudTVWck5yY0VHaHRhMW1WUUNOYlFOUjA1cjUtQnRkWW84ZDZZZW9MNm96ckR3Z0ZlZzFTR3dmSmhVTG9rU3BSR3ZtZHBPcWRwM3JGem11MFJkRW83SUhtVEVDYzFTendUZmtERFZPcnZMaXRKYktMNFphMUN6bGxzUkhfeEZ5OENXVFHSAbMBQVVfeXFMUGFHdEl3TXBZRkxSQWNJY1hjM0wtR2Q0a3Y0dnBxTnpVRUZhVi1abm9PSXNoc2loNXpfMjhlMWFaaV9qMzNObW9yUVRIVTRaRi01Nl8wWVNaVUtGeGZMZVF2dVpDVHNfQVRkcFdmWGV6RFpDWkJLTGlVczlSYkRmS1pranFhRTlvcER1SHh3SEIyektOZ0FMUU5oMm13TzdMRXU2ek9rM2RHaHF0NVQ4LUtFRnc?oc=5",
-   "desc": "5 things to watch from the Federal Reserve’s next meeting  myMotherLode.com",
-   "source": "IMF / World Bank",
-   "publisher": "myMotherLode.com",
-   "scope": "world",
-   "ts": 1793077327000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ0NCTlMwb0REc28tZFRtTmpoMGpMTmVHMEg3UVNFME9MTDlCSGdsSkdWZXFqNUJiOUh2YzM0WEs1Y0pjNVhYeEg4TDAwaTBSRTR1cG10bGkxaXdQRVNOTE1iN1Jra1lFU3RGNzZGdlBiM1RGSTN",
-   "title": "In defence of the RBI’s calibrated tightening - The Statesman",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ0NCTlMwb0REc28tZFRtTmpoMGpMTmVHMEg3UVNFME9MTDlCSGdsSkdWZXFqNUJiOUh2YzM0WEs1Y0pjNVhYeEg4TDAwaTBSRTR1cG10bGkxaXdQRVNOTE1iN1Jra1lFU3RGNzZGdlBiM1RGSTNCZDZMMWU4QmdDdGNtcTdiRjJ4TmFpMC1jZkVKUGgyelBYRE8ySWkzQdIBowFBVV95cUxNSVl0SE1tRE0wTmdCNnF2dGY2R25XWEFJcFg5ekpTc0hQRWc5V3hkc3hVS3hTN2R4c2dWWFoyQzZCbjFZRzdialp2dFQzUHBsS2RtYXVSNTNsMThlaDJpeE51T294RDVFSGxnYmVTbGtxOEVKN091aHRBMFBEMlRJQlVQUkItMURtMGEya2l3ZDNqQ1A0czdoUkZ1VERqcDVTOER3?oc=5",
-   "desc": "In defence of the RBI’s calibrated tightening  The Statesman",
-   "source": "RBI",
-   "publisher": "The Statesman",
-   "scope": "india",
-   "ts": 1793071260000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUWVteVNWX0dySGN3dElCUF96M3NTX19HWnFLaHJsUHhkTkFQY0t0azlfMmdaZ1dsdG13QXZFVEI4MUNPUVVzQU1BT25nM3JNMXMwVzNoNTQtZGJ2TnlaMzViTlVBOHF0STJaM0t2U1M3S1dOdWN",
-   "title": "RBI steps up liquidity support as tighter cash conditions push up borrowing rates: Report - The Economic Times",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUWVteVNWX0dySGN3dElCUF96M3NTX19HWnFLaHJsUHhkTkFQY0t0azlfMmdaZ1dsdG13QXZFVEI4MUNPUVVzQU1BT25nM3JNMXMwVzNoNTQtZGJ2TnlaMzViTlVBOHF0STJaM0t2U1M3S1dOdWNQbkktZ1lheHljOWt0YzJPNzdsYW9tQ1F0SkdVWGNhUU5VR3RsajBuMzlBRVRrdFVPcWRYcF9ucUk2TjNHYzZEb0YzcFpQZjFJZ19IWURRSy16T2g4YzFsbGZKSzFtVC1uS3BLQTZxU1QxRWkzWmFIOFc3WHdjWkRkakpCNUJl0gH6AUFVX3lxTFBHTzBnTGowR0txZmMyVlpTU3JHUVBfclIzWFE5UEtNN3N2aVJVWjdtSkc1QVZXWkRjWUVIdE8tYWM0WlZQY1c2dXctMTdQR3BXWGd5Y21EYWlaOGtkWTVjWnY3U2J2eGk1SzhhLW4xVjRvbmFrdjRwZlRta2x4RnczTXFYdEJhYzRkMkJiQ2FkNkphWXdfSnMwYjMyZ2ttcVVJcUU3YkdJaDlBUVp2ZzhJZDRVYnpVam4zamtzUFk0M3FELWtzbDhLOHFMbngwX3BPTURYVm5waEZOMmVMQm12aGE2YTExVjJmM244YVA2OUtTZXZMcVNIYWc?oc=5",
-   "desc": "RBI steps up liquidity support as tighter cash conditions push up borrowing rates: Report  The Economic Times",
-   "source": "RBI",
-   "publisher": "The Economic Times",
-   "scope": "india",
-   "ts": 1793068582000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzE",
-   "title": "Fed holds interest rates steady as inflation hits 3-year high - ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-   "desc": "Fed holds interest rates steady as inflation hits 3-year high  ABC News - Breaking News, Latest News and Videos",
-   "source": "US Fed",
-   "publisher": "ABC News - Breaking News, Latest News and Videos",
-   "scope": "world",
-   "ts": 1793063736000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjh4UEx1U29xZVBRX2p4enctZE5YLS15NWNzbVhod3BhTkl1MTRrSnF1T2xCRnA4V1plMTU0clVkMHlpX3FIVVhQRF8yX0R5RHhEZTVxUVZNei1iX0lXT01CQzEtNDFJaWh1UklhN3MxdERnN0p",
-   "title": "Maharashtra minister invokes RBI rules to curb coercive loan recovery after farmer deaths - CNBC TV18",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjh4UEx1U29xZVBRX2p4enctZE5YLS15NWNzbVhod3BhTkl1MTRrSnF1T2xCRnA4V1plMTU0clVkMHlpX3FIVVhQRF8yX0R5RHhEZTVxUVZNei1iX0lXT01CQzEtNDFJaWh1UklhN3MxdERnN0psYXJYQ20wLURpSXVJMTQzWTI2b1o0ekVDMTRQQ0RVQ01hX3BLaElNenFfSnFVRnpXeFVIN2VQRUV6MWFCUUYwM1nSAbwBQVVfeXFMTnBCOEUwUEZ2UDVndzc4TmtkZm5IM3VQZlU2UWlGZEJldDF3UFdBVEJMS3lPX25qS1lHQlVIYjJhODFLQ1Ayb1c0eDdFcUFPaFJvRTRuRG5TSEZSSDFLZmRBSHNmYkJUcEdFYjA1bTZxZ01lVmVIZ2dVaFFlLXYxdE95anplQzA4RndRb3MxVmw0ak0tcmtfdldlZW9DZENBTGxyV2VZd3hqbkJIN2FOWktxMkRRcGdCVmV4S3o?oc=5",
-   "desc": "Maharashtra minister invokes RBI rules to curb coercive loan recovery after farmer deaths  CNBC TV18",
-   "source": "RBI",
-   "publisher": "CNBC TV18",
-   "scope": "india",
-   "ts": 1793039610000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZHBhX1NMM0tteEsxYWlEcU1RandFU2h6MWMzVjRhRW0tU0RBMWhkdjl4NXF3TU40NTA2Mms4eVdpRDhXNFN4cXJmVEgtUlBLTlhXX1ZUbHRDQW5NbHVmUGRSdkVoRHJXallwQ21Vdnd3Y2xmUTJ",
-   "title": "Federal Reserve meeting: Rice experts available to discuss interest rates, inflation and economic outlook - Rice University",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZHBhX1NMM0tteEsxYWlEcU1RandFU2h6MWMzVjRhRW0tU0RBMWhkdjl4NXF3TU40NTA2Mms4eVdpRDhXNFN4cXJmVEgtUlBLTlhXX1ZUbHRDQW5NbHVmUGRSdkVoRHJXallwQ21Vdnd3Y2xmUTJSQ2Q2UUZmMlBaZTVnLUIxQUdzMFktZVVLZ1R1akU2S0lNdDFSUlNkVFd2aTJzb1o1LWtaWmpwMms3Y1U5LU9HQQ?oc=5",
-   "desc": "Federal Reserve meeting: Rice experts available to discuss interest rates, inflation and economic outlook  Rice University",
-   "source": "US Fed",
-   "publisher": "Rice University",
-   "scope": "world",
-   "ts": 1793038395000
   }
  ]
 }
