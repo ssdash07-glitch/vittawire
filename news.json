@@ -1,15 +1,755 @@
 {
- "updated": "2026-11-10T08:08:08.053731+00:00",
+ "updated": "2026-11-10T16:28:19.211216+00:00",
  "items": [
   {
-   "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObDV1RFQzMWstaUhSRkpZM2E0ejd2aDBkeTV3OWNIV3NOOFNpMy12Zm44SV9lOElKcE9SZHl3REM5ZGpJc3g1YlRJSThkRzl0UkY2d0FIOUV4bmpxYXhtZ3NzQzAxSGN6Tk5CYkJIMXMyaUItNjR",
-   "title": "Will the Federal Reserve raise interest rates in December? Tonight's CPI release will be the deciding factor! - 富途牛牛",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObDV1RFQzMWstaUhSRkpZM2E0ejd2aDBkeTV3OWNIV3NOOFNpMy12Zm44SV9lOElKcE9SZHl3REM5ZGpJc3g1YlRJSThkRzl0UkY2d0FIOUV4bmpxYXhtZ3NzQzAxSGN6Tk5CYkJIMXMyaUItNjRSMWE2VXZlR0l3ZER1X3RRRDd0ZGlLNGtEUWhyTXhHNDlPMXJXcEx1OGJ2ZUpsZXd5a01xYWE1?oc=5",
-   "desc": "Will the Federal Reserve raise interest rates in December? Tonight's CPI release will be the deciding factor!  富途牛牛",
+   "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORkI3TWl1THpQcmJfS2hJbmhzWFl2ZmlHSGVoUWFuVHJXUHRBVUVzVjBlQ2pyb3dqNkhmMk5kN2tPYm9UdmcwMzdOTzhSYU9XSkRtYzNXMU04Y0V6RUlVUk5KZ0xVYVY5bjJ1UGlpa2dtU3JRYnF",
+   "title": "US inflation runs hotter than expected as higher prices extend beyond gas station - The Korea Times",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORkI3TWl1THpQcmJfS2hJbmhzWFl2ZmlHSGVoUWFuVHJXUHRBVUVzVjBlQ2pyb3dqNkhmMk5kN2tPYm9UdmcwMzdOTzhSYU9XSkRtYzNXMU04Y0V6RUlVUk5KZ0xVYVY5bjJ1UGlpa2dtU3JRYnFlRm9XSjNOSWxZWi16Q3QzSUs0SVRVNHpzcjJORDFLWUxVTWNJUGgyX1B2TnowTjluSi1IQVFaM0hQM3ZUM3dldGN3Y0tqTm95amoyMFXSAcgBQVVfeXFMTlJuU0tUamd4M3lGZVZqbUYxSko1UnBOMk81aUFsMG4yandJTWNSZXpKU0xlVTRVQzVyRWFrTE1zRjlxOEs1Nmp4THM0cGhVcjhFejBOR1lEaGxjYi13VFZmMS1wVzVQVjhNeFNFTzZYdFNEd213RkVmcHdQUFR6NkZ4eWxaVG04NGpxa1NjUG9vcnBDWDEtazZXM0wtX193NWxHRnQ5dTlMdXIwQV8tUURZUnNMMVpxalAtUk9JOFI2ZUNKRHRxMFU?oc=5",
+   "desc": "US inflation runs hotter than expected as higher prices extend beyond gas station  The Korea Times",
    "source": "US Fed",
-   "publisher": "富途牛牛",
+   "publisher": "The Korea Times",
    "scope": "world",
-   "ts": 1794296554000
+   "ts": 1794327600000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQVpwcENQUHRhMFlZU2YwaTBFMUhNejZDd3lWc0kyWWcxZVlPTUs4Z2NWUkpMZUFlckdoQUR1SXVfLWFIWFZ0dGVvMndxd3pqelFHRnJMT29LRkdaOVJEUk96YVlCWGkwRnMzVVp2ZTV5b29uSnZ",
+   "title": "CPI Live Updates: Inflation Persists in U.S. Economy - The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQVpwcENQUHRhMFlZU2YwaTBFMUhNejZDd3lWc0kyWWcxZVlPTUs4Z2NWUkpMZUFlckdoQUR1SXVfLWFIWFZ0dGVvMndxd3pqelFHRnJMT29LRkdaOVJEUk96YVlCWGkwRnMzVVp2ZTV5b29uSnZoT01zY2hPSWhCckRSaw?oc=5",
+   "desc": "CPI Live Updates: Inflation Persists in U.S. Economy  The New York Times",
+   "source": "US Fed",
+   "publisher": "The New York Times",
+   "scope": "world",
+   "ts": 1794327257000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTDBrX1Q5QXVpem1ocGpMTmJYYkt1UExXNmtFWTUwaThqWEhBSGEzaGZFNkFNSDJZOG9xb0ZpUE02U3RlNUpIdG5fWFdUUHZwTXRzMjdpUTRSNDNiMnZxOXBwTEhlZDhhRWZyWnpCMk42dWVZTU1",
+   "title": "Wall Street: Stocks Stumble on Discouraging Inflation Report - JournalArta",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTDBrX1Q5QXVpem1ocGpMTmJYYkt1UExXNmtFWTUwaThqWEhBSGEzaGZFNkFNSDJZOG9xb0ZpUE02U3RlNUpIdG5fWFdUUHZwTXRzMjdpUTRSNDNiMnZxOXBwTEhlZDhhRWZyWnpCMk42dWVZTU16QURRcE1aUFBUYVRUS0RURFdIbV9ZZ0J3QkxRMThwTGFV?oc=5",
+   "desc": "Wall Street: Stocks Stumble on Discouraging Inflation Report  JournalArta",
+   "source": "US Fed",
+   "publisher": "JournalArta",
+   "scope": "world",
+   "ts": 1794327161000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVTFzeUhYcUZBOUJZdEQwQ1NVUks3QnZ2VTVKZl9EajNwTC15VzRnWTV5Y0p5UHRVSkdiSl9VNEQ3cm9rclQ5MElkVGtKX0hTeTRSUjBMRGhjN0dkUHVGNWxPYkxlQmhhejlFdzZKM3F1S19QTFl",
+   "title": "Bitcoin Trades Near $73K as Hot CPI Fuels Fed Rate Hike Fears - Altcoin Buzz",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVTFzeUhYcUZBOUJZdEQwQ1NVUks3QnZ2VTVKZl9EajNwTC15VzRnWTV5Y0p5UHRVSkdiSl9VNEQ3cm9rclQ5MElkVGtKX0hTeTRSUjBMRGhjN0dkUHVGNWxPYkxlQmhhejlFdzZKM3F1S19QTFlXck1tcEhNZnk3dXhyVUs?oc=5",
+   "desc": "Bitcoin Trades Near $73K as Hot CPI Fuels Fed Rate Hike Fears  Altcoin Buzz",
+   "source": "US Fed",
+   "publisher": "Altcoin Buzz",
+   "scope": "world",
+   "ts": 1794326186000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOXM1cDRmT2dkaTZkZEY1Z0pwQ0QtQy16aVFEdjRPSFJaM3dyUHdGcHhCZnN2Z2xrYnVMNkNkNy1tNWQ0b19ZRlJBUGVYdG9QT09pU0FqQVRnZ18xU1ZwQTRUVDRqMG4zVWlUemZwUU5oYlJLWHN",
+   "title": "US inflation figures lift chance of interest rate rise - The Times",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOXM1cDRmT2dkaTZkZEY1Z0pwQ0QtQy16aVFEdjRPSFJaM3dyUHdGcHhCZnN2Z2xrYnVMNkNkNy1tNWQ0b19ZRlJBUGVYdG9QT09pU0FqQVRnZ18xU1ZwQTRUVDRqMG4zVWlUemZwUU5oYlJLWHNBd1B6Z213RTM0V3l3dWtOOTRuWmRkZ3B3VHVfOUJOS2d5dQ?oc=5",
+   "desc": "US inflation figures lift chance of interest rate rise  The Times",
+   "source": "US Fed",
+   "publisher": "The Times",
+   "scope": "world",
+   "ts": 1794326100000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56QlFLYlhyRzdjMlNxVnoyRUcwbXFuenBJa2RfVkRwT0Vjd3ZSODN4UkRKeS1feXJmQXNlTHZySnVOR1lPS3VEcWJzOW9rVFdXYi1jbERDQ3VsUzRHbFZKa0RuVFR5a21wYVZyUm1CUlBGdG1VOWF",
+   "title": "Fed's Logan calls for two more rate hikes, possibly rapidly - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56QlFLYlhyRzdjMlNxVnoyRUcwbXFuenBJa2RfVkRwT0Vjd3ZSODN4UkRKeS1feXJmQXNlTHZySnVOR1lPS3VEcWJzOW9rVFdXYi1jbERDQ3VsUzRHbFZKa0RuVFR5a21wYVZyUm1CUlBGdG1VOWFfOWZRR28?oc=5",
+   "desc": "Fed's Logan calls for two more rate hikes, possibly rapidly  Yahoo",
+   "source": "US Fed",
+   "publisher": "Yahoo",
+   "scope": "world",
+   "ts": 1794326091000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUDZQcXB3UC1lNndONjE2ZFlRS0YxNlJhUmFjd3lNVnZ5cGtDMG53aUQwS2F4amZUYTlIZkJZQWZBWHFaQ085VTZaYU1WdDVqNlpBcDZfanFsNkNjdElsTUNQWnVUbHpBVjBwME51aVpNQXQzQ24",
+   "title": "US October inflation exceeds forecasts as consumer prices rise 0.4%; Fed rate hike in focus - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUDZQcXB3UC1lNndONjE2ZFlRS0YxNlJhUmFjd3lNVnZ5cGtDMG53aUQwS2F4amZUYTlIZkJZQWZBWHFaQ085VTZaYU1WdDVqNlpBcDZfanFsNkNjdElsTUNQWnVUbHpBVjBwME51aVpNQXQzQ24yMWROQUtTZTVKcVdyUmh4UmZaTm5mZFo1bmtmNk9XR3QxQkczRFZzbnZvTzg0ZVdiUXVzRkViekxwQmNiWHpOLV82Uk5qMnJEM2dLLWNpQmdMR1kxMlBJLXZ4TWZUbl94Zk1pVjhiaE5j0gHkAUFVX3lxTFBnVUU0SlhRSHJGejkzR1RLazFzNFRmMGxzSnhCTGt5UnRjSm9pYWtyQnlncGV4cjJoMVljVEUtMUpNMmpKNS1EWl9PNDdKN3BVNTJoVHhpRDJuQmxYZ0JzWG5laXZLS0wtUWgxZTd6di1xMWUza2tzV3Rqc1A0UzI5TmZaNXZJY3RxYlBCV2lEdWR2MTVwNHY0NnBjOEJScHJjS1E2aVRBZWtVcERneWpMQmVVQ2hMS3FiLTBPOEVmZnVnR2ZFY3hUNzMwUmRpT2R4Q3lHY2lUNmh6MEltcnc2d2ktdg?oc=5",
+   "desc": "US October inflation exceeds forecasts as consumer prices rise 0.4%; Fed rate hike in focus  Moneycontrol.com",
+   "source": "US Fed",
+   "publisher": "Moneycontrol.com",
+   "scope": "world",
+   "ts": 1794325434000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPclFFWXk3cFh5NzBXV3g2UGZuZi01dzMybGIwODItS080dGNjR2Z1bmFaR2hRRkhRZTN3OWliVFlaV2NKanBJRUsxVHJwbUJpZERyTXJqSGZNeUdyVFVIMHRzUnN0Tmdla2haSVJuUHJkVXVTX3N",
+   "title": "Today's Mortgage Rates Inch Down to 7.137%: Nov. 10, 2026 - U.S. News - Money",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPclFFWXk3cFh5NzBXV3g2UGZuZi01dzMybGIwODItS080dGNjR2Z1bmFaR2hRRkhRZTN3OWliVFlaV2NKanBJRUsxVHJwbUJpZERyTXJqSGZNeUdyVFVIMHRzUnN0Tmdla2haSVJuUHJkVXVTX3NxYUtJNVg3dlpEY3dlbUxFaVZDMzhTZGRkRlY?oc=5",
+   "desc": "Today's Mortgage Rates Inch Down to 7.137%: Nov. 10, 2026  U.S. News - Money",
+   "source": "US Fed",
+   "publisher": "U.S. News - Money",
+   "scope": "world",
+   "ts": 1794325320000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzY2SktEWnE5aF9KNG9lLTB2a3hUY3NKal9CQUliZE9DNTUyNDB4R21EVUR3ZWNPZWFJcmxzbTNCNU1XZ1Y4R285OUNSZ0MxZlR3a045SGF1Q3JYWDU5Zm0xWXVTVmpkLUt0bGpRNEc1WmFzenh",
+   "title": "Ghana’s economic stability is real but not yet self-sustaining – IMF - MyJoyOnline",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzY2SktEWnE5aF9KNG9lLTB2a3hUY3NKal9CQUliZE9DNTUyNDB4R21EVUR3ZWNPZWFJcmxzbTNCNU1XZ1Y4R285OUNSZ0MxZlR3a045SGF1Q3JYWDU5Zm0xWXVTVmpkLUt0bGpRNEc1WmFzenhUY2t0MDMtWTBoa1NwVmhGVndMX3AwTDEwU0tBbzI0elNpd0tR?oc=5",
+   "desc": "Ghana’s economic stability is real but not yet self-sustaining – IMF  MyJoyOnline",
+   "source": "IMF / World Bank",
+   "publisher": "MyJoyOnline",
+   "scope": "world",
+   "ts": 1794323875000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa0JhOWFodE9fMUh4WnFHaTNBbmFtaDNIallfMktpLVcwRGg5SkVHX0NQUlF1eUVPSUJ2RlZwM2NSZjBZa1JiLWJCc09RY0w5b2NSSWJvWXM0OWJWWVJ5WHZNa3ZVc3lodjAwR0tMc0UwVXNROGk",
+   "title": "October Inflation Comes in Hotter Than Expected - Investopedia",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa0JhOWFodE9fMUh4WnFHaTNBbmFtaDNIallfMktpLVcwRGg5SkVHX0NQUlF1eUVPSUJ2RlZwM2NSZjBZa1JiLWJCc09RY0w5b2NSSWJvWXM0OWJWWVJ5WHZNa3ZVc3lodjAwR0tMc0UwVXNROGk0ZmpRamRER0M2ZFhWWVF4a0ZYZUMyT1YtalpMSF9FejB3TV9iX194dkV0d19GRnRhUTdsbUJWN3FGYw?oc=5",
+   "desc": "October Inflation Comes in Hotter Than Expected  Investopedia",
+   "source": "US Fed",
+   "publisher": "Investopedia",
+   "scope": "world",
+   "ts": 1794323818000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1WHVJRWJzcXVSVXFOcmVPN25JOFlXZ1gtWm1ZU1BDMVlSaC1PanVaeHJybmpfQWh1b3Y1M1lGel9vMHJYaDgzRnpBQ3Q5S2xEUklIb2ZrN2wwREd2bFlzX044MDBrSzc3cnRlU3FSSlpqalBMVzg",
+   "title": "Investors boost odds of half-point Fed hike as core CPI rise meets Waller's bar - Fresno Bee",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1WHVJRWJzcXVSVXFOcmVPN25JOFlXZ1gtWm1ZU1BDMVlSaC1PanVaeHJybmpfQWh1b3Y1M1lGel9vMHJYaDgzRnpBQ3Q5S2xEUklIb2ZrN2wwREd2bFlzX044MDBrSzc3cnRlU3FSSlpqalBMVzg1MkNtSUN0NWs?oc=5",
+   "desc": "Investors boost odds of half-point Fed hike as core CPI rise meets Waller's bar  Fresno Bee",
+   "source": "US Fed",
+   "publisher": "Fresno Bee",
+   "scope": "world",
+   "ts": 1794323580000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaDhCNmtXaUlKWkNBZUZBbTE0aURDTHBxdnZpTjFJNUs2cWpGYVJpek5IeWFsRXBWUXFwblpsY01SRm5ydFkwZGN1UmpvZnlnLUtJWE5NdDIzZ1lMQzROOHJ6RmY1MGZBQnFfeVB5WGNJR21iejF",
+   "title": "US Treasury yields surge as October CPI inflation exceeds forecasts - Beinsure",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaDhCNmtXaUlKWkNBZUZBbTE0aURDTHBxdnZpTjFJNUs2cWpGYVJpek5IeWFsRXBWUXFwblpsY01SRm5ydFkwZGN1UmpvZnlnLUtJWE5NdDIzZ1lMQzROOHJ6RmY1MGZBQnFfeVB5WGNJR21iejFBOWFIT1UtWnV5eUtDNmFkUVc1dThFcnpxaw?oc=5",
+   "desc": "US Treasury yields surge as October CPI inflation exceeds forecasts  Beinsure",
+   "source": "US Fed",
+   "publisher": "Beinsure",
+   "scope": "world",
+   "ts": 1794323205000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONjY0YmMzVGxhRXBRWlk1dEtmLWVDaWZ6ellTYURRdmE0VVVmZzJYZVNBeV9fb2w3ZGlHblV6STZYZ3luTS14VFY1ZmFNbjVUN0ZlSmVxR1dvbjh5Umh0aWlKc2tCYl93V0FGV1JqUU9UTlNyY1p",
+   "title": "Bank of America stock faces fresh inflation test ahead of Fed decision - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONjY0YmMzVGxhRXBRWlk1dEtmLWVDaWZ6ellTYURRdmE0VVVmZzJYZVNBeV9fb2w3ZGlHblV6STZYZ3luTS14VFY1ZmFNbjVUN0ZlSmVxR1dvbjh5Umh0aWlKc2tCYl93V0FGV1JqUU9UTlNyY1pidXgzZXV5c3ZwdS1QMThWMlBzVzd1ZWJMdTl6RS1WblN2M3RORDdjSTVsQkxMQ3A1bXpPaVdseFRyZDNCS1ZwUU04N1Z2Z3h5M0IxUUR0QTI5OHpRb3Q0QQ?oc=5",
+   "desc": "Bank of America stock faces fresh inflation test ahead of Fed decision  ad-hoc-news.de",
+   "source": "US Fed",
+   "publisher": "ad-hoc-news.de",
+   "scope": "world",
+   "ts": 1794322968000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2ltTTNtR1hCQS1BYVgyckdzb3JURm5uV19xMU90b2I3V25YRGN5ZThOQzlEbERCNWlVV3RNcU1UTnBzWmNzemFOLXEwMlQ3Ni0xbGd1LUpCcktOcHNVZEFfLUJRMEQzMHQzeUx6VlVyRldyVjJ",
+   "title": "US inflation rises more than expected, raising likelihood of Fed rate hike - Scripps News",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2ltTTNtR1hCQS1BYVgyckdzb3JURm5uV19xMU90b2I3V25YRGN5ZThOQzlEbERCNWlVV3RNcU1UTnBzWmNzemFOLXEwMlQ3Ni0xbGd1LUpCcktOcHNVZEFfLUJRMEQzMHQzeUx6VlVyRldyVjJTUFZCOFhtcmtzUzNsOEhkUXh0V1FMR2hwVFE1LTFVS0xheHIzbDNJQmY5QVBNYmJVeDlzYVhUNWFCd0Z3VVhDdzN6Z2c?oc=5",
+   "desc": "US inflation rises more than expected, raising likelihood of Fed rate hike  Scripps News",
+   "source": "US Fed",
+   "publisher": "Scripps News",
+   "scope": "world",
+   "ts": 1794322917000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWo2UHlxSDlLcGNITjBhSkhrVmNFMDZNZ29xNEdoZ045dWRUV3JoQXQ1MUZCRlNlbHBqMnh2cG1iWjN1STQzNy1OWTZSLXZONmdLZHp1V29LbWxUcnVQS0JwNFVtR3dmOXlDRVcxLXdHWldWek0",
+   "title": "US consumer prices rise above expectations in October - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWo2UHlxSDlLcGNITjBhSkhrVmNFMDZNZ29xNEdoZ045dWRUV3JoQXQ1MUZCRlNlbHBqMnh2cG1iWjN1STQzNy1OWTZSLXZONmdLZHp1V29LbWxUcnVQS0JwNFVtR3dmOXlDRVcxLXdHWldWek03TXRvU2x5aTgyR1hhVTIyb3R5NUVvdl93aEhHempGNUFtVFVfTQ?oc=5",
+   "desc": "US consumer prices rise above expectations in October  Reuters",
+   "source": "US Fed",
+   "publisher": "Reuters",
+   "scope": "world",
+   "ts": 1794322696000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONnRhQWtBaVR3TzVOYnNNcnpXcGRSSU40MWhVMVhOQzc1aGlFaDRxeEZZTFk5RzFBcUhfbmNHOXVqMTV0d2ZlNUt5Y0hvSnk4eWNQclM2UDg2TE5KRHFTejhWWDZicDBzaDMxUjVrOE9acXItb19",
+   "title": "Philip Lane says ECB rate hike in December would be prudent - Business Post",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONnRhQWtBaVR3TzVOYnNNcnpXcGRSSU40MWhVMVhOQzc1aGlFaDRxeEZZTFk5RzFBcUhfbmNHOXVqMTV0d2ZlNUt5Y0hvSnk4eWNQclM2UDg2TE5KRHFTejhWWDZicDBzaDMxUjVrOE9acXItb19sODRvZEdyMVRFZDNocUMxUGpaUEsxZEtDQi1sdkVsYzhSbjlHRjU?oc=5",
+   "desc": "Philip Lane says ECB rate hike in December would be prudent  Business Post",
+   "source": "ECB / Europe",
+   "publisher": "Business Post",
+   "scope": "world",
+   "ts": 1794322667000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNDB1OUxfdVFDWXdiQjJ0SDZYU0E2QnVhNmhfZVZiTGdLYkZaN3ZFdTBwN3RaX3pnMWNhSTdHRUFjSURaalMwdnVwWkl5X1VMZ255NWxtbzBSYW5fS2IzVkNOS2RWdW8tUXlEVks0b0J0N3FTa3U",
+   "title": "U.S. stocks stumble after a discouraging update on inflation - BNN Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNDB1OUxfdVFDWXdiQjJ0SDZYU0E2QnVhNmhfZVZiTGdLYkZaN3ZFdTBwN3RaX3pnMWNhSTdHRUFjSURaalMwdnVwWkl5X1VMZ255NWxtbzBSYW5fS2IzVkNOS2RWdW8tUXlEVks0b0J0N3FTa3U2LTlzN19KNmJ2R1hlTm5ZSGRjdG92cHdOOVFLTFM5QVdMZDVzclBqMGdUcXl5NTJKYnVIY0cwMkhxYW9TcEY3N3NCS3BCMFdMU0hiUWs?oc=5",
+   "desc": "U.S. stocks stumble after a discouraging update on inflation  BNN Bloomberg",
+   "source": "US Fed",
+   "publisher": "BNN Bloomberg",
+   "scope": "world",
+   "ts": 1794322629000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU01EQUhCT0RvYVd4djhWam5OZHl5TjJvVHgwWjBISUhObEplNk1rcHdNVzkwWHBHekJTMEFYUGlhbGV5YmpoRkE3S2E0bGVYME9tRnhDMWdxRjhLelhBNmd2Nk1XY0pmckdZbGE4alJyU3F1blB",
+   "title": "Consumer prices increased 0.4% in October, higher than expected - ABC7 New York",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU01EQUhCT0RvYVd4djhWam5OZHl5TjJvVHgwWjBISUhObEplNk1rcHdNVzkwWHBHekJTMEFYUGlhbGV5YmpoRkE3S2E0bGVYME9tRnhDMWdxRjhLelhBNmd2Nk1XY0pmckdZbGE4alJyU3F1blB4OFd3ZUVqQVcyLWc5QkozWG5FNjBGcFBzZ24?oc=5",
+   "desc": "Consumer prices increased 0.4% in October, higher than expected  ABC7 New York",
+   "source": "US Fed",
+   "publisher": "ABC7 New York",
+   "scope": "world",
+   "ts": 1794322567000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTM0hlaW1Oc0FQRUY5YXRsYlgyQVZIMDhlUnpob3ZiZU9DbF9LdE5ocmRGaXNrXzhSU3BDVmhyalFqSXp0WU1WamlZcTAyWUR1U2FEN1h5N1hvNVR6a1ZpeVhVZFktVDRIYXdDSzh0UXRVRVc3RUZ",
+   "title": "Broad Price Pressures Persisted in October, Firming Up Case for Fed Rate Increase - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTM0hlaW1Oc0FQRUY5YXRsYlgyQVZIMDhlUnpob3ZiZU9DbF9LdE5ocmRGaXNrXzhSU3BDVmhyalFqSXp0WU1WamlZcTAyWUR1U2FEN1h5N1hvNVR6a1ZpeVhVZFktVDRIYXdDSzh0UXRVRVc3RUZMdGZ3?oc=5",
+   "desc": "Broad Price Pressures Persisted in October, Firming Up Case for Fed Rate Increase  WSJ",
+   "source": "US Fed",
+   "publisher": "WSJ",
+   "scope": "world",
+   "ts": 1794322560000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQTNvUWhUQWFyaGVJc1ZPX1Q4b1FQcmFXTnlZQXF1QWdVZGVCYVBSRTRrR19SbDNWakdDQWdtLUx0X003REgxb3hmVlJnQWh1M21mdWhfRE5sSzduRTU4MmJKcC1vOThEaWFiMmhxc2FHM0dUWk9",
+   "title": "ECB’s Nagel Says December Rate Hike Is Looking ‘Rather Obvious’ - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQTNvUWhUQWFyaGVJc1ZPX1Q4b1FQcmFXTnlZQXF1QWdVZGVCYVBSRTRrR19SbDNWakdDQWdtLUx0X003REgxb3hmVlJnQWh1M21mdWhfRE5sSzduRTU4MmJKcC1vOThEaWFiMmhxc2FHM0dUWk9RdXJ6SmRGd0pINDZPcHNCUUgwekVHQkFGRXQzcTVaTHhCSVgyYXdhNlpZcFdXWGpDdzhIVFR1ZzMwU2Nn?oc=5",
+   "desc": "ECB’s Nagel Says December Rate Hike Is Looking ‘Rather Obvious’  Bloomberg.com",
+   "source": "US Fed",
+   "publisher": "Bloomberg.com",
+   "scope": "world",
+   "ts": 1794322481000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkZoTlZOa05oRHYwaUNCM1pDVHdhNnF3ajlxMzBBd1R0Z3plbEVKbm4xemxmbm1penlwS1hrY09URU4zbDZoZFlWV213ZnZkWVlseUE1U0JyeE8zQWpqcU9YVUlKbUJldG9NT21UVkpmN2F6eFl",
+   "title": "Fed’s Waller Backs December Rate Hike, Open to Larger Move - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkZoTlZOa05oRHYwaUNCM1pDVHdhNnF3ajlxMzBBd1R0Z3plbEVKbm4xemxmbm1penlwS1hrY09URU4zbDZoZFlWV213ZnZkWVlseUE1U0JyeE8zQWpqcU9YVUlKbUJldG9NT21UVkpmN2F6eFlWZWtiZlhrZUZGLUFpUTRlcmdWYnduUDB5MTNOY0xFQW5TSDZfaDNac0N5VVpuUE43WTJYeEZIZTBDbFRKdw?oc=5",
+   "desc": "Fed’s Waller Backs December Rate Hike, Open to Larger Move  Bloomberg.com",
+   "source": "US Fed",
+   "publisher": "Bloomberg.com",
+   "scope": "world",
+   "ts": 1794322463000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbHhIaWRzdk1aSzZmZHRVc2tnVzZkSFAzQjZtS3J3a2NwNnRKTTMwVXExRzk5cEVlQ3Ezd0xidEN0TmlCRjFlLWxtNU5VTDR0aVVZTDdZMGVDLXJLdHZEUXpTUTU3UHlYeUJaclV6Zmo0X0pwU3V",
+   "title": "Inflation remained elevated in October, cementing a Fed rate increase - Politico",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbHhIaWRzdk1aSzZmZHRVc2tnVzZkSFAzQjZtS3J3a2NwNnRKTTMwVXExRzk5cEVlQ3Ezd0xidEN0TmlCRjFlLWxtNU5VTDR0aVVZTDdZMGVDLXJLdHZEUXpTUTU3UHlYeUJaclV6Zmo0X0pwU3VJbFUxOVNOLU8zd2F6bHdLVFg1azBoWVFhVlNKWUc3dHptMEd0RFZQZ0lKZUNQTkEtaWJBV1k4SEhuaA?oc=5",
+   "desc": "Inflation remained elevated in October, cementing a Fed rate increase  Politico",
+   "source": "US Fed",
+   "publisher": "Politico",
+   "scope": "world",
+   "ts": 1794322380000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdjBQVFA0Nll1UzlIOTRoQVA1d2ZnRUtFSnFGNERjXzMtOG0tcmpfS1IxOGR4Vzk1bGpzbzZvejFZbW1Jc25VNFBWeEdhdk1lSVV2dmNUeXg5MVZObVg3R2dKX3BCdmFkX3dSNndwWmFlcUY2LW1",
+   "title": "US Stock Futures Trade Mixed With Focus on CPI, Anthropic IPO - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdjBQVFA0Nll1UzlIOTRoQVA1d2ZnRUtFSnFGNERjXzMtOG0tcmpfS1IxOGR4Vzk1bGpzbzZvejFZbW1Jc25VNFBWeEdhdk1lSVV2dmNUeXg5MVZObVg3R2dKX3BCdmFkX3dSNndwWmFlcUY2LW1EM19FeGZtWnhJWjhfX0ltZHlfWTI5eW1pR3hOZl96aW1xNXlPUnBoSy1pVmdxMjkxZTM3MDlLYm1sLQ?oc=5",
+   "desc": "US Stock Futures Trade Mixed With Focus on CPI, Anthropic IPO  Bloomberg.com",
+   "source": "US Fed",
+   "publisher": "Bloomberg.com",
+   "scope": "world",
+   "ts": 1794322130000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yY1puMmJtSGJhQldvMzg0d2RXa09JdzFnaUZLWkVmdzB3SVV3c2Y1dG1vRk53UlJEQUROUjR3UGFqLVNhOFRHRy1TRVJWWEdGTlNjVHlVR2gyZ0RhMWUzczV6c3R2MkFoYnF2QmZ5b3RBWkRFbUE",
+   "title": "Inflation remained elevated in October, CPI report shows - CBS News",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yY1puMmJtSGJhQldvMzg0d2RXa09JdzFnaUZLWkVmdzB3SVV3c2Y1dG1vRk53UlJEQUROUjR3UGFqLVNhOFRHRy1TRVJWWEdGTlNjVHlVR2gyZ0RhMWUzczV6c3R2MkFoYnF2QmZ5b3RBWkRFbUE?oc=5",
+   "desc": "Inflation remained elevated in October, CPI report shows  CBS News",
+   "source": "US Fed",
+   "publisher": "CBS News",
+   "scope": "world",
+   "ts": 1794321981000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc1FTTTJiNEoxQTJMUklYZjY1dm5mZlN2VDl2YzVLQWdhMURQOGpzcDRDNXo2eWlpYWNPTmlOQ1BSQzlodHZNU1RCVG84U3U1SXJpQ19yWFRxNEI0cTBGMkN6dWhrQmU4WjBtNGl5QTBLTVE0VmN",
+   "title": "US inflation higher than expected in October - here's what is happening with prices - Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc1FTTTJiNEoxQTJMUklYZjY1dm5mZlN2VDl2YzVLQWdhMURQOGpzcDRDNXo2eWlpYWNPTmlOQ1BSQzlodHZNU1RCVG84U3U1SXJpQ19yWFRxNEI0cTBGMkN6dWhrQmU4WjBtNGl5QTBLTVE0VmNYNWJiTEJGQmNBSVdRTXp0a1Q2SXEw?oc=5",
+   "desc": "US inflation higher than expected in October - here's what is happening with prices  Yahoo",
+   "source": "US Fed",
+   "publisher": "Yahoo",
+   "scope": "world",
+   "ts": 1794321950000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR3RjbDlfcXFBbHp0SVRSeHIzZHFTTnY5bjBuWGszTTMzUmxLUXNzRTFid29sbXV1emJSZWMwTEo4V2dWYjJ3TGlESmRlRzdFcDdQU3RxWi1QVEZrRlNBU0N3NG50WUNBWVdXbnZFS0RuVDNyRVd",
+   "title": "Fed's Waller plans to support at least a quarter-point rate hike in December - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR3RjbDlfcXFBbHp0SVRSeHIzZHFTTnY5bjBuWGszTTMzUmxLUXNzRTFid29sbXV1emJSZWMwTEo4V2dWYjJ3TGlESmRlRzdFcDdQU3RxWi1QVEZrRlNBU0N3NG50WUNBWVdXbnZFS0RuVDNyRVdGWm1aRjFjWGRlRFRoTFhlbFMwQ1NjbTZMd2x0cnlHR0F4d2JNV3dKcHFOOE5TRFVsSlc5ekxoQ0E?oc=5",
+   "desc": "Fed's Waller plans to support at least a quarter-point rate hike in December  Reuters",
+   "source": "US Fed",
+   "publisher": "Reuters",
+   "scope": "world",
+   "ts": 1794321690000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdDhpTnBQNXBzblRwbWJubnhvWWkxM3NnVG9iLVRUMG94NEw1NXJ2by1CeUV6LVczY2tFU3QyaG1mWlY2a2tSM2xOcUF4TXlmd3I1Vm14ZGl0NUlKcDNXTW1FMVNHZnhaQzMxTE0tSDBMdHIwTTE",
+   "title": "Bitcoin Falls Below $74K After Hot US Inflation Fuels Fed Rate Hike Bets – Solana, Ethereum, XRP Hit Harder - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdDhpTnBQNXBzblRwbWJubnhvWWkxM3NnVG9iLVRUMG94NEw1NXJ2by1CeUV6LVczY2tFU3QyaG1mWlY2a2tSM2xOcUF4TXlmd3I1Vm14ZGl0NUlKcDNXTW1FMVNHZnhaQzMxTE0tSDBMdHIwTTE1T19VelFkS2FidWQ0U0JkWDNiMU13ZjJENTUyRE5zd0xR?oc=5",
+   "desc": "Bitcoin Falls Below $74K After Hot US Inflation Fuels Fed Rate Hike Bets – Solana, Ethereum, XRP Hit Harder  Yahoo Finance",
+   "source": "US Fed",
+   "publisher": "Yahoo Finance",
+   "scope": "world",
+   "ts": 1794321604000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOE5Fb25WNUtFQ1o4aUhYSmxRZ2Fja2hWR2JfWWk3YkU0bnF5SEo1WmhnbDlENnN0YklodkM3SldHSl9odWY4aDJ6MDlkTWRDT2tCWmdoQVdQN0htWUU0M0Jpd0FyOUlUWnhvT2ZGOWpBZXB1emx",
+   "title": "US inflation slows in October but persistent core pressures keep Fed rate hike on the table - Economies.com",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOE5Fb25WNUtFQ1o4aUhYSmxRZ2Fja2hWR2JfWWk3YkU0bnF5SEo1WmhnbDlENnN0YklodkM3SldHSl9odWY4aDJ6MDlkTWRDT2tCWmdoQVdQN0htWUU0M0Jpd0FyOUlUWnhvT2ZGOWpBZXB1emxmOC1KU08yNDhsTmRGWDRRemNLVzNmbWlZWG1GX0YtQVNXY3VfR2JBNTNEck9DMUZNVXVzUEdLRVY4U2pDT05ia3hZaHo1MFVGRDVRdzl1NVpETUlDVWdEdFg1RE1zOTFsS21mU0F4VkNBZGRFRQ?oc=5",
+   "desc": "US inflation slows in October but persistent core pressures keep Fed rate hike on the table  Economies.com",
+   "source": "US Fed",
+   "publisher": "Economies.com",
+   "scope": "world",
+   "ts": 1794321420000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaGgwYzFvYzY1cndpc3FZRGZjLXRQTFp0WlktcmQwS2d6T1VhVVRBWkdpclUxd3Bvd1A4bWZOendzNXdhdmdtTnJ6S3AxMVNJN0hUbnRDZEF0NHE5QWtOZFUxc2JuZm1qbklMRjBtb2xmWlVSWVd",
+   "title": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaGgwYzFvYzY1cndpc3FZRGZjLXRQTFp0WlktcmQwS2d6T1VhVVRBWkdpclUxd3Bvd1A4bWZOendzNXdhdmdtTnJ6S3AxMVNJN0hUbnRDZEF0NHE5QWtOZFUxc2JuZm1qbklMRjBtb2xmWlVSWVdNckxNSFQ3cnZLeC1KU1lrb2lBTFNKN2J1Uy1OYmRSczRoQmZsZlBtaHZPYzdnM1NSZTR5ODdsbEVV?oc=5",
+   "desc": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll  Reuters",
+   "source": "US Fed",
+   "publisher": "Reuters",
+   "scope": "world",
+   "ts": 1794321308000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVW1uRVplSWZvRHE3NzVDb2ZoSmNGYmNsQUdSR0xyeDVyc2Z1em9XMjFhSUNacThIa0NZRHpNMVNRYjJKWFkwNk5GYkVfcTNhVzdfZmJCcTVrcVBfdlpXYV83dzF2S19SUzF0c3NaSGYtR0xldzF",
+   "title": "Mortgage rates set to rise as October CPI tops forecasts - Mortgage Professional America",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVW1uRVplSWZvRHE3NzVDb2ZoSmNGYmNsQUdSR0xyeDVyc2Z1em9XMjFhSUNacThIa0NZRHpNMVNRYjJKWFkwNk5GYkVfcTNhVzdfZmJCcTVrcVBfdlpXYV83dzF2S19SUzF0c3NaSGYtR0xldzFHUXFIaml4ZDVlUHl5MGRfZHp4a0lYbHB5S3dySXVmenJxMnFBUFlpM1hMY3ZONXZtMTBjbnA3YXRkWFhXREItdS1mY2FPRkdmeG0?oc=5",
+   "desc": "Mortgage rates set to rise as October CPI tops forecasts  Mortgage Professional America",
+   "source": "US Fed",
+   "publisher": "Mortgage Professional America",
+   "scope": "world",
+   "ts": 1794321232000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXVKNll2bkFUUU5EVDg4eTF6a3YwZ0pIS0d4bGFTdkItMkl3SkFCbGRiZFdzSmlidHZZN3I1YzF1VkVXYlM0dDJrRlRPeDRGYXp6cVBuRGVjbl9vNWxrdlRYLTl4NTRxMnRFcGtuOUROekFvUUs",
+   "title": "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXVKNll2bkFUUU5EVDg4eTF6a3YwZ0pIS0d4bGFTdkItMkl3SkFCbGRiZFdzSmlidHZZN3I1YzF1VkVXYlM0dDJrRlRPeDRGYXp6cVBuRGVjbl9vNWxrdlRYLTl4NTRxMnRFcGtuOUROekFvUUsxdTE1R3IwWmRKRVlUVFpFTlY0WXNlWTZTa1hIdmV1?oc=5",
+   "desc": "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap  Bloomberg.com",
+   "source": "US Fed",
+   "publisher": "Bloomberg.com",
+   "scope": "world",
+   "ts": 1794321223000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMV9KcWI5c2M1SUtTN05QeTlIMEhRR3psTDhFYWRtWnlNMVFkd1lITGRDRTQ5bUE1OHRFUHlNTDVFZ05qN1NiVGx1SWhjeG9pQUMwZndBTEoteTJmMVp1VkhsMFNRN1lodFdWMWVXeHlReFhsall",
+   "title": "Inflation slowed in October, but annual data missing after shutdown - USA Today",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMV9KcWI5c2M1SUtTN05QeTlIMEhRR3psTDhFYWRtWnlNMVFkd1lITGRDRTQ5bUE1OHRFUHlNTDVFZ05qN1NiVGx1SWhjeG9pQUMwZndBTEoteTJmMVp1VkhsMFNRN1lodFdWMWVXeHlReFhsallJUEs4dlIwUWV4b1lqNVNnXzQ4T0QtVzdKdDZ0bHNBdGFWMjJnSTRxZHlMTF80aFFhcGpTNjBTUWF4eVVES0JrNkVLZ0hqSXBvcHJtdjN1NVE?oc=5",
+   "desc": "Inflation slowed in October, but annual data missing after shutdown  USA Today",
+   "source": "US Fed",
+   "publisher": "USA Today",
+   "scope": "world",
+   "ts": 1794321060000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UMUtoVXdvYjhUN2JkS3JvSzJGNlotWUJQZF9jSnNuTDNfRk9DTVE0SXNxWWFENUw1N1hhSXAwYkR6NEZmOVA1RzBXdmN4djlDdGppbjRYSlNFN0Q3M3Z3MXlMTWprRVdxM2lNMVVOS3JNLUx5TnN",
+   "title": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UMUtoVXdvYjhUN2JkS3JvSzJGNlotWUJQZF9jSnNuTDNfRk9DTVE0SXNxWWFENUw1N1hhSXAwYkR6NEZmOVA1RzBXdmN4djlDdGppbjRYSlNFN0Q3M3Z3MXlMTWprRVdxM2lNMVVOS3JNLUx5TnNjTERFdHVGdw?oc=5",
+   "desc": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped  The Guardian",
+   "source": "US Fed",
+   "publisher": "The Guardian",
+   "scope": "world",
+   "ts": 1794320940000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRG9URW9SZFc5UzNZdlhTOGpCRjEyYjlhWjZ4OW5kaDFHdkRSOGhPWm1NaGdVUGRkSUFKVmppeTV6NXV3c2J0OHJyMjhxQ0djaTA4bUZrSXBYMEltUHYtcnpmalI3OU1tc29ZSklna2U0aGQ2NUJ",
+   "title": "Bitcoin price falls below $74,000 as hot US CPI fuels Fed rate hike fears - Crypto News",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRG9URW9SZFc5UzNZdlhTOGpCRjEyYjlhWjZ4OW5kaDFHdkRSOGhPWm1NaGdVUGRkSUFKVmppeTV6NXV3c2J0OHJyMjhxQ0djaTA4bUZrSXBYMEltUHYtcnpmalI3OU1tc29ZSklna2U0aGQ2NUJEWjJfbW85d0J4R2ZqdFFVeUlva1VBaGVBUXpOUGtYNHdZ?oc=5",
+   "desc": "Bitcoin price falls below $74,000 as hot US CPI fuels Fed rate hike fears  Crypto News",
+   "source": "US Fed",
+   "publisher": "Crypto News",
+   "scope": "world",
+   "ts": 1794320717000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUmE4Qkd5cWZfby1MaTFyVDA0Y25BbllwNzZZRGQ0NTFkRW5kNmtjZExSLV83ZWJuS3BVN3d0WVg4c2N6OXNnazBWa3VWc052Snk3OFZrX1JENzBpc0wtYUZhX3Y1Nnc3MVcycEU5dzJSNDU2ekg",
+   "title": "Gold, stocks slide as stronger US inflation fuels Fed rate hike bets - Türkiye Today",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUmE4Qkd5cWZfby1MaTFyVDA0Y25BbllwNzZZRGQ0NTFkRW5kNmtjZExSLV83ZWJuS3BVN3d0WVg4c2N6OXNnazBWa3VWc052Snk3OFZrX1JENzBpc0wtYUZhX3Y1Nnc3MVcycEU5dzJSNDU2ekgycmZqbGJZWEY0WllucWRtSUNRTmxIck1QVVl5eXhiQlg4Z3ZhaWlCY3FzZDZmQzZpUVotUGFqOEMzTmN3Yw?oc=5",
+   "desc": "Gold, stocks slide as stronger US inflation fuels Fed rate hike bets  Türkiye Today",
+   "source": "US Fed",
+   "publisher": "Türkiye Today",
+   "scope": "world",
+   "ts": 1794320190000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNcmRPbzF5T0tQck1mQm5sTm5PQXBSbTMxc0Y4aTZDN3Q2eU03eS1DdV9URzVPbzh1ZUdkM0ZEdG5ENWNuS0hXY1NPaEh2a2U1ZVJsZ2RZOFJUUU9GTUg0WDMxYXNucEVxd0tXQ1pTdTFNQnZGQmI",
+   "title": "Dollar strengthens after US inflation data boosts Fed rate-hike expectations - Central Oregon Daily",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNcmRPbzF5T0tQck1mQm5sTm5PQXBSbTMxc0Y4aTZDN3Q2eU03eS1DdV9URzVPbzh1ZUdkM0ZEdG5ENWNuS0hXY1NPaEh2a2U1ZVJsZ2RZOFJUUU9GTUg0WDMxYXNucEVxd0tXQ1pTdTFNQnZGQmIteVU1c1Jjb0RXUV9NbXJkODFlZFE2QUZZOXRwQzg2bHI5UGl2ZVJ2TURkSWZSMmZNUlNBOGc3bWZzc3dpZ1ZqNWxnbVBjczhBbjlKTHdRZFU1QzNDMk1JblM2RGEyVjYzRUh0N25FWWg5eVNodEx3dUhZUEwzbDdSdWtCU3BHUXFOY2FXYk5UeTliTGNlbk9n?oc=5",
+   "desc": "Dollar strengthens after US inflation data boosts Fed rate-hike expectations  Central Oregon Daily",
+   "source": "US Fed",
+   "publisher": "Central Oregon Daily",
+   "scope": "world",
+   "ts": 1794320043000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWZxX1NKb3NlaFNCOHJlcE1kN2NRZjh0OEVaM3hQS1dQX0t4VkFadURVZzJhVE45Mlk0a2RWajItRjdDdWxBSU1mcWZBYng4cnBFUTNSSWE3VnQyOUE0WnRVWGtpcFNZejlNWlJLelgwNk9hWjR",
+   "title": "Gold Holds Gain Above $4,100 as Lower Oil Eases Inflation Woes - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWZxX1NKb3NlaFNCOHJlcE1kN2NRZjh0OEVaM3hQS1dQX0t4VkFadURVZzJhVE45Mlk0a2RWajItRjdDdWxBSU1mcWZBYng4cnBFUTNSSWE3VnQyOUE0WnRVWGtpcFNZejlNWlJLelgwNk9hWjRsZ3ZyYU1ERnQ1cS1VRWk5dG1PcUJoU01SeURPQUZoN3RnVEFTM1FkVzRORU9PWUpHN20wYXZpOU9jNGd3?oc=5",
+   "desc": "Gold Holds Gain Above $4,100 as Lower Oil Eases Inflation Woes  Bloomberg.com",
+   "source": "US Fed",
+   "publisher": "Bloomberg.com",
+   "scope": "world",
+   "ts": 1794319891000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNGlIZGYwOERQM19hR3JwM1Z5ZmQta1AtZllqXzhNUzlSUDlRUkxTWmRnSjdReVF3LW1RcEVEeVBEVDYxVXRNSWpSV3A1akhBREMzMWdKN0Y3ajlEd19feDZhT3hCNkRBUTRIUzJHR3o5ZGluUVB",
+   "title": "U.S. Stock Futures Retreat as October CPI Exceeds Forecasts and Fed Rate Hike Expectations Increase: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNGlIZGYwOERQM19hR3JwM1Z5ZmQta1AtZllqXzhNUzlSUDlRUkxTWmRnSjdReVF3LW1RcEVEeVBEVDYxVXRNSWpSV3A1akhBREMzMWdKN0Y3ajlEd19feDZhT3hCNkRBUTRIUzJHR3o5ZGluUVBwbnlOQklkWjRfdzJ4TnlQbVE?oc=5",
+   "desc": "U.S. Stock Futures Retreat as October CPI Exceeds Forecasts and Fed Rate Hike Expectations Increase: Dow Jones, S&P, Nasdaq, Wall Street  Yahoo Finance UK",
+   "source": "US Fed",
+   "publisher": "Yahoo Finance UK",
+   "scope": "world",
+   "ts": 1794319768000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNakhlWTNmM0VfenRXLXZLN3MwVmJLQ2szVXlYemhVZXJHNURHTXNwWFNCVDBPajZuU09JSlpseEFyeHYtSF9wTUdDMHliemNQc2dKc2phVTRKaDBla0xpeWdkUFYwb1hmYWpNMS1NMTZUOTdlVFB",
+   "title": "Wall Street Futures Decline as Higher-Than-Expected October Inflation Raises Fed Rate Concerns: Dow Jones, S&P, Nasdaq - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNakhlWTNmM0VfenRXLXZLN3MwVmJLQ2szVXlYemhVZXJHNURHTXNwWFNCVDBPajZuU09JSlpseEFyeHYtSF9wTUdDMHliemNQc2dKc2phVTRKaDBla0xpeWdkUFYwb1hmYWpNMS1NMTZUOTdlVFBXN1Ntbml0WW9VcFhkZkxUQVZVYWtGdUxhS0t6QTdWbHl5LTVnMG9abFA2?oc=5",
+   "desc": "Wall Street Futures Decline as Higher-Than-Expected October Inflation Raises Fed Rate Concerns: Dow Jones, S&P, Nasdaq  Yahoo Finance",
+   "source": "US Fed",
+   "publisher": "Yahoo Finance",
+   "scope": "world",
+   "ts": 1794319710000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDFiV1RjWnozMXB5MC1HZ3d3d2dFSWFPaGdlUFM5ZjNtRElnU1Q5MDdVTXRNNW1kMzVlWVJVR2xRYnpBLUR2eHlhRmF3OUlFMm1ZU0JHamF4WkJDcjhpQXY1dmY2dGlhYk1QRV9haVdZVWljdGV",
+   "title": "Hot October CPI Report Clears the Way for a December Rate Hike - Kiplinger",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDFiV1RjWnozMXB5MC1HZ3d3d2dFSWFPaGdlUFM5ZjNtRElnU1Q5MDdVTXRNNW1kMzVlWVJVR2xRYnpBLUR2eHlhRmF3OUlFMm1ZU0JHamF4WkJDcjhpQXY1dmY2dGlhYk1QRV9haVdZVWljdGVvZlZ6OWdHX0djZFlqT3lMbmZMb1E?oc=5",
+   "desc": "Hot October CPI Report Clears the Way for a December Rate Hike  Kiplinger",
+   "source": "US Fed",
+   "publisher": "Kiplinger",
+   "scope": "world",
+   "ts": 1794319250000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEVnNUVHb3VNQ3IweGNsWTBuYVkxUUpuOE1YVDBIcDJNYmxLb2pYa3JmSE5pOFJUVjAtMDJnamtaZXlCZHdUZGh6S0ZydFRnODE4azZwWWQyV3pHbUsxVHBBYWU5MUJTLV9pZUwxZjFCdjJGMUE",
+   "title": "Hot October inflation report rattles markets - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEVnNUVHb3VNQ3IweGNsWTBuYVkxUUpuOE1YVDBIcDJNYmxLb2pYa3JmSE5pOFJUVjAtMDJnamtaZXlCZHdUZGh6S0ZydFRnODE4azZwWWQyV3pHbUsxVHBBYWU5MUJTLV9pZUwxZjFCdjJGMUEwVnZ4a3dkRmVqMlE3cEh1dDV3emNmdE12T3FPZmlkTWV6Z3lmMFpHWThYSmRR?oc=5",
+   "desc": "Hot October inflation report rattles markets  Yahoo Finance",
+   "source": "US Fed",
+   "publisher": "Yahoo Finance",
+   "scope": "world",
+   "ts": 1794319220000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakFPZlVwd2pvZDUwU0IzS3I3bHNNTlJOV3JRUXpyTEstS0FRN2JHeDE1R2J6cWxBU3o4SWI2SWhLNTdmdDZzTl9Na3lSLVdqcDd1c0RtSHllU3dSRk04aGNqWmZnbVQxdVVDRmhzcmlJU2tHUnJ",
+   "title": "Treasuries Slide as Hot US Inflation Cements December Rate Bets - Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakFPZlVwd2pvZDUwU0IzS3I3bHNNTlJOV3JRUXpyTEstS0FRN2JHeDE1R2J6cWxBU3o4SWI2SWhLNTdmdDZzTl9Na3lSLVdqcDd1c0RtSHllU3dSRk04aGNqWmZnbVQxdVVDRmhzcmlJU2tHUnJWQ1JNNzhmNXZITHJmdFpOZWdrWWdvam95YWpvd1ZxWDlROG5Za185MW1fWjFqb05QYmhzRDhpY0NHT3dMeWQ?oc=5",
+   "desc": "Treasuries Slide as Hot US Inflation Cements December Rate Bets  Bloomberg.com",
+   "source": "US Fed",
+   "publisher": "Bloomberg.com",
+   "scope": "world",
+   "ts": 1794319212000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3V2NkODFseFVwNGVHSURpQTBYYXdjRjBQaXR5QXFzZTRnZUFXX29jTnIxQk41Z1FlOFdGQzdHeTNxbi1kT19GMmhGU3JUTGd6?oc=5",
+   "title": "US core CPI rises by more than forecast, supporting Fed hike - The Edge Malaysia",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3V2NkODFseFVwNGVHSURpQTBYYXdjRjBQaXR5QXFzZTRnZUFXX29jTnIxQk41Z1FlOFdGQzdHeTNxbi1kT19GMmhGU3JUTGd6?oc=5",
+   "desc": "US core CPI rises by more than forecast, supporting Fed hike  The Edge Malaysia",
+   "source": "US Fed",
+   "publisher": "The Edge Malaysia",
+   "scope": "world",
+   "ts": 1794319022000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRlVkSkN2OE01YXdvUm54cUdMRHc3cGczRlpDSWwzYm15djY1bG1HZHJ3cnUwOEI3eHNmQ2lGU2tqWWVtR0RBQV82TWRsTXBneEdEWTVvTFpFQ0JvN2Z1V1hqOW9wWURiS2d2NUFLeTdjUmx0blR",
+   "title": "Hotter-than-expected October inflation report cements December rate hike for Fed - AOL.com",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRlVkSkN2OE01YXdvUm54cUdMRHc3cGczRlpDSWwzYm15djY1bG1HZHJ3cnUwOEI3eHNmQ2lGU2tqWWVtR0RBQV82TWRsTXBneEdEWTVvTFpFQ0JvN2Z1V1hqOW9wWURiS2d2NUFLeTdjUmx0blRFRFE4U3pLaGJmUWJJQWR5VVN3YnFudQ?oc=5",
+   "desc": "Hotter-than-expected October inflation report cements December rate hike for Fed  AOL.com",
+   "source": "US Fed",
+   "publisher": "AOL.com",
+   "scope": "world",
+   "ts": 1794318811000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdVhDOGVYYWQ2UTZWTTNaQ001aTZLWU55RXZraGMwSmZIT08yY0NqTGp2azNOeFJVc3AzeUJ4Q3owYTVTR3pfRHF6T29KQWlZYnBmNGJfSlVJRHc1ZVRXX212eEtubWFoR1VlOVU5aHY4d0J3N09",
+   "title": "Gold plunges over 2% as US inflation exceeds expectations - Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdVhDOGVYYWQ2UTZWTTNaQ001aTZLWU55RXZraGMwSmZIT08yY0NqTGp2azNOeFJVc3AzeUJ4Q3owYTVTR3pfRHF6T29KQWlZYnBmNGJfSlVJRHc1ZVRXX212eEtubWFoR1VlOVU5aHY4d0J3N09tMko3c0VHR2ZZSUZTdXlFQjJYRWVzZHczelBlSTdQSU1QOXBERk00dw?oc=5",
+   "desc": "Gold plunges over 2% as US inflation exceeds expectations  Anadolu Ajansı",
+   "source": "US Fed",
+   "publisher": "Anadolu Ajansı",
+   "scope": "world",
+   "ts": 1794318736000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEhSRlVuajZGOUk0VldnM1BoQkRDUklocXBpbzhXQzI0VFBKNW02bHZnNENFT3A5bTBYeHRTZGhvYUpLamx0X2JibmR0eFJUa1RGYkRGQkJ0R2xUSEFFdXBSSTFCb0JRNU1ETEx2M1FUYUNaV1Z",
+   "title": "Inflation hotter than expected in October as energy, food prices surge - New York Post",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEhSRlVuajZGOUk0VldnM1BoQkRDUklocXBpbzhXQzI0VFBKNW02bHZnNENFT3A5bTBYeHRTZGhvYUpLamx0X2JibmR0eFJUa1RGYkRGQkJ0R2xUSEFFdXBSSTFCb0JRNU1ETEx2M1FUYUNaV1ZpX2pSUHJEWTJ5SDFmUHFQai1xLW9tQTlBc2JzdER6eU51dUhCemxXNW5rcnZSOTVrNXM3N01FSDk4cW51QUNxdw?oc=5",
+   "desc": "Inflation hotter than expected in October as energy, food prices surge  New York Post",
+   "source": "US Fed",
+   "publisher": "New York Post",
+   "scope": "world",
+   "ts": 1794318540000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nQV9sY25OVG4ySXB5WWl5UWNIM0N4RWdUWFk5bk9hV1J3TkJ3VTM4T0VrR2c1a3R4UHZUd1Q2RGNmWlVlLUcyX3l1QjNMQk16TTliaEU0d2lMZ2FOSEpyVTFOTkVyNHREbHNFS1h0MTVoMTJ2WW9",
+   "title": "Prices rose slightly in October: BLS - WFLA",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nQV9sY25OVG4ySXB5WWl5UWNIM0N4RWdUWFk5bk9hV1J3TkJ3VTM4T0VrR2c1a3R4UHZUd1Q2RGNmWlVlLUcyX3l1QjNMQk16TTliaEU0d2lMZ2FOSEpyVTFOTkVyNHREbHNFS1h0MTVoMTJ2WW9wV2taY9IBgAFBVV95cUxNOHpIdG5HUUFob0ZBRkNVMkxYeF9ET1JsOE56cGZBT1dNNklQZ2xxcHNOc0pTRVE0cHAybGluQzRYd1Y4ek5SeHd5d18xRk5GQ05sMzAwX0hKWEpabVFUeHhsYWNEbEdULXRUQ29IOEMzd3JWQ29MdzNZSjFKZXZmaw?oc=5",
+   "desc": "Prices rose slightly in October: BLS  WFLA",
+   "source": "US Fed",
+   "publisher": "WFLA",
+   "scope": "world",
+   "ts": 1794318472000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYTBKeGg0a0F6c2JpLVlBTU5mZjBzeDR3VHZDTnZvV3BZVlRJQnJhWjNIYjhqS1VKTXFESGdDU1FoOGxUa25QOFJHQ0YwS1RnS3R2ME44NjNvWExHN1FyZGNnVUttX3RBRXFqRUhkTzgzeFFpaFF",
+   "title": "Breaking: US Consumer Price Index rises 0.4% MoM in October vs. 0.3% expected - FXStreet",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYTBKeGg0a0F6c2JpLVlBTU5mZjBzeDR3VHZDTnZvV3BZVlRJQnJhWjNIYjhqS1VKTXFESGdDU1FoOGxUa25QOFJHQ0YwS1RnS3R2ME44NjNvWExHN1FyZGNnVUttX3RBRXFqRUhkTzgzeFFpaFFQYlNranA1OVJyNkNnLTN2NDBrbWlQd1J3VHNITkRaRGN4V2NWRlBST1ZpZkg3dXhFNG9Wako1MFZ5UWkyUF9kMzZQMERvUzRxR2R3Zw?oc=5",
+   "desc": "Breaking: US Consumer Price Index rises 0.4% MoM in October vs. 0.3% expected  FXStreet",
+   "source": "US Fed",
+   "publisher": "FXStreet",
+   "scope": "world",
+   "ts": 1794317802000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFa1JkU3pHTFRwbHVOOXZnSVhKdUlJV2tfY1JYWEQ0ZEZ3ZWdvcXg2ZUFwV2RScHcwZXlYd0N2T0lNTWhKSkkzUklTTGJYbHcwLVNWSUltcHphb0ZERjhJRktfRWFjRGI2ZHFkUDZ4djNKVk8zVEZ",
+   "title": "CPI Report Shows Prices Outside Food and Energy Hot Enough for Talk of a Bigger Rate Rise - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFa1JkU3pHTFRwbHVOOXZnSVhKdUlJV2tfY1JYWEQ0ZEZ3ZWdvcXg2ZUFwV2RScHcwZXlYd0N2T0lNTWhKSkkzUklTTGJYbHcwLVNWSUltcHphb0ZERjhJRktfRWFjRGI2ZHFkUDZ4djNKVk8zVEZPbw?oc=5",
+   "desc": "CPI Report Shows Prices Outside Food and Energy Hot Enough for Talk of a Bigger Rate Rise  Stock Titan",
+   "source": "US Fed",
+   "publisher": "Stock Titan",
+   "scope": "world",
+   "ts": 1794317702000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMElsUjhVZ2poZ1VJSGFjeXdXUktZbjlic09ZanBReTBTaGl5aFgwRTlTa1EzT1c0TmFpRkdrUzh3T2pha1NnOE5KenN1LV9FZjBxVHgxdVhUUzh0V3RicEtkUFN1RjZYMFFZQW9IeElGNEFMTkt",
+   "title": "IMF Expert Warns Curaçao Must Strengthen Its Economy Against Growing Global Uncertainty - Curaçao Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMElsUjhVZ2poZ1VJSGFjeXdXUktZbjlic09ZanBReTBTaGl5aFgwRTlTa1EzT1c0TmFpRkdrUzh3T2pha1NnOE5KenN1LV9FZjBxVHgxdVhUUzh0V3RicEtkUFN1RjZYMFFZQW9IeElGNEFMTktaa2EzcHBtQ3Ewc1VEUFA0dTdLaFptNmNmR3hybnhfeE9CRHV6ZWxyT0FlRFF6bkZ3WEJsNVczOXpfTDhuNl9TU01JWnY3RVBUMEhOcHJXWndUUWlIVQ?oc=5",
+   "desc": "IMF Expert Warns Curaçao Must Strengthen Its Economy Against Growing Global Uncertainty  Curaçao Chronicle",
+   "source": "IMF / World Bank",
+   "publisher": "Curaçao Chronicle",
+   "scope": "world",
+   "ts": 1794317698000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHFNQ2h0OXJRbGQxN2dWLVp5bV96cVdoejZvN0U4WmlWVmw5dTZYbWtraGpleXA1REZtaERNRDE5ODg4TFpQQk0xZjd2bWR6WHptbDBSM3UwbWJxbGVNdm9SbFVoUVFXVFlnQ3V4TFk5RXBLS24",
+   "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3% - CoinDesk",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHFNQ2h0OXJRbGQxN2dWLVp5bV96cVdoejZvN0U4WmlWVmw5dTZYbWtraGpleXA1REZtaERNRDE5ODg4TFpQQk0xZjd2bWR6WHptbDBSM3UwbWJxbGVNdm9SbFVoUVFXVFlnQ3V4TFk5RXBLS24yUHExT2FBc2FjM0xYclpZUFZhUFJNTURKUkNPUV90QXJHQkhNLTROd05DNHJsMmttWjVlb1JVZU9zWGdYTQ?oc=5",
+   "desc": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%  CoinDesk",
+   "source": "US Fed",
+   "publisher": "CoinDesk",
+   "scope": "world",
+   "ts": 1794317605000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sRXhidGNwejMxdTlFZnRZRzRxSWI2R2w4MzRUcnRIWmhqdUlHMmZaN0ZlaHpNbFp5RzFNQlZfU2hJOWNtVjU2ZzZybU5jYk9lOGtwUFg3dHhDTTVaeUFWdlhNTS11aHVTQV9wZ3k0S3JscjBIZnh",
+   "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sRXhidGNwejMxdTlFZnRZRzRxSWI2R2w4MzRUcnRIWmhqdUlHMmZaN0ZlaHpNbFp5RzFNQlZfU2hJOWNtVjU2ZzZybU5jYk9lOGtwUFg3dHhDTTVaeUFWdlhNTS11aHVTQV9wZ3k0S3JscjBIZnhNeFlB?oc=5",
+   "desc": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight  CNBC",
+   "source": "US Fed",
+   "publisher": "CNBC",
+   "scope": "world",
+   "ts": 1794317468000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOV9mS1BKa1d2YmFyNkpBcmVzdzQwbF82bFh5RjRZSVcyeDZ0V1QyQ0xiSUY4SW9pQUZfbkpaWW1wbkVfb3pWcEY5bzFiX29VenI1X2hiQk02V00zSElkS015bDVxWkNJX3dFbjlMNWJVdVNMeGN",
+   "title": "Gold prices down 2% on the day as US CPI rises more than expected - Kitco",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOV9mS1BKa1d2YmFyNkpBcmVzdzQwbF82bFh5RjRZSVcyeDZ0V1QyQ0xiSUY4SW9pQUZfbkpaWW1wbkVfb3pWcEY5bzFiX29VenI1X2hiQk02V00zSElkS015bDVxWkNJX3dFbjlMNWJVdVNMeGNzSWFlRFdlYzVqQ2Z0MHcybG1CUExJR3dOLVQ1Vm44ZExPWFBlYw?oc=5",
+   "desc": "Gold prices down 2% on the day as US CPI rises more than expected  Kitco",
+   "source": "US Fed",
+   "publisher": "Kitco",
+   "scope": "world",
+   "ts": 1794317446000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmR2Y2NpRWZRMFc5WlRrZTJiWWk5bi1JcVV4MWlCVmNOckVkUkdqQXNFSjJOdzVPYTYtdk9SRmlpbnlEaTJpSlRKQ1BUWGtCa3Q1dDdlU05BNXZsQmxONGJaTVNNZFU4c2I2eG1IRzU1d0l3Wnd",
+   "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000 - NPR",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmR2Y2NpRWZRMFc5WlRrZTJiWWk5bi1JcVV4MWlCVmNOckVkUkdqQXNFSjJOdzVPYTYtdk9SRmlpbnlEaTJpSlRKQ1BUWGtCa3Q1dDdlU05BNXZsQmxONGJaTVNNZFU4c2I2eG1IRzU1d0l3WndVa1U0dklyWnRDOU9EdEk?oc=5",
+   "desc": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000  NPR",
+   "source": "US Fed",
+   "publisher": "NPR",
+   "scope": "world",
+   "ts": 1794317400000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY0RaR1BiUGVfMmFobzNSeUtocGNybFl2UlRjVFZiTExjQ3JsR2pRekJESXNhX3FKMnJDaFc2ZGJNV3RFQmV3NnJPbFdQZmFhcFR6QnNLVWVNdkZnLXZEa1Q2ZTk3RGxZdmFFazZPMXFRcG1RMXp",
+   "title": "Fallen govt left economy in ICU: Titumir - Daily Sun",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY0RaR1BiUGVfMmFobzNSeUtocGNybFl2UlRjVFZiTExjQ3JsR2pRekJESXNhX3FKMnJDaFc2ZGJNV3RFQmV3NnJPbFdQZmFhcFR6QnNLVWVNdkZnLXZEa1Q2ZTk3RGxZdmFFazZPMXFRcG1RMXpnQWxTRnlyUHFzSWs2SkZnZGpHUmh3?oc=5",
+   "desc": "Fallen govt left economy in ICU: Titumir  Daily Sun",
+   "source": "IMF / World Bank",
+   "publisher": "Daily Sun",
+   "scope": "world",
+   "ts": 1794316983000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNTVJTkJXV1VqTXRoalRJT0NaTWNNd3RncHprMm9TNzdzZjNSekRFV19zZG5DS1JjaEVRbXVtMFlta2czNkpSNWJhMmU4MnR3YW1fOVYxTzBhRmFfZGNCTDJMbTF3SmcyeTktQUFERi1CZmxDeWd",
+   "title": "US Stock Futures forecast: Dow, S&P 500 and Nasdaq mixed ahead of CPI as investment banks assess Fed Rate hikes - Beinsure",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNTVJTkJXV1VqTXRoalRJT0NaTWNNd3RncHprMm9TNzdzZjNSekRFV19zZG5DS1JjaEVRbXVtMFlta2czNkpSNWJhMmU4MnR3YW1fOVYxTzBhRmFfZGNCTDJMbTF3SmcyeTktQUFERi1CZmxDeWdTRFJaN2NTcjhMQlNB?oc=5",
+   "desc": "US Stock Futures forecast: Dow, S&P 500 and Nasdaq mixed ahead of CPI as investment banks assess Fed Rate hikes  Beinsure",
+   "source": "US Fed",
+   "publisher": "Beinsure",
+   "scope": "world",
+   "ts": 1794316297000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMGVwaVNnMHEyODVnZHRHRkxNMVoya3VwWHE2dWQxNHpYa053REhnekVoTGtQdFJ1ZXVjbkpQRjdYS0hLbGw3bU5HTGo3M2tBUThuSjdFTmZSZlJmNzZ5ZGdKczBIcVIzUDRRZUR1MUg5T21JOHV",
+   "title": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll - Kitco",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMGVwaVNnMHEyODVnZHRHRkxNMVoya3VwWHE2dWQxNHpYa053REhnekVoTGtQdFJ1ZXVjbkpQRjdYS0hLbGw3bU5HTGo3M2tBUThuSjdFTmZSZlJmNzZ5ZGdKczBIcVIzUDRRZUR1MUg5T21JOHVHeE5zc19Pc2s5SGNrZ3hrVkNwMFJ5aEJJZEpIYVV0UnRiTGMxNFBRZVRrR2VjUG5iUWtDR3pRNFNpcmlLaEYyc1Z1WFo0?oc=5",
+   "desc": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll  Kitco",
+   "source": "US Fed",
+   "publisher": "Kitco",
+   "scope": "world",
+   "ts": 1794315117000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGZfQTVJNU1QOHBKdnllM0JDSW5kaXdGX2pMLXVjdUpNa05qU2l6cmdHQ1B1TUV6UjhhejRZUWc0Mm1OTkxhLUUwdUlTcW9ieERyU1RUS3ROZ2NjaXEyaGFtM3pZT1JYUm9PdkhjYmNUdWxlSE8",
+   "title": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGZfQTVJNU1QOHBKdnllM0JDSW5kaXdGX2pMLXVjdUpNa05qU2l6cmdHQ1B1TUV6UjhhejRZUWc0Mm1OTkxhLUUwdUlTcW9ieERyU1RUS3ROZ2NjaXEyaGFtM3pZT1JYUm9PdkhjYmNUdWxlSE80UW5WX1RsSUprdHk4NDVvZXJ1V0R3MzdjeFJtZ21W?oc=5",
+   "desc": "Fed to raise rates once more in December as inflation risks stay high: Reuters poll  Yahoo Finance",
+   "source": "US Fed",
+   "publisher": "Yahoo Finance",
+   "scope": "world",
+   "ts": 1794314712000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemd3RElmcEdxZzBnaTFpcmVrQVZ0UWZiTzVmeDZEUGJwS1hMcXZTSXdQUklDVElDSUxZb01vU05MQzR5cUY3cG45eWkzZWlaZzdFaVRIT0tJbXVoODlqa0hOVVRJUm10OTZvZ19TeXpwTVB1czR",
+   "title": "U.S. consumer prices rise above expectations in October - The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemd3RElmcEdxZzBnaTFpcmVrQVZ0UWZiTzVmeDZEUGJwS1hMcXZTSXdQUklDVElDSUxZb01vU05MQzR5cUY3cG45eWkzZWlaZzdFaVRIT0tJbXVoODlqa0hOVVRJUm10OTZvZ19TeXpwTVB1czR4LWQySEFnTFNoMTRSUGozWmJDZmNkU3owV0NReEZCaVJRTVNFenRLdWU4cXc?oc=5",
+   "desc": "U.S. consumer prices rise above expectations in October  The Globe and Mail",
+   "source": "US Fed",
+   "publisher": "The Globe and Mail",
+   "scope": "world",
+   "ts": 1794312542000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWHJsWFA4SGF3dHpWLXcwbVhld3doR2cxdC1VQUN6bGFMeWJGWXp1ZUtZendfQnhyRmdMUDY5Zk5DanAxYkREcm1zenlNakM1TWNwUEFtRkhqR2lnWFZkWkRjeHppYkVhZ1NBN3lFdVpjTS1wclZ",
+   "title": "Fed’s Waller Backs Big Rate Increase if Inflation Remains Stubborn - Barron's",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWHJsWFA4SGF3dHpWLXcwbVhld3doR2cxdC1VQUN6bGFMeWJGWXp1ZUtZendfQnhyRmdMUDY5Zk5DanAxYkREcm1zenlNakM1TWNwUEFtRkhqR2lnWFZkWkRjeHppYkVhZ1NBN3lFdVpjTS1wclZneGNNWU1leTUyalY4S2FMREhnY2lrWUwyckNEYzQ?oc=5",
+   "desc": "Fed’s Waller Backs Big Rate Increase if Inflation Remains Stubborn  Barron's",
+   "source": "US Fed",
+   "publisher": "Barron's",
+   "scope": "world",
+   "ts": 1794311760000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTmlaclRFVThCeGdVX3VhOXkyNWtXc2xOZmNBV2QzUmt3Q1RWbmtaOGx0eXo3cXpWYl9NZFY4dzFxWXpPZ1NzR09WOW45TXhSV1E2eHNfRVJiam1WV1hCWmhkSElKZm5ZTHJPekNFUzJyNmJhNVV",
+   "title": "COMMENTARY: Morning Bid: War is over? - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTmlaclRFVThCeGdVX3VhOXkyNWtXc2xOZmNBV2QzUmt3Q1RWbmtaOGx0eXo3cXpWYl9NZFY4dzFxWXpPZ1NzR09WOW45TXhSV1E2eHNfRVJiam1WV1hCWmhkSElKZm5ZTHJPekNFUzJyNmJhNVV1TF9UbllFd2tDWnNxVngzWjE2X3RNYWpKcHFpcmk0RW9N?oc=5",
+   "desc": "COMMENTARY: Morning Bid: War is over?  Reuters",
+   "source": "US Fed",
+   "publisher": "Reuters",
+   "scope": "world",
+   "ts": 1794310745000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLdFJsNkFDcG1HMERxYjNEeEZPbHVKNWhZWDVfVS1GaVhob2pGV0d3MWRhUFBsaGZibTBxZTllVjJzVk9kcUU0NVBnZDM4NHJycDVsNjRCSWhBTDMyNmpkeXBGR3BoZw?oc=5",
+   "title": "Highest Company FD Rates Nov 2026: 9 NBFCs Paying Up to 9.10% After RBI Hike - Myinvestmentideas",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLdFJsNkFDcG1HMERxYjNEeEZPbHVKNWhZWDVfVS1GaVhob2pGV0d3MWRhUFBsaGZibTBxZTllVjJzVk9kcUU0NVBnZDM4NHJycDVsNjRCSWhBTDMyNmpkeXBGR3BoZw?oc=5",
+   "desc": "Highest Company FD Rates Nov 2026: 9 NBFCs Paying Up to 9.10% After RBI Hike  Myinvestmentideas",
+   "source": "RBI",
+   "publisher": "Myinvestmentideas",
+   "scope": "india",
+   "ts": 1794309321000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNDFrbm1IMk5rWC1iZkJVSUhlWlRwLXdnZHNPMGlfU2lNTm5HelFDYmg2TGRzMkxTZm16REwwcEZYOTR6QzVFY09ZRXc1Zno3M2I1Qzh0WndDeV93blBieXlBQTJFU1lZUmMwMVR2T3dzcW0wTU4",
+   "title": "Dollar steadies after losses as U.S. inflation data reinforces rate-hike bets - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNDFrbm1IMk5rWC1iZkJVSUhlWlRwLXdnZHNPMGlfU2lNTm5HelFDYmg2TGRzMkxTZm16REwwcEZYOTR6QzVFY09ZRXc1Zno3M2I1Qzh0WndDeV93blBieXlBQTJFU1lZUmMwMVR2T3dzcW0wTU45VGxCVlIwTl9LTWZhQkdDUUFlTl82eHFtYl9PRDhzLUotMDc2WXpyVmFERkNCYXp1WFlJZnM4U2dfTjNB?oc=5",
+   "desc": "Dollar steadies after losses as U.S. inflation data reinforces rate-hike bets  Investing.com",
+   "source": "US Fed",
+   "publisher": "Investing.com",
+   "scope": "world",
+   "ts": 1794308876000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxUnl3UExMcGZLS05WVl9fOW8wSzNiN0FRU1NkZHd2WS02dFBfaV9ma1VDRHM1WHNRd3lRSk9JR3AwOWQxamxSbkJlQUlSbmhNVFkxS1J3ZHFDUQ?oc=5",
+   "title": "Top CD rates today, Nov. 10, 2026: Lock in up to up to 5.05% - Fortune",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxUnl3UExMcGZLS05WVl9fOW8wSzNiN0FRU1NkZHd2WS02dFBfaV9ma1VDRHM1WHNRd3lRSk9JR3AwOWQxamxSbkJlQUlSbmhNVFkxS1J3ZHFDUQ?oc=5",
+   "desc": "Top CD rates today, Nov. 10, 2026: Lock in up to up to 5.05%  Fortune",
+   "source": "US Fed",
+   "publisher": "Fortune",
+   "scope": "world",
+   "ts": 1794308460000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNzc4R3R1MGRYNW9BMkFIWlN4YjlEdHdDSnlJMjdnMlB0NmFxLTJCWXBaQ1R3ZS1WZEJrOFh2Q3hFcGRhZUJpNTZaZ3Nxb21Sa3VyWnY3MHEzaG9KMkNsd05XMTdDQjJUMi1sS3NjdXN5M3VpTmJ",
+   "title": "Bitcoin (BTC) price falls as Fed rate-hike bets build ahead of U.S. CPI report - CoinDesk",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNzc4R3R1MGRYNW9BMkFIWlN4YjlEdHdDSnlJMjdnMlB0NmFxLTJCWXBaQ1R3ZS1WZEJrOFh2Q3hFcGRhZUJpNTZaZ3Nxb21Sa3VyWnY3MHEzaG9KMkNsd05XMTdDQjJUMi1sS3NjdXN5M3VpTmJsVWxLN2FKMkhiQ19TYkg0SFBsM284YkNuQ05EUG5PWGlIaG5RM1FnbTVGMms1ZFd6YmhmOTJqX0x3NkxkQVRTV0k0QWR1SlF5RlY?oc=5",
+   "desc": "Bitcoin (BTC) price falls as Fed rate-hike bets build ahead of U.S. CPI report  CoinDesk",
+   "source": "US Fed",
+   "publisher": "CoinDesk",
+   "scope": "world",
+   "ts": 1794307717000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KWDgwbm5pUkU1UmoxYkJBSXBpTlF3VDRmQ2c1R3VMNy1PbTFFc2YxTG9LOTdRZ1hfa2I1a3BmSjhZSDUtOWJDWGxhc0txY000aVRhT0dmbHlEX2FDSmFCWXhqZWZmT20zazRhTHBCNVFMYUpYR2c",
+   "title": "Bank of Korea Governor Shin Hyun-song Named Chair of BIS Payments Committee, First Asian to Hold Post - BigGo Finance",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KWDgwbm5pUkU1UmoxYkJBSXBpTlF3VDRmQ2c1R3VMNy1PbTFFc2YxTG9LOTdRZ1hfa2I1a3BmSjhZSDUtOWJDWGxhc0txY000aVRhT0dmbHlEX2FDSmFCWXhqZWZmT20zazRhTHBCNVFMYUpYR2c?oc=5",
+   "desc": "Bank of Korea Governor Shin Hyun-song Named Chair of BIS Payments Committee, First Asian to Hold Post  BigGo Finance",
+   "source": "ECB / Europe",
+   "publisher": "BigGo Finance",
+   "scope": "world",
+   "ts": 1794306595000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuZG14M0ZTRlVmSkNkU3h0YUN4ckR1MmhMaVIzU01RVXFNX2dKRUxnSWlxejhydXJVVmRDTnlMSXZuVGF1eVlkY0NYQ1lZME82X056b0lTbmU?oc=5",
+   "title": "BOK Governor Hyun Song Shin appointed chair of BIS payments and market infrastructure committee, first from outside the West - 파이낸셜뉴스",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuZG14M0ZTRlVmSkNkU3h0YUN4ckR1MmhMaVIzU01RVXFNX2dKRUxnSWlxejhydXJVVmRDTnlMSXZuVGF1eVlkY0NYQ1lZME82X056b0lTbmU?oc=5",
+   "desc": "BOK Governor Hyun Song Shin appointed chair of BIS payments and market infrastructure committee, first from outside the West  파이낸셜뉴스",
+   "source": "ECB / Europe",
+   "publisher": "파이낸셜뉴스",
+   "scope": "world",
+   "ts": 1794304800000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR3B3WnVzcThNSC1fRjhubmhjQWNPWkQ3cGliWDlQMjNGNVNRNWdoRjV4SkVGaGZtLS0zYmpMVXhmMnhkVFp3dkZzelJCS2NrOGhxYTZialM1X2laWG9fM1NBc3REa2RRZV8yeWZkeXBRdUZDMHg",
+   "title": "Gold and silver retreat as Fed rate hike expectations rise ahead of US inflation data - Economies.com",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR3B3WnVzcThNSC1fRjhubmhjQWNPWkQ3cGliWDlQMjNGNVNRNWdoRjV4SkVGaGZtLS0zYmpMVXhmMnhkVFp3dkZzelJCS2NrOGhxYTZialM1X2laWG9fM1NBc3REa2RRZV8yeWZkeXBRdUZDMHg3aFJVTU5qY0JNcE5ZTTUwUDhRV0hMX25kNGs5SzdNMldYWHlwb0RyN1dzQkxSTlZXSGVzY2hCYUdXaGEyU2hEcW1EX1BkTF84UnJubW91RTFhQVZrci1VM1JkVE5n?oc=5",
+   "desc": "Gold and silver retreat as Fed rate hike expectations rise ahead of US inflation data  Economies.com",
+   "source": "US Fed",
+   "publisher": "Economies.com",
+   "scope": "world",
+   "ts": 1794303960000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0lSR0FINzZ0S3ZhdnRQcDh4ZkRBVnZUY05NMHFhZ0JsdmNQaE02NEY2M2l0WXM4RHVBbXBCRWdXM21ndjlRLW9jWVFXQWxoVzMtcjhwMU80dE56dlVERFVwZ0NiblNPM0Q3cGx3SDFBc0NFcGN",
+   "title": "Top Federal Reserve official considers largest rate rise since 2022 - Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0lSR0FINzZ0S3ZhdnRQcDh4ZkRBVnZUY05NMHFhZ0JsdmNQaE02NEY2M2l0WXM4RHVBbXBCRWdXM21ndjlRLW9jWVFXQWxoVzMtcjhwMU80dE56dlVERFVwZ0NiblNPM0Q3cGx3SDFBc0NFcGNvNHlsR1lGQVFoQzJVUWs?oc=5",
+   "desc": "Top Federal Reserve official considers largest rate rise since 2022  Financial Times",
+   "source": "US Fed",
+   "publisher": "Financial Times",
+   "scope": "world",
+   "ts": 1794301209000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVzhITTE0cHpMYlk2X2F6bEJ4YWttUk5pcnltYVZmUzZlSDRVMUxQdmEzYncyZlA3MTVaLUxaZTlHTmNHcHJqM05IYVB4a3p1U29tMDNFclhQellnS0VRaGRWRkpBdWIzU0ROYXVyQU1sd0hLc2J",
+   "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVzhITTE0cHpMYlk2X2F6bEJ4YWttUk5pcnltYVZmUzZlSDRVMUxQdmEzYncyZlA3MTVaLUxaZTlHTmNHcHJqM05IYVB4a3p1U29tMDNFclhQellnS0VRaGRWRkpBdWIzU0ROYXVyQU1sd0hLc2JRVFBQVGNaaEJDMFB4VDRtUEY3UXc?oc=5",
+   "desc": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase  CNBC",
+   "source": "US Fed",
+   "publisher": "CNBC",
+   "scope": "world",
+   "ts": 1794301201000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQnc1czU5azNCN1RQdzZkRV9sbkRrdkQyZ2RDWm84THNpY3VjcnhtX2lyMlBOY2JTTUxfSUNwb2I0WVRsVjFMM3JQclhsNHRUMlg0RFZLdzVqYnp5VXBFTXZUOTRTM2F2NGJEMjF3YzBTUEc0Z04",
+   "title": "Fed’s Waller leans towards 25bp hike next month, says would consider 50 bp if inflation is hot for October - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQnc1czU5azNCN1RQdzZkRV9sbkRrdkQyZ2RDWm84THNpY3VjcnhtX2lyMlBOY2JTTUxfSUNwb2I0WVRsVjFMM3JQclhsNHRUMlg0RFZLdzVqYnp5VXBFTXZUOTRTM2F2NGJEMjF3YzBTUEc0Z042Z25hMWxoRlNLNE1iYTU5LUxIdkRwSmd3dDlYQkp3LU5RcXAzenZJZXZvbUhDNlZ3QzBwZm1rMnE4YTQzNlNvWk14cko1LWc1djVYVGNLVFROUEtyeUpXdmRGT2dJQUNlU2U?oc=5",
+   "desc": "Fed’s Waller leans towards 25bp hike next month, says would consider 50 bp if inflation is hot for October  Yahoo Finance",
+   "source": "US Fed",
+   "publisher": "Yahoo Finance",
+   "scope": "world",
+   "ts": 1794301200000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaVlmQTI3T0ZvaEZ0RFlNVUlIUXRKX2F6QjVKc0NySEhKRGtBMERYeE1iZVBfZDBJWGI1dXdKYzY0V1ZFRFBEeVZ3Z3cxR1hTdENrUFNQVm5RNjJKN3loalFuTFR6Y0dzeEdMWTlLY1lzRnNTajR",
+   "title": "Waller calls for raising interest rates 25 basis points — at least - American Banker",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaVlmQTI3T0ZvaEZ0RFlNVUlIUXRKX2F6QjVKc0NySEhKRGtBMERYeE1iZVBfZDBJWGI1dXdKYzY0V1ZFRFBEeVZ3Z3cxR1hTdENrUFNQVm5RNjJKN3loalFuTFR6Y0dzeEdMWTlLY1lzRnNTajRtem5BX2NTSU9IekFBQ1ZsYWhBOXJBcjZpamhCQ01qR0Z0RGlBY1ZjcHFPTmc?oc=5",
+   "desc": "Waller calls for raising interest rates 25 basis points — at least  American Banker",
+   "source": "US Fed",
+   "publisher": "American Banker",
+   "scope": "world",
+   "ts": 1794301200000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYmVvb01fanB1WC1URkRQSEhoNGtjWExvY3VORGVkSGdjYjRuaDEzNjVYVjhleENPd2J5UlBrZTRUUVI2eTNLNE13ci14QmdBc0lyODRUM2doYWtZS092WW1RT2cwRHJEZDlUb29Na0lGUVZORlF",
+   "title": "World Bank: Robotics Adoption Mitigates GDP Losses from Labor Shortages in Advanced Economies - PravdaReport",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYmVvb01fanB1WC1URkRQSEhoNGtjWExvY3VORGVkSGdjYjRuaDEzNjVYVjhleENPd2J5UlBrZTRUUVI2eTNLNE13ci14QmdBc0lyODRUM2doYWtZS092WW1RT2cwRHJEZDlUb29Na0lGUVZORlF2cENaVWFaVlN6TDF1V29QLWRSS1JHQw?oc=5",
+   "desc": "World Bank: Robotics Adoption Mitigates GDP Losses from Labor Shortages in Advanced Economies  PravdaReport",
+   "source": "IMF / World Bank",
+   "publisher": "PravdaReport",
+   "scope": "world",
+   "ts": 1794300600000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeUFDZmFGMUZIQW9LVkRFa1p6WS1OME1UeGJ0NU5ibGFYbkFEWk1tdmQzaWJ6eFpXNEhVMkRzOUdaWk9xeFZqREluNkZCOEpUQzlBdW9mT0pUX3Q3SGViNmc3aHFPRElZWFdyeElQUjhERFRYNnF",
+   "title": "Our latest views on the major central banks - ING Think",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeUFDZmFGMUZIQW9LVkRFa1p6WS1OME1UeGJ0NU5ibGFYbkFEWk1tdmQzaWJ6eFpXNEhVMkRzOUdaWk9xeFZqREluNkZCOEpUQzlBdW9mT0pUX3Q3SGViNmc3aHFPRElZWFdyeElQUjhERFRYNnFFclBPX0RSZGU1bkphMEpRWWJvVks4R3hOTjlKaVU?oc=5",
+   "desc": "Our latest views on the major central banks  ING Think",
+   "source": "ECB / Europe",
+   "publisher": "ING Think",
+   "scope": "world",
+   "ts": 1794300496000
+  },
+  {
+   "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdWVvbXNzQlJsNXlCQUpJMUk4cVpzLUV3Y2dadXUtMGNsMG5pUnFEdzJEak5oRkpMSjh3b1RpemVPVm1KQ3FuWDNhYnJRQ2RwU3pkaXN2eTU0dlEwRGZWTzR5THpUTTBYa051cXdsdndwOUZGU1N",
+   "title": "How 99.6% onion price spike & El Nino risks may pose challenges to RBI’s Dec rate decision - The Financial Express",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdWVvbXNzQlJsNXlCQUpJMUk4cVpzLUV3Y2dadXUtMGNsMG5pUnFEdzJEak5oRkpMSjh3b1RpemVPVm1KQ3FuWDNhYnJRQ2RwU3pkaXN2eTU0dlEwRGZWTzR5THpUTTBYa051cXdsdndwOUZGU1NjLTlMaXF3YUpZOFR2VFZEX3FqSXV2aVJLaE9ibjBvaV9LZ2x1NG1vaDJ5OXRqVTgtSDQzeTQxd0FiSXo1aHVSQi00cUd1cVhRV1REU2pkSnlZemRudGhibHJTZndLTVp5REYzSEswU1IyWtIB5wFBVV95cUxNdHcyM3RwLWlmQVZJUmpvVVdRMGxRcEVWYmtQTkMzNDlFTng0VnRJRWRZUEQtc2poMXdLbUhBNWlFakoyZmx6N3BNb1RoQTM2YlNlTGRsNzNrUUJsM2psc0ZadjhiNzFXUkVleFRhTm1seGU5WGpDbUREN1ZpZ1AxNXBBRXFoZWxfVDJCZER2bGZDQUU5MUVaQUpXRFg4Q2hiV2lUY0VFRHdRUDNmN082OTl5T044S1VVY0RfV2RNU05USVk2Y1Uycmo5V1ZXb3RTS1lGMGlTRWlvYWNxVFhHMXFESktsX1E?oc=5",
+   "desc": "How 99.6% onion price spike & El Nino risks may pose challenges to RBI’s Dec rate decision  The Financial Express",
+   "source": "RBI",
+   "publisher": "The Financial Express",
+   "scope": "india",
+   "ts": 1794298938000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyRjRqWEhNeTE5NllRdWdiZkxXVV9FdGlleC05SmlWU3pvek1XbFc4Q3FxR3RzQ2lYbjFjekNkaHZVVFo1cnBVY3FnSlFpSllYNS13?oc=5",
@@ -22,24 +762,24 @@
    "ts": 1794296344000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb3N3UzFqbkctS1d3djVPVUxGYnhLV09LZzgxUTBRalFCNFBNc0NUR1V4TWVtaTdwUHhnQUtGWGRNMzl5NzBLOGtLMVlOWGdENWxqSV9wQ29wWnQ4QUpkWGZUYVZvR1RRMUNKSkktaHNEb3NoWjh",
-   "title": "CPI Data Due Today; Cooler Inflation Could Support U.S. Stocks - TipRanks",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb3N3UzFqbkctS1d3djVPVUxGYnhLV09LZzgxUTBRalFCNFBNc0NUR1V4TWVtaTdwUHhnQUtGWGRNMzl5NzBLOGtLMVlOWGdENWxqSV9wQ29wWnQ4QUpkWGZUYVZvR1RRMUNKSkktaHNEb3NoWjhUZGVoRnJqS0hiS3pQekNNRFJzZ19sSGVZNVktZWUt?oc=5",
-   "desc": "CPI Data Due Today; Cooler Inflation Could Support U.S. Stocks  TipRanks",
-   "source": "US Fed",
-   "publisher": "TipRanks",
-   "scope": "world",
-   "ts": 1794295401000
+   "id": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZXlBSFowVzFVRHdMSWZxYWFEbkdHSE1QZHRGLTRBUVJxQUw1OWJzZThHREdfcjBtS1ZObEFEZlljZld0VVF3ZDJycm5mSS1GdGc2bjdoekFKYmJUNWo4bGVnemxZdXN0ZndGV09TYTlGLWdOeGN",
+   "title": "SEBI moves to keep spoofing orders out, protect genuine investors in pre-open trading and time priority - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZXlBSFowVzFVRHdMSWZxYWFEbkdHSE1QZHRGLTRBUVJxQUw1OWJzZThHREdfcjBtS1ZObEFEZlljZld0VVF3ZDJycm5mSS1GdGc2bjdoekFKYmJUNWo4bGVnemxZdXN0ZndGV09TYTlGLWdOeGNzRHh2NElqLURjNGFsT0R5S2RzX0RuakR6azBfd1RpR0NENHJjdVNUV2dIWTJNTzVKWEs0MEZ1dm5qcUlFTlMzUUZDbHUxZ2VsdUJMajRUT05EcGsxUjJvNWNMSlR1WTZCWDB0ak91TmdmdXN0TnZ1bWw5RUJTU3k2R0JwXzBST2Z4amVHQdIBgAJBVV95cUxNX2NQUkVkVkNJdnlPSDFmNC1OVWxkaWxMeVh6S0RZZUVfWU9uQUx1OEtRNzQyZ2g1RS0xU281ejBUZm5qZm1FU1dGUkJsNm45SFh2Um1XUHhZU0tHbDJKbHFteDV0cl9kNEFkWU1CNmo1U09wMVdGX2FWOGswOVo5Z0Z1ZVRmVEFfd1JPVHNUb2xfRjd6RDZZRUVyUWVIR2puaHEyamxNanRiSGsxMU1oWEdGakJ6YlVZZFBrTnRDZGhVbkFSdmN4N3ZwZ2ZfQXItV09pQzA5ZHd6NjRTQmktejA3QkY4T2U3RFNaVjEwYWx2T1YySlhiNXRaaGFNNWJP?oc=5",
+   "desc": "SEBI moves to keep spoofing orders out, protect genuine investors in pre-open trading and time priority  Moneycontrol.com",
+   "source": "SEBI",
+   "publisher": "Moneycontrol.com",
+   "scope": "india",
+   "ts": 1794296152000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1hXLVBWS3BUWXE0dUxBa1BLRXhROUVSRHdkdERJN0Z3anBFY3VZckJIV2Itck1DeWJlRURhZ1RiVGIwMFZqb1FoQktrb3lPSzBHUTF4cWtzU1Z6NnZXZXhibjNZd3hoc0hORFFQTUNFcHd4MUx",
-   "title": "AI infrastructure boom adds to US inflation risks, warns former Fed’s Evans - Crypto Briefing",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1hXLVBWS3BUWXE0dUxBa1BLRXhROUVSRHdkdERJN0Z3anBFY3VZckJIV2Itck1DeWJlRURhZ1RiVGIwMFZqb1FoQktrb3lPSzBHUTF4cWtzU1Z6NnZXZXhibjNZd3hoc0hORFFQTUNFcHd4MUxuenBLdUFtNXkzRU5pRE9iV2JNUmtTNVMtZUFnN3RVZ1VCU2ZCbER1YjZRclBJ?oc=5",
-   "desc": "AI infrastructure boom adds to US inflation risks, warns former Fed’s Evans  Crypto Briefing",
-   "source": "US Fed",
-   "publisher": "Crypto Briefing",
+   "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYk5hLWpwR2F5UDR4OXZVZWxNZ1JHaVNJX0hZbXB0SHU1OS1ESXNqTTU3cWJtdTJvUjl4ajZncFd5MFZOeWhLWjFWVGkwZU5YZlFEMkpuX1pPRHlpaDFWOXZiWk9IUndPRVZqdmk2TG1zdDFvNzI",
+   "title": "ZAWYA: Oman economy proves resilient, says IMF - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYk5hLWpwR2F5UDR4OXZVZWxNZ1JHaVNJX0hZbXB0SHU1OS1ESXNqTTU3cWJtdTJvUjl4ajZncFd5MFZOeWhLWjFWVGkwZU5YZlFEMkpuX1pPRHlpaDFWOXZiWk9IUndPRVZqdmk2TG1zdDFvNzI5QTVfcTI4aWtPTXQ5a2Vwc1JvSHNaTXp6NmVOeHhZRUY2REtUYzdlSHVhS3JmSEZSSm16VkVzdlFmcHcyMUh5RFUySnlWbQ?oc=5",
+   "desc": "ZAWYA: Oman economy proves resilient, says IMF  TradingView",
+   "source": "IMF / World Bank",
+   "publisher": "TradingView",
    "scope": "world",
-   "ts": 1794295283000
+   "ts": 1794295459000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaXo3MjVIOFMwUnZ6MEF2ZnlFOURObWdiVnpaUldPT2RrUzhtQUROdW5pQkNKQjlKZ2NNTFNDbUNwRmhrMmVPVGxOc3lwQWo3RlhDck5kRUo3bXRqeFNHZlVGRko5Yy0wQUtrNzRmN0dKd0l3Sk1",
@@ -49,107 +789,17 @@
    "source": "US Fed",
    "publisher": "Morningstar",
    "scope": "world",
-   "ts": 1794294995000
+   "ts": 1794294981000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0Nkc3akVZSU1rcGtKOEIzRjNENng3b2J0aDk5S1llcmU4Zm1EUVd3YmtvWFBEd0draDJ0LXh2QVZaM3JDb1gxS0ZXUkxVT2pjcVNV?oc=5",
-   "title": "Gold Prices Ease as Focus Shifts to US Inflation Data - شبكة تواصل الإخبارية",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0Nkc3akVZSU1rcGtKOEIzRjNENng3b2J0aDk5S1llcmU4Zm1EUVd3YmtvWFBEd0draDJ0LXh2QVZaM3JDb1gxS0ZXUkxVT2pjcVNV?oc=5",
-   "desc": "Gold Prices Ease as Focus Shifts to US Inflation Data  شبكة تواصل الإخبارية",
+   "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGItVzRMT1dpY19zRm5oSlJwTXRwQTZpMFNYaUJEVFZfbmZmUjVfZWluWEZRVUt5Q0ZDa21tcHJObUdCLXNkTmVRajh6SDRkYS1Zc24zZ3pWNFFEdGZBM0Y0MHV5TWZPcnZhZkYxdVpuYTQ0amp",
+   "title": "Gold drops 1% on hawkish Fed comments ahead of U.S. inflation data - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGItVzRMT1dpY19zRm5oSlJwTXRwQTZpMFNYaUJEVFZfbmZmUjVfZWluWEZRVUt5Q0ZDa21tcHJObUdCLXNkTmVRajh6SDRkYS1Zc24zZ3pWNFFEdGZBM0Y0MHV5TWZPcnZhZkYxdVpuYTQ0amp4aUZtR052SHRlVjZoampxbDgwYlZabkxtTDl4dk1z?oc=5",
+   "desc": "Gold drops 1% on hawkish Fed comments ahead of U.S. inflation data  CNBC",
    "source": "US Fed",
-   "publisher": "شبكة تواصل الإخبارية",
+   "publisher": "CNBC",
    "scope": "world",
-   "ts": 1794293803000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3dHVU5vRGQ1UXZoYUxZb0VCZ3JUWnNpZjNuT0pCUUxBWkJCZGtVTDFoVWNJY0g0VFJ5ckx1TjRxMzh6Z0JyWmpEZFhubGVvOHNKdktXSjY2RS1GTGNVT1BsdWxEOEl4dmlPUDhER01sYzNWYWV",
-   "title": "Global Markets Rebound: Oil Falls, Stocks Rally and Traders Brace for US Inflation Data - Vocal",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3dHVU5vRGQ1UXZoYUxZb0VCZ3JUWnNpZjNuT0pCUUxBWkJCZGtVTDFoVWNJY0g0VFJ5ckx1TjRxMzh6Z0JyWmpEZFhubGVvOHNKdktXSjY2RS1GTGNVT1BsdWxEOEl4dmlPUDhER01sYzNWYWVZVmhwa3pvaXh5TDZQTHpiNDV6MEx6XzhLeHVFNTRyWHlSWmxZYk5icHk4M1VyNTV6X01DZUJRZXl3eTdn?oc=5",
-   "desc": "Global Markets Rebound: Oil Falls, Stocks Rally and Traders Brace for US Inflation Data  Vocal",
-   "source": "US Fed",
-   "publisher": "Vocal",
-   "scope": "world",
-   "ts": 1794293096000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11cjBOVXY2QVduVDJLZ3BSOHlkZ3M5Y1RkRDY3WDFZcW5FWW4yUmRIQktVZmFWLVlsSlBVdXJPYXZqVFJSY3g4QldxclExQ0UtbkFjeUdlNDFjMHdZMHdST1VqejZ2dw?oc=5",
-   "title": "Regime Change Blowback - Inter Press Service",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11cjBOVXY2QVduVDJLZ3BSOHlkZ3M5Y1RkRDY3WDFZcW5FWW4yUmRIQktVZmFWLVlsSlBVdXJPYXZqVFJSY3g4QldxclExQ0UtbkFjeUdlNDFjMHdZMHdST1VqejZ2dw?oc=5",
-   "desc": "Regime Change Blowback  Inter Press Service",
-   "source": "US Fed",
-   "publisher": "Inter Press Service",
-   "scope": "world",
-   "ts": 1794292607000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeDBWTGlQN0ctaERJSjZiQV9hSS03VWRiQjRIUWhjSjVyTGRPWEFHYlR3RE5pc3NuVGdnc0ljZkUzVWRETzhTWjdoUXhVN3h6UERLclllYUxsTDM0Qi1pOEgyc1VvLWx4clFIWWRsOExGNjhOVHl",
-   "title": "Bitcoin Price Forecast: Can US CPI revive the BTC bulls or trigger further losses? - FXStreet",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeDBWTGlQN0ctaERJSjZiQV9hSS03VWRiQjRIUWhjSjVyTGRPWEFHYlR3RE5pc3NuVGdnc0ljZkUzVWRETzhTWjdoUXhVN3h6UERLclllYUxsTDM0Qi1pOEgyc1VvLWx4clFIWWRsOExGNjhOVHlwT25HNkt4Q3pmSzgtYlZyNWctVHVQdTg2a0xtbXppOE9IVXdCd09KUkxpWUdtaFZZclhIRWFqdnhrNDVZZlkzNmlDZm1Ick1kVHpjcUw5?oc=5",
-   "desc": "Bitcoin Price Forecast: Can US CPI revive the BTC bulls or trigger further losses?  FXStreet",
-   "source": "US Fed",
-   "publisher": "FXStreet",
-   "scope": "world",
-   "ts": 1794290911000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xNEFDZ1dhQUZHcjltMm40YmZveHZTMzkxS2hxdGF2RDBzNmhHay0zY1d0cmpYbEJhOURuTGdOc1d6ZVFRT05xdVFyX2JYNE1HNlhDN0NnYzQ0dVVDZUUwaW9LVFVYblU0WHA4?oc=5",
-   "title": "Why is Bitcoin price stuck below $75,000? - Crypto News",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xNEFDZ1dhQUZHcjltMm40YmZveHZTMzkxS2hxdGF2RDBzNmhHay0zY1d0cmpYbEJhOURuTGdOc1d6ZVFRT05xdVFyX2JYNE1HNlhDN0NnYzQ0dVVDZUUwaW9LVFVYblU0WHA4?oc=5",
-   "desc": "Why is Bitcoin price stuck below $75,000?  Crypto News",
-   "source": "US Fed",
-   "publisher": "Crypto News",
-   "scope": "world",
-   "ts": 1794290040000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KckY3N3A3eWRVN3ZEX3QzS3dwTGk0ek5pczY5cHB5RmMzLVkyRHR2UmMtcmNmSUIwMUo3amxLdjQ2Y0xCTjFYZUlfeWRWRm1lY1lj?oc=5",
-   "title": "Silver Price Forecast: XAG/USD trades flat around $53 ahead of US inflation data | FXStreet - شبكة تواصل الإخبارية",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KckY3N3A3eWRVN3ZEX3QzS3dwTGk0ek5pczY5cHB5RmMzLVkyRHR2UmMtcmNmSUIwMUo3amxLdjQ2Y0xCTjFYZUlfeWRWRm1lY1lj?oc=5",
-   "desc": "Silver Price Forecast: XAG/USD trades flat around $53 ahead of US inflation data | FXStreet  شبكة تواصل الإخبارية",
-   "source": "US Fed",
-   "publisher": "شبكة تواصل الإخبارية",
-   "scope": "world",
-   "ts": 1794290036000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmV5NGl4WTl5b21TclZFWGRiRTZpYTkwMlpuWWJRYU9Mbnpiazl1YWZGeTgwV2ZUeWg1eloxQnJ0NkxLQWZ6TTNfUS1hUUhyQTI3d1h6YWU1RE9UdHZ0cHRaMFZRWVRTMWJ6TjZyZGxPa1dEa0w",
-   "title": "Canadian Dollar flatlines as traders brace for US CPI release - FXStreet",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmV5NGl4WTl5b21TclZFWGRiRTZpYTkwMlpuWWJRYU9Mbnpiazl1YWZGeTgwV2ZUeWg1eloxQnJ0NkxLQWZ6TTNfUS1hUUhyQTI3d1h6YWU1RE9UdHZ0cHRaMFZRWVRTMWJ6TjZyZGxPa1dEa0w0X19pcmtyTlV0a3c2SDd5ZVNrWjlZSmJ1dmkyaDFDWW5DZ3NWRVFhRjBNSW5MRUFiQQ?oc=5",
-   "desc": "Canadian Dollar flatlines as traders brace for US CPI release  FXStreet",
-   "source": "US Fed",
-   "publisher": "FXStreet",
-   "scope": "world",
-   "ts": 1794289873000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NTER5NklwZFozSy1lS0FXS2JXOGpVbGNuZnpfSjdVYXRzbGpuWWpWZHFhQzloWjFtekx2X0xpaVJxMjE1MVEzZ0p0N0UxRWkzUC05NVhNZnREX0ctYm9yMS1ld1pPY09GYUdtQWNaNlBsOGtOcXh",
-   "title": "Gold prices edge lower ahead of US inflation data - Latest news from Azerbaijan",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NTER5NklwZFozSy1lS0FXS2JXOGpVbGNuZnpfSjdVYXRzbGpuWWpWZHFhQzloWjFtekx2X0xpaVJxMjE1MVEzZ0p0N0UxRWkzUC05NVhNZnREX0ctYm9yMS1ld1pPY09GYUdtQWNaNlBsOGtOcXhHeTJR?oc=5",
-   "desc": "Gold prices edge lower ahead of US inflation data  Latest news from Azerbaijan",
-   "source": "US Fed",
-   "publisher": "Latest news from Azerbaijan",
-   "scope": "world",
-   "ts": 1794289531000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV0puSlB2QU9SbnZZMzZxOEltSVB1QVI5dm55d0hkLWxZZXh5VGFiaDNyNVZxaWVCVlJNV1hTWnR0MkFOZFVvWWZnNFdHeFZUeUZIX3VQa1lybExnMzdnTzI0Qm5qTkc4dE95clJrSmV3UDBGZlB",
-   "title": "Gold drifts lower as traders eye US CPI and dip-buying support - FXStreet",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV0puSlB2QU9SbnZZMzZxOEltSVB1QVI5dm55d0hkLWxZZXh5VGFiaDNyNVZxaWVCVlJNV1hTWnR0MkFOZFVvWWZnNFdHeFZUeUZIX3VQa1lybExnMzdnTzI0Qm5qTkc4dE95clJrSmV3UDBGZlBmZko3SXV0LWdvY3A1bEx4NEtmWm1TMm1NVWlWbHNBWFprWURlTTNDLXg2Sjc1Z0RxMDYxV1lKaC1wZ0ZqVVQ5ei1fMng4emRxMHhJT1BGUGM3TFFhSjRGQQ?oc=5",
-   "desc": "Gold drifts lower as traders eye US CPI and dip-buying support  FXStreet",
-   "source": "US Fed",
-   "publisher": "FXStreet",
-   "scope": "world",
-   "ts": 1794288152000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSVNNcTVBaG1QbXV5SXI2dXFWUlBKZXdoQjNueEdmNmVnV1otQzhRZzF6aVVFaVhYTXZ3SGlCS2k2NEg4LTF0MlFycklnZDdiX1EyajVRTER0a1pqaEVGUklxamkyYlZ2cUt4MGxfWTNVYnQtaEJ",
-   "title": "Gold rates today 10 Nov Tuesday: Can price rise to ₹1.48 lakh per 10 gm? What experts say about rally as crude cools - Livemint",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSVNNcTVBaG1QbXV5SXI2dXFWUlBKZXdoQjNueEdmNmVnV1otQzhRZzF6aVVFaVhYTXZ3SGlCS2k2NEg4LTF0MlFycklnZDdiX1EyajVRTER0a1pqaEVGUklxamkyYlZ2cUt4MGxfWTNVYnQtaEJ1dF9qSHBLaUszMUliaW1JczhkQTR4enZZbGs2cVdVWGI0REhXU0JQZWw0YW5jTU9RMFJLMHNsVHVCNFJJU0x3Y19HM2UtUmMxLWkwTkNVVkt1bHNONVFZeUI1bUJSSXZiYWFqSHRpdGR2ZV9mRzNxbmhOYU40bzUyZlRjS0x1SE5tQ3VjX0lSdmdGUXhzWkZaU03SAY4CQVVfeXFMTlVkUTk4MTdBWmhNVHFWcDJvS1Jia0k2Nlc0OTBHS3FOZ0RPTGEyWWMzOTVva3lkT1R2emN5Qm5WZXlQUGR2bHhHRHJUUU5pOFAzUktwREVVOHY0QktGVWs0aUlpaHp0SWFaazVMTTBRdjdqbGc2a2ZnOTk3SkhXeG9uRVRYWnNZcjIxWDNManptRWUyaEhtTjQ5am9tRHlWMklaWEZqQzdBeVN5T25SYXRCdUQ4U2xEYmJXVFZIbktVUENPR1FTSlB2OWRIcU9CaFdpa3d6aDlTRHNjcGZ4ZkVIMnpENjN6UExYdlc1bHpYbnZ2TDBEa2pESjZSNWdJMzhrdGtsQkhZSS11ZlNn?oc=5",
-   "desc": "Gold rates today 10 Nov Tuesday: Can price rise to ₹1.48 lakh per 10 gm? What experts say about rally as crude cools  Livemint",
-   "source": "US Fed",
-   "publisher": "Livemint",
-   "scope": "world",
-   "ts": 1794287300000
+   "ts": 1794289619000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObWZUaWs1elZ2SUlESnU3ZEM1NE1GcC04WE9raTd2WlpKd0szWEZTTWlPQk56aWs1S0pULTBoMnFUSkpVZ2ZEcXdpRkJpYVdfQUhvU1NfMWxNT2Q0dG5QZ2Zzd2o2dld3WXM2X2dzVGx3QTFmVmw",
@@ -162,144 +812,44 @@
    "ts": 1794286980000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFZpMlRtYWtaSzBEVHMtckRlYlcwdU1fOTBmNVBHYjMwQjB0WExRSjh0VEJXdE82Y3p5bGk0bnN3VGsxY05NYUxCRzVmekF2UDVWbmZkVXVHanlPR3V5X0h3NWVscTBzVkpKRk5Wa0VQZlZGcjR",
-   "title": "US Dollar Weakness Only To Emerge In 2H 2027, Says OCBC - BusinessToday Malaysia",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFZpMlRtYWtaSzBEVHMtckRlYlcwdU1fOTBmNVBHYjMwQjB0WExRSjh0VEJXdE82Y3p5bGk0bnN3VGsxY05NYUxCRzVmekF2UDVWbmZkVXVHanlPR3V5X0h3NWVscTBzVkpKRk5Wa0VQZlZGcjRHUFRLdEhqRDBIWlUtalpQYVFJRF9YX080YWowdGdoaGNlRjljaWg2SC03?oc=5",
-   "desc": "US Dollar Weakness Only To Emerge In 2H 2027, Says OCBC  BusinessToday Malaysia",
-   "source": "US Fed",
-   "publisher": "BusinessToday Malaysia",
-   "scope": "world",
-   "ts": 1794281710000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUt5d0NsOEFXZzVGWU5qOFFwbGtuT0pyM3RMcTR3ZDRXYzFqV1NkM1VadUV0VzdNUFpZREVYLU1mdWFpSDE5V0w3Qlo5X1luTXVXRkZKNHQ1bXY1X0VCNHRienZVbnhQdE93UWFYRk41T0Fhd2t",
-   "title": "Gold prices ease as focus shifts to US inflation data - Reuters",
+   "title": "Gold falls more than 2% as CPI tops forecasts, lifting dollar and yields - Reuters",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUt5d0NsOEFXZzVGWU5qOFFwbGtuT0pyM3RMcTR3ZDRXYzFqV1NkM1VadUV0VzdNUFpZREVYLU1mdWFpSDE5V0w3Qlo5X1luTXVXRkZKNHQ1bXY1X0VCNHRienZVbnhQdE93UWFYRk41T0Fhd2tiQ2dpZzF2WEZmM0hVTFpjMVFzR2JhNlpWN0R5ZkFCY0JkRUVuYw?oc=5",
-   "desc": "Gold prices ease as focus shifts to US inflation data  Reuters",
+   "desc": "Gold falls more than 2% as CPI tops forecasts, lifting dollar and yields  Reuters",
    "source": "US Fed",
    "publisher": "Reuters",
    "scope": "world",
    "ts": 1794281460000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeFpzVjY2RVlic19TMHdCaVZ0VzM5eDZNVEZkeFJTTERXRnEtc3kwX2VJNUFMOW80S0k4YU5FNU8wRjR0cW5NdXVmWnAxZzdlM1RJUnh3NVg5a3NtMWg3ZWJwZjl2YTlNc19PS3dTNm5hWEZNN0R",
-   "title": "AI Investment Boom Weighs on Economic Trajectory as Fed Officials Carefully Assess Rate Hike Pace - NAI500",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeFpzVjY2RVlic19TMHdCaVZ0VzM5eDZNVEZkeFJTTERXRnEtc3kwX2VJNUFMOW80S0k4YU5FNU8wRjR0cW5NdXVmWnAxZzdlM1RJUnh3NVg5a3NtMWg3ZWJwZjl2YTlNc19PS3dTNm5hWEZNN0RVN3BZNkg0OUJBa2ZabHhrcThFTzkxaFVDRksxU183SEI5eUNyX3gzVmx2X1I1dy1rZndSc1ZWczZRb2hyTUVpVXkwZm9nUG4zTTM4YU9BODVOR2tB?oc=5",
-   "desc": "AI Investment Boom Weighs on Economic Trajectory as Fed Officials Carefully Assess Rate Hike Pace  NAI500",
-   "source": "US Fed",
-   "publisher": "NAI500",
-   "scope": "world",
-   "ts": 1794281308000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHdxUDMyX3c4RGI2UFdzQzgwYkFfaE9nenFwQlMtR1lRMzk0dERSWUFyVW5xeWE3bWR0anhmcFI2NjBHWnBEM0k1bVdYdGxra0NySkcyVWVudjEtMmhRcEl2MVB1UFlEMWVjbEhxcklZSEplRWR",
-   "title": "Singapore’s Interbank Rate Hits Highest in More Than a Year - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdHdxUDMyX3c4RGI2UFdzQzgwYkFfaE9nenFwQlMtR1lRMzk0dERSWUFyVW5xeWE3bWR0anhmcFI2NjBHWnBEM0k1bVdYdGxra0NySkcyVWVudjEtMmhRcEl2MVB1UFlEMWVjbEhxcklZSEplRWRYT0VXTzhHdW9uZ1ZNaGlQaDA5dURXdWtsNlV1YmRoNEtMWUJtVUV0ZWlsMWJzbzZIYmJONHk0S0tNNm1NRFVvZw?oc=5",
-   "desc": "Singapore’s Interbank Rate Hits Highest in More Than a Year  Bloomberg.com",
-   "source": "US Fed",
-   "publisher": "Bloomberg.com",
-   "scope": "world",
-   "ts": 1794276720000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYk5hLWpwR2F5UDR4OXZVZWxNZ1JHaVNJX0hZbXB0SHU1OS1ESXNqTTU3cWJtdTJvUjl4ajZncFd5MFZOeWhLWjFWVGkwZU5YZlFEMkpuX1pPRHlpaDFWOXZiWk9IUndPRVZqdmk2TG1zdDFvNzI",
-   "title": "ZAWYA: Oman economy proves resilient, says IMF - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYk5hLWpwR2F5UDR4OXZVZWxNZ1JHaVNJX0hZbXB0SHU1OS1ESXNqTTU3cWJtdTJvUjl4ajZncFd5MFZOeWhLWjFWVGkwZU5YZlFEMkpuX1pPRHlpaDFWOXZiWk9IUndPRVZqdmk2TG1zdDFvNzI5QTVfcTI4aWtPTXQ5a2Vwc1JvSHNaTXp6NmVOeHhZRUY2REtUYzdlSHVhS3JmSEZSSm16VkVzdlFmcHcyMUh5RFUySnlWbQ?oc=5",
-   "desc": "ZAWYA: Oman economy proves resilient, says IMF  TradingView",
-   "source": "IMF / World Bank",
-   "publisher": "TradingView",
-   "scope": "world",
-   "ts": 1794276460000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSVRLUk5jaDZLTElQdEtRYkJLQVVsZGFGX2xtUEs1WXdHNElCQndVVmhYQ2dGS2pISnBlbE1LNUVUcXlqSnF0dmZzTnRtNlFBajdiV0k2dVQ5bWhxQUE5M0Q2bTNVWUtNYnljckZKazRTYjQ3Vkl",
-   "title": "Dollar Sellers Take A Breather Before US Inflation Test - BusinessToday Malaysia",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSVRLUk5jaDZLTElQdEtRYkJLQVVsZGFGX2xtUEs1WXdHNElCQndVVmhYQ2dGS2pISnBlbE1LNUVUcXlqSnF0dmZzTnRtNlFBajdiV0k2dVQ5bWhxQUE5M0Q2bTNVWUtNYnljckZKazRTYjQ3VklMUENlWG5Pc0pkQ2hoZ0kyWEMwRE1fSVM1RTBLYlVUa2dVLXEtZHgtdEI3T2c?oc=5",
-   "desc": "Dollar Sellers Take A Breather Before US Inflation Test  BusinessToday Malaysia",
-   "source": "US Fed",
-   "publisher": "BusinessToday Malaysia",
-   "scope": "world",
-   "ts": 1794275583000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNE9FUzRNb29hYzBNV2dMVGdJQTgyaGt1UWFrdmVDd3NjZ1U1a2loOUNZdHJvdkZKV1REcXQ2aEQtZzlVaktkdC1hNWtMb0xxOFlaVjhCZUItNmNYUGl2b0NaYlNadF96dDh6ajJVaUxvek5xd1J",
-   "title": "British Pound steadies below 1.3450 ahead of US CPI data - FXStreet",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNE9FUzRNb29hYzBNV2dMVGdJQTgyaGt1UWFrdmVDd3NjZ1U1a2loOUNZdHJvdkZKV1REcXQ2aEQtZzlVaktkdC1hNWtMb0xxOFlaVjhCZUItNmNYUGl2b0NaYlNadF96dDh6ajJVaUxvek5xd1JuNy12bDUydk5fR043S25pQUY1UVdsZHhEbE0yQjZwTWJCNENzd2R1b1E?oc=5",
-   "desc": "British Pound steadies below 1.3450 ahead of US CPI data  FXStreet",
-   "source": "US Fed",
-   "publisher": "FXStreet",
-   "scope": "world",
-   "ts": 1794275152000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YNUdNM0tObnVxbjFVWk82RWdGY3Ytbk96VnNoalY2RjdnR0ZpY0wzaUF0ckl6bldYaF8yUjM4WTJQa1dVZDVVTG56Y1FkRk1LanlB?oc=5",
-   "title": "Dollar sellers hit pause for US inflation data - شبكة تواصل الإخبارية",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YNUdNM0tObnVxbjFVWk82RWdGY3Ytbk96VnNoalY2RjdnR0ZpY0wzaUF0ckl6bldYaF8yUjM4WTJQa1dVZDVVTG56Y1FkRk1LanlB?oc=5",
-   "desc": "Dollar sellers hit pause for US inflation data  شبكة تواصل الإخبارية",
-   "source": "US Fed",
-   "publisher": "شبكة تواصل الإخبارية",
-   "scope": "world",
-   "ts": 1794274371000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tQjdwRWUyY0VyT3FYMUZOTDNyYkF2Xy1PeG9mUWNlSEg1TTh5MXBiYU9Oby11ckYyZk0wTm9YaURremZlRi0yNmdGRjdycjlFV18w?oc=5",
-   "title": "Gold declines below $4,150 as rising Fed hike expectations outweigh US-Iran deal hopes | FXStreet - شبكة تواصل الإخبارية",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tQjdwRWUyY0VyT3FYMUZOTDNyYkF2Xy1PeG9mUWNlSEg1TTh5MXBiYU9Oby11ckYyZk0wTm9YaURremZlRi0yNmdGRjdycjlFV18w?oc=5",
-   "desc": "Gold declines below $4,150 as rising Fed hike expectations outweigh US-Iran deal hopes | FXStreet  شبكة تواصل الإخبارية",
-   "source": "US Fed",
-   "publisher": "شبكة تواصل الإخبارية",
-   "scope": "world",
-   "ts": 1794273356000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fWUZzU2VXejlJOXA2OE5ub1R3dy1vNU1ENmpNeElPeTEwTXNMMG5ZN2w0UWdDTnhfU21fazZTcFlWQkVVSTRMRnRyRXJEWTI3TlAzVA?oc=5",
-   "title": "Gold Holds Near $4,130 an Ounce as Oil Falls, Dollar Weakens - bloomingbit",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fWUZzU2VXejlJOXA2OE5ub1R3dy1vNU1ENmpNeElPeTEwTXNMMG5ZN2w0UWdDTnhfU21fazZTcFlWQkVVSTRMRnRyRXJEWTI3TlAzVA?oc=5",
-   "desc": "Gold Holds Near $4,130 an Ounce as Oil Falls, Dollar Weakens  bloomingbit",
-   "source": "US Fed",
-   "publisher": "bloomingbit",
-   "scope": "world",
-   "ts": 1794273159000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONE9YcGNuYlFrU3RLWWt6R2kyUm5kTV9KbWV4TjQxS2RIbmxvWk5GeFFWeGlwcDZVcnpHVWtZTWJ4RjhYZjFmZldtMHE1MHdYazdLUFFfTUlRTjlJQy1RWEgzYlNUN25CbDlYbTV6MDJLV0JzcTl",
-   "title": "Dollar sellers hit pause for US inflation data - Free Malaysia Today",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONE9YcGNuYlFrU3RLWWt6R2kyUm5kTV9KbWV4TjQxS2RIbmxvWk5GeFFWeGlwcDZVcnpHVWtZTWJ4RjhYZjFmZldtMHE1MHdYazdLUFFfTUlRTjlJQy1RWEgzYlNUN25CbDlYbTV6MDJLV0JzcTlnc2ZVQmcxRHFQbVh2OVFCZUlWcm1iVnpUbzQ1Tm5uQWFEWkt3alFPOHV4YjJpeU1zeGkyN3ZmWUE?oc=5",
-   "desc": "Dollar sellers hit pause for US inflation data  Free Malaysia Today",
-   "source": "US Fed",
-   "publisher": "Free Malaysia Today",
-   "scope": "world",
-   "ts": 1794273000000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3JzaUt6cC05eXdxeTNvcFBPX2JGZmFka29UbGZvQzQyTFVTc2dUM3dyX0FUVkk5SngyWGs1SW80ckQ1Qk5Pb0laLU11MDM1MUtsOEptTmJiSERHdEdsR2tVanR1em5scXpGb1NuQzg2NmU3V0t",
-   "title": "Dollar sellers hit pause for US inflation data - Reuters",
+   "title": "Dollar steadies as Waller argues for more rate hikes, inflation up next - Reuters",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3JzaUt6cC05eXdxeTNvcFBPX2JGZmFka29UbGZvQzQyTFVTc2dUM3dyX0FUVkk5SngyWGs1SW80ckQ1Qk5Pb0laLU11MDM1MUtsOEptTmJiSERHdEdsR2tVanR1em5scXpGb1NuQzg2NmU3V0tXWm82aWlkeXpDQmZaMkQzQnl0eHc3WkFMZGNWdlZwblp0V0drdG9xQQ?oc=5",
-   "desc": "Dollar sellers hit pause for US inflation data  Reuters",
+   "desc": "Dollar steadies as Waller argues for more rate hikes, inflation up next  Reuters",
    "source": "US Fed",
    "publisher": "Reuters",
    "scope": "world",
    "ts": 1794271080000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVpqUk1hV2Jfd1hyRjY2NnQ5SjM5V0M2blBncFJ6V2dqanhLdnpiNF9fZDQ5cUM3cGtkNi1UTEdPcWdtbktwVVFscHJqZEdWX05USEZkTjBndlVIal8zRmswVGs1eE9Ka3p1VFJXRkF2SFliZnY",
-   "title": "How the National Debt Raises Costs for Households, Businesses, and Younger Americans - Peter G. Peterson Foundation",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVpqUk1hV2Jfd1hyRjY2NnQ5SjM5V0M2blBncFJ6V2dqanhLdnpiNF9fZDQ5cUM3cGtkNi1UTEdPcWdtbktwVVFscHJqZEdWX05USEZkTjBndlVIal8zRmswVGs1eE9Ka3p1VFJXRkF2SFliZnYtTUstRGhaaVBfVDRTcHBBb28tV3NSUm1FRkozNnJsbXRFSHVTR24takl6TndTSVJqOTZUVzVyM0czT3FB?oc=5",
-   "desc": "How the National Debt Raises Costs for Households, Businesses, and Younger Americans  Peter G. Peterson Foundation",
-   "source": "US Fed",
-   "publisher": "Peter G. Peterson Foundation",
+   "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV1EyUHhfNm0wc0NrWXlYUUQ3LVkybHhtNXhCY3B5OG1BaEZRdUp4ZU1EVEtVYjlra0YzMlJNTm01eWU0dFNMRzNoR1h4Y1B3anhSWFQzYVNJSDh5ZjF1bmFCUGNsYzZfM2I5NHhKQ0ROUWdkMHZ",
+   "title": "Bank ownership shifts, tighter liquidity rules may slow credit growth in emerging markets: S&P Global - https://www.indiagazette.com/",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV1EyUHhfNm0wc0NrWXlYUUQ3LVkybHhtNXhCY3B5OG1BaEZRdUp4ZU1EVEtVYjlra0YzMlJNTm01eWU0dFNMRzNoR1h4Y1B3anhSWFQzYVNJSDh5ZjF1bmFCUGNsYzZfM2I5NHhKQ0ROUWdkMHZ2aGdWM2RYU0ZYX0g5UDhsMkdEcm8tNzdvS0dVSzRsVGV4ZEJUM0FTQ1lYUDFOM20yZ1lXVnRrZF9NemN4UkwzWXFiQ1dyZ05HVUtTSWd5V0wzZm1QZG5KRllMQlg4aEt4alAxdw?oc=5",
+   "desc": "Bank ownership shifts, tighter liquidity rules may slow credit growth in emerging markets: S&P Global  https://www.indiagazette.com/",
+   "source": "Global Banking",
+   "publisher": "https://www.indiagazette.com/",
    "scope": "world",
-   "ts": 1794263958000
+   "ts": 1794270660000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTXc5SS1kTS1GSF9RQjJrWnFDRjQwU0JnVld3UUw2UjNGOUVYbElybEZ6Y3BXSk8zNzhyRmpRdFJiTlpJTU5fRXk3dURydFNJb1NpM0lMX205clNMSlNRX2R3N0I1ekRvWmtvck1qSzc2dmpqeGR",
-   "title": "The Fed Held Rates. Here’s What That Means for the Yield on Your T-Bill ETF - 24/7 Wall St.",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTXc5SS1kTS1GSF9RQjJrWnFDRjQwU0JnVld3UUw2UjNGOUVYbElybEZ6Y3BXSk8zNzhyRmpRdFJiTlpJTU5fRXk3dURydFNJb1NpM0lMX205clNMSlNRX2R3N0I1ekRvWmtvck1qSzc2dmpqeGR1dXFNZDBOUThRRF9PeFJENjVCcHhQNTFhUTB0RXZQWlF1ZEJYU2hvSFRMcV9wVVVKMHF6UzBma0lMU09ySUppZUgzcFJlcVN3?oc=5",
-   "desc": "The Fed Held Rates. Here’s What That Means for the Yield on Your T-Bill ETF  24/7 Wall St.",
+   "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcEkzX01JZDVwbEMxWGJlTlhGUkhLem4xQzFWeExUWGhGQmF0RGFKT3ZzT0Q1aDVhbmh0akFiaEduX1luM3BDSHNjNjNiZVRpZmdWa21SNU1xS19sMEZQQmNDbUE3RjJBdHZmSXFmaTUwVWlKQ2R",
+   "title": "Hot CPI Put The Fed Back In Charge Of The Dollar - Finimize",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcEkzX01JZDVwbEMxWGJlTlhGUkhLem4xQzFWeExUWGhGQmF0RGFKT3ZzT0Q1aDVhbmh0akFiaEduX1luM3BDSHNjNjNiZVRpZmdWa21SNU1xS19sMEZQQmNDbUE3RjJBdHZmSXFmaTUwVWlKQ2R1QkY4YVJZeFRKMjJhRQ?oc=5",
+   "desc": "Hot CPI Put The Fed Back In Charge Of The Dollar  Finimize",
    "source": "US Fed",
-   "publisher": "24/7 Wall St.",
+   "publisher": "Finimize",
    "scope": "world",
-   "ts": 1794263580000
+   "ts": 1794269960000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUlc5eDBpY1JadW5RdE9SaTdxSjZGY01md213N3VBLV9Najd0R2ljWFl1cG85RlNSaThWc1poa1VEclRUdnFKOUo3T0cyR0hYMVZrY180bFhvWW10X1pqRDMxeW8zMTFVZEN6ZVc5RHJoQlV1Z3V",
@@ -312,26 +862,6 @@
    "ts": 1794261795000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWmNoNUNVNUMtRk9XekQ3bVQzNC00QlZXS2VyRzNCSEtUd0MzNkVJdWJkY2FieHhZeU5BeWlyTVh1bFYyZFdkandFM2NtaW5uZ2xwdktBNXFqYW1tZWJUdVM0X1gtb0trc3FpUzY5SVBCaDdJalU",
-   "title": "In the News: Tyler Schipper on the Challenges of Lowering Consumer Costs - Newsroom | University of St. Thomas",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWmNoNUNVNUMtRk9XekQ3bVQzNC00QlZXS2VyRzNCSEtUd0MzNkVJdWJkY2FieHhZeU5BeWlyTVh1bFYyZFdkandFM2NtaW5uZ2xwdktBNXFqYW1tZWJUdVM0X1gtb0trc3FpUzY5SVBCaDdJalUwWFBBYXJNMGxhWW5fNzMxNVp6S21pSHBQaVNlVzdkQlM0cFJ0SGRFMlU?oc=5",
-   "desc": "In the News: Tyler Schipper on the Challenges of Lowering Consumer Costs  Newsroom | University of St. Thomas",
-   "source": "US Fed",
-   "publisher": "Newsroom | University of St. Thomas",
-   "scope": "world",
-   "ts": 1794261669000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdUFRMnVOZ2xpZFpobTJfR0VWMTJDQnkyX05lX0lnOVJqWmdSdTdENnAwVWxINnFQNDg3OHZCeG1uakVpTmlGTHYtWE5sbF9KLWJKMnZMWjI3QmU1YlpaRjRISmI2cy1HOWJncVlLZUtxaUdfbGt",
-   "title": "Fed December Meeting What To Expect For Interest Rates In 2027 - Forbes",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdUFRMnVOZ2xpZFpobTJfR0VWMTJDQnkyX05lX0lnOVJqWmdSdTdENnAwVWxINnFQNDg3OHZCeG1uakVpTmlGTHYtWE5sbF9KLWJKMnZMWjI3QmU1YlpaRjRISmI2cy1HOWJncVlLZUtxaUdfbGtVZWQ4aU1Ua2t6SzRiUHk2ZENzalEyME5KenRPRW9kSmNnNG1OUXMwdw?oc=5",
-   "desc": "Fed December Meeting What To Expect For Interest Rates In 2027  Forbes",
-   "source": "US Fed",
-   "publisher": "Forbes",
-   "scope": "world",
-   "ts": 1794260347000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLTM5WHVzS0w1blZLX21WUXEwXzduZFVHNU9weXZLQjVHYlJtZ18xbHhNbTFDb1JpRkhoNkNRcjR4aHVERlpFQV9kYmppTDI2dHg5VVNDbjRnWldERS1HZHAxRlpXTFd3M3NIZHN0cVUySVNWNFV",
    "title": "What Do High Interest Rates Mean for Homebuyers? - Morningstar",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLTM5WHVzS0w1blZLX21WUXEwXzduZFVHNU9weXZLQjVHYlJtZ18xbHhNbTFDb1JpRkhoNkNRcjR4aHVERlpFQV9kYmppTDI2dHg5VVNDbjRnWldERS1HZHAxRlpXTFd3M3NIZHN0cVUySVNWNFVnZWplcWF3eGg3bFYxSDJtQQ?oc=5",
@@ -340,56 +870,6 @@
    "publisher": "Morningstar",
    "scope": "world",
    "ts": 1794259805000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdUItcWJEaWRyZlZ5anZHQUJVWVozUWhQOUswVng4ZTVHTmhBT2pibTF1Q2p0TnJXc2xBWEd2SUQ2VURTVmF4RmgwR0ZFeW01eks3YnhyVkNpY3FIVnBFd0dKNmtWSTkwNzRuTHFINEVUeUpmV09",
-   "title": "Hot U.S. inflation hasn’t cooled off. Rising consumer prices to keep Fed rate hike on track. - MarketWatch",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdUItcWJEaWRyZlZ5anZHQUJVWVozUWhQOUswVng4ZTVHTmhBT2pibTF1Q2p0TnJXc2xBWEd2SUQ2VURTVmF4RmgwR0ZFeW01eks3YnhyVkNpY3FIVnBFd0dKNmtWSTkwNzRuTHFINEVUeUpmV09MZ29HMWZmWWh5bmw4djY0bmNEOVdtRlVRYlUyRHcyZlg5aEdhQWg1Wi0tRm5uWW1NUHNZRUxTRHJwR0p5NGhPT0E3Vnp6anhPY3NTU0FGNDhRdmhqVQ?oc=5",
-   "desc": "Hot U.S. inflation hasn’t cooled off. Rising consumer prices to keep Fed rate hike on track.  MarketWatch",
-   "source": "US Fed",
-   "publisher": "MarketWatch",
-   "scope": "world",
-   "ts": 1794258060000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkhFZDd5R1ZESDNFUk9CTXFrMzlFRktiR1JsWmdfTWlyd1lhbTh0TFRqbF9IWm9QaWloUlJSOUh5MVVXR0dpLVg2R2I0MDM3ZXlGdjVsdUNNYW9la2pEOEtEU3dfOF8wX2g3aGVCQ01uc0EzYW1",
-   "title": "Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkhFZDd5R1ZESDNFUk9CTXFrMzlFRktiR1JsWmdfTWlyd1lhbTh0TFRqbF9IWm9QaWloUlJSOUh5MVVXR0dpLVg2R2I0MDM3ZXlGdjVsdUNNYW9la2pEOEtEU3dfOF8wX2g3aGVCQ01uc0EzYW16T3dKN0dPNmRkd3pVdjJaMGRvYU11RV9tUlE5MTFHYVp4SXV5RDJyVkhCbHhNRjhPRkpUZHYtaWtVR1JpSQ?oc=5",
-   "desc": "Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows  Bloomberg.com",
-   "source": "US Fed",
-   "publisher": "Bloomberg.com",
-   "scope": "world",
-   "ts": 1794258000000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc1otOVlzYW04MzZYZk9OSjNiTzVpUjQ2Y2hJaE84SkNFQm1ITHY2NDhHcTNPU2ZwS0VSRENyX1NqUjQ1ZXNyUWNTWjNZelhaMDZucFNnSkZUVTF5WEIzT1o1MDRrdTkyZThIQkM1ZjAxOEg5Smp",
-   "title": "What to Expect from Tuesday’s Closely Watched Inflation Report - Investopedia",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc1otOVlzYW04MzZYZk9OSjNiTzVpUjQ2Y2hJaE84SkNFQm1ITHY2NDhHcTNPU2ZwS0VSRENyX1NqUjQ1ZXNyUWNTWjNZelhaMDZucFNnSkZUVTF5WEIzT1o1MDRrdTkyZThIQkM1ZjAxOEg5SmprSzFnZ2NHU2xDcFdCX2ZXdDZhQVMzemhfbzk1Wk1SbUdWTDAxS29ZU3dBeWViR2JqS0lxcG16WEZ1a0xmdTg4MXNxQW9nUmtiQVlGN3VFRWpVWEpZeUYxZ3BvQ3JheQ?oc=5",
-   "desc": "What to Expect from Tuesday’s Closely Watched Inflation Report  Investopedia",
-   "source": "US Fed",
-   "publisher": "Investopedia",
-   "scope": "world",
-   "ts": 1794257603000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbjlyYlhHUTJpRFhUM1hvRnlCSEZ0UGlya2EtT2hwUEJSeUJpaU1VbVFaWUs5OHRzbDJYSVNqZEY0dXdUbGoyZ1d4aTBsZl9vOE50SXRBSnZENVZOZHZBbm9ESG9DVzN5Q2VmQXBhbzVpSkE3cFc",
-   "title": "Dollar slips against major currencies as Iran talks lift risk appetite - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbjlyYlhHUTJpRFhUM1hvRnlCSEZ0UGlya2EtT2hwUEJSeUJpaU1VbVFaWUs5OHRzbDJYSVNqZEY0dXdUbGoyZ1d4aTBsZl9vOE50SXRBSnZENVZOZHZBbm9ESG9DVzN5Q2VmQXBhbzVpSkE3cFc2dFZMZGFsanRXZml5VnRtb3hEVlBocXZPUXRfMXB5Nmx4b3pLNGltVE0?oc=5",
-   "desc": "Dollar slips against major currencies as Iran talks lift risk appetite  Yahoo Finance",
-   "source": "US Fed",
-   "publisher": "Yahoo Finance",
-   "scope": "world",
-   "ts": 1794255348000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQVNvb3Z2enJDNGpJTFhzbTl6ck8yVEpBT2VublJRUi0zNFZUQTBSUVp3QmFJX09LLS1MRlBjbHotVWF6V2hUaTB6N2pNQnJrZjVSTzVOUjNJam1Hank3V3hPaUM4ZHNnN2xONnNYYnpRU2tMR2x",
-   "title": "Fed’s Daly signals more rate hikes - Mortgage Professional America",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQVNvb3Z2enJDNGpJTFhzbTl6ck8yVEpBT2VublJRUi0zNFZUQTBSUVp3QmFJX09LLS1MRlBjbHotVWF6V2hUaTB6N2pNQnJrZjVSTzVOUjNJam1Hank3V3hPaUM4ZHNnN2xONnNYYnpRU2tMR2xLenB4TnR6QzExcm56ZUI0ZVk4Sm9CTGRxNEN4eG1pVFNrNUpiXzh2bEM0V1E?oc=5",
-   "desc": "Fed’s Daly signals more rate hikes  Mortgage Professional America",
-   "source": "US Fed",
-   "publisher": "Mortgage Professional America",
-   "scope": "world",
-   "ts": 1794255236000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcHY3SFVQS3N5eVBkY2Q2YXFtaDhjMVN0OHlnYzZKdGluWGVXMWVmVW0zdUF1MTQ1XzlzVDI1ME1WTmh5R2d0bVdmRXdtOWZZclNGelVHeW9pU2NQWW0weHlaZk9qdGlVYmJYT2toS2haQzI0T0R",
@@ -402,16 +882,6 @@
    "ts": 1794254462000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOWdia3RMTmZiM051OU96SXg3LUJfeEpDSmRJV2xUcTE2eHlSaTBXeFRMZENleFpwMm5yYjBOMkZYbnQwRm1IVng5azJIaUJqWlJqZHE3UDktU21YbEdYRWtnbkIySlRPZnBkZG9qSWczMGhPajF",
-   "title": "Millions of Americans could see credit card interest rates slashed to 10% under revived Trump proposal - The Sun",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOWdia3RMTmZiM051OU96SXg3LUJfeEpDSmRJV2xUcTE2eHlSaTBXeFRMZENleFpwMm5yYjBOMkZYbnQwRm1IVng5azJIaUJqWlJqZHE3UDktU21YbEdYRWtnbkIySlRPZnBkZG9qSWczMGhPajFIVzFuTHUydXUteTVsTV83T2FTRl9RdjhXWmN2V1pmQVhTWmd3?oc=5",
-   "desc": "Millions of Americans could see credit card interest rates slashed to 10% under revived Trump proposal  The Sun",
-   "source": "US Fed",
-   "publisher": "The Sun",
-   "scope": "world",
-   "ts": 1794254093000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZDdqRjJYZnV3SmRkeDg2UHlwTDBsMHNiVi1qUDVfcVJSaDNTSTJGR1JEU29KOGlHd3BHek42Ml8wTEJQdVVvamZJaE8xX0U2LTZwblp3bFlVcUtkYjdZLXc1LXRhSGwyUzBfMHU5dW53d0NhY2h",
    "title": "Fed officials on watch for overheating demand as they weigh interest rate path - Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZDdqRjJYZnV3SmRkeDg2UHlwTDBsMHNiVi1qUDVfcVJSaDNTSTJGR1JEU29KOGlHd3BHek42Ml8wTEJQdVVvamZJaE8xX0U2LTZwblp3bFlVcUtkYjdZLXc1LXRhSGwyUzBfMHU5dW53d0NhY2hmQ1h1MVh4Y1dKZVY3dW9UVmV5cVFoX2M4OWtIWmJ2SFQxR0laSzBxaFVmVHdOeE9VTFhQdldCc29DM3pJNzNlMWhaY0Q1c2RNTG1HNl8zQmxIcXRhTzFkc1lx?oc=5",
@@ -420,16 +890,6 @@
    "publisher": "Yahoo Finance",
    "scope": "world",
    "ts": 1794252516000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalBuZXBLSkx6bEJtdVU0djlRbHRwdlVRNWdTbWJDM2NrRmZVcGg4SV9mdEVONXVWeml3OFgxZWRKMEoxenRCLXVaSXhDdUdRNG55V3ZWS0drMzJwaUJYN3A5cFlpWEt5anBMMEtoa0R1LTIxa3B",
-   "title": "Gold Holds Decline as US Jobs Data Fan December Rate Hike Bets - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalBuZXBLSkx6bEJtdVU0djlRbHRwdlVRNWdTbWJDM2NrRmZVcGg4SV9mdEVONXVWeml3OFgxZWRKMEoxenRCLXVaSXhDdUdRNG55V3ZWS0drMzJwaUJYN3A5cFlpWEt5anBMMEtoa0R1LTIxa3BnS3luNUdPWFIweTY0NEJhS2thcnpqY0YyVEJwZHhxclFyQ3c0OTNETy1aQlFaeHN2R1A3dXg1T0NDU21ycw?oc=5",
-   "desc": "Gold Holds Decline as US Jobs Data Fan December Rate Hike Bets  Bloomberg.com",
-   "source": "US Fed",
-   "publisher": "Bloomberg.com",
-   "scope": "world",
-   "ts": 1794251922000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU1ZFOWpibk9kaXJuSWZva041Q3hTYWRGRkVnVkRZLXd3ZXBZVnhFaFlfY3VtV3dMU1gycDdLdnVXSnY4encyeEYxUUt4eW96cDJzNU93YURpNFA0TldBem5YT1p5bTVkS0lhZHJ6UGNYdklJMjJ",
@@ -442,24 +902,14 @@
    "ts": 1794251920000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWlBvQUlNNkdQQUhMNjlGdTBfZ0h0MHZxQWNXSzB3dERUM2RNUXNGX3otOE9iTDJJR0FrMWRGTW9BZzdfLUtZaU5RMG80VXo2bDJLclRHOWo0VTJrVU9TX0NTWGJLSXV0bW1seHN6R0xzQTVpUFM",
-   "title": "Many SBA borrowers will feel the squeeze of rising rates - The Business Journals",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWlBvQUlNNkdQQUhMNjlGdTBfZ0h0MHZxQWNXSzB3dERUM2RNUXNGX3otOE9iTDJJR0FrMWRGTW9BZzdfLUtZaU5RMG80VXo2bDJLclRHOWo0VTJrVU9TX0NTWGJLSXV0bW1seHN6R0xzQTVpUFM3Z3JKRGJOMHJfTHNrNnRRMlF4YUxfaUlNaWNNZnRtclBUcVRwdV9PLUVEMnF5eHg1OA?oc=5",
-   "desc": "Many SBA borrowers will feel the squeeze of rising rates  The Business Journals",
-   "source": "US Fed",
-   "publisher": "The Business Journals",
+   "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUG1kSHFKNm9CdGZLQ0tjNlUwajN2VHVLLXl1RVdDMHdSQzJzUjRiNGc0Qi1xSGlza0RRSDZQeGpiRi1BMExqcnJZNC0wMTVRLWhnOFc4R25IZmNWeEVWS01KNjk1VC1hQUxpQ0k2S2lnRXpzc1N",
+   "title": "IMF wants Kenya to identify crypto traders in crime fight - Business Daily",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUG1kSHFKNm9CdGZLQ0tjNlUwajN2VHVLLXl1RVdDMHdSQzJzUjRiNGc0Qi1xSGlza0RRSDZQeGpiRi1BMExqcnJZNC0wMTVRLWhnOFc4R25IZmNWeEVWS01KNjk1VC1hQUxpQ0k2S2lnRXpzc1NkY19BMWNwSXlGdHRsYUI0Y19FQXBEY3dsWmxRU2FTQTZMTktUVlJGdzV1Yk1USk80T1BiTWMyeUNESVV3?oc=5",
+   "desc": "IMF wants Kenya to identify crypto traders in crime fight  Business Daily",
+   "source": "IMF / World Bank",
+   "publisher": "Business Daily",
    "scope": "world",
-   "ts": 1794251700000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2FhWEMyRkJ2VXUzQlluUlJYMkVnNzc2UUxuSk1CN3kxTEJRcWFDelVfamxWQlotaXBZUVdyLXZXN2oxZzl5THB0S0s1UFJJX0NqZnVBNmV1bmk0NlR3X2hOalY3SVBDTy1XMmM5Q2Zqclo1NWl",
-   "title": "Fed’s Barkin sees rates near neutral, offers no December signal - FXStreet",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2FhWEMyRkJ2VXUzQlluUlJYMkVnNzc2UUxuSk1CN3kxTEJRcWFDelVfamxWQlotaXBZUVdyLXZXN2oxZzl5THB0S0s1UFJJX0NqZnVBNmV1bmk0NlR3X2hOalY3SVBDTy1XMmM5Q2Zqclo1NWloVlhtM2gwdzZlM0R0cEtZcEFWZ2FHaTJ4djIwMnFfb0Y3Z3FhLURBdjBDWVpxTU9XQQ?oc=5",
-   "desc": "Fed’s Barkin sees rates near neutral, offers no December signal  FXStreet",
-   "source": "US Fed",
-   "publisher": "FXStreet",
-   "scope": "world",
-   "ts": 1794250716000
+   "ts": 1794249900000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnJPYlZuc3ExMGNPV2FpZG1DMGNud3h3dzR3eHpqTVQ0RUtuckxkM1BRdklpWUk3aDg5R1N1bi14cXJUd0pHeU5BQXB0VTFmdVRJRXNYSnBfQ3NNakY4OFRXRlJTUmgyNEpiYXp6cTUyU2Z0RU9",
@@ -470,16 +920,6 @@
    "publisher": "Bloomberg.com",
    "scope": "world",
    "ts": 1794249876000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUZwUzlMT0N3OEFwczhQUXNoa3N6cFRqTUVLaVhlQUxiUjVwemYzd3R1VVJOMVV6V2g5NjZqdEJ0QTg0dUtpQU5mWThEdXMzcGJHZGwwdEdjSFlEUEVUZ2FCc3BURkcwQ0ZRNzBGc3E0VXozTEZ",
-   "title": "Fed’s Barkin Says Policy Direction Clear, Needs Careful Pace - Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUZwUzlMT0N3OEFwczhQUXNoa3N6cFRqTUVLaVhlQUxiUjVwemYzd3R1VVJOMVV6V2g5NjZqdEJ0QTg0dUtpQU5mWThEdXMzcGJHZGwwdEdjSFlEUEVUZ2FCc3BURkcwQ0ZRNzBGc3E0VXozTEZINFFsNUZQR0E3RXRSZnBHakRGcktPems4cTNvR29EYlBDWjRPSDBLODZ0NTZWZl9oTUJHSDdCZEpZOERsZEk?oc=5",
-   "desc": "Fed’s Barkin Says Policy Direction Clear, Needs Careful Pace  Bloomberg.com",
-   "source": "US Fed",
-   "publisher": "Bloomberg.com",
-   "scope": "world",
-   "ts": 1794249020000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWRsYnpDZXZZUUNKTFFqcS1OQmFFZUg2RnRlLXM4SDhoVDdkX242aWZLQUg5eE56T05rdlVWWlVWVXJ6X2hjejF0bzhzbkE1eVFwMUFBeUpLUVI5Z3Z1TFdwUFRMV1pqZGlKN3dtT2dsZHk4Vll",
@@ -522,56 +962,6 @@
    "ts": 1794247200000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0ZnZGR1ZG5BS0NZS1ZCMEdkTEJSZGs0WWVPMG1sbjJ3QjZUdlhNQzFVRU5BMkU1Q29FMnhaMnM4WTBsMGt1UWhFWWh4UW5KZWZwYVZVSE5ZOFlaMU0taGNrMGtmRTBPVTFMTTMxMTlCQ0lVTl9",
-   "title": "Treasury yields rise as CPI data tests mortgage rate outlook - Mortgage Professional America",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0ZnZGR1ZG5BS0NZS1ZCMEdkTEJSZGs0WWVPMG1sbjJ3QjZUdlhNQzFVRU5BMkU1Q29FMnhaMnM4WTBsMGt1UWhFWWh4UW5KZWZwYVZVSE5ZOFlaMU0taGNrMGtmRTBPVTFMTTMxMTlCQ0lVTl9ZaExfTEFsLUFHVzJyQ25Rdk96c1pHVDBIdkg0N3dfUlE5bVV0OUNSVWRZRlFpVzFDdmN6cmw3bjVOdlgyb1pGNURUYUtrektfTkZGa1Z5Vmc?oc=5",
-   "desc": "Treasury yields rise as CPI data tests mortgage rate outlook  Mortgage Professional America",
-   "source": "US Fed",
-   "publisher": "Mortgage Professional America",
-   "scope": "world",
-   "ts": 1794247107000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcEk1eWxwOEVWRVVFNEs0WG1Qc1ZYZmtrRjBlUE9teGVTOXFRVVZ2QWtGbnNiQ1hha21IMk5pQVV2ZkhqWFBUampQV0U0UkNSZ1RNY2xqUHZPelJFc1JWcEE2S1BoNGtUOVlXZHZ6WkM1UkJsQ3V",
-   "title": "More Rate Hikes Are Coming as Job Growth Accelerated, Unemployment Fell - 24/7 Wall St.",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcEk1eWxwOEVWRVVFNEs0WG1Qc1ZYZmtrRjBlUE9teGVTOXFRVVZ2QWtGbnNiQ1hha21IMk5pQVV2ZkhqWFBUampQV0U0UkNSZ1RNY2xqUHZPelJFc1JWcEE2S1BoNGtUOVlXZHZ6WkM1UkJsQ3VpNno2cHRrOHVTNUk4ZmtSUnBidjh0UXpBM3FxMkhfa210ay1UTXVBeXluWUpDOENiMnRqUFB3b0JyNVltY20?oc=5",
-   "desc": "More Rate Hikes Are Coming as Job Growth Accelerated, Unemployment Fell  24/7 Wall St.",
-   "source": "US Fed",
-   "publisher": "24/7 Wall St.",
-   "scope": "world",
-   "ts": 1794242940000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRnBFclhMR1BqMUxwQjNlNHpGMEVzVlROV0Nvb1lEWWRweXBkWWNRMU84aDJROTh1ZHBkRzFkY0RyMEdubVplc05lZGFOei1ZUUdPUnh0N2twd1ltTkZmYVQxNm1fcTE3UjdsTTVUYUVLRzA2NUN",
-   "title": "Bitcoin faces selling pressure despite AI stock recovery amid ETF outflows and Fed rate hike fears. - Pluang",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRnBFclhMR1BqMUxwQjNlNHpGMEVzVlROV0Nvb1lEWWRweXBkWWNRMU84aDJROTh1ZHBkRzFkY0RyMEdubVplc05lZGFOei1ZUUdPUnh0N2twd1ltTkZmYVQxNm1fcTE3UjdsTTVUYUVLRzA2NUNGX3Jza3lBU3FfZE8zQTBtRG9fRW95Ul9hLWswTlVuQWFZazhCX1F3ajh3THVjUw?oc=5",
-   "desc": "Bitcoin faces selling pressure despite AI stock recovery amid ETF outflows and Fed rate hike fears.  Pluang",
-   "source": "US Fed",
-   "publisher": "Pluang",
-   "scope": "world",
-   "ts": 1794241543000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSnJIQlBuakJhczJmTUhlMkFjRGVJYUloZ3htNlFQN3NuQVNnZk9IVkhQUTJUWWxmeF8zR1I2ajRPTDNqdGt3TXZ0NlVjUm9iWVhsZDR4Y3RNTEQ5VVpUakItYU1tSzY0U1VzWm82dWlwN3JuN3V",
-   "title": "Trump Claims he Discussed Interest Rates With Fed Chair. Official Calendars Tell a Different Story. - Yahoo",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSnJIQlBuakJhczJmTUhlMkFjRGVJYUloZ3htNlFQN3NuQVNnZk9IVkhQUTJUWWxmeF8zR1I2ajRPTDNqdGt3TXZ0NlVjUm9iWVhsZDR4Y3RNTEQ5VVpUakItYU1tSzY0U1VzWm82dWlwN3JuN3VGMExHYTI4ZUdmUGZHSkhzejB4d21YMm03RzNKaVQ3a3lSTHJOWXJGQQ?oc=5",
-   "desc": "Trump Claims he Discussed Interest Rates With Fed Chair. Official Calendars Tell a Different Story.  Yahoo",
-   "source": "US Fed",
-   "publisher": "Yahoo",
-   "scope": "world",
-   "ts": 1794239891000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZkIzdzNKRC1wd1Y1ME9nNWhRSDVBclpDeV9NRUtzcVBZN2VOTGZjNzdzNmFzaTZfMGlzNElIVXljSDRpVEp0eDVNaXBSdkdSNWF1ZWh2T1Axbm5yWWswSXd0VG9DY0ZUejJITENFZjZiRTBhUkx",
-   "title": "Oil Prices Fall 4.6% on Reported $8 Billion U.S.-Iran Deal as Bitcoin Slips Ahead of Inflation Data - TipRanks",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZkIzdzNKRC1wd1Y1ME9nNWhRSDVBclpDeV9NRUtzcVBZN2VOTGZjNzdzNmFzaTZfMGlzNElIVXljSDRpVEp0eDVNaXBSdkdSNWF1ZWh2T1Axbm5yWWswSXd0VG9DY0ZUejJITENFZjZiRTBhUkxtSENwLWJkVWg3WW1ITFFBUmgzLS1Gb3Zhc1FuclgtM05yM2xydWdfRElVMERPNVl1T1djYlRzV2VnaDdJa2Itd24zR0FaUDN0OXhNVWNwOVE?oc=5",
-   "desc": "Oil Prices Fall 4.6% on Reported $8 Billion U.S.-Iran Deal as Bitcoin Slips Ahead of Inflation Data  TipRanks",
-   "source": "US Fed",
-   "publisher": "TipRanks",
-   "scope": "world",
-   "ts": 1794239551000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdUJqM25xMWc5M0xMZlhXdjFmdklFeHB6d1pReWQ0YVhUMkMyZ1A0b3ZidnNLbzhjMEIxZURGeVZWV0tYdnZfaDFOZHJhcTItMzVPQkNVbmNCQnJsQ2wtVGtJTVBhS05nTVRtaExSM3UzSGp6d2N",
    "title": "IMF Concludes 2026 Consultation With Denmark - Mirage News",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdUJqM25xMWc5M0xMZlhXdjFmdklFeHB6d1pReWQ0YVhUMkMyZ1A0b3ZidnNLbzhjMEIxZURGeVZWV0tYdnZfaDFOZHJhcTItMzVPQkNVbmNCQnJsQ2wtVGtJTVBhS05nTVRtaExSM3UzSGp6d2N0aHhVTEFJOVhseGhEVjF3cjA?oc=5",
@@ -580,26 +970,6 @@
    "publisher": "Mirage News",
    "scope": "world",
    "ts": 1794237840000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVExjQXRGUmM3NW55SGJpaVl6cFRVVGlUenA0YlpCR0szZ1h6bUN4SjhzLUU2ZzNOOUhDSHNrR1VOdHhQd3Z4aEtTeVZmRzN1MnJzclRyem9NUnVXbVFHak53a21vZlg3M3JYWVVDT1FtYmpHbWh",
-   "title": "Today's Mortgage Rates Inch Down to 7.153%: Nov. 9, 2026 - U.S. News - Money",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVExjQXRGUmM3NW55SGJpaVl6cFRVVGlUenA0YlpCR0szZ1h6bUN4SjhzLUU2ZzNOOUhDSHNrR1VOdHhQd3Z4aEtTeVZmRzN1MnJzclRyem9NUnVXbVFHak53a21vZlg3M3JYWVVDT1FtYmpHbWhVZFZvSllSMmhMUUVfY3lLTXZpcTlKVXVnNA?oc=5",
-   "desc": "Today's Mortgage Rates Inch Down to 7.153%: Nov. 9, 2026  U.S. News - Money",
-   "source": "US Fed",
-   "publisher": "U.S. News - Money",
-   "scope": "world",
-   "ts": 1794237240000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3RhbHBmNi03UGQ0LVVVbEFMcWtrU1ljTU9UX3RtckJySkxKSFhNMkVaSVByUWZ5LUF4YU1NOHRFSm5nN09uUUQwMmU0TDluSkFyZXNYM29lZjlVZ09PU2ZSRllCTU5qME9jUkZ1dkNLSnAyWWR",
-   "title": "U.S. Markets Brace for October CPI Report After Hot Jobs Data Pushes December Rate Hike Odds past 65% - TipRanks",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3RhbHBmNi03UGQ0LVVVbEFMcWtrU1ljTU9UX3RtckJySkxKSFhNMkVaSVByUWZ5LUF4YU1NOHRFSm5nN09uUUQwMmU0TDluSkFyZXNYM29lZjlVZ09PU2ZSRllCTU5qME9jUkZ1dkNLSnAyWWRMd0dXcEVQVU9QN1BtYVZ4U1F0MlgwVG1SUUpyRzZZeTVFRElVcmhJSkU4U2N4eGw5bERyWm5Gb0lFdFhTajdHVEVWQXdOczF4eEFMWG5RNHVOSQ?oc=5",
-   "desc": "U.S. Markets Brace for October CPI Report After Hot Jobs Data Pushes December Rate Hike Odds past 65%  TipRanks",
-   "source": "US Fed",
-   "publisher": "TipRanks",
-   "scope": "world",
-   "ts": 1794233760000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUGJ3ampIeFV2Q3RPcmhabjh3cWlLMGtlZ01FY3Zha2FKV05iQkNFd3pyZ0h1amdHbERpQUlUaDdHTVNlcV80WHhRZVpUTTctTlRmcUd3amNFVE5jV3R3cnZsOXc4dmVaeGJQb2lmU0FXdUtSUjF",
@@ -622,64 +992,14 @@
    "ts": 1794233255000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DV2lISnhUR0ozaW43LVk2R1UzdFJqNzR3YW1aR0lKOTk3UnU4T3hOSWhkVUhFWkJ2Z192TVBaQ3oxeUdfRjlHb2RFVUhOSURxVXBv?oc=5",
-   "title": "Euro remains rangebound against British Pound as traders eye UK and Eurozone GDP | FXStreet - شبكة تواصل الإخبارية",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DV2lISnhUR0ozaW43LVk2R1UzdFJqNzR3YW1aR0lKOTk3UnU4T3hOSWhkVUhFWkJ2Z192TVBaQ3oxeUdfRjlHb2RFVUhOSURxVXBv?oc=5",
-   "desc": "Euro remains rangebound against British Pound as traders eye UK and Eurozone GDP | FXStreet  شبكة تواصل الإخبارية",
-   "source": "ECB / Europe",
-   "publisher": "شبكة تواصل الإخبارية",
-   "scope": "world",
-   "ts": 1794231424000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTZrV1FJeGNGeTBRNGdiQkFwNGVsc2pMcVk5eXhhT2dsN3JOczR2blM4X3hLcTVSU1UyOWxSY0Iya0ZmaVBUWmo1eGNKd0FFZEthajVFbUxXSUliYXBlTDVYRGpXUFVZTXBoQmhHeWF1Mmhjdjc",
-   "title": "Gold, silver rise as Iran diplomacy pressures crude, dollar weakens - Kitco AM Report - Kitco",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTZrV1FJeGNGeTBRNGdiQkFwNGVsc2pMcVk5eXhhT2dsN3JOczR2blM4X3hLcTVSU1UyOWxSY0Iya0ZmaVBUWmo1eGNKd0FFZEthajVFbUxXSUliYXBlTDVYRGpXUFVZTXBoQmhHeWF1Mmhjdjc4akM3RElORDg5UzVXMzlkQXhsRzJ2OFJQN2psUXRPMGxkdHdYaTNLdUJwOTVFWjhYQXdHU1N6OXQ1RU9IblhvZ3M1?oc=5",
-   "desc": "Gold, silver rise as Iran diplomacy pressures crude, dollar weakens - Kitco AM Report  Kitco",
+   "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdEVVVHVIdUdmTDVkU3ByN1A4Z21QbkllUVBleTlBNEVDNmc0c0ZlWlN1M2JSX2VGa3IteDEyQXZfTDBMWFBVUFd4MGRobkg2NnFOOXppbTI0d3RRM3lpQ1ZtYTBGazIzVnhDamgtZVJfSTNFVTl",
+   "title": "When Rising Interest Rates Signal Economic Strength—and When They Signal Risk - Harvard Business Review",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdEVVVHVIdUdmTDVkU3ByN1A4Z21QbkllUVBleTlBNEVDNmc0c0ZlWlN1M2JSX2VGa3IteDEyQXZfTDBMWFBVUFd4MGRobkg2NnFOOXppbTI0d3RRM3lpQ1ZtYTBGazIzVnhDamgtZVJfSTNFVTlXd0t6VW1MdVAxUU9MZnp5cmhxdUFOUXNBVzZINF9pWDdsa1BmamN1dWtTRmlZ?oc=5",
+   "desc": "When Rising Interest Rates Signal Economic Strength—and When They Signal Risk  Harvard Business Review",
    "source": "US Fed",
-   "publisher": "Kitco",
+   "publisher": "Harvard Business Review",
    "scope": "world",
-   "ts": 1794231303000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUjd2Qy16bHJqNFZmRmpOZmhDOS1GUkR1WDBUVWFHVmxhVVdRb2RDVC1GRS1mR0MtcWlULTNiaEVtaDZkQWVSQkNzUG9HS3BGckg2dl8xZWNWVmJDa3pha0xDeDMtVjdBeVdzUlFQQk5meTFWTnB",
-   "title": "The Dilemma of U.S. Asset Allocation in a High-Interest-Rate Environment - 富途牛牛",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUjd2Qy16bHJqNFZmRmpOZmhDOS1GUkR1WDBUVWFHVmxhVVdRb2RDVC1GRS1mR0MtcWlULTNiaEVtaDZkQWVSQkNzUG9HS3BGckg2dl8xZWNWVmJDa3pha0xDeDMtVjdBeVdzUlFQQk5meTFWTnBKLUo3NTRYRkxkeXdvaGFGclRqSmhtUjFaZEFmc05YVW1SSDMxQms?oc=5",
-   "desc": "The Dilemma of U.S. Asset Allocation in a High-Interest-Rate Environment  富途牛牛",
-   "source": "US Fed",
-   "publisher": "富途牛牛",
-   "scope": "world",
-   "ts": 1794230838000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLXVOVVNqUmhRc2xIbTdLT3dUUnBDcFNmYXV5X1ZpQ09HSWx2cXJBRGxoX3lOUkhrSWpCZjUwaF9kOGRFMnI0aWlaVUV5Q3BEelA1NlpRODltc2E4dzZ1aTlwZnZwZGJweTZ6aW9VV2NmaVA5YV9",
-   "title": "Gold gains as lower oil prices ease inflation fears - Kitco",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLXVOVVNqUmhRc2xIbTdLT3dUUnBDcFNmYXV5X1ZpQ09HSWx2cXJBRGxoX3lOUkhrSWpCZjUwaF9kOGRFMnI0aWlaVUV5Q3BEelA1NlpRODltc2E4dzZ1aTlwZnZwZGJweTZ6aW9VV2NmaVA5YV9wTTJhcXJjaXJwR0ZhekJuSjlvLUZIRWQ5LTU3RGVXTGRhSmNCdThmV0Yw?oc=5",
-   "desc": "Gold gains as lower oil prices ease inflation fears  Kitco",
-   "source": "US Fed",
-   "publisher": "Kitco",
-   "scope": "world",
-   "ts": 1794229995000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOamtiNzJxMTUxTHYzTE1HZ0xhcGE3d0tadjlpaFRIajQ2ZEFic1FMWTctWlFxUHpNb0NHOV9yV1NFTGJ1cGlWV2dvaTB3RW9PZnRlUEFZODJrQ0NLdmJjOXowUG1FNXNidUF5QW1JMXhqSUVucDh",
-   "title": "US-Israeli War on Iran Deepens America’s Housing Affordability Crisis - تسنیم",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOamtiNzJxMTUxTHYzTE1HZ0xhcGE3d0tadjlpaFRIajQ2ZEFic1FMWTctWlFxUHpNb0NHOV9yV1NFTGJ1cGlWV2dvaTB3RW9PZnRlUEFZODJrQ0NLdmJjOXowUG1FNXNidUF5QW1JMXhqSUVucDhMRXMzcFJGdWFDdDA4b1ZhcVQ2Mi1IdG9rVHhZcVcwd19LZGUzamoxcHpOX1gtQmtiWVp0RU5fTlhObGdLNmZXRS00UkZzeG5aVdIBxAFBVV95cUxQdVYzTEltZW5McFNFMUloZko2LWVWa1RjcDVDbWxyZDV0UkZuanNLN1dRX1hyT09pSXU2TEFVLVBFYm5wZjU1TEIyZzc1SlJ5QzJFX3RWeGR3clF1LS1iR3I5S2pnZnR4ZV9DRmlNNjRab3YxMWpsM3JpV0FqMFBiUVFCeHByaXNlYU5DWWFoc0lhSG1lUXp6Vmc4Zi1wZHNHdml1dWdOQXpNTnFuRzNpYmJmcjFiRmZxVmd0TTk4Xy00ZFpj?oc=5",
-   "desc": "US-Israeli War on Iran Deepens America’s Housing Affordability Crisis  تسنیم",
-   "source": "US Fed",
-   "publisher": "تسنیم",
-   "scope": "world",
-   "ts": 1794228340000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNUdfd0c5LUhtbk9POURvZTA4aEl4bWxERGo4UjZaX3hNdlBLRngtTWZ1Z0h1bEtiX3d4cGJSSTZ0ejZxLXZtRmJEUldxdExTTlY1UTZQZm5kTHp3VGVleS1ickpSbExCWUlna01HeXZkZWhWNzR",
-   "title": "TSX futures climb as softer oil eases inflation worries; US inflation data awaited - Kitco",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNUdfd0c5LUhtbk9POURvZTA4aEl4bWxERGo4UjZaX3hNdlBLRngtTWZ1Z0h1bEtiX3d4cGJSSTZ0ejZxLXZtRmJEUldxdExTTlY1UTZQZm5kTHp3VGVleS1ickpSbExCWUlna01HeXZkZWhWNzRxaXBHYmJZX1g3aDUtOVhqZFQzbGMwYnNnNkh1bTlxZmhCVFc3TEhNYlFDVDdPeUF1ZDdFcm9RV19RelJDMldKZUdydER1QzVR?oc=5",
-   "desc": "TSX futures climb as softer oil eases inflation worries; US inflation data awaited  Kitco",
-   "source": "US Fed",
-   "publisher": "Kitco",
-   "scope": "world",
-   "ts": 1794228300000
+   "ts": 1794230109000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWnhmVW9PVk1BZDJTY3NSczA1eXNVa0QzLTBEbWxIdVVSYkpjU1lGd2RBSlVsbF9XbjZKbG50TjRXYmViaEpoOFF1cUlza2U2a09jalNBVFdZT3NsV3JEOVN6VkVLcW1ldlVGakpId3BDajVvWU5",
@@ -692,26 +1012,6 @@
    "ts": 1794225854000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcmpPd2o4VjU5U3B2VThjZ3RMeXQzZ0JXaFhPMW5WLW9TZzEzSnh0eFN5QlBOZG81NUk5anhCQkdYYk5hdWdPa1htRGZmLU01bzlqYkplSnlJbDBjaHlEV0ZxbDNNVEVkS3VFdXpMYmwyUkNSOVB",
-   "title": "Vanguard Short-Term Bond ETF (BSV) rated 'hold' amid priced-in Fed rate hikes and key risks from interest rates. - Pluang",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcmpPd2o4VjU5U3B2VThjZ3RMeXQzZ0JXaFhPMW5WLW9TZzEzSnh0eFN5QlBOZG81NUk5anhCQkdYYk5hdWdPa1htRGZmLU01bzlqYkplSnlJbDBjaHlEV0ZxbDNNVEVkS3VFdXpMYmwyUkNSOVBqVk1pSkQ4a0FhYXJTb2xsX3NMSjBfSVREVWlZZHI1a21nZ2lXdw?oc=5",
-   "desc": "Vanguard Short-Term Bond ETF (BSV) rated 'hold' amid priced-in Fed rate hikes and key risks from interest rates.  Pluang",
-   "source": "US Fed",
-   "publisher": "Pluang",
-   "scope": "world",
-   "ts": 1794223447000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzk1UVdLQXVocndfZl9nT0xxeXpveDlHWGp0bGNUOC01cnlXN3FnMTB4dzUzaWxRUm52VVRFVlh1T2NPbHpWRGNBY1djRmJiXzlEeUUzbzZaNlNveENpa3d1TzhSN0tzSjNhemdGQmdYb1dLaGl",
-   "title": "MakeMyTrip's India Arm Gets SEBI Nod To Float IPO - NDTV Profit",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzk1UVdLQXVocndfZl9nT0xxeXpveDlHWGp0bGNUOC01cnlXN3FnMTB4dzUzaWxRUm52VVRFVlh1T2NPbHpWRGNBY1djRmJiXzlEeUUzbzZaNlNveENpa3d1TzhSN0tzSjNhemdGQmdYb1dLaGlNRjdRaGpEN21fdEhhU2l4cUdrLV9RWkhSZWZPWmVyQjhB0gGfAUFVX3lxTE1lWGZOdkgydWxmUkxocldlQ1d3LTVGdjVUTmVsM1VtM1A2WWlLd0JHOHo5cjhOel8weDVJcE4wQS1yME0xTUFVUUZ6UGFFVUhNcWROOFRwQVlXa1hLeXJrQlZoRTNqNHVoeVJCWDM4VjgtTm5TLURIRnNsdWtpeWxyLU5ZOVNmWW5INHN0T3dGdWVqUGk4em41RkwzUlk5cw?oc=5",
-   "desc": "MakeMyTrip's India Arm Gets SEBI Nod To Float IPO  NDTV Profit",
-   "source": "SEBI",
-   "publisher": "NDTV Profit",
-   "scope": "india",
-   "ts": 1794223363000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbl9IWVViZkQtMWd4a2JMR1JiRXZWaHNydlVkbmlTYXBxVUN5azFnQnVKSUxaT3BLWXFsODNlRFJWQWE0blBEaVFvd2lJNFdhdmJKOHhUTXpPU2ZhZXo2SklzNUdXeUJyNGZ0Tl9hcWVGVGwwYld",
    "title": "J.P. Morgan Bond Manager: The 60/40 Portfolio Is Alive and Well - Morningstar",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbl9IWVViZkQtMWd4a2JMR1JiRXZWaHNydlVkbmlTYXBxVUN5azFnQnVKSUxaT3BLWXFsODNlRFJWQWE0blBEaVFvd2lJNFdhdmJKOHhUTXpPU2ZhZXo2SklzNUdXeUJyNGZ0Tl9hcWVGVGwwYldHTlVaSnlBeV9oS21NRlJEWndiNldCb0xwLWVvY0RQWlhaT1lB?oc=5",
@@ -720,46 +1020,6 @@
    "publisher": "Morningstar",
    "scope": "world",
    "ts": 1794222590000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HRmt4YmRITHc2X0tWNmtMaUoxTktuMmNvOWM4M0ZJWHVkVHgzSVBPR1NBcFZlMEtSUDRabXByUU85cy1JRG5rWS1qSGhlYkN2WmZtVUpsejQ?oc=5",
-   "title": "Top CD rates today, Nov. 9, 2026: Lock in up to up to 5.05% - Fortune",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HRmt4YmRITHc2X0tWNmtMaUoxTktuMmNvOWM4M0ZJWHVkVHgzSVBPR1NBcFZlMEtSUDRabXByUU85cy1JRG5rWS1qSGhlYkN2WmZtVUpsejQ?oc=5",
-   "desc": "Top CD rates today, Nov. 9, 2026: Lock in up to up to 5.05%  Fortune",
-   "source": "US Fed",
-   "publisher": "Fortune",
-   "scope": "world",
-   "ts": 1794222060000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWm1SQjRIY1VOUURsSjI0dU1OUGtZRlp3RG9KVVN0REpLRm5DVFVHWXdJRnM1ZHM4TlVQOEpmNG1pVUs5T2ExbkpNRmlReWVjZDNqa2NzRjlkVkNLT0lWUUZ6ZFFOZzJ2Wlo2RWNaSXpaX0lSWDh",
-   "title": "Gold Advances Toward $4,100 as Dollar Weakens Ahead of US Inflation Report - Yahoo Finance UK",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWm1SQjRIY1VOUURsSjI0dU1OUGtZRlp3RG9KVVN0REpLRm5DVFVHWXdJRnM1ZHM4TlVQOEpmNG1pVUs5T2ExbkpNRmlReWVjZDNqa2NzRjlkVkNLT0lWUUZ6ZFFOZzJ2Wlo2RWNaSXpaX0lSWDhzbndKMkwtTDBQSA?oc=5",
-   "desc": "Gold Advances Toward $4,100 as Dollar Weakens Ahead of US Inflation Report  Yahoo Finance UK",
-   "source": "US Fed",
-   "publisher": "Yahoo Finance UK",
-   "scope": "world",
-   "ts": 1794218916000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMGkxNUpkWGRhbDg1Wjh3aTJ0bFR1LXZNcjRDa0V6ZzZ4NWJYUFFtd095RENRT0FPMjZ5cGMxT0dCZWZsdkJGM1lBQkRTazl3ZFVTQW1jbGdWa0p1dVp1WC1nZ2FMbTZkQ2oxZVRJLUxqcVFack9",
-   "title": "Federal Reserve: Expectations of December rate hike strengthen – Commerzbank - www.tmgm.com",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMGkxNUpkWGRhbDg1Wjh3aTJ0bFR1LXZNcjRDa0V6ZzZ4NWJYUFFtd095RENRT0FPMjZ5cGMxT0dCZWZsdkJGM1lBQkRTazl3ZFVTQW1jbGdWa0p1dVp1WC1nZ2FMbTZkQ2oxZVRJLUxqcVFack9GeUQyYzdLNzVRZWwyNnFxQ0c1cWxHaUlRR2J0RzhzQkt3WDhSaXdtTWNHZy16aWRBclIxb2k1YnprSTM2REZhUEJkY0R3NWdrd2pLWmZ6ZXdxdElubw?oc=5",
-   "desc": "Federal Reserve: Expectations of December rate hike strengthen – Commerzbank  www.tmgm.com",
-   "source": "US Fed",
-   "publisher": "www.tmgm.com",
-   "scope": "world",
-   "ts": 1794218845000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSDY0ZmlIelNKcGtfaEx5Q0VBN3VNTm9QbXhyQmh3SVJsbUE3bFpBdldWTFZocVdsVVR2LUFyTjB2MVloTW1EeUF1SFZBak5QOC1lZzNvZXZta1c2SkJXNWQ0dUk4SmpFWnBJNy1NMTJLRGY5RDd",
-   "title": "Gold Rises Toward $4,100 as Weaker Dollar Offsets Expectations of December Fed Rate Increase - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSDY0ZmlIelNKcGtfaEx5Q0VBN3VNTm9QbXhyQmh3SVJsbUE3bFpBdldWTFZocVdsVVR2LUFyTjB2MVloTW1EeUF1SFZBak5QOC1lZzNvZXZta1c2SkJXNWQ0dUk4SmpFWnBJNy1NMTJLRGY5RDdhdEdUVmc3SG8yb3kwdjFYRl9lZS10Xy1NRW9ONXFBMDVCbQ?oc=5",
-   "desc": "Gold Rises Toward $4,100 as Weaker Dollar Offsets Expectations of December Fed Rate Increase  Yahoo Finance",
-   "source": "US Fed",
-   "publisher": "Yahoo Finance",
-   "scope": "world",
-   "ts": 1794218831000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNaktKWU5oVXhBUUhaaGIzWDFIcHZjLWN4TUt1anRzcWhzbHlpMW9mTGVvX3pvdll3TDVCYS0taVYtbHN2UnFsa0ppa1ZGVlcwQzN3ZDctak1ITTNlSDJqT0ZNd0xVM1h4cmtYWjFiUTIwaVdCWWd",
@@ -782,24 +1042,14 @@
    "ts": 1794213358000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uNHM2VzdSOEZ5RzhGVGptekhqdF9GYmtDZHo2aFNPdmJqOEx5RjRGMnRQTGtyaTVOeXZhejBpcmttd1ZMLVZnWXNFeVJSN3RrdUNYMzc4ak5LeVU4OXQxRmJ2V1hIbW91OG9FNUctcw?oc=5",
-   "title": "Mortgage rates today, Nov. 9, 2026, rates move down again - Fortune",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uNHM2VzdSOEZ5RzhGVGptekhqdF9GYmtDZHo2aFNPdmJqOEx5RjRGMnRQTGtyaTVOeXZhejBpcmttd1ZMLVZnWXNFeVJSN3RrdUNYMzc4ak5LeVU4OXQxRmJ2V1hIbW91OG9FNUctcw?oc=5",
-   "desc": "Mortgage rates today, Nov. 9, 2026, rates move down again  Fortune",
-   "source": "US Fed",
-   "publisher": "Fortune",
-   "scope": "world",
-   "ts": 1794211260000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTnBnTU9ZdVZuNFpZLXZONDUxNFpVZFVKU2Z4OEU2d2lYaXlBcTdCTFpjTWo5UUhRSmdRU0dpekdLd3c4NzE3QkRCWnBGaXFpUnNpWnAyQXJjbE56THJFN3piX0dOc1dMNTE0UFlvUTYxdXE3YnA",
-   "title": "US October CPI Preview: Inflation Growth May Slow, How Will US Stocks, Dollar and Gold React? - TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTnBnTU9ZdVZuNFpZLXZONDUxNFpVZFVKU2Z4OEU2d2lYaXlBcTdCTFpjTWo5UUhRSmdRU0dpekdLd3c4NzE3QkRCWnBGaXFpUnNpWnAyQXJjbE56THJFN3piX0dOc1dMNTE0UFlvUTYxdXE3YnAzYjJVYmxNYUw4OGZmSDh3Y3RwZXBpTTFYaU40VTg0TENxRTY0a1VFeFR1Tk1zcHNocVJENkdneDMtVVp6aEVhOXc5Q29uV2RlZmZJMjUzckhYTTVld2JoMEpEWWZPRVhvR0d0bWJWV1ZnMnVibw?oc=5",
-   "desc": "US October CPI Preview: Inflation Growth May Slow, How Will US Stocks, Dollar and Gold React?  TradingKey",
-   "source": "US Fed",
-   "publisher": "TradingKey",
-   "scope": "world",
-   "ts": 1794210818000
+   "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZWhlSHN1NWVYbkNzc2g2QzU3VzZpb3l0Y1A3ajNHYkdyYTZwVndyQmpZM1pSeGFMN1I5MjdRYkl4dy1ZY2Rqei01a3Z4eWd1ZWMyVm1hVXhtWjZjcFQwYWMtNDVpWmIzY1I1NVJGOG1jX1paWlJ",
+   "title": "MakeMyTrip's India arm gets Sebi nod to float IPO - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZWhlSHN1NWVYbkNzc2g2QzU3VzZpb3l0Y1A3ajNHYkdyYTZwVndyQmpZM1pSeGFMN1I5MjdRYkl4dy1ZY2Rqei01a3Z4eWd1ZWMyVm1hVXhtWjZjcFQwYWMtNDVpWmIzY1I1NVJGOG1jX1paWlJaVTFLdWxsT0hMQmktRExzbU1PRWZySU9saldMVzl0dXVDNkVveEtvd1NUYURsaXF4V3pTUnMtT3QyQ21yTnhpOUhiZzk4a9IBwgFBVV95cUxNaWFYWThHR3JDbzFueS1wZlNQa3hxc3lWVTRUV2wxNVhrbFpwU2tVSm9yOGZpZ2NHYllCLTNudVRqaC1qeVZmZHZ3RmthSE85cDNpX2FJcEVmMlI3NXNodTJpRmFsZ0tPb3JzNUJkZjJHbmZfZEZlV3pCNXZoVlN4eHdicWFydWpscGVyQWtVM3paLV93X1FNQlM5V0pvWm5wdmRTd3VSbjBIdmllSjZOTzBkZ0FtZ1phekdwN0h3M2dxdw?oc=5",
+   "desc": "MakeMyTrip's India arm gets Sebi nod to float IPO  The Economic Times",
+   "source": "SEBI",
+   "publisher": "The Economic Times",
+   "scope": "india",
+   "ts": 1794211951000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOem9TblBuZFVUWUlYTkF2bjczN0hhQ2hac0xWX2NhaERoWWtuZm9pbUxXUVVlTHU0ZnVVVG1wMHR4OG8ySkFvRWs2ZHFNQ2NRNXRPcGpEOE5VWWdiX2V3akFsMVBpTV95N1BiX3U0YjlfaW1SUkN",
@@ -852,16 +1102,6 @@
    "ts": 1794207273000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMUpFaVpEbWh2dlJiOG81V1dYR3o3MVpzMXVUV3R3T2ZFajB0cXdNRkxEZUVkLWJnYVAwT0tBM01TdGlULWsxcWtnWTRNTmJNS2VLY01zZjhXUHhFMUhTT185dkFTMHZnNjc3Yk4xNTZKOXFoakF",
-   "title": "Gold rebounds as weaker dollar offsets bets on December Fed rate hike - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMUpFaVpEbWh2dlJiOG81V1dYR3o3MVpzMXVUV3R3T2ZFajB0cXdNRkxEZUVkLWJnYVAwT0tBM01TdGlULWsxcWtnWTRNTmJNS2VLY01zZjhXUHhFMUhTT185dkFTMHZnNjc3Yk4xNTZKOXFoakFiaUVsQ2gtZnU4dzkxT1pKY3BSa3lqc1RBNFYxeHp2eS15cXB3OA?oc=5",
-   "desc": "Gold rebounds as weaker dollar offsets bets on December Fed rate hike  Yahoo Finance",
-   "source": "US Fed",
-   "publisher": "Yahoo Finance",
-   "scope": "world",
-   "ts": 1794188760000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYlp1Tk1WWHlpYURnTmU3cDJGb2tLLVBvaENwU2pjZmJrUlI5VGQwdldGX1Vmc05EdFAyb3ZaV3R0RC1NY3dXYWtya2NqVkY1MGlUWGY4SXY4dUUzR05pRm5UeWxfTjlLWTJMaHo2ZGFxTExWQ0Z",
    "title": "When The Economic Pendulum Begins To Move Toward Africa – Analysis - Eurasia Review",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYlp1Tk1WWHlpYURnTmU3cDJGb2tLLVBvaENwU2pjZmJrUlI5VGQwdldGX1Vmc05EdFAyb3ZaV3R0RC1NY3dXYWtya2NqVkY1MGlUWGY4SXY4dUUzR05pRm5UeWxfTjlLWTJMaHo2ZGFxTExWQ0ZXanJyNXBpajZkZmtxZUlZSmlNQlhOT1NwbUpsWHJ6TEEwSG5uLWx2eUF0Uld5WFEyWQ?oc=5",
@@ -870,16 +1110,6 @@
    "publisher": "Eurasia Review",
    "scope": "world",
    "ts": 1794188399000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBha3lPbVRaNlA0czFYS1ZrckgtR1RhTEdDd1UzRUUtWnFfcVQ0aVZNN2RTVUFndU10LXJWMlZOSzBETkhISEUtaEV2SHhKU0tF?oc=5",
-   "title": "Gold gains as lower oil prices temper inflation fears; US inflation in focus - The Edge Malaysia",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBha3lPbVRaNlA0czFYS1ZrckgtR1RhTEdDd1UzRUUtWnFfcVQ0aVZNN2RTVUFndU10LXJWMlZOSzBETkhISEUtaEV2SHhKU0tF?oc=5",
-   "desc": "Gold gains as lower oil prices temper inflation fears; US inflation in focus  The Edge Malaysia",
-   "source": "US Fed",
-   "publisher": "The Edge Malaysia",
-   "scope": "world",
-   "ts": 1794185502000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUG1ldmRfWDJ4YUthZkloUzNWU3dUeWZtSTZaTDhZVGJCdU5ZQTk2Ql80Ump3bEN1YTdOd0NVSDRBOHEtYXlwWUR3ak1EbjVIYU9RQi1neTgxM3NwODRZanJLNmlGWXJvZ0FmTlJ4LXhFTy1WbDJ",
@@ -892,16 +1122,6 @@
    "ts": 1794184721000
   },
   {
-   "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOE9iTF95Y1owUEk0R0sxWllHa0tmcFdMZ1hFNVRObUF2VzZZcmlsNFgtWFZTSnlHNWZjMFhmaDVMYXQ3akx2Y3BnT0k3XzFGeGozMGszbnFodFJpYzh1WklXSXM4cnBGLTVQUWlJNG1Wc0pMbjJ",
-   "title": "US continues to generate jobs, yet inflation is eroding the spending power of millions of Americans - ABC13 Houston",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOE9iTF95Y1owUEk0R0sxWllHa0tmcFdMZ1hFNVRObUF2VzZZcmlsNFgtWFZTSnlHNWZjMFhmaDVMYXQ3akx2Y3BnT0k3XzFGeGozMGszbnFodFJpYzh1WklXSXM4cnBGLTVQUWlJNG1Wc0pMbjJ1WjBHM3BFVDN1UHM0Mk1IeFYwWWFNYWFnaFQ0REljNVNhdV9kbF9FUUZoMTRzUkZCbUVORVVTd3o0WHZ1X0lJdw?oc=5",
-   "desc": "US continues to generate jobs, yet inflation is eroding the spending power of millions of Americans  ABC13 Houston",
-   "source": "US Fed",
-   "publisher": "ABC13 Houston",
-   "scope": "world",
-   "ts": 1794166776000
-  },
-  {
    "id": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTVRvRDlvODR5S1pmZWJ2S20xdkNIXzlIVi1TbDZHX3N2Q0NwUWZ0emhGeUlKQ1o1dHRaLXd2cERUR1V3WFA2V2Y4b0c4ZVZWYUxYdWxUcDREWjJubWUtUmxsUEFNaGpQQ2FTQngxZlB3YnUzTmF",
    "title": "RBI cheque book rules: Will existing CTS cheque books become invalid from January 1, 2027? Here's what RBI said - Livemint",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTVRvRDlvODR5S1pmZWJ2S20xdkNIXzlIVi1TbDZHX3N2Q0NwUWZ0emhGeUlKQ1o1dHRaLXd2cERUR1V3WFA2V2Y4b0c4ZVZWYUxYdWxUcDREWjJubWUtUmxsUEFNaGpQQ2FTQngxZlB3YnUzTmFhZUJjcUNmXzJneFlrZTBmcEVSUElybThsQjg0VTc0UENqNEs4TmpJdDM5TkRXQW1pZ3htY3pwcnp6UDYzcEIzb3d6dXZiOTFnZmNwYWt6ZzR2d1FrTWp3TFI2cVdERjR0LWdWb0YzODBaSFNXZWZ4V0NGYnk2MWtiUdIB9AFBVV95cUxQMWxkMG9QeGpQSUtxNmVjWlZXZ05pTVFCOGw4Y2J1ZFNsWm1FVUh4bmIyLWZLNGxrU3lZdEtacV9EWUhLMkVqQWVmRTl3QWtkOFRtU1A5R29NZkU1M3NzT0VoZTJxQWFDaFBSWE9Ya1c4VEVCcmYyN3h1cW9BaDZYd1N5SndjZ3RIUHVINEFxWmZOeDZVV3ZyWW8zYmpNaHA2ZnUyM3pMTmdmTHg2OHRsTVBHOV9vamRHMGd6dE42YXpEOGdlak9Hd1FuQzVKTGViY1pqcDhHTk8xUzZVN2VnZWxxeFpSR3hydTRLYXdET3ZBR2Ro?oc=5",
@@ -910,26 +1130,6 @@
    "publisher": "Livemint",
    "scope": "india",
    "ts": 1794145192000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0FsWHhZQWRaWE1DXzlGSzVKdllEZkNxWVJCdXFVWU1CbUh3cTZLdjJtYXo3OG5naUZDSkRIcHhwM0tQTnhHNzVTRkxoZ0hHbVZKaHdsYW9HOHhXcTFqMDJmTUxqSkF5Sk9RM3p3SGdsQlFiSXZ",
-   "title": "What Fed Chair Kevin Warsh said about AI and interest rates: 'Interest rates get in the cracks' - MLQ.ai",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0FsWHhZQWRaWE1DXzlGSzVKdllEZkNxWVJCdXFVWU1CbUh3cTZLdjJtYXo3OG5naUZDSkRIcHhwM0tQTnhHNzVTRkxoZ0hHbVZKaHdsYW9HOHhXcTFqMDJmTUxqSkF5Sk9RM3p3SGdsQlFiSXZsejZ0OGxscDIzQ2ltYkF1c0p1eGVhWHpFdWhSS2VJUHhXWUZ6NllVdFlpNVZPbGhXVVZ1Z1RYUkw5bDhSQQ?oc=5",
-   "desc": "What Fed Chair Kevin Warsh said about AI and interest rates: 'Interest rates get in the cracks'  MLQ.ai",
-   "source": "US Fed",
-   "publisher": "MLQ.ai",
-   "scope": "world",
-   "ts": 1794142561000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlhIODNVVkxsMUxVU1Rpa3RhaTNyTURYXzVIQTR6OXJnX281aTlkLUkxNUdyd1BsQXNNaFpael9ZYVd1LTN5WXFjcWJOWjY0Zm0zaVItOVk0UmFzTkxkTFVnTVI0ZTdqenJLdVFyc3NMcFZWY2V",
-   "title": "Markets Are Pricing in a Fed Rate Hike in December. Here's What Investors Should Do, According to History. - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlhIODNVVkxsMUxVU1Rpa3RhaTNyTURYXzVIQTR6OXJnX281aTlkLUkxNUdyd1BsQXNNaFpael9ZYVd1LTN5WXFjcWJOWjY0Zm0zaVItOVk0UmFzTkxkTFVnTVI0ZTdqenJLdVFyc3NMcFZWY2VMUDk3NER4d0V6U3pQV0wwUlZaVzFVeURXa1MwbENXYjNoRHZn?oc=5",
-   "desc": "Markets Are Pricing in a Fed Rate Hike in December. Here's What Investors Should Do, According to History.  Yahoo Finance",
-   "source": "US Fed",
-   "publisher": "Yahoo Finance",
-   "scope": "world",
-   "ts": 1794132240000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOLXUzMmdlQVB6Um1EWjloa0lzaEFvbUhUNjJhMjI3bTk2RUpuRl9GRjB2Qk9HN1F2dW5VRldTMXB5bWtyWmRnU3dVS1VoRFlqZTZiU3JGY0ZmUldWLWs2cFljUW1ka01XRUQ4STFPSVJNNUQ2Rml",
@@ -950,16 +1150,6 @@
    "publisher": "ET Now",
    "scope": "india",
    "ts": 1794127291000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOajVLcUVkaFZjT3ZNdm02b0RURTBfVFl3S1htQnF6RDJnWEVRRGgyZWhSVzkwN3VBeVlIc0t0UndNdzVNUGNaTEpweXZlSkl3NEFlcjdqLS0yR3d3QVh2QkZfNzluTE4zMnNWbTZPM3VLSEc4VV9",
-   "title": "If the Fed Raises Interest Rates in December, I'm Making This 1 Investing Move - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOajVLcUVkaFZjT3ZNdm02b0RURTBfVFl3S1htQnF6RDJnWEVRRGgyZWhSVzkwN3VBeVlIc0t0UndNdzVNUGNaTEpweXZlSkl3NEFlcjdqLS0yR3d3QVh2QkZfNzluTE4zMnNWbTZPM3VLSEc4VV93VUU3amhqNV9YV3F0YlNlWTFUaFRGeTQyaW5kSHg0OWxaaGNkelIwRlB4?oc=5",
-   "desc": "If the Fed Raises Interest Rates in December, I'm Making This 1 Investing Move  Yahoo Finance",
-   "source": "US Fed",
-   "publisher": "Yahoo Finance",
-   "scope": "world",
-   "ts": 1794122400000
   },
   {
    "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPX2JtcjlQd2s0ODFwUDBGVE5qMzdoU2lCNVNjZUJBenE2Wm5vd1BfWTNOWWNGa2JLZ2Zkd3dnS0J6MVVvbFhUWEZlVW5BekZKWFNuSzZ6ckRxc3c2b3Y5NjNVcUlXSXBCY0RoaHBJVEpXbGE4cjh",
@@ -1010,196 +1200,6 @@
    "publisher": "Bankersadda",
    "scope": "india",
    "ts": 1794108601000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZmdRbmc4U2U4cEJiTjc4UzNBYWtvVld0ZUJtTVV0NmE3N1RJQVdVVkhxakZhZVdsaHlocUZkaUEzODhiWTRWOGxzOUNtV2k1UW41UkNjS1FkV25yNDBEWElYYUtHYWhKSkdscG9SQ0dkN1QyMTI",
-   "title": "RBI Tightens Cybersecurity Rules for Payment Firms - News Karnataka",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZmdRbmc4U2U4cEJiTjc4UzNBYWtvVld0ZUJtTVV0NmE3N1RJQVdVVkhxakZhZVdsaHlocUZkaUEzODhiWTRWOGxzOUNtV2k1UW41UkNjS1FkV25yNDBEWElYYUtHYWhKSkdscG9SQ0dkN1QyMTI3M0dLWG53YzZfbTMxVVBwVmk5cnlWTmlZQmYzQndJd0FEbFRMZw?oc=5",
-   "desc": "RBI Tightens Cybersecurity Rules for Payment Firms  News Karnataka",
-   "source": "RBI",
-   "publisher": "News Karnataka",
-   "scope": "india",
-   "ts": 1794107102000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd0Jfa2lSQy1JbW42WmU1Zk9Ec3hWOEhWek1UekQ1TjU0Vk8tZVhmSGFsY3p3a3VvVWNOY0dEUmowSmxyTHZTeTdXYnVTcXdJWEZkSEZHdmtRazJOSjgydFFNOTRrTGYyWlhZaDg0alFzRUN2eE4",
-   "title": "IMF Warns AI Investment Slowdown Could Complicate Global Interest Rate Decisions - Sada Elbalad English",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd0Jfa2lSQy1JbW42WmU1Zk9Ec3hWOEhWek1UekQ1TjU0Vk8tZVhmSGFsY3p3a3VvVWNOY0dEUmowSmxyTHZTeTdXYnVTcXdJWEZkSEZHdmtRazJOSjgydFFNOTRrTGYyWlhZaDg0alFzRUN2eE43VU5PUHhyLXQwSjhwM0xxSTlxRUwta3BiYlh3Sld6WlZoOWtQMU9DZw?oc=5",
-   "desc": "IMF Warns AI Investment Slowdown Could Complicate Global Interest Rate Decisions  Sada Elbalad English",
-   "source": "IMF / World Bank",
-   "publisher": "Sada Elbalad English",
-   "scope": "world",
-   "ts": 1794079801000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVWItNTFNcElYdGpsN0MyY3Znd051S2VhM1YzSVZuak1udnBCeUVPc29Fc0tiYm1yQkdPcGtHV0o0MUtxMVJDYktFNG1Yb2ZuLVhrVDlCSlBiZ0xYc2JhdVFfOEhnN2NmRXBSN3N2cGk0dzVFWl9",
-   "title": "\"Fake\": RBI Dismisses Claims Of New Cheque Book Rules From January - NDTV",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVWItNTFNcElYdGpsN0MyY3Znd051S2VhM1YzSVZuak1udnBCeUVPc29Fc0tiYm1yQkdPcGtHV0o0MUtxMVJDYktFNG1Yb2ZuLVhrVDlCSlBiZ0xYc2JhdVFfOEhnN2NmRXBSN3N2cGk0dzVFWl9ZNHYzaEswb2dSYkJRcy1BWEM0QkxuYzZMYjNLbU5nRXB5cDl0UTE3YUQ3eWRoZlRXd9IBrwFBVV95cUxNZHRCckRjVXZUblZnREdNNmtXU0VaRE43d3QtQXJsX2ZUWHV5bzZOOEZXcE56UC02LTYxRGVnek45Qmh5X2M3c2s3c2dCbE81U0lxSHIyaGZsSGpZbkdrTXl5SVV4eWkya0JsUEJySDY2aUZOQkRtX1dxeldJdDdoeXZtOVh0cGxVZXR0b3dtczRKMWN5ZDFRRUdYSWhLMjZ3N3JlbnJWSWVIb3RNeF93?oc=5",
-   "desc": "\"Fake\": RBI Dismisses Claims Of New Cheque Book Rules From January  NDTV",
-   "source": "RBI",
-   "publisher": "NDTV",
-   "scope": "india",
-   "ts": 1794075656000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbXFBUDdYQ2FkcXF6aUhTekM3OVJrYzRKN1NvMFZ2NGJlOVRQMC1TaWVFNjJYQkt2czZUSWRhUFV4eFlwRTF3Wjl1YjljQ1BKMThWTllTUFlOTGZsdXpkcUVlVUFfS2I3WGJhV3AzaHNvR21ZUzd",
-   "title": "No new cheque book rules from Jan 2027: RBI dismisses social media claims on new CTS cheque book rules - India.com",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbXFBUDdYQ2FkcXF6aUhTekM3OVJrYzRKN1NvMFZ2NGJlOVRQMC1TaWVFNjJYQkt2czZUSWRhUFV4eFlwRTF3Wjl1YjljQ1BKMThWTllTUFlOTGZsdXpkcUVlVUFfS2I3WGJhV3AzaHNvR21ZUzdLQnk4dmltb2ctelUyWUkxdkV5X1FNbGxneTlSb1VNenlxOW9FLXFHRGpad3lYeVZ1R2I2YkJvUXJ0R1ViNkk0RnQ1TlRZRkVsVWZRWWF3MVZTc1BtZUJjRmFGQ0N4VTBVT3XSAd4BQVVfeXFMT0pOZjVENVlIdk9CR2x6THRFTGY5eS1fU01mTlJmdVpVa3RFdDhHdzhJX3RxUjJCX0FHTmNEYTBfSUUxMkJQZTU2cVlCY1BIZXExN3VGUUdtMXA1MkJxa2xZdWVSQnpXTlN0LTZmRzVIUTY1LWhBV3Jyck5KcnZLY21mYUktWWVXNDZHaGFpSlZRYTVqajgwTy13TDVtdm9ud2JwdDJYbEM5Qkw5bmpnMzN0Vkc2aFhiTFpvNk1UZF9qTGd0NmMxQjZFTEZBUGoyZTBydVM4NFIxV0FweUFR?oc=5",
-   "desc": "No new cheque book rules from Jan 2027: RBI dismisses social media claims on new CTS cheque book rules  India.com",
-   "source": "RBI",
-   "publisher": "India.com",
-   "scope": "india",
-   "ts": 1794075103000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNekhLaWtnc0FpZkRINzI4a253ZmpqekltcW5mWTFkVURrX1VCUjVFUkFnQmVadkFFbFZUX0xBWVBIVDVrZ1BQbG9JNGp0VmxndDRSSmJlcU1TdmFaYVpiTld4WFpCaU5oUEF2U1YyRDc0X2l1TWd",
-   "title": "IMF calls for tax systems to adapt to the spread of AI — The Rio Times - UA.NEWS",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNekhLaWtnc0FpZkRINzI4a253ZmpqekltcW5mWTFkVURrX1VCUjVFUkFnQmVadkFFbFZUX0xBWVBIVDVrZ1BQbG9JNGp0VmxndDRSSmJlcU1TdmFaYVpiTld4WFpCaU5oUEF2U1YyRDc0X2l1TWdvMTdKR2lobEdHdkpyRVpGbUFiejJvRVpNM1ZMQ01iZkpwN0ZrbVRGcWhlMkRBN1pCNXBnc0U?oc=5",
-   "desc": "IMF calls for tax systems to adapt to the spread of AI — The Rio Times  UA.NEWS",
-   "source": "IMF / World Bank",
-   "publisher": "UA.NEWS",
-   "scope": "world",
-   "ts": 1794072260000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUGNxY2xRU0hHZ0o4MnZvWHpKMDVMMjVScm9ERmNlS3BTX2dFNjJLam82YlhnNF9KbEpOVnRtZ25wODh1STBPcDRfZWNsYmFyT1E1R0dtRkdkUkdzY1FUVE9fVjdVVFlWc3RrcU9hWGtQbGVvcXl",
-   "title": "IMF Warns AI Investment Slowdown Could Cut US GDP 1.8% by 2028, Complicating Fed Rate Decisions - Coinpaper",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUGNxY2xRU0hHZ0o4MnZvWHpKMDVMMjVScm9ERmNlS3BTX2dFNjJLam82YlhnNF9KbEpOVnRtZ25wODh1STBPcDRfZWNsYmFyT1E1R0dtRkdkUkdzY1FUVE9fVjdVVFlWc3RrcU9hWGtQbGVvcXlRazBfaVR3d016NjQwNGFqM0lfYkpPeGQ1cVNnRjhoOTVMYUhJOHp1dHBMWnlxbTNOUFo5cXhwZjMzT0NHb2ZaMF9nc3lFZC1B?oc=5",
-   "desc": "IMF Warns AI Investment Slowdown Could Cut US GDP 1.8% by 2028, Complicating Fed Rate Decisions  Coinpaper",
-   "source": "IMF / World Bank",
-   "publisher": "Coinpaper",
-   "scope": "world",
-   "ts": 1794070642000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONk5qUkR0a1ZzUXFmc29Fd2UzZDlwLU9BVHV4Yy1iMFZqazZBbVNKX2dXd0hWbWx2MVlra2xnSEJxSmljaVNPYW9wdFFvVnpDYm40OEpwX0tmdERTTldraHZIVGx1cnNaZzl1cWFwS0UzcGdNek9",
-   "title": "RBI Cheque Book Rules: Will your existing cheques become invalid from January 1, 2027? Here's the truth - ET Now",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONk5qUkR0a1ZzUXFmc29Fd2UzZDlwLU9BVHV4Yy1iMFZqazZBbVNKX2dXd0hWbWx2MVlra2xnSEJxSmljaVNPYW9wdFFvVnpDYm40OEpwX0tmdERTTldraHZIVGx1cnNaZzl1cWFwS0UzcGdNek9Xc1hac2xqbm1zU000QWc3aGVIRDEzV2hkRDAtY1VsYVZJc3N2SC03VER6R3pBME1TT0pPQjg1UkI5SzVKSVM5QU5UcC0zbi1LYlcybmNjNFhFaVo4M25iSlgxMVNaV1pIMTV3OG00MWlUM05B0gHnAUFVX3lxTFA1NjAxRTU1SXF4MWdSNmN3UXJpWUtPZjJlSEVxZzVmUVVJMnZtczU4X3g5RFRCdURjZ0pvaUJFNDlXRzhnTzVLOFY1WjVsRzc1endvaV96dV8wS2lSanBock1mWklEQjBZU0hHcXRJZ1ZYUXFweENYeUNzVWdTSDdYNi04cENKQUdNNWpMZV9ad21FV0dZNkxUWmlXbUJMb1BCYTZvQndxekNtSnVfRWJzM2h0b1AzU2dlWTlubGxxRFJSVTJFWkpWNXpLeWwyUjM3RU9vQXVqVXd4OVMwQndMRHI3T3hiTQ?oc=5",
-   "desc": "RBI Cheque Book Rules: Will your existing cheques become invalid from January 1, 2027? Here's the truth  ET Now",
-   "source": "RBI",
-   "publisher": "ET Now",
-   "scope": "india",
-   "ts": 1794070563000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hSFU3M0l5aUhraE1OVXJFODRGdjdfX2V2bU1EUTg2S3BRNFh0clNoM2hiLW95TUh4MkJsTWVEM1A3RWY5aGl1eFRnQnlZMTdMbUZGc2NvVHZoTnRGNjk4d19lQ2ViMDhIS1E?oc=5",
-   "title": "RBI debunks fake claims of new cheque book rules from 2027 - Daijiworld",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hSFU3M0l5aUhraE1OVXJFODRGdjdfX2V2bU1EUTg2S3BRNFh0clNoM2hiLW95TUh4MkJsTWVEM1A3RWY5aGl1eFRnQnlZMTdMbUZGc2NvVHZoTnRGNjk4d19lQ2ViMDhIS1E?oc=5",
-   "desc": "RBI debunks fake claims of new cheque book rules from 2027  Daijiworld",
-   "source": "RBI",
-   "publisher": "Daijiworld",
-   "scope": "india",
-   "ts": 1794069689000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWTJORTFmbW9ESmpOS2FmaHFLbzNENE9KQTRRdDBlcU1uVzlGNE5OYWU4YkY0VFBQNGFnUVBSWWZXZkRLMVhDWFBEbzV3UTVIVG80UGdnVk5BOVR5SVc4djdTeGE1T3AwWmJFbWRjR25OaGVpMTF",
-   "title": "IMF Managing Director: Risks of slowing AI investment must be considered when deciding on interest rates. - Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWTJORTFmbW9ESmpOS2FmaHFLbzNENE9KQTRRdDBlcU1uVzlGNE5OYWU4YkY0VFBQNGFnUVBSWWZXZkRLMVhDWFBEbzV3UTVIVG80UGdnVk5BOVR5SVc4djdTeGE1T3AwWmJFbWRjR25OaGVpMTFjSHZlZS1uQnVoaVkwcnEtNjNGWVJseVZ5RHUzZFhmWnRiTGRoUzYxTUJuZHBsQ1FxTndEQQ?oc=5",
-   "desc": "IMF Managing Director: Risks of slowing AI investment must be considered when deciding on interest rates.  Vietnam.vn",
-   "source": "IMF / World Bank",
-   "publisher": "Vietnam.vn",
-   "scope": "world",
-   "ts": 1794053564000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHpZOVU3cmtNNmpNY01SY3RTQ0xFNW82ZkNnQ1NhT3dteFl3RTV4RWltTnR2Z2RneWFQbk1YRDVjSFpfRVE1OEdSV2NJZm0zVmpuNjk5Yl91Uk5PT3NYdEtrbDEzNzlpdGhvdC1sVlRiX3draHF",
-   "title": "RBI Consolidates Cybersecurity Rules, Prescribes New Safeguards For Non-Bank Payment Firms - NDTV Profit",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHpZOVU3cmtNNmpNY01SY3RTQ0xFNW82ZkNnQ1NhT3dteFl3RTV4RWltTnR2Z2RneWFQbk1YRDVjSFpfRVE1OEdSV2NJZm0zVmpuNjk5Yl91Uk5PT3NYdEtrbDEzNzlpdGhvdC1sVlRiX3draHFqNnJhdVVBWDVBSEs0VUhMNFRIWXhPMFJPNlRrdm5udjB6amtkbWxvTzJ4aEtDQWsxS2QzNjAyVHhtWGxVR1pPc2ZZWGRMdnRzUklLdFZ5OWE1eE4teDd4SUHSAdcBQVVfeXFMT3M5Ym5EUEoxTDMzdnRLUzhVU2VBeVcwUkVFVUZnUXRyZXcxS190ZWh3dFF3WGllQjBSMkhZMlpRcTc1UFFrdi1PTndsT1NfN253dWVldVJhUDU4TURibWtSVmUtV3VCWjFLTXBBOVZiTW9XcWQ4NDEwSXZfaHNndV92ODFTeWI4YzZnV1ZjN3AwVU9vZ2RmMnpOY0w3ZW5tNnl4V2pWY29WLTA5VmN0TWlYeXd0RjhPZTZpdTA3elBha0tOUXhralRLRGlNT2ZfS1lHOE9Xbjg?oc=5",
-   "desc": "RBI Consolidates Cybersecurity Rules, Prescribes New Safeguards For Non-Bank Payment Firms  NDTV Profit",
-   "source": "RBI",
-   "publisher": "NDTV Profit",
-   "scope": "india",
-   "ts": 1794052735000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMUlTLXpLSlhvcVN3eU9ETWwwRU9qX3c4eUstTTJWbXNUazhhRDB5SW5OX0FxSGZzeXlKcmFPYXI3SzEtNFFnZk1RT3VRUFl1bmg0WE9HZ01SVUtHcV96OGRmRVFhVnBnZzRENGF2OERrYWZodVp",
-   "title": "Hindustan Coca-Cola Holdings files draft papers with Sebi for IPO - Business Standard",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMUlTLXpLSlhvcVN3eU9ETWwwRU9qX3c4eUstTTJWbXNUazhhRDB5SW5OX0FxSGZzeXlKcmFPYXI3SzEtNFFnZk1RT3VRUFl1bmg0WE9HZ01SVUtHcV96OGRmRVFhVnBnZzRENGF2OERrYWZodVpOOV9ycjhzeXpZUmRDVTlOU2hDbERkQUMzVWdCcENaS2UyU3gzczd3bENlY29MQjdpY2VpWkUwT0JBUXplYmZRZ3RueUVWZC1IMDdCTmROWHd0SWFsNNIB0AFBVV95cUxPMjJnVG9CS2EwOVZ5eFR5ZXBrRmNsQzFKUEx2Q25vWkQwbkc1NUtLYW50Mno2aFBuZER0MjkwV0VqXzNpdVgtdU5tMVZEc295RGpVZnJLUDdaQ0VvVnJpWmtTakg0WTFqMzA1S0l2QnkwTG0zV2VrRWdlWW1qZXBNRzFYMGJ1Z3hCWlBNTkZDV2NyYzcwMmlOZGVDdFJYaWtnQ0hDYmxGTkc2RFpqcU9EVFhYcW81UEVRNVZqUjNkS0ZneWJKYUVfWkZMMHVQcDhY?oc=5",
-   "desc": "Hindustan Coca-Cola Holdings files draft papers with Sebi for IPO  Business Standard",
-   "source": "SEBI",
-   "publisher": "Business Standard",
-   "scope": "india",
-   "ts": 1794044629000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2pxUGpzYzVDOGluNWxjLUQtWmVVWVNma0hLMFVJZXc2VlJVMlR1b3IzVVl2VjFtcVFXaDNNTnlaOWduQzdFUFlLaHpiUzVQZF9Ndm5rTlNPSHRvYUdpTEhnOTBTYmZRTGNPb2hNUURzY3dhQmh",
-   "title": "Hindustan Coca-Cola Holdings Files DRHP With SEBI To Raise Funds Via IPO - NDTV Profit",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2pxUGpzYzVDOGluNWxjLUQtWmVVWVNma0hLMFVJZXc2VlJVMlR1b3IzVVl2VjFtcVFXaDNNTnlaOWduQzdFUFlLaHpiUzVQZF9Ndm5rTlNPSHRvYUdpTEhnOTBTYmZRTGNPb2hNUURzY3dhQmhDb0RONm9Ud1ZJeU52akdZNjdEYm5EWno5VXZOb01Wcy1RRldRdEszak5oTTJMUE1mZ2c5b3lCVzFUT184RlZCVknSAb8BQVVfeXFMTjRSaHJjU3Zrc25YOWZUU1RKOU1oekg1WHVYR1l5VGJRaUEwTjdVd2x1YkxTMEJESHNUeDEyNGlHU2R6eGl2aHNsdGM1RXNwbWRaUElqYTdOX1lrOU9xZERxTGlhcTNtX1RlcmpHWjFTWGtjTWV4MjhBR01kcEs5dHNRUklaQ01INTdnTlRxT2dwcm41bkkxMk5EdldHMVpLUzJJWVJ5aS05ODRFdkFpZHZDQ285YXBlQ1lLSWVHSms?oc=5",
-   "desc": "Hindustan Coca-Cola Holdings Files DRHP With SEBI To Raise Funds Via IPO  NDTV Profit",
-   "source": "SEBI",
-   "publisher": "NDTV Profit",
-   "scope": "india",
-   "ts": 1794043091000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPbjZVMGhJRHRfVk5OcERKUTBpaDNuaEdZbXg4YTlTTnlha2Q0OHM2Vm5KcHlkdlBSLVlrdFVIRFFoS0oyWVQ1Um9uaDFibkk1djVvX0IzNnpfdldXaDVlTG51VDlydFhGcVphbGxSN2FFcXFNeE5",
-   "title": "Gold-backed agriculture loans: RBI proposes changes to priority sector lending rules; what could change for borrowers - Livemint",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPbjZVMGhJRHRfVk5OcERKUTBpaDNuaEdZbXg4YTlTTnlha2Q0OHM2Vm5KcHlkdlBSLVlrdFVIRFFoS0oyWVQ1Um9uaDFibkk1djVvX0IzNnpfdldXaDVlTG51VDlydFhGcVphbGxSN2FFcXFNeE5Od29IYmdGQWxPVFdQTTcwQ0JLcUxjdGpIU2E4R0pKYWtZTHNmdHpsZzRnUjhwb0hlZUFBTmJsaE5Zbk5EVkp0MlZEWDdlY3JyNVVDc0tzdmFqOG5DeHVnaTBuQzdDREFlMjZPaGtfTmx3TGg0MExEYWpBWjJmcFhxRUNqelJ2TFVoaXU2WDRnNXFXLVN3dEFMVzc0WWg1X0Fj0gGUAkFVX3lxTFBGdXZzWDB3MC1tc1NKdjhwSUZIeGdQcXdzU3NZekRnYzJJaVdycVVhOTdON3EzZ1BaTzBTNDU5YmZVVTU4WThLTWRLQWp5VkpXVnZUVU9sTVlLMi1oLWQ5MmpsSEtuQk8zbllRLVd2OV9vSDdmVU5SaEJ2SlpJaS1HNmQ4SXBaNTN0Q0w0YndMUEg2UUpCaHpvWUs5dERUNnd3MmI0NnBWVW1EYnY2SnY4UWlYUnB4VEMzSm5TWmhRa3YtUFJKb3FSaERzWjdUNjNpQmhzd1ptbHB4Yl93aDZIeFNfNVladWVjZVZ1NXVMY05yb0I0c2VGR0ZEQWJqd1FqenhmQjlmR2psVUtMRWxCNVRqZQ?oc=5",
-   "desc": "Gold-backed agriculture loans: RBI proposes changes to priority sector lending rules; what could change for borrowers  Livemint",
-   "source": "RBI",
-   "publisher": "Livemint",
-   "scope": "india",
-   "ts": 1794041914000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbDJPTFJJaTZuNUp2LWl3QkhKdzFYeUs4SW9IOVNwVWt1NG5BTnhlWmZ0OGlRYnZ6akJRWjI1T01mQWctaFBCWnhKMGxMOE14bTFjTUdyVVkyVU1EQ3JkZ3FZOUhVUFR2TF9FalpUOEw0dWN4Q0Z",
-   "title": "IMF urges Ghana to sustain reforms amid rising domestic and external risks - GhanaWeb",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbDJPTFJJaTZuNUp2LWl3QkhKdzFYeUs4SW9IOVNwVWt1NG5BTnhlWmZ0OGlRYnZ6akJRWjI1T01mQWctaFBCWnhKMGxMOE14bTFjTUdyVVkyVU1EQ3JkZ3FZOUhVUFR2TF9FalpUOEw0dWN4Q0ZvQldLcG41TEJuMXZpNkFTanlFRjBWR2JDTVQ3ZTRLTV9PRUJWbkxVX2t0TV9VaURidkFPdDRmcTVRWnN6Q2NGdW1QOW5PN3hVQ0sxZlFpSnZHS3RR?oc=5",
-   "desc": "IMF urges Ghana to sustain reforms amid rising domestic and external risks  GhanaWeb",
-   "source": "IMF / World Bank",
-   "publisher": "GhanaWeb",
-   "scope": "world",
-   "ts": 1794038688000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PVHlGU0Y4OHJUa3YtS3AweEI0N0gxejdiLXRFaUcxMTItTFRoV3Z1NDFxZnZJRkdZNUlITTZyTVBLZHhtOGdfaUdUZ0RsRzdBb01xRHdvUWVQbjc5aTNV?oc=5",
-   "title": "IMF flags AI risks as slump could leave 2028 global GDP 1.1% below forecast - Nation Thailand",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PVHlGU0Y4OHJUa3YtS3AweEI0N0gxejdiLXRFaUcxMTItTFRoV3Z1NDFxZnZJRkdZNUlITTZyTVBLZHhtOGdfaUdUZ0RsRzdBb01xRHdvUWVQbjc5aTNV?oc=5",
-   "desc": "IMF flags AI risks as slump could leave 2028 global GDP 1.1% below forecast  Nation Thailand",
-   "source": "IMF / World Bank",
-   "publisher": "Nation Thailand",
-   "scope": "world",
-   "ts": 1794036840000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPbVBFcV9LN29sN28xV3lWT2xuMVVJbllYZHFmZ19xc3BSQmIxZEZSX2Jfak0tNmVmVGVVcEZUTnFDckd5QXJnV0lxVzdWWjVYeF9tVFJLeXctbEFRSHVFcm4ybzBMUFlPWFBpZzhNOW9DZHB5Q2V",
-   "title": "Gold loan rules 2026: What RBI changed on loan eligibility, valuation, repayment, and auction of pledged gold jewellery - Livemint",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPbVBFcV9LN29sN28xV3lWT2xuMVVJbllYZHFmZ19xc3BSQmIxZEZSX2Jfak0tNmVmVGVVcEZUTnFDckd5QXJnV0lxVzdWWjVYeF9tVFJLeXctbEFRSHVFcm4ybzBMUFlPWFBpZzhNOW9DZHB5Q2V1ZkRmeVg1VDV5cWNrd2g4TlJ3SWZOd2tJbTR4TzRMWWhRMnAtSjFkdUViVzc2Mk42bmtFMVpYSlpYQk1MRTZJVzhQeXUtNVhiaExGM1A5MDJSNERpM0JJMEhLbkluTUF3UGlCVG5rTnpyRjFVVVZQWWtvQkJkQjJOVjlRVnFRMG5CUlB3WndxT1N2U1V5TDJiWmlkMGxWbWFDY9IBlgJBVV95cUxQVUwydEpFRzBOeE8zQkNNekwyZWVDemJCaDhUeTR1SW9EQkgtVWY4QnZVaGFIQ2tLUDlEN0FnWE1najhzcHpCbEFmalRaVlh5bE5zRWhWX3oxU2JmLXo2QVhpQkFXU3doU1U0dEpMWXBzRDg0dExLX2NfVmN2ajhBdnhjb2dEVlpoTmFXbXlZdnM5ckhCUmdNWW1JTVNyY3c1QkNXSzF6Y3NBWTUyVnA2WGtnZUkzc2tna1lxRGpqRTlnN2RHSHRRZXRLMW1TQWNHX3JON1diVWM1VTk2QkhzbWdORUFzMEFPWmNZNzhPWTlXeVNKeWFUUTMxY2VGQ29YdVRlQUlQWmtPRnMtNFRvY3ZoWHYzdw?oc=5",
-   "desc": "Gold loan rules 2026: What RBI changed on loan eligibility, valuation, repayment, and auction of pledged gold jewellery  Livemint",
-   "source": "RBI",
-   "publisher": "Livemint",
-   "scope": "india",
-   "ts": 1794032600000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdHZGdFlZdUlMemItbVBTVnVvb2ItN0Z4eWVGTU9XMlJZams1MFVRTi1Bakp1ZUx6NHBLWG4yVDVZQlNvQ3ZpbVZmLWFzQWs4YVhoT0lrUHlNbWVacVU5NGozNzNIQ1czcEtOSGFOMWlFYmlGemF",
-   "title": "Can Asia-Pacific Close Its Tax Gap? IMF Outlines Reforms to Boost Revenue and Protect Families - Devdiscourse",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdHZGdFlZdUlMemItbVBTVnVvb2ItN0Z4eWVGTU9XMlJZams1MFVRTi1Bakp1ZUx6NHBLWG4yVDVZQlNvQ3ZpbVZmLWFzQWs4YVhoT0lrUHlNbWVacVU5NGozNzNIQ1czcEtOSGFOMWlFYmlGemFXZmFpRWVoY1Z0RlVZdzlFemN5OHJ6NFdZTTd5ZEpHMTdFUmJzbW41eDk1ZTZMa0xLeVRKU3lZdWhscmxLbVR5Rk1kLXBCd3JKaFo5NHh3Znpja0tfRG1vUERQbjEzTDNDUXFtaHNJ0gHiAUFVX3lxTE1ra2NrZTZYWEVSMDdNbGNJbjBFNGtlZ2xHWnU5MWJzYW9CX0loRWpOczRBa3pwMm9SWW1JZzRubjQwanplNGE2M2ZLWjNmRnJYM3hLa3BZaFJfc2FqNGhoVHo0RjJPTG5QMkJZQlhpc2Q3UHFBSDVaVzhxeFNNZnlVVVJVSDlpUklIYmliZXF6ZmFncmFDU2k0UXdMMUU0OGxhUG11WUYxUmpPNFV3b2VxaU9HdXpCaUF0Qm92UjhlYVZYUkJ3N2FrcnJQSnFhN3ZLdjNqMlJMZUg2bVVKZUNtY0E?oc=5",
-   "desc": "Can Asia-Pacific Close Its Tax Gap? IMF Outlines Reforms to Boost Revenue and Protect Families  Devdiscourse",
-   "source": "IMF / World Bank",
-   "publisher": "Devdiscourse",
-   "scope": "world",
-   "ts": 1794024141000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLURWTGdXUnAxczdWTW1sd2tMaHlya2VVajdkWEd6UFdOWGc1QlcyMFhiWFFUakNpS0hUNWZMMW9zeWl3cTN2dENoRFpoMGhoTFhCWlJKQ1M1R1FzbGVVZXRxRlplWmZ2a0I0ZFJRZW1fLTgzZkl",
-   "title": "World Bank, IMF recognise Tinubu’s reforms, $1tr economy within reach — Yilwatda - The Guardian Nigeria News",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLURWTGdXUnAxczdWTW1sd2tMaHlya2VVajdkWEd6UFdOWGc1QlcyMFhiWFFUakNpS0hUNWZMMW9zeWl3cTN2dENoRFpoMGhoTFhCWlJKQ1M1R1FzbGVVZXRxRlplWmZ2a0I0ZFJRZW1fLTgzZklsdXBUSjl3SDNmcVNhNWF4amZIWk5lcmVMYmlpTnlzWHZaOWJib2loNE8zUnc?oc=5",
-   "desc": "World Bank, IMF recognise Tinubu’s reforms, $1tr economy within reach — Yilwatda  The Guardian Nigeria News",
-   "source": "IMF / World Bank",
-   "publisher": "The Guardian Nigeria News",
-   "scope": "world",
-   "ts": 1794020448000
-  },
-  {
-   "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeTJPc0R3VmpRQkNCSm9WRFJSYXU4Rk50cHZ3NHE3R3E3OG5uVlpOaHE5cV9fNlpieElMa2RmdWxhME4xX0I0ZnpXMzJlemJNVlpacFp2UkNfNHlJaXRkM0F6dHpsUzdXT1h6U3NtemNLMG9NMzN",
-   "title": "RBI's new cyber rules could raise the cost of doing business for payment companies - bfsi.economictimes.indiatimes.com",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeTJPc0R3VmpRQkNCSm9WRFJSYXU4Rk50cHZ3NHE3R3E3OG5uVlpOaHE5cV9fNlpieElMa2RmdWxhME4xX0I0ZnpXMzJlemJNVlpacFp2UkNfNHlJaXRkM0F6dHpsUzdXT1h6U3NtemNLMG9NMzNpMU5oekh0bXU5SFRyZHpUd2NhbEtxSFFsNTdMTi0zeEdjMnFPTzB1MnZiNlEzM25pNGxrWUVXNFRkQmZwdWpNUUJZUUUwQ2dieFFidW9SUmpfdmFVem9EWGxjSEEzVXBDNWlpQdIB3wFBVV95cUxQTk0wU0lmd0E1dDJ6LXJqWEx3ZW1COV9uVzlLSzFNQ25zZ1BiZDRrRlZ0WXJhbDVUczluaDZ4LVlvX1BVa1UxWTlnMWNLaGNZT2RpTVhNRjRkcFZhY1RwVFF0SzFQNU9vOVJsYTE5elV4eGd3TkZWRGQ4blVSS3htakQ2TWpOaGxzX3J2b19HTUphU1ZxZU92OFd2bms2cmotZlZyQ2RZWjU2cTAzczdQZThOd1AtX3pIbGRRSTQ1aDBoOFdBdURVNm5meERvRjBnUXZWV1gyR2NoTklPWVBZ?oc=5",
-   "desc": "RBI's new cyber rules could raise the cost of doing business for payment companies  bfsi.economictimes.indiatimes.com",
-   "source": "RBI",
-   "publisher": "bfsi.economictimes.indiatimes.com",
-   "scope": "india",
-   "ts": 1794018295000
   }
  ]
 }
